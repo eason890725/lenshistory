@@ -219,89 +219,79 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2">
-            {/* Core Specs / Optical */}
-            <div className="border-r border-white/5">
-              <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{isLens ? t('optical') : t('sensorType')}</span>
-              </div>
-              {isLens ? (
-                <>
+            {isLens ? (
+              <>
+                {/* 1. Imaging Core */}
+                <div className="border-r border-b border-white/5">
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('imaging')}</span>
+                  </div>
                   <SpecRow label={t('focalLength')} value={isPrime ? `${gear.focalLengthMinMm}mm` : `${gear.focalLengthMinMm}-${gear.focalLengthMaxMm}mm`} />
                   <SpecRow label={t('maxAperture')} value={gear.apertureMax ? `f/${gear.apertureMax}` : null} />
-                  {gear.minAperture && <SpecRow label={t('minAperture')} value={gear.minAperture} />}
-                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
-                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification ? `${Number(gear.maxMagnification).toFixed(2)}x` : null} />
-                  <SpecRow label={t('motorType')} value={gear.motorType} />
-                  <SpecRow label={t('opticalDesign')} value={gear.opticalDesign} />
-                  <SpecRow label={t('specialElements')} value={gear.specialElements} />
-                  <SpecRow label={t('coatings')} value={gear.coatings} />
-                </>
-              ) : (
-                <>
+                  <SpecRow label={t('minAperture')} value={gear.minAperture ? `f/${gear.minAperture}` : '--'} />
+                  <SpecRow label={t('motorType')} value={gear.motorType || '--'} />
+                  <SpecRow label={t('maxMagnification')} value={(gear.maxMagnification && !isNaN(Number(gear.maxMagnification))) ? `${Number(gear.maxMagnification).toFixed(2)}x` : '--'} />
+                  <SpecRow label={t('closeFocus')} value={gear.closeFocus || '--'} unit={gear.closeFocus && gear.closeFocus !== '--' ? "m" : ""} />
+                </div>
+
+                {/* 2. Optical Performance */}
+                <div className="border-b border-white/5">
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('optical')}</span>
+                  </div>
+                  <SpecRow label={t('opticalDesign')} value={gear.opticalDesign || '--'} />
+                  <SpecRow label={t('specialElements')} value={gear.specialElements || '--'} />
+                  <SpecRow label={t('coatings')} value={gear.coatings || '--'} />
+                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm === 0 ? "後置濾鏡 (Rear) / 前組不可裝" : (gear.filterSizeMm || '--')} unit={gear.filterSizeMm > 0 ? "mm" : ""} />
+                </div>
+
+                {/* 3. Key Features */}
+                <div className="border-r border-white/5">
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('features')}</span>
+                  </div>
+                  <SpecRow label={t('ois')} value={gear.hasOIS === true ? tc('yes') : tc('no')} />
+                  <SpecRow label={t('apertureRing')} value={gear.hasApertureRing === true ? tc('yes') : tc('no')} />
+                  <SpecRow label={t('customButton')} value={gear.hasCustomButton === true ? tc('yes') : tc('no')} />
+                  <SpecRow label={t('weatherSeal')} value={gear.hasWeatherSeal === true ? tc('yes') : tc('no')} />
+                </div>
+
+                {/* 4. Physical & Market */}
+                <div>
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('physical')}</span>
+                  </div>
+                  <SpecRow label={t('series')} value={gear.series || '--'} />
+                  <SpecRow label={t('weight')} value={gear.weightGrams || '--'} unit={gear.weightGrams ? "g" : ""} />
+                  <SpecRow label={t('dimensions')} value={(gear.widthMm || gear.diameter) && gear.lengthMm ? `${gear.widthMm || gear.diameter} x ${gear.lengthMm}` : '--'} unit={gear.lengthMm ? "mm" : ""} />
+                  <SpecRow label={t('releaseYear')} value={gear.releaseYear || '--'} />
+                  <SpecRow label={t('launchPrice')} value={gear.launchPrice ? `NT$${Number(gear.launchPrice).toLocaleString()}` : '--'} />
+                </div>
+              </>
+            ) : (
+              <>
+                {/* Body Specs (Existing Layout) */}
+                <div className="border-r border-b border-white/5">
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('imaging')}</span>
+                  </div>
                   <SpecRow label={t('megapixels')} value={gear.megapixels} unit="MP" />
                   <SpecRow label={t('sensorType')} value={gear.sensorType} />
                   <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
                   <SpecRow label={t('video')} value={gear.videoResolution} />
-                  <SpecRow label={t('logSupport')} value={gear.logSupport} />
-                </>
-              )}
-            </div>
-
-            {/* Physical / Performance */}
-            <div>
-              <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{isLens ? t('physical') : t('performance')}</span>
-              </div>
-              {isLens ? (
-                <>
-                  <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
-                  <SpecRow label={t('length')} value={gear.lengthMm} unit="mm" />
-                  <SpecRow label={t('diameter')} value={gear.widthMm || gear.diameterMm} unit="mm" />
-                  <SpecRow label={t('series')} value={gear.series} />
-                </>
-              ) : (
-                <>
+                </div>
+                <div className="border-b border-white/5">
+                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('performance')}</span>
+                  </div>
                   <SpecRow label={t('afPoints')} value={gear.afPoints} />
                   <SpecRow label={t('burstSpeed')} value={gear.burstSpeed} />
                   <SpecRow label={t('evfResolution')} value={gear.evfResolution} />
                   <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
-                </>
-              )}
-            </div>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 border-t border-white/5">
-            {/* Features / Battery */}
-            <div className="border-r border-white/5">
-              <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('features')}</span>
-              </div>
-              {isLens ? (
-                <>
-                  <SpecRow label={t('ois')} value={gear.hasOIS === true ? tc('yes') : gear.hasOIS === false ? tc('no') : null} />
-                  <SpecRow label={t('apertureRing')} value={gear.hasApertureRing === true ? tc('yes') : gear.hasApertureRing === false ? tc('no') : null} />
-                  <SpecRow label={t('customButton')} value={gear.hasCustomButton === true ? tc('yes') : gear.hasCustomButton === false ? tc('no') : null} />
-                </>
-              ) : (
-                <>
-                  <SpecRow label={t('ibis')} value={gear.hasIBIS === true ? tc('yes') : gear.hasIBIS === false ? tc('no') : null} />
-                  <SpecRow label={t('batteryLife')} value={gear.batteryLifeShots} />
-                  <SpecRow label={t('cardSlots')} value={gear.cardSlots} />
-                </>
-              )}
-              <SpecRow label={t('weatherSeal')} value={gear.hasWeatherSeal === true ? tc('yes') : gear.hasWeatherSeal === false ? tc('no') : null} />
-            </div>
-
-            {/* Release Info */}
-            <div>
-              <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('releaseInfo')}</span>
-              </div>
-              <SpecRow label={t('releaseYear')} value={gear.releaseYear} />
-              <SpecRow label={t('launchDate')} value={gear.launchDate} />
-              <SpecRow label={t('launchSince')} value={gear.launchSince} />
-              <SpecRow label={t('launchPrice')} value={gear.launchPrice ? `NT$${Number(gear.launchPrice).toLocaleString()}` : null} />
-            </div>
+                </div>
+                {/* Add more body rows if needed */}
+              </>
+            )}
           </div>
         </div>
       </main>
