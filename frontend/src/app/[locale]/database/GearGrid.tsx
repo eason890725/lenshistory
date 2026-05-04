@@ -46,14 +46,17 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       // Search
       if (filters.q) {
         const query = filters.q.toLowerCase();
-        const nameEn = g.modelNameI18n.enUs.toLowerCase();
-        const brandEn = g.brand.nameI18n.enUs.toLowerCase();
+        const nameEn = (g.modelNameI18n?.enUs || g.modelName || '').toLowerCase();
+        const brandEn = (typeof g.brand === 'string' ? g.brand : (g.brand?.nameI18n?.enUs || g.brand?.name || '')).toLowerCase();
         if (!nameEn.includes(query) && !brandEn.includes(query)) return false;
       }
       // Gear Type
       if (filters.gearTypes.length > 0 && !filters.gearTypes.includes(g.gearType)) return false;
       // Brands
-      if (filters.brands.length > 0 && !filters.brands.includes(g.brand.nameI18n.enUs)) return false;
+      if (filters.brands.length > 0) {
+        const itemBrandName = typeof g.brand === 'string' ? g.brand : (g.brand?.nameI18n?.enUs || g.brand?.name);
+        if (!filters.brands.includes(itemBrandName)) return false;
+      }
       // Price
       if (g.launchPrice && (g.launchPrice < filters.minPrice || g.launchPrice > filters.maxPrice)) return false;
       // Year

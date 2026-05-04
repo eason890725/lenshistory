@@ -232,6 +232,9 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                   <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
                   <SpecRow label={t('maxMagnification')} value={gear.maxMagnification ? `${Number(gear.maxMagnification).toFixed(2)}x` : null} />
                   <SpecRow label={t('motorType')} value={gear.motorType} />
+                  <SpecRow label={t('opticalDesign')} value={gear.opticalDesign} />
+                  <SpecRow label={t('specialElements')} value={gear.specialElements} />
+                  <SpecRow label={t('coatings')} value={gear.coatings} />
                 </>
               ) : (
                 <>

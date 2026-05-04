@@ -14,8 +14,10 @@ interface CameraCardProps {
 }
 
 export default function CameraCard({ gear, isSelected, isDisabled, onToggle, t, tc }: CameraCardProps) {
-  const name = gear.modelNameI18n?.enUs || gear.modelName;
-  const brandName = gear.brand.nameI18n?.enUs || gear.brand;
+  const name = gear.modelNameI18n?.enUs || gear.modelName || 'Unknown';
+  const brandName = typeof gear.brand === 'string' 
+    ? gear.brand 
+    : (gear.brand?.nameI18n?.enUs || gear.brand?.name || gear.brand || 'Unknown');
   const isLens = gear.gearType === 'LENS';
 
   return (
@@ -120,9 +122,9 @@ export default function CameraCard({ gear, isSelected, isDisabled, onToggle, t, 
             </div>
             {/* Mounts */}
             <div className="flex flex-wrap gap-1 mt-2 border-t border-white/5 pt-2">
-               {gear.mounts?.map((gm: any) => (
-                 <span key={gm.id} className="bg-gray-800/50 text-gray-400 text-[7px] px-1.5 py-0.5 uppercase tracking-tighter border border-white/5">
-                   {gm.mount.name}
+               {gear.mounts && Array.isArray(gear.mounts) && gear.mounts.map((gm: any) => (
+                 <span key={gm.id || gm.mount?.name} className="bg-gray-800/50 text-gray-400 text-[7px] px-1.5 py-0.5 uppercase tracking-tighter border border-white/5">
+                   {gm.mount?.name || gm.name || 'Unknown Mount'}
                  </span>
                ))}
             </div>
