@@ -1,0 +1,18 @@
+# Next.js
+.next/
+node_modules/
+
+# Maven/Java
+target/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.tmp
+
+# Environment
+.env*.local
