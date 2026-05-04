@@ -22,7 +22,10 @@
       "A12",
       "A1II",
       "ALPHA1II",
+      "Alpha 1 II",
+      "Alpha1II",
       "SONYA1II",
+      "Sony Alpha 1 2",
       "SonyA1II",
       "a1 ii",
       "a12",
@@ -44,7 +47,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 1",
+    "modelName": "Sony Alpha 1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "50.1MP",
@@ -60,6 +63,8 @@
     "aliases": [
       "A1",
       "AA1",
+      "Alpha Alpha 1",
+      "AlphaAlpha1",
       "SONYA1",
       "SONYAA1",
       "Sony SONYAlpha Alpha 1",
@@ -91,7 +96,11 @@
       "A92I",
       "A9III",
       "ALPHA9III",
+      "Alpha 9 III",
+      "Alpha9III",
       "SONYA9III",
+      "Sony Alpha 9 2I",
+      "Sony Alpha 9 3",
       "SonyA9III",
       "a9 iii",
       "a92i",
@@ -118,7 +127,10 @@
       "A9 II",
       "A92",
       "A9II",
+      "Alpha 9 II",
+      "Alpha9II",
       "SONYA9II",
+      "Sony Alpha 9 2",
       "Sony SONYAlpha 9II",
       "SonyA9II",
       "a9 ii",
@@ -129,7 +141,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 9",
+    "modelName": "Sony Alpha 9",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "24.2MP",
@@ -145,6 +157,8 @@
     "aliases": [
       "A9",
       "AA9",
+      "Alpha Alpha 9",
+      "AlphaAlpha9",
       "SONYA9",
       "SONYAA9",
       "Sony SONYAlpha Alpha 9",
@@ -176,6 +190,8 @@
       "A7R5",
       "A7RV",
       "ALPHA7RV",
+      "Alpha 7 R V",
+      "Alpha7RV",
       "SONYA7RV",
       "Sony Alpha 7R V",
       "SonyA7RV",
@@ -216,7 +232,10 @@
       "A7R IV",
       "A7R4",
       "A7RIV",
+      "Alpha 7 RIV",
+      "Alpha7RIV",
       "SONYA7RIV",
+      "Sony Alpha 7 R4",
       "Sony SONYAlpha 7RIV",
       "SonyA7RIV",
       "a7r iv",
@@ -244,6 +263,10 @@
       "A7R III",
       "A7R2I",
       "A7RIII",
+      "Alpha 7 RIII",
+      "Alpha7RIII",
+      "Sony Alpha 7 R2I",
+      "Sony Alpha 7 R3",
       "SonyA7RIII",
       "SonyAlpha 7RIII",
       "a7r iii",
@@ -271,7 +294,10 @@
       "A7R II",
       "A7R2",
       "A7RII",
+      "Alpha 7 RII",
+      "Alpha7RII",
       "SONYA7RII",
+      "Sony Alpha 7 R2",
       "Sony SONYAlpha 7RII",
       "SonyA7RII",
       "a7r ii",
@@ -282,7 +308,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 7 R",
+    "modelName": "Sony Alpha 7 R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "36.4MP",
@@ -298,6 +324,8 @@
     "aliases": [
       "A7R",
       "AA7R",
+      "Alpha Alpha 7 R",
+      "AlphaAlpha7R",
       "SONYA7R",
       "SONYAA7R",
       "Sony SONYAlpha Alpha 7R",
@@ -325,6 +353,10 @@
       "A7S III",
       "A7S2I",
       "A7SIII",
+      "Alpha 7 SIII",
+      "Alpha7SIII",
+      "Sony Alpha 7 S2I",
+      "Sony Alpha 7 S3",
       "SonyA7SIII",
       "SonyAlpha 7SIII",
       "a7s iii",
@@ -352,7 +384,10 @@
       "A7S II",
       "A7S2",
       "A7SII",
+      "Alpha 7 SII",
+      "Alpha7SII",
       "SONYA7SII",
+      "Sony Alpha 7 S2",
       "Sony SONYAlpha 7SII",
       "SonyA7SII",
       "a7s ii",
@@ -363,7 +398,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 7 S",
+    "modelName": "Sony Alpha 7 S",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "12.2MP",
@@ -379,6 +414,8 @@
     "aliases": [
       "A7S",
       "AA7S",
+      "Alpha Alpha 7 S",
+      "AlphaAlpha7S",
       "SONYA7S",
       "SONYAA7S",
       "Sony SONYAlpha Alpha 7S",
@@ -389,7 +426,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 IV",
+    "modelName": "Sony Alpha 7C II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "33.0MP",
@@ -409,7 +446,10 @@
       "A7 IV",
       "A74",
       "A7IV",
+      "Alpha 7C II",
+      "Alpha7CII",
       "SONYA7IV",
+      "Sony Alpha 7C 2",
       "Sony SONYAlpha 7IV",
       "SonyA7IV",
       "a7 iv",
@@ -437,7 +477,11 @@
       "A7 III",
       "A72I",
       "A7III",
+      "Alpha 7 III",
+      "Alpha7III",
       "SONYA7III",
+      "Sony Alpha 7 2I",
+      "Sony Alpha 7 3",
       "Sony SONYAlpha 7III",
       "SonyA7III",
       "a7 iii",
@@ -465,7 +509,10 @@
       "A7 II",
       "A72",
       "A7II",
+      "Alpha 7 II",
+      "Alpha7II",
       "SONYA7II",
+      "Sony Alpha 7 2",
       "Sony SONYAlpha 7II",
       "SonyA7II",
       "a7 ii",
@@ -476,7 +523,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 7",
+    "modelName": "Sony Alpha 7",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "24.3MP",
@@ -492,6 +539,8 @@
     "aliases": [
       "A7",
       "AA7",
+      "Alpha Alpha 7",
+      "AlphaAlpha7",
       "SONYA7",
       "SONYAA7",
       "Sony SONYAlpha Alpha 7",
@@ -518,6 +567,8 @@
     "aliases": [
       "A7C R",
       "A7CR",
+      "Alpha 7 CR",
+      "Alpha7CR",
       "SONYA7CR",
       "Sony SONYAlpha 7CR",
       "SonyA7CR",
@@ -531,7 +582,7 @@
     "modelName": "Sony Alpha 7C II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
-    "megapixels": "33MP",
+    "megapixels": "33.0MP",
     "releaseYear": 2023,
     "slug": "a7c-ii",
     "id": "a7c-ii",
@@ -548,8 +599,8 @@
     "lcdResolution": "1.04M-dot Vari-angle",
     "hasWeatherSeal": true,
     "processor": "BIONZ XR",
-    "afRange": "-4 to +20 EV",
-    "videoColorDepth": "10-bit 4:2:2 (H.265/XAVC HS)",
+    "afRange": "EV -4 to +20",
+    "videoColorDepth": "10-bit 4:2:2",
     "evfMagnification": "0.70x",
     "batteryLifeShots": 530,
     "series": "Alpha",
@@ -560,7 +611,8 @@
       "Alpha 7C II",
       "Alpha7CII",
       "SONYA7CII",
-      "Sony Alpha 7C II",
+      "Sony Alpha 7 C II",
+      "Sony Alpha 7C 2",
       "Sonya7CII",
       "a7C II",
       "a7CII",
@@ -569,8 +621,7 @@
       "a7cii",
       "alpha 7c ii",
       "alpha7cii",
-      "sonya7cii",
-      "Sony Alpha 7 C II"
+      "sonya7cii"
     ],
     "isoRange": "100-51200 (Ext: 50-204800)",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
@@ -582,7 +633,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Alpha 7 C",
+    "modelName": "Sony Alpha 7 C",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "24.2MP",
@@ -598,6 +649,8 @@
     "aliases": [
       "A7C",
       "AA7C",
+      "Alpha Alpha 7 C",
+      "AlphaAlpha7C",
       "SONYA7C",
       "SONYAA7C",
       "Sony SONYAlpha Alpha 7C",
@@ -608,7 +661,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sonyazv-e1",
+    "modelName": "Sony Alpha Sonyazv-e1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "12.1MP",
@@ -623,6 +676,8 @@
     "launchPrice": 39980,
     "aliases": [
       "AZV-E1",
+      "Alpha azv-e1",
+      "Alphaazv-e1",
       "ZV-E1",
       "azv-e1",
       "sonyazv-e1",
@@ -649,6 +704,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "A6700",
+      "Alpha 6700",
+      "Alpha6700",
       "SONYA6700",
       "Sony SONYAlpha 6700",
       "Sonya6700",
@@ -673,6 +730,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6600",
+      "Alpha 6600",
+      "Alpha6600",
       "SONYA6600",
       "Sony SONYAlpha 6600",
       "SonyA6600",
@@ -697,6 +756,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6500",
+      "Alpha 6500",
+      "Alpha6500",
       "SONYA6500",
       "Sony SONYAlpha 6500",
       "SonyA6500",
@@ -721,6 +782,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6400",
+      "Alpha 6400",
+      "Alpha6400",
       "SONYA6400",
       "Sony SONYAlpha 6400",
       "Sonya6400",
@@ -745,6 +808,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6300",
+      "Alpha 6300",
+      "Alpha6300",
       "SONYA6300",
       "Sony SONYAlpha 6300",
       "SonyA6300",
@@ -769,6 +834,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6100",
+      "Alpha 6100",
+      "Alpha6100",
       "SONYA6100",
       "Sony SONYAlpha 6100",
       "Sonya6100",
@@ -793,6 +860,8 @@
     "launchPrice": 39980,
     "aliases": [
       "A6000",
+      "Alpha 6000",
+      "Alpha6000",
       "SONYA6000",
       "Sony SONYAlpha 6000",
       "SonyA6000",
@@ -802,7 +871,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "SonyaZV-E10II",
+    "modelName": "Sony Alpha SonyaZV-E10II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "26.0MP",
@@ -817,6 +886,9 @@
     "launchPrice": 39980,
     "aliases": [
       "AZV-E10II",
+      "Alpha aZV-E10II",
+      "AlphaaZV-E10II",
+      "Sony Alpha SonyaZV-E102",
       "ZV-E10 II",
       "ZV-E102",
       "ZV-E10II",
@@ -830,7 +902,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "SonyaZV-E10",
+    "modelName": "Sony Alpha SonyaZV-E10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "24.2MP",
@@ -845,6 +917,8 @@
     "launchPrice": 39980,
     "aliases": [
       "AZV-E10",
+      "Alpha aZV-E10",
+      "AlphaaZV-E10",
       "ZV-E10",
       "azv-e10",
       "sonyazv-e10",
@@ -871,6 +945,7 @@
     "aliases": [
       "X-H2S",
       "XH2S",
+      "x-h2s",
       "xh2s"
     ]
   },
@@ -892,6 +967,7 @@
     "aliases": [
       "X-H2",
       "XH2",
+      "x-h2",
       "xh2"
     ]
   },
@@ -913,6 +989,7 @@
     "aliases": [
       "X-H1",
       "XH1",
+      "x-h1",
       "xh1"
     ]
   },
@@ -936,6 +1013,7 @@
     "aliases": [
       "X-T5",
       "XT5",
+      "x-t5",
       "xt5"
     ]
   },
@@ -957,6 +1035,7 @@
     "aliases": [
       "X-T4",
       "XT4",
+      "x-t4",
       "xt4"
     ]
   },
@@ -978,6 +1057,7 @@
     "aliases": [
       "X-T3",
       "XT3",
+      "x-t3",
       "xt3"
     ]
   },
@@ -999,6 +1079,7 @@
     "aliases": [
       "X-T2",
       "XT2",
+      "x-t2",
       "xt2"
     ]
   },
@@ -1020,6 +1101,7 @@
     "aliases": [
       "X-T1",
       "XT1",
+      "x-t1",
       "xt1"
     ]
   },
@@ -1043,6 +1125,7 @@
     "aliases": [
       "X-T50",
       "XT50",
+      "x-t50",
       "xt50"
     ]
   },
@@ -1066,6 +1149,7 @@
       "X-T30II",
       "XT30 II",
       "XT30II",
+      "x-t30 ii",
       "x-t30ii",
       "xt30 ii",
       "xt30ii"
@@ -1089,6 +1173,7 @@
     "aliases": [
       "X-T30",
       "XT30",
+      "x-t30",
       "xt30"
     ]
   },
@@ -1110,6 +1195,7 @@
     "aliases": [
       "X-T20",
       "XT20",
+      "x-t20",
       "xt20"
     ]
   },
@@ -1131,6 +1217,7 @@
     "aliases": [
       "X-T10",
       "XT10",
+      "x-t10",
       "xt10"
     ]
   },
@@ -1154,6 +1241,7 @@
       "X-Pro3",
       "XPRO3",
       "XPro3",
+      "x-pro3",
       "xpro3"
     ]
   },
@@ -1177,6 +1265,7 @@
       "X-Pro2",
       "XPRO2",
       "XPro2",
+      "x-pro2",
       "xpro2"
     ]
   },
@@ -1200,6 +1289,7 @@
       "X-Pro1",
       "XPRO1",
       "XPro1",
+      "x-pro1",
       "xpro1"
     ]
   },
@@ -1221,6 +1311,7 @@
     "aliases": [
       "X-S20",
       "XS20",
+      "x-s20",
       "xs20"
     ]
   },
@@ -1242,6 +1333,7 @@
     "aliases": [
       "X-S10",
       "XS10",
+      "x-s10",
       "xs10"
     ]
   },
@@ -1263,6 +1355,7 @@
     "aliases": [
       "X-E4",
       "XE4",
+      "x-e4",
       "xe4"
     ]
   },
@@ -1283,6 +1376,7 @@
     "launchPrice": 39980,
     "aliases": [
       "X100VI",
+      "x100v i",
       "x100vi"
     ]
   },
@@ -1304,6 +1398,7 @@
     "aliases": [
       "X100 V",
       "X100V",
+      "x100 v",
       "x100v"
     ]
   },
@@ -1323,7 +1418,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100F"
+      "X100F",
+      "x100f"
     ]
   },
   {
@@ -1342,7 +1438,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100T"
+      "X100T",
+      "x100t"
     ]
   },
   {
@@ -1361,7 +1458,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100S"
+      "X100S",
+      "x100s"
     ]
   },
   {
@@ -1380,7 +1478,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100"
+      "X100",
+      "x100"
     ]
   },
   {
@@ -1403,6 +1502,7 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX100II",
+      "gfx 100 ii",
       "gfx100ii"
     ]
   },
@@ -1425,6 +1525,7 @@
     "aliases": [
       "GFX 100S II",
       "GFX100SII",
+      "gfx 100s ii",
       "gfx100sii"
     ]
   },
@@ -1447,6 +1548,7 @@
     "aliases": [
       "GFX 100S",
       "GFX100S",
+      "gfx 100s",
       "gfx100s"
     ]
   },
@@ -1468,6 +1570,7 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX50SII",
+      "gfx 50s ii",
       "gfx50sii"
     ]
   },
@@ -1489,6 +1592,7 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX50R",
+      "gfx 50r",
       "gfx50r"
     ]
   },
@@ -1502,20 +1606,20 @@
     "slug": "eos-r1",
     "id": "eos-r1",
     "videoResolution": "6K 60p / 4K 120p",
-    "afPoints": "1053",
+    "afPoints": "Dual Pixel Intelligent AF / 1053 Areas",
     "evfResolution": "9.44M-dot OLED",
     "burstSpeed": "40 fps",
     "logSupport": "C-Log 2/3",
-    "sensorType": "Stacked CMOS",
+    "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": "Approx. 1115 g (including battery and card)",
     "launchPrice": 198000,
     "aliases": [
+      "Canon eos r1",
       "EOS R1",
       "EOSR1",
       "R1",
       "eosr1",
-      "r1",
-      "Canon eos r1"
+      "r1"
     ],
     "processor": "DIGIC Accelerator + DIGIC X",
     "ibisRating": "8.5 stops (CIPA)",
@@ -1526,7 +1630,8 @@
     "afTargets": "People, Animals, Vehicles (Cars/Motorbikes/Planes/Trains)",
     "videoColorDepth": "10-bit 4:2:2 (HEVC/RAW)",
     "isoRange": "100-102400 (Ext: 50-409600)",
-    "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen LCD"
+    "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen LCD",
+    "batterySpec": "LP-E19"
   },
   {
     "brand": "Canon",
@@ -1546,12 +1651,14 @@
     "weightGrams": "Approx. 1015 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r3",
       "EOS R3",
+      "EOS r3",
       "EOSR3",
+      "EOSr3",
       "R3",
       "eosr3",
-      "r3",
-      "Canon eos r3"
+      "r3"
     ]
   },
   {
@@ -1572,17 +1679,19 @@
     "weightGrams": "Approx. 746 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r5 mark ii",
       "EOS R5 II",
       "EOS R5 Mark II",
+      "EOS r5 Mark ii",
       "EOSR5II",
+      "EOSr5Markii",
       "R5 Mark II",
       "R5II",
       "R5MARKII",
       "eos r5 ii",
       "eosr5ii",
       "r5 mark ii",
-      "r5ii",
-      "Canon eos r5 mark ii"
+      "r5ii"
     ]
   },
   {
@@ -1601,12 +1710,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r5",
       "EOS R5",
+      "EOS r5",
       "EOSR5",
+      "EOSr5",
       "R5",
       "eosr5",
-      "r5",
-      "Canon eos r5"
+      "r5"
     ]
   },
   {
@@ -1625,17 +1736,19 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r6 mark ii",
       "EOS R6 II",
       "EOS R6 Mark II",
+      "EOS r6 Mark ii",
       "EOSR6II",
+      "EOSr6Markii",
       "R6 Mark II",
       "R6II",
       "R6MARKII",
       "eos r6 ii",
       "eosr6ii",
       "r6 mark ii",
-      "r6ii",
-      "Canon eos r6 mark ii"
+      "r6ii"
     ]
   },
   {
@@ -1654,12 +1767,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r6",
       "EOS R6",
+      "EOS r6",
       "EOSR6",
+      "EOSr6",
       "R6",
       "eosr6",
-      "r6",
-      "Canon eos r6"
+      "r6"
     ]
   },
   {
@@ -1678,12 +1793,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r8",
       "EOS R8",
+      "EOS r8",
       "EOSR8",
+      "EOSr8",
       "R8",
       "eosr8",
-      "r8",
-      "Canon eos r8"
+      "r8"
     ]
   },
   {
@@ -1702,12 +1819,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r",
       "EOS R",
+      "EOS r",
       "EOSR",
+      "EOSr",
       "R",
       "eosr",
-      "r",
-      "Canon eos r"
+      "r"
     ]
   },
   {
@@ -1726,12 +1845,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos rp",
       "EOS RP",
+      "EOS rp",
       "EOSRP",
+      "EOSrp",
       "RP",
       "eosrp",
-      "rp",
-      "Canon eos rp"
+      "rp"
     ]
   },
   {
@@ -1750,17 +1871,19 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r7",
       "EOS R7",
+      "EOS r7",
       "EOSR7",
+      "EOSr7",
       "R7",
       "eosr7",
-      "r7",
-      "Canon eos r7"
+      "r7"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon EOS r10",
+    "modelName": "Canon EOS R1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "24.2MP",
@@ -1776,12 +1899,14 @@
     "weightGrams": "Approx. 1115 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r10",
+      "EOS R1",
       "EOS R10",
+      "EOSR1",
       "EOSR10",
       "R10",
       "eosr10",
-      "r10",
-      "Canon eos r10"
+      "r10"
     ]
   },
   {
@@ -1800,12 +1925,14 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r50",
       "EOS R50",
+      "EOS r50",
       "EOSR50",
+      "EOSr50",
       "R50",
       "eosr50",
-      "r50",
-      "Canon eos r50"
+      "r50"
     ]
   },
   {
@@ -1826,12 +1953,14 @@
     "weightGrams": "Approx. 1115 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
+      "Canon eos r100",
       "EOS R100",
+      "EOS r100",
       "EOSR100",
+      "EOSr100",
       "R100",
       "eosr100",
-      "r100",
-      "Canon eos r100"
+      "r100"
     ]
   },
   {
@@ -1852,8 +1981,8 @@
     "weightGrams": "Approx. 1340 g (including battery and card)",
     "launchPrice": 165000,
     "aliases": [
-      "Z9",
-      "Nikon z9"
+      "Nikon z9",
+      "Z9"
     ],
     "processor": "EXPEED 7",
     "ibisRating": "6.0 stops (CIPA)",
@@ -1877,7 +2006,8 @@
     "weightGrams": "Approx. 910 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
-      "Z8"
+      "Z8",
+      "z8"
     ]
   },
   {
@@ -1898,6 +2028,7 @@
     "aliases": [
       "Z7 II",
       "Z7II",
+      "z7 ii",
       "z7ii"
     ]
   },
@@ -1917,7 +2048,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z7"
+      "Z7",
+      "z7"
     ]
   },
   {
@@ -1940,6 +2072,7 @@
     "aliases": [
       "Z6 III",
       "Z6III",
+      "z6 iii",
       "z6iii"
     ]
   },
@@ -1961,6 +2094,7 @@
     "aliases": [
       "Z6 II",
       "Z6II",
+      "z6 ii",
       "z6ii"
     ]
   },
@@ -1980,7 +2114,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z6"
+      "Z6",
+      "z6"
     ]
   },
   {
@@ -1999,7 +2134,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z5"
+      "Z5",
+      "z5"
     ]
   },
   {
@@ -2021,7 +2157,8 @@
     "launchPrice": 39980,
     "aliases": [
       "ZF",
-      "Zf"
+      "Zf",
+      "zf"
     ]
   },
   {
@@ -2043,7 +2180,8 @@
     "launchPrice": 39980,
     "aliases": [
       "ZFC",
-      "Zfc"
+      "Zfc",
+      "zfc"
     ]
   },
   {
@@ -2062,7 +2200,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z50"
+      "Z50",
+      "z50"
     ]
   },
   {
@@ -2081,7 +2220,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z30"
+      "Z30",
+      "z30"
     ]
   },
   {
@@ -2115,6 +2255,8 @@
       "12-24mm F2.8 GM",
       "1224GM",
       "1224gm",
+      "Alpha FE 12-24mm F2.8 GM",
+      "AlphaFE12-24mmF2.8GM",
       "F12-24mm F2.8 GM",
       "FE 12-24mm F2.8 GM"
     ]
@@ -2150,8 +2292,11 @@
       "16-35mm F2.8 GM II",
       "1635GM2",
       "1635gm2",
+      "Alpha FE 16-35mm F2.8 GM II",
+      "AlphaFE16-35mmF2.8GMII",
       "F16-35mm F2.8 GM II",
-      "FE 16-35mm F2.8 GM II"
+      "FE 16-35mm F2.8 GM II",
+      "Sony Alpha FE 16-35mm F2.8 GM 2"
     ]
   },
   {
@@ -2185,8 +2330,11 @@
       "24-70mm F2.8 GM II",
       "2470GM2",
       "2470gm2",
+      "Alpha FE 24-70mm F2.8 GM II",
+      "AlphaFE24-70mmF2.8GMII",
       "F24-70mm F2.8 GM II",
-      "FE 24-70mm F2.8 GM II"
+      "FE 24-70mm F2.8 GM II",
+      "Sony Alpha FE 24-70mm F2.8 GM 2"
     ]
   },
   {
@@ -2220,8 +2368,11 @@
       "70-200mm F2.8 GM OSS II",
       "70200GM2",
       "70200gm2",
+      "Alpha FE 70-200mm F2.8 GM OSS II",
+      "AlphaFE70-200mmF2.8GMOSSII",
       "F70-200mm F2.8 GM OSS II",
-      "FE 70-200mm F2.8 GM OSS II"
+      "FE 70-200mm F2.8 GM OSS II",
+      "Sony Alpha FE 70-200mm F2.8 GM OSS 2"
     ]
   },
   {
@@ -2255,6 +2406,8 @@
       "200-600mm F5.6-6.3 G OSS",
       "200600G",
       "200600g",
+      "Alpha FE 200-600mm F5.6-6.3 G OSS",
+      "AlphaFE200-600mmF5.6-6.3GOSS",
       "F200-600mm F5.6-6.3 G OSS",
       "FE 200-600mm F5.6-6.3 G OSS"
     ]
@@ -2290,6 +2443,8 @@
       "35GM",
       "35gm",
       "35mm F1.4 GM",
+      "Alpha FE 35mm F1.4 GM",
+      "AlphaFE35mmF1.4GM",
       "F35mm F1.4 GM",
       "FE 35mm F1.4 GM"
     ]
@@ -2325,6 +2480,8 @@
       "50GM",
       "50gm",
       "50mm F1.2 GM",
+      "Alpha FE 50mm F1.2 GM",
+      "AlphaFE50mmF1.2GM",
       "F50mm F1.2 GM",
       "FE 50mm F1.2 GM"
     ]
@@ -2360,6 +2517,8 @@
       "85GM",
       "85gm",
       "85mm F1.4 GM",
+      "Alpha FE 85mm F1.4 GM",
+      "AlphaFE85mmF1.4GM",
       "F85mm F1.4 GM",
       "FE 85mm F1.4 GM"
     ]
@@ -2393,6 +2552,8 @@
     "launchPrice": 0,
     "aliases": [
       "55mm F1.8 ZA",
+      "Alpha fe 55mm f1.8 za",
+      "Alphafe55mmf1.8za",
       "F55mm F1.8 ZA",
       "FE 55mm F1.8 ZA",
       "fe 55mm f1.8 za"
@@ -2427,7 +2588,9 @@
     "closeFocus": "--",
     "diameter": 85.0,
     "aliases": [
-      "14-24mm F2.8 DG DN Art"
+      "14-24mm F2.8 DG DN Art",
+      "14-24mm f2.8 dg dn art",
+      "14-24mmf2.8dgdnart"
     ]
   },
   {
@@ -2459,7 +2622,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "24-70mm F2.8 DG DN Art II"
+      "24-70mm F2.8 DG DN Art II",
+      "24-70mm f2.8 dg dn art ii",
+      "24-70mmf2.8dgdnartii"
     ]
   },
   {
@@ -2490,7 +2655,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "28-70mm F2.8 DG DN Contemporary"
+      "28-70mm F2.8 DG DN Contemporary",
+      "28-70mm f2.8 dg dn contemporary",
+      "28-70mmf2.8dgdncontemporary"
     ]
   },
   {
@@ -2522,7 +2689,9 @@
     "closeFocus": "--",
     "diameter": 75.5,
     "aliases": [
-      "35mm F1.4 DG DN Art"
+      "35mm F1.4 DG DN Art",
+      "35mm f1.4 dg dn art",
+      "35mmf1.4dgdnart"
     ]
   },
   {
@@ -2554,7 +2723,9 @@
     "closeFocus": "--",
     "diameter": 78.2,
     "aliases": [
-      "50mm F1.4 DG DN Art"
+      "50mm F1.4 DG DN Art",
+      "50mm f1.4 dg dn art",
+      "50mmf1.4dgdnart"
     ]
   },
   {
@@ -2586,7 +2757,9 @@
     "closeFocus": "--",
     "diameter": 82.8,
     "aliases": [
-      "85mm F1.4 DG DN Art"
+      "85mm F1.4 DG DN Art",
+      "85mm f1.4 dg dn art",
+      "85mmf1.4dgdnart"
     ]
   },
   {
@@ -2618,7 +2791,9 @@
     "closeFocus": "--",
     "diameter": 74.0,
     "aliases": [
-      "105mm F2.8 DG DN Macro Art"
+      "105mm F2.8 DG DN Macro Art",
+      "105mm f2.8 dg dn macro art",
+      "105mmf2.8dgdnmacroart"
     ]
   },
   {
@@ -2649,7 +2824,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "18-50mm F2.8 DC DN Contemporary"
+      "18-50mm F2.8 DC DN Contemporary",
+      "18-50mm f2.8 dc dn contemporary",
+      "18-50mmf2.8dcdncontemporary"
     ]
   },
   {
@@ -2680,7 +2857,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "17-28mm F2.8 Di III RXD"
+      "17-28mm F2.8 Di III RXD",
+      "17-28mm f2.8 di iii rxd",
+      "17-28mmf2.8diiiirxd"
     ]
   },
   {
@@ -2711,7 +2890,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "28-75mm F2.8 Di III VXD G2"
+      "28-75mm F2.8 Di III VXD G2",
+      "28-75mm f2.8 di iii vxd g2",
+      "28-75mmf2.8diiiivxdg2"
     ]
   },
   {
@@ -2742,7 +2923,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "70-180mm F2.8 Di III VC VXD G2"
+      "70-180mm F2.8 Di III VC VXD G2",
+      "70-180mm f2.8 di iii vc vxd g2",
+      "70-180mmf2.8diiiivcvxdg2"
     ]
   },
   {
@@ -2773,7 +2956,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "35-150mm F2-2.8 Di III VXD"
+      "35-150mm F2-2.8 Di III VXD",
+      "35-150mm f2-2.8 di iii vxd",
+      "35-150mmf2-2.8diiiivxd"
     ]
   },
   {
@@ -2804,7 +2989,9 @@
     "series": "--",
     "launchPrice": 0,
     "aliases": [
-      "28-200mm F2.8-5.6 Di III RXD"
+      "28-200mm F2.8-5.6 Di III RXD",
+      "28-200mm f2.8-5.6 di iii rxd",
+      "28-200mmf2.8-5.6diiiirxd"
     ]
   },
   {
@@ -2836,7 +3023,9 @@
     "closeFocus": "--",
     "diameter": 93.0,
     "aliases": [
-      "150-500mm F5-6.7 Di III VC VXD"
+      "150-500mm F5-6.7 Di III VC VXD",
+      "150-500mm f5-6.7 di iii vc vxd",
+      "150-500mmf5-6.7diiiivcvxd"
     ]
   },
   {
@@ -2869,7 +3058,9 @@
     "aliases": [
       "8-16mm F2.8 R LM WR",
       "816WR",
-      "816wr"
+      "816wr",
+      "XF 8-16mm F2.8 R LM WR",
+      "XF8-16mmF2.8RLMWR"
     ]
   },
   {
@@ -2902,7 +3093,9 @@
     "aliases": [
       "10-24mm F4 R OIS WR",
       "1024WR",
-      "1024wr"
+      "1024wr",
+      "XF 10-24mm F4 R OIS WR",
+      "XF10-24mmF4ROISWR"
     ]
   },
   {
@@ -2935,7 +3128,9 @@
     "aliases": [
       "16-55mm F2.8 R LM WR",
       "1655WR",
-      "1655wr"
+      "1655wr",
+      "XF 16-55mm F2.8 R LM WR",
+      "XF16-55mmF2.8RLMWR"
     ]
   },
   {
@@ -2967,7 +3162,9 @@
     "launchPrice": 0,
     "aliases": [
       "18-55mm F2.8-4 R LM OIS",
-      "XF 18-55mm F2.8-4 R LM OIS"
+      "XF 18-55mm F2.8-4 R LM OIS",
+      "xf 18-55mm f2.8-4 r lm ois",
+      "xf18-55mmf2.8-4rlmois"
     ]
   },
   {
@@ -3000,7 +3197,9 @@
     "aliases": [
       "50-140mm F2.8 R LM OIS WR",
       "50140WR",
-      "50140wr"
+      "50140wr",
+      "XF 50-140mm F2.8 R LM OIS WR",
+      "XF50-140mmF2.8RLMOISWR"
     ]
   },
   {
@@ -3033,7 +3232,9 @@
     "aliases": [
       "33WR",
       "33mm F1.4 R LM WR",
-      "33wr"
+      "33wr",
+      "XF 33mm F1.4 R LM WR",
+      "XF33mmF1.4RLMWR"
     ]
   },
   {
@@ -3066,12 +3267,14 @@
     "aliases": [
       "56WR",
       "56mm F1.2 R WR",
-      "56wr"
+      "56wr",
+      "XF 56mm F1.2 R WR",
+      "XF56mmF1.2RWR"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon rf 15-35mm f2.8l is usm",
+    "modelName": "Canon EOS rf 15-35mm f2.8l is usm",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 15,
@@ -3098,12 +3301,14 @@
     "series": "L",
     "aliases": [
       "15-35mm F2.8L IS USM",
+      "EOS rf 15-35mm f2.8l is usm",
+      "EOSrf15-35mmf2.8lisusm",
       "RF 15-35mm F2.8L IS USM"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon rf 24-70mm f2.8l is usm",
+    "modelName": "Canon EOS rf 24-70mm f2.8l is usm",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 24,
@@ -3130,12 +3335,14 @@
     "series": "--",
     "aliases": [
       "24-70mm F2.8L IS USM",
+      "EOS rf 24-70mm f2.8l is usm",
+      "EOSrf24-70mmf2.8lisusm",
       "RF 24-70mm F2.8L IS USM"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon rf 70-200mm f2.8l is usm",
+    "modelName": "Canon EOS rf 70-200mm f2.8l is usm",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 70,
@@ -3162,12 +3369,14 @@
     "series": "--",
     "aliases": [
       "70-200mm F2.8L IS USM",
+      "EOS rf 70-200mm f2.8l is usm",
+      "EOSrf70-200mmf2.8lisusm",
       "RF 70-200mm F2.8L IS USM"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon rf 28-70mm f2l usm",
+    "modelName": "Canon EOS rf 28-70mm f2l usm",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 28,
@@ -3194,12 +3403,14 @@
     "launchPrice": 0,
     "aliases": [
       "28-70mm F2L USM",
+      "EOS rf 28-70mm f2l usm",
+      "EOSrf28-70mmf2lusm",
       "RF 28-70mm F2L USM"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "Canon rf 50mm f1.2l usm",
+    "modelName": "Canon EOS rf 50mm f1.2l usm",
     "gearType": "LENS",
     "lensType": "PRIME",
     "focalLengthMinMm": 50,
@@ -3226,6 +3437,8 @@
     "launchPrice": 0,
     "aliases": [
       "50mm F1.2L USM",
+      "EOS rf 50mm f1.2l usm",
+      "EOSrf50mmf1.2lusm",
       "RF 50mm F1.2L USM"
     ]
   },
@@ -3259,7 +3472,9 @@
     "aliases": [
       "14-24mm f/2.8 S",
       "1424S",
-      "1424s"
+      "1424s",
+      "Z 14-24mm f/2.8 S",
+      "Z14-24mmf/2.8S"
     ]
   },
   {
@@ -3292,7 +3507,9 @@
     "aliases": [
       "24-70mm f/2.8 S",
       "2470S",
-      "2470s"
+      "2470s",
+      "Z 24-70mm f/2.8 S",
+      "Z24-70mmf/2.8S"
     ]
   },
   {
@@ -3325,7 +3542,9 @@
     "aliases": [
       "70-200mm f/2.8 VR S",
       "70200S",
-      "70200s"
+      "70200s",
+      "Z 70-200mm f/2.8 VR S",
+      "Z70-200mmf/2.8VRS"
     ]
   },
   {
@@ -3358,7 +3577,9 @@
     "aliases": [
       "135S",
       "135mm f/1.8 S Plena",
-      "135s"
+      "135s",
+      "Z 135mm f/1.8 S Plena",
+      "Z135mmf/1.8SPlena"
     ]
   },
   {
@@ -3391,7 +3612,9 @@
     "aliases": [
       "50S",
       "50mm f/1.2 S",
-      "50s"
+      "50s",
+      "Z 50mm f/1.2 S",
+      "Z50mmf/1.2S"
     ]
   },
   {
@@ -3423,7 +3646,9 @@
     "closeFocus": "--",
     "diameter": 82.0,
     "aliases": [
-      "10mm F2.8 C&D-Dreamer"
+      "10mm F2.8 C&D-Dreamer",
+      "10mm f2.8 c&d-dreamer",
+      "10mmf2.8c&d-dreamer"
     ]
   },
   {
@@ -3455,7 +3680,9 @@
     "closeFocus": "--",
     "diameter": 77.2,
     "aliases": [
-      "12mm F2.8 Lite Zero-D FF"
+      "12mm F2.8 Lite Zero-D FF",
+      "12mm f2.8 lite zero-d ff",
+      "12mmf2.8litezero-dff"
     ]
   },
   {
@@ -3487,7 +3714,9 @@
     "closeFocus": "--",
     "diameter": 101.4,
     "aliases": [
-      "14mm F1.4 DG DN Art"
+      "14mm F1.4 DG DN Art",
+      "14mm f1.4 dg dn art",
+      "14mmf1.4dgdnart"
     ]
   },
   {
@@ -3519,7 +3748,9 @@
     "closeFocus": "--",
     "diameter": 95.4,
     "aliases": [
-      "14mm F1.8 DG HSM Art"
+      "14mm F1.8 DG HSM Art",
+      "14mm f1.8 dg hsm art",
+      "14mmf1.8dghsmart"
     ]
   },
   {
@@ -3553,7 +3784,9 @@
     "aliases": [
       "14GM",
       "14gm",
-      "14mm F1.8 GM"
+      "14mm F1.8 GM",
+      "Alpha 14mm F1.8 GM",
+      "Alpha14mmF1.8GM"
     ]
   },
   {
@@ -3585,7 +3818,9 @@
     "closeFocus": "--",
     "diameter": 85.5,
     "aliases": [
-      "14mm F2.8 AF"
+      "14mm F2.8 AF",
+      "14mm f2.8 af",
+      "14mmf2.8af"
     ]
   },
   {
@@ -3617,7 +3852,9 @@
     "closeFocus": "--",
     "diameter": 104.0,
     "aliases": [
-      "15mm F1.4 DG DN Fisheye Art"
+      "15mm F1.4 DG DN Fisheye Art",
+      "15mm f1.4 dg dn fisheye art",
+      "15mmf1.4dgdnfisheyeart"
     ]
   },
   {
@@ -3652,7 +3889,9 @@
       "16G",
       "16MMF1.8G",
       "16g",
-      "16mm F1.8 G"
+      "16mm F1.8 G",
+      "Alpha 16mm F1.8 G",
+      "Alpha16mmF1.8G"
     ]
   },
   {
@@ -3684,7 +3923,9 @@
     "closeFocus": "--",
     "diameter": 85.0,
     "aliases": [
-      "16mm F1.8 AF LED"
+      "16mm F1.8 AF LED",
+      "16mm f1.8 af led",
+      "16mmf1.8afled"
     ]
   },
   {
@@ -3716,7 +3957,9 @@
     "closeFocus": "--",
     "diameter": 50.8,
     "aliases": [
-      "17mm F4.0 DG DN C"
+      "17mm F4.0 DG DN C",
+      "17mm f4.0 dg dn c",
+      "17mmf4.0dgdnc"
     ]
   },
   {
@@ -3748,7 +3991,9 @@
     "closeFocus": "--",
     "diameter": 63.5,
     "aliases": [
-      "18mm F2.8 AF"
+      "18mm F2.8 AF",
+      "18mm f2.8 af",
+      "18mmf2.8af"
     ]
   },
   {
@@ -3781,7 +4026,9 @@
     "diameter": 80.0,
     "aliases": [
       "18MMF2.8",
-      "18mm F2.8"
+      "18mm F2.8",
+      "18mm f2.8",
+      "18mmf2.8"
     ]
   },
   {
@@ -3813,7 +4060,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "20mm F1.4 DG DN Art"
+      "20mm F1.4 DG DN Art",
+      "20mm f1.4 dg dn art",
+      "20mmf1.4dgdnart"
     ]
   },
   {
@@ -3845,7 +4094,9 @@
     "closeFocus": "--",
     "diameter": 90.7,
     "aliases": [
-      "20mm F1.4 DG HSM Art"
+      "20mm F1.4 DG HSM Art",
+      "20mm f1.4 dg hsm art",
+      "20mmf1.4dghsmart"
     ]
   },
   {
@@ -3880,7 +4131,9 @@
       "20G",
       "20MMF1.8G",
       "20g",
-      "20mm F1.8 G"
+      "20mm F1.8 G",
+      "Alpha 20mm F1.8 G",
+      "Alpha20mmF1.8G"
     ]
   },
   {
@@ -3912,7 +4165,9 @@
     "closeFocus": "--",
     "diameter": 76.9,
     "aliases": [
-      "20mm T1.9 V-AF"
+      "20mm T1.9 V-AF",
+      "20mm t1.9 v-af",
+      "20mmt1.9v-af"
     ]
   },
   {
@@ -3944,7 +4199,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "20mm F2.0 DG DN C"
+      "20mm F2.0 DG DN C",
+      "20mm f2.0 dg dn c",
+      "20mmf2.0dgdnc"
     ]
   },
   {
@@ -3976,7 +4233,9 @@
     "closeFocus": "--",
     "diameter": 73.4,
     "aliases": [
-      "20mm F2.0 AF FiRIN"
+      "20mm F2.0 AF FiRIN",
+      "20mm f2.0 af firin",
+      "20mmf2.0affirin"
     ]
   },
   {
@@ -4008,7 +4267,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "20mm F2.8 Di III OSD F050"
+      "20mm F2.8 Di III OSD F050",
+      "20mm f2.8 di iii osd f050",
+      "20mmf2.8diiiiosdf050"
     ]
   },
   {
@@ -4040,7 +4301,9 @@
     "closeFocus": "--",
     "diameter": 65.0,
     "aliases": [
-      "20mm F2.8 AF Air"
+      "20mm F2.8 AF Air",
+      "20mm f2.8 af air",
+      "20mmf2.8afair"
     ]
   },
   {
@@ -4072,7 +4335,9 @@
     "closeFocus": "--",
     "diameter": 75.7,
     "aliases": [
-      "24mm F1.4 DG DN Art"
+      "24mm F1.4 DG DN Art",
+      "24mm f1.4 dg dn art",
+      "24mmf1.4dgdnart"
     ]
   },
   {
@@ -4104,7 +4369,9 @@
     "closeFocus": "--",
     "diameter": 85.0,
     "aliases": [
-      "24mm F1.4 DG HSM Art"
+      "24mm F1.4 DG HSM Art",
+      "24mm f1.4 dg hsm art",
+      "24mmf1.4dghsmart"
     ]
   },
   {
@@ -4138,7 +4405,9 @@
     "aliases": [
       "24GM",
       "24gm",
-      "24mm F1.4 GM"
+      "24mm F1.4 GM",
+      "Alpha 24mm F1.4 GM",
+      "Alpha24mmF1.4GM"
     ]
   },
   {
@@ -4170,7 +4439,9 @@
     "closeFocus": "--",
     "diameter": 65.0,
     "aliases": [
-      "24mm F1.8 AF"
+      "24mm F1.8 AF",
+      "24mm f1.8 af",
+      "24mmf1.8af"
     ]
   },
   {
@@ -4202,7 +4473,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "24mm F1.8 AF STM"
+      "24mm F1.8 AF STM",
+      "24mm f1.8 af stm",
+      "24mmf1.8afstm"
     ]
   },
   {
@@ -4234,7 +4507,9 @@
     "closeFocus": "--",
     "diameter": 72.1,
     "aliases": [
-      "24mm T1.9 V-AF"
+      "24mm T1.9 V-AF",
+      "24mm t1.9 v-af",
+      "24mmt1.9v-af"
     ]
   },
   {
@@ -4266,7 +4541,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "24mm F2.0 DG DN C"
+      "24mm F2.0 DG DN C",
+      "24mm f2.0 dg dn c",
+      "24mmf2.0dgdnc"
     ]
   },
   {
@@ -4298,7 +4575,9 @@
     "closeFocus": "--",
     "diameter": 61.8,
     "aliases": [
-      "24mm F2.8 AF"
+      "24mm F2.8 AF",
+      "24mm f2.8 af",
+      "24mmf2.8af"
     ]
   },
   {
@@ -4333,7 +4612,9 @@
       "24G",
       "24MMF2.8G",
       "24g",
-      "24mm F2.8 G"
+      "24mm F2.8 G",
+      "Alpha 24mm F2.8 G",
+      "Alpha24mmF2.8G"
     ]
   },
   {
@@ -4365,7 +4646,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "24mm F2.8 Di III OSD F051"
+      "24mm F2.8 Di III OSD F051",
+      "24mm f2.8 di iii osd f051",
+      "24mmf2.8diiiiosdf051"
     ]
   },
   {
@@ -4397,7 +4680,9 @@
     "closeFocus": "--",
     "diameter": 64.0,
     "aliases": [
-      "24mm F3.5 DG DN C"
+      "24mm F3.5 DG DN C",
+      "24mm f3.5 dg dn c",
+      "24mmf3.5dgdnc"
     ]
   },
   {
@@ -4430,7 +4715,9 @@
     "diameter": 78.0,
     "aliases": [
       "25MMF2.0",
-      "25mm F2.0"
+      "25mm F2.0",
+      "25mm f2.0",
+      "25mmf2.0"
     ]
   },
   {
@@ -4462,7 +4749,9 @@
     "closeFocus": "--",
     "diameter": 82.8,
     "aliases": [
-      "28mm F1.4 DG HSM Art"
+      "28mm F1.4 DG HSM Art",
+      "28mm f1.4 dg hsm art",
+      "28mmf1.4dghsmart"
     ]
   },
   {
@@ -4494,7 +4783,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "28mm F1.8 AF STM"
+      "28mm F1.8 AF STM",
+      "28mm f1.8 af stm",
+      "28mmf1.8afstm"
     ]
   },
   {
@@ -4528,7 +4819,9 @@
     "aliases": [
       "28MMF2.0",
       "28mm F2.0",
-      "28mm f2.0"
+      "28mm f2.0",
+      "Alpha 28mm f2.0",
+      "Alpha28mmf2.0"
     ]
   },
   {
@@ -4560,7 +4853,9 @@
     "closeFocus": "--",
     "diameter": 60.3,
     "aliases": [
-      "28mm F4.5 AF Chip"
+      "28mm F4.5 AF Chip",
+      "28mm f4.5 af chip",
+      "28mmf4.5afchip"
     ]
   },
   {
@@ -4592,7 +4887,9 @@
     "closeFocus": "--",
     "diameter": 88.0,
     "aliases": [
-      "35mm F1.2 DG DN Art"
+      "35mm F1.2 DG DN Art",
+      "35mm f1.2 dg dn art",
+      "35mmf1.2dgdnart"
     ]
   },
   {
@@ -4624,7 +4921,9 @@
     "closeFocus": "--",
     "diameter": 81.0,
     "aliases": [
-      "35mm F1.2 DG DN Art II"
+      "35mm F1.2 DG DN Art II",
+      "35mm f1.2 dg dn art ii",
+      "35mmf1.2dgdnartii"
     ]
   },
   {
@@ -4656,7 +4955,9 @@
     "closeFocus": "--",
     "diameter": 89.2,
     "aliases": [
-      "35mm F1.2 AF LAB"
+      "35mm F1.2 AF LAB",
+      "35mm f1.2 af lab",
+      "35mmf1.2aflab"
     ]
   },
   {
@@ -4688,7 +4989,9 @@
     "closeFocus": "--",
     "diameter": 75.9,
     "aliases": [
-      "35mm F1.4 AF"
+      "35mm F1.4 AF",
+      "35mm f1.4 af",
+      "35mmf1.4af"
     ]
   },
   {
@@ -4720,7 +5023,9 @@
     "closeFocus": "--",
     "diameter": 75.0,
     "aliases": [
-      "35mm F1.4 AF II"
+      "35mm F1.4 AF II",
+      "35mm f1.4 af ii",
+      "35mmf1.4afii"
     ]
   },
   {
@@ -4752,7 +5057,9 @@
     "closeFocus": "--",
     "diameter": 75.0,
     "aliases": [
-      "35mm F1.4 AF P"
+      "35mm F1.4 AF P",
+      "35mm f1.4 af p",
+      "35mmf1.4afp"
     ]
   },
   {
@@ -4784,7 +5091,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "35mm F1.4 DG Art II"
+      "35mm F1.4 DG Art II",
+      "35mm f1.4 dg art ii",
+      "35mmf1.4dgartii"
     ]
   },
   {
@@ -4816,7 +5125,9 @@
     "closeFocus": "--",
     "diameter": 77.0,
     "aliases": [
-      "35mm F1.4 DG HSM Art"
+      "35mm F1.4 DG HSM Art",
+      "35mm f1.4 dg hsm art",
+      "35mmf1.4dghsmart"
     ]
   },
   {
@@ -4850,7 +5161,9 @@
     "aliases": [
       "35GM",
       "35gm",
-      "35mm F1.4 GM"
+      "35mm F1.4 GM",
+      "Alpha 35mm F1.4 GM",
+      "Alpha35mmF1.4GM"
     ]
   },
   {
@@ -4883,7 +5196,9 @@
     "diameter": 78.5,
     "aliases": [
       "35mm F1.4 ZA",
-      "35mm f1.4 za"
+      "35mm f1.4 za",
+      "Alpha 35mm f1.4 za",
+      "Alpha35mmf1.4za"
     ]
   },
   {
@@ -4915,7 +5230,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "35mm F1.8 AF"
+      "35mm F1.8 AF",
+      "35mm f1.8 af",
+      "35mmf1.8af"
     ]
   },
   {
@@ -4949,7 +5266,9 @@
     "aliases": [
       "35MMF1.8",
       "35mm F1.8",
-      "35mm f1.8"
+      "35mm f1.8",
+      "Alpha 35mm f1.8",
+      "Alpha35mmf1.8"
     ]
   },
   {
@@ -4981,7 +5300,9 @@
     "closeFocus": "--",
     "diameter": 72.1,
     "aliases": [
-      "35mm T1.9 V-AF"
+      "35mm T1.9 V-AF",
+      "35mm t1.9 v-af",
+      "35mmt1.9v-af"
     ]
   },
   {
@@ -5013,7 +5334,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "35mm F2.0 DG DN C"
+      "35mm F2.0 DG DN C",
+      "35mm f2.0 dg dn c",
+      "35mmf2.0dgdnc"
     ]
   },
   {
@@ -5045,7 +5368,9 @@
     "closeFocus": "--",
     "diameter": 67.0,
     "aliases": [
-      "35mm F2.0 S DF DSM"
+      "35mm F2.0 S DF DSM",
+      "35mm f2.0 s df dsm",
+      "35mmf2.0sdfdsm"
     ]
   },
   {
@@ -5077,7 +5402,9 @@
     "closeFocus": "--",
     "diameter": 61.8,
     "aliases": [
-      "35mm F2.8 AF"
+      "35mm F2.8 AF",
+      "35mm f2.8 af",
+      "35mmf2.8af"
     ]
   },
   {
@@ -5110,7 +5437,9 @@
     "diameter": 61.5,
     "aliases": [
       "35mm F2.8 ZA",
-      "35mm f2.8 za"
+      "35mm f2.8 za",
+      "Alpha 35mm f2.8 za",
+      "Alpha35mmf2.8za"
     ]
   },
   {
@@ -5142,7 +5471,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "35mm F2.8 Di III OSD F053"
+      "35mm F2.8 Di III OSD F053",
+      "35mm f2.8 di iii osd f053",
+      "35mmf2.8diiiiosdf053"
     ]
   },
   {
@@ -5174,7 +5505,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "40mm F1.4 DG HSM Art"
+      "40mm F1.4 DG HSM Art",
+      "40mm f1.4 dg hsm art",
+      "40mmf1.4dghsmart"
     ]
   },
   {
@@ -5206,7 +5539,9 @@
     "closeFocus": "--",
     "diameter": 78.0,
     "aliases": [
-      "40mm F2.0 CF"
+      "40mm F2.0 CF",
+      "40mm f2.0 cf",
+      "40mmf2.0cf"
     ]
   },
   {
@@ -5241,7 +5576,9 @@
       "40G",
       "40MMF2.5G",
       "40g",
-      "40mm F2.5 G"
+      "40mm F2.5 G",
+      "Alpha 40mm F2.5 G",
+      "Alpha40mmF2.5G"
     ]
   },
   {
@@ -5273,7 +5610,9 @@
     "closeFocus": "--",
     "diameter": 68.0,
     "aliases": [
-      "40mm F2.5 AF Air"
+      "40mm F2.5 AF Air",
+      "40mm f2.5 af air",
+      "40mmf2.5afair"
     ]
   },
   {
@@ -5305,7 +5644,9 @@
     "closeFocus": "--",
     "diameter": 61.8,
     "aliases": [
-      "45mm F1.8 AF"
+      "45mm F1.8 AF",
+      "45mm f1.8 af",
+      "45mmf1.8af"
     ]
   },
   {
@@ -5337,7 +5678,9 @@
     "closeFocus": "--",
     "diameter": 64.0,
     "aliases": [
-      "45mm F2.8 DG DN C"
+      "45mm F2.8 DG DN C",
+      "45mm f2.8 dg dn c",
+      "45mmf2.8dgdnc"
     ]
   },
   {
@@ -5369,7 +5712,9 @@
     "closeFocus": "--",
     "diameter": 72.1,
     "aliases": [
-      "45mm T1.9 V-AF"
+      "45mm T1.9 V-AF",
+      "45mm t1.9 v-af",
+      "45mmt1.9v-af"
     ]
   },
   {
@@ -5401,7 +5746,9 @@
     "closeFocus": "--",
     "diameter": 81.0,
     "aliases": [
-      "50mm F1.2 DG DN Art"
+      "50mm F1.2 DG DN Art",
+      "50mm f1.2 dg dn art",
+      "50mmf1.2dgdnart"
     ]
   },
   {
@@ -5435,7 +5782,9 @@
     "aliases": [
       "50GM",
       "50gm",
-      "50mm F1.2 GM"
+      "50mm F1.2 GM",
+      "Alpha 50mm F1.2 GM",
+      "Alpha50mmF1.2GM"
     ]
   },
   {
@@ -5467,7 +5816,9 @@
     "closeFocus": "--",
     "diameter": 73.5,
     "aliases": [
-      "50mm F1.4 AF"
+      "50mm F1.4 AF",
+      "50mm f1.4 af",
+      "50mmf1.4af"
     ]
   },
   {
@@ -5499,7 +5850,9 @@
     "closeFocus": "--",
     "diameter": 80.1,
     "aliases": [
-      "50mm F1.4 AF II"
+      "50mm F1.4 AF II",
+      "50mm f1.4 af ii",
+      "50mmf1.4afii"
     ]
   },
   {
@@ -5531,22 +5884,24 @@
     "closeFocus": "--",
     "diameter": 85.4,
     "aliases": [
-      "50mm F1.4 DG HSM Art"
+      "50mm F1.4 DG HSM Art",
+      "50mm f1.4 dg hsm art",
+      "50mmf1.4dghsmart"
     ]
   },
   {
     "brand": "Sony",
-    "modelName": "Sony 50mm F1.4 GM",
+    "modelName": "Sony FE 50mm F1.4 GM",
     "gearType": "LENS",
     "series": "GM",
     "releaseYear": 2023,
     "launchPrice": 41980,
     "apertureMax": "1.4",
     "filterSizeMm": "67mm",
-    "weightGrams": "Approx. 516 g (including battery and card)",
+    "weightGrams": "Approx. 516 g",
     "lengthMm": 96.0,
     "widthMm": 80.6,
-    "maxMagnification": "0.15x (AF) / 0.18x (MF)",
+    "maxMagnification": "0.16x",
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
@@ -5555,18 +5910,21 @@
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-4-gm",
     "id": "50mm-f1-4-gm",
-    "motorType": "2x XD (Extreme Dynamic) Linear Motors",
-    "opticalDesign": "11 groups, 14 elements",
+    "motorType": "2 XD Linear Motors",
+    "opticalDesign": "14 elements in 11 groups",
     "minAperture": "--",
     "specialElements": "2 XA (Extreme Aspherical), 1 ED",
-    "coatings": "Nano AR II, Fluorine Coating",
-    "closeFocus": "0.38m (AF) / 0.41m (MF)",
+    "coatings": "Nano AR Coating II, Fluorine coating",
+    "closeFocus": "0.41m (AF) / 0.38m (MF)",
     "diameter": 80.6,
     "aliases": [
       "50GM",
       "50gm",
-      "50mm F1.4 GM"
-    ]
+      "50mm F1.4 GM",
+      "Alpha 50mm F1.4 GM",
+      "Alpha50mmF1.4GM"
+    ],
+    "dimensions": "80.6 x 96.0 mm"
   },
   {
     "brand": "Sony",
@@ -5598,7 +5956,9 @@
     "diameter": 83.5,
     "aliases": [
       "50mm F1.4 ZA",
-      "50mm f1.4 za"
+      "50mm f1.4 za",
+      "Alpha 50mm f1.4 za",
+      "Alpha50mmf1.4za"
     ]
   },
   {
@@ -5630,7 +5990,9 @@
     "closeFocus": "--",
     "diameter": 84.5,
     "aliases": [
-      "50mm F1.4 Pro"
+      "50mm F1.4 Pro",
+      "50mm f1.4 pro",
+      "50mmf1.4pro"
     ]
   },
   {
@@ -5662,7 +6024,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "50mm F1.8 AF"
+      "50mm F1.8 AF",
+      "50mm f1.8 af",
+      "50mmf1.8af"
     ]
   },
   {
@@ -5694,7 +6058,9 @@
     "closeFocus": "--",
     "diameter": 68.0,
     "aliases": [
-      "50mm F1.8 S DF DSM"
+      "50mm F1.8 S DF DSM",
+      "50mm f1.8 s df dsm",
+      "50mmf1.8sdfdsm"
     ]
   },
   {
@@ -5726,7 +6092,9 @@
     "closeFocus": "--",
     "diameter": 72.0,
     "aliases": [
-      "50mm T1.8 1.33x"
+      "50mm T1.8 1.33x",
+      "50mm t1.8 1.33x",
+      "50mmt1.81.33x"
     ]
   },
   {
@@ -5758,7 +6126,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "50mm F2.0 DG DN C"
+      "50mm F2.0 DG DN C",
+      "50mm f2.0 dg dn c",
+      "50mmf2.0dgdnc"
     ]
   },
   {
@@ -5790,7 +6160,9 @@
     "closeFocus": "--",
     "diameter": 65.0,
     "aliases": [
-      "50mm F2.0 AF Air"
+      "50mm F2.0 AF Air",
+      "50mm f2.0 af air",
+      "50mmf2.0afair"
     ]
   },
   {
@@ -5825,7 +6197,9 @@
       "50G",
       "50MMF2.5G",
       "50g",
-      "50mm F2.5 G"
+      "50mm F2.5 G",
+      "Alpha 50mm F2.5 G",
+      "Alpha50mmF2.5G"
     ]
   },
   {
@@ -5858,7 +6232,9 @@
     "diameter": 70.8,
     "aliases": [
       "50mm F2.8 Marcro",
-      "50mm f2.8 marcro"
+      "50mm f2.8 marcro",
+      "Alpha 50mm f2.8 marcro",
+      "Alpha50mmf2.8marcro"
     ]
   },
   {
@@ -5891,7 +6267,9 @@
     "diameter": 64.4,
     "aliases": [
       "55mm F1.8 ZA",
-      "55mm f1.8 za"
+      "55mm f1.8 za",
+      "Alpha 55mm f1.8 za",
+      "Alpha55mmf1.8za"
     ]
   },
   {
@@ -5923,7 +6301,9 @@
     "closeFocus": "--",
     "diameter": 72.0,
     "aliases": [
-      "65mm F2.0 DG DN C"
+      "65mm F2.0 DG DN C",
+      "65mm f2.0 dg dn c",
+      "65mmf2.0dgdnc"
     ]
   },
   {
@@ -5955,7 +6335,9 @@
     "closeFocus": "--",
     "diameter": 70.8,
     "aliases": [
-      "70mm F2.8 DG Macro Art"
+      "70mm F2.8 DG Macro Art",
+      "70mm f2.8 dg macro art",
+      "70mmf2.8dgmacroart"
     ]
   },
   {
@@ -5987,7 +6369,9 @@
     "closeFocus": "--",
     "diameter": 65.0,
     "aliases": [
-      "75mm F1.8 AF"
+      "75mm F1.8 AF",
+      "75mm f1.8 af",
+      "75mmf1.8af"
     ]
   },
   {
@@ -6019,7 +6403,9 @@
     "closeFocus": "--",
     "diameter": 72.0,
     "aliases": [
-      "75mm T1.8 1.33x"
+      "75mm T1.8 1.33x",
+      "75mm t1.8 1.33x",
+      "75mmt1.81.33x"
     ]
   },
   {
@@ -6051,7 +6437,9 @@
     "closeFocus": "--",
     "diameter": 72.1,
     "aliases": [
-      "75mm T1.9 V-AF"
+      "75mm T1.9 V-AF",
+      "75mm t1.9 v-af",
+      "75mmt1.9v-af"
     ]
   },
   {
@@ -6083,7 +6471,9 @@
     "closeFocus": "--",
     "diameter": 87.0,
     "aliases": [
-      "85mm F1.4 AF STM"
+      "85mm F1.4 AF STM",
+      "85mm f1.4 af stm",
+      "85mmf1.4afstm"
     ]
   },
   {
@@ -6115,7 +6505,9 @@
     "closeFocus": "--",
     "diameter": 88.0,
     "aliases": [
-      "85mm F1.4 AF"
+      "85mm F1.4 AF",
+      "85mm f1.4 af",
+      "85mmf1.4af"
     ]
   },
   {
@@ -6147,7 +6539,9 @@
     "closeFocus": "--",
     "diameter": 83.4,
     "aliases": [
-      "85mm F1.4 AF II"
+      "85mm F1.4 AF II",
+      "85mm f1.4 af ii",
+      "85mmf1.4afii"
     ]
   },
   {
@@ -6179,7 +6573,9 @@
     "closeFocus": "--",
     "diameter": 94.7,
     "aliases": [
-      "85mm F1.4 DG HSM Art"
+      "85mm F1.4 DG HSM Art",
+      "85mm f1.4 dg hsm art",
+      "85mmf1.4dghsmart"
     ]
   },
   {
@@ -6213,7 +6609,9 @@
     "aliases": [
       "85GM",
       "85gm",
-      "85mm F1.4 GM"
+      "85mm F1.4 GM",
+      "Alpha 85mm F1.4 GM",
+      "Alpha85mmF1.4GM"
     ]
   },
   {
@@ -6247,7 +6645,10 @@
     "aliases": [
       "85GM2",
       "85gm2",
-      "85mm F1.4 GM II"
+      "85mm F1.4 GM II",
+      "Alpha 85mm F1.4 GM II",
+      "Alpha85mmF1.4GMII",
+      "Sony Alpha 85mm F1.4 GM 2"
     ]
   },
   {
@@ -6279,7 +6680,9 @@
     "closeFocus": "--",
     "diameter": 84.5,
     "aliases": [
-      "85mm F1.4 Pro"
+      "85mm F1.4 Pro",
+      "85mm f1.4 pro",
+      "85mmf1.4pro"
     ]
   },
   {
@@ -6311,7 +6714,9 @@
     "closeFocus": "--",
     "diameter": 72.0,
     "aliases": [
-      "85mm F1.8 AF"
+      "85mm F1.8 AF",
+      "85mm f1.8 af",
+      "85mmf1.8af"
     ]
   },
   {
@@ -6343,7 +6748,9 @@
     "closeFocus": "--",
     "diameter": 0.0,
     "aliases": [
-      "85mm F1.8 STM"
+      "85mm F1.8 STM",
+      "85mm f1.8 stm",
+      "85mmf1.8stm"
     ]
   },
   {
@@ -6376,7 +6783,9 @@
     "diameter": 78.0,
     "aliases": [
       "85MMF1.8",
-      "85mm F1.8"
+      "85mm F1.8",
+      "85mm f1.8",
+      "85mmf1.8"
     ]
   },
   {
@@ -6408,7 +6817,9 @@
     "closeFocus": "--",
     "diameter": 80.0,
     "aliases": [
-      "85mm F1.8 FE ATX-M"
+      "85mm F1.8 FE ATX-M",
+      "85mm f1.8 fe atx-m",
+      "85mmf1.8featx-m"
     ]
   },
   {
@@ -6440,7 +6851,9 @@
     "closeFocus": "--",
     "diameter": 80.0,
     "aliases": [
-      "85mm F1.8 AF STM"
+      "85mm F1.8 AF STM",
+      "85mm f1.8 af stm",
+      "85mmf1.8afstm"
     ]
   },
   {
@@ -6472,7 +6885,9 @@
     "closeFocus": "--",
     "diameter": 80.0,
     "aliases": [
-      "85mm F1.8 AF STM II"
+      "85mm F1.8 AF STM II",
+      "85mm f1.8 af stm ii",
+      "85mmf1.8afstmii"
     ]
   },
   {
@@ -6504,7 +6919,9 @@
     "closeFocus": "--",
     "diameter": 67.0,
     "aliases": [
-      "85mm F1.8 S DF DSM"
+      "85mm F1.8 S DF DSM",
+      "85mm f1.8 s df dsm",
+      "85mmf1.8sdfdsm"
     ]
   },
   {
@@ -6536,7 +6953,9 @@
     "closeFocus": "--",
     "diameter": 69.0,
     "aliases": [
-      "85mm F2.0 EVO"
+      "85mm F2.0 EVO",
+      "85mm f2.0 evo",
+      "85mmf2.0evo"
     ]
   },
   {
@@ -6568,7 +6987,9 @@
     "closeFocus": "--",
     "diameter": 59.7,
     "aliases": [
-      "90mm F2.8 DG DN C"
+      "90mm F2.8 DG DN C",
+      "90mm f2.8 dg dn c",
+      "90mmf2.8dgdnc"
     ]
   },
   {
@@ -6602,7 +7023,9 @@
     "aliases": [
       "90G",
       "90g",
-      "90mm F2.8 G Macro OSS"
+      "90mm F2.8 G Macro OSS",
+      "Alpha 90mm F2.8 G Macro OSS",
+      "Alpha90mmF2.8GMacroOSS"
     ]
   },
   {
@@ -6634,7 +7057,9 @@
     "closeFocus": "--",
     "diameter": 79.2,
     "aliases": [
-      "90mm F2.8 Di III Macro VXD"
+      "90mm F2.8 Di III Macro VXD",
+      "90mm f2.8 di iii macro vxd",
+      "90mmf2.8diiiimacrovxd"
     ]
   },
   {
@@ -6666,7 +7091,9 @@
     "closeFocus": "--",
     "diameter": 72.0,
     "aliases": [
-      "100mm T1.8 1.33x"
+      "100mm T1.8 1.33x",
+      "100mm t1.8 1.33x",
+      "100mmt1.81.33x"
     ]
   },
   {
@@ -6698,7 +7125,9 @@
     "closeFocus": "--",
     "diameter": 72.2,
     "aliases": [
-      "100mm T2.3 V-AF"
+      "100mm T2.3 V-AF",
+      "100mm t2.3 v-af",
+      "100mmt2.3v-af"
     ]
   },
   {
@@ -6732,7 +7161,9 @@
     "aliases": [
       "100GM",
       "100gm",
-      "100mm F2.8 GM OSS STF"
+      "100mm F2.8 GM OSS STF",
+      "Alpha 100mm F2.8 GM OSS STF",
+      "Alpha100mmF2.8GMOSSSTF"
     ]
   },
   {
@@ -6766,7 +7197,9 @@
     "aliases": [
       "100GM",
       "100gm",
-      "100mm F2.8 GM OSS Marco"
+      "100mm F2.8 GM OSS Marco",
+      "Alpha 100mm F2.8 GM OSS Marco",
+      "Alpha100mmF2.8GMOSSMarco"
     ]
   },
   {
@@ -6798,7 +7231,9 @@
     "closeFocus": "--",
     "diameter": 74.0,
     "aliases": [
-      "100mm F2.8 FE Macro FiRIN"
+      "100mm F2.8 FE Macro FiRIN",
+      "100mm f2.8 fe macro firin",
+      "100mmf2.8femacrofirin"
     ]
   },
   {
@@ -6830,7 +7265,9 @@
     "closeFocus": "--",
     "diameter": 115.9,
     "aliases": [
-      "105mm F1.4 DG HSM Art"
+      "105mm F1.4 DG HSM Art",
+      "105mm f1.4 dg hsm art",
+      "105mmf1.4dghsmart"
     ]
   },
   {
@@ -6862,7 +7299,9 @@
     "closeFocus": "--",
     "diameter": 111.7,
     "aliases": [
-      "135mm F1.4 DG DN Art"
+      "135mm F1.4 DG DN Art",
+      "135mm f1.4 dg dn art",
+      "135mmf1.4dgdnart"
     ]
   },
   {
@@ -6894,7 +7333,9 @@
     "closeFocus": "--",
     "diameter": 93.4,
     "aliases": [
-      "135mm F1.8 AF"
+      "135mm F1.8 AF",
+      "135mm f1.8 af",
+      "135mmf1.8af"
     ]
   },
   {
@@ -6926,7 +7367,9 @@
     "closeFocus": "--",
     "diameter": 91.4,
     "aliases": [
-      "135mm F1.8 DG HSM Art"
+      "135mm F1.8 DG HSM Art",
+      "135mm f1.8 dg hsm art",
+      "135mmf1.8dghsmart"
     ]
   },
   {
@@ -6960,7 +7403,9 @@
     "aliases": [
       "135GM",
       "135gm",
-      "135mm F1.8 GM"
+      "135mm F1.8 GM",
+      "Alpha 135mm F1.8 GM",
+      "Alpha135mmF1.8GM"
     ]
   },
   {
@@ -6992,7 +7437,9 @@
     "closeFocus": "--",
     "diameter": 93.0,
     "aliases": [
-      "135mm F1.8 AF LAB"
+      "135mm F1.8 AF LAB",
+      "135mm f1.8 af lab",
+      "135mmf1.8aflab"
     ]
   },
   {
@@ -7024,7 +7471,9 @@
     "closeFocus": "--",
     "diameter": 81.0,
     "aliases": [
-      "135mm F2.8 APO"
+      "135mm F2.8 APO",
+      "135mm f2.8 apo",
+      "135mmf2.8apo"
     ]
   },
   {
@@ -7056,7 +7505,9 @@
     "closeFocus": "--",
     "diameter": 67.6,
     "aliases": [
-      "180mm F4.5 CA-Dreamer Macro"
+      "180mm F4.5 CA-Dreamer Macro",
+      "180mm f4.5 ca-dreamer macro",
+      "180mmf4.5ca-dreamermacro"
     ]
   },
   {
@@ -7088,7 +7539,9 @@
     "closeFocus": "--",
     "diameter": 118.0,
     "aliases": [
-      "200mm F2.0 C-Dreamer"
+      "200mm F2.0 C-Dreamer",
+      "200mm f2.0 c-dreamer",
+      "200mmf2.0c-dreamer"
     ]
   },
   {
@@ -7120,7 +7573,9 @@
     "closeFocus": "--",
     "diameter": 118.9,
     "aliases": [
-      "200mm F2.0 DG OS Sports"
+      "200mm F2.0 DG OS Sports",
+      "200mm f2.0 dg os sports",
+      "200mmf2.0dgossports"
     ]
   },
   {
@@ -7154,7 +7609,9 @@
     "aliases": [
       "300GM",
       "300gm",
-      "300mm F2.8 GM OSS"
+      "300mm F2.8 GM OSS",
+      "Alpha 300mm F2.8 GM OSS",
+      "Alpha300mmF2.8GMOSS"
     ]
   },
   {
@@ -7188,7 +7645,9 @@
     "aliases": [
       "400GM",
       "400gm",
-      "400mm F2.8 GM OSS"
+      "400mm F2.8 GM OSS",
+      "Alpha 400mm F2.8 GM OSS",
+      "Alpha400mmF2.8GMOSS"
     ]
   },
   {
@@ -7220,7 +7679,9 @@
     "closeFocus": "--",
     "diameter": 107.6,
     "aliases": [
-      "500mm F5.6 DG DN OS Sport"
+      "500mm F5.6 DG DN OS Sport",
+      "500mm f5.6 dg dn os sport",
+      "500mmf5.6dgdnossport"
     ]
   },
   {
@@ -7254,7 +7715,9 @@
     "aliases": [
       "600GM",
       "600gm",
-      "600mm F4.0 GM OSS"
+      "600mm F4.0 GM OSS",
+      "Alpha 600mm F4.0 GM OSS",
+      "Alpha600mmF4.0GMOSS"
     ]
   },
   {
@@ -7288,7 +7751,9 @@
     "aliases": [
       "12-24mm F2.8 GM",
       "1224GM",
-      "1224gm"
+      "1224gm",
+      "Alpha 12-24mm F2.8 GM",
+      "Alpha12-24mmF2.8GM"
     ]
   },
   {
@@ -7322,7 +7787,9 @@
     "aliases": [
       "12-24mm F4 G",
       "1224G",
-      "1224g"
+      "1224g",
+      "Alpha 12-24mm F4 G",
+      "Alpha12-24mmF4G"
     ]
   },
   {
@@ -7354,7 +7821,9 @@
     "closeFocus": "--",
     "diameter": 84.0,
     "aliases": [
-      "14-24mm F2.8 AF"
+      "14-24mm F2.8 AF",
+      "14-24mm f2.8 af",
+      "14-24mmf2.8af"
     ]
   },
   {
@@ -7388,7 +7857,9 @@
     "aliases": [
       "16-25mm F2.8 G",
       "1625G",
-      "1625g"
+      "1625g",
+      "Alpha 16-25mm F2.8 G",
+      "Alpha16-25mmF2.8G"
     ]
   },
   {
@@ -7420,7 +7891,9 @@
     "closeFocus": "--",
     "diameter": 77.2,
     "aliases": [
-      "16-28mm F2.8 DG DN C"
+      "16-28mm F2.8 DG DN C",
+      "16-28mm f2.8 dg dn c",
+      "16-28mmf2.8dgdnc"
     ]
   },
   {
@@ -7452,7 +7925,9 @@
     "closeFocus": "--",
     "diameter": 74.8,
     "aliases": [
-      "16-30mm F2.8 Di III VXD G2 A064"
+      "16-30mm F2.8 Di III VXD G2 A064",
+      "16-30mm f2.8 di iii vxd g2 a064",
+      "16-30mmf2.8diiiivxdg2a064"
     ]
   },
   {
@@ -7486,7 +7961,9 @@
     "aliases": [
       "16-35mm F2.8 GM",
       "1635GM",
-      "1635gm"
+      "1635gm",
+      "Alpha 16-35mm F2.8 GM",
+      "Alpha16-35mmF2.8GM"
     ]
   },
   {
@@ -7520,7 +7997,10 @@
     "aliases": [
       "16-35mm F2.8 GM II",
       "1635GM2",
-      "1635gm2"
+      "1635gm2",
+      "Alpha 16-35mm F2.8 GM II",
+      "Alpha16-35mmF2.8GMII",
+      "Sony Alpha 16-35mm F2.8 GM 2"
     ]
   },
   {
@@ -7554,7 +8034,9 @@
     "aliases": [
       "16-35mm T3.1 G",
       "1635G",
-      "1635g"
+      "1635g",
+      "Alpha 16-35mm T3.1 G",
+      "Alpha16-35mmT3.1G"
     ]
   },
   {
@@ -7587,7 +8069,9 @@
     "diameter": 78.0,
     "aliases": [
       "16-35mm F4 ZA OSS",
-      "16-35mm f4 za oss"
+      "16-35mm f4 za oss",
+      "Alpha 16-35mm f4 za oss",
+      "Alpha16-35mmf4zaoss"
     ]
   },
   {
@@ -7621,7 +8105,9 @@
     "aliases": [
       "16-35mm F4 G PZ",
       "1635G",
-      "1635g"
+      "1635g",
+      "Alpha 16-35mm F4 G PZ",
+      "Alpha16-35mmF4GPZ"
     ]
   },
   {
@@ -7653,7 +8139,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "17-28mm F2.8 Di III RXD A046"
+      "17-28mm F2.8 Di III RXD A046",
+      "17-28mm f2.8 di iii rxd a046",
+      "17-28mmf2.8diiiirxda046"
     ]
   },
   {
@@ -7685,7 +8173,9 @@
     "closeFocus": "--",
     "diameter": 74.8,
     "aliases": [
-      "17-50mm F4 Di III RXD A068"
+      "17-50mm F4 Di III RXD A068",
+      "17-50mm f4 di iii rxd a068",
+      "17-50mmf4diiiirxda068"
     ]
   },
   {
@@ -7717,7 +8207,9 @@
     "closeFocus": "--",
     "diameter": 74.7,
     "aliases": [
-      "20-40mm F2.8 Di III VXD A062 20-40mm F2.8 Di III VXD A062"
+      "20-40mm F2.8 Di III VXD A062 20-40mm F2.8 Di III VXD A062",
+      "20-40mm f2.8 di iii vxd a062 20-40mm f2.8 di iii vxd a062",
+      "20-40mmf2.8diiiivxda06220-40mmf2.8diiiivxda062"
     ]
   },
   {
@@ -7751,7 +8243,9 @@
     "aliases": [
       "20-70mm F4 G",
       "2070G",
-      "2070g"
+      "2070g",
+      "Alpha 20-70mm F4 G",
+      "Alpha20-70mmF4G"
     ]
   },
   {
@@ -7783,7 +8277,9 @@
     "closeFocus": "--",
     "diameter": 77.2,
     "aliases": [
-      "20-200mm F3.5-6.3 DG C"
+      "20-200mm F3.5-6.3 DG C",
+      "20-200mm f3.5-6.3 dg c",
+      "20-200mmf3.5-6.3dgc"
     ]
   },
   {
@@ -7817,7 +8313,9 @@
     "aliases": [
       "24-50mm F2.8 G",
       "2450G",
-      "2450g"
+      "2450g",
+      "Alpha 24-50mm F2.8 G",
+      "Alpha24-50mmF2.8G"
     ]
   },
   {
@@ -7849,7 +8347,9 @@
     "closeFocus": "--",
     "diameter": 88.0,
     "aliases": [
-      "24-70mm F2.8 AF"
+      "24-70mm F2.8 AF",
+      "24-70mm f2.8 af",
+      "24-70mmf2.8af"
     ]
   },
   {
@@ -7881,7 +8381,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "24-70mm F2.8 DG DN Art"
+      "24-70mm F2.8 DG DN Art",
+      "24-70mm f2.8 dg dn art",
+      "24-70mmf2.8dgdnart"
     ]
   },
   {
@@ -7915,7 +8417,9 @@
     "aliases": [
       "24-70mm F2.8 GM",
       "2470GM",
-      "2470gm"
+      "2470gm",
+      "Alpha 24-70mm F2.8 GM",
+      "Alpha24-70mmF2.8GM"
     ]
   },
   {
@@ -7949,7 +8453,10 @@
     "aliases": [
       "24-70mm F2.8 GM II",
       "2470GM2",
-      "2470gm2"
+      "2470gm2",
+      "Alpha 24-70mm F2.8 GM II",
+      "Alpha24-70mmF2.8GMII",
+      "Sony Alpha 24-70mm F2.8 GM 2"
     ]
   },
   {
@@ -7982,7 +8489,9 @@
     "diameter": 73.0,
     "aliases": [
       "24-70mm F4 ZA OSS",
-      "24-70mm f4 za oss"
+      "24-70mm f4 za oss",
+      "Alpha 24-70mm f4 za oss",
+      "Alpha24-70mmf4zaoss"
     ]
   },
   {
@@ -8016,7 +8525,9 @@
     "aliases": [
       "24-105mm F4 G",
       "24105G",
-      "24105g"
+      "24105g",
+      "Alpha 24-105mm F4 G",
+      "Alpha24-105mmF4G"
     ]
   },
   {
@@ -8049,7 +8560,9 @@
     "diameter": 80.5,
     "aliases": [
       "24-240mm F3.5-6.3 OSS",
-      "24-240mm f3.5-6.3 oss"
+      "24-240mm f3.5-6.3 oss",
+      "Alpha 24-240mm f3.5-6.3 oss",
+      "Alpha24-240mmf3.5-6.3oss"
     ]
   },
   {
@@ -8081,7 +8594,9 @@
     "closeFocus": "--",
     "diameter": 76.2,
     "aliases": [
-      "25-200mm F2.8-5.6 G2 VXD A075"
+      "25-200mm F2.8-5.6 G2 VXD A075",
+      "25-200mm f2.8-5.6 g2 vxd a075",
+      "25-200mmf2.8-5.6g2vxda075"
     ]
   },
   {
@@ -8113,7 +8628,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "28-45mm F1.8 DG DN Art"
+      "28-45mm F1.8 DG DN Art",
+      "28-45mm f1.8 dg dn art",
+      "28-45mmf1.8dgdnart"
     ]
   },
   {
@@ -8146,7 +8663,9 @@
     "diameter": 64.0,
     "aliases": [
       "28-60mm F4-5.6",
-      "28-60mm f4-5.6"
+      "28-60mm f4-5.6",
+      "Alpha 28-60mm f4-5.6",
+      "Alpha28-60mmf4-5.6"
     ]
   },
   {
@@ -8180,7 +8699,9 @@
     "aliases": [
       "28-70mm F2.0 GM",
       "2870GM",
-      "2870gm"
+      "2870gm",
+      "Alpha 28-70mm F2.0 GM",
+      "Alpha28-70mmF2.0GM"
     ]
   },
   {
@@ -8212,7 +8733,9 @@
     "closeFocus": "--",
     "diameter": 72.2,
     "aliases": [
-      "28-70mm F2.8 DG DN C"
+      "28-70mm F2.8 DG DN C",
+      "28-70mm f2.8 dg dn c",
+      "28-70mmf2.8dgdnc"
     ]
   },
   {
@@ -8245,7 +8768,9 @@
     "diameter": 72.5,
     "aliases": [
       "28-70mm F3.5-5.6 OSS",
-      "28-70mm f3.5-5.6 oss"
+      "28-70mm f3.5-5.6 oss",
+      "Alpha 28-70mm f3.5-5.6 oss",
+      "Alpha28-70mmf3.5-5.6oss"
     ]
   },
   {
@@ -8277,7 +8802,9 @@
     "closeFocus": "--",
     "diameter": 73.0,
     "aliases": [
-      "28-75mm F2.8 Di III RXD A036"
+      "28-75mm F2.8 Di III RXD A036",
+      "28-75mm f2.8 di iii rxd a036",
+      "28-75mmf2.8diiiirxda036"
     ]
   },
   {
@@ -8309,7 +8836,9 @@
     "closeFocus": "--",
     "diameter": 75.8,
     "aliases": [
-      "28-75mm F2.8 Di III VXD A063 G2"
+      "28-75mm F2.8 Di III VXD A063 G2",
+      "28-75mm f2.8 di iii vxd a063 g2",
+      "28-75mmf2.8diiiivxda063g2"
     ]
   },
   {
@@ -8341,7 +8870,9 @@
     "closeFocus": "--",
     "diameter": 87.8,
     "aliases": [
-      "28-105mm F2.8 DG DN Art"
+      "28-105mm F2.8 DG DN Art",
+      "28-105mm f2.8 dg dn art",
+      "28-105mmf2.8dgdnart"
     ]
   },
   {
@@ -8375,7 +8906,9 @@
     "aliases": [
       "28-135mm F4 G OSS PZ",
       "28135G",
-      "28135g"
+      "28135g",
+      "Alpha 28-135mm F4 G OSS PZ",
+      "Alpha28-135mmF4GOSSPZ"
     ]
   },
   {
@@ -8407,7 +8940,9 @@
     "closeFocus": "--",
     "diameter": 74.0,
     "aliases": [
-      "28-200mm F2.8-5.6 Di III RXD A071"
+      "28-200mm F2.8-5.6 Di III RXD A071",
+      "28-200mm f2.8-5.6 di iii rxd a071",
+      "28-200mmf2.8-5.6diiiirxda071"
     ]
   },
   {
@@ -8439,7 +8974,9 @@
     "closeFocus": "--",
     "diameter": 77.0,
     "aliases": [
-      "28-300mm F4.0-7.1 Di III VXD A074"
+      "28-300mm F4.0-7.1 Di III VXD A074",
+      "28-300mm f4.0-7.1 di iii vxd a074",
+      "28-300mmf4.0-7.1diiiivxda074"
     ]
   },
   {
@@ -8471,7 +9008,9 @@
     "closeFocus": "--",
     "diameter": 80.6,
     "aliases": [
-      "35-100mm F2.8 Di III VXD A078"
+      "35-100mm F2.8 Di III VXD A078",
+      "35-100mm f2.8 di iii vxd a078",
+      "35-100mmf2.8diiiivxda078"
     ]
   },
   {
@@ -8503,7 +9042,9 @@
     "closeFocus": "--",
     "diameter": 92.8,
     "aliases": [
-      "35-150mm F2.0-2.8 AF"
+      "35-150mm F2.0-2.8 AF",
+      "35-150mm f2.0-2.8 af",
+      "35-150mmf2.0-2.8af"
     ]
   },
   {
@@ -8535,7 +9076,9 @@
     "closeFocus": "--",
     "diameter": 89.2,
     "aliases": [
-      "35-150mm F2.0-2.8 Di III VXD A058"
+      "35-150mm F2.0-2.8 Di III VXD A058",
+      "35-150mm f2.0-2.8 di iii vxd a058",
+      "35-150mmf2.0-2.8diiiivxda058"
     ]
   },
   {
@@ -8569,7 +9112,9 @@
     "aliases": [
       "50-150mm F2.0 GM",
       "50150GM",
-      "50150gm"
+      "50150gm",
+      "Alpha 50-150mm F2.0 GM",
+      "Alpha50-150mmF2.0GM"
     ]
   },
   {
@@ -8601,7 +9146,9 @@
     "closeFocus": "--",
     "diameter": 80.0,
     "aliases": [
-      "50-300mm F4.5-6.3 Di III VC VXD A069"
+      "50-300mm F4.5-6.3 Di III VC VXD A069",
+      "50-300mm f4.5-6.3 di iii vc vxd a069",
+      "50-300mmf4.5-6.3diiiivcvxda069"
     ]
   },
   {
@@ -8633,7 +9180,9 @@
     "closeFocus": "--",
     "diameter": 88.5,
     "aliases": [
-      "50-400mm F4.5-6.3 Di III VC VXD A067"
+      "50-400mm F4.5-6.3 Di III VC VXD A067",
+      "50-400mm f4.5-6.3 di iii vc vxd a067",
+      "50-400mmf4.5-6.3diiiivcvxda067"
     ]
   },
   {
@@ -8665,7 +9214,9 @@
     "closeFocus": "--",
     "diameter": 120.4,
     "aliases": [
-      "60-600mm F4.5-6.3 DG DN OS Sport"
+      "60-600mm F4.5-6.3 DG DN OS Sport",
+      "60-600mm f4.5-6.3 dg dn os sport",
+      "60-600mmf4.5-6.3dgdnossport"
     ]
   },
   {
@@ -8697,7 +9248,9 @@
     "closeFocus": "--",
     "diameter": 81.0,
     "aliases": [
-      "70-180mm F2.8 Di III VXD A056"
+      "70-180mm F2.8 Di III VXD A056",
+      "70-180mm f2.8 di iii vxd a056",
+      "70-180mmf2.8diiiivxda056"
     ]
   },
   {
@@ -8729,7 +9282,9 @@
     "closeFocus": "--",
     "diameter": 83.0,
     "aliases": [
-      "70-180mm F2.8 Di III VXD A065 G2"
+      "70-180mm F2.8 Di III VXD A065 G2",
+      "70-180mm f2.8 di iii vxd a065 g2",
+      "70-180mmf2.8diiiivxda065g2"
     ]
   },
   {
@@ -8761,7 +9316,9 @@
     "closeFocus": "--",
     "diameter": 90.6,
     "aliases": [
-      "70-200mm F2.8 DG DN Sport"
+      "70-200mm F2.8 DG DN Sport",
+      "70-200mm f2.8 dg dn sport",
+      "70-200mmf2.8dgdnsport"
     ]
   },
   {
@@ -8795,7 +9352,9 @@
     "aliases": [
       "70-200mm F2.8 GM OSS",
       "70200GM",
-      "70200gm"
+      "70200gm",
+      "Alpha 70-200mm F2.8 GM OSS",
+      "Alpha70-200mmF2.8GMOSS"
     ]
   },
   {
@@ -8829,7 +9388,10 @@
     "aliases": [
       "70-200mm F2.8 GM OSS II",
       "70200GM2",
-      "70200gm2"
+      "70200gm2",
+      "Alpha 70-200mm F2.8 GM OSS II",
+      "Alpha70-200mmF2.8GMOSSII",
+      "Sony Alpha 70-200mm F2.8 GM OSS 2"
     ]
   },
   {
@@ -8863,7 +9425,9 @@
     "aliases": [
       "70-200mm F4 G OSS",
       "70200G",
-      "70200g"
+      "70200g",
+      "Alpha 70-200mm F4 G OSS",
+      "Alpha70-200mmF4GOSS"
     ]
   },
   {
@@ -8897,7 +9461,10 @@
     "aliases": [
       "70-200mm F4 G OSS II",
       "70200G2",
-      "70200g2"
+      "70200g2",
+      "Alpha 70-200mm F4 G OSS II",
+      "Alpha70-200mmF4GOSSII",
+      "Sony Alpha 70-200mm F4 G OSS 2"
     ]
   },
   {
@@ -8931,7 +9498,9 @@
     "aliases": [
       "70-300mm F4.5-5.6 G OSS",
       "70300G",
-      "70300g"
+      "70300g",
+      "Alpha 70-300mm F4.5-5.6 G OSS",
+      "Alpha70-300mmF4.5-5.6GOSS"
     ]
   },
   {
@@ -8963,7 +9532,9 @@
     "closeFocus": "--",
     "diameter": 77.0,
     "aliases": [
-      "70-300mm F4.5-6.3 Di III RXD A047"
+      "70-300mm F4.5-6.3 Di III RXD A047",
+      "70-300mm f4.5-6.3 di iii rxd a047",
+      "70-300mmf4.5-6.3diiiirxda047"
     ]
   },
   {
@@ -8997,7 +9568,9 @@
     "aliases": [
       "100-400mm F4.5-5.6 GM OSS",
       "100400GM",
-      "100400gm"
+      "100400gm",
+      "Alpha 100-400mm F4.5-5.6 GM OSS",
+      "Alpha100-400mmF4.5-5.6GMOSS"
     ]
   },
   {
@@ -9029,7 +9602,9 @@
     "closeFocus": "--",
     "diameter": 86.0,
     "aliases": [
-      "100-400mm F5-6.3 DG DN OS C"
+      "100-400mm F5-6.3 DG DN OS C",
+      "100-400mm f5-6.3 dg dn os c",
+      "100-400mmf5-6.3dgdnosc"
     ]
   },
   {
@@ -9061,7 +9636,9 @@
     "closeFocus": "--",
     "diameter": 109.4,
     "aliases": [
-      "150-600mm F5-6.3 DG DN OS"
+      "150-600mm F5-6.3 DG DN OS",
+      "150-600mm f5-6.3 dg dn os",
+      "150-600mmf5-6.3dgdnos"
     ]
   },
   {
@@ -9095,7 +9672,9 @@
     "aliases": [
       "200-600mm F5.6-6.3 G OSS",
       "200600G",
-      "200600g"
+      "200600g",
+      "Alpha 200-600mm F5.6-6.3 G OSS",
+      "Alpha200-600mmF5.6-6.3GOSS"
     ]
   },
   {
@@ -9127,7 +9706,9 @@
     "closeFocus": "--",
     "diameter": 167.0,
     "aliases": [
-      "300-600mm F4.0 DG DN OS Sport"
+      "300-600mm F4.0 DG DN OS Sport",
+      "300-600mm f4.0 dg dn os sport",
+      "300-600mmf4.0dgdnossport"
     ]
   },
   {
@@ -9161,7 +9742,9 @@
     "aliases": [
       "400-800mm F6.3-8.0 G OSS",
       "400800G",
-      "400800g"
+      "400800g",
+      "Alpha 400-800mm F6.3-8.0 G OSS",
+      "Alpha400-800mmF6.3-8.0GOSS"
     ]
   },
   {
@@ -9193,7 +9776,9 @@
     "closeFocus": "--",
     "diameter": 66.0,
     "aliases": [
-      "9mm F5.6 W-Dreamer"
+      "9mm F5.6 W-Dreamer",
+      "9mm f5.6 w-dreamer",
+      "9mmf5.6w-dreamer"
     ]
   },
   {
@@ -9226,7 +9811,9 @@
     "diameter": 68.5,
     "aliases": [
       "10MMF5.6",
-      "10mm F5.6"
+      "10mm F5.6",
+      "10mm f5.6",
+      "10mmf5.6"
     ]
   },
   {
@@ -9258,7 +9845,9 @@
     "closeFocus": "--",
     "diameter": 58.0,
     "aliases": [
-      "11mm F4.5 C-Dreamer"
+      "11mm F4.5 C-Dreamer",
+      "11mm f4.5 c-dreamer",
+      "11mmf4.5c-dreamer"
     ]
   },
   {
@@ -9290,7 +9879,9 @@
     "closeFocus": "--",
     "diameter": 82.2,
     "aliases": [
-      "12mm F2.8 ZERO-D"
+      "12mm F2.8 ZERO-D",
+      "12mm f2.8 zero-d",
+      "12mmf2.8zero-d"
     ]
   },
   {
@@ -9322,7 +9913,9 @@
     "closeFocus": "--",
     "diameter": 68.3,
     "aliases": [
-      "12mm F5.6 Aspherical"
+      "12mm F5.6 Aspherical",
+      "12mm f5.6 aspherical",
+      "12mmf5.6aspherical"
     ]
   },
   {
@@ -9354,7 +9947,9 @@
     "closeFocus": "--",
     "diameter": 77.2,
     "aliases": [
-      "15mm F2 ZERO-D"
+      "15mm F2 ZERO-D",
+      "15mm f2 zero-d",
+      "15mmf2zero-d"
     ]
   },
   {
@@ -9386,7 +9981,9 @@
     "closeFocus": "--",
     "diameter": 83.8,
     "aliases": [
-      "15mm F4.0 Wide Macro 1:1"
+      "15mm F4.0 Wide Macro 1:1",
+      "15mm f4.0 wide macro 1:1",
+      "15mmf4.0widemacro1:1"
     ]
   },
   {
@@ -9418,7 +10015,9 @@
     "closeFocus": "--",
     "diameter": 62.3,
     "aliases": [
-      "15mm F4.5 III"
+      "15mm F4.5 III",
+      "15mm f4.5 iii",
+      "15mmf4.5iii"
     ]
   },
   {
@@ -9451,7 +10050,9 @@
     "diameter": 81.5,
     "aliases": [
       "20MMF2MF",
-      "20mm F2 MF"
+      "20mm F2 MF",
+      "20mm f2 mf",
+      "20mmf2mf"
     ]
   },
   {
@@ -9483,7 +10084,9 @@
     "closeFocus": "--",
     "diameter": 79.5,
     "aliases": [
-      "21mm F1.4 Aspherical"
+      "21mm F1.4 Aspherical",
+      "21mm f1.4 aspherical",
+      "21mmf1.4aspherical"
     ]
   },
   {
@@ -9516,7 +10119,9 @@
     "diameter": 72.0,
     "aliases": [
       "21MMF2.8",
-      "21mm F2.8"
+      "21mm F2.8",
+      "21mm f2.8",
+      "21mmf2.8"
     ]
   },
   {
@@ -9548,7 +10153,9 @@
     "closeFocus": "--",
     "diameter": 39.9,
     "aliases": [
-      "21mm F3.5 Aspherical"
+      "21mm F3.5 Aspherical",
+      "21mm f3.5 aspherical",
+      "21mmf3.5aspherical"
     ]
   },
   {
@@ -9580,7 +10187,9 @@
     "closeFocus": "--",
     "diameter": 408.0,
     "aliases": [
-      "24mm F14 2X Macro Probe"
+      "24mm F14 2X Macro Probe",
+      "24mm f14 2x macro probe",
+      "24mmf142xmacroprobe"
     ]
   },
   {
@@ -9613,7 +10222,9 @@
     "diameter": 74.5,
     "aliases": [
       "25MMF2.4",
-      "25mm F2.4"
+      "25mm F2.4",
+      "25mm f2.4",
+      "25mmf2.4"
     ]
   },
   {
@@ -9645,7 +10256,9 @@
     "closeFocus": "--",
     "diameter": 65.0,
     "aliases": [
-      "25mm F2.8 Ultra Macro 2.5-5x"
+      "25mm F2.8 Ultra Macro 2.5-5x",
+      "25mm f2.8 ultra macro 2.5-5x",
+      "25mmf2.8ultramacro2.5-5x"
     ]
   },
   {
@@ -9677,7 +10290,9 @@
     "closeFocus": "--",
     "diameter": 103.0,
     "aliases": [
-      "35mm f0.95 FF II Argus"
+      "35mm f0.95 FF II Argus",
+      "35mm f0.95 ff ii argus",
+      "35mmf0.95ffiiargus"
     ]
   },
   {
@@ -9709,7 +10324,9 @@
     "closeFocus": "--",
     "diameter": 59.9,
     "aliases": [
-      "35mm F1.2 Aspherical SE"
+      "35mm F1.2 Aspherical SE",
+      "35mm f1.2 aspherical se",
+      "35mmf1.2asphericalse"
     ]
   },
   {
@@ -9742,7 +10359,9 @@
     "diameter": 39.6,
     "aliases": [
       "35MMF1.4",
-      "35mm F1.4"
+      "35mm F1.4",
+      "35mm f1.4",
+      "35mmf1.4"
     ]
   },
   {
@@ -9775,7 +10394,9 @@
     "diameter": 67.0,
     "aliases": [
       "35MMF2",
-      "35mm F2"
+      "35mm F2",
+      "35mm f2",
+      "35mmf2"
     ]
   },
   {
@@ -9807,7 +10428,9 @@
     "closeFocus": "--",
     "diameter": 51.9,
     "aliases": [
-      "40mm F1.2 Aspherical SE"
+      "40mm F1.2 Aspherical SE",
+      "40mm f1.2 aspherical se",
+      "40mmf1.2asphericalse"
     ]
   },
   {
@@ -9839,7 +10462,9 @@
     "closeFocus": "--",
     "diameter": 59.3,
     "aliases": [
-      "40mm F1.2 Aspherical"
+      "40mm F1.2 Aspherical",
+      "40mm f1.2 aspherical",
+      "40mmf1.2aspherical"
     ]
   },
   {
@@ -9871,7 +10496,9 @@
     "closeFocus": "--",
     "diameter": 85.0,
     "aliases": [
-      "50mm F0.95 III"
+      "50mm F0.95 III",
+      "50mm f0.95 iii",
+      "50mmf0.95iii"
     ]
   },
   {
@@ -9903,7 +10530,9 @@
     "closeFocus": "--",
     "diameter": 58.5,
     "aliases": [
-      "50mm F1.2 Aspherical SE"
+      "50mm F1.2 Aspherical SE",
+      "50mm f1.2 aspherical se",
+      "50mmf1.2asphericalse"
     ]
   },
   {
@@ -9935,7 +10564,9 @@
     "closeFocus": "--",
     "diameter": 58.8,
     "aliases": [
-      "50mm F1.2 Aspherical"
+      "50mm F1.2 Aspherical",
+      "50mm f1.2 aspherical",
+      "50mmf1.2aspherical"
     ]
   },
   {
@@ -9968,7 +10599,9 @@
     "diameter": 59.2,
     "aliases": [
       "50MMF2",
-      "50mm F2"
+      "50mm F2",
+      "50mm f2",
+      "50mmf2"
     ]
   },
   {
@@ -10000,7 +10633,9 @@
     "closeFocus": "--",
     "diameter": 61.3,
     "aliases": [
-      "50mm F2 APO-LANTHAR"
+      "50mm F2 APO-LANTHAR",
+      "50mm f2 apo-lanthar",
+      "50mmf2apo-lanthar"
     ]
   },
   {
@@ -10032,7 +10667,9 @@
     "closeFocus": "--",
     "diameter": 70.0,
     "aliases": [
-      "60mm F2.8 Macro 2:1"
+      "60mm F2.8 Macro 2:1",
+      "60mm f2.8 macro 2:1",
+      "60mmf2.8macro2:1"
     ]
   },
   {
@@ -10064,7 +10701,9 @@
     "closeFocus": "--",
     "diameter": 91.3,
     "aliases": [
-      "65mm F2 Macro Apo-Lanthar"
+      "65mm F2 Macro Apo-Lanthar",
+      "65mm f2 macro apo-lanthar",
+      "65mmf2macroapo-lanthar"
     ]
   },
   {
@@ -10097,7 +10736,9 @@
     "diameter": 94.8,
     "aliases": [
       "85MMF2.4",
-      "85mm F2.4"
+      "85mm F2.4",
+      "85mm f2.4",
+      "85mmf2.4"
     ]
   },
   {
@@ -10129,7 +10770,9 @@
     "closeFocus": "--",
     "diameter": 81.0,
     "aliases": [
-      "85mm F5.6 2x Ultra-Macro APO"
+      "85mm F5.6 2x Ultra-Macro APO",
+      "85mm f5.6 2x ultra-macro apo",
+      "85mmf5.62xultra-macroapo"
     ]
   },
   {
@@ -10161,7 +10804,9 @@
     "closeFocus": "--",
     "diameter": 125.0,
     "aliases": [
-      "100mm F2.8 Ultra-Macro"
+      "100mm F2.8 Ultra-Macro",
+      "100mm f2.8 ultra-macro",
+      "100mmf2.8ultra-macro"
     ]
   },
   {
@@ -10193,7 +10838,9 @@
     "closeFocus": "--",
     "diameter": 98.9,
     "aliases": [
-      "105mm F2.0(T3.2) STF MF"
+      "105mm F2.0(T3.2) STF MF",
+      "105mm f2.0(t3.2) stf mf",
+      "105mmf2.0(t3.2)stfmf"
     ]
   },
   {
@@ -10225,7 +10872,9 @@
     "closeFocus": "--",
     "diameter": 99.7,
     "aliases": [
-      "110mm F2.5 Macro"
+      "110mm F2.5 Macro",
+      "110mm f2.5 macro",
+      "110mmf2.5macro"
     ]
   },
   {
@@ -10257,7 +10906,9 @@
     "closeFocus": "--",
     "diameter": 148.0,
     "aliases": [
-      "135mm F2.0 ED UMC"
+      "135mm F2.0 ED UMC",
+      "135mm f2.0 ed umc",
+      "135mmf2.0edumc"
     ]
   },
   {
@@ -10289,12 +10940,14 @@
     "closeFocus": "--",
     "diameter": 90.9,
     "aliases": [
-      "10-18mm F4.5-5.6 Zoom"
+      "10-18mm F4.5-5.6 Zoom",
+      "10-18mm f4.5-5.6 zoom",
+      "10-18mmf4.5-5.6zoom"
     ]
   },
   {
     "brand": "Sony",
-    "modelName": "Sony SONYAFX3",
+    "modelName": "Sony Alpha SONYAFX3",
     "gearType": "CAMERA_BODY",
     "megapixels": "12.1MP",
     "weightGrams": "Approx. 630 g (including battery and card)",
@@ -10312,6 +10965,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "AFX3",
+      "Alpha SONYAFX3",
+      "AlphaSONYAFX3",
       "FX3",
       "SONYAFX3",
       "Sonyafx3",
@@ -10322,7 +10977,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony SONYAFX30",
+    "modelName": "Sony Alpha SONYAFX30",
     "gearType": "CAMERA_BODY",
     "megapixels": "26.0MP",
     "weightGrams": "Approx. 562 g (including battery and card)",
@@ -10340,6 +10995,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "AFX30",
+      "Alpha SONYAFX30",
+      "AlphaSONYAFX30",
       "FX30",
       "SONYAFX30",
       "SonyaFX30",
@@ -10379,6 +11036,8 @@
       "28-70mm F2 GM",
       "2870GM",
       "2870gm",
+      "Alpha FE 28-70mm F2 GM",
+      "AlphaFE28-70mmF2GM",
       "F28-70mm F2 GM",
       "FE 28-70mm F2 GM"
     ]
@@ -10414,8 +11073,11 @@
       "85GM2",
       "85gm2",
       "85mm F1.4 GM II",
+      "Alpha FE 85mm F1.4 GM II",
+      "AlphaFE85mmF1.4GMII",
       "F85mm F1.4 GM II",
-      "FE 85mm F1.4 GM II"
+      "FE 85mm F1.4 GM II",
+      "Sony Alpha FE 85mm F1.4 GM 2"
     ]
   },
   {
@@ -10448,6 +11110,8 @@
     "aliases": [
       "11MMF1.8",
       "11mm F1.8",
+      "Alpha e 11mm f1.8",
+      "Alphae11mmf1.8",
       "E 11mm F1.8",
       "E11MMF1.8",
       "e 11mm f1.8"
@@ -10455,7 +11119,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 V",
+    "modelName": "Sony Alpha 7C II",
     "gearType": "CAMERA_BODY",
     "sensorType": "Exmor R BSI CMOS (Partially Stacked)",
     "megapixels": "33.0MP",
@@ -10474,7 +11138,10 @@
       "A7 V",
       "A75",
       "A7V",
+      "Alpha 7C II",
+      "Alpha7CII",
       "SONYA7V",
+      "Sony Alpha 7C 2",
       "Sony SONYAlpha 7V",
       "SonyA7V",
       "a7 v",
@@ -10520,7 +11187,9 @@
     "diameter": "--",
     "series": "--",
     "aliases": [
-      "24-70mm F2.8 DG DN II Art"
+      "24-70mm F2.8 DG DN II Art",
+      "24-70mm f2.8 dg dn ii art",
+      "24-70mmf2.8dgdniiart"
     ]
   },
   {
@@ -10538,7 +11207,7 @@
     "focalLengthMaxMm": 14,
     "apertureMax": "1.4",
     "filterSizeMm": 0,
-    "modelName": "Canon RF 14mm f/1.4 L VCM",
+    "modelName": "Canon EOS RF 14mm f/1.4 L VCM",
     "slug": "rf-14mm-f-1-4-l-vcm",
     "id": "rf-14mm-f-1-4-l-vcm",
     "minAperture": "--",
@@ -10553,7 +11222,9 @@
     "aliases": [
       "14L",
       "14l",
-      "14mm f/1.4 L VCM"
+      "14mm f/1.4 L VCM",
+      "EOS RF 14mm f/1.4 L VCM",
+      "EOSRF14mmf/1.4LVCM"
     ]
   },
   {
@@ -10585,7 +11256,10 @@
     "aliases": [
       "70-200mm f/2.8 VR S II",
       "70200S2",
-      "70200s2"
+      "70200s2",
+      "Nikon Z 70-200mm f/2.8 VR S 2",
+      "Z 70-200mm f/2.8 VR S II",
+      "Z70-200mmf/2.8VRSII"
     ]
   },
   {
@@ -10595,10 +11269,12 @@
     "motorType": "Multi-focusing System (STM)",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
-    "modelName": " Z 85mm f/1.2 S",
+    "modelName": "Z 85mm f/1.2 S",
     "slug": "z-85mm-f-1-2-s",
     "id": "z-85mm-f-1-2-s",
-    "aliases": []
+    "aliases": [
+      "Z85mmf/1.2S"
+    ]
   },
   {
     "opticalDesign": "12 groups, 17 elements",
@@ -10629,7 +11305,10 @@
     "aliases": [
       "16-55mm F2.8 R LM WR II",
       "1655WR",
-      "1655wr"
+      "1655wr",
+      "Fujifilm XF 16-55mm F2.8 R LM WR 2",
+      "XF 16-55mm F2.8 R LM WR II",
+      "XF16-55mmF2.8RLMWRII"
     ]
   },
   {
@@ -10660,7 +11339,9 @@
     "diameter": "--",
     "series": "--",
     "aliases": [
-      "35mm F1.4 DG DN Art II"
+      "35mm F1.4 DG DN Art II",
+      "35mm f1.4 dg dn art ii",
+      "35mmf1.4dgdnartii"
     ]
   }
 ]
