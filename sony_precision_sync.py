@@ -1,105 +1,101 @@
 import json
+import re
 
-def sony_precision_alignment():
+def sony_precision_sync():
     path = 'frontend/src/data/products.json'
     with open(path, 'r', encoding='utf-8') as f:
         products = json.load(f)
     
-    # 1. 去重邏輯：合併 a7c2 到 Sony Alpha 7C II
-    seen_ids = set()
-    cleaned_products = []
-    a7c2_canonical_id = "a7c-ii"
-    
-    for item in products:
-        # 移除重複的 a7c2 條目
-        if item.get('brand') == 'Sony' and ("a7c2" in str(item.get('id')).lower() or "a7c2" in item.get('slug', '').lower()):
-            if item.get('id') != a7c2_canonical_id:
-                continue
-        
-        if item.get('id') not in seen_ids:
-            cleaned_products.append(item)
-            seen_ids.add(item.get('id'))
+    sync_count = 0
 
-    # 2. 精確數據字典
+    # 專業數據定義 (以 A7C2 為標竿)
     deep_data = {
         "Sony Alpha 7C II": {
-            "modelName": "Alpha 7C II",
+            "short": "A7C2",
             "sensorType": "Exmor R BSI CMOS",
-            "megapixels": 33,
+            "megapixels": "33MP",
             "processor": "BIONZ XR",
-            "afPoints": "759 Phase-detection",
-            "afRange": "-4 to +20 EV",
-            "videoResolution": "4K 60p 10-bit 4:2:2",
-            "videoColorDepth": "10-bit 4:2:2 (H.265/XAVC HS)",
             "ibisRating": "7.0 stops (CIPA)",
+            "isoRange": "100-51200 (Ext: 50-204800)",
+            "afPoints": "759 Phase-detection",
+            "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+            "afRange": "-4 to +20 EV",
+            "videoResolution": "4K 60p (Super 35) / 4K 30p (Full Frame)",
+            "videoColorDepth": "10-bit 4:2:2 (H.265/XAVC HS)",
             "evfResolution": "2.36M-dot OLED",
             "evfMagnification": "0.70x",
-            "burstSpeed": "10 fps (AF/AE tracking)",
-            "hasWeatherSeal": True,
-            "batteryLifeShots": 530,
-            "series": "Alpha"
-        },
-        "Sony FE 50mm f/1.4 GM": {
-            "opticalDesign": "11 groups, 14 elements",
-            "specialElements": "2 XA (Extreme Aspherical), 1 ED",
-            "coatings": "Nano AR II, Fluorine Coating",
-            "motorType": "2x XD (Extreme Dynamic) Linear Motors",
-            "closeFocus": "0.38m",
-            "maxMagnification": "0.15x",
-            "hasApertureRing": True,
-            "hasCustomButton": True,
-            "hasWeatherSeal": True,
-            "filterSizeMm": 67,
-            "weightGrams": 516,
-            "series": "GM"
+            "lcdSpec": "3.0-inch 1.03M-dot Vari-angle LCD",
+            "cardSlots": "1x SD (UHS-I/II)",
+            "batterySpec": "NP-FZ100 (Approx. 530 shots)",
+            "ports": "USB-C (USB 3.2 Gen 2), HDMI (Type-D), 3.5mm Mic/Headphone",
+            "dimensions": "124.0 x 71.1 x 63.4 mm",
+            "weightGrams": "Approx. 514 g"
         },
         "Sony Alpha 7R V": {
-            "afPoints": "693 Phase-detection",
-            "afRange": "-4 to +20 EV",
+            "short": "A7R5",
+            "sensorType": "Exmor R BSI CMOS",
+            "megapixels": "61MP",
+            "processor": "BIONZ XR (with AI Processing Unit)",
             "ibisRating": "8.0 stops (CIPA)",
+            "isoRange": "100-32000 (Ext: 50-102400)",
+            "afPoints": "693 Phase-detection",
+            "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+            "afRange": "-4 to +20 EV",
+            "videoResolution": "8K 24p / 4K 60p",
+            "videoColorDepth": "10-bit 4:2:2",
             "evfResolution": "9.44M-dot OLED",
             "evfMagnification": "0.90x",
-            "videoResolution": "8K 24p / 4K 60p",
-            "videoColorDepth": "10-bit 4:2:2"
-        },
-        "Sony Alpha 1 II": {
-            "sensorType": "Stacked Exmor RS CMOS",
-            "afPoints": "759 Phase-detection",
-            "burstSpeed": "30 fps",
-            "evfResolution": "9.44M-dot OLED",
-            "ibisRating": "8.5 stops (CIPA)"
+            "lcdSpec": "3.2-inch 2.1M-dot 4-axis Multi-angle LCD",
+            "cardSlots": "2x CFexpress Type A / SD (UHS-II)",
+            "batterySpec": "NP-FZ100 (Approx. 530 shots)",
+            "ports": "USB-C (USB 3.2 Gen 2), Full HDMI (Type-A), PC Sync, Ethernet",
+            "dimensions": "131.3 x 96.9 x 82.4 mm",
+            "weightGrams": "Approx. 723 g"
         }
     }
 
-    processed_count = 0
-    for item in cleaned_products:
-        if item.get('brand') == 'Sony':
-            processed_count += 1
-            # A. 旗艦更新
-            m_name = item.get('modelName')
-            for key in deep_data:
-                if key in m_name or m_name in key:
-                    item.update(deep_data[key])
-
-            # B. 通用 Sony 補完 (地毯式)
-            if item.get('gearType') == 'LENS':
-                if item.get('motorType') == "--":
-                    if "GM" in item.get('series', '') or "GM" in item.get('modelName', ''):
-                        item['motorType'] = "XD Linear Motor"
-                    elif "G" in item.get('series', '') or " G " in item.get('modelName', ''):
-                        item['motorType'] = "Linear Motor / DDSSM"
-                if item.get('coatings') == "--":
-                    item['coatings'] = "Nano AR Coating, Fluorine"
+    for item in products:
+        if item.get('gearType') == 'CAMERA_BODY':
+            brand = item.get('brand', '')
+            aliases = item.get('aliases', [])
+            current_model = item.get('modelName', '')
             
-            elif item.get('gearType') == 'CAMERA_BODY':
-                if item.get('afRange') == "--": item['afRange'] = "-3 to +20 EV"
-                if item.get('videoColorDepth') == "--": item['videoColorDepth'] = "10-bit 4:2:2"
-                if item.get('evfMagnification') == "--": item['evfMagnification'] = "0.78x"
+            # --- 1. 名稱翻轉與簡稱優化 ---
+            # 獲取官方全名 (從別名中提取最長者)
+            official_name = current_model
+            if aliases:
+                official_name = max(aliases, key=len)
+            
+            # 如果目前顯示的是全名，則尋找對應簡稱
+            shorthand = current_model
+            for full, data in deep_data.items():
+                if full == official_name:
+                    shorthand = data['short']
+                    break
+            
+            # 翻轉邏輯：modelName = 簡稱, aliases 包含全名
+            item['modelName'] = shorthand
+            if official_name not in item.get('aliases', []):
+                item.setdefault('aliases', []).append(official_name)
+            
+            # --- 2. 精確數據回填 ---
+            if official_name in deep_data:
+                data = deep_data[official_name]
+                for key, val in data.items():
+                    if key != 'short':
+                        item[key] = val
+                sync_count += 1
+            
+            # --- 3. 格式校準 (通用) ---
+            if 'weightGrams' in item and isinstance(item['weightGrams'], (int, float)):
+                item['weightGrams'] = f"Approx. {item['weightGrams']} g"
+            if 'widthMm' in item and 'heightMm' in item and 'depthMm' in item:
+                item['dimensions'] = f"{item['widthMm']} x {item['heightMm']} x {item['depthMm']} mm"
 
     with open(path, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_products, f, indent=2, ensure_ascii=False)
+        json.dump(products, f, indent=2, ensure_ascii=False)
     
-    print(f"SONY_PRECISION_COMPLETE: Processed {processed_count} Sony items. Deduplicated database.")
+    print(f"SONY_PRECISION_SYNC_COMPLETE: Synced {sync_count} high-precision models.")
 
 if __name__ == "__main__":
-    sony_precision_alignment()
+    sony_precision_sync()

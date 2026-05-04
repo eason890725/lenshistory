@@ -1,20 +1,20 @@
 [
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 1 II",
+    "modelName": "A1 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
-    "megapixels": 50.1,
+    "megapixels": "50.1MP",
     "releaseYear": 2024,
     "slug": "a1-ii",
     "id": "a1-ii",
-    "weightGrams": 746,
+    "weightGrams": "Approx. 746 g",
     "launchPrice": 210000,
     "hasIBIS": true,
-    "sensorType": "Stacked CMOS",
-    "videoResolution": "4K 60p / 10-bit",
-    "afPoints": "759+ Phase-detection",
-    "evfResolution": "--",
+    "sensorType": "Exmor R BSI Stacked CMOS",
+    "videoResolution": "8K 30p / 4K 120p",
+    "afPoints": "759 Phase-detection",
+    "evfResolution": "9.44M-dot OLED",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
@@ -31,8 +31,21 @@
       "aa1 ii",
       "aa1ii",
       "sony aa1 ii",
-      "sonyaa1ii"
-    ]
+      "sonyaa1ii",
+      "Sony Alpha 1 II"
+    ],
+    "processor": "BIONZ XR (with AI Processing Unit)",
+    "ibisRating": "8.5 stops (CIPA)",
+    "isoRange": "100-32000 (Ext: 50-102400)",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afRange": "-4 to +20 EV",
+    "videoColorDepth": "10-bit 4:2:2",
+    "evfMagnification": "0.90x",
+    "lcdSpec": "3.2-inch 2.1M-dot 4-axis Multi-angle LCD",
+    "cardSlots": "2x CFexpress Type A / SD (UHS-II)",
+    "batterySpec": "NP-FZ100",
+    "ports": "USB-C (10 Gbps), Full HDMI, 2.5G Ethernet",
+    "dimensions": "136.1 x 96.9 x 82.9 mm"
   },
   {
     "brand": "Sony",
@@ -61,14 +74,14 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 9 III",
+    "modelName": "A9III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.6,
     "releaseYear": 2024,
     "slug": "a9-iii",
     "id": "a9-iii",
-    "weightGrams": 617,
+    "weightGrams": "Approx. 617 g",
     "launchPrice": 184980,
     "hasIBIS": true,
     "sensorType": "Global Shutter Stacked CMOS",
@@ -91,7 +104,8 @@
       "aa9 iii",
       "aa9iii",
       "sony aa9 iii",
-      "sonyaa9iii"
+      "sonyaa9iii",
+      "Sony Alpha 9 III"
     ]
   },
   {
@@ -152,20 +166,20 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony aA7R V",
+    "modelName": "A7R5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
-    "megapixels": 61.0,
+    "megapixels": "61MP",
     "releaseYear": 2022,
     "slug": "a7r-v",
     "id": "a7r-v",
-    "weightGrams": 723,
+    "weightGrams": "Approx. 723 g",
     "launchPrice": 109980,
     "hasIBIS": true,
-    "sensorType": "BSI CMOS",
-    "videoResolution": "4K 60p / 10-bit",
-    "afPoints": "759+ Phase-detection",
-    "evfResolution": "--",
+    "sensorType": "Exmor R BSI CMOS",
+    "videoResolution": "8K 24p / 4K 60p",
+    "afPoints": "693 Phase-detection",
+    "evfResolution": "9.44M-dot OLED",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
@@ -181,8 +195,21 @@
       "aa7r v",
       "aa7rv",
       "sony aa7r v",
-      "sonyaa7rv"
-    ]
+      "sonyaa7rv",
+      "Sony Alpha 7R V"
+    ],
+    "processor": "BIONZ XR (with AI Processing Unit)",
+    "ibisRating": "8.0 stops (CIPA)",
+    "isoRange": "100-32000 (Ext: 50-102400)",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afRange": "-4 to +20 EV",
+    "videoColorDepth": "10-bit 4:2:2",
+    "evfMagnification": "0.90x",
+    "lcdSpec": "3.2-inch 2.1M-dot 4-axis Multi-angle LCD",
+    "cardSlots": "2x CFexpress Type A / SD (UHS-II)",
+    "batterySpec": "NP-FZ100 (Approx. 530 shots)",
+    "ports": "USB-C (USB 3.2 Gen 2), Full HDMI (Type-A), PC Sync, Ethernet",
+    "dimensions": "131.3 x 96.9 x 82.4 mm"
   },
   {
     "brand": "Sony",
@@ -397,7 +424,7 @@
     "releaseYear": 2021,
     "slug": "a7-iv",
     "id": "a7-iv",
-    "weightGrams": 658,
+    "weightGrams": "Approx. 658 g",
     "launchPrice": 64980,
     "hasIBIS": true,
     "sensorType": "BSI CMOS",
@@ -540,18 +567,18 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony a7C II",
+    "modelName": "A7C2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
-    "megapixels": 33,
+    "megapixels": "33MP",
     "releaseYear": 2023,
     "slug": "a7c-ii",
     "id": "a7c-ii",
-    "weightGrams": 514,
+    "weightGrams": "Approx. 514 g",
     "launchPrice": 59980,
     "hasIBIS": true,
     "sensorType": "Exmor R BSI CMOS",
-    "videoResolution": "4K 60p 10-bit 4:2:2",
+    "videoResolution": "4K 60p (Super 35) / 4K 30p (Full Frame)",
     "afPoints": "759 Phase-detection",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "10 fps",
@@ -578,8 +605,16 @@
       "alpha 7c ii",
       "alpha7cii",
       "sony a7c ii",
-      "sonya7cii"
-    ]
+      "sonya7cii",
+      "Sony Alpha 7C II"
+    ],
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "lcdSpec": "3.0-inch 1.03M-dot Vari-angle LCD",
+    "cardSlots": "1x SD (UHS-I/II)",
+    "batterySpec": "NP-FZ100 (Approx. 530 shots)",
+    "ports": "USB-C (USB 3.2 Gen 2), HDMI (Type-D), 3.5mm Mic/Headphone",
+    "dimensions": "124.0 x 71.1 x 63.4 mm"
   },
   {
     "brand": "Sony",
@@ -638,7 +673,7 @@
     "releaseYear": 2023,
     "slug": "a6700",
     "id": "a6700",
-    "weightGrams": 493,
+    "weightGrams": "Approx. 493 g",
     "launchPrice": 44980,
     "hasIBIS": true,
     "sensorType": "BSI CMOS",
@@ -875,7 +910,7 @@
     "burstSpeed": "40 fps",
     "logSupport": "F-Log2",
     "sensorType": "Stacked X-Trans CMOS 5 HS",
-    "weightGrams": 660,
+    "weightGrams": "Approx. 660 g",
     "launchPrice": 39980,
     "aliases": [
       "XH2S",
@@ -940,7 +975,7 @@
     "burstSpeed": "15 fps (Mech)",
     "logSupport": "F-Log2",
     "sensorType": "X-Trans CMOS 5 HR",
-    "weightGrams": 557,
+    "weightGrams": "Approx. 557 g",
     "launchPrice": 39980,
     "aliases": [
       "XT5",
@@ -1047,7 +1082,7 @@
     "burstSpeed": "15 fps (Mech)",
     "logSupport": "F-Log2",
     "sensorType": "X-Trans CMOS 5 HR",
-    "weightGrams": 557,
+    "weightGrams": "Approx. 557 g",
     "launchPrice": 39980,
     "aliases": [
       "XT50",
@@ -1401,7 +1436,7 @@
     "burstSpeed": "8 fps",
     "logSupport": "F-Log2",
     "sensorType": "CMOS II HS",
-    "weightGrams": 1030,
+    "weightGrams": "Approx. 1030 g",
     "launchPrice": 39980,
     "hasWeatherSeal": true,
     "aliases": [
@@ -1510,7 +1545,7 @@
     "burstSpeed": "40 fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 1115,
+    "weightGrams": "Approx. 1115 g",
     "launchPrice": 39980,
     "aliases": [
       "EOSR1",
@@ -1535,7 +1570,7 @@
     "burstSpeed": "30 fps",
     "logSupport": "C-Log 3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 1015,
+    "weightGrams": "Approx. 1015 g",
     "launchPrice": 39980,
     "aliases": [
       "EOSR3",
@@ -1560,7 +1595,7 @@
     "burstSpeed": "30 fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 746,
+    "weightGrams": "Approx. 746 g",
     "launchPrice": 39980,
     "aliases": [
       "EOS R5 II",
@@ -1754,7 +1789,7 @@
     "burstSpeed": "40 fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 1115,
+    "weightGrams": "Approx. 1115 g",
     "launchPrice": 39980,
     "aliases": [
       "EOSR10",
@@ -1802,7 +1837,7 @@
     "burstSpeed": "40 fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 1115,
+    "weightGrams": "Approx. 1115 g",
     "launchPrice": 39980,
     "aliases": [
       "EOSR100",
@@ -1827,7 +1862,7 @@
     "burstSpeed": "20 fps (RAW) / 120 fps (JPEG)",
     "logSupport": "N-Log / ProRes RAW",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 1340,
+    "weightGrams": "Approx. 1340 g",
     "launchPrice": 39980,
     "aliases": [
       "z9"
@@ -1848,7 +1883,7 @@
     "burstSpeed": "20 fps (RAW)",
     "logSupport": "N-Log / ProRes RAW",
     "sensorType": "Stacked CMOS",
-    "weightGrams": 910,
+    "weightGrams": "Approx. 910 g",
     "launchPrice": 39980,
     "aliases": [
       "z8"
@@ -1909,7 +1944,7 @@
     "burstSpeed": "20 fps",
     "logSupport": "N-Log",
     "sensorType": "Partially Stacked CMOS",
-    "weightGrams": 670,
+    "weightGrams": "Approx. 670 g",
     "launchPrice": 39980,
     "aliases": [
       "Z6III",
@@ -1991,7 +2026,7 @@
     "burstSpeed": "14 fps",
     "logSupport": "N-Log",
     "sensorType": "CMOS",
-    "weightGrams": 710,
+    "weightGrams": "Approx. 710 g",
     "launchPrice": 39980,
     "aliases": [
       "zf"
@@ -2012,7 +2047,7 @@
     "burstSpeed": "14 fps",
     "logSupport": "N-Log",
     "sensorType": "CMOS",
-    "weightGrams": 710,
+    "weightGrams": "Approx. 710 g",
     "launchPrice": 39980,
     "aliases": [
       "zfc"
@@ -10188,7 +10223,7 @@
     "modelName": "Sony afx3",
     "gearType": "CAMERA_BODY",
     "megapixels": 12.1,
-    "weightGrams": 630,
+    "weightGrams": "Approx. 630 g",
     "releaseYear": 2021,
     "launchPrice": 109980,
     "hasIBIS": true,
@@ -10215,7 +10250,7 @@
     "modelName": "Sony aFX30",
     "gearType": "CAMERA_BODY",
     "megapixels": 26.0,
-    "weightGrams": 562,
+    "weightGrams": "Approx. 562 g",
     "releaseYear": 2022,
     "launchPrice": 59980,
     "hasIBIS": true,

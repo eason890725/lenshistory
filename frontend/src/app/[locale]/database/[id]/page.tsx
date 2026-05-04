@@ -218,10 +218,10 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
             <h3 className="text-xl font-light uppercase tracking-wider text-gray-300">{t('fullSpecs')}</h3>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2">
+          <div className="p-0">
             {isLens ? (
-              <>
-                {/* 1. Basic Specs (Renamed for Lens) */}
+              <div className="grid grid-cols-1 md:grid-cols-2">
+                {/* 1. Basic Specs (Lens) */}
                 <div className="border-r border-b border-white/5">
                   <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
                     <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('basicSpecs')}</span>
@@ -262,39 +262,55 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                     <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('physical')}</span>
                   </div>
                   <SpecRow label={t('series')} value={gear.series || '--'} />
-                  <SpecRow label={t('weight')} value={gear.weightGrams || '--'} unit={gear.weightGrams ? "g" : ""} />
-                  <SpecRow label={t('dimensions')} value={(gear.widthMm || gear.diameter) && gear.lengthMm ? `${gear.widthMm || gear.diameter} x ${gear.lengthMm}` : '--'} unit={gear.lengthMm ? "mm" : ""} />
+                  <SpecRow label={t('weight')} value={gear.weightGrams || '--'} unit={gear.weightGrams && !String(gear.weightGrams).includes('g') ? "g" : ""} />
+                  <SpecRow label={t('dimensions')} value={gear.dimensions || '--'} />
                   <SpecRow label={t('releaseYear')} value={gear.releaseYear || '--'} />
                   <SpecRow label={t('launchPrice')} value={gear.launchPrice ? `NT$${Number(gear.launchPrice).toLocaleString()}` : '--'} />
                 </div>
-              </>
+              </div>
             ) : (
-              <>
-                {/* Body Specs (Existing Layout) */}
-                <div className="border-r border-b border-white/5">
-                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('imaging')}</span>
+              <div className="p-6">
+                {/* 1. Imaging Core (Body) */}
+                <div className="mb-8">
+                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">{t('imaging')}</div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-1">
+                    <SpecRow label={t('megapixels')} value={gear.megapixels || '--'} />
+                    <SpecRow label={t('sensorType')} value={gear.sensorType || '--'} />
+                    <SpecRow label={t('processor')} value={gear.processor || '--'} />
+                    <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
+                    <SpecRow label={t('video')} value={gear.videoResolution || '--'} />
+                    <SpecRow label={t('videoColorDepth')} value={gear.videoColorDepth || '--'} />
+                    <SpecRow label={t('ibisRating')} value={gear.ibisRating || '--'} />
                   </div>
-                  <SpecRow label={t('megapixels')} value={gear.megapixels} unit="MP" />
-                  <SpecRow label={t('sensorType')} value={gear.sensorType} />
-                  <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
-                  <SpecRow label={t('video')} value={gear.videoResolution} />
                 </div>
-                <div className="border-b border-white/5">
-                  <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('performance')}</span>
+
+                {/* 2. Performance Section */}
+                <div className="mb-8 border-t border-white/5 pt-4">
+                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">效能參數</div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-1">
+                    <SpecRow label={t('afPoints')} value={gear.afPoints || '--'} />
+                    <SpecRow label={t('afTargets')} value={gear.afTargets || '--'} />
+                    <SpecRow label={t('afRange')} value={gear.afRange || '--'} />
+                    <SpecRow label={t('continuousShooting')} value={gear.burstSpeed || '--'} />
+                    <SpecRow label={t('isoRange')} value={gear.isoRange || '--'} />
+                    <SpecRow label={t('evfResolution')} value={gear.evfResolution || '--'} />
+                    <SpecRow label={t('evfMagnification')} value={gear.evfMagnification || '--'} />
                   </div>
-                  <SpecRow label={t('afPoints')} value={gear.afPoints} />
-                  <SpecRow label={t('afRange')} value={gear.afRange} />
-                  <SpecRow label={t('burstSpeed')} value={gear.burstSpeed} />
-                  <SpecRow label={t('ibisRating')} value={gear.ibisRating} />
-                  <SpecRow label={t('evfResolution')} value={gear.evfResolution} />
-                  <SpecRow label={t('evfMagnification')} value={gear.evfMagnification} />
-                  <SpecRow label={t('videoColorDepth')} value={gear.videoColorDepth} />
-                  <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
                 </div>
-                {/* Add more body rows if needed */}
-              </>
+
+                {/* 3. Hardware & Physical Section */}
+                <div className="mb-8 border-t border-white/5 pt-4">
+                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">硬體與物理規格</div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-1">
+                    <SpecRow label={t('lcdSpec')} value={gear.lcdSpec || '--'} />
+                    <SpecRow label={t('cardSlots')} value={gear.cardSlots || '--'} />
+                    <SpecRow label={t('batterySpec')} value={gear.batterySpec || '--'} />
+                    <SpecRow label={t('ports')} value={gear.ports || '--'} />
+                    <SpecRow label={t('weight')} value={gear.weightGrams || '--'} />
+                    <SpecRow label={t('dimensions')} value={gear.dimensions || '--'} />
+                  </div>
+                </div>
+              </div>
             )}
           </div>
         </div>
@@ -302,4 +318,3 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
     </div>
   );
 }
-
