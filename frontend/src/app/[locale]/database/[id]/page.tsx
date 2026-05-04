@@ -201,6 +201,9 @@ export default async function GearDetailPage({
                 <>
                   <FeatureBadge label={t('ibis')} value={gear.hasIBIS} t={t} />
                   <FeatureBadge label={t('weatherSeal')} value={gear.hasWeatherSeal} t={t} />
+                  <div className="bg-white/5 border border-white/10 px-3 py-1.5 text-[10px] text-gray-400 uppercase tracking-widest">
+                    {gear.sensorType || '--'}
+                  </div>
                 </>
               )}
             </div>
@@ -227,47 +230,41 @@ export default async function GearDetailPage({
                 <>
                   <SpecRow label={t('focalLength')} value={isPrime ? `${gear.focalLengthMinMm}mm` : `${gear.focalLengthMinMm}-${gear.focalLengthMaxMm}mm`} />
                   <SpecRow label={t('maxAperture')} value={gear.apertureMax ? `f/${gear.apertureMax}` : null} />
-                  {gear.apertureMin && <SpecRow label={t('minAperture')} value={`f/${gear.apertureMin}`} />}
-                  {gear.zoomRatio && <SpecRow label={t('zoomRatio')} value={`${gear.zoomRatio.toFixed(2)}x`} />}
+                  {gear.minAperture && <SpecRow label={t('minAperture')} value={gear.minAperture} />}
                   <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
-                  <SpecRow label={t('closeFocus')} value={gear.closeFocusCm} unit="cm" />
                   <SpecRow label={t('maxMagnification')} value={gear.maxMagnification ? `${Number(gear.maxMagnification).toFixed(2)}x` : null} />
+                  <SpecRow label={t('motorType')} value={gear.motorType} />
                 </>
               ) : (
                 <>
                   <SpecRow label={t('megapixels')} value={gear.megapixels} unit="MP" />
                   <SpecRow label={t('sensorType')} value={gear.sensorType} />
                   <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
-                  <SpecRow label={t('processor')} value={gear.processor} />
-                  <SpecRow label={t('maxIso')} value={gear.maxIso ? Number(gear.maxIso).toLocaleString() : null} />
+                  <SpecRow label={t('video')} value={gear.videoResolution} />
+                  <SpecRow label={t('logSupport')} value={gear.logSupport} />
                 </>
               )}
-              <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
             </div>
 
             {/* Physical / Performance */}
             <div>
               <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{isLens ? t('physical') : t('features')}</span>
+                <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{isLens ? t('physical') : t('performance')}</span>
               </div>
-              {!isLens && (
-                <>
-                  <SpecRow label={t('video')} value={gear.videoResolution} />
-                  <SpecRow label={t('continuousShooting')} value={gear.continuousShootingFps} unit=" fps" />
-                  <SpecRow label={t('shutterSpeed')} value={gear.shutterSpeedRange} />
-                  <SpecRow label={t('afPoints')} value={gear.autofocusPoints} />
-                </>
-              )}
-              <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
               {isLens ? (
                 <>
+                  <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
                   <SpecRow label={t('length')} value={gear.lengthMm} unit="mm" />
                   <SpecRow label={t('diameter')} value={gear.widthMm || gear.diameterMm} unit="mm" />
-                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification} unit="x" />
-                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
+                  <SpecRow label={t('series')} value={gear.series} />
                 </>
               ) : (
-                <SpecRow label={t('dimensions')} value={gear.dimensions} />
+                <>
+                  <SpecRow label={t('afPoints')} value={gear.afPoints} />
+                  <SpecRow label={t('burstSpeed')} value={gear.burstSpeed} />
+                  <SpecRow label={t('evfResolution')} value={gear.evfResolution} />
+                  <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
+                </>
               )}
             </div>
           </div>

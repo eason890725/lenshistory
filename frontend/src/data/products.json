@@ -7,7 +7,16 @@
     "megapixels": 50.1,
     "releaseYear": 2024,
     "slug": "a1-ii",
-    "id": "a1-ii"
+    "id": "a1-ii",
+    "weightGrams": 746,
+    "launchPrice": 210000,
+    "hasIBIS": true,
+    "sensorType": "Stacked CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -17,7 +26,12 @@
     "megapixels": 50.1,
     "releaseYear": 2021,
     "slug": "a1",
-    "id": "a1"
+    "id": "a1",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -27,7 +41,16 @@
     "megapixels": 24.6,
     "releaseYear": 2024,
     "slug": "a9-iii",
-    "id": "a9-iii"
+    "id": "a9-iii",
+    "weightGrams": 617,
+    "launchPrice": 184980,
+    "hasIBIS": true,
+    "sensorType": "Global Shutter Stacked CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -37,7 +60,12 @@
     "megapixels": 24.2,
     "releaseYear": 2019,
     "slug": "a9-ii",
-    "id": "a9-ii"
+    "id": "a9-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -47,7 +75,12 @@
     "megapixels": 24.2,
     "releaseYear": 2017,
     "slug": "a9",
-    "id": "a9"
+    "id": "a9",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -57,7 +90,16 @@
     "megapixels": 61.0,
     "releaseYear": 2022,
     "slug": "a7r-v",
-    "id": "a7r-v"
+    "id": "a7r-v",
+    "weightGrams": 723,
+    "launchPrice": 109980,
+    "hasIBIS": true,
+    "sensorType": "BSI CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -67,7 +109,12 @@
     "megapixels": 61.0,
     "releaseYear": 2019,
     "slug": "a7r-iv",
-    "id": "a7r-iv"
+    "id": "a7r-iv",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -77,7 +124,12 @@
     "megapixels": 42.4,
     "releaseYear": 2017,
     "slug": "a7r-iii",
-    "id": "a7r-iii"
+    "id": "a7r-iii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -87,7 +139,12 @@
     "megapixels": 42.4,
     "releaseYear": 2015,
     "slug": "a7r-ii",
-    "id": "a7r-ii"
+    "id": "a7r-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -97,7 +154,12 @@
     "megapixels": 36.4,
     "releaseYear": 2013,
     "slug": "a7r",
-    "id": "a7r"
+    "id": "a7r",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -107,7 +169,12 @@
     "megapixels": 12.1,
     "releaseYear": 2020,
     "slug": "a7s-iii",
-    "id": "a7s-iii"
+    "id": "a7s-iii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -117,7 +184,12 @@
     "megapixels": 12.2,
     "releaseYear": 2015,
     "slug": "a7s-ii",
-    "id": "a7s-ii"
+    "id": "a7s-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -127,7 +199,12 @@
     "megapixels": 12.2,
     "releaseYear": 2014,
     "slug": "a7s",
-    "id": "a7s"
+    "id": "a7s",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -137,7 +214,16 @@
     "megapixels": 33.0,
     "releaseYear": 2021,
     "slug": "a7-iv",
-    "id": "a7-iv"
+    "id": "a7-iv",
+    "weightGrams": 658,
+    "launchPrice": 64980,
+    "hasIBIS": true,
+    "sensorType": "BSI CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -147,7 +233,12 @@
     "megapixels": 24.2,
     "releaseYear": 2018,
     "slug": "a7-iii",
-    "id": "a7-iii"
+    "id": "a7-iii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -157,7 +248,12 @@
     "megapixels": 24.3,
     "releaseYear": 2014,
     "slug": "a7-ii",
-    "id": "a7-ii"
+    "id": "a7-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -167,7 +263,12 @@
     "megapixels": 24.3,
     "releaseYear": 2013,
     "slug": "a7",
-    "id": "a7"
+    "id": "a7",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -177,7 +278,12 @@
     "megapixels": 61.0,
     "releaseYear": 2023,
     "slug": "a7c-r",
-    "id": "a7c-r"
+    "id": "a7c-r",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -187,7 +293,16 @@
     "megapixels": 33.0,
     "releaseYear": 2023,
     "slug": "a7c-ii",
-    "id": "a7c-ii"
+    "id": "a7c-ii",
+    "weightGrams": 514,
+    "launchPrice": 59980,
+    "hasIBIS": true,
+    "sensorType": "BSI CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -197,7 +312,12 @@
     "megapixels": 24.2,
     "releaseYear": 2020,
     "slug": "a7c",
-    "id": "a7c"
+    "id": "a7c",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -207,7 +327,12 @@
     "megapixels": 12.1,
     "releaseYear": 2023,
     "slug": "zv-e1",
-    "id": "zv-e1"
+    "id": "zv-e1",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -217,7 +342,16 @@
     "megapixels": 26.0,
     "releaseYear": 2023,
     "slug": "a6700",
-    "id": "a6700"
+    "id": "a6700",
+    "weightGrams": 493,
+    "launchPrice": 44980,
+    "hasIBIS": true,
+    "sensorType": "BSI CMOS",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -227,7 +361,12 @@
     "megapixels": 24.2,
     "releaseYear": 2019,
     "slug": "a6600",
-    "id": "a6600"
+    "id": "a6600",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -237,7 +376,12 @@
     "megapixels": 24.2,
     "releaseYear": 2016,
     "slug": "a6500",
-    "id": "a6500"
+    "id": "a6500",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -247,7 +391,12 @@
     "megapixels": 24.2,
     "releaseYear": 2019,
     "slug": "a6400",
-    "id": "a6400"
+    "id": "a6400",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -257,7 +406,12 @@
     "megapixels": 24.2,
     "releaseYear": 2016,
     "slug": "a6300",
-    "id": "a6300"
+    "id": "a6300",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -267,7 +421,12 @@
     "megapixels": 24.2,
     "releaseYear": 2019,
     "slug": "a6100",
-    "id": "a6100"
+    "id": "a6100",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -277,7 +436,12 @@
     "megapixels": 24.3,
     "releaseYear": 2014,
     "slug": "a6000",
-    "id": "a6000"
+    "id": "a6000",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -287,7 +451,12 @@
     "megapixels": 26.0,
     "releaseYear": 2024,
     "slug": "zv-e10-ii",
-    "id": "zv-e10-ii"
+    "id": "zv-e10-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -297,7 +466,12 @@
     "megapixels": 24.2,
     "releaseYear": 2021,
     "slug": "zv-e10",
-    "id": "zv-e10"
+    "id": "zv-e10",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -307,7 +481,14 @@
     "megapixels": 26.1,
     "releaseYear": 2022,
     "slug": "x-h2s",
-    "id": "x-h2s"
+    "id": "x-h2s",
+    "videoResolution": "6.2K 30p / 4K 120p",
+    "afPoints": "425",
+    "evfResolution": "5.76M-dot OLED",
+    "burstSpeed": "40 fps",
+    "logSupport": "F-Log2",
+    "sensorType": "Stacked X-Trans CMOS 5 HS",
+    "weightGrams": 660
   },
   {
     "brand": "Fujifilm",
@@ -317,7 +498,12 @@
     "megapixels": 40.2,
     "releaseYear": 2022,
     "slug": "x-h2",
-    "id": "x-h2"
+    "id": "x-h2",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -327,7 +513,12 @@
     "megapixels": 24.3,
     "releaseYear": 2018,
     "slug": "x-h1",
-    "id": "x-h1"
+    "id": "x-h1",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -337,7 +528,14 @@
     "megapixels": 40.2,
     "releaseYear": 2022,
     "slug": "x-t5",
-    "id": "x-t5"
+    "id": "x-t5",
+    "videoResolution": "6.2K 30p / 4K 60p",
+    "afPoints": "425",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "15 fps (Mech)",
+    "logSupport": "F-Log2",
+    "sensorType": "X-Trans CMOS 5 HR",
+    "weightGrams": 557
   },
   {
     "brand": "Fujifilm",
@@ -347,7 +545,12 @@
     "megapixels": 26.1,
     "releaseYear": 2020,
     "slug": "x-t4",
-    "id": "x-t4"
+    "id": "x-t4",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -357,7 +560,12 @@
     "megapixels": 26.1,
     "releaseYear": 2018,
     "slug": "x-t3",
-    "id": "x-t3"
+    "id": "x-t3",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -367,7 +575,12 @@
     "megapixels": 24.3,
     "releaseYear": 2016,
     "slug": "x-t2",
-    "id": "x-t2"
+    "id": "x-t2",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -377,7 +590,12 @@
     "megapixels": 16.3,
     "releaseYear": 2014,
     "slug": "x-t1",
-    "id": "x-t1"
+    "id": "x-t1",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -387,7 +605,14 @@
     "megapixels": 40.2,
     "releaseYear": 2024,
     "slug": "x-t50",
-    "id": "x-t50"
+    "id": "x-t50",
+    "videoResolution": "6.2K 30p / 4K 60p",
+    "afPoints": "425",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "15 fps (Mech)",
+    "logSupport": "F-Log2",
+    "sensorType": "X-Trans CMOS 5 HR",
+    "weightGrams": 557
   },
   {
     "brand": "Fujifilm",
@@ -397,7 +622,12 @@
     "megapixels": 26.1,
     "releaseYear": 2021,
     "slug": "x-t30-ii",
-    "id": "x-t30-ii"
+    "id": "x-t30-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -407,7 +637,12 @@
     "megapixels": 26.1,
     "releaseYear": 2019,
     "slug": "x-t30",
-    "id": "x-t30"
+    "id": "x-t30",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -417,7 +652,12 @@
     "megapixels": 24.3,
     "releaseYear": 2017,
     "slug": "x-t20",
-    "id": "x-t20"
+    "id": "x-t20",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -427,7 +667,12 @@
     "megapixels": 16.3,
     "releaseYear": 2015,
     "slug": "x-t10",
-    "id": "x-t10"
+    "id": "x-t10",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -437,7 +682,12 @@
     "megapixels": 26.1,
     "releaseYear": 2019,
     "slug": "x-pro3",
-    "id": "x-pro3"
+    "id": "x-pro3",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -447,7 +697,12 @@
     "megapixels": 24.3,
     "releaseYear": 2016,
     "slug": "x-pro2",
-    "id": "x-pro2"
+    "id": "x-pro2",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -457,7 +712,12 @@
     "megapixels": 16.3,
     "releaseYear": 2012,
     "slug": "x-pro1",
-    "id": "x-pro1"
+    "id": "x-pro1",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -467,7 +727,12 @@
     "megapixels": 26.1,
     "releaseYear": 2023,
     "slug": "x-s20",
-    "id": "x-s20"
+    "id": "x-s20",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -477,7 +742,12 @@
     "megapixels": 26.1,
     "releaseYear": 2020,
     "slug": "x-s10",
-    "id": "x-s10"
+    "id": "x-s10",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -487,27 +757,42 @@
     "megapixels": 26.1,
     "releaseYear": 2021,
     "slug": "x-e4",
-    "id": "x-e4"
+    "id": "x-e4",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100VI",
+    "modelName": "X100V I",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
     "releaseYear": 2024,
     "slug": "x100vi",
-    "id": "x100vi"
+    "id": "x100vi",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100V",
+    "modelName": "X100 V",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
     "releaseYear": 2020,
     "slug": "x100v",
-    "id": "x100v"
+    "id": "x100v",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -517,7 +802,12 @@
     "megapixels": 24.3,
     "releaseYear": 2017,
     "slug": "x100f",
-    "id": "x100f"
+    "id": "x100f",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -527,7 +817,12 @@
     "megapixels": 16.3,
     "releaseYear": 2014,
     "slug": "x100t",
-    "id": "x100t"
+    "id": "x100t",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -537,7 +832,12 @@
     "megapixels": 16.3,
     "releaseYear": 2013,
     "slug": "x100s",
-    "id": "x100s"
+    "id": "x100s",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -547,7 +847,12 @@
     "megapixels": 12.3,
     "releaseYear": 2010,
     "slug": "x100",
-    "id": "x100"
+    "id": "x100",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -557,7 +862,14 @@
     "megapixels": 102.0,
     "releaseYear": 2023,
     "slug": "gfx-100-ii",
-    "id": "gfx-100-ii"
+    "id": "gfx-100-ii",
+    "videoResolution": "8K 30p / 4K 60p",
+    "afPoints": "425",
+    "evfResolution": "9.44M-dot OLED",
+    "burstSpeed": "8 fps",
+    "logSupport": "F-Log2",
+    "sensorType": "CMOS II HS",
+    "weightGrams": 1030
   },
   {
     "brand": "Fujifilm",
@@ -567,7 +879,12 @@
     "megapixels": 102.0,
     "releaseYear": 2024,
     "slug": "gfx-100s-ii",
-    "id": "gfx-100s-ii"
+    "id": "gfx-100s-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -577,7 +894,12 @@
     "megapixels": 102.0,
     "releaseYear": 2021,
     "slug": "gfx-100s",
-    "id": "gfx-100s"
+    "id": "gfx-100s",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -587,7 +909,12 @@
     "megapixels": 51.4,
     "releaseYear": 2021,
     "slug": "gfx-50s-ii",
-    "id": "gfx-50s-ii"
+    "id": "gfx-50s-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Fujifilm",
@@ -597,7 +924,12 @@
     "megapixels": 51.4,
     "releaseYear": 2018,
     "slug": "gfx-50r",
-    "id": "gfx-50r"
+    "id": "gfx-50r",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -607,7 +939,14 @@
     "megapixels": 24.2,
     "releaseYear": 2024,
     "slug": "eos-r1",
-    "id": "eos-r1"
+    "id": "eos-r1",
+    "videoResolution": "6K 60p / 4K 120p",
+    "afPoints": "1053",
+    "evfResolution": "9.44M-dot OLED",
+    "burstSpeed": "40 fps",
+    "logSupport": "C-Log 2/3",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 1115
   },
   {
     "brand": "Canon",
@@ -617,7 +956,14 @@
     "megapixels": 24.1,
     "releaseYear": 2021,
     "slug": "eos-r3",
-    "id": "eos-r3"
+    "id": "eos-r3",
+    "videoResolution": "6K 60p / 4K 120p",
+    "afPoints": "1053",
+    "evfResolution": "5.76M-dot OLED",
+    "burstSpeed": "30 fps",
+    "logSupport": "C-Log 3",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 1015
   },
   {
     "brand": "Canon",
@@ -627,7 +973,14 @@
     "megapixels": 45.0,
     "releaseYear": 2024,
     "slug": "eos-r5-ii",
-    "id": "eos-r5-ii"
+    "id": "eos-r5-ii",
+    "videoResolution": "8K 60p / 4K 120p",
+    "afPoints": "5850",
+    "evfResolution": "5.76M-dot OLED",
+    "burstSpeed": "30 fps",
+    "logSupport": "C-Log 2/3",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 746
   },
   {
     "brand": "Canon",
@@ -637,7 +990,12 @@
     "megapixels": 45.0,
     "releaseYear": 2020,
     "slug": "eos-r5",
-    "id": "eos-r5"
+    "id": "eos-r5",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -647,7 +1005,12 @@
     "megapixels": 24.2,
     "releaseYear": 2022,
     "slug": "eos-r6-ii",
-    "id": "eos-r6-ii"
+    "id": "eos-r6-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -657,7 +1020,12 @@
     "megapixels": 20.1,
     "releaseYear": 2020,
     "slug": "eos-r6",
-    "id": "eos-r6"
+    "id": "eos-r6",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -667,7 +1035,12 @@
     "megapixels": 24.2,
     "releaseYear": 2023,
     "slug": "eos-r8",
-    "id": "eos-r8"
+    "id": "eos-r8",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -677,7 +1050,12 @@
     "megapixels": 30.3,
     "releaseYear": 2018,
     "slug": "eos-r",
-    "id": "eos-r"
+    "id": "eos-r",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -687,7 +1065,12 @@
     "megapixels": 26.2,
     "releaseYear": 2019,
     "slug": "eos-rp",
-    "id": "eos-rp"
+    "id": "eos-rp",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -697,7 +1080,12 @@
     "megapixels": 32.5,
     "releaseYear": 2022,
     "slug": "eos-r7",
-    "id": "eos-r7"
+    "id": "eos-r7",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -707,7 +1095,14 @@
     "megapixels": 24.2,
     "releaseYear": 2022,
     "slug": "eos-r10",
-    "id": "eos-r10"
+    "id": "eos-r10",
+    "videoResolution": "6K 60p / 4K 120p",
+    "afPoints": "1053",
+    "evfResolution": "9.44M-dot OLED",
+    "burstSpeed": "40 fps",
+    "logSupport": "C-Log 2/3",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 1115
   },
   {
     "brand": "Canon",
@@ -717,7 +1112,12 @@
     "megapixels": 24.2,
     "releaseYear": 2023,
     "slug": "eos-r50",
-    "id": "eos-r50"
+    "id": "eos-r50",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Canon",
@@ -727,7 +1127,14 @@
     "megapixels": 24.1,
     "releaseYear": 2023,
     "slug": "eos-r100",
-    "id": "eos-r100"
+    "id": "eos-r100",
+    "videoResolution": "6K 60p / 4K 120p",
+    "afPoints": "1053",
+    "evfResolution": "9.44M-dot OLED",
+    "burstSpeed": "40 fps",
+    "logSupport": "C-Log 2/3",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 1115
   },
   {
     "brand": "Nikon",
@@ -737,7 +1144,14 @@
     "megapixels": 45.7,
     "releaseYear": 2021,
     "slug": "z9",
-    "id": "z9"
+    "id": "z9",
+    "videoResolution": "8K 60p / 4K 120p",
+    "afPoints": "493",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "20 fps (RAW) / 120 fps (JPEG)",
+    "logSupport": "N-Log / ProRes RAW",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 1340
   },
   {
     "brand": "Nikon",
@@ -747,7 +1161,14 @@
     "megapixels": 45.7,
     "releaseYear": 2023,
     "slug": "z8",
-    "id": "z8"
+    "id": "z8",
+    "videoResolution": "8K 60p / 4K 120p",
+    "afPoints": "493",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "20 fps (RAW)",
+    "logSupport": "N-Log / ProRes RAW",
+    "sensorType": "Stacked CMOS",
+    "weightGrams": 910
   },
   {
     "brand": "Nikon",
@@ -757,7 +1178,12 @@
     "megapixels": 45.7,
     "releaseYear": 2020,
     "slug": "z7-ii",
-    "id": "z7-ii"
+    "id": "z7-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -767,7 +1193,12 @@
     "megapixels": 45.7,
     "releaseYear": 2018,
     "slug": "z7",
-    "id": "z7"
+    "id": "z7",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -777,7 +1208,14 @@
     "megapixels": 24.5,
     "releaseYear": 2024,
     "slug": "z6-iii",
-    "id": "z6-iii"
+    "id": "z6-iii",
+    "videoResolution": "6K 60p / 4K 120p",
+    "afPoints": "299",
+    "evfResolution": "5.76M-dot OLED",
+    "burstSpeed": "20 fps",
+    "logSupport": "N-Log",
+    "sensorType": "Partially Stacked CMOS",
+    "weightGrams": 670
   },
   {
     "brand": "Nikon",
@@ -787,7 +1225,12 @@
     "megapixels": 24.5,
     "releaseYear": 2020,
     "slug": "z6-ii",
-    "id": "z6-ii"
+    "id": "z6-ii",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -797,7 +1240,12 @@
     "megapixels": 24.5,
     "releaseYear": 2018,
     "slug": "z6",
-    "id": "z6"
+    "id": "z6",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -807,7 +1255,12 @@
     "megapixels": 24.3,
     "releaseYear": 2020,
     "slug": "z5",
-    "id": "z5"
+    "id": "z5",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -817,7 +1270,14 @@
     "megapixels": 24.5,
     "releaseYear": 2023,
     "slug": "zf",
-    "id": "zf"
+    "id": "zf",
+    "videoResolution": "4K 60p",
+    "afPoints": "299",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "14 fps",
+    "logSupport": "N-Log",
+    "sensorType": "CMOS",
+    "weightGrams": 710
   },
   {
     "brand": "Nikon",
@@ -827,7 +1287,14 @@
     "megapixels": 20.9,
     "releaseYear": 2021,
     "slug": "zfc",
-    "id": "zfc"
+    "id": "zfc",
+    "videoResolution": "4K 60p",
+    "afPoints": "299",
+    "evfResolution": "3.69M-dot OLED",
+    "burstSpeed": "14 fps",
+    "logSupport": "N-Log",
+    "sensorType": "CMOS",
+    "weightGrams": 710
   },
   {
     "brand": "Nikon",
@@ -837,7 +1304,12 @@
     "megapixels": 20.9,
     "releaseYear": 2019,
     "slug": "z50",
-    "id": "z50"
+    "id": "z50",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Nikon",
@@ -847,7 +1319,12 @@
     "megapixels": 20.9,
     "releaseYear": 2022,
     "slug": "z30",
-    "id": "z30"
+    "id": "z30",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
   },
   {
     "brand": "Sony",
@@ -859,7 +1336,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "fe-12-24mm-f28-gm",
-    "id": "fe-12-24mm-f28-gm"
+    "id": "fe-12-24mm-f28-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -871,7 +1352,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2023,
     "slug": "fe-16-35mm-f28-gm-ii",
-    "id": "fe-16-35mm-f28-gm-ii"
+    "id": "fe-16-35mm-f28-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -883,7 +1368,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2022,
     "slug": "fe-24-70mm-f28-gm-ii",
-    "id": "fe-24-70mm-f28-gm-ii"
+    "id": "fe-24-70mm-f28-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -895,7 +1384,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "slug": "fe-70-200mm-f28-gm-oss-ii",
-    "id": "fe-70-200mm-f28-gm-oss-ii"
+    "id": "fe-70-200mm-f28-gm-oss-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -907,7 +1400,11 @@
     "apertureMax": 5.6,
     "releaseYear": 2019,
     "slug": "fe-200-600mm-f56-63-g-oss",
-    "id": "fe-200-600mm-f56-63-g-oss"
+    "id": "fe-200-600mm-f56-63-g-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -919,7 +1416,11 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "slug": "fe-35mm-f14-gm",
-    "id": "fe-35mm-f14-gm"
+    "id": "fe-35mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -931,7 +1432,11 @@
     "apertureMax": 1.2,
     "releaseYear": 2021,
     "slug": "fe-50mm-f12-gm",
-    "id": "fe-50mm-f12-gm"
+    "id": "fe-50mm-f12-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -943,7 +1448,11 @@
     "apertureMax": 1.4,
     "releaseYear": 2016,
     "slug": "fe-85mm-f14-gm",
-    "id": "fe-85mm-f14-gm"
+    "id": "fe-85mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -955,7 +1464,11 @@
     "apertureMax": 1.8,
     "releaseYear": 2013,
     "slug": "fe-55mm-f18-za",
-    "id": "fe-55mm-f18-za"
+    "id": "fe-55mm-f18-za",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -977,7 +1490,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 24,
     "slug": "14-24mm-f28-dg-dn-art",
-    "id": "14-24mm-f28-dg-dn-art"
+    "id": "14-24mm-f28-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -999,7 +1516,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f28-dg-dn-art-ii",
-    "id": "24-70mm-f28-dg-dn-art-ii"
+    "id": "24-70mm-f28-dg-dn-art-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1011,7 +1532,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "slug": "28-70mm-f28-dg-dn-contemporary",
-    "id": "28-70mm-f28-dg-dn-contemporary"
+    "id": "28-70mm-f28-dg-dn-contemporary",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1033,7 +1558,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-dg-dn-art",
-    "id": "35mm-f14-dg-dn-art"
+    "id": "35mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1055,7 +1584,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-dg-dn-art",
-    "id": "50mm-f14-dg-dn-art"
+    "id": "50mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1077,7 +1610,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-dg-dn-art",
-    "id": "85mm-f14-dg-dn-art"
+    "id": "85mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1099,7 +1636,11 @@
     "focalLengthMinMm": 105,
     "focalLengthMaxMm": 105,
     "slug": "105mm-f28-dg-dn-macro-art",
-    "id": "105mm-f28-dg-dn-macro-art"
+    "id": "105mm-f28-dg-dn-macro-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1111,7 +1652,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "slug": "18-50mm-f28-dc-dn-contemporary",
-    "id": "18-50mm-f28-dc-dn-contemporary"
+    "id": "18-50mm-f28-dc-dn-contemporary",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1123,7 +1668,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "17-28mm-f28-di-iii-rxd",
-    "id": "17-28mm-f28-di-iii-rxd"
+    "id": "17-28mm-f28-di-iii-rxd",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1135,7 +1684,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "slug": "28-75mm-f28-di-iii-vxd-g2",
-    "id": "28-75mm-f28-di-iii-vxd-g2"
+    "id": "28-75mm-f28-di-iii-vxd-g2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1147,7 +1700,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2023,
     "slug": "70-180mm-f28-di-iii-vc-vxd-g2",
-    "id": "70-180mm-f28-di-iii-vc-vxd-g2"
+    "id": "70-180mm-f28-di-iii-vc-vxd-g2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1159,7 +1716,11 @@
     "apertureMax": 2.0,
     "releaseYear": 2021,
     "slug": "35-150mm-f2-28-di-iii-vxd",
-    "id": "35-150mm-f2-28-di-iii-vxd"
+    "id": "35-150mm-f2-28-di-iii-vxd",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1171,7 +1732,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "28-200mm-f28-56-di-iii-rxd",
-    "id": "28-200mm-f28-56-di-iii-rxd"
+    "id": "28-200mm-f28-56-di-iii-rxd",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1193,7 +1758,11 @@
     "focalLengthMinMm": 150,
     "focalLengthMaxMm": 500,
     "slug": "150-500mm-f5-67-di-iii-vc-vxd",
-    "id": "150-500mm-f5-67-di-iii-vc-vxd"
+    "id": "150-500mm-f5-67-di-iii-vc-vxd",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1205,7 +1774,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2018,
     "slug": "xf-8-16mm-f28-r-lm-wr",
-    "id": "xf-8-16mm-f28-r-lm-wr"
+    "id": "xf-8-16mm-f28-r-lm-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1217,7 +1790,11 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "slug": "xf-10-24mm-f4-r-ois-wr",
-    "id": "xf-10-24mm-f4-r-ois-wr"
+    "id": "xf-10-24mm-f4-r-ois-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1229,7 +1806,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2015,
     "slug": "xf-16-55mm-f28-r-lm-wr",
-    "id": "xf-16-55mm-f28-r-lm-wr"
+    "id": "xf-16-55mm-f28-r-lm-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1241,7 +1822,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2012,
     "slug": "xf-18-55mm-f28-4-r-lm-ois",
-    "id": "xf-18-55mm-f28-4-r-lm-ois"
+    "id": "xf-18-55mm-f28-4-r-lm-ois",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1253,7 +1838,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2014,
     "slug": "xf-50-140mm-f28-r-lm-ois-wr",
-    "id": "xf-50-140mm-f28-r-lm-ois-wr"
+    "id": "xf-50-140mm-f28-r-lm-ois-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1265,7 +1854,11 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "slug": "xf-33mm-f14-r-lm-wr",
-    "id": "xf-33mm-f14-r-lm-wr"
+    "id": "xf-33mm-f14-r-lm-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Fujifilm",
@@ -1277,7 +1870,11 @@
     "apertureMax": 1.2,
     "releaseYear": 2022,
     "slug": "xf-56mm-f12-r-wr",
-    "id": "xf-56mm-f12-r-wr"
+    "id": "xf-56mm-f12-r-wr",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Canon",
@@ -1289,7 +1886,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-15-35mm-f28l-is-usm",
-    "id": "rf-15-35mm-f28l-is-usm"
+    "id": "rf-15-35mm-f28l-is-usm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Canon",
@@ -1301,7 +1902,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-24-70mm-f28l-is-usm",
-    "id": "rf-24-70mm-f28l-is-usm"
+    "id": "rf-24-70mm-f28l-is-usm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Canon",
@@ -1313,7 +1918,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-70-200mm-f28l-is-usm",
-    "id": "rf-70-200mm-f28l-is-usm"
+    "id": "rf-70-200mm-f28l-is-usm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Canon",
@@ -1325,7 +1934,11 @@
     "apertureMax": 2.0,
     "releaseYear": 2018,
     "slug": "rf-28-70mm-f2l-usm",
-    "id": "rf-28-70mm-f2l-usm"
+    "id": "rf-28-70mm-f2l-usm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Canon",
@@ -1337,7 +1950,11 @@
     "apertureMax": 1.2,
     "releaseYear": 2018,
     "slug": "rf-50mm-f12l-usm",
-    "id": "rf-50mm-f12l-usm"
+    "id": "rf-50mm-f12l-usm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Nikon",
@@ -1349,7 +1966,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "z-14-24mm-f28-s",
-    "id": "z-14-24mm-f28-s"
+    "id": "z-14-24mm-f28-s",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Nikon",
@@ -1361,7 +1982,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "z-24-70mm-f28-s",
-    "id": "z-24-70mm-f28-s"
+    "id": "z-24-70mm-f28-s",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Nikon",
@@ -1373,7 +1998,11 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "z-70-200mm-f28-vr-s",
-    "id": "z-70-200mm-f28-vr-s"
+    "id": "z-70-200mm-f28-vr-s",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Nikon",
@@ -1385,7 +2014,11 @@
     "apertureMax": 1.8,
     "releaseYear": 2023,
     "slug": "z-135mm-f18-s-plena",
-    "id": "z-135mm-f18-s-plena"
+    "id": "z-135mm-f18-s-plena",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Nikon",
@@ -1397,7 +2030,11 @@
     "apertureMax": 1.2,
     "releaseYear": 2020,
     "slug": "z-50mm-f12-s",
-    "id": "z-50mm-f12-s"
+    "id": "z-50mm-f12-s",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -1419,7 +2056,11 @@
     "focalLengthMinMm": 10,
     "focalLengthMaxMm": 10,
     "slug": "10mm-f28-cd-dreamer",
-    "id": "10mm-f28-cd-dreamer"
+    "id": "10mm-f28-cd-dreamer",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -1441,7 +2082,11 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 12,
     "slug": "12mm-f28-lite-zero-d-ff",
-    "id": "12mm-f28-lite-zero-d-ff"
+    "id": "12mm-f28-lite-zero-d-ff",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1463,7 +2108,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 14,
     "slug": "14mm-f14-dg-dn-art",
-    "id": "14mm-f14-dg-dn-art"
+    "id": "14mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1485,7 +2134,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 14,
     "slug": "14mm-f18-dg-hsm-art",
-    "id": "14mm-f18-dg-hsm-art"
+    "id": "14mm-f18-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -1507,7 +2160,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 14,
     "slug": "14mm-f18-gm",
-    "id": "14mm-f18-gm"
+    "id": "14mm-f18-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -1529,7 +2186,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 14,
     "slug": "14mm-f28-af",
-    "id": "14mm-f28-af"
+    "id": "14mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1551,7 +2212,11 @@
     "focalLengthMinMm": 15,
     "focalLengthMaxMm": 15,
     "slug": "15mm-f14-dg-dn-fisheye-art",
-    "id": "15mm-f14-dg-dn-fisheye-art"
+    "id": "15mm-f14-dg-dn-fisheye-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -1573,7 +2238,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 16,
     "slug": "16mm-f18-g",
-    "id": "16mm-f18-g"
+    "id": "16mm-f18-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -1595,7 +2264,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 16,
     "slug": "16mm-f18-af-led",
-    "id": "16mm-f18-af-led"
+    "id": "16mm-f18-af-led",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1617,7 +2290,11 @@
     "focalLengthMinMm": 17,
     "focalLengthMaxMm": 17,
     "slug": "17mm-f40-dg-dn-c",
-    "id": "17mm-f40-dg-dn-c"
+    "id": "17mm-f40-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -1639,7 +2316,11 @@
     "focalLengthMinMm": 18,
     "focalLengthMaxMm": 18,
     "slug": "18mm-f28-af",
-    "id": "18mm-f28-af"
+    "id": "18mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -1661,7 +2342,11 @@
     "focalLengthMinMm": 18,
     "focalLengthMaxMm": 18,
     "slug": "18mm-f28",
-    "id": "18mm-f28"
+    "id": "18mm-f28",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1683,7 +2368,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f14-dg-dn-art",
-    "id": "20mm-f14-dg-dn-art"
+    "id": "20mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1705,7 +2394,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f14-dg-hsm-art",
-    "id": "20mm-f14-dg-hsm-art"
+    "id": "20mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -1727,7 +2420,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f18-g",
-    "id": "20mm-f18-g"
+    "id": "20mm-f18-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -1749,7 +2446,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-t19-v-af",
-    "id": "20mm-t19-v-af"
+    "id": "20mm-t19-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1771,7 +2472,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f20-dg-dn-c",
-    "id": "20mm-f20-dg-dn-c"
+    "id": "20mm-f20-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tokina",
@@ -1793,7 +2498,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f20-af-firin",
-    "id": "20mm-f20-af-firin"
+    "id": "20mm-f20-af-firin",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -1815,7 +2524,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f28-di-iii-osd-f050",
-    "id": "20mm-f28-di-iii-osd-f050"
+    "id": "20mm-f28-di-iii-osd-f050",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -1837,7 +2550,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f28-af-air",
-    "id": "20mm-f28-af-air"
+    "id": "20mm-f28-af-air",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1859,7 +2576,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f14-dg-dn-art",
-    "id": "24mm-f14-dg-dn-art"
+    "id": "24mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1881,7 +2602,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f14-dg-hsm-art",
-    "id": "24mm-f14-dg-hsm-art"
+    "id": "24mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -1903,7 +2628,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f14-gm",
-    "id": "24mm-f14-gm"
+    "id": "24mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -1925,7 +2654,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f18-af",
-    "id": "24mm-f18-af"
+    "id": "24mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -1947,7 +2680,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f18-af-stm",
-    "id": "24mm-f18-af-stm"
+    "id": "24mm-f18-af-stm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -1969,7 +2706,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-t19-v-af",
-    "id": "24mm-t19-v-af"
+    "id": "24mm-t19-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -1991,7 +2732,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f20-dg-dn-c",
-    "id": "24mm-f20-dg-dn-c"
+    "id": "24mm-f20-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2013,7 +2758,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f28-af",
-    "id": "24mm-f28-af"
+    "id": "24mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2035,7 +2784,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f28-g",
-    "id": "24mm-f28-g"
+    "id": "24mm-f28-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -2057,7 +2810,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f28-di-iii-osd-f051",
-    "id": "24mm-f28-di-iii-osd-f051"
+    "id": "24mm-f28-di-iii-osd-f051",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2079,7 +2836,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f35-dg-dn-c",
-    "id": "24mm-f35-dg-dn-c"
+    "id": "24mm-f35-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -2101,7 +2862,11 @@
     "focalLengthMinMm": 25,
     "focalLengthMaxMm": 25,
     "slug": "25mm-f20",
-    "id": "25mm-f20"
+    "id": "25mm-f20",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2123,7 +2888,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "slug": "28mm-f14-dg-hsm-art",
-    "id": "28mm-f14-dg-hsm-art"
+    "id": "28mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2145,7 +2914,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "slug": "28mm-f18-af-stm",
-    "id": "28mm-f18-af-stm"
+    "id": "28mm-f18-af-stm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2167,7 +2940,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "slug": "28mm-f20",
-    "id": "28mm-f20"
+    "id": "28mm-f20",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2189,7 +2966,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "slug": "28mm-f45-af-chip",
-    "id": "28mm-f45-af-chip"
+    "id": "28mm-f45-af-chip",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2211,7 +2992,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f12-dg-dn-art",
-    "id": "35mm-f12-dg-dn-art"
+    "id": "35mm-f12-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2233,7 +3018,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f12-dg-dn-art-ii",
-    "id": "35mm-f12-dg-dn-art-ii"
+    "id": "35mm-f12-dg-dn-art-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2255,7 +3044,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f12-af-lab",
-    "id": "35mm-f12-af-lab"
+    "id": "35mm-f12-af-lab",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2277,7 +3070,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-af",
-    "id": "35mm-f14-af"
+    "id": "35mm-f14-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2299,7 +3096,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-af-ii",
-    "id": "35mm-f14-af-ii"
+    "id": "35mm-f14-af-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2321,7 +3122,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-af-p",
-    "id": "35mm-f14-af-p"
+    "id": "35mm-f14-af-p",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2343,7 +3148,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-dg-art-ii",
-    "id": "35mm-f14-dg-art-ii"
+    "id": "35mm-f14-dg-art-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2365,7 +3174,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-dg-hsm-art",
-    "id": "35mm-f14-dg-hsm-art"
+    "id": "35mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2387,7 +3200,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-gm",
-    "id": "35mm-f14-gm"
+    "id": "35mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2409,7 +3226,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14-za",
-    "id": "35mm-f14-za"
+    "id": "35mm-f14-za",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2431,7 +3252,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f18-af",
-    "id": "35mm-f18-af"
+    "id": "35mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2453,7 +3278,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f18",
-    "id": "35mm-f18"
+    "id": "35mm-f18",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2475,7 +3304,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-t19-v-af",
-    "id": "35mm-t19-v-af"
+    "id": "35mm-t19-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2497,7 +3330,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f20-dg-dn-c",
-    "id": "35mm-f20-dg-dn-c"
+    "id": "35mm-f20-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Yongnuo",
@@ -2519,7 +3356,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f20-s-df-dsm",
-    "id": "35mm-f20-s-df-dsm"
+    "id": "35mm-f20-s-df-dsm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2541,7 +3382,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f28-af",
-    "id": "35mm-f28-af"
+    "id": "35mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2563,7 +3408,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f28-za",
-    "id": "35mm-f28-za"
+    "id": "35mm-f28-za",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -2585,7 +3434,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f28-di-iii-osd-f053",
-    "id": "35mm-f28-di-iii-osd-f053"
+    "id": "35mm-f28-di-iii-osd-f053",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2607,7 +3460,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f14-dg-hsm-art",
-    "id": "40mm-f14-dg-hsm-art"
+    "id": "40mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -2629,7 +3486,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f20-cf",
-    "id": "40mm-f20-cf"
+    "id": "40mm-f20-cf",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2651,7 +3512,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f25-g",
-    "id": "40mm-f25-g"
+    "id": "40mm-f25-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2673,7 +3538,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f25-af-air",
-    "id": "40mm-f25-af-air"
+    "id": "40mm-f25-af-air",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2695,7 +3564,11 @@
     "focalLengthMinMm": 45,
     "focalLengthMaxMm": 45,
     "slug": "45mm-f18-af",
-    "id": "45mm-f18-af"
+    "id": "45mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2717,7 +3590,11 @@
     "focalLengthMinMm": 45,
     "focalLengthMaxMm": 45,
     "slug": "45mm-f28-dg-dn-c",
-    "id": "45mm-f28-dg-dn-c"
+    "id": "45mm-f28-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2739,7 +3616,11 @@
     "focalLengthMinMm": 45,
     "focalLengthMaxMm": 45,
     "slug": "45mm-t19-v-af",
-    "id": "45mm-t19-v-af"
+    "id": "45mm-t19-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2761,7 +3642,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f12-dg-dn-art",
-    "id": "50mm-f12-dg-dn-art"
+    "id": "50mm-f12-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2783,7 +3668,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f12-gm",
-    "id": "50mm-f12-gm"
+    "id": "50mm-f12-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2805,7 +3694,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-af",
-    "id": "50mm-f14-af"
+    "id": "50mm-f14-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -2827,7 +3720,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-af-ii",
-    "id": "50mm-f14-af-ii"
+    "id": "50mm-f14-af-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -2849,7 +3746,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-dg-hsm-art",
-    "id": "50mm-f14-dg-hsm-art"
+    "id": "50mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2871,7 +3772,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-gm",
-    "id": "50mm-f14-gm"
+    "id": "50mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -2893,7 +3798,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-za",
-    "id": "50mm-f14-za"
+    "id": "50mm-f14-za",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2915,7 +3824,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f14-pro",
-    "id": "50mm-f14-pro"
+    "id": "50mm-f14-pro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -2937,7 +3850,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f18-af",
-    "id": "50mm-f18-af"
+    "id": "50mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Yongnuo",
@@ -2959,7 +3876,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f18-s-df-dsm",
-    "id": "50mm-f18-s-df-dsm"
+    "id": "50mm-f18-s-df-dsm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sirui",
@@ -2981,7 +3902,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-t18-133x",
-    "id": "50mm-t18-133x"
+    "id": "50mm-t18-133x",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3003,7 +3928,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f20-dg-dn-c",
-    "id": "50mm-f20-dg-dn-c"
+    "id": "50mm-f20-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3025,7 +3954,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f20-af-air",
-    "id": "50mm-f20-af-air"
+    "id": "50mm-f20-af-air",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3047,7 +3980,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f25-g",
-    "id": "50mm-f25-g"
+    "id": "50mm-f25-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3069,7 +4006,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f28-marcro",
-    "id": "50mm-f28-marcro"
+    "id": "50mm-f28-marcro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3091,7 +4032,11 @@
     "focalLengthMinMm": 55,
     "focalLengthMaxMm": 55,
     "slug": "55mm-f18-za",
-    "id": "55mm-f18-za"
+    "id": "55mm-f18-za",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3113,7 +4058,11 @@
     "focalLengthMinMm": 65,
     "focalLengthMaxMm": 65,
     "slug": "65mm-f20-dg-dn-c",
-    "id": "65mm-f20-dg-dn-c"
+    "id": "65mm-f20-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3135,7 +4084,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 70,
     "slug": "70mm-f28-dg-macro-art",
-    "id": "70mm-f28-dg-macro-art"
+    "id": "70mm-f28-dg-macro-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3157,7 +4110,11 @@
     "focalLengthMinMm": 75,
     "focalLengthMaxMm": 75,
     "slug": "75mm-f18-af",
-    "id": "75mm-f18-af"
+    "id": "75mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sirui",
@@ -3179,7 +4136,11 @@
     "focalLengthMinMm": 75,
     "focalLengthMaxMm": 75,
     "slug": "75mm-t18-133x",
-    "id": "75mm-t18-133x"
+    "id": "75mm-t18-133x",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3201,7 +4162,11 @@
     "focalLengthMinMm": 75,
     "focalLengthMaxMm": 75,
     "slug": "75mm-t19-v-af",
-    "id": "75mm-t19-v-af"
+    "id": "75mm-t19-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Meike",
@@ -3223,7 +4188,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-af-stm",
-    "id": "85mm-f14-af-stm"
+    "id": "85mm-f14-af-stm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3245,7 +4214,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-af",
-    "id": "85mm-f14-af"
+    "id": "85mm-f14-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3267,7 +4240,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-af-ii",
-    "id": "85mm-f14-af-ii"
+    "id": "85mm-f14-af-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3289,7 +4266,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-dg-hsm-art",
-    "id": "85mm-f14-dg-hsm-art"
+    "id": "85mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3311,7 +4292,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-gm",
-    "id": "85mm-f14-gm"
+    "id": "85mm-f14-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3333,7 +4318,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-gm-ii",
-    "id": "85mm-f14-gm-ii"
+    "id": "85mm-f14-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3355,7 +4344,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f14-pro",
-    "id": "85mm-f14-pro"
+    "id": "85mm-f14-pro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "7Artisans",
@@ -3377,7 +4370,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-af",
-    "id": "85mm-f18-af"
+    "id": "85mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Meike",
@@ -3399,7 +4396,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-stm",
-    "id": "85mm-f18-stm"
+    "id": "85mm-f18-stm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -3421,7 +4422,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18",
-    "id": "85mm-f18"
+    "id": "85mm-f18",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tokina",
@@ -3443,7 +4448,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-fe-atx-m",
-    "id": "85mm-f18-fe-atx-m"
+    "id": "85mm-f18-fe-atx-m",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3465,7 +4474,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-af-stm",
-    "id": "85mm-f18-af-stm"
+    "id": "85mm-f18-af-stm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3487,7 +4500,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-af-stm-ii",
-    "id": "85mm-f18-af-stm-ii"
+    "id": "85mm-f18-af-stm-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Yongnuo",
@@ -3509,7 +4526,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f18-s-df-dsm",
-    "id": "85mm-f18-s-df-dsm"
+    "id": "85mm-f18-s-df-dsm",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3531,7 +4552,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f20-evo",
-    "id": "85mm-f20-evo"
+    "id": "85mm-f20-evo",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3553,7 +4578,11 @@
     "focalLengthMinMm": 90,
     "focalLengthMaxMm": 90,
     "slug": "90mm-f28-dg-dn-c",
-    "id": "90mm-f28-dg-dn-c"
+    "id": "90mm-f28-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3575,7 +4604,11 @@
     "focalLengthMinMm": 90,
     "focalLengthMaxMm": 90,
     "slug": "90mm-f28-g-macro-oss",
-    "id": "90mm-f28-g-macro-oss"
+    "id": "90mm-f28-g-macro-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -3597,7 +4630,11 @@
     "focalLengthMinMm": 90,
     "focalLengthMaxMm": 90,
     "slug": "90mm-f28-di-iii-macro-vxd",
-    "id": "90mm-f28-di-iii-macro-vxd"
+    "id": "90mm-f28-di-iii-macro-vxd",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sirui",
@@ -3619,7 +4656,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-t18-133x",
-    "id": "100mm-t18-133x"
+    "id": "100mm-t18-133x",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3641,7 +4682,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-t23-v-af",
-    "id": "100mm-t23-v-af"
+    "id": "100mm-t23-v-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3663,7 +4708,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f28-gm-oss-stf",
-    "id": "100mm-f28-gm-oss-stf"
+    "id": "100mm-f28-gm-oss-stf",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3685,7 +4734,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f28-gm-oss-marco",
-    "id": "100mm-f28-gm-oss-marco"
+    "id": "100mm-f28-gm-oss-marco",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tokina",
@@ -3707,7 +4760,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f28-fe-macro-firin",
-    "id": "100mm-f28-fe-macro-firin"
+    "id": "100mm-f28-fe-macro-firin",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3729,7 +4786,11 @@
     "focalLengthMinMm": 105,
     "focalLengthMaxMm": 105,
     "slug": "105mm-f14-dg-hsm-art",
-    "id": "105mm-f14-dg-hsm-art"
+    "id": "105mm-f14-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3751,7 +4812,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f14-dg-dn-art",
-    "id": "135mm-f14-dg-dn-art"
+    "id": "135mm-f14-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -3773,7 +4838,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f18-af",
-    "id": "135mm-f18-af"
+    "id": "135mm-f18-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3795,7 +4864,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f18-dg-hsm-art",
-    "id": "135mm-f18-dg-hsm-art"
+    "id": "135mm-f18-dg-hsm-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3817,7 +4890,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f18-gm",
-    "id": "135mm-f18-gm"
+    "id": "135mm-f18-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Viltrox",
@@ -3839,7 +4916,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f18-af-lab",
-    "id": "135mm-f18-af-lab"
+    "id": "135mm-f18-af-lab",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -3861,7 +4942,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f28-apo",
-    "id": "135mm-f28-apo"
+    "id": "135mm-f28-apo",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -3883,7 +4968,11 @@
     "focalLengthMinMm": 180,
     "focalLengthMaxMm": 180,
     "slug": "180mm-f45-ca-dreamer-macro",
-    "id": "180mm-f45-ca-dreamer-macro"
+    "id": "180mm-f45-ca-dreamer-macro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -3905,7 +4994,11 @@
     "focalLengthMinMm": 200,
     "focalLengthMaxMm": 200,
     "slug": "200mm-f20-c-dreamer",
-    "id": "200mm-f20-c-dreamer"
+    "id": "200mm-f20-c-dreamer",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3927,7 +5020,11 @@
     "focalLengthMinMm": 200,
     "focalLengthMaxMm": 200,
     "slug": "200mm-f20-dg-os-sports",
-    "id": "200mm-f20-dg-os-sports"
+    "id": "200mm-f20-dg-os-sports",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3949,7 +5046,11 @@
     "focalLengthMinMm": 300,
     "focalLengthMaxMm": 300,
     "slug": "300mm-f28-gm-oss",
-    "id": "300mm-f28-gm-oss"
+    "id": "300mm-f28-gm-oss",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -3971,7 +5072,11 @@
     "focalLengthMinMm": 400,
     "focalLengthMaxMm": 400,
     "slug": "400mm-f28-gm-oss",
-    "id": "400mm-f28-gm-oss"
+    "id": "400mm-f28-gm-oss",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -3993,7 +5098,11 @@
     "focalLengthMinMm": 500,
     "focalLengthMaxMm": 500,
     "slug": "500mm-f56-dg-dn-os-sport",
-    "id": "500mm-f56-dg-dn-os-sport"
+    "id": "500mm-f56-dg-dn-os-sport",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4015,7 +5124,11 @@
     "focalLengthMinMm": 600,
     "focalLengthMaxMm": 600,
     "slug": "600mm-f40-gm-oss",
-    "id": "600mm-f40-gm-oss"
+    "id": "600mm-f40-gm-oss",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4037,7 +5150,11 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 24,
     "slug": "12-24mm-f28-gm",
-    "id": "12-24mm-f28-gm"
+    "id": "12-24mm-f28-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4059,7 +5176,11 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 24,
     "slug": "12-24mm-f4-g",
-    "id": "12-24mm-f4-g"
+    "id": "12-24mm-f4-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -4081,7 +5202,11 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 24,
     "slug": "14-24mm-f28-af",
-    "id": "14-24mm-f28-af"
+    "id": "14-24mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4103,7 +5228,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 25,
     "slug": "16-25mm-f28-g",
-    "id": "16-25mm-f28-g"
+    "id": "16-25mm-f28-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4125,7 +5254,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 28,
     "slug": "16-28mm-f28-dg-dn-c",
-    "id": "16-28mm-f28-dg-dn-c"
+    "id": "16-28mm-f28-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4147,7 +5280,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 30,
     "slug": "16-30mm-f28-di-iii-vxd-g2-a064",
-    "id": "16-30mm-f28-di-iii-vxd-g2-a064"
+    "id": "16-30mm-f28-di-iii-vxd-g2-a064",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4169,7 +5306,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f28-gm",
-    "id": "16-35mm-f28-gm"
+    "id": "16-35mm-f28-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4191,7 +5332,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f28-gm-ii",
-    "id": "16-35mm-f28-gm-ii"
+    "id": "16-35mm-f28-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4213,7 +5358,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-t31-g",
-    "id": "16-35mm-t31-g"
+    "id": "16-35mm-t31-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4235,7 +5384,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-za-oss",
-    "id": "16-35mm-f4-za-oss"
+    "id": "16-35mm-f4-za-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4257,7 +5410,11 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-g-pz",
-    "id": "16-35mm-f4-g-pz"
+    "id": "16-35mm-f4-g-pz",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4279,7 +5436,11 @@
     "focalLengthMinMm": 17,
     "focalLengthMaxMm": 28,
     "slug": "17-28mm-f28-di-iii-rxd-a046",
-    "id": "17-28mm-f28-di-iii-rxd-a046"
+    "id": "17-28mm-f28-di-iii-rxd-a046",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4301,11 +5462,15 @@
     "focalLengthMinMm": 17,
     "focalLengthMaxMm": 50,
     "slug": "17-50mm-f4-di-iii-rxd-a068",
-    "id": "17-50mm-f4-di-iii-rxd-a068"
+    "id": "17-50mm-f4-di-iii-rxd-a068",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
-    "modelName": "20-40mm F2.8 Di III VXD A062   20-40mm F2.8 Di III VXD A062",
+    "modelName": "20-40mm F2.8 Di III VXD A062 20-40mm F2.8 Di III VXD A062",
     "gearType": "LENS",
     "series": null,
     "releaseYear": 2022,
@@ -4323,7 +5488,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 40,
     "slug": "20-40mm-f28-di-iii-vxd-a062---20-40mm-f28-di-iii-vxd-a062",
-    "id": "20-40mm-f28-di-iii-vxd-a062---20-40mm-f28-di-iii-vxd-a062"
+    "id": "20-40mm-f28-di-iii-vxd-a062---20-40mm-f28-di-iii-vxd-a062",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4345,7 +5514,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 70,
     "slug": "20-70mm-f4-g",
-    "id": "20-70mm-f4-g"
+    "id": "20-70mm-f4-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4367,7 +5540,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 200,
     "slug": "20-200mm-f35-63-dg-c",
-    "id": "20-200mm-f35-63-dg-c"
+    "id": "20-200mm-f35-63-dg-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4389,7 +5566,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 50,
     "slug": "24-50mm-f28-g",
-    "id": "24-50mm-f28-g"
+    "id": "24-50mm-f28-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -4411,7 +5592,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f28-af",
-    "id": "24-70mm-f28-af"
+    "id": "24-70mm-f28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4433,7 +5618,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f28-dg-dn-art",
-    "id": "24-70mm-f28-dg-dn-art"
+    "id": "24-70mm-f28-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4455,7 +5644,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f28-gm",
-    "id": "24-70mm-f28-gm"
+    "id": "24-70mm-f28-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4477,7 +5670,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f28-gm-ii",
-    "id": "24-70mm-f28-gm-ii"
+    "id": "24-70mm-f28-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4499,7 +5696,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f4-za-oss",
-    "id": "24-70mm-f4-za-oss"
+    "id": "24-70mm-f4-za-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4521,7 +5722,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 105,
     "slug": "24-105mm-f4-g",
-    "id": "24-105mm-f4-g"
+    "id": "24-105mm-f4-g",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4543,7 +5748,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 240,
     "slug": "24-240mm-f35-63-oss",
-    "id": "24-240mm-f35-63-oss"
+    "id": "24-240mm-f35-63-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4565,7 +5774,11 @@
     "focalLengthMinMm": 25,
     "focalLengthMaxMm": 200,
     "slug": "25-200mm-f28-56-g2-vxd-a075",
-    "id": "25-200mm-f28-56-g2-vxd-a075"
+    "id": "25-200mm-f28-56-g2-vxd-a075",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4587,7 +5800,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 45,
     "slug": "28-45mm-f18-dg-dn-art",
-    "id": "28-45mm-f18-dg-dn-art"
+    "id": "28-45mm-f18-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4609,7 +5826,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 60,
     "slug": "28-60mm-f4-56",
-    "id": "28-60mm-f4-56"
+    "id": "28-60mm-f4-56",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4631,7 +5852,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f20-gm",
-    "id": "28-70mm-f20-gm"
+    "id": "28-70mm-f20-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4653,7 +5878,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f28-dg-dn-c",
-    "id": "28-70mm-f28-dg-dn-c"
+    "id": "28-70mm-f28-dg-dn-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4675,7 +5904,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f35-56-oss",
-    "id": "28-70mm-f35-56-oss"
+    "id": "28-70mm-f35-56-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4697,7 +5930,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 75,
     "slug": "28-75mm-f28-di-iii-rxd-a036",
-    "id": "28-75mm-f28-di-iii-rxd-a036"
+    "id": "28-75mm-f28-di-iii-rxd-a036",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4719,7 +5956,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 75,
     "slug": "28-75mm-f28-di-iii-vxd-a063-g2",
-    "id": "28-75mm-f28-di-iii-vxd-a063-g2"
+    "id": "28-75mm-f28-di-iii-vxd-a063-g2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4741,7 +5982,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 105,
     "slug": "28-105mm-f28-dg-dn-art",
-    "id": "28-105mm-f28-dg-dn-art"
+    "id": "28-105mm-f28-dg-dn-art",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4763,7 +6008,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 135,
     "slug": "28-135mm-f4-g-oss-pz",
-    "id": "28-135mm-f4-g-oss-pz"
+    "id": "28-135mm-f4-g-oss-pz",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4785,7 +6034,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 200,
     "slug": "28-200mm-f28-56-di-iii-rxd-a071",
-    "id": "28-200mm-f28-56-di-iii-rxd-a071"
+    "id": "28-200mm-f28-56-di-iii-rxd-a071",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4807,7 +6060,11 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 300,
     "slug": "28-300mm-f40-71-di-iii-vxd-a074",
-    "id": "28-300mm-f40-71-di-iii-vxd-a074"
+    "id": "28-300mm-f40-71-di-iii-vxd-a074",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4829,7 +6086,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 100,
     "slug": "35-100mm-f28-di-iii-vxd-a078",
-    "id": "35-100mm-f28-di-iii-vxd-a078"
+    "id": "35-100mm-f28-di-iii-vxd-a078",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -4851,7 +6112,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 150,
     "slug": "35-150mm-f20-28-af",
-    "id": "35-150mm-f20-28-af"
+    "id": "35-150mm-f20-28-af",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4873,7 +6138,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 150,
     "slug": "35-150mm-f20-28-di-iii-vxd-a058",
-    "id": "35-150mm-f20-28-di-iii-vxd-a058"
+    "id": "35-150mm-f20-28-di-iii-vxd-a058",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -4895,7 +6164,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 150,
     "slug": "50-150mm-f20-gm",
-    "id": "50-150mm-f20-gm"
+    "id": "50-150mm-f20-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4917,7 +6190,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 300,
     "slug": "50-300mm-f45-63-di-iii-vc-vxd-a069",
-    "id": "50-300mm-f45-63-di-iii-vc-vxd-a069"
+    "id": "50-300mm-f45-63-di-iii-vc-vxd-a069",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4939,7 +6216,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 400,
     "slug": "50-400mm-f45-63-di-iii-vc-vxd-a067",
-    "id": "50-400mm-f45-63-di-iii-vc-vxd-a067"
+    "id": "50-400mm-f45-63-di-iii-vc-vxd-a067",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -4961,7 +6242,11 @@
     "focalLengthMinMm": 60,
     "focalLengthMaxMm": 600,
     "slug": "60-600mm-f45-63-dg-dn-os-sport",
-    "id": "60-600mm-f45-63-dg-dn-os-sport"
+    "id": "60-600mm-f45-63-dg-dn-os-sport",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -4983,7 +6268,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 180,
     "slug": "70-180mm-f28-di-iii-vxd-a056",
-    "id": "70-180mm-f28-di-iii-vxd-a056"
+    "id": "70-180mm-f28-di-iii-vxd-a056",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -5005,7 +6294,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 180,
     "slug": "70-180mm-f28-di-iii-vxd-a065-g2",
-    "id": "70-180mm-f28-di-iii-vxd-a065-g2"
+    "id": "70-180mm-f28-di-iii-vxd-a065-g2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -5027,7 +6320,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f28-dg-dn-sport",
-    "id": "70-200mm-f28-dg-dn-sport"
+    "id": "70-200mm-f28-dg-dn-sport",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5049,7 +6346,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f28-gm-oss",
-    "id": "70-200mm-f28-gm-oss"
+    "id": "70-200mm-f28-gm-oss",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5071,7 +6372,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f28-gm-oss-ii",
-    "id": "70-200mm-f28-gm-oss-ii"
+    "id": "70-200mm-f28-gm-oss-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5093,7 +6398,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss",
-    "id": "70-200mm-f4-g-oss"
+    "id": "70-200mm-f4-g-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5115,7 +6424,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss-ii",
-    "id": "70-200mm-f4-g-oss-ii"
+    "id": "70-200mm-f4-g-oss-ii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5137,7 +6450,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 300,
     "slug": "70-300mm-f45-56-g-oss",
-    "id": "70-300mm-f45-56-g-oss"
+    "id": "70-300mm-f45-56-g-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tamron",
@@ -5159,7 +6476,11 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 300,
     "slug": "70-300mm-f45-63-di-iii-rxd-a047",
-    "id": "70-300mm-f45-63-di-iii-rxd-a047"
+    "id": "70-300mm-f45-63-di-iii-rxd-a047",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5181,7 +6502,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 400,
     "slug": "100-400mm-f45-56-gm-oss",
-    "id": "100-400mm-f45-56-gm-oss"
+    "id": "100-400mm-f45-56-gm-oss",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -5203,7 +6528,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 400,
     "slug": "100-400mm-f5-63-dg-dn-os-c",
-    "id": "100-400mm-f5-63-dg-dn-os-c"
+    "id": "100-400mm-f5-63-dg-dn-os-c",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -5225,7 +6554,11 @@
     "focalLengthMinMm": 150,
     "focalLengthMaxMm": 600,
     "slug": "150-600mm-f5-63-dg-dn-os",
-    "id": "150-600mm-f5-63-dg-dn-os"
+    "id": "150-600mm-f5-63-dg-dn-os",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5247,7 +6580,11 @@
     "focalLengthMinMm": 200,
     "focalLengthMaxMm": 600,
     "slug": "200-600mm-f56-63-g-oss",
-    "id": "200-600mm-f56-63-g-oss"
+    "id": "200-600mm-f56-63-g-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sigma",
@@ -5269,7 +6606,11 @@
     "focalLengthMinMm": 300,
     "focalLengthMaxMm": 600,
     "slug": "300-600mm-f40-dg-dn-os-sport",
-    "id": "300-600mm-f40-dg-dn-os-sport"
+    "id": "300-600mm-f40-dg-dn-os-sport",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Sony",
@@ -5291,7 +6632,11 @@
     "focalLengthMinMm": 400,
     "focalLengthMaxMm": 800,
     "slug": "400-800mm-f63-80-g-oss",
-    "id": "400-800mm-f63-80-g-oss"
+    "id": "400-800mm-f63-80-g-oss",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5313,7 +6658,11 @@
     "focalLengthMinMm": 9,
     "focalLengthMaxMm": 9,
     "slug": "9mm-f56-w-dreamer",
-    "id": "9mm-f56-w-dreamer"
+    "id": "9mm-f56-w-dreamer",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5335,7 +6684,11 @@
     "focalLengthMinMm": 10,
     "focalLengthMaxMm": 10,
     "slug": "10mm-f56",
-    "id": "10mm-f56"
+    "id": "10mm-f56",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5357,7 +6710,11 @@
     "focalLengthMinMm": 11,
     "focalLengthMaxMm": 11,
     "slug": "11mm-f45-c-dreamer",
-    "id": "11mm-f45-c-dreamer"
+    "id": "11mm-f45-c-dreamer",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5379,7 +6736,11 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 12,
     "slug": "12mm-f28-zero-d",
-    "id": "12mm-f28-zero-d"
+    "id": "12mm-f28-zero-d",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5401,7 +6762,11 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 12,
     "slug": "12mm-f56-aspherical",
-    "id": "12mm-f56-aspherical"
+    "id": "12mm-f56-aspherical",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5423,7 +6788,11 @@
     "focalLengthMinMm": 15,
     "focalLengthMaxMm": 15,
     "slug": "15mm-f2-zero-d",
-    "id": "15mm-f2-zero-d"
+    "id": "15mm-f2-zero-d",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5445,7 +6814,11 @@
     "focalLengthMinMm": 15,
     "focalLengthMaxMm": 15,
     "slug": "15mm-f40-wide-macro-11",
-    "id": "15mm-f40-wide-macro-11"
+    "id": "15mm-f40-wide-macro-11",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5467,7 +6840,11 @@
     "focalLengthMinMm": 15,
     "focalLengthMaxMm": 15,
     "slug": "15mm-f45-iii",
-    "id": "15mm-f45-iii"
+    "id": "15mm-f45-iii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Tokina",
@@ -5489,7 +6866,11 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f2-mf",
-    "id": "20mm-f2-mf"
+    "id": "20mm-f2-mf",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5511,7 +6892,11 @@
     "focalLengthMinMm": 21,
     "focalLengthMaxMm": 21,
     "slug": "21mm-f14-aspherical",
-    "id": "21mm-f14-aspherical"
+    "id": "21mm-f14-aspherical",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -5533,7 +6918,11 @@
     "focalLengthMinMm": 21,
     "focalLengthMaxMm": 21,
     "slug": "21mm-f28",
-    "id": "21mm-f28"
+    "id": "21mm-f28",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5555,7 +6944,11 @@
     "focalLengthMinMm": 21,
     "focalLengthMaxMm": 21,
     "slug": "21mm-f35-aspherical",
-    "id": "21mm-f35-aspherical"
+    "id": "21mm-f35-aspherical",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5577,7 +6970,11 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f14-2x-macro-probe",
-    "id": "24mm-f14-2x-macro-probe"
+    "id": "24mm-f14-2x-macro-probe",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -5599,7 +6996,11 @@
     "focalLengthMinMm": 25,
     "focalLengthMaxMm": 25,
     "slug": "25mm-f24",
-    "id": "25mm-f24"
+    "id": "25mm-f24",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5621,7 +7022,11 @@
     "focalLengthMinMm": 25,
     "focalLengthMaxMm": 25,
     "slug": "25mm-f28-ultra-macro-25-5x",
-    "id": "25mm-f28-ultra-macro-25-5x"
+    "id": "25mm-f28-ultra-macro-25-5x",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5643,7 +7048,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f095-ff-ii-argus",
-    "id": "35mm-f095-ff-ii-argus"
+    "id": "35mm-f095-ff-ii-argus",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5665,7 +7074,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f12-aspherical-se",
-    "id": "35mm-f12-aspherical-se"
+    "id": "35mm-f12-aspherical-se",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5687,7 +7100,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f14",
-    "id": "35mm-f14"
+    "id": "35mm-f14",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5709,7 +7126,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f2",
-    "id": "35mm-f2"
+    "id": "35mm-f2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5731,7 +7152,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f12-aspherical-se",
-    "id": "40mm-f12-aspherical-se"
+    "id": "40mm-f12-aspherical-se",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5753,7 +7178,11 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f12-aspherical",
-    "id": "40mm-f12-aspherical"
+    "id": "40mm-f12-aspherical",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Mitakon",
@@ -5775,7 +7204,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f095-iii",
-    "id": "50mm-f095-iii"
+    "id": "50mm-f095-iii",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5797,7 +7230,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f12-aspherical-se",
-    "id": "50mm-f12-aspherical-se"
+    "id": "50mm-f12-aspherical-se",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5819,7 +7256,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f12-aspherical",
-    "id": "50mm-f12-aspherical"
+    "id": "50mm-f12-aspherical",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -5841,7 +7282,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2",
-    "id": "50mm-f2"
+    "id": "50mm-f2",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5863,7 +7308,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2-apo-lanthar",
-    "id": "50mm-f2-apo-lanthar"
+    "id": "50mm-f2-apo-lanthar",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5885,7 +7334,11 @@
     "focalLengthMinMm": 60,
     "focalLengthMaxMm": 60,
     "slug": "60mm-f28-macro-21",
-    "id": "60mm-f28-macro-21"
+    "id": "60mm-f28-macro-21",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -5907,7 +7360,11 @@
     "focalLengthMinMm": 65,
     "focalLengthMaxMm": 65,
     "slug": "65mm-f2-macro-apo-lanthar",
-    "id": "65mm-f2-macro-apo-lanthar"
+    "id": "65mm-f2-macro-apo-lanthar",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Zeiss",
@@ -5929,7 +7386,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f24",
-    "id": "85mm-f24"
+    "id": "85mm-f24",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5951,7 +7412,11 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f56-2x-ultra-macro-apo",
-    "id": "85mm-f56-2x-ultra-macro-apo"
+    "id": "85mm-f56-2x-ultra-macro-apo",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5973,7 +7438,11 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f28-ultra-macro",
-    "id": "100mm-f28-ultra-macro"
+    "id": "100mm-f28-ultra-macro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -5995,7 +7464,11 @@
     "focalLengthMinMm": 105,
     "focalLengthMaxMm": 105,
     "slug": "105mm-f20t32-stf-mf",
-    "id": "105mm-f20t32-stf-mf"
+    "id": "105mm-f20t32-stf-mf",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Voigtlander",
@@ -6017,7 +7490,11 @@
     "focalLengthMinMm": 110,
     "focalLengthMaxMm": 110,
     "slug": "110mm-f25-macro",
-    "id": "110mm-f25-macro"
+    "id": "110mm-f25-macro",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Samyang",
@@ -6039,7 +7516,11 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f20-ed-umc",
-    "id": "135mm-f20-ed-umc"
+    "id": "135mm-f20-ed-umc",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
   },
   {
     "brand": "Laowa",
@@ -6061,6 +7542,149 @@
     "focalLengthMinMm": 10,
     "focalLengthMaxMm": 18,
     "slug": "10-18mm-f45-56-zoom",
-    "id": "10-18mm-f45-56-zoom"
+    "id": "10-18mm-f45-56-zoom",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "FX3",
+    "gearType": "CAMERA_BODY",
+    "megapixels": 12.1,
+    "weightGrams": 630,
+    "releaseYear": 2021,
+    "launchPrice": 109980,
+    "hasIBIS": true,
+    "sensorFormat": "Full Frame",
+    "sensorType": "BSI CMOS",
+    "slug": "fx3",
+    "id": "fx3",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "FX30",
+    "gearType": "CAMERA_BODY",
+    "megapixels": 26.0,
+    "weightGrams": 562,
+    "releaseYear": 2022,
+    "launchPrice": 59980,
+    "hasIBIS": true,
+    "sensorFormat": "APS-C",
+    "sensorType": "BSI CMOS",
+    "slug": "fx30",
+    "id": "fx30",
+    "videoResolution": "--",
+    "afPoints": "--",
+    "evfResolution": "--",
+    "burstSpeed": "--",
+    "logSupport": "S-Log3 / S-Cinetone"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "FE 28-70mm F2 GM",
+    "gearType": "LENS",
+    "apertureMax": "2.0",
+    "weightGrams": 918,
+    "filterSizeMm": 86,
+    "releaseYear": 2024,
+    "launchPrice": 92980,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "hasApertureRing": true,
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 70,
+    "series": "GM",
+    "slug": "fe-28-70mm-f2-gm",
+    "id": "fe-28-70mm-f2-gm",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "FE 85mm F1.4 GM II",
+    "gearType": "LENS",
+    "apertureMax": "1.4",
+    "weightGrams": 642,
+    "filterSizeMm": 77,
+    "releaseYear": 2024,
+    "launchPrice": 56980,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "hasApertureRing": true,
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "series": "GM",
+    "slug": "fe-85mm-f14-gm-ii",
+    "id": "fe-85mm-f14-gm-ii",
+    "motorType": "XD Linear",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "E 11mm F1.8",
+    "gearType": "LENS",
+    "apertureMax": "1.8",
+    "weightGrams": 181,
+    "filterSizeMm": 55,
+    "releaseYear": 2022,
+    "launchPrice": 13980,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "hasApertureRing": false,
+    "focalLengthMinMm": 11,
+    "focalLengthMaxMm": 11,
+    "series": "G",
+    "slug": "e-11mm-f18",
+    "id": "e-11mm-f18",
+    "motorType": "--",
+    "opticalDesign": "--",
+    "minAperture": "--",
+    "specialElements": "--"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "A7 V",
+    "gearType": "CAMERA_BODY",
+    "sensorType": "Partially Stacked CMOS",
+    "megapixels": 33.0,
+    "videoResolution": "4K 60p (Oversampled 7K) / 4K 120p",
+    "afPoints": "759 Phase-detection",
+    "evfResolution": "3.68M-dot OLED",
+    "burstSpeed": "10+ fps",
+    "releaseYear": 2025,
+    "launchPrice": 92980,
+    "hasIBIS": true,
+    "sensorFormat": "Full Frame",
+    "slug": "a7-v",
+    "logSupport": "S-Log3 / S-Cinetone"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "24-70mm F2.8 DG DN II Art",
+    "gearType": "LENS",
+    "apertureMax": "2.8",
+    "weightGrams": 745,
+    "filterSizeMm": 82,
+    "releaseYear": 2024,
+    "launchPrice": 36980,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "hasApertureRing": true,
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 70,
+    "motorType": "HLA (High-response Linear Actuator)",
+    "slug": "24-70mm-f28-dg-dn-ii-art",
+    "id": "24-70mm-f28-dg-dn-ii-art"
   }
 ]
