@@ -2168,5 +2168,14 @@
     "focalLengthMaxMm": 35,
     "modelName": "Art Prime Series Model 230",
     "focalLengthMinMm": 35
+  },
+  {
+    "brand": "TestBrand",
+    "modelName": "Test Camera",
+    "gearType": "CAMERA_BODY",
+    "sensorFormat": "Full Frame",
+    "megapixels": 24.2,
+    "releaseYear": 2024,
+    "launchPrice": 9999
   }
 ]
