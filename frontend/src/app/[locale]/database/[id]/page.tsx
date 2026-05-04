@@ -29,14 +29,20 @@ async function getGear(id: string) {
 
 function SpecRow({ label, value, unit }: { label: string; value: any; unit?: string }) {
   if (value === null || value === undefined || value === "") return null;
+  
+  // Special case for 0 (don't treat as empty)
+  const displayValue = (typeof value === 'number' && value === 0) ? "0" : String(value);
+  
+  if (displayValue === "0" && !unit) return null; // Hide if 0 and no unit (optional)
+
   // Prevent duplicate units
-  const displayValue = String(value);
-  const displayUnit = (unit && !displayValue.includes(unit)) ? unit : '';
+  const unitStr = unit || '';
+  const finalUnit = (unitStr && !displayValue.toLowerCase().includes(unitStr.toLowerCase())) ? unitStr : '';
   
   return (
     <div className="flex justify-between items-center border-b border-white/5 py-3 px-4 hover:bg-white/[0.02] transition-colors">
       <span className="text-gray-500 text-xs uppercase tracking-widest font-bold">{label}</span>
-      <span className="text-white text-sm font-light">{displayValue}{displayUnit}</span>
+      <span className="text-white text-sm font-light">{displayValue}{finalUnit}</span>
     </div>
   );
 }
@@ -225,7 +231,7 @@ export default async function GearDetailPage({
                   {gear.zoomRatio && <SpecRow label={t('zoomRatio')} value={`${gear.zoomRatio.toFixed(2)}x`} />}
                   <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
                   <SpecRow label={t('closeFocus')} value={gear.closeFocusCm} unit="cm" />
-                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification ? `${gear.maxMagnification.toFixed(2)}x` : null} />
+                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification ? `${Number(gear.maxMagnification).toFixed(2)}x` : null} />
                 </>
               ) : (
                 <>

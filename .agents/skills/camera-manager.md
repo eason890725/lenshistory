@@ -11,6 +11,7 @@ RULES:
 5. 【自動存檔】：任務成功且通過防呆檢查後，自動執行：
    - `git add .`
    - `git commit -m "Auto-update: 新增相機產品 [數量: {count}]"`
+6. 【視覺驗證】：任務結束前必須啟動瀏覽器訪問 `http://localhost:3000`，親眼確認列表渲染正常、詳細頁無 `undefined` 並附上截圖。
 
 ACTIVATION_KEYWORDS:
 - "新增相機"
