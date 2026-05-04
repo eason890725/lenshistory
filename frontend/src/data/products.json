@@ -1,7 +1,7 @@
 [
   {
     "brand": "Sony",
-    "modelName": "A1 II",
+    "modelName": "A12",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 50.1,
@@ -12,11 +12,27 @@
     "launchPrice": 210000,
     "hasIBIS": true,
     "sensorType": "Stacked CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "A1 II",
+      "A12",
+      "A1II",
+      "Sony aA1 II",
+      "SonyaA1II",
+      "a1 ii",
+      "a12",
+      "a1ii",
+      "aA1 II",
+      "aA1II",
+      "aa1 ii",
+      "aa1ii",
+      "sony aa1 ii",
+      "sonyaa1ii"
+    ]
   },
   {
     "brand": "Sony",
@@ -27,16 +43,26 @@
     "releaseYear": 2021,
     "slug": "a1",
     "id": "a1",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A1",
+      "Sony aA1",
+      "SonyaA1",
+      "a1",
+      "aA1",
+      "aa1",
+      "sony aa1",
+      "sonyaa1"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A9 III",
+    "modelName": "A92I",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.6,
@@ -47,27 +73,59 @@
     "launchPrice": 184980,
     "hasIBIS": true,
     "sensorType": "Global Shutter Stacked CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "A9 III",
+      "A92I",
+      "A9III",
+      "Sony aA9 III",
+      "SonyaA9III",
+      "a9 iii",
+      "a92i",
+      "a9iii",
+      "aA9 III",
+      "aA9III",
+      "aa9 iii",
+      "aa9iii",
+      "sony aa9 iii",
+      "sonyaa9iii"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A9 II",
+    "modelName": "A92",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
     "releaseYear": 2019,
     "slug": "a9-ii",
     "id": "a9-ii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A9 II",
+      "A92",
+      "A9II",
+      "Sony aA9 II",
+      "SonyaA9II",
+      "a9 ii",
+      "a92",
+      "a9ii",
+      "aA9 II",
+      "aA9II",
+      "aa9 ii",
+      "aa9ii",
+      "sony aa9 ii",
+      "sonyaa9ii"
+    ]
   },
   {
     "brand": "Sony",
@@ -78,16 +136,26 @@
     "releaseYear": 2017,
     "slug": "a9",
     "id": "a9",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A9",
+      "Sony aA9",
+      "SonyaA9",
+      "a9",
+      "aA9",
+      "aa9",
+      "sony aa9",
+      "sonyaa9"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7R V",
+    "modelName": "A7R5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
@@ -98,59 +166,123 @@
     "launchPrice": 109980,
     "hasIBIS": true,
     "sensorType": "BSI CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "A7R V",
+      "A7R5",
+      "A7RV",
+      "Sony aA7R V",
+      "SonyaA7RV",
+      "a7r v",
+      "a7r5",
+      "a7rv",
+      "aA7R V",
+      "aA7RV",
+      "aa7r v",
+      "aa7rv",
+      "sony aa7r v",
+      "sonyaa7rv"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7R IV",
+    "modelName": "A7R4",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
     "releaseYear": 2019,
     "slug": "a7r-iv",
     "id": "a7r-iv",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7R IV",
+      "A7R4",
+      "A7RIV",
+      "Sony aA7R IV",
+      "SonyaA7RIV",
+      "a7r iv",
+      "a7r4",
+      "a7riv",
+      "aA7R IV",
+      "aA7RIV",
+      "aa7r iv",
+      "aa7riv",
+      "sony aa7r iv",
+      "sonyaa7riv"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7R III",
+    "modelName": "A7R2I",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
     "releaseYear": 2017,
     "slug": "a7r-iii",
     "id": "a7r-iii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7R III",
+      "A7R2I",
+      "A7RIII",
+      "Sony aA7R III",
+      "SonyaA7RIII",
+      "a7r iii",
+      "a7r2i",
+      "a7riii",
+      "aA7R III",
+      "aA7RIII",
+      "aa7r iii",
+      "aa7riii",
+      "sony aa7r iii",
+      "sonyaa7riii"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7R II",
+    "modelName": "A7R2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
     "releaseYear": 2015,
     "slug": "a7r-ii",
     "id": "a7r-ii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7R II",
+      "A7R2",
+      "A7RII",
+      "Sony aA7R II",
+      "SonyaA7RII",
+      "a7r ii",
+      "a7r2",
+      "a7rii",
+      "aA7R II",
+      "aA7RII",
+      "aa7r ii",
+      "aa7rii",
+      "sony aa7r ii",
+      "sonyaa7rii"
+    ]
   },
   {
     "brand": "Sony",
@@ -161,44 +293,86 @@
     "releaseYear": 2013,
     "slug": "a7r",
     "id": "a7r",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7R",
+      "Sony aA7R",
+      "SonyaA7R",
+      "a7r",
+      "aA7R",
+      "aa7r",
+      "sony aa7r",
+      "sonyaa7r"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7S III",
+    "modelName": "A7S2I",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.1,
     "releaseYear": 2020,
     "slug": "a7s-iii",
     "id": "a7s-iii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7S III",
+      "A7S2I",
+      "A7SIII",
+      "Sony aA7S III",
+      "SonyaA7SIII",
+      "a7s iii",
+      "a7s2i",
+      "a7siii",
+      "aA7S III",
+      "aA7SIII",
+      "aa7s iii",
+      "aa7siii",
+      "sony aa7s iii",
+      "sonyaa7siii"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7S II",
+    "modelName": "A7S2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.2,
     "releaseYear": 2015,
     "slug": "a7s-ii",
     "id": "a7s-ii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7S II",
+      "A7S2",
+      "A7SII",
+      "Sony aA7S II",
+      "SonyaA7SII",
+      "a7s ii",
+      "a7s2",
+      "a7sii",
+      "aA7S II",
+      "aA7SII",
+      "aa7s ii",
+      "aa7sii",
+      "sony aa7s ii",
+      "sonyaa7sii"
+    ]
   },
   {
     "brand": "Sony",
@@ -209,16 +383,25 @@
     "releaseYear": 2014,
     "slug": "a7s",
     "id": "a7s",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7S",
+      "Sony aa7s",
+      "Sonyaa7s",
+      "a7s",
+      "aa7s",
+      "sony aa7s",
+      "sonyaa7s"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7 IV",
+    "modelName": "A74",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 33.0,
@@ -229,43 +412,91 @@
     "launchPrice": 64980,
     "hasIBIS": true,
     "sensorType": "BSI CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "A7 IV",
+      "A74",
+      "A7IV",
+      "Sony aA7 IV",
+      "SonyaA7IV",
+      "a7 iv",
+      "a74",
+      "a7iv",
+      "aA7 IV",
+      "aA7IV",
+      "aa7 iv",
+      "aa7iv",
+      "sony aa7 iv",
+      "sonyaa7iv"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7 III",
+    "modelName": "A72I",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
     "releaseYear": 2018,
     "slug": "a7-iii",
     "id": "a7-iii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7 III",
+      "A72I",
+      "A7III",
+      "Sony aA7 III",
+      "SonyaA7III",
+      "a7 iii",
+      "a72i",
+      "a7iii",
+      "aA7 III",
+      "aA7III",
+      "aa7 iii",
+      "aa7iii",
+      "sony aa7 iii",
+      "sonyaa7iii"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7 II",
+    "modelName": "A72",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
     "releaseYear": 2014,
     "slug": "a7-ii",
     "id": "a7-ii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7 II",
+      "A72",
+      "A7II",
+      "Sony aA7 II",
+      "SonyaA7II",
+      "a7 ii",
+      "a72",
+      "a7ii",
+      "aA7 II",
+      "aA7II",
+      "aa7 ii",
+      "aa7ii",
+      "sony aa7 ii",
+      "sonyaa7ii"
+    ]
   },
   {
     "brand": "Sony",
@@ -276,47 +507,96 @@
     "releaseYear": 2013,
     "slug": "a7",
     "id": "a7",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7",
+      "Sony aA7",
+      "SonyaA7",
+      "a7",
+      "aA7",
+      "aa7",
+      "sony aa7",
+      "sonyaa7"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7C R",
+    "modelName": "A7CR",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
     "releaseYear": 2023,
     "slug": "a7c-r",
     "id": "a7c-r",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7C R",
+      "A7CR",
+      "Sony aA7C R",
+      "SonyaA7CR",
+      "a7c r",
+      "a7cr",
+      "aA7C R",
+      "aA7CR",
+      "aa7c r",
+      "aa7cr",
+      "sony aa7c r",
+      "sonyaa7cr"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A7C II",
+    "modelName": "A7C2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
-    "megapixels": 33.0,
+    "megapixels": 33,
     "releaseYear": 2023,
     "slug": "a7c-ii",
     "id": "a7c-ii",
     "weightGrams": 514,
     "launchPrice": 59980,
     "hasIBIS": true,
-    "sensorType": "BSI CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
-    "evfResolution": "--",
-    "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "sensorType": "Exmor R BSI CMOS",
+    "videoResolution": "4K 60p 10-bit 4:2:2",
+    "afPoints": "759 Phase-detection",
+    "evfResolution": "2.36M-dot OLED",
+    "burstSpeed": "10 fps",
+    "logSupport": "S-Log3 / S-Cinetone",
+    "ibisRating": "7.0 stops (CIPA)",
+    "lcdResolution": "1.04M-dot Vari-angle",
+    "hasWeatherSeal": true,
+    "processor": "BIONZ XR",
+    "afRange": "-4 to +20 EV",
+    "videoColorDepth": "10-bit 4:2:2 (H.265/XAVC HS)",
+    "evfMagnification": "0.70x",
+    "batteryLifeShots": 530,
+    "series": "Alpha",
+    "aliases": [
+      "A7C2",
+      "Alpha 7C II",
+      "Alpha7CII",
+      "Sony a7C II",
+      "Sonya7CII",
+      "a7C II",
+      "a7CII",
+      "a7c ii",
+      "a7c2",
+      "a7cii",
+      "alpha 7c ii",
+      "alpha7cii",
+      "sony a7c ii",
+      "sonya7cii"
+    ]
   },
   {
     "brand": "Sony",
@@ -327,12 +607,21 @@
     "releaseYear": 2020,
     "slug": "a7c",
     "id": "a7c",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A7C",
+      "Sony aa7c",
+      "Sonyaa7c",
+      "a7c",
+      "aa7c",
+      "sony aa7c",
+      "sonyaa7c"
+    ]
   },
   {
     "brand": "Sony",
@@ -343,12 +632,21 @@
     "releaseYear": 2023,
     "slug": "zv-e1",
     "id": "zv-e1",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Sony azv-e1",
+      "Sonyazv-e1",
+      "ZV-E1",
+      "azv-e1",
+      "sony azv-e1",
+      "sonyazv-e1",
+      "zv-e1"
+    ]
   },
   {
     "brand": "Sony",
@@ -363,11 +661,20 @@
     "launchPrice": 44980,
     "hasIBIS": true,
     "sensorType": "BSI CMOS",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "A6700",
+      "Sony aa6700",
+      "Sonyaa6700",
+      "a6700",
+      "aa6700",
+      "sony aa6700",
+      "sonyaa6700"
+    ]
   },
   {
     "brand": "Sony",
@@ -378,12 +685,22 @@
     "releaseYear": 2019,
     "slug": "a6600",
     "id": "a6600",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6600",
+      "Sony aA6600",
+      "SonyaA6600",
+      "a6600",
+      "aA6600",
+      "aa6600",
+      "sony aa6600",
+      "sonyaa6600"
+    ]
   },
   {
     "brand": "Sony",
@@ -394,12 +711,22 @@
     "releaseYear": 2016,
     "slug": "a6500",
     "id": "a6500",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6500",
+      "Sony aA6500",
+      "SonyaA6500",
+      "a6500",
+      "aA6500",
+      "aa6500",
+      "sony aa6500",
+      "sonyaa6500"
+    ]
   },
   {
     "brand": "Sony",
@@ -410,12 +737,21 @@
     "releaseYear": 2019,
     "slug": "a6400",
     "id": "a6400",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6400",
+      "Sony aa6400",
+      "Sonyaa6400",
+      "a6400",
+      "aa6400",
+      "sony aa6400",
+      "sonyaa6400"
+    ]
   },
   {
     "brand": "Sony",
@@ -426,12 +762,22 @@
     "releaseYear": 2016,
     "slug": "a6300",
     "id": "a6300",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6300",
+      "Sony aA6300",
+      "SonyaA6300",
+      "a6300",
+      "aA6300",
+      "aa6300",
+      "sony aa6300",
+      "sonyaa6300"
+    ]
   },
   {
     "brand": "Sony",
@@ -442,12 +788,21 @@
     "releaseYear": 2019,
     "slug": "a6100",
     "id": "a6100",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6100",
+      "Sony aa6100",
+      "Sonyaa6100",
+      "a6100",
+      "aa6100",
+      "sony aa6100",
+      "sonyaa6100"
+    ]
   },
   {
     "brand": "Sony",
@@ -458,28 +813,54 @@
     "releaseYear": 2014,
     "slug": "a6000",
     "id": "a6000",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "A6000",
+      "Sony aA6000",
+      "SonyaA6000",
+      "a6000",
+      "aA6000",
+      "aa6000",
+      "sony aa6000",
+      "sonyaa6000"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "ZV-E10 II",
+    "modelName": "ZV-E102",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.0,
     "releaseYear": 2024,
     "slug": "zv-e10-ii",
     "id": "zv-e10-ii",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Sony aZV-E10 II",
+      "SonyaZV-E10II",
+      "ZV-E10 II",
+      "ZV-E102",
+      "ZV-E10II",
+      "aZV-E10 II",
+      "aZV-E10II",
+      "azv-e10 ii",
+      "azv-e10ii",
+      "sony azv-e10 ii",
+      "sonyazv-e10ii",
+      "zv-e10 ii",
+      "zv-e102",
+      "zv-e10ii"
+    ]
   },
   {
     "brand": "Sony",
@@ -490,16 +871,26 @@
     "releaseYear": 2021,
     "slug": "zv-e10",
     "id": "zv-e10",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Sony aZV-E10",
+      "SonyaZV-E10",
+      "ZV-E10",
+      "aZV-E10",
+      "azv-e10",
+      "sony azv-e10",
+      "sonyazv-e10",
+      "zv-e10"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-H2S",
+    "modelName": "XH2S",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -513,11 +904,17 @@
     "logSupport": "F-Log2",
     "sensorType": "Stacked X-Trans CMOS 5 HS",
     "weightGrams": 660,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-H2S",
+      "XH2S",
+      "x-h2s",
+      "xh2s"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-H2",
+    "modelName": "XH2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -529,11 +926,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-H2",
+      "XH2",
+      "x-h2",
+      "xh2"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-H1",
+    "modelName": "XH1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -545,11 +948,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-H1",
+      "XH1",
+      "x-h1",
+      "xh1"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T5",
+    "modelName": "XT5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -563,11 +972,17 @@
     "logSupport": "F-Log2",
     "sensorType": "X-Trans CMOS 5 HR",
     "weightGrams": 557,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T5",
+      "XT5",
+      "x-t5",
+      "xt5"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T4",
+    "modelName": "XT4",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -579,11 +994,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T4",
+      "XT4",
+      "x-t4",
+      "xt4"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T3",
+    "modelName": "XT3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -595,11 +1016,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T3",
+      "XT3",
+      "x-t3",
+      "xt3"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T2",
+    "modelName": "XT2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -611,11 +1038,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T2",
+      "XT2",
+      "x-t2",
+      "xt2"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T1",
+    "modelName": "XT1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -627,11 +1060,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T1",
+      "XT1",
+      "x-t1",
+      "xt1"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T50",
+    "modelName": "XT50",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -645,11 +1084,17 @@
     "logSupport": "F-Log2",
     "sensorType": "X-Trans CMOS 5 HR",
     "weightGrams": 557,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T50",
+      "XT50",
+      "x-t50",
+      "xt50"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T30 II",
+    "modelName": "XT30II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -661,11 +1106,21 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T30 II",
+      "X-T30II",
+      "XT30 II",
+      "XT30II",
+      "x-t30 ii",
+      "x-t30ii",
+      "xt30 ii",
+      "xt30ii"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T30",
+    "modelName": "XT30",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -677,11 +1132,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T30",
+      "XT30",
+      "x-t30",
+      "xt30"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T20",
+    "modelName": "XT20",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -693,11 +1154,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T20",
+      "XT20",
+      "x-t20",
+      "xt20"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-T10",
+    "modelName": "XT10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -709,11 +1176,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-T10",
+      "XT10",
+      "x-t10",
+      "xt10"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-Pro3",
+    "modelName": "XPro3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -725,11 +1198,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-Pro3",
+      "XPro3",
+      "x-pro3",
+      "xpro3"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-Pro2",
+    "modelName": "XPro2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -741,11 +1220,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-Pro2",
+      "XPro2",
+      "x-pro2",
+      "xpro2"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-Pro1",
+    "modelName": "XPro1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -757,11 +1242,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-Pro1",
+      "XPro1",
+      "x-pro1",
+      "xpro1"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-S20",
+    "modelName": "XS20",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -773,11 +1264,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-S20",
+      "XS20",
+      "x-s20",
+      "xs20"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-S10",
+    "modelName": "XS10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -789,11 +1286,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-S10",
+      "XS10",
+      "x-s10",
+      "xs10"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X-E4",
+    "modelName": "XE4",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -805,11 +1308,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X-E4",
+      "XE4",
+      "x-e4",
+      "xe4"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100V I",
+    "modelName": "X100VI",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -821,11 +1330,16 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100VI",
+      "x100v i",
+      "x100vi"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100 V",
+    "modelName": "X100V",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -837,7 +1351,13 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100 V",
+      "X100V",
+      "x100 v",
+      "x100v"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -853,7 +1373,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100F",
+      "x100f"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -869,7 +1393,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100T",
+      "x100t"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -885,7 +1413,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100S",
+      "x100s"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -901,11 +1433,15 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "X100",
+      "x100"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX 100 II",
+    "modelName": "GFX100II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -919,11 +1455,17 @@
     "logSupport": "F-Log2",
     "sensorType": "CMOS II HS",
     "weightGrams": 1030,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "aliases": [
+      "GFX100II",
+      "gfx 100 ii",
+      "gfx100ii"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX 100S II",
+    "modelName": "GFX100SII",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -935,11 +1477,18 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "aliases": [
+      "GFX 100S II",
+      "GFX100SII",
+      "gfx 100s ii",
+      "gfx100sii"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX 100S",
+    "modelName": "GFX100S",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -951,11 +1500,18 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "aliases": [
+      "GFX 100S",
+      "GFX100S",
+      "gfx 100s",
+      "gfx100s"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX 50S II",
+    "modelName": "GFX50SII",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
@@ -967,11 +1523,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "aliases": [
+      "GFX50SII",
+      "gfx 50s ii",
+      "gfx50sii"
+    ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX 50R",
+    "modelName": "GFX50R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
@@ -983,11 +1545,17 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "aliases": [
+      "GFX50R",
+      "gfx 50r",
+      "gfx50r"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R1",
+    "modelName": "R1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1001,11 +1569,19 @@
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
     "weightGrams": 1115,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R1",
+      "EOSR1",
+      "R1",
+      "eos r1",
+      "eosr1",
+      "r1"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R3",
+    "modelName": "R3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.1,
@@ -1019,11 +1595,19 @@
     "logSupport": "C-Log 3",
     "sensorType": "Stacked CMOS",
     "weightGrams": 1015,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R3",
+      "EOSR3",
+      "R3",
+      "eos r3",
+      "eosr3",
+      "r3"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R5 II",
+    "modelName": "R5II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
@@ -1037,11 +1621,23 @@
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
     "weightGrams": 746,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R5 II",
+      "EOS R5 Mark II",
+      "EOSR5II",
+      "R5 Mark II",
+      "R5II",
+      "eos r5 ii",
+      "eos r5 mark ii",
+      "eosr5ii",
+      "r5 mark ii",
+      "r5ii"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R5",
+    "modelName": "R5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
@@ -1053,11 +1649,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R5",
+      "EOSR5",
+      "R5",
+      "eos r5",
+      "eosr5",
+      "r5"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R6 II",
+    "modelName": "R6II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1069,11 +1673,23 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R6 II",
+      "EOS R6 Mark II",
+      "EOSR6II",
+      "R6 Mark II",
+      "R6II",
+      "eos r6 ii",
+      "eos r6 mark ii",
+      "eosr6ii",
+      "r6 mark ii",
+      "r6ii"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R6",
+    "modelName": "R6",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 20.1,
@@ -1085,11 +1701,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R6",
+      "EOSR6",
+      "R6",
+      "eos r6",
+      "eosr6",
+      "r6"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R8",
+    "modelName": "R8",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1101,11 +1725,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R8",
+      "EOSR8",
+      "R8",
+      "eos r8",
+      "eosr8",
+      "r8"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R",
+    "modelName": "R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 30.3,
@@ -1117,11 +1749,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R",
+      "EOSR",
+      "R",
+      "eos r",
+      "eosr",
+      "r"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS RP",
+    "modelName": "RP",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 26.2,
@@ -1133,11 +1773,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS RP",
+      "EOSRP",
+      "RP",
+      "eos rp",
+      "eosrp",
+      "rp"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R7",
+    "modelName": "R7",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 32.5,
@@ -1149,11 +1797,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R7",
+      "EOSR7",
+      "R7",
+      "eos r7",
+      "eosr7",
+      "r7"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R10",
+    "modelName": "R10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -1167,11 +1823,19 @@
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
     "weightGrams": 1115,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R10",
+      "EOSR10",
+      "R10",
+      "eos r10",
+      "eosr10",
+      "r10"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R50",
+    "modelName": "R50",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -1183,11 +1847,19 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R50",
+      "EOSR50",
+      "R50",
+      "eos r50",
+      "eosr50",
+      "r50"
+    ]
   },
   {
     "brand": "Canon",
-    "modelName": "EOS R100",
+    "modelName": "R100",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.1,
@@ -1201,7 +1873,15 @@
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
     "weightGrams": 1115,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "EOS R100",
+      "EOSR100",
+      "R100",
+      "eos r100",
+      "eosr100",
+      "r100"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1219,7 +1899,11 @@
     "logSupport": "N-Log / ProRes RAW",
     "sensorType": "Stacked CMOS",
     "weightGrams": 1340,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z9",
+      "z9"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1237,11 +1921,15 @@
     "logSupport": "N-Log / ProRes RAW",
     "sensorType": "Stacked CMOS",
     "weightGrams": 910,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z8",
+      "z8"
+    ]
   },
   {
     "brand": "Nikon",
-    "modelName": "Z7 II",
+    "modelName": "Z7II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
@@ -1253,7 +1941,13 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z7 II",
+      "Z7II",
+      "z7 ii",
+      "z7ii"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1269,11 +1963,15 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z7",
+      "z7"
+    ]
   },
   {
     "brand": "Nikon",
-    "modelName": "Z6 III",
+    "modelName": "Z6III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
@@ -1287,11 +1985,17 @@
     "logSupport": "N-Log",
     "sensorType": "Partially Stacked CMOS",
     "weightGrams": 670,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z6 III",
+      "Z6III",
+      "z6 iii",
+      "z6iii"
+    ]
   },
   {
     "brand": "Nikon",
-    "modelName": "Z6 II",
+    "modelName": "Z6II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
@@ -1303,7 +2007,13 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z6 II",
+      "Z6II",
+      "z6 ii",
+      "z6ii"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1319,7 +2029,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z6",
+      "z6"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1335,7 +2049,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z5",
+      "z5"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1353,7 +2071,11 @@
     "logSupport": "N-Log",
     "sensorType": "CMOS",
     "weightGrams": 710,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Zf",
+      "zf"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1371,7 +2093,11 @@
     "logSupport": "N-Log",
     "sensorType": "CMOS",
     "weightGrams": 710,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Zfc",
+      "zfc"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1387,7 +2113,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z50",
+      "z50"
+    ]
   },
   {
     "brand": "Nikon",
@@ -1403,7 +2133,11 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "aliases": [
+      "Z30",
+      "z30"
+    ]
   },
   {
     "brand": "Sony",
@@ -1417,17 +2151,17 @@
     "slug": "fe-12-24mm-f2-8-gm",
     "id": "fe-12-24mm-f2-8-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1445,17 +2179,17 @@
     "slug": "fe-16-35mm-f2-8-gm-ii",
     "id": "fe-16-35mm-f2-8-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1473,17 +2207,17 @@
     "slug": "fe-24-70mm-f2-8-gm-ii",
     "id": "fe-24-70mm-f2-8-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1501,17 +2235,17 @@
     "slug": "fe-70-200mm-f2-8-gm-oss-ii",
     "id": "fe-70-200mm-f2-8-gm-oss-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1528,17 +2262,17 @@
     "releaseYear": 2019,
     "slug": "fe-200-600mm-f5-6-6-3-g-oss",
     "id": "fe-200-600mm-f5-6-6-3-g-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1557,17 +2291,17 @@
     "slug": "fe-35mm-f1-4-gm",
     "id": "fe-35mm-f1-4-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1585,17 +2319,17 @@
     "slug": "fe-50mm-f1-2-gm",
     "id": "fe-50mm-f1-2-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1613,17 +2347,17 @@
     "slug": "fe-85mm-f1-4-gm",
     "id": "fe-85mm-f1-4-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "XA, ED, Aspherical elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1640,13 +2374,13 @@
     "releaseYear": 2013,
     "slug": "fe-55mm-f1-8-za",
     "id": "fe-55mm-f1-8-za",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -1736,7 +2470,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1757,7 +2491,7 @@
     "widthMm": 75.5,
     "maxMagnification": 0.18,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": true,
     "focalLengthMinMm": 35,
@@ -1936,7 +2670,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -1964,7 +2698,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2077,7 +2811,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2105,7 +2839,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2133,7 +2867,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2161,7 +2895,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2189,7 +2923,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2217,7 +2951,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2245,7 +2979,7 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2263,22 +2997,22 @@
     "releaseYear": 2019,
     "slug": "rf-15-35mm-f2-8l-is-usm",
     "id": "rf-15-35mm-f2-8l-is-usm",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Nano USM",
+    "opticalDesign": "12 groups, 16 elements",
     "minAperture": "--",
-    "specialElements": "--",
+    "specialElements": "3 Aspherical, 2 UD elements",
     "launchPrice": 59980,
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
-    "hasOIS": false,
+    "coatings": "SWC, ASC, Fluorine Coating",
+    "closeFocus": "0.28m",
+    "maxMagnification": "0.21x",
+    "hasOIS": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "L"
   },
   {
     "brand": "Canon",
@@ -2319,18 +3053,18 @@
     "releaseYear": 2019,
     "slug": "rf-70-200mm-f2-8l-is-usm",
     "id": "rf-70-200mm-f2-8l-is-usm",
-    "motorType": "--",
+    "motorType": "Nano USM / Ring USM",
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
     "launchPrice": 59980,
-    "coatings": "--",
+    "coatings": "ASC, Fluorine Coating",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2347,17 +3081,17 @@
     "releaseYear": 2018,
     "slug": "rf-28-70mm-f2l-usm",
     "id": "rf-28-70mm-f2l-usm",
-    "motorType": "--",
+    "motorType": "Nano USM / Ring USM",
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "ASC, Fluorine Coating",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2375,17 +3109,17 @@
     "releaseYear": 2018,
     "slug": "rf-50mm-f1-2l-usm",
     "id": "rf-50mm-f1-2l-usm",
-    "motorType": "--",
+    "motorType": "Nano USM / Ring USM",
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "ASC, Fluorine Coating",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
@@ -2575,7 +3309,7 @@
     "widthMm": 77.2,
     "maxMagnification": 0.21,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 12,
@@ -2670,11 +3404,11 @@
     "slug": "14mm-f1-8-gm",
     "id": "14mm-f1-8-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 83.0
   },
   {
@@ -2749,19 +3483,19 @@
     "widthMm": 73.5,
     "maxMagnification": 0.3,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": true,
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 16,
     "slug": "16mm-f1-8-g",
     "id": "16mm-f1-8-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 73.5
   },
   {
@@ -2778,7 +3512,7 @@
     "widthMm": 85.0,
     "maxMagnification": 0.11,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 16,
@@ -2807,7 +3541,7 @@
     "widthMm": 50.8,
     "maxMagnification": 0.28,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 17,
@@ -2959,12 +3693,12 @@
     "focalLengthMaxMm": 20,
     "slug": "20mm-f1-8-g",
     "id": "20mm-f1-8-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 73.5
   },
   {
@@ -3010,7 +3744,7 @@
     "widthMm": 70.0,
     "maxMagnification": 0.15,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 20,
@@ -3192,11 +3926,11 @@
     "slug": "24mm-f1-4-gm",
     "id": "24mm-f1-4-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 75.4
   },
   {
@@ -3300,7 +4034,7 @@
     "widthMm": 70.0,
     "maxMagnification": 0.15,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 24,
@@ -3365,12 +4099,12 @@
     "focalLengthMaxMm": 24,
     "slug": "24mm-f2-8-g",
     "id": "24mm-f2-8-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 68.0
   },
   {
@@ -3416,7 +4150,7 @@
     "widthMm": 64.0,
     "maxMagnification": 0.5,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 24,
@@ -3539,12 +4273,12 @@
     "focalLengthMaxMm": 28,
     "slug": "28mm-f2-0",
     "id": "28mm-f2-0",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 64.0
   },
   {
@@ -3764,7 +4498,7 @@
     "widthMm": 73.0,
     "maxMagnification": 0.19,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": true,
     "focalLengthMinMm": 35,
@@ -3793,7 +4527,7 @@
     "widthMm": 77.0,
     "maxMagnification": 0.19,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 35,
@@ -3830,11 +4564,11 @@
     "slug": "35mm-f1-4-gm",
     "id": "35mm-f1-4-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 76.0
   },
   {
@@ -3858,12 +4592,12 @@
     "focalLengthMaxMm": 35,
     "slug": "35mm-f1-4-za",
     "id": "35mm-f1-4-za",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 78.5
   },
   {
@@ -3916,12 +4650,12 @@
     "focalLengthMaxMm": 35,
     "slug": "35mm-f1-8",
     "id": "35mm-f1-8",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 65.6
   },
   {
@@ -3967,7 +4701,7 @@
     "widthMm": 70.0,
     "maxMagnification": 0.18,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 35,
@@ -4061,12 +4795,12 @@
     "focalLengthMaxMm": 35,
     "slug": "35mm-f2-8-za",
     "id": "35mm-f2-8-za",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 61.5
   },
   {
@@ -4177,12 +4911,12 @@
     "focalLengthMaxMm": 40,
     "slug": "40mm-f2-5-g",
     "id": "40mm-f2-5-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 68.0
   },
   {
@@ -4352,11 +5086,11 @@
     "slug": "50mm-f1-2-gm",
     "id": "50mm-f1-2-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 87.0
   },
   {
@@ -4454,11 +5188,11 @@
     "releaseYear": 2023,
     "launchPrice": 41980,
     "apertureMax": "1.4",
-    "filterSizeMm": 67.0,
-    "weightGrams": 516.0,
+    "filterSizeMm": 67,
+    "weightGrams": 516,
     "lengthMm": 96.0,
     "widthMm": 80.6,
-    "maxMagnification": 0.16,
+    "maxMagnification": "0.15x (AF) / 0.18x (MF)",
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
@@ -4467,12 +5201,12 @@
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-4-gm",
     "id": "50mm-f1-4-gm",
-    "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "motorType": "2x XD (Extreme Dynamic) Linear Motors",
+    "opticalDesign": "11 groups, 14 elements",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "2 XA (Extreme Aspherical), 1 ED",
+    "coatings": "Nano AR II, Fluorine Coating",
+    "closeFocus": "0.38m (AF) / 0.41m (MF)",
     "diameter": 80.6
   },
   {
@@ -4496,12 +5230,12 @@
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-4-za",
     "id": "50mm-f1-4-za",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 83.5
   },
   {
@@ -4634,7 +5368,7 @@
     "widthMm": 70.0,
     "maxMagnification": 0.14,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 50,
@@ -4699,12 +5433,12 @@
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2-5-g",
     "id": "50mm-f2-5-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 68.0
   },
   {
@@ -4728,12 +5462,12 @@
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2-8-marcro",
     "id": "50mm-f2-8-marcro",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 70.8
   },
   {
@@ -4757,12 +5491,12 @@
     "focalLengthMaxMm": 55,
     "slug": "55mm-f1-8-za",
     "id": "55mm-f1-8-za",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 64.4
   },
   {
@@ -4779,7 +5513,7 @@
     "widthMm": 72.0,
     "maxMagnification": 0.15,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 65,
@@ -5048,11 +5782,11 @@
     "slug": "85mm-f1-4-gm",
     "id": "85mm-f1-4-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 89.5
   },
   {
@@ -5077,11 +5811,11 @@
     "slug": "85mm-f1-4-gm-ii",
     "id": "85mm-f1-4-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 85.0
   },
   {
@@ -5359,7 +6093,7 @@
     "widthMm": 59.7,
     "maxMagnification": 0.2,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 90,
@@ -5395,12 +6129,12 @@
     "focalLengthMaxMm": 90,
     "slug": "90mm-f2-8-g-macro-oss",
     "id": "90mm-f2-8-g-macro-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 79.0
   },
   {
@@ -5512,11 +6246,11 @@
     "slug": "100mm-f2-8-gm-oss-stf",
     "id": "100mm-f2-8-gm-oss-stf",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 85.2
   },
   {
@@ -5541,11 +6275,11 @@
     "slug": "100mm-f2-8-gm-oss-marco",
     "id": "100mm-f2-8-gm-oss-marco",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 81.4
   },
   {
@@ -5715,11 +6449,11 @@
     "slug": "135mm-f1-8-gm",
     "id": "135mm-f1-8-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 89.5
   },
   {
@@ -5889,11 +6623,11 @@
     "slug": "300mm-f2-8-gm-oss",
     "id": "300mm-f2-8-gm-oss",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 124.0
   },
   {
@@ -5918,11 +6652,11 @@
     "slug": "400mm-f2-8-gm-oss",
     "id": "400mm-f2-8-gm-oss",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 158.1
   },
   {
@@ -5976,11 +6710,11 @@
     "slug": "600mm-f4-0-gm-oss",
     "id": "600mm-f4-0-gm-oss",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 163.6
   },
   {
@@ -6005,11 +6739,11 @@
     "slug": "12-24mm-f2-8-gm",
     "id": "12-24mm-f2-8-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 97.6
   },
   {
@@ -6033,12 +6767,12 @@
     "focalLengthMaxMm": 24,
     "slug": "12-24mm-f4-g",
     "id": "12-24mm-f4-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 87.0
   },
   {
@@ -6091,12 +6825,12 @@
     "focalLengthMaxMm": 25,
     "slug": "16-25mm-f2-8-g",
     "id": "16-25mm-f2-8-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 74.8
   },
   {
@@ -6113,7 +6847,7 @@
     "widthMm": 77.2,
     "maxMagnification": 0.18,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 16,
@@ -6142,7 +6876,7 @@
     "widthMm": 74.8,
     "maxMagnification": 0.19,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": true,
     "hasCustomButton": false,
     "focalLengthMinMm": 16,
@@ -6179,11 +6913,11 @@
     "slug": "16-35mm-f2-8-gm",
     "id": "16-35mm-f2-8-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 88.5
   },
   {
@@ -6208,11 +6942,11 @@
     "slug": "16-35mm-f2-8-gm-ii",
     "id": "16-35mm-f2-8-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 87.8
   },
   {
@@ -6236,12 +6970,12 @@
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-t3-1-g",
     "id": "16-35mm-t3-1-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 118.4
   },
   {
@@ -6265,12 +6999,12 @@
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-za-oss",
     "id": "16-35mm-f4-za-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 78.0
   },
   {
@@ -6294,12 +7028,12 @@
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-g-pz",
     "id": "16-35mm-f4-g-pz",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 80.5
   },
   {
@@ -6410,12 +7144,12 @@
     "focalLengthMaxMm": 70,
     "slug": "20-70mm-f4-g",
     "id": "20-70mm-f4-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 73.0
   },
   {
@@ -6468,12 +7202,12 @@
     "focalLengthMaxMm": 50,
     "slug": "24-50mm-f2-8-g",
     "id": "24-50mm-f2-8-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 74.8
   },
   {
@@ -6560,7 +7294,7 @@
     "minAperture": "--",
     "specialElements": "2 XA, 3 ED, 2 Aspherical",
     "coatings": "Nano AR II, Fluorine Coating",
-    "closeFocus": "--",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 87.6
   },
   {
@@ -6589,7 +7323,7 @@
     "minAperture": "--",
     "specialElements": "2 XA, 3 ED, 2 Aspherical",
     "coatings": "Nano AR II, Fluorine Coating",
-    "closeFocus": "--",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 87.8
   },
   {
@@ -6613,12 +7347,12 @@
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f4-za-oss",
     "id": "24-70mm-f4-za-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 73.0
   },
   {
@@ -6642,12 +7376,12 @@
     "focalLengthMaxMm": 105,
     "slug": "24-105mm-f4-g",
     "id": "24-105mm-f4-g",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 83.4
   },
   {
@@ -6671,12 +7405,12 @@
     "focalLengthMaxMm": 240,
     "slug": "24-240mm-f3-5-6-3-oss",
     "id": "24-240mm-f3-5-6-3-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 80.5
   },
   {
@@ -6758,12 +7492,12 @@
     "focalLengthMaxMm": 60,
     "slug": "28-60mm-f4-5-6",
     "id": "28-60mm-f4-5-6",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 64.0
   },
   {
@@ -6788,11 +7522,11 @@
     "slug": "28-70mm-f2-0-gm",
     "id": "28-70mm-f2-0-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 139.8
   },
   {
@@ -6809,7 +7543,7 @@
     "widthMm": 72.2,
     "maxMagnification": 0.3,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 28,
@@ -6845,12 +7579,12 @@
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f3-5-5-6-oss",
     "id": "28-70mm-f3-5-5-6-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 72.5
   },
   {
@@ -6961,12 +7695,12 @@
     "focalLengthMaxMm": 135,
     "slug": "28-135mm-f4-g-oss-pz",
     "id": "28-135mm-f4-g-oss-pz",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 105.0
   },
   {
@@ -7136,11 +7870,11 @@
     "slug": "50-150mm-f2-0-gm",
     "id": "50-150mm-f2-0-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 102.8
   },
   {
@@ -7339,11 +8073,11 @@
     "slug": "70-200mm-f2-8-gm-oss",
     "id": "70-200mm-f2-8-gm-oss",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 88.0
   },
   {
@@ -7368,11 +8102,11 @@
     "slug": "70-200mm-f2-8-gm-oss-ii",
     "id": "70-200mm-f2-8-gm-oss-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 88.0
   },
   {
@@ -7396,12 +8130,12 @@
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss",
     "id": "70-200mm-f4-g-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 80.0
   },
   {
@@ -7425,12 +8159,12 @@
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss-ii",
     "id": "70-200mm-f4-g-oss-ii",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 82.0
   },
   {
@@ -7454,12 +8188,12 @@
     "focalLengthMaxMm": 300,
     "slug": "70-300mm-f4-5-5-6-g-oss",
     "id": "70-300mm-f4-5-5-6-g-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 84.0
   },
   {
@@ -7513,11 +8247,11 @@
     "slug": "100-400mm-f4-5-5-6-gm-oss",
     "id": "100-400mm-f4-5-5-6-gm-oss",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 93.9
   },
   {
@@ -7599,12 +8333,12 @@
     "focalLengthMaxMm": 600,
     "slug": "200-600mm-f5-6-6-3-g-oss",
     "id": "200-600mm-f5-6-6-3-g-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 111.5
   },
   {
@@ -7657,12 +8391,12 @@
     "focalLengthMaxMm": 800,
     "slug": "400-800mm-f6-3-8-0-g-oss",
     "id": "400-800mm-f6-3-8-0-g-oss",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
     "diameter": 119.8
   },
   {
@@ -8404,7 +9138,7 @@
     "widthMm": 61.3,
     "maxMagnification": 0.15,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 50,
@@ -8462,7 +9196,7 @@
     "widthMm": 91.3,
     "maxMagnification": 0.5,
     "hasOIS": false,
-    "hasWeatherSeal": false,
+    "hasWeatherSeal": true,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "focalLengthMinMm": 65,
@@ -8693,11 +9427,20 @@
     "sensorType": "BSI CMOS",
     "slug": "fx3",
     "id": "fx3",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "FX3",
+      "Sony afx3",
+      "Sonyafx3",
+      "afx3",
+      "fx3",
+      "sony afx3",
+      "sonyafx3"
+    ]
   },
   {
     "brand": "Sony",
@@ -8712,11 +9455,21 @@
     "sensorType": "BSI CMOS",
     "slug": "fx30",
     "id": "fx30",
-    "videoResolution": "--",
-    "afPoints": "--",
+    "videoResolution": "4K 60p / 10-bit",
+    "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
     "burstSpeed": "--",
-    "logSupport": "S-Log3 / S-Cinetone"
+    "logSupport": "S-Log3 / S-Cinetone",
+    "aliases": [
+      "FX30",
+      "Sony aFX30",
+      "SonyaFX30",
+      "aFX30",
+      "afx30",
+      "fx30",
+      "sony afx30",
+      "sonyafx30"
+    ]
   },
   {
     "brand": "Sony",
@@ -8736,12 +9489,12 @@
     "slug": "fe-28-70mm-f2-gm",
     "id": "fe-28-70mm-f2-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
     "diameter": "--"
@@ -8764,12 +9517,12 @@
     "slug": "fe-85mm-f1-4-gm-ii",
     "id": "fe-85mm-f1-4-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "--",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR II",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
     "diameter": "--"
@@ -8791,20 +9544,20 @@
     "series": "G",
     "slug": "e-11mm-f1-8",
     "id": "e-11mm-f1-8",
-    "motorType": "--",
-    "opticalDesign": "--",
+    "motorType": "Linear Motor / DDSSM",
+    "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
-    "specialElements": "--",
-    "coatings": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
+    "specialElements": "XA, ED, Aspherical elements",
+    "coatings": "Nano AR Coating, Fluorine",
+    "closeFocus": "0.3m - 0.5m",
+    "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
     "diameter": "--"
   },
   {
     "brand": "Sony",
-    "modelName": "A7 V",
+    "modelName": "A75",
     "gearType": "CAMERA_BODY",
     "sensorType": "Partially Stacked CMOS",
     "megapixels": 33.0,
@@ -8818,7 +9571,23 @@
     "sensorFormat": "Full Frame",
     "slug": "a7-v",
     "logSupport": "S-Log3 / S-Cinetone",
-    "id": "a7-v"
+    "id": "a7-v",
+    "aliases": [
+      "A7 V",
+      "A75",
+      "A7V",
+      "Sony aA7 V",
+      "SonyaA7V",
+      "a7 v",
+      "a75",
+      "a7v",
+      "aA7 V",
+      "aA7V",
+      "aa7 v",
+      "aa7v",
+      "sony aa7 v",
+      "sonyaa7v"
+    ]
   },
   {
     "brand": "Sigma",

@@ -221,17 +221,17 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
           <div className="grid grid-cols-1 md:grid-cols-2">
             {isLens ? (
               <>
-                {/* 1. Imaging Core */}
+                {/* 1. Basic Specs (Renamed for Lens) */}
                 <div className="border-r border-b border-white/5">
                   <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
-                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('imaging')}</span>
+                    <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('basicSpecs')}</span>
                   </div>
                   <SpecRow label={t('focalLength')} value={isPrime ? `${gear.focalLengthMinMm}mm` : `${gear.focalLengthMinMm}-${gear.focalLengthMaxMm}mm`} />
                   <SpecRow label={t('maxAperture')} value={gear.apertureMax ? `f/${gear.apertureMax}` : null} />
                   <SpecRow label={t('minAperture')} value={gear.minAperture ? `f/${gear.minAperture}` : '--'} />
                   <SpecRow label={t('motorType')} value={gear.motorType || '--'} />
-                  <SpecRow label={t('maxMagnification')} value={(gear.maxMagnification && !isNaN(Number(gear.maxMagnification))) ? `${Number(gear.maxMagnification).toFixed(2)}x` : '--'} />
-                  <SpecRow label={t('closeFocus')} value={gear.closeFocus || '--'} unit={gear.closeFocus && gear.closeFocus !== '--' ? "m" : ""} />
+                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification || '--'} />
+                  <SpecRow label={t('closeFocus')} value={gear.closeFocus || '--'} unit={(gear.closeFocus && gear.closeFocus !== '--' && !String(gear.closeFocus).includes('m')) ? "m" : ""} />
                 </div>
 
                 {/* 2. Optical Performance */}
@@ -285,8 +285,12 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                     <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('performance')}</span>
                   </div>
                   <SpecRow label={t('afPoints')} value={gear.afPoints} />
+                  <SpecRow label={t('afRange')} value={gear.afRange} />
                   <SpecRow label={t('burstSpeed')} value={gear.burstSpeed} />
+                  <SpecRow label={t('ibisRating')} value={gear.ibisRating} />
                   <SpecRow label={t('evfResolution')} value={gear.evfResolution} />
+                  <SpecRow label={t('evfMagnification')} value={gear.evfMagnification} />
+                  <SpecRow label={t('videoColorDepth')} value={gear.videoColorDepth} />
                   <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
                 </div>
                 {/* Add more body rows if needed */}

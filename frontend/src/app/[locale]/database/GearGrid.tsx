@@ -43,12 +43,18 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
   // Filtering and Sorting logic
   const filteredGears = gears
     .filter(g => {
-      // Search
+      // Search (Model, Brand, and Aliases)
       if (filters.q) {
         const query = filters.q.toLowerCase();
         const nameEn = (g.modelNameI18n?.enUs || g.modelName || '').toLowerCase();
         const brandEn = (typeof g.brand === 'string' ? g.brand : (g.brand?.nameI18n?.enUs || g.brand?.name || '')).toLowerCase();
-        if (!nameEn.includes(query) && !brandEn.includes(query)) return false;
+        const aliases = (g.aliases || []).map((a: string) => a.toLowerCase());
+        
+        const matchesName = nameEn.includes(query);
+        const matchesBrand = brandEn.includes(query);
+        const matchesAlias = aliases.some((a: string) => a.includes(query));
+        
+        if (!matchesName && !matchesBrand && !matchesAlias) return false;
       }
       // Gear Type
       if (filters.gearTypes.length > 0 && !filters.gearTypes.includes(g.gearType)) return false;
