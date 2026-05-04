@@ -71,7 +71,11 @@
       "SonyA1",
       "a1",
       "sonya1"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -106,7 +110,11 @@
       "a92i",
       "a9iii",
       "sonya9iii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -137,7 +145,11 @@
       "a92",
       "a9ii",
       "sonya9ii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -165,7 +177,11 @@
       "SonyA9",
       "a9",
       "sonya9"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -242,7 +258,11 @@
       "a7r4",
       "a7riv",
       "sonya7riv"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -273,7 +293,11 @@
       "a7r2i",
       "a7riii",
       "sonya7riii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -304,7 +328,11 @@
       "a7r2",
       "a7rii",
       "sonya7rii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -332,7 +360,11 @@
       "SonyA7R",
       "a7r",
       "sonya7r"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -363,7 +395,11 @@
       "a7s2i",
       "a7siii",
       "sonya7siii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -394,7 +430,11 @@
       "a7s2",
       "a7sii",
       "sonya7sii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -422,7 +462,11 @@
       "Sonya7s",
       "a7s",
       "sonya7s"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -456,7 +500,11 @@
       "a74",
       "a7iv",
       "sonya7iv"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -488,7 +536,11 @@
       "a72i",
       "a7iii",
       "sonya7iii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -519,7 +571,11 @@
       "a72",
       "a7ii",
       "sonya7ii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -547,7 +603,11 @@
       "SonyA7",
       "a7",
       "sonya7"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -575,7 +635,11 @@
       "a7c r",
       "a7cr",
       "sonya7cr"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -657,7 +721,11 @@
       "Sonya7c",
       "a7c",
       "sonya7c"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -682,7 +750,11 @@
       "azv-e1",
       "sonyazv-e1",
       "zv-e1"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -711,7 +783,11 @@
       "Sonya6700",
       "a6700",
       "sonya6700"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -737,7 +813,11 @@
       "SonyA6600",
       "a6600",
       "sonya6600"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -763,7 +843,11 @@
       "SonyA6500",
       "a6500",
       "sonya6500"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -789,7 +873,11 @@
       "Sonya6400",
       "a6400",
       "sonya6400"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -815,7 +903,11 @@
       "SonyA6300",
       "a6300",
       "sonya6300"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -841,7 +933,11 @@
       "Sonya6100",
       "a6100",
       "sonya6100"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -867,7 +963,11 @@
       "SonyA6000",
       "a6000",
       "sonya6000"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -898,7 +998,11 @@
       "zv-e10 ii",
       "zv-e102",
       "zv-e10ii"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -923,7 +1027,11 @@
       "azv-e10",
       "sonyazv-e10",
       "zv-e10"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Fujifilm",
@@ -1659,7 +1767,11 @@
       "R3",
       "eosr3",
       "r3"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1692,7 +1804,11 @@
       "eosr5ii",
       "r5 mark ii",
       "r5ii"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1718,7 +1834,11 @@
       "R5",
       "eosr5",
       "r5"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1749,7 +1869,11 @@
       "eosr6ii",
       "r6 mark ii",
       "r6ii"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1775,7 +1899,11 @@
       "R6",
       "eosr6",
       "r6"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1801,7 +1929,11 @@
       "R8",
       "eosr8",
       "r8"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1827,7 +1959,11 @@
       "R",
       "eosr",
       "r"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1853,7 +1989,11 @@
       "RP",
       "eosrp",
       "rp"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1879,7 +2019,11 @@
       "R7",
       "eosr7",
       "r7"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1907,7 +2051,11 @@
       "R10",
       "eosr10",
       "r10"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1933,7 +2081,11 @@
       "R50",
       "eosr50",
       "r50"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Canon",
@@ -1961,7 +2113,11 @@
       "R100",
       "eosr100",
       "r100"
-    ]
+    ],
+    "processor": "DIGIC X",
+    "afTargets": "People, Animals, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "isoRange": "100-102400 (Ext: 50-819200)"
   },
   {
     "brand": "Nikon",
@@ -1986,11 +2142,13 @@
     ],
     "processor": "EXPEED 7",
     "ibisRating": "6.0 stops (CIPA)",
-    "dimensions": "149 x 149.5 x 90.5 mm"
+    "dimensions": "149 x 149.5 x 90.5 mm",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
-    "modelName": "Nikon z8",
+    "modelName": "Nikon Z8",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "45.7MP",
@@ -2008,7 +2166,16 @@
     "aliases": [
       "Z8",
       "z8"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "ibisRating": "6.0 stops (CIPA)",
+    "afRange": "EV -7.0 to 19",
+    "afTargets": "Human, Animal, Bird, Plane, Car, Motorbike, Bicycle, Train",
+    "evfMagnification": "0.80x",
+    "batterySpec": "EN-EL15c (Approx. 340 shots)",
+    "isoRange": "64-25600 (Ext: 32-102400)",
+    "dimensions": "144.0 x 118.5 x 83.0 mm",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2030,7 +2197,10 @@
       "Z7II",
       "z7 ii",
       "z7ii"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2050,7 +2220,10 @@
     "aliases": [
       "Z7",
       "z7"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2074,7 +2247,10 @@
       "Z6III",
       "z6 iii",
       "z6iii"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2096,7 +2272,10 @@
       "Z6II",
       "z6 ii",
       "z6ii"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2116,7 +2295,10 @@
     "aliases": [
       "Z6",
       "z6"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2136,7 +2318,10 @@
     "aliases": [
       "Z5",
       "z5"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2159,7 +2344,10 @@
       "ZF",
       "Zf",
       "zf"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2182,7 +2370,10 @@
       "ZFC",
       "Zfc",
       "zfc"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2202,7 +2393,10 @@
     "aliases": [
       "Z50",
       "z50"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Nikon",
@@ -2222,7 +2416,10 @@
     "aliases": [
       "Z30",
       "z30"
-    ]
+    ],
+    "processor": "EXPEED 7",
+    "afTargets": "People, Animals, Birds, Vehicles",
+    "videoColorDepth": "10-bit 4:2:2 (N-Log)"
   },
   {
     "brand": "Sony",
@@ -3457,7 +3654,7 @@
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "Nano Crystal / Arneo",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
@@ -3492,7 +3689,7 @@
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "Nano Crystal / Arneo",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
@@ -3527,7 +3724,7 @@
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "Nano Crystal / Arneo",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
@@ -3562,7 +3759,7 @@
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "Nano Crystal / Arneo",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
@@ -3597,7 +3794,7 @@
     "opticalDesign": "--",
     "minAperture": "--",
     "specialElements": "--",
-    "coatings": "--",
+    "coatings": "Nano Crystal / Arneo",
     "closeFocus": "--",
     "maxMagnification": "--",
     "hasOIS": false,
@@ -10973,7 +11170,11 @@
       "afx3",
       "fx3",
       "sonyafx3"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -11003,7 +11204,11 @@
       "afx30",
       "fx30",
       "sonyafx30"
-    ]
+    ],
+    "processor": "BIONZ XR",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sony",
@@ -11157,7 +11362,8 @@
     "batterySpec": "NP-FZ100",
     "processor": "BIONZ XR + AI Processing Unit",
     "dimensions": "131.3 x 96.9 x 79.8 mm",
-    "weightGrams": "Approx. 658 g (including battery and card)"
+    "weightGrams": "Approx. 658 g (including battery and card)",
+    "isoRange": "100-51200 (Ext: 50-204800)"
   },
   {
     "brand": "Sigma",
