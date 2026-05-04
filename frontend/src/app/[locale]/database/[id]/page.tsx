@@ -4,19 +4,27 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import CompareButton from '../CompareButton';
 
+import products from '@/data/products.json';
+
 async function getGear(id: string) {
-  try {
-    const backendBase = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:8083';
-    const res = await fetch(`${backendBase}/api/v1/gear/${id}`, { cache: 'no-store' });
-    if (!res.ok) {
-      if (res.status === 404) return null;
-      throw new Error('Failed to fetch data');
-    }
-    return res.json();
-  } catch (error) {
-    console.error('Backend is not reachable:', error);
-    return null;
-  }
+  // Find product in local JSON by ID or Slug
+  const item = products.find((p: any) => String(p.id) === id || p.slug === id);
+  
+  if (!item) return null;
+
+  // Transform to multi-language structure expected by the page
+  return {
+    ...item,
+    id: item.id,
+    brand: typeof item.brand === 'string' ? { 
+      slug: item.brand.toLowerCase(), 
+      nameI18n: { enUs: item.brand, zhTw: item.brand } 
+    } : item.brand,
+    modelNameI18n: typeof item.modelName === 'string' ? {
+      enUs: item.modelName,
+      zhTw: item.modelName
+    } : item.modelNameI18n
+  };
 }
 
 function SpecRow({ label, value, unit }: { label: string; value: any; unit?: string }) {

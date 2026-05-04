@@ -5,7 +5,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 50.1,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "a1-ii",
+    "id": "a1-ii"
   },
   {
     "brand": "Sony",
@@ -13,7 +15,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 50.1,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "a1",
+    "id": "a1"
   },
   {
     "brand": "Sony",
@@ -21,7 +25,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.6,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "a9-iii",
+    "id": "a9-iii"
   },
   {
     "brand": "Sony",
@@ -29,7 +35,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "a9-ii",
+    "id": "a9-ii"
   },
   {
     "brand": "Sony",
@@ -37,7 +45,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2017
+    "releaseYear": 2017,
+    "slug": "a9",
+    "id": "a9"
   },
   {
     "brand": "Sony",
@@ -45,7 +55,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "a7r-v",
+    "id": "a7r-v"
   },
   {
     "brand": "Sony",
@@ -53,7 +65,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "a7r-iv",
+    "id": "a7r-iv"
   },
   {
     "brand": "Sony",
@@ -61,7 +75,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
-    "releaseYear": 2017
+    "releaseYear": 2017,
+    "slug": "a7r-iii",
+    "id": "a7r-iii"
   },
   {
     "brand": "Sony",
@@ -69,7 +85,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
-    "releaseYear": 2015
+    "releaseYear": 2015,
+    "slug": "a7r-ii",
+    "id": "a7r-ii"
   },
   {
     "brand": "Sony",
@@ -77,7 +95,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 36.4,
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "slug": "a7r",
+    "id": "a7r"
   },
   {
     "brand": "Sony",
@@ -85,7 +105,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.1,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "a7s-iii",
+    "id": "a7s-iii"
   },
   {
     "brand": "Sony",
@@ -93,7 +115,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.2,
-    "releaseYear": 2015
+    "releaseYear": 2015,
+    "slug": "a7s-ii",
+    "id": "a7s-ii"
   },
   {
     "brand": "Sony",
@@ -101,7 +125,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.2,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "a7s",
+    "id": "a7s"
   },
   {
     "brand": "Sony",
@@ -109,7 +135,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 33.0,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "a7-iv",
+    "id": "a7-iv"
   },
   {
     "brand": "Sony",
@@ -117,7 +145,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "a7-iii",
+    "id": "a7-iii"
   },
   {
     "brand": "Sony",
@@ -125,7 +155,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "a7-ii",
+    "id": "a7-ii"
   },
   {
     "brand": "Sony",
@@ -133,7 +165,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "slug": "a7",
+    "id": "a7"
   },
   {
     "brand": "Sony",
@@ -141,7 +175,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "a7c-r",
+    "id": "a7c-r"
   },
   {
     "brand": "Sony",
@@ -149,7 +185,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 33.0,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "a7c-ii",
+    "id": "a7c-ii"
   },
   {
     "brand": "Sony",
@@ -157,7 +195,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "a7c",
+    "id": "a7c"
   },
   {
     "brand": "Sony",
@@ -165,7 +205,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.1,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "zv-e1",
+    "id": "zv-e1"
   },
   {
     "brand": "Sony",
@@ -173,7 +215,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.0,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "a6700",
+    "id": "a6700"
   },
   {
     "brand": "Sony",
@@ -181,7 +225,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "a6600",
+    "id": "a6600"
   },
   {
     "brand": "Sony",
@@ -189,7 +235,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "slug": "a6500",
+    "id": "a6500"
   },
   {
     "brand": "Sony",
@@ -197,7 +245,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "a6400",
+    "id": "a6400"
   },
   {
     "brand": "Sony",
@@ -205,7 +255,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "slug": "a6300",
+    "id": "a6300"
   },
   {
     "brand": "Sony",
@@ -213,7 +265,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "a6100",
+    "id": "a6100"
   },
   {
     "brand": "Sony",
@@ -221,7 +275,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "a6000",
+    "id": "a6000"
   },
   {
     "brand": "Sony",
@@ -229,7 +285,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.0,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "zv-e10-ii",
+    "id": "zv-e10-ii"
   },
   {
     "brand": "Sony",
@@ -237,7 +295,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "zv-e10",
+    "id": "zv-e10"
   },
   {
     "brand": "Fujifilm",
@@ -245,7 +305,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "x-h2s",
+    "id": "x-h2s"
   },
   {
     "brand": "Fujifilm",
@@ -253,7 +315,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "x-h2",
+    "id": "x-h2"
   },
   {
     "brand": "Fujifilm",
@@ -261,7 +325,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "x-h1",
+    "id": "x-h1"
   },
   {
     "brand": "Fujifilm",
@@ -269,7 +335,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "x-t5",
+    "id": "x-t5"
   },
   {
     "brand": "Fujifilm",
@@ -277,7 +345,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "x-t4",
+    "id": "x-t4"
   },
   {
     "brand": "Fujifilm",
@@ -285,7 +355,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "x-t3",
+    "id": "x-t3"
   },
   {
     "brand": "Fujifilm",
@@ -293,7 +365,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "slug": "x-t2",
+    "id": "x-t2"
   },
   {
     "brand": "Fujifilm",
@@ -301,7 +375,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "x-t1",
+    "id": "x-t1"
   },
   {
     "brand": "Fujifilm",
@@ -309,7 +385,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "x-t50",
+    "id": "x-t50"
   },
   {
     "brand": "Fujifilm",
@@ -317,7 +395,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "x-t30-ii",
+    "id": "x-t30-ii"
   },
   {
     "brand": "Fujifilm",
@@ -325,7 +405,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "x-t30",
+    "id": "x-t30"
   },
   {
     "brand": "Fujifilm",
@@ -333,7 +415,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2017
+    "releaseYear": 2017,
+    "slug": "x-t20",
+    "id": "x-t20"
   },
   {
     "brand": "Fujifilm",
@@ -341,7 +425,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
-    "releaseYear": 2015
+    "releaseYear": 2015,
+    "slug": "x-t10",
+    "id": "x-t10"
   },
   {
     "brand": "Fujifilm",
@@ -349,7 +435,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "x-pro3",
+    "id": "x-pro3"
   },
   {
     "brand": "Fujifilm",
@@ -357,7 +445,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "slug": "x-pro2",
+    "id": "x-pro2"
   },
   {
     "brand": "Fujifilm",
@@ -365,7 +455,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
-    "releaseYear": 2012
+    "releaseYear": 2012,
+    "slug": "x-pro1",
+    "id": "x-pro1"
   },
   {
     "brand": "Fujifilm",
@@ -373,7 +465,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "x-s20",
+    "id": "x-s20"
   },
   {
     "brand": "Fujifilm",
@@ -381,7 +475,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "x-s10",
+    "id": "x-s10"
   },
   {
     "brand": "Fujifilm",
@@ -389,7 +485,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "x-e4",
+    "id": "x-e4"
   },
   {
     "brand": "Fujifilm",
@@ -397,7 +495,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "x100vi",
+    "id": "x100vi"
   },
   {
     "brand": "Fujifilm",
@@ -405,7 +505,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "x100v",
+    "id": "x100v"
   },
   {
     "brand": "Fujifilm",
@@ -413,7 +515,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
-    "releaseYear": 2017
+    "releaseYear": 2017,
+    "slug": "x100f",
+    "id": "x100f"
   },
   {
     "brand": "Fujifilm",
@@ -421,7 +525,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "x100t",
+    "id": "x100t"
   },
   {
     "brand": "Fujifilm",
@@ -429,7 +535,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "slug": "x100s",
+    "id": "x100s"
   },
   {
     "brand": "Fujifilm",
@@ -437,7 +545,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 12.3,
-    "releaseYear": 2010
+    "releaseYear": 2010,
+    "slug": "x100",
+    "id": "x100"
   },
   {
     "brand": "Fujifilm",
@@ -445,7 +555,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "gfx-100-ii",
+    "id": "gfx-100-ii"
   },
   {
     "brand": "Fujifilm",
@@ -453,7 +565,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "gfx-100s-ii",
+    "id": "gfx-100s-ii"
   },
   {
     "brand": "Fujifilm",
@@ -461,7 +575,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "gfx-100s",
+    "id": "gfx-100s"
   },
   {
     "brand": "Fujifilm",
@@ -469,7 +585,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "gfx-50s-ii",
+    "id": "gfx-50s-ii"
   },
   {
     "brand": "Fujifilm",
@@ -477,7 +595,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "gfx-50r",
+    "id": "gfx-50r"
   },
   {
     "brand": "Canon",
@@ -485,7 +605,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "eos-r1",
+    "id": "eos-r1"
   },
   {
     "brand": "Canon",
@@ -493,7 +615,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.1,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "eos-r3",
+    "id": "eos-r3"
   },
   {
     "brand": "Canon",
@@ -501,7 +625,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "eos-r5-ii",
+    "id": "eos-r5-ii"
   },
   {
     "brand": "Canon",
@@ -509,7 +635,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "eos-r5",
+    "id": "eos-r5"
   },
   {
     "brand": "Canon",
@@ -517,7 +645,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "eos-r6-ii",
+    "id": "eos-r6-ii"
   },
   {
     "brand": "Canon",
@@ -525,7 +655,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 20.1,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "eos-r6",
+    "id": "eos-r6"
   },
   {
     "brand": "Canon",
@@ -533,7 +665,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "eos-r8",
+    "id": "eos-r8"
   },
   {
     "brand": "Canon",
@@ -541,7 +675,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 30.3,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "eos-r",
+    "id": "eos-r"
   },
   {
     "brand": "Canon",
@@ -549,7 +685,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 26.2,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "eos-rp",
+    "id": "eos-rp"
   },
   {
     "brand": "Canon",
@@ -557,7 +695,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 32.5,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "eos-r7",
+    "id": "eos-r7"
   },
   {
     "brand": "Canon",
@@ -565,7 +705,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "eos-r10",
+    "id": "eos-r10"
   },
   {
     "brand": "Canon",
@@ -573,7 +715,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "eos-r50",
+    "id": "eos-r50"
   },
   {
     "brand": "Canon",
@@ -581,7 +725,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.1,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "eos-r100",
+    "id": "eos-r100"
   },
   {
     "brand": "Nikon",
@@ -589,7 +735,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "z9",
+    "id": "z9"
   },
   {
     "brand": "Nikon",
@@ -597,7 +745,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "z8",
+    "id": "z8"
   },
   {
     "brand": "Nikon",
@@ -605,7 +755,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z7-ii",
+    "id": "z7-ii"
   },
   {
     "brand": "Nikon",
@@ -613,7 +765,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "z7",
+    "id": "z7"
   },
   {
     "brand": "Nikon",
@@ -621,7 +775,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
-    "releaseYear": 2024
+    "releaseYear": 2024,
+    "slug": "z6-iii",
+    "id": "z6-iii"
   },
   {
     "brand": "Nikon",
@@ -629,7 +785,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z6-ii",
+    "id": "z6-ii"
   },
   {
     "brand": "Nikon",
@@ -637,7 +795,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "z6",
+    "id": "z6"
   },
   {
     "brand": "Nikon",
@@ -645,7 +805,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z5",
+    "id": "z5"
   },
   {
     "brand": "Nikon",
@@ -653,7 +815,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "zf",
+    "id": "zf"
   },
   {
     "brand": "Nikon",
@@ -661,7 +825,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 20.9,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "zfc",
+    "id": "zfc"
   },
   {
     "brand": "Nikon",
@@ -669,7 +835,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 20.9,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "z50",
+    "id": "z50"
   },
   {
     "brand": "Nikon",
@@ -677,7 +845,9 @@
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 20.9,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "z30",
+    "id": "z30"
   },
   {
     "brand": "Sony",
@@ -687,7 +857,9 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 24,
     "apertureMax": 2.8,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "fe-12-24mm-f28-gm",
+    "id": "fe-12-24mm-f28-gm"
   },
   {
     "brand": "Sony",
@@ -697,7 +869,9 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "apertureMax": 2.8,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "fe-16-35mm-f28-gm-ii",
+    "id": "fe-16-35mm-f28-gm-ii"
   },
   {
     "brand": "Sony",
@@ -707,7 +881,9 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "apertureMax": 2.8,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "fe-24-70mm-f28-gm-ii",
+    "id": "fe-24-70mm-f28-gm-ii"
   },
   {
     "brand": "Sony",
@@ -717,7 +893,9 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "apertureMax": 2.8,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "fe-70-200mm-f28-gm-oss-ii",
+    "id": "fe-70-200mm-f28-gm-oss-ii"
   },
   {
     "brand": "Sony",
@@ -727,7 +905,9 @@
     "focalLengthMinMm": 200,
     "focalLengthMaxMm": 600,
     "apertureMax": 5.6,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "fe-200-600mm-f56-63-g-oss",
+    "id": "fe-200-600mm-f56-63-g-oss"
   },
   {
     "brand": "Sony",
@@ -737,7 +917,9 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "apertureMax": 1.4,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "fe-35mm-f14-gm",
+    "id": "fe-35mm-f14-gm"
   },
   {
     "brand": "Sony",
@@ -747,7 +929,9 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1.2,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "fe-50mm-f12-gm",
+    "id": "fe-50mm-f12-gm"
   },
   {
     "brand": "Sony",
@@ -757,7 +941,9 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "apertureMax": 1.4,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "slug": "fe-85mm-f14-gm",
+    "id": "fe-85mm-f14-gm"
   },
   {
     "brand": "Sony",
@@ -767,10 +953,12 @@
     "focalLengthMinMm": 55,
     "focalLengthMaxMm": 55,
     "apertureMax": 1.8,
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "slug": "fe-55mm-f18-za",
+    "id": "fe-55mm-f18-za"
   },
   {
-    "id": 8131,
+    "id": "8131",
     "brand": "Sigma",
     "modelName": "14-24mm F2.8 DG DN Art",
     "gearType": "LENS",
@@ -778,10 +966,11 @@
     "launchPrice": 43500,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "x",
-    "series": "DN"
+    "series": "DN",
+    "slug": "14-24mm-f28-dg-dn-art"
   },
   {
-    "id": 8148,
+    "id": "8148",
     "brand": "Sigma",
     "modelName": "24-70mm F2.8 DG DN Art II",
     "gearType": "LENS",
@@ -789,7 +978,8 @@
     "launchPrice": 39880,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "24-70mm-f28-dg-dn-art-ii"
   },
   {
     "brand": "Sigma",
@@ -799,10 +989,12 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "apertureMax": 2.8,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "28-70mm-f28-dg-dn-contemporary",
+    "id": "28-70mm-f28-dg-dn-contemporary"
   },
   {
-    "id": 8043,
+    "id": "8043",
     "brand": "Sigma",
     "modelName": "35mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -810,10 +1002,11 @@
     "launchPrice": 27000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "35mm-f14-dg-dn-art"
   },
   {
-    "id": 8068,
+    "id": "8068",
     "brand": "Sigma",
     "modelName": "50mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -821,10 +1014,11 @@
     "launchPrice": 27800,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "50mm-f14-dg-dn-art"
   },
   {
-    "id": 8091,
+    "id": "8091",
     "brand": "Sigma",
     "modelName": "85mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -832,10 +1026,11 @@
     "launchPrice": 31000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "85mm-f14-dg-dn-art"
   },
   {
-    "id": 8114,
+    "id": "8114",
     "brand": "Sigma",
     "modelName": "105mm F2.8 DG DN Macro Art",
     "gearType": "LENS",
@@ -843,7 +1038,8 @@
     "launchPrice": 23900,
     "apertureMax": "f/2.8",
     "filterSizeMm": "62mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "105mm-f28-dg-dn-macro-art"
   },
   {
     "brand": "Sigma",
@@ -853,7 +1049,9 @@
     "focalLengthMinMm": 18,
     "focalLengthMaxMm": 50,
     "apertureMax": 2.8,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "18-50mm-f28-dc-dn-contemporary",
+    "id": "18-50mm-f28-dc-dn-contemporary"
   },
   {
     "brand": "Tamron",
@@ -863,7 +1061,9 @@
     "focalLengthMinMm": 17,
     "focalLengthMaxMm": 28,
     "apertureMax": 2.8,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "17-28mm-f28-di-iii-rxd",
+    "id": "17-28mm-f28-di-iii-rxd"
   },
   {
     "brand": "Tamron",
@@ -873,7 +1073,9 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 75,
     "apertureMax": 2.8,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "28-75mm-f28-di-iii-vxd-g2",
+    "id": "28-75mm-f28-di-iii-vxd-g2"
   },
   {
     "brand": "Tamron",
@@ -883,7 +1085,9 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 180,
     "apertureMax": 2.8,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "70-180mm-f28-di-iii-vc-vxd-g2",
+    "id": "70-180mm-f28-di-iii-vc-vxd-g2"
   },
   {
     "brand": "Tamron",
@@ -893,7 +1097,9 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 150,
     "apertureMax": 2.0,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "35-150mm-f2-28-di-iii-vxd",
+    "id": "35-150mm-f2-28-di-iii-vxd"
   },
   {
     "brand": "Tamron",
@@ -903,10 +1109,12 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 200,
     "apertureMax": 2.8,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "28-200mm-f28-56-di-iii-rxd",
+    "id": "28-200mm-f28-56-di-iii-rxd"
   },
   {
-    "id": 8184,
+    "id": "8184",
     "brand": "Tamron",
     "modelName": "150-500mm F5-6.7 Di III VC VXD",
     "gearType": "LENS",
@@ -914,7 +1122,8 @@
     "launchPrice": 36800,
     "apertureMax": "f/5.0-6.7",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "150-500mm-f5-67-di-iii-vc-vxd"
   },
   {
     "brand": "Fujifilm",
@@ -924,7 +1133,9 @@
     "focalLengthMinMm": 8,
     "focalLengthMaxMm": 16,
     "apertureMax": 2.8,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "xf-8-16mm-f28-r-lm-wr",
+    "id": "xf-8-16mm-f28-r-lm-wr"
   },
   {
     "brand": "Fujifilm",
@@ -934,7 +1145,9 @@
     "focalLengthMinMm": 10,
     "focalLengthMaxMm": 24,
     "apertureMax": 4.0,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "xf-10-24mm-f4-r-ois-wr",
+    "id": "xf-10-24mm-f4-r-ois-wr"
   },
   {
     "brand": "Fujifilm",
@@ -944,7 +1157,9 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 55,
     "apertureMax": 2.8,
-    "releaseYear": 2015
+    "releaseYear": 2015,
+    "slug": "xf-16-55mm-f28-r-lm-wr",
+    "id": "xf-16-55mm-f28-r-lm-wr"
   },
   {
     "brand": "Fujifilm",
@@ -954,7 +1169,9 @@
     "focalLengthMinMm": 18,
     "focalLengthMaxMm": 55,
     "apertureMax": 2.8,
-    "releaseYear": 2012
+    "releaseYear": 2012,
+    "slug": "xf-18-55mm-f28-4-r-lm-ois",
+    "id": "xf-18-55mm-f28-4-r-lm-ois"
   },
   {
     "brand": "Fujifilm",
@@ -964,7 +1181,9 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 140,
     "apertureMax": 2.8,
-    "releaseYear": 2014
+    "releaseYear": 2014,
+    "slug": "xf-50-140mm-f28-r-lm-ois-wr",
+    "id": "xf-50-140mm-f28-r-lm-ois-wr"
   },
   {
     "brand": "Fujifilm",
@@ -974,7 +1193,9 @@
     "focalLengthMinMm": 33,
     "focalLengthMaxMm": 33,
     "apertureMax": 1.4,
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "slug": "xf-33mm-f14-r-lm-wr",
+    "id": "xf-33mm-f14-r-lm-wr"
   },
   {
     "brand": "Fujifilm",
@@ -984,7 +1205,9 @@
     "focalLengthMinMm": 56,
     "focalLengthMaxMm": 56,
     "apertureMax": 1.2,
-    "releaseYear": 2022
+    "releaseYear": 2022,
+    "slug": "xf-56mm-f12-r-wr",
+    "id": "xf-56mm-f12-r-wr"
   },
   {
     "brand": "Canon",
@@ -994,7 +1217,9 @@
     "focalLengthMinMm": 15,
     "focalLengthMaxMm": 35,
     "apertureMax": 2.8,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "rf-15-35mm-f28l-is-usm",
+    "id": "rf-15-35mm-f28l-is-usm"
   },
   {
     "brand": "Canon",
@@ -1004,7 +1229,9 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "apertureMax": 2.8,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "rf-24-70mm-f28l-is-usm",
+    "id": "rf-24-70mm-f28l-is-usm"
   },
   {
     "brand": "Canon",
@@ -1014,7 +1241,9 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "apertureMax": 2.8,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "rf-70-200mm-f28l-is-usm",
+    "id": "rf-70-200mm-f28l-is-usm"
   },
   {
     "brand": "Canon",
@@ -1024,7 +1253,9 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "apertureMax": 2.0,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "rf-28-70mm-f2l-usm",
+    "id": "rf-28-70mm-f2l-usm"
   },
   {
     "brand": "Canon",
@@ -1034,7 +1265,9 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1.2,
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "slug": "rf-50mm-f12l-usm",
+    "id": "rf-50mm-f12l-usm"
   },
   {
     "brand": "Nikon",
@@ -1044,7 +1277,9 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 24,
     "apertureMax": 2.8,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z-14-24mm-f28-s",
+    "id": "z-14-24mm-f28-s"
   },
   {
     "brand": "Nikon",
@@ -1054,7 +1289,9 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "apertureMax": 2.8,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "slug": "z-24-70mm-f28-s",
+    "id": "z-24-70mm-f28-s"
   },
   {
     "brand": "Nikon",
@@ -1064,7 +1301,9 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "apertureMax": 2.8,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z-70-200mm-f28-vr-s",
+    "id": "z-70-200mm-f28-vr-s"
   },
   {
     "brand": "Nikon",
@@ -1074,7 +1313,9 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "apertureMax": 1.8,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "slug": "z-135mm-f18-s-plena",
+    "id": "z-135mm-f18-s-plena"
   },
   {
     "brand": "Nikon",
@@ -1084,10 +1325,12 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1.2,
-    "releaseYear": 2020
+    "releaseYear": 2020,
+    "slug": "z-50mm-f12-s",
+    "id": "z-50mm-f12-s"
   },
   {
-    "id": 8000,
+    "id": "8000",
     "brand": "Laowa",
     "modelName": "10mm F2.8 C&D-Dreamer",
     "gearType": "LENS",
@@ -1095,10 +1338,11 @@
     "launchPrice": 26000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "10mm-f28-cd-dreamer"
   },
   {
-    "id": 8001,
+    "id": "8001",
     "brand": "Laowa",
     "modelName": "12mm F2.8 Lite Zero-D FF",
     "gearType": "LENS",
@@ -1106,10 +1350,11 @@
     "launchPrice": 24700,
     "apertureMax": "f/2.8",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "12mm-f28-lite-zero-d-ff"
   },
   {
-    "id": 8002,
+    "id": "8002",
     "brand": "Sigma",
     "modelName": "14mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -1117,10 +1362,11 @@
     "launchPrice": 50000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "x",
-    "series": "DN"
+    "series": "DN",
+    "slug": "14mm-f14-dg-dn-art"
   },
   {
-    "id": 8003,
+    "id": "8003",
     "brand": "Sigma",
     "modelName": "14mm F1.8 DG HSM Art",
     "gearType": "LENS",
@@ -1128,10 +1374,11 @@
     "launchPrice": 42800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "14mm-f18-dg-hsm-art"
   },
   {
-    "id": 8004,
+    "id": "8004",
     "brand": "Sony",
     "modelName": "14mm F1.8 GM",
     "gearType": "LENS",
@@ -1139,10 +1386,11 @@
     "launchPrice": 40980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "x",
-    "series": "GM"
+    "series": "GM",
+    "slug": "14mm-f18-gm"
   },
   {
-    "id": 8005,
+    "id": "8005",
     "brand": "Samyang",
     "modelName": "14mm F2.8 AF",
     "gearType": "LENS",
@@ -1150,10 +1398,11 @@
     "launchPrice": 18000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "14mm-f28-af"
   },
   {
-    "id": 8006,
+    "id": "8006",
     "brand": "Sigma",
     "modelName": "15mm F1.4 DG DN Fisheye Art",
     "gearType": "LENS",
@@ -1161,10 +1410,11 @@
     "launchPrice": 64880,
     "apertureMax": "f/1.4",
     "filterSizeMm": "x",
-    "series": "DN"
+    "series": "DN",
+    "slug": "15mm-f14-dg-dn-fisheye-art"
   },
   {
-    "id": 8007,
+    "id": "8007",
     "brand": "Sony",
     "modelName": "16mm F1.8 G",
     "gearType": "LENS",
@@ -1172,10 +1422,11 @@
     "launchPrice": 25980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "67mm",
-    "series": "G"
+    "series": "G",
+    "slug": "16mm-f18-g"
   },
   {
-    "id": 8008,
+    "id": "8008",
     "brand": "Viltrox",
     "modelName": "16mm F1.8 AF LED",
     "gearType": "LENS",
@@ -1183,10 +1434,11 @@
     "launchPrice": 18990,
     "apertureMax": "f/1.8",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "16mm-f18-af-led"
   },
   {
-    "id": 8009,
+    "id": "8009",
     "brand": "Sigma",
     "modelName": "17mm F4.0 DG DN C",
     "gearType": "LENS",
@@ -1194,10 +1446,11 @@
     "launchPrice": 17900,
     "apertureMax": "f/4.0",
     "filterSizeMm": "55mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "17mm-f40-dg-dn-c"
   },
   {
-    "id": 8010,
+    "id": "8010",
     "brand": "Samyang",
     "modelName": "18mm F2.8 AF",
     "gearType": "LENS",
@@ -1205,10 +1458,11 @@
     "launchPrice": 10000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "18mm-f28-af"
   },
   {
-    "id": 8011,
+    "id": "8011",
     "brand": "Zeiss",
     "modelName": "18mm F2.8",
     "gearType": "LENS",
@@ -1216,10 +1470,11 @@
     "launchPrice": 39500,
     "apertureMax": "f/2.8",
     "filterSizeMm": "77mm",
-    "series": "Batis"
+    "series": "Batis",
+    "slug": "18mm-f28"
   },
   {
-    "id": 8012,
+    "id": "8012",
     "brand": "Sigma",
     "modelName": "20mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -1227,10 +1482,11 @@
     "launchPrice": 28900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "20mm-f14-dg-dn-art"
   },
   {
-    "id": 8013,
+    "id": "8013",
     "brand": "Sigma",
     "modelName": "20mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1238,10 +1494,11 @@
     "launchPrice": 28900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20mm-f14-dg-hsm-art"
   },
   {
-    "id": 8014,
+    "id": "8014",
     "brand": "Sony",
     "modelName": "20mm F1.8 G",
     "gearType": "LENS",
@@ -1249,10 +1506,11 @@
     "launchPrice": 27980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "67mm",
-    "series": "G"
+    "series": "G",
+    "slug": "20mm-f18-g"
   },
   {
-    "id": 8015,
+    "id": "8015",
     "brand": "Samyang",
     "modelName": "20mm T1.9 V-AF",
     "gearType": "LENS",
@@ -1260,10 +1518,11 @@
     "launchPrice": 0,
     "apertureMax": "T/1.9",
     "filterSizeMm": "x",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "20mm-t19-v-af"
   },
   {
-    "id": 8016,
+    "id": "8016",
     "brand": "Sigma",
     "modelName": "20mm F2.0 DG DN C",
     "gearType": "LENS",
@@ -1271,10 +1530,11 @@
     "launchPrice": 17900,
     "apertureMax": "f/2.0",
     "filterSizeMm": "62mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "20mm-f20-dg-dn-c"
   },
   {
-    "id": 8017,
+    "id": "8017",
     "brand": "Tokina",
     "modelName": "20mm F2.0 AF FiRIN",
     "gearType": "LENS",
@@ -1282,10 +1542,11 @@
     "launchPrice": 28900,
     "apertureMax": "f/2.0",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20mm-f20-af-firin"
   },
   {
-    "id": 8018,
+    "id": "8018",
     "brand": "Tamron",
     "modelName": "20mm F2.8 Di III OSD F050",
     "gearType": "LENS",
@@ -1293,10 +1554,11 @@
     "launchPrice": 10000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20mm-f28-di-iii-osd-f050"
   },
   {
-    "id": 8019,
+    "id": "8019",
     "brand": "Viltrox",
     "modelName": "20mm F2.8 AF Air",
     "gearType": "LENS",
@@ -1304,10 +1566,11 @@
     "launchPrice": 4800,
     "apertureMax": "f/2.8",
     "filterSizeMm": "52mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20mm-f28-af-air"
   },
   {
-    "id": 8020,
+    "id": "8020",
     "brand": "Sigma",
     "modelName": "24mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -1315,10 +1578,11 @@
     "launchPrice": 24900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "24mm-f14-dg-dn-art"
   },
   {
-    "id": 8021,
+    "id": "8021",
     "brand": "Sigma",
     "modelName": "24mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1326,10 +1590,11 @@
     "launchPrice": 27600,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f14-dg-hsm-art"
   },
   {
-    "id": 8022,
+    "id": "8022",
     "brand": "Sony",
     "modelName": "24mm F1.4 GM",
     "gearType": "LENS",
@@ -1337,10 +1602,11 @@
     "launchPrice": 44980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "24mm-f14-gm"
   },
   {
-    "id": 8024,
+    "id": "8024",
     "brand": "Samyang",
     "modelName": "24mm F1.8 AF",
     "gearType": "LENS",
@@ -1348,10 +1614,11 @@
     "launchPrice": 15000,
     "apertureMax": "f/1.8",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f18-af"
   },
   {
-    "id": 8025,
+    "id": "8025",
     "brand": "Viltrox",
     "modelName": "24mm F1.8 AF STM",
     "gearType": "LENS",
@@ -1359,10 +1626,11 @@
     "launchPrice": 11800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f18-af-stm"
   },
   {
-    "id": 8026,
+    "id": "8026",
     "brand": "Samyang",
     "modelName": "24mm T1.9 V-AF",
     "gearType": "LENS",
@@ -1370,10 +1638,11 @@
     "launchPrice": 21900,
     "apertureMax": "T/1.9",
     "filterSizeMm": "58mm",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "24mm-t19-v-af"
   },
   {
-    "id": 8027,
+    "id": "8027",
     "brand": "Sigma",
     "modelName": "24mm F2.0 DG DN C",
     "gearType": "LENS",
@@ -1381,10 +1650,11 @@
     "launchPrice": 19170,
     "apertureMax": "f/2.0",
     "filterSizeMm": "62mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "24mm-f20-dg-dn-c"
   },
   {
-    "id": 8028,
+    "id": "8028",
     "brand": "Samyang",
     "modelName": "24mm F2.8 AF",
     "gearType": "LENS",
@@ -1392,10 +1662,11 @@
     "launchPrice": 11000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f28-af"
   },
   {
-    "id": 8029,
+    "id": "8029",
     "brand": "Sony",
     "modelName": "24mm F2.8 G",
     "gearType": "LENS",
@@ -1403,10 +1674,11 @@
     "launchPrice": 18980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "49mm",
-    "series": "G"
+    "series": "G",
+    "slug": "24mm-f28-g"
   },
   {
-    "id": 8030,
+    "id": "8030",
     "brand": "Tamron",
     "modelName": "24mm F2.8 Di III OSD F051",
     "gearType": "LENS",
@@ -1414,10 +1686,11 @@
     "launchPrice": 10000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f28-di-iii-osd-f051"
   },
   {
-    "id": 8031,
+    "id": "8031",
     "brand": "Sigma",
     "modelName": "24mm F3.5 DG DN C",
     "gearType": "LENS",
@@ -1425,10 +1698,11 @@
     "launchPrice": 16470,
     "apertureMax": "f/3.5",
     "filterSizeMm": "55mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "24mm-f35-dg-dn-c"
   },
   {
-    "id": 8032,
+    "id": "8032",
     "brand": "Zeiss",
     "modelName": "25mm F2.0",
     "gearType": "LENS",
@@ -1436,10 +1710,11 @@
     "launchPrice": 33500,
     "apertureMax": "f/2.0",
     "filterSizeMm": "67mm",
-    "series": "Batis"
+    "series": "Batis",
+    "slug": "25mm-f20"
   },
   {
-    "id": 8033,
+    "id": "8033",
     "brand": "Sigma",
     "modelName": "28mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1447,10 +1722,11 @@
     "launchPrice": 35500,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28mm-f14-dg-hsm-art"
   },
   {
-    "id": 8034,
+    "id": "8034",
     "brand": "Viltrox",
     "modelName": "28mm F1.8 AF STM",
     "gearType": "LENS",
@@ -1458,10 +1734,11 @@
     "launchPrice": 12000,
     "apertureMax": "f/1.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28mm-f18-af-stm"
   },
   {
-    "id": 8035,
+    "id": "8035",
     "brand": "Sony",
     "modelName": "28mm F2.0",
     "gearType": "LENS",
@@ -1469,10 +1746,11 @@
     "launchPrice": 12980,
     "apertureMax": "f/2.0",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28mm-f20"
   },
   {
-    "id": 8036,
+    "id": "8036",
     "brand": "Viltrox",
     "modelName": "28mm F4.5 AF Chip",
     "gearType": "LENS",
@@ -1480,10 +1758,11 @@
     "launchPrice": 2480,
     "apertureMax": "f/4.5",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28mm-f45-af-chip"
   },
   {
-    "id": 8037,
+    "id": "8037",
     "brand": "Sigma",
     "modelName": "35mm F1.2 DG DN Art",
     "gearType": "LENS",
@@ -1491,10 +1770,11 @@
     "launchPrice": 43500,
     "apertureMax": "f/1.2",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "35mm-f12-dg-dn-art"
   },
   {
-    "id": 8038,
+    "id": "8038",
     "brand": "Sigma",
     "modelName": "35mm F1.2 DG DN Art II",
     "gearType": "LENS",
@@ -1502,10 +1782,11 @@
     "launchPrice": 49880,
     "apertureMax": "f/1.2",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "35mm-f12-dg-dn-art-ii"
   },
   {
-    "id": 8039,
+    "id": "8039",
     "brand": "Viltrox",
     "modelName": "35mm F1.2 AF LAB",
     "gearType": "LENS",
@@ -1513,10 +1794,11 @@
     "launchPrice": 24988,
     "apertureMax": "f/1.2",
     "filterSizeMm": "77mm",
-    "series": "LAB"
+    "series": "LAB",
+    "slug": "35mm-f12-af-lab"
   },
   {
-    "id": 8040,
+    "id": "8040",
     "brand": "Samyang",
     "modelName": "35mm F1.4 AF",
     "gearType": "LENS",
@@ -1524,10 +1806,11 @@
     "launchPrice": 20900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f14-af"
   },
   {
-    "id": 8041,
+    "id": "8041",
     "brand": "Samyang",
     "modelName": "35mm F1.4 AF II",
     "gearType": "LENS",
@@ -1535,10 +1818,11 @@
     "launchPrice": 22200,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f14-af-ii"
   },
   {
-    "id": 8042,
+    "id": "8042",
     "brand": "Samyang",
     "modelName": "35mm F1.4 AF P",
     "gearType": "LENS",
@@ -1546,10 +1830,11 @@
     "launchPrice": 22200,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f14-af-p"
   },
   {
-    "id": 8044,
+    "id": "8044",
     "brand": "Sigma",
     "modelName": "35mm F1.4 DG Art II",
     "gearType": "LENS",
@@ -1557,10 +1842,11 @@
     "launchPrice": 33000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "35mm-f14-dg-art-ii"
   },
   {
-    "id": 8045,
+    "id": "8045",
     "brand": "Sigma",
     "modelName": "35mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1568,10 +1854,11 @@
     "launchPrice": 20900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f14-dg-hsm-art"
   },
   {
-    "id": 8046,
+    "id": "8046",
     "brand": "Sony",
     "modelName": "35mm F1.4 GM",
     "gearType": "LENS",
@@ -1579,10 +1866,11 @@
     "launchPrice": 44980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "35mm-f14-gm"
   },
   {
-    "id": 8047,
+    "id": "8047",
     "brand": "Sony",
     "modelName": "35mm F1.4 ZA",
     "gearType": "LENS",
@@ -1590,10 +1878,11 @@
     "launchPrice": 30980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "35mm-f14-za"
   },
   {
-    "id": 8050,
+    "id": "8050",
     "brand": "Viltrox",
     "modelName": "35mm F1.8 AF",
     "gearType": "LENS",
@@ -1601,10 +1890,11 @@
     "launchPrice": 10800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f18-af"
   },
   {
-    "id": 8049,
+    "id": "8049",
     "brand": "Sony",
     "modelName": "35mm F1.8",
     "gearType": "LENS",
@@ -1612,10 +1902,11 @@
     "launchPrice": 18980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f18"
   },
   {
-    "id": 8051,
+    "id": "8051",
     "brand": "Samyang",
     "modelName": "35mm T1.9 V-AF",
     "gearType": "LENS",
@@ -1623,10 +1914,11 @@
     "launchPrice": 20700,
     "apertureMax": "T/1.9",
     "filterSizeMm": "58mm",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "35mm-t19-v-af"
   },
   {
-    "id": 8052,
+    "id": "8052",
     "brand": "Sigma",
     "modelName": "35mm F2.0 DG DN C",
     "gearType": "LENS",
@@ -1634,10 +1926,11 @@
     "launchPrice": 19170,
     "apertureMax": "f/2.0",
     "filterSizeMm": "58mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "35mm-f20-dg-dn-c"
   },
   {
-    "id": 8053,
+    "id": "8053",
     "brand": "Yongnuo",
     "modelName": "35mm F2.0 S DF DSM",
     "gearType": "LENS",
@@ -1645,10 +1938,11 @@
     "launchPrice": 6000,
     "apertureMax": "f/2.0",
     "filterSizeMm": "52mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f20-s-df-dsm"
   },
   {
-    "id": 8054,
+    "id": "8054",
     "brand": "Samyang",
     "modelName": "35mm F2.8 AF",
     "gearType": "LENS",
@@ -1656,10 +1950,11 @@
     "launchPrice": 10580,
     "apertureMax": "f/2.8",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f28-af"
   },
   {
-    "id": 8055,
+    "id": "8055",
     "brand": "Sony",
     "modelName": "35mm F2.8 ZA",
     "gearType": "LENS",
@@ -1667,10 +1962,11 @@
     "launchPrice": 23980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "49mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "35mm-f28-za"
   },
   {
-    "id": 8056,
+    "id": "8056",
     "brand": "Tamron",
     "modelName": "35mm F2.8 Di III OSD F053",
     "gearType": "LENS",
@@ -1678,10 +1974,11 @@
     "launchPrice": 10000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f28-di-iii-osd-f053"
   },
   {
-    "id": 8057,
+    "id": "8057",
     "brand": "Sigma",
     "modelName": "40mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1689,10 +1986,11 @@
     "launchPrice": 35500,
     "apertureMax": "f/1.4",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "40mm-f14-dg-hsm-art"
   },
   {
-    "id": 8058,
+    "id": "8058",
     "brand": "Zeiss",
     "modelName": "40mm F2.0 CF",
     "gearType": "LENS",
@@ -1700,10 +1998,11 @@
     "launchPrice": 38000,
     "apertureMax": "f/2.0",
     "filterSizeMm": "67mm",
-    "series": "Batis"
+    "series": "Batis",
+    "slug": "40mm-f20-cf"
   },
   {
-    "id": 8059,
+    "id": "8059",
     "brand": "Sony",
     "modelName": "40mm F2.5 G",
     "gearType": "LENS",
@@ -1711,10 +2010,11 @@
     "launchPrice": 18980,
     "apertureMax": "f/2.5",
     "filterSizeMm": "49mm",
-    "series": "G"
+    "series": "G",
+    "slug": "40mm-f25-g"
   },
   {
-    "id": 8060,
+    "id": "8060",
     "brand": "Viltrox",
     "modelName": "40mm F2.5 AF Air",
     "gearType": "LENS",
@@ -1722,10 +2022,11 @@
     "launchPrice": 4150,
     "apertureMax": "f/2.5",
     "filterSizeMm": "52mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "40mm-f25-af-air"
   },
   {
-    "id": 8061,
+    "id": "8061",
     "brand": "Samyang",
     "modelName": "45mm F1.8 AF",
     "gearType": "LENS",
@@ -1733,10 +2034,11 @@
     "launchPrice": 13000,
     "apertureMax": "f/1.8",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "45mm-f18-af"
   },
   {
-    "id": 8062,
+    "id": "8062",
     "brand": "Sigma",
     "modelName": "45mm F2.8 DG DN C",
     "gearType": "LENS",
@@ -1744,10 +2046,11 @@
     "launchPrice": 16200,
     "apertureMax": "f/2.8",
     "filterSizeMm": "55mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "45mm-f28-dg-dn-c"
   },
   {
-    "id": 8063,
+    "id": "8063",
     "brand": "Samyang",
     "modelName": "45mm T1.9 V-AF",
     "gearType": "LENS",
@@ -1755,10 +2058,11 @@
     "launchPrice": 20999,
     "apertureMax": "T/1.9",
     "filterSizeMm": "58mm",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "45mm-t19-v-af"
   },
   {
-    "id": 8064,
+    "id": "8064",
     "brand": "Sigma",
     "modelName": "50mm F1.2 DG DN Art",
     "gearType": "LENS",
@@ -1766,10 +2070,11 @@
     "launchPrice": 46980,
     "apertureMax": "f/1.2",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "50mm-f12-dg-dn-art"
   },
   {
-    "id": 8065,
+    "id": "8065",
     "brand": "Sony",
     "modelName": "50mm F1.2 GM",
     "gearType": "LENS",
@@ -1777,10 +2082,11 @@
     "launchPrice": 59980,
     "apertureMax": "f/1.2",
     "filterSizeMm": "72mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "50mm-f12-gm"
   },
   {
-    "id": 8066,
+    "id": "8066",
     "brand": "Samyang",
     "modelName": "50mm F1.4 AF",
     "gearType": "LENS",
@@ -1788,10 +2094,11 @@
     "launchPrice": 19980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f14-af"
   },
   {
-    "id": 8067,
+    "id": "8067",
     "brand": "Samyang",
     "modelName": "50mm F1.4 AF II",
     "gearType": "LENS",
@@ -1799,10 +2106,11 @@
     "launchPrice": 21000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f14-af-ii"
   },
   {
-    "id": 8069,
+    "id": "8069",
     "brand": "Sigma",
     "modelName": "50mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -1810,10 +2118,11 @@
     "launchPrice": 24900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f14-dg-hsm-art"
   },
   {
-    "id": 8070,
+    "id": "8070",
     "brand": "Sony",
     "modelName": "50mm F1.4 GM",
     "gearType": "LENS",
@@ -1821,10 +2130,11 @@
     "launchPrice": 41980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "67mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "50mm-f14-gm"
   },
   {
-    "id": 8071,
+    "id": "8071",
     "brand": "Sony",
     "modelName": "50mm F1.4 ZA",
     "gearType": "LENS",
@@ -1832,10 +2142,11 @@
     "launchPrice": 52980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "50mm-f14-za"
   },
   {
-    "id": 8072,
+    "id": "8072",
     "brand": "Viltrox",
     "modelName": "50mm F1.4 Pro",
     "gearType": "LENS",
@@ -1843,10 +2154,11 @@
     "launchPrice": 13200,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "Pro"
+    "series": "Pro",
+    "slug": "50mm-f14-pro"
   },
   {
-    "id": 8075,
+    "id": "8075",
     "brand": "Viltrox",
     "modelName": "50mm F1.8 AF",
     "gearType": "LENS",
@@ -1854,10 +2166,11 @@
     "launchPrice": 9400,
     "apertureMax": "f/1.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f18-af"
   },
   {
-    "id": 8076,
+    "id": "8076",
     "brand": "Yongnuo",
     "modelName": "50mm F1.8 S DF DSM",
     "gearType": "LENS",
@@ -1865,10 +2178,11 @@
     "launchPrice": 8600,
     "apertureMax": "f/1.8",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f18-s-df-dsm"
   },
   {
-    "id": 8077,
+    "id": "8077",
     "brand": "Sirui",
     "modelName": "50mm T1.8 1.33x",
     "gearType": "LENS",
@@ -1876,10 +2190,11 @@
     "launchPrice": 24000,
     "apertureMax": "T/1.8",
     "filterSizeMm": "67mm",
-    "series": "Astra"
+    "series": "Astra",
+    "slug": "50mm-t18-133x"
   },
   {
-    "id": 8078,
+    "id": "8078",
     "brand": "Sigma",
     "modelName": "50mm F2.0 DG DN C",
     "gearType": "LENS",
@@ -1887,10 +2202,11 @@
     "launchPrice": 19800,
     "apertureMax": "f/2.0",
     "filterSizeMm": "58mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "50mm-f20-dg-dn-c"
   },
   {
-    "id": 8079,
+    "id": "8079",
     "brand": "Viltrox",
     "modelName": "50mm F2.0 AF Air",
     "gearType": "LENS",
@@ -1898,10 +2214,11 @@
     "launchPrice": 5250,
     "apertureMax": "f/2.0",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f20-af-air"
   },
   {
-    "id": 8080,
+    "id": "8080",
     "brand": "Sony",
     "modelName": "50mm F2.5 G",
     "gearType": "LENS",
@@ -1909,10 +2226,11 @@
     "launchPrice": 18980,
     "apertureMax": "f/2.5",
     "filterSizeMm": "49mm",
-    "series": "G"
+    "series": "G",
+    "slug": "50mm-f25-g"
   },
   {
-    "id": 8081,
+    "id": "8081",
     "brand": "Sony",
     "modelName": "50mm F2.8 Marcro",
     "gearType": "LENS",
@@ -1920,10 +2238,11 @@
     "launchPrice": 14980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f28-marcro"
   },
   {
-    "id": 8082,
+    "id": "8082",
     "brand": "Sony",
     "modelName": "55mm F1.8 ZA",
     "gearType": "LENS",
@@ -1931,10 +2250,11 @@
     "launchPrice": 29980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "49mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "55mm-f18-za"
   },
   {
-    "id": 8083,
+    "id": "8083",
     "brand": "Sigma",
     "modelName": "65mm F2.0 DG DN C",
     "gearType": "LENS",
@@ -1942,10 +2262,11 @@
     "launchPrice": 20970,
     "apertureMax": "f/2.0",
     "filterSizeMm": "62mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "65mm-f20-dg-dn-c"
   },
   {
-    "id": 8084,
+    "id": "8084",
     "brand": "Sigma",
     "modelName": "70mm F2.8 DG Macro Art",
     "gearType": "LENS",
@@ -1953,10 +2274,11 @@
     "launchPrice": 15900,
     "apertureMax": "f/2.8",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "70mm-f28-dg-macro-art"
   },
   {
-    "id": 8085,
+    "id": "8085",
     "brand": "Samyang",
     "modelName": "75mm F1.8 AF",
     "gearType": "LENS",
@@ -1964,10 +2286,11 @@
     "launchPrice": 13800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "75mm-f18-af"
   },
   {
-    "id": 8086,
+    "id": "8086",
     "brand": "Sirui",
     "modelName": "75mm T1.8 1.33x",
     "gearType": "LENS",
@@ -1975,10 +2298,11 @@
     "launchPrice": 24000,
     "apertureMax": "T/1.8",
     "filterSizeMm": "67mm",
-    "series": "Astra"
+    "series": "Astra",
+    "slug": "75mm-t18-133x"
   },
   {
-    "id": 8087,
+    "id": "8087",
     "brand": "Samyang",
     "modelName": "75mm T1.9 V-AF",
     "gearType": "LENS",
@@ -1986,10 +2310,11 @@
     "launchPrice": 19900,
     "apertureMax": "T/1.9",
     "filterSizeMm": "58mm",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "75mm-t19-v-af"
   },
   {
-    "id": 8088,
+    "id": "8088",
     "brand": "Meike",
     "modelName": "85mm F1.4 AF STM",
     "gearType": "LENS",
@@ -1997,10 +2322,11 @@
     "launchPrice": 15000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f14-af-stm"
   },
   {
-    "id": 8089,
+    "id": "8089",
     "brand": "Samyang",
     "modelName": "85mm F1.4 AF",
     "gearType": "LENS",
@@ -2008,10 +2334,11 @@
     "launchPrice": 21000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f14-af"
   },
   {
-    "id": 8090,
+    "id": "8090",
     "brand": "Samyang",
     "modelName": "85mm F1.4 AF II",
     "gearType": "LENS",
@@ -2019,10 +2346,11 @@
     "launchPrice": 24999,
     "apertureMax": "f/1.4",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f14-af-ii"
   },
   {
-    "id": 8092,
+    "id": "8092",
     "brand": "Sigma",
     "modelName": "85mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -2030,10 +2358,11 @@
     "launchPrice": 29900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "86mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f14-dg-hsm-art"
   },
   {
-    "id": 8093,
+    "id": "8093",
     "brand": "Sony",
     "modelName": "85mm F1.4 GM",
     "gearType": "LENS",
@@ -2041,10 +2370,11 @@
     "launchPrice": 49980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "85mm-f14-gm"
   },
   {
-    "id": 8094,
+    "id": "8094",
     "brand": "Sony",
     "modelName": "85mm F1.4 GM II",
     "gearType": "LENS",
@@ -2052,10 +2382,11 @@
     "launchPrice": 56980,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "85mm-f14-gm-ii"
   },
   {
-    "id": 8095,
+    "id": "8095",
     "brand": "Viltrox",
     "modelName": "85mm F1.4 Pro",
     "gearType": "LENS",
@@ -2063,10 +2394,11 @@
     "launchPrice": 14300,
     "apertureMax": "f/1.4",
     "filterSizeMm": "77mm",
-    "series": "Pro"
+    "series": "Pro",
+    "slug": "85mm-f14-pro"
   },
   {
-    "id": 8096,
+    "id": "8096",
     "brand": "7Artisans",
     "modelName": "85mm F1.8 AF",
     "gearType": "LENS",
@@ -2074,10 +2406,11 @@
     "launchPrice": 7800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-af"
   },
   {
-    "id": 8097,
+    "id": "8097",
     "brand": "Meike",
     "modelName": "85mm F1.8 STM",
     "gearType": "LENS",
@@ -2085,10 +2418,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-stm"
   },
   {
-    "id": 8103,
+    "id": "8103",
     "brand": "Zeiss",
     "modelName": "85mm F1.8",
     "gearType": "LENS",
@@ -2096,10 +2430,11 @@
     "launchPrice": 32500,
     "apertureMax": "f/1.8",
     "filterSizeMm": "67mm",
-    "series": "Batis"
+    "series": "Batis",
+    "slug": "85mm-f18"
   },
   {
-    "id": 8099,
+    "id": "8099",
     "brand": "Tokina",
     "modelName": "85mm F1.8 FE ATX-M",
     "gearType": "LENS",
@@ -2107,10 +2442,11 @@
     "launchPrice": 15000,
     "apertureMax": "f/1.8",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-fe-atx-m"
   },
   {
-    "id": 8100,
+    "id": "8100",
     "brand": "Viltrox",
     "modelName": "85mm F1.8 AF STM",
     "gearType": "LENS",
@@ -2118,10 +2454,11 @@
     "launchPrice": 10800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-af-stm"
   },
   {
-    "id": 8101,
+    "id": "8101",
     "brand": "Viltrox",
     "modelName": "85mm F1.8 AF STM II",
     "gearType": "LENS",
@@ -2129,10 +2466,11 @@
     "launchPrice": 10800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-af-stm-ii"
   },
   {
-    "id": 8102,
+    "id": "8102",
     "brand": "Yongnuo",
     "modelName": "85mm F1.8 S DF DSM",
     "gearType": "LENS",
@@ -2140,10 +2478,11 @@
     "launchPrice": 9899,
     "apertureMax": "f/1.8",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f18-s-df-dsm"
   },
   {
-    "id": 8104,
+    "id": "8104",
     "brand": "Viltrox",
     "modelName": "85mm F2.0 EVO",
     "gearType": "LENS",
@@ -2151,10 +2490,11 @@
     "launchPrice": 8500,
     "apertureMax": "f/2.0",
     "filterSizeMm": "58mm",
-    "series": "EVO"
+    "series": "EVO",
+    "slug": "85mm-f20-evo"
   },
   {
-    "id": 8105,
+    "id": "8105",
     "brand": "Sigma",
     "modelName": "90mm F2.8 DG DN C",
     "gearType": "LENS",
@@ -2162,10 +2502,11 @@
     "launchPrice": 19170,
     "apertureMax": "f/2.8",
     "filterSizeMm": "55mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "90mm-f28-dg-dn-c"
   },
   {
-    "id": 8106,
+    "id": "8106",
     "brand": "Sony",
     "modelName": "90mm F2.8 G Macro OSS",
     "gearType": "LENS",
@@ -2173,10 +2514,11 @@
     "launchPrice": 28980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "62mm",
-    "series": "G"
+    "series": "G",
+    "slug": "90mm-f28-g-macro-oss"
   },
   {
-    "id": 8107,
+    "id": "8107",
     "brand": "Tamron",
     "modelName": "90mm F2.8 Di III Macro VXD",
     "gearType": "LENS",
@@ -2184,10 +2526,11 @@
     "launchPrice": 21000,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "90mm-f28-di-iii-macro-vxd"
   },
   {
-    "id": 8108,
+    "id": "8108",
     "brand": "Sirui",
     "modelName": "100mm T1.8 1.33x",
     "gearType": "LENS",
@@ -2195,10 +2538,11 @@
     "launchPrice": 24000,
     "apertureMax": "T/1.8",
     "filterSizeMm": "67mm",
-    "series": "Astra"
+    "series": "Astra",
+    "slug": "100mm-t18-133x"
   },
   {
-    "id": 8109,
+    "id": "8109",
     "brand": "Samyang",
     "modelName": "100mm T2.3 V-AF",
     "gearType": "LENS",
@@ -2206,10 +2550,11 @@
     "launchPrice": 0,
     "apertureMax": "T/2.3",
     "filterSizeMm": "58mm",
-    "series": "V-AF"
+    "series": "V-AF",
+    "slug": "100mm-t23-v-af"
   },
   {
-    "id": 8110,
+    "id": "8110",
     "brand": "Sony",
     "modelName": "100mm F2.8 GM OSS STF",
     "gearType": "LENS",
@@ -2217,10 +2562,11 @@
     "launchPrice": 44980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "72mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "100mm-f28-gm-oss-stf"
   },
   {
-    "id": 8111,
+    "id": "8111",
     "brand": "Sony",
     "modelName": "100mm F2.8 GM OSS Marco",
     "gearType": "LENS",
@@ -2228,10 +2574,11 @@
     "launchPrice": 41980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "100mm-f28-gm-oss-marco"
   },
   {
-    "id": 8112,
+    "id": "8112",
     "brand": "Tokina",
     "modelName": "100mm F2.8 FE Macro FiRIN",
     "gearType": "LENS",
@@ -2239,10 +2586,11 @@
     "launchPrice": 19800,
     "apertureMax": "f/2.8",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "100mm-f28-fe-macro-firin"
   },
   {
-    "id": 8113,
+    "id": "8113",
     "brand": "Sigma",
     "modelName": "105mm F1.4 DG HSM Art",
     "gearType": "LENS",
@@ -2250,10 +2598,11 @@
     "launchPrice": 45900,
     "apertureMax": "f/1.4",
     "filterSizeMm": "105mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "105mm-f14-dg-hsm-art"
   },
   {
-    "id": 8115,
+    "id": "8115",
     "brand": "Sigma",
     "modelName": "135mm F1.4 DG DN Art",
     "gearType": "LENS",
@@ -2261,10 +2610,11 @@
     "launchPrice": 58000,
     "apertureMax": "f/1.4",
     "filterSizeMm": "105mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "135mm-f14-dg-dn-art"
   },
   {
-    "id": 8116,
+    "id": "8116",
     "brand": "Samyang",
     "modelName": "135mm F1.8 AF",
     "gearType": "LENS",
@@ -2272,10 +2622,11 @@
     "launchPrice": 32800,
     "apertureMax": "f/1.8",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "135mm-f18-af"
   },
   {
-    "id": 8117,
+    "id": "8117",
     "brand": "Sigma",
     "modelName": "135mm F1.8 DG HSM Art",
     "gearType": "LENS",
@@ -2283,10 +2634,11 @@
     "launchPrice": 33900,
     "apertureMax": "f/1.8",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "135mm-f18-dg-hsm-art"
   },
   {
-    "id": 8118,
+    "id": "8118",
     "brand": "Sony",
     "modelName": "135mm F1.8 GM",
     "gearType": "LENS",
@@ -2294,10 +2646,11 @@
     "launchPrice": 52980,
     "apertureMax": "f/1.8",
     "filterSizeMm": "82mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "135mm-f18-gm"
   },
   {
-    "id": 8119,
+    "id": "8119",
     "brand": "Viltrox",
     "modelName": "135mm F1.8 AF LAB",
     "gearType": "LENS",
@@ -2305,10 +2658,11 @@
     "launchPrice": 25200,
     "apertureMax": "f/1.8",
     "filterSizeMm": "82mm",
-    "series": "LAB"
+    "series": "LAB",
+    "slug": "135mm-f18-af-lab"
   },
   {
-    "id": 8120,
+    "id": "8120",
     "brand": "Zeiss",
     "modelName": "135mm F2.8 APO",
     "gearType": "LENS",
@@ -2316,10 +2670,11 @@
     "launchPrice": 52500,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "Batis"
+    "series": "Batis",
+    "slug": "135mm-f28-apo"
   },
   {
-    "id": 8121,
+    "id": "8121",
     "brand": "Laowa",
     "modelName": "180mm F4.5 CA-Dreamer Macro",
     "gearType": "LENS",
@@ -2327,10 +2682,11 @@
     "launchPrice": 14000,
     "apertureMax": "f/4.5",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "180mm-f45-ca-dreamer-macro"
   },
   {
-    "id": 8122,
+    "id": "8122",
     "brand": "Laowa",
     "modelName": "200mm F2.0 C-Dreamer",
     "gearType": "LENS",
@@ -2338,10 +2694,11 @@
     "launchPrice": 62000,
     "apertureMax": "f/2.0",
     "filterSizeMm": "43mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "200mm-f20-c-dreamer"
   },
   {
-    "id": 8123,
+    "id": "8123",
     "brand": "Sigma",
     "modelName": "200mm F2.0 DG OS Sports",
     "gearType": "LENS",
@@ -2349,10 +2706,11 @@
     "launchPrice": 99800,
     "apertureMax": "f/2.0",
     "filterSizeMm": "105mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "200mm-f20-dg-os-sports"
   },
   {
-    "id": 8124,
+    "id": "8124",
     "brand": "Sony",
     "modelName": "300mm F2.8 GM OSS",
     "gearType": "LENS",
@@ -2360,10 +2718,11 @@
     "launchPrice": 174980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "41mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "300mm-f28-gm-oss"
   },
   {
-    "id": 8125,
+    "id": "8125",
     "brand": "Sony",
     "modelName": "400mm F2.8 GM OSS",
     "gearType": "LENS",
@@ -2371,10 +2730,11 @@
     "launchPrice": 359980,
     "apertureMax": "f/2.8",
     "filterSizeMm": "41mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "400mm-f28-gm-oss"
   },
   {
-    "id": 8126,
+    "id": "8126",
     "brand": "Sigma",
     "modelName": "500mm F5.6 DG DN OS Sport",
     "gearType": "LENS",
@@ -2382,10 +2742,11 @@
     "launchPrice": 97880,
     "apertureMax": "f/5.6",
     "filterSizeMm": "95mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "500mm-f56-dg-dn-os-sport"
   },
   {
-    "id": 8127,
+    "id": "8127",
     "brand": "Sony",
     "modelName": "600mm F4.0 GM OSS",
     "gearType": "LENS",
@@ -2393,10 +2754,11 @@
     "launchPrice": 419980,
     "apertureMax": "f/4.0",
     "filterSizeMm": "41mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "600mm-f40-gm-oss"
   },
   {
-    "id": 8128,
+    "id": "8128",
     "brand": "Sony",
     "modelName": "12-24mm F2.8 GM",
     "gearType": "LENS",
@@ -2404,10 +2766,11 @@
     "launchPrice": 85980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "x",
-    "series": "GM"
+    "series": "GM",
+    "slug": "12-24mm-f28-gm"
   },
   {
-    "id": 8129,
+    "id": "8129",
     "brand": "Sony",
     "modelName": "12-24mm F4 G",
     "gearType": "LENS",
@@ -2415,10 +2778,11 @@
     "launchPrice": 51980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "x",
-    "series": "G"
+    "series": "G",
+    "slug": "12-24mm-f4-g"
   },
   {
-    "id": 8130,
+    "id": "8130",
     "brand": "Samyang",
     "modelName": "14-24mm F2.8 AF",
     "gearType": "LENS",
@@ -2426,10 +2790,11 @@
     "launchPrice": 42990,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "14-24mm-f28-af"
   },
   {
-    "id": 8132,
+    "id": "8132",
     "brand": "Sony",
     "modelName": "16-25mm F2.8 G",
     "gearType": "LENS",
@@ -2437,10 +2802,11 @@
     "launchPrice": 38980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "G"
+    "series": "G",
+    "slug": "16-25mm-f28-g"
   },
   {
-    "id": 8133,
+    "id": "8133",
     "brand": "Sigma",
     "modelName": "16-28mm F2.8 DG DN C",
     "gearType": "LENS",
@@ -2448,10 +2814,11 @@
     "launchPrice": 27800,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "16-28mm-f28-dg-dn-c"
   },
   {
-    "id": 8134,
+    "id": "8134",
     "brand": "Tamron",
     "modelName": "16-30mm F2.8 Di III VXD G2 A064",
     "gearType": "LENS",
@@ -2459,10 +2826,11 @@
     "launchPrice": 29900,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "16-30mm-f28-di-iii-vxd-g2-a064"
   },
   {
-    "id": 8135,
+    "id": "8135",
     "brand": "Sony",
     "modelName": "16-35mm F2.8 GM",
     "gearType": "LENS",
@@ -2470,10 +2838,11 @@
     "launchPrice": 67980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "16-35mm-f28-gm"
   },
   {
-    "id": 8136,
+    "id": "8136",
     "brand": "Sony",
     "modelName": "16-35mm F2.8 GM II",
     "gearType": "LENS",
@@ -2481,10 +2850,11 @@
     "launchPrice": 69980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "16-35mm-f28-gm-ii"
   },
   {
-    "id": 8137,
+    "id": "8137",
     "brand": "Sony",
     "modelName": "16-35mm T3.1 G",
     "gearType": "LENS",
@@ -2492,10 +2862,11 @@
     "launchPrice": 179980,
     "apertureMax": "T/3.1-3.1",
     "filterSizeMm": "x",
-    "series": "G"
+    "series": "G",
+    "slug": "16-35mm-t31-g"
   },
   {
-    "id": 8138,
+    "id": "8138",
     "brand": "Sony",
     "modelName": "16-35mm F4 ZA OSS",
     "gearType": "LENS",
@@ -2503,10 +2874,11 @@
     "launchPrice": 36980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "72mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "16-35mm-f4-za-oss"
   },
   {
-    "id": 8139,
+    "id": "8139",
     "brand": "Sony",
     "modelName": "16-35mm F4 G PZ",
     "gearType": "LENS",
@@ -2514,10 +2886,11 @@
     "launchPrice": 36980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "72mm",
-    "series": "G"
+    "series": "G",
+    "slug": "16-35mm-f4-g-pz"
   },
   {
-    "id": 8140,
+    "id": "8140",
     "brand": "Tamron",
     "modelName": "17-28mm F2.8 Di III RXD A046",
     "gearType": "LENS",
@@ -2525,10 +2898,11 @@
     "launchPrice": 29200,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "17-28mm-f28-di-iii-rxd-a046"
   },
   {
-    "id": 8141,
+    "id": "8141",
     "brand": "Tamron",
     "modelName": "17-50mm F4 Di III RXD A068",
     "gearType": "LENS",
@@ -2536,10 +2910,11 @@
     "launchPrice": 24800,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "17-50mm-f4-di-iii-rxd-a068"
   },
   {
-    "id": 8142,
+    "id": "8142",
     "brand": "Tamron",
     "modelName": "20-40mm F2.8 Di III VXD A062   20-40mm F2.8 Di III VXD A062",
     "gearType": "LENS",
@@ -2547,10 +2922,11 @@
     "launchPrice": 24800,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20-40mm-f28-di-iii-vxd-a062-20-40mm-f28-di-iii-vxd-a062"
   },
   {
-    "id": 8143,
+    "id": "8143",
     "brand": "Sony",
     "modelName": "20-70mm F4 G",
     "gearType": "LENS",
@@ -2558,10 +2934,11 @@
     "launchPrice": 33980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "72mm",
-    "series": "G"
+    "series": "G",
+    "slug": "20-70mm-f4-g"
   },
   {
-    "id": 8144,
+    "id": "8144",
     "brand": "Sigma",
     "modelName": "20-200mm F3.5-6.3 DG C",
     "gearType": "LENS",
@@ -2569,10 +2946,11 @@
     "launchPrice": 29800,
     "apertureMax": "f/3.5-6.3",
     "filterSizeMm": "72mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "20-200mm-f35-63-dg-c"
   },
   {
-    "id": 8145,
+    "id": "8145",
     "brand": "Sony",
     "modelName": "24-50mm F2.8 G",
     "gearType": "LENS",
@@ -2580,10 +2958,11 @@
     "launchPrice": 35000,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "G"
+    "series": "G",
+    "slug": "24-50mm-f28-g"
   },
   {
-    "id": 8146,
+    "id": "8146",
     "brand": "Samyang",
     "modelName": "24-70mm F2.8 AF",
     "gearType": "LENS",
@@ -2591,10 +2970,11 @@
     "launchPrice": 23500,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24-70mm-f28-af"
   },
   {
-    "id": 8147,
+    "id": "8147",
     "brand": "Sigma",
     "modelName": "24-70mm F2.8 DG DN Art",
     "gearType": "LENS",
@@ -2602,10 +2982,11 @@
     "launchPrice": 33900,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "24-70mm-f28-dg-dn-art"
   },
   {
-    "id": 8149,
+    "id": "8149",
     "brand": "Sony",
     "modelName": "24-70mm F2.8 GM",
     "gearType": "LENS",
@@ -2613,10 +2994,11 @@
     "launchPrice": 61980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "24-70mm-f28-gm"
   },
   {
-    "id": 8150,
+    "id": "8150",
     "brand": "Sony",
     "modelName": "24-70mm F2.8 GM II",
     "gearType": "LENS",
@@ -2624,10 +3006,11 @@
     "launchPrice": 55980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "24-70mm-f28-gm-ii"
   },
   {
-    "id": 8151,
+    "id": "8151",
     "brand": "Sony",
     "modelName": "24-70mm F4 ZA OSS",
     "gearType": "LENS",
@@ -2635,10 +3018,11 @@
     "launchPrice": 28980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "67mm",
-    "series": "ZA"
+    "series": "ZA",
+    "slug": "24-70mm-f4-za-oss"
   },
   {
-    "id": 8152,
+    "id": "8152",
     "brand": "Sony",
     "modelName": "24-105mm F4 G",
     "gearType": "LENS",
@@ -2646,10 +3030,11 @@
     "launchPrice": 41980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "77mm",
-    "series": "G"
+    "series": "G",
+    "slug": "24-105mm-f4-g"
   },
   {
-    "id": 8153,
+    "id": "8153",
     "brand": "Sony",
     "modelName": "24-240mm F3.5-6.3 OSS",
     "gearType": "LENS",
@@ -2657,10 +3042,11 @@
     "launchPrice": 29980,
     "apertureMax": "f/3.5-6.3",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24-240mm-f35-63-oss"
   },
   {
-    "id": 8154,
+    "id": "8154",
     "brand": "Tamron",
     "modelName": "25-200mm F2.8-5.6 G2 VXD A075",
     "gearType": "LENS",
@@ -2668,10 +3054,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8-5.6",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "25-200mm-f28-56-g2-vxd-a075"
   },
   {
-    "id": 8155,
+    "id": "8155",
     "brand": "Sigma",
     "modelName": "28-45mm F1.8 DG DN Art",
     "gearType": "LENS",
@@ -2679,10 +3066,11 @@
     "launchPrice": 45880,
     "apertureMax": "f/1.8-1.8",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "28-45mm-f18-dg-dn-art"
   },
   {
-    "id": 8156,
+    "id": "8156",
     "brand": "Sony",
     "modelName": "28-60mm F4-5.6",
     "gearType": "LENS",
@@ -2690,10 +3078,11 @@
     "launchPrice": 9000,
     "apertureMax": "f/4.0-5.6",
     "filterSizeMm": "41mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-60mm-f4-56"
   },
   {
-    "id": 8157,
+    "id": "8157",
     "brand": "Sony",
     "modelName": "28-70mm F2.0 GM",
     "gearType": "LENS",
@@ -2701,10 +3090,11 @@
     "launchPrice": 92980,
     "apertureMax": "f/2.0-2.0",
     "filterSizeMm": "86mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "28-70mm-f20-gm"
   },
   {
-    "id": 8158,
+    "id": "8158",
     "brand": "Sigma",
     "modelName": "28-70mm F2.8 DG DN C",
     "gearType": "LENS",
@@ -2712,10 +3102,11 @@
     "launchPrice": 23500,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "28-70mm-f28-dg-dn-c"
   },
   {
-    "id": 8159,
+    "id": "8159",
     "brand": "Sony",
     "modelName": "28-70mm F3.5-5.6 OSS",
     "gearType": "LENS",
@@ -2723,10 +3114,11 @@
     "launchPrice": 14980,
     "apertureMax": "f/3.5-5.6",
     "filterSizeMm": "55mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-70mm-f35-56-oss"
   },
   {
-    "id": 8160,
+    "id": "8160",
     "brand": "Tamron",
     "modelName": "28-75mm F2.8 Di III RXD A036",
     "gearType": "LENS",
@@ -2734,10 +3126,11 @@
     "launchPrice": 26000,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-75mm-f28-di-iii-rxd-a036"
   },
   {
-    "id": 8161,
+    "id": "8161",
     "brand": "Tamron",
     "modelName": "28-75mm F2.8 Di III VXD A063 G2",
     "gearType": "LENS",
@@ -2745,10 +3138,11 @@
     "launchPrice": 23500,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-75mm-f28-di-iii-vxd-a063-g2"
   },
   {
-    "id": 8162,
+    "id": "8162",
     "brand": "Sigma",
     "modelName": "28-105mm F2.8 DG DN Art",
     "gearType": "LENS",
@@ -2756,10 +3150,11 @@
     "launchPrice": 52600,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "82mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "28-105mm-f28-dg-dn-art"
   },
   {
-    "id": 8163,
+    "id": "8163",
     "brand": "Sony",
     "modelName": "28-135mm F4 G OSS PZ",
     "gearType": "LENS",
@@ -2767,10 +3162,11 @@
     "launchPrice": 74980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "95mm",
-    "series": "G"
+    "series": "G",
+    "slug": "28-135mm-f4-g-oss-pz"
   },
   {
-    "id": 8164,
+    "id": "8164",
     "brand": "Tamron",
     "modelName": "28-200mm F2.8-5.6 Di III RXD A071",
     "gearType": "LENS",
@@ -2778,10 +3174,11 @@
     "launchPrice": 20800,
     "apertureMax": "f/2.8-5.6",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-200mm-f28-56-di-iii-rxd-a071"
   },
   {
-    "id": 8165,
+    "id": "8165",
     "brand": "Tamron",
     "modelName": "28-300mm F4.0-7.1 Di III VXD A074",
     "gearType": "LENS",
@@ -2789,10 +3186,11 @@
     "launchPrice": 29800,
     "apertureMax": "f/4.0-7.1",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "28-300mm-f40-71-di-iii-vxd-a074"
   },
   {
-    "id": 8166,
+    "id": "8166",
     "brand": "Tamron",
     "modelName": "35-100mm F2.8 Di III VXD A078",
     "gearType": "LENS",
@@ -2800,10 +3198,11 @@
     "launchPrice": 34000,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35-100mm-f28-di-iii-vxd-a078"
   },
   {
-    "id": 8167,
+    "id": "8167",
     "brand": "Samyang",
     "modelName": "35-150mm F2.0-2.8 AF",
     "gearType": "LENS",
@@ -2811,10 +3210,11 @@
     "launchPrice": 34600,
     "apertureMax": "f/2.0-2.8",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35-150mm-f20-28-af"
   },
   {
-    "id": 8168,
+    "id": "8168",
     "brand": "Tamron",
     "modelName": "35-150mm F2.0-2.8 Di III VXD A058",
     "gearType": "LENS",
@@ -2822,10 +3222,11 @@
     "launchPrice": 45800,
     "apertureMax": "f/2.0-2.8",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35-150mm-f20-28-di-iii-vxd-a058"
   },
   {
-    "id": 8169,
+    "id": "8169",
     "brand": "Sony",
     "modelName": "50-150mm F2.0 GM",
     "gearType": "LENS",
@@ -2833,10 +3234,11 @@
     "launchPrice": 116980,
     "apertureMax": "f/2.0-2.0",
     "filterSizeMm": "95mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "50-150mm-f20-gm"
   },
   {
-    "id": 8170,
+    "id": "8170",
     "brand": "Tamron",
     "modelName": "50-300mm F4.5-6.3 Di III VC VXD A069",
     "gearType": "LENS",
@@ -2844,10 +3246,11 @@
     "launchPrice": 26800,
     "apertureMax": "f/4.5-6.3",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50-300mm-f45-63-di-iii-vc-vxd-a069"
   },
   {
-    "id": 8171,
+    "id": "8171",
     "brand": "Tamron",
     "modelName": "50-400mm F4.5-6.3 Di III VC VXD A067",
     "gearType": "LENS",
@@ -2855,10 +3258,11 @@
     "launchPrice": 40800,
     "apertureMax": "f/4.5-6.3",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50-400mm-f45-63-di-iii-vc-vxd-a067"
   },
   {
-    "id": 8172,
+    "id": "8172",
     "brand": "Sigma",
     "modelName": "60-600mm F4.5-6.3 DG DN OS Sport",
     "gearType": "LENS",
@@ -2866,10 +3270,11 @@
     "launchPrice": 64900,
     "apertureMax": "f/4.5-6.3",
     "filterSizeMm": "105mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "60-600mm-f45-63-dg-dn-os-sport"
   },
   {
-    "id": 8173,
+    "id": "8173",
     "brand": "Tamron",
     "modelName": "70-180mm F2.8 Di III VXD A056",
     "gearType": "LENS",
@@ -2877,10 +3282,11 @@
     "launchPrice": 35800,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "70-180mm-f28-di-iii-vxd-a056"
   },
   {
-    "id": 8174,
+    "id": "8174",
     "brand": "Tamron",
     "modelName": "70-180mm F2.8 Di III VXD A065 G2",
     "gearType": "LENS",
@@ -2888,10 +3294,11 @@
     "launchPrice": 41000,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "70-180mm-f28-di-iii-vxd-a065-g2"
   },
   {
-    "id": 8175,
+    "id": "8175",
     "brand": "Sigma",
     "modelName": "70-200mm F2.8 DG DN Sport",
     "gearType": "LENS",
@@ -2899,10 +3306,11 @@
     "launchPrice": 49800,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "77mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "70-200mm-f28-dg-dn-sport"
   },
   {
-    "id": 8176,
+    "id": "8176",
     "brand": "Sony",
     "modelName": "70-200mm F2.8 GM OSS",
     "gearType": "LENS",
@@ -2910,10 +3318,11 @@
     "launchPrice": 76980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "77mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "70-200mm-f28-gm-oss"
   },
   {
-    "id": 8177,
+    "id": "8177",
     "brand": "Sony",
     "modelName": "70-200mm F2.8 GM OSS II",
     "gearType": "LENS",
@@ -2921,10 +3330,11 @@
     "launchPrice": 76980,
     "apertureMax": "f/2.8-2.8",
     "filterSizeMm": "77mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "70-200mm-f28-gm-oss-ii"
   },
   {
-    "id": 8178,
+    "id": "8178",
     "brand": "Sony",
     "modelName": "70-200mm F4 G OSS",
     "gearType": "LENS",
@@ -2932,10 +3342,11 @@
     "launchPrice": 42980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "72mm",
-    "series": "G"
+    "series": "G",
+    "slug": "70-200mm-f4-g-oss"
   },
   {
-    "id": 8179,
+    "id": "8179",
     "brand": "Sony",
     "modelName": "70-200mm F4 G OSS II",
     "gearType": "LENS",
@@ -2943,10 +3354,11 @@
     "launchPrice": 47980,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "72mm",
-    "series": "G"
+    "series": "G",
+    "slug": "70-200mm-f4-g-oss-ii"
   },
   {
-    "id": 8180,
+    "id": "8180",
     "brand": "Sony",
     "modelName": "70-300mm F4.5-5.6 G OSS",
     "gearType": "LENS",
@@ -2954,10 +3366,11 @@
     "launchPrice": 35980,
     "apertureMax": "f/4.5-5.6",
     "filterSizeMm": "72mm",
-    "series": "G"
+    "series": "G",
+    "slug": "70-300mm-f45-56-g-oss"
   },
   {
-    "id": 8181,
+    "id": "8181",
     "brand": "Tamron",
     "modelName": "70-300mm F4.5-6.3 Di III RXD A047",
     "gearType": "LENS",
@@ -2965,10 +3378,11 @@
     "launchPrice": 13600,
     "apertureMax": "f/4.5-6.3",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "70-300mm-f45-63-di-iii-rxd-a047"
   },
   {
-    "id": 8182,
+    "id": "8182",
     "brand": "Sony",
     "modelName": "100-400mm F4.5-5.6 GM OSS",
     "gearType": "LENS",
@@ -2976,10 +3390,11 @@
     "launchPrice": 75980,
     "apertureMax": "f/4.5-5.6",
     "filterSizeMm": "77mm",
-    "series": "GM"
+    "series": "GM",
+    "slug": "100-400mm-f45-56-gm-oss"
   },
   {
-    "id": 8183,
+    "id": "8183",
     "brand": "Sigma",
     "modelName": "100-400mm F5-6.3 DG DN OS C",
     "gearType": "LENS",
@@ -2987,10 +3402,11 @@
     "launchPrice": 27800,
     "apertureMax": "f/5.6-6.3",
     "filterSizeMm": "67mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "100-400mm-f5-63-dg-dn-os-c"
   },
   {
-    "id": 8185,
+    "id": "8185",
     "brand": "Sigma",
     "modelName": "150-600mm F5-6.3 DG DN OS",
     "gearType": "LENS",
@@ -2998,10 +3414,11 @@
     "launchPrice": 39900,
     "apertureMax": "f/5.0-6.3",
     "filterSizeMm": "95mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "150-600mm-f5-63-dg-dn-os"
   },
   {
-    "id": 8186,
+    "id": "8186",
     "brand": "Sony",
     "modelName": "200-600mm F5.6-6.3 G OSS",
     "gearType": "LENS",
@@ -3009,10 +3426,11 @@
     "launchPrice": 57980,
     "apertureMax": "f/5.6-6.3",
     "filterSizeMm": "95mm",
-    "series": "G"
+    "series": "G",
+    "slug": "200-600mm-f56-63-g-oss"
   },
   {
-    "id": 8187,
+    "id": "8187",
     "brand": "Sigma",
     "modelName": "300-600mm F4.0 DG DN OS Sport",
     "gearType": "LENS",
@@ -3020,10 +3438,11 @@
     "launchPrice": 208000,
     "apertureMax": "f/4.0-4.0",
     "filterSizeMm": "67mm",
-    "series": "DN"
+    "series": "DN",
+    "slug": "300-600mm-f40-dg-dn-os-sport"
   },
   {
-    "id": 8188,
+    "id": "8188",
     "brand": "Sony",
     "modelName": "400-800mm F6.3-8.0 G OSS",
     "gearType": "LENS",
@@ -3031,10 +3450,11 @@
     "launchPrice": 85980,
     "apertureMax": "f/6.3-8.0",
     "filterSizeMm": "105mm",
-    "series": "G"
+    "series": "G",
+    "slug": "400-800mm-f63-80-g-oss"
   },
   {
-    "id": 8189,
+    "id": "8189",
     "brand": "Laowa",
     "modelName": "9mm F5.6 W-Dreamer",
     "gearType": "LENS",
@@ -3042,10 +3462,11 @@
     "launchPrice": 0,
     "apertureMax": "f/5.6",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "9mm-f56-w-dreamer"
   },
   {
-    "id": 8190,
+    "id": "8190",
     "brand": "Voigtlander",
     "modelName": "10mm F5.6",
     "gearType": "LENS",
@@ -3053,10 +3474,11 @@
     "launchPrice": 0,
     "apertureMax": "f/5.6",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "10mm-f56"
   },
   {
-    "id": 8191,
+    "id": "8191",
     "brand": "Laowa",
     "modelName": "11mm F4.5 C-Dreamer",
     "gearType": "LENS",
@@ -3064,10 +3486,11 @@
     "launchPrice": 0,
     "apertureMax": "f/4.5",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "11mm-f45-c-dreamer"
   },
   {
-    "id": 8192,
+    "id": "8192",
     "brand": "Laowa",
     "modelName": "12mm F2.8 ZERO-D",
     "gearType": "LENS",
@@ -3075,10 +3498,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "12mm-f28-zero-d"
   },
   {
-    "id": 8193,
+    "id": "8193",
     "brand": "Voigtlander",
     "modelName": "12mm F5.6 Aspherical",
     "gearType": "LENS",
@@ -3086,10 +3510,11 @@
     "launchPrice": 0,
     "apertureMax": "f/5.6",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "12mm-f56-aspherical"
   },
   {
-    "id": 8194,
+    "id": "8194",
     "brand": "Laowa",
     "modelName": "15mm F2 ZERO-D",
     "gearType": "LENS",
@@ -3097,10 +3522,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "15mm-f2-zero-d"
   },
   {
-    "id": 8195,
+    "id": "8195",
     "brand": "Laowa",
     "modelName": "15mm F4.0 Wide Macro 1:1",
     "gearType": "LENS",
@@ -3108,10 +3534,11 @@
     "launchPrice": 0,
     "apertureMax": "f/4.0",
     "filterSizeMm": "77mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "15mm-f40-wide-macro-11"
   },
   {
-    "id": 8196,
+    "id": "8196",
     "brand": "Voigtlander",
     "modelName": "15mm F4.5 III",
     "gearType": "LENS",
@@ -3119,10 +3546,11 @@
     "launchPrice": 0,
     "apertureMax": "f/4.5",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "15mm-f45-iii"
   },
   {
-    "id": 8197,
+    "id": "8197",
     "brand": "Tokina",
     "modelName": "20mm F2 MF",
     "gearType": "LENS",
@@ -3130,10 +3558,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "20mm-f2-mf"
   },
   {
-    "id": 8198,
+    "id": "8198",
     "brand": "Voigtlander",
     "modelName": "21mm F1.4 Aspherical",
     "gearType": "LENS",
@@ -3141,10 +3570,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.4",
     "filterSizeMm": "52mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "21mm-f14-aspherical"
   },
   {
-    "id": 8199,
+    "id": "8199",
     "brand": "Zeiss",
     "modelName": "21mm F2.8",
     "gearType": "LENS",
@@ -3152,10 +3582,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8",
     "filterSizeMm": "52mm",
-    "series": "Loxia"
+    "series": "Loxia",
+    "slug": "21mm-f28"
   },
   {
-    "id": 8200,
+    "id": "8200",
     "brand": "Voigtlander",
     "modelName": "21mm F3.5 Aspherical",
     "gearType": "LENS",
@@ -3163,10 +3594,11 @@
     "launchPrice": 0,
     "apertureMax": "f/3.5",
     "filterSizeMm": "52mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "21mm-f35-aspherical"
   },
   {
-    "id": 8201,
+    "id": "8201",
     "brand": "Laowa",
     "modelName": "24mm F14 2X Macro Probe",
     "gearType": "LENS",
@@ -3174,10 +3606,11 @@
     "launchPrice": 0,
     "apertureMax": "f/14.0",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "24mm-f14-2x-macro-probe"
   },
   {
-    "id": 8202,
+    "id": "8202",
     "brand": "Zeiss",
     "modelName": "25mm F2.4",
     "gearType": "LENS",
@@ -3185,10 +3618,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.4",
     "filterSizeMm": "52mm",
-    "series": "Loxia"
+    "series": "Loxia",
+    "slug": "25mm-f24"
   },
   {
-    "id": 8203,
+    "id": "8203",
     "brand": "Laowa",
     "modelName": "25mm F2.8 Ultra Macro 2.5-5x",
     "gearType": "LENS",
@@ -3196,10 +3630,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8",
     "filterSizeMm": "x",
-    "series": "nan"
+    "series": "nan",
+    "slug": "25mm-f28-ultra-macro-25-5x"
   },
   {
-    "id": 8204,
+    "id": "8204",
     "brand": "Laowa",
     "modelName": "35mm f0.95 FF II Argus",
     "gearType": "LENS",
@@ -3207,10 +3642,11 @@
     "launchPrice": 0,
     "apertureMax": "f/0.95",
     "filterSizeMm": "72mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f095-ff-ii-argus"
   },
   {
-    "id": 8205,
+    "id": "8205",
     "brand": "Voigtlander",
     "modelName": "35mm F1.2 Aspherical SE",
     "gearType": "LENS",
@@ -3218,10 +3654,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.2",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f12-aspherical-se"
   },
   {
-    "id": 8206,
+    "id": "8206",
     "brand": "Voigtlander",
     "modelName": "35mm F1.4",
     "gearType": "LENS",
@@ -3229,10 +3666,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.4",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f14"
   },
   {
-    "id": 8208,
+    "id": "8208",
     "brand": "Voigtlander",
     "modelName": "35mm F2",
     "gearType": "LENS",
@@ -3240,10 +3678,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "35mm-f2"
   },
   {
-    "id": 8209,
+    "id": "8209",
     "brand": "Voigtlander",
     "modelName": "40mm F1.2 Aspherical SE",
     "gearType": "LENS",
@@ -3251,10 +3690,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.2",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "40mm-f12-aspherical-se"
   },
   {
-    "id": 8210,
+    "id": "8210",
     "brand": "Voigtlander",
     "modelName": "40mm F1.2 Aspherical",
     "gearType": "LENS",
@@ -3262,10 +3702,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.2",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "40mm-f12-aspherical"
   },
   {
-    "id": 8211,
+    "id": "8211",
     "brand": "Mitakon",
     "modelName": "50mm F0.95 III",
     "gearType": "LENS",
@@ -3273,10 +3714,11 @@
     "launchPrice": 0,
     "apertureMax": "f/0.95",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f095-iii"
   },
   {
-    "id": 8212,
+    "id": "8212",
     "brand": "Voigtlander",
     "modelName": "50mm F1.2 Aspherical SE",
     "gearType": "LENS",
@@ -3284,10 +3726,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.2",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f12-aspherical-se"
   },
   {
-    "id": 8213,
+    "id": "8213",
     "brand": "Voigtlander",
     "modelName": "50mm F1.2 Aspherical",
     "gearType": "LENS",
@@ -3295,10 +3738,11 @@
     "launchPrice": 0,
     "apertureMax": "f/1.2",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f12-aspherical"
   },
   {
-    "id": 8214,
+    "id": "8214",
     "brand": "Zeiss",
     "modelName": "50mm F2",
     "gearType": "LENS",
@@ -3306,10 +3750,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "52mm",
-    "series": "Loxia"
+    "series": "Loxia",
+    "slug": "50mm-f2"
   },
   {
-    "id": 8215,
+    "id": "8215",
     "brand": "Voigtlander",
     "modelName": "50mm F2 APO-LANTHAR",
     "gearType": "LENS",
@@ -3317,10 +3762,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "49mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "50mm-f2-apo-lanthar"
   },
   {
-    "id": 8216,
+    "id": "8216",
     "brand": "Laowa",
     "modelName": "60mm F2.8 Macro 2:1",
     "gearType": "LENS",
@@ -3328,10 +3774,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8",
     "filterSizeMm": "62mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "60mm-f28-macro-21"
   },
   {
-    "id": 8217,
+    "id": "8217",
     "brand": "Voigtlander",
     "modelName": "65mm F2 Macro Apo-Lanthar",
     "gearType": "LENS",
@@ -3339,10 +3786,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "65mm-f2-macro-apo-lanthar"
   },
   {
-    "id": 8218,
+    "id": "8218",
     "brand": "Zeiss",
     "modelName": "85mm F2.4",
     "gearType": "LENS",
@@ -3350,10 +3798,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.4",
     "filterSizeMm": "52mm",
-    "series": "Loxia"
+    "series": "Loxia",
+    "slug": "85mm-f24"
   },
   {
-    "id": 8219,
+    "id": "8219",
     "brand": "Laowa",
     "modelName": "85mm F5.6 2x Ultra-Macro APO",
     "gearType": "LENS",
@@ -3361,10 +3810,11 @@
     "launchPrice": 0,
     "apertureMax": "f/5.6",
     "filterSizeMm": "46mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "85mm-f56-2x-ultra-macro-apo"
   },
   {
-    "id": 8220,
+    "id": "8220",
     "brand": "Laowa",
     "modelName": "100mm F2.8 Ultra-Macro",
     "gearType": "LENS",
@@ -3372,10 +3822,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.8",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "100mm-f28-ultra-macro"
   },
   {
-    "id": 8221,
+    "id": "8221",
     "brand": "Laowa",
     "modelName": "105mm F2.0(T3.2) STF MF",
     "gearType": "LENS",
@@ -3383,10 +3834,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "67mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "105mm-f20t32-stf-mf"
   },
   {
-    "id": 8222,
+    "id": "8222",
     "brand": "Voigtlander",
     "modelName": "110mm F2.5 Macro",
     "gearType": "LENS",
@@ -3394,10 +3846,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.5",
     "filterSizeMm": "58mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "110mm-f25-macro"
   },
   {
-    "id": 8223,
+    "id": "8223",
     "brand": "Samyang",
     "modelName": "135mm F2.0 ED UMC",
     "gearType": "LENS",
@@ -3405,10 +3858,11 @@
     "launchPrice": 0,
     "apertureMax": "f/2.0",
     "filterSizeMm": "82mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "135mm-f20-ed-umc"
   },
   {
-    "id": 8224,
+    "id": "8224",
     "brand": "Laowa",
     "modelName": "10-18mm F4.5-5.6 Zoom",
     "gearType": "LENS",
@@ -3416,6 +3870,7 @@
     "launchPrice": 0,
     "apertureMax": "f/4.5",
     "filterSizeMm": "37mm",
-    "series": "nan"
+    "series": "nan",
+    "slug": "10-18mm-f45-56-zoom"
   }
 ]

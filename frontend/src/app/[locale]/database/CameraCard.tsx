@@ -30,7 +30,7 @@ export default function CameraCard({ gear, isSelected, isDisabled, onToggle, t, 
         {isSelected && <Check className="w-4 h-4 text-white" />}
       </div>
 
-      <Link href={`/database/${gear.id}`} className="block h-full">
+      <Link href={`/database/${gear.slug || gear.id}`} className="block h-full">
         <Card className={`bg-[#1A1A1A] border-none rounded-none hover:ring-1 transition-all cursor-pointer h-full ${isSelected ? 'ring-2 ring-red-500' : 'hover:ring-red-500'}`}>
           <div className="h-52 bg-black/50 flex items-center justify-center border-b border-white/5 relative overflow-hidden">
             {gear.imageUrl ? (
