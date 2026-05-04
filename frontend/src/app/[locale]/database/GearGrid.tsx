@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Camera, Check, ArrowRightLeft } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import CameraCard from './CameraCard';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams, usePathname } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 
 import FilterPanel, { FilterState } from './FilterPanel';
@@ -28,6 +28,8 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
   const [mounted, setMounted] = useState(false);
 
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const pathname = usePathname();
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
 
@@ -78,9 +80,33 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       }
     });
 
-  // Load from localStorage on mount
+  // Initialize filters from URL on mount
   useEffect(() => {
     setMounted(true);
+    
+    const urlFilters: Partial<FilterState> = {};
+    const q = searchParams.get('q');
+    if (q) urlFilters.q = q;
+    
+    const brands = searchParams.get('brands');
+    if (brands) urlFilters.brands = brands.split(',');
+    
+    const gearTypes = searchParams.get('gearTypes');
+    if (gearTypes) urlFilters.gearTypes = gearTypes.split(',');
+    
+    const formats = searchParams.get('formats');
+    if (formats) urlFilters.sensorFormats = formats.split(',');
+    
+    const mounts = searchParams.get('mounts');
+    if (mounts) urlFilters.mounts = mounts.split(',');
+    
+    const sortBy = searchParams.get('sortBy');
+    if (sortBy) urlFilters.sortBy = sortBy;
+
+    if (Object.keys(urlFilters).length > 0) {
+      setFilters(prev => ({ ...prev, ...urlFilters }));
+    }
+
     const stored = localStorage.getItem('compare_ids');
     if (stored) {
       try {
@@ -95,6 +121,26 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       }
     }
   }, [gears]);
+
+  // Sync filters to URL
+  useEffect(() => {
+    if (!mounted) return;
+
+    const params = new URLSearchParams();
+    if (filters.q) params.set('q', filters.q);
+    if (filters.brands.length > 0) params.set('brands', filters.brands.join(','));
+    if (filters.gearTypes.length > 0) params.set('gearTypes', filters.gearTypes.join(','));
+    if (filters.sensorFormats.length > 0) params.set('formats', filters.sensorFormats.join(','));
+    if (filters.mounts.length > 0) params.set('mounts', filters.mounts.join(','));
+    if (filters.sortBy !== 'newest') params.set('sortBy', filters.sortBy);
+
+    const query = params.toString();
+    const url = query ? `${pathname}?${query}` : pathname;
+    
+    // Use replace to avoid polluting history with every filter click, 
+    // but the state is now in the URL for navigation.
+    window.history.replaceState(null, '', url);
+  }, [filters, pathname, mounted]);
 
   const toggleSelect = (e: React.MouseEvent, gear: any) => {
     e.preventDefault();

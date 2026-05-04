@@ -12,6 +12,8 @@ RULES:
    - `git add .`
    - `git commit -m "Auto-update: 新增相機產品 [數量: {count}]"`
 6. 【視覺驗證】：任務結束前必須啟動瀏覽器訪問 `http://localhost:3000`，親眼確認列表渲染正常、詳細頁無 `undefined` 並附上截圖。
+7. 【價格校驗】：所有產品必須包含有效價格（Launch Price 必須 > 0）。若是 2024-2026 年新器材，必須與最新市場建議售價 (MSRP) 進行核實，格式必須統一為台幣 (NTD)。
+8. 【狀態持久化】：所有列表篩選組件必須實作 URL 參數同步（URL Parameter Sync）。當篩選條件變更時，必須同步更新網址列；頁面載入時必須從 URL 恢復篩選狀態，以確保導覽「返回」時狀態不遺失。
 
 ACTIVATION_KEYWORDS:
 - "新增相機"
