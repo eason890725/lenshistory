@@ -31,6 +31,13 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
 
+  // Calculate counts for each brand from all available gears
+  const brandCounts = gears.reduce((acc: Record<string, number>, g) => {
+    const brandName = g.brand?.nameI18n?.enUs || g.brand;
+    acc[brandName] = (acc[brandName] || 0) + 1;
+    return acc;
+  }, {});
+
   // Filtering and Sorting logic
   const filteredGears = gears
     .filter(g => {
@@ -128,7 +135,7 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     <div className="flex flex-col md:flex-row gap-8 items-start">
       {/* Sidebar Filters */}
       <aside className="w-full md:w-64 shrink-0 sticky top-24">
-        <FilterPanel filters={filters} setFilters={setFilters} />
+        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} />
       </aside>
 
       <div className="flex-1 relative w-full">

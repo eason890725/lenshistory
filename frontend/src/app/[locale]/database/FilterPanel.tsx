@@ -19,12 +19,14 @@ export interface FilterState {
 export default function FilterPanel({ 
   filters, 
   setFilters,
+  brandCounts,
   maxPriceData = 200000,
   minYearData = 2010,
   maxYearData = 2026
 }: { 
   filters: FilterState; 
   setFilters: (f: FilterState) => void;
+  brandCounts: Record<string, number>;
   maxPriceData?: number;
   minYearData?: number;
   maxYearData?: number;
@@ -122,20 +124,46 @@ export default function FilterPanel({
       <div className="space-y-3">
         <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{tc('brands')}</label>
         <div className="flex flex-wrap gap-2">
-          {["Sony", "Canon", "Nikon", "Fujifilm", "Sigma", "Tamron", "Samyang", "Viltrox"].map(brand => (
-            <button
-              key={brand}
-              onClick={() => {
-                const next = filters.brands.includes(brand) 
-                  ? filters.brands.filter(b => b !== brand)
-                  : [...filters.brands, brand];
-                setFilters({ ...filters, brands: next });
-              }}
-              className={`px-3 py-1.5 text-[10px] font-bold border transition-colors ${filters.brands.includes(brand) ? 'bg-red-600/20 border-red-600 text-white' : 'bg-black border-white/10 text-gray-500 hover:border-white/30'}`}
-            >
-              {brand}
-            </button>
-          ))}
+          {(() => {
+            const masterBrands = [
+              "Sony", "Canon", "Nikon", "Fujifilm", "Panasonic", "Leica", "Pentax", "OM System",
+              "Sigma", "Tamron", "Samyang", "Viltrox", "Laowa", "Tokina", "Voigtlander", "Zeiss"
+            ];
+            
+            // Get unique brands from data that are NOT in master list
+            const otherBrands = Object.keys(brandCounts).filter(b => !masterBrands.includes(b));
+            
+            // Combine and maintain master order
+            const allDisplayBrands = [...masterBrands, ...otherBrands];
+
+            return allDisplayBrands.map(brand => {
+              const count = brandCounts[brand] || 0;
+              const isSelected = filters.brands.includes(brand);
+              const isDisabled = count === 0;
+
+              return (
+                <button
+                  key={brand}
+                  disabled={isDisabled}
+                  onClick={() => {
+                    const next = isSelected 
+                      ? filters.brands.filter(b => b !== brand)
+                      : [...filters.brands, brand];
+                    setFilters({ ...filters, brands: next });
+                  }}
+                  className={`px-3 py-1.5 text-[10px] font-bold border transition-all flex items-center gap-1.5
+                    ${isSelected 
+                      ? 'bg-red-600/20 border-red-600 text-white' 
+                      : isDisabled 
+                        ? 'bg-transparent border-white/5 text-gray-700 opacity-40 cursor-not-allowed border-dashed'
+                        : 'bg-black border-white/10 text-gray-500 hover:border-white/30 hover:text-gray-300'}`}
+                >
+                  <span>{brand}</span>
+                  {count > 0 && <span className={`text-[8px] px-1 rounded-sm ${isSelected ? 'bg-red-600 text-white' : 'bg-gray-800 text-gray-500'}`}>{count}</span>}
+                </button>
+              );
+            });
+          })()}
         </div>
       </div>
 
