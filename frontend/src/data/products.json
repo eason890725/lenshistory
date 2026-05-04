@@ -1,7 +1,7 @@
 [
   {
     "brand": "Sony",
-    "modelName": "A12",
+    "modelName": "Sony Alpha 1 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 50.1,
@@ -36,7 +36,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A1",
+    "modelName": "Sony aA1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 50.1,
@@ -51,7 +51,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A1",
-      "Sony aA1",
       "SonyaA1",
       "a1",
       "aA1",
@@ -62,7 +61,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A92I",
+    "modelName": "Sony Alpha 9 III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.6,
@@ -97,7 +96,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A92",
+    "modelName": "Sony aA9 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -114,7 +113,6 @@
       "A9 II",
       "A92",
       "A9II",
-      "Sony aA9 II",
       "SonyaA9II",
       "a9 ii",
       "a92",
@@ -129,7 +127,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A9",
+    "modelName": "Sony aA9",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -144,7 +142,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A9",
-      "Sony aA9",
       "SonyaA9",
       "a9",
       "aA9",
@@ -155,7 +152,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7R5",
+    "modelName": "Sony aA7R V",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
@@ -175,7 +172,6 @@
       "A7R V",
       "A7R5",
       "A7RV",
-      "Sony aA7R V",
       "SonyaA7RV",
       "a7r v",
       "a7r5",
@@ -190,7 +186,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7R4",
+    "modelName": "Sony aA7R IV",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
@@ -207,7 +203,6 @@
       "A7R IV",
       "A7R4",
       "A7RIV",
-      "Sony aA7R IV",
       "SonyaA7RIV",
       "a7r iv",
       "a7r4",
@@ -222,7 +217,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7R2I",
+    "modelName": "Sony aA7R III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
@@ -239,7 +234,6 @@
       "A7R III",
       "A7R2I",
       "A7RIII",
-      "Sony aA7R III",
       "SonyaA7RIII",
       "a7r iii",
       "a7r2i",
@@ -254,7 +248,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7R2",
+    "modelName": "Sony aA7R II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 42.4,
@@ -271,7 +265,6 @@
       "A7R II",
       "A7R2",
       "A7RII",
-      "Sony aA7R II",
       "SonyaA7RII",
       "a7r ii",
       "a7r2",
@@ -286,7 +279,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7R",
+    "modelName": "Sony aA7R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 36.4,
@@ -301,7 +294,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A7R",
-      "Sony aA7R",
       "SonyaA7R",
       "a7r",
       "aA7R",
@@ -312,7 +304,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7S2I",
+    "modelName": "Sony aA7S III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.1,
@@ -329,7 +321,6 @@
       "A7S III",
       "A7S2I",
       "A7SIII",
-      "Sony aA7S III",
       "SonyaA7SIII",
       "a7s iii",
       "a7s2i",
@@ -344,7 +335,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7S2",
+    "modelName": "Sony aA7S II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.2,
@@ -361,7 +352,6 @@
       "A7S II",
       "A7S2",
       "A7SII",
-      "Sony aA7S II",
       "SonyaA7SII",
       "a7s ii",
       "a7s2",
@@ -376,7 +366,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7S",
+    "modelName": "Sony aa7s",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.2,
@@ -391,7 +381,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A7S",
-      "Sony aa7s",
       "Sonyaa7s",
       "a7s",
       "aa7s",
@@ -401,7 +390,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A74",
+    "modelName": "Sony aA7 IV",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 33.0,
@@ -421,7 +410,6 @@
       "A7 IV",
       "A74",
       "A7IV",
-      "Sony aA7 IV",
       "SonyaA7IV",
       "a7 iv",
       "a74",
@@ -436,7 +424,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A72I",
+    "modelName": "Sony aA7 III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -453,7 +441,6 @@
       "A7 III",
       "A72I",
       "A7III",
-      "Sony aA7 III",
       "SonyaA7III",
       "a7 iii",
       "a72i",
@@ -468,7 +455,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A72",
+    "modelName": "Sony aA7 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
@@ -485,7 +472,6 @@
       "A7 II",
       "A72",
       "A7II",
-      "Sony aA7 II",
       "SonyaA7II",
       "a7 ii",
       "a72",
@@ -500,7 +486,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7",
+    "modelName": "Sony aA7",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.3,
@@ -515,7 +501,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A7",
-      "Sony aA7",
       "SonyaA7",
       "a7",
       "aA7",
@@ -526,7 +511,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7CR",
+    "modelName": "Sony aA7C R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 61.0,
@@ -542,7 +527,6 @@
     "aliases": [
       "A7C R",
       "A7CR",
-      "Sony aA7C R",
       "SonyaA7CR",
       "a7c r",
       "a7cr",
@@ -556,7 +540,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7C2",
+    "modelName": "Sony a7C II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 33,
@@ -585,7 +569,6 @@
       "A7C2",
       "Alpha 7C II",
       "Alpha7CII",
-      "Sony a7C II",
       "Sonya7CII",
       "a7C II",
       "a7CII",
@@ -600,7 +583,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A7C",
+    "modelName": "Sony aa7c",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -615,7 +598,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A7C",
-      "Sony aa7c",
       "Sonyaa7c",
       "a7c",
       "aa7c",
@@ -625,7 +607,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "ZV-E1",
+    "modelName": "Sony azv-e1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 12.1,
@@ -639,7 +621,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Sony azv-e1",
       "Sonyazv-e1",
       "ZV-E1",
       "azv-e1",
@@ -650,7 +631,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6700",
+    "modelName": "Sony aa6700",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.0,
@@ -668,7 +649,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "A6700",
-      "Sony aa6700",
       "Sonyaa6700",
       "a6700",
       "aa6700",
@@ -678,7 +658,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6600",
+    "modelName": "Sony aA6600",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -693,7 +673,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6600",
-      "Sony aA6600",
       "SonyaA6600",
       "a6600",
       "aA6600",
@@ -704,7 +683,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6500",
+    "modelName": "Sony aA6500",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -719,7 +698,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6500",
-      "Sony aA6500",
       "SonyaA6500",
       "a6500",
       "aA6500",
@@ -730,7 +708,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6400",
+    "modelName": "Sony aa6400",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -745,7 +723,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6400",
-      "Sony aa6400",
       "Sonyaa6400",
       "a6400",
       "aa6400",
@@ -755,7 +732,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6300",
+    "modelName": "Sony aA6300",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -770,7 +747,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6300",
-      "Sony aA6300",
       "SonyaA6300",
       "a6300",
       "aA6300",
@@ -781,7 +757,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6100",
+    "modelName": "Sony aa6100",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -796,7 +772,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6100",
-      "Sony aa6100",
       "Sonyaa6100",
       "a6100",
       "aa6100",
@@ -806,7 +781,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "A6000",
+    "modelName": "Sony aA6000",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -821,7 +796,6 @@
     "launchPrice": 39980,
     "aliases": [
       "A6000",
-      "Sony aA6000",
       "SonyaA6000",
       "a6000",
       "aA6000",
@@ -832,7 +806,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "ZV-E102",
+    "modelName": "Sony aZV-E10 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.0,
@@ -846,7 +820,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Sony aZV-E10 II",
       "SonyaZV-E10II",
       "ZV-E10 II",
       "ZV-E102",
@@ -864,7 +837,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "ZV-E10",
+    "modelName": "Sony aZV-E10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -878,7 +851,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Sony aZV-E10",
       "SonyaZV-E10",
       "ZV-E10",
       "aZV-E10",
@@ -890,7 +862,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XH2S",
+    "modelName": "X-H2S",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -906,7 +878,6 @@
     "weightGrams": 660,
     "launchPrice": 39980,
     "aliases": [
-      "X-H2S",
       "XH2S",
       "x-h2s",
       "xh2s"
@@ -914,7 +885,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XH2",
+    "modelName": "X-H2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -928,7 +899,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-H2",
       "XH2",
       "x-h2",
       "xh2"
@@ -936,7 +906,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XH1",
+    "modelName": "X-H1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -950,7 +920,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-H1",
       "XH1",
       "x-h1",
       "xh1"
@@ -958,7 +927,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT5",
+    "modelName": "X-T5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -974,7 +943,6 @@
     "weightGrams": 557,
     "launchPrice": 39980,
     "aliases": [
-      "X-T5",
       "XT5",
       "x-t5",
       "xt5"
@@ -982,7 +950,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT4",
+    "modelName": "X-T4",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -996,7 +964,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T4",
       "XT4",
       "x-t4",
       "xt4"
@@ -1004,7 +971,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT3",
+    "modelName": "X-T3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1018,7 +985,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T3",
       "XT3",
       "x-t3",
       "xt3"
@@ -1026,7 +992,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT2",
+    "modelName": "X-T2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -1040,7 +1006,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T2",
       "XT2",
       "x-t2",
       "xt2"
@@ -1048,7 +1013,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT1",
+    "modelName": "X-T1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -1062,7 +1027,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T1",
       "XT1",
       "x-t1",
       "xt1"
@@ -1070,7 +1034,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT50",
+    "modelName": "X-T50",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -1086,7 +1050,6 @@
     "weightGrams": 557,
     "launchPrice": 39980,
     "aliases": [
-      "X-T50",
       "XT50",
       "x-t50",
       "xt50"
@@ -1094,7 +1057,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT30II",
+    "modelName": "X-T30 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1108,7 +1071,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T30 II",
       "X-T30II",
       "XT30 II",
       "XT30II",
@@ -1120,7 +1082,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT30",
+    "modelName": "X-T30",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1134,7 +1096,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T30",
       "XT30",
       "x-t30",
       "xt30"
@@ -1142,7 +1103,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT20",
+    "modelName": "X-T20",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -1156,7 +1117,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T20",
       "XT20",
       "x-t20",
       "xt20"
@@ -1164,7 +1124,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XT10",
+    "modelName": "X-T10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -1178,7 +1138,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-T10",
       "XT10",
       "x-t10",
       "xt10"
@@ -1186,7 +1145,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XPro3",
+    "modelName": "X-Pro3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1200,7 +1159,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-Pro3",
       "XPro3",
       "x-pro3",
       "xpro3"
@@ -1208,7 +1166,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XPro2",
+    "modelName": "X-Pro2",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.3,
@@ -1222,7 +1180,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-Pro2",
       "XPro2",
       "x-pro2",
       "xpro2"
@@ -1230,7 +1187,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XPro1",
+    "modelName": "X-Pro1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 16.3,
@@ -1244,7 +1201,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-Pro1",
       "XPro1",
       "x-pro1",
       "xpro1"
@@ -1252,7 +1208,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XS20",
+    "modelName": "X-S20",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1266,7 +1222,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-S20",
       "XS20",
       "x-s20",
       "xs20"
@@ -1274,7 +1229,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XS10",
+    "modelName": "X-S10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1288,7 +1243,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-S10",
       "XS10",
       "x-s10",
       "xs10"
@@ -1296,7 +1250,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "XE4",
+    "modelName": "X-E4",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1310,7 +1264,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X-E4",
       "XE4",
       "x-e4",
       "xe4"
@@ -1318,7 +1271,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100VI",
+    "modelName": "x100v i",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 40.2,
@@ -1333,13 +1286,12 @@
     "launchPrice": 39980,
     "aliases": [
       "X100VI",
-      "x100v i",
       "x100vi"
     ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "X100V",
+    "modelName": "X100 V",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 26.1,
@@ -1353,7 +1305,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100 V",
       "X100V",
       "x100 v",
       "x100v"
@@ -1375,7 +1326,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100F",
       "x100f"
     ]
   },
@@ -1395,7 +1345,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100T",
       "x100t"
     ]
   },
@@ -1415,7 +1364,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100S",
       "x100s"
     ]
   },
@@ -1435,13 +1383,12 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "X100",
       "x100"
     ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX100II",
+    "modelName": "gfx 100 ii",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -1459,13 +1406,12 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX100II",
-      "gfx 100 ii",
       "gfx100ii"
     ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX100SII",
+    "modelName": "GFX 100S II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -1480,7 +1426,6 @@
     "launchPrice": 39980,
     "hasWeatherSeal": true,
     "aliases": [
-      "GFX 100S II",
       "GFX100SII",
       "gfx 100s ii",
       "gfx100sii"
@@ -1488,7 +1433,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX100S",
+    "modelName": "GFX 100S",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 102.0,
@@ -1503,7 +1448,6 @@
     "launchPrice": 39980,
     "hasWeatherSeal": true,
     "aliases": [
-      "GFX 100S",
       "GFX100S",
       "gfx 100s",
       "gfx100s"
@@ -1511,7 +1455,7 @@
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX50SII",
+    "modelName": "gfx 50s ii",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
@@ -1527,13 +1471,12 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX50SII",
-      "gfx 50s ii",
       "gfx50sii"
     ]
   },
   {
     "brand": "Fujifilm",
-    "modelName": "GFX50R",
+    "modelName": "gfx 50r",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Medium Format",
     "megapixels": 51.4,
@@ -1549,13 +1492,12 @@
     "hasWeatherSeal": true,
     "aliases": [
       "GFX50R",
-      "gfx 50r",
       "gfx50r"
     ]
   },
   {
     "brand": "Canon",
-    "modelName": "R1",
+    "modelName": "EOS R1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1571,7 +1513,6 @@
     "weightGrams": 1115,
     "launchPrice": 39980,
     "aliases": [
-      "EOS R1",
       "EOSR1",
       "R1",
       "eos r1",
@@ -1581,7 +1522,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R3",
+    "modelName": "EOS R3",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.1,
@@ -1597,7 +1538,6 @@
     "weightGrams": 1015,
     "launchPrice": 39980,
     "aliases": [
-      "EOS R3",
       "EOSR3",
       "R3",
       "eos r3",
@@ -1607,7 +1547,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R5II",
+    "modelName": "EOS R5 Mark II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
@@ -1624,7 +1564,6 @@
     "launchPrice": 39980,
     "aliases": [
       "EOS R5 II",
-      "EOS R5 Mark II",
       "EOSR5II",
       "R5 Mark II",
       "R5II",
@@ -1637,7 +1576,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R5",
+    "modelName": "EOS R5",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.0,
@@ -1651,7 +1590,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R5",
       "EOSR5",
       "R5",
       "eos r5",
@@ -1661,7 +1599,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R6II",
+    "modelName": "EOS R6 Mark II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1676,7 +1614,6 @@
     "launchPrice": 39980,
     "aliases": [
       "EOS R6 II",
-      "EOS R6 Mark II",
       "EOSR6II",
       "R6 Mark II",
       "R6II",
@@ -1689,7 +1626,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R6",
+    "modelName": "EOS R6",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 20.1,
@@ -1703,7 +1640,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R6",
       "EOSR6",
       "R6",
       "eos r6",
@@ -1713,7 +1649,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R8",
+    "modelName": "EOS R8",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.2,
@@ -1727,7 +1663,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R8",
       "EOSR8",
       "R8",
       "eos r8",
@@ -1737,7 +1672,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R",
+    "modelName": "EOS R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 30.3,
@@ -1751,7 +1686,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R",
       "EOSR",
       "R",
       "eos r",
@@ -1761,7 +1695,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "RP",
+    "modelName": "EOS RP",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 26.2,
@@ -1775,7 +1709,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS RP",
       "EOSRP",
       "RP",
       "eos rp",
@@ -1785,7 +1718,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R7",
+    "modelName": "EOS R7",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 32.5,
@@ -1799,7 +1732,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R7",
       "EOSR7",
       "R7",
       "eos r7",
@@ -1809,7 +1741,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R10",
+    "modelName": "EOS R10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -1825,7 +1757,6 @@
     "weightGrams": 1115,
     "launchPrice": 39980,
     "aliases": [
-      "EOS R10",
       "EOSR10",
       "R10",
       "eos r10",
@@ -1835,7 +1766,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R50",
+    "modelName": "EOS R50",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.2,
@@ -1849,7 +1780,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "EOS R50",
       "EOSR50",
       "R50",
       "eos r50",
@@ -1859,7 +1789,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "R100",
+    "modelName": "EOS R100",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": 24.1,
@@ -1875,7 +1805,6 @@
     "weightGrams": 1115,
     "launchPrice": 39980,
     "aliases": [
-      "EOS R100",
       "EOSR100",
       "R100",
       "eos r100",
@@ -1901,7 +1830,6 @@
     "weightGrams": 1340,
     "launchPrice": 39980,
     "aliases": [
-      "Z9",
       "z9"
     ]
   },
@@ -1923,13 +1851,12 @@
     "weightGrams": 910,
     "launchPrice": 39980,
     "aliases": [
-      "Z8",
       "z8"
     ]
   },
   {
     "brand": "Nikon",
-    "modelName": "Z7II",
+    "modelName": "Z7 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 45.7,
@@ -1943,7 +1870,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z7 II",
       "Z7II",
       "z7 ii",
       "z7ii"
@@ -1965,13 +1891,12 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z7",
       "z7"
     ]
   },
   {
     "brand": "Nikon",
-    "modelName": "Z6III",
+    "modelName": "Z6 III",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
@@ -1987,7 +1912,6 @@
     "weightGrams": 670,
     "launchPrice": 39980,
     "aliases": [
-      "Z6 III",
       "Z6III",
       "z6 iii",
       "z6iii"
@@ -1995,7 +1919,7 @@
   },
   {
     "brand": "Nikon",
-    "modelName": "Z6II",
+    "modelName": "Z6 II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": 24.5,
@@ -2009,7 +1933,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z6 II",
       "Z6II",
       "z6 ii",
       "z6ii"
@@ -2031,7 +1954,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z6",
       "z6"
     ]
   },
@@ -2051,7 +1973,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z5",
       "z5"
     ]
   },
@@ -2073,7 +1994,6 @@
     "weightGrams": 710,
     "launchPrice": 39980,
     "aliases": [
-      "Zf",
       "zf"
     ]
   },
@@ -2095,7 +2015,6 @@
     "weightGrams": 710,
     "launchPrice": 39980,
     "aliases": [
-      "Zfc",
       "zfc"
     ]
   },
@@ -2115,7 +2034,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z50",
       "z50"
     ]
   },
@@ -2135,7 +2053,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Z30",
       "z30"
     ]
   },
@@ -2165,7 +2082,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "12-24mm F2.8 GM",
+      "1224GM",
+      "1224gm",
+      "F12-24mm F2.8 GM"
+    ]
   },
   {
     "brand": "Sony",
@@ -2193,7 +2116,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "16-35mm F2.8 GM II",
+      "1635GM2",
+      "1635gm2",
+      "F16-35mm F2.8 GM II"
+    ]
   },
   {
     "brand": "Sony",
@@ -2221,7 +2150,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "24-70mm F2.8 GM II",
+      "2470GM2",
+      "2470gm2",
+      "F24-70mm F2.8 GM II"
+    ]
   },
   {
     "brand": "Sony",
@@ -2249,7 +2184,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "70-200mm F2.8 GM OSS II",
+      "70200GM2",
+      "70200gm2",
+      "F70-200mm F2.8 GM OSS II"
+    ]
   },
   {
     "brand": "Sony",
@@ -2277,7 +2218,13 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "200-600mm F5.6-6.3 G OSS",
+      "200600G",
+      "200600g",
+      "F200-600mm F5.6-6.3 G OSS"
+    ]
   },
   {
     "brand": "Sony",
@@ -2305,7 +2252,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "35GM",
+      "35gm",
+      "35mm F1.4 GM",
+      "F35mm F1.4 GM"
+    ]
   },
   {
     "brand": "Sony",
@@ -2333,7 +2286,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "50GM",
+      "50gm",
+      "50mm F1.2 GM",
+      "F50mm F1.2 GM"
+    ]
   },
   {
     "brand": "Sony",
@@ -2361,7 +2320,13 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "85GM",
+      "85gm",
+      "85mm F1.4 GM",
+      "F85mm F1.4 GM"
+    ]
   },
   {
     "brand": "Sony",
@@ -2389,7 +2354,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "55mm F1.8 ZA",
+      "F55mm F1.8 ZA",
+      "fe 55mm f1.8 za"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2418,7 +2388,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.0
+    "diameter": 85.0,
+    "aliases": [
+      "14-24mm f2.8 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2447,7 +2420,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "24-70mm f2.8 dg dn art ii"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2475,7 +2451,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "28-70mm f2.8 dg dn contemporary"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2504,7 +2483,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.5
+    "diameter": 75.5,
+    "aliases": [
+      "35mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2533,7 +2515,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 78.2
+    "diameter": 78.2,
+    "aliases": [
+      "50mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2562,7 +2547,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 82.8
+    "diameter": 82.8,
+    "aliases": [
+      "85mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2591,7 +2579,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.0
+    "diameter": 74.0,
+    "aliases": [
+      "105mm f2.8 dg dn macro art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -2619,7 +2610,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "18-50mm f2.8 dc dn contemporary"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2647,7 +2641,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "17-28mm f2.8 di iii rxd"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2675,7 +2672,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "28-75mm f2.8 di iii vxd g2"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2703,7 +2703,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "70-180mm f2.8 di iii vc vxd g2"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2731,7 +2734,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "35-150mm f2-2.8 di iii vxd"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2759,7 +2765,10 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "28-200mm f2.8-5.6 di iii rxd"
+    ]
   },
   {
     "brand": "Tamron",
@@ -2788,7 +2797,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 93.0
+    "diameter": 93.0,
+    "aliases": [
+      "150-500mm f5-6.7 di iii vc vxd"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2816,7 +2828,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "8-16mm F2.8 R LM WR",
+      "816WR",
+      "816wr"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2844,7 +2861,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "10-24mm F4 R OIS WR",
+      "1024WR",
+      "1024wr"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2872,7 +2894,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "16-55mm F2.8 R LM WR",
+      "1655WR",
+      "1655wr"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2900,7 +2927,11 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "18-55mm F2.8-4 R LM OIS",
+      "xf 18-55mm f2.8-4 r lm ois"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2928,7 +2959,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "50-140mm F2.8 R LM OIS WR",
+      "50140WR",
+      "50140wr"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2956,7 +2992,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "33WR",
+      "33mm F1.4 R LM WR",
+      "33wr"
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -2984,7 +3025,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "56WR",
+      "56mm F1.2 R WR",
+      "56wr"
+    ]
   },
   {
     "brand": "Canon",
@@ -3012,7 +3058,11 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "L"
+    "series": "L",
+    "aliases": [
+      "15-35mm F2.8L IS USM",
+      "rf 15-35mm f2.8l is usm"
+    ]
   },
   {
     "brand": "Canon",
@@ -3040,7 +3090,11 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "24-70mm F2.8L IS USM",
+      "rf 24-70mm f2.8l is usm"
+    ]
   },
   {
     "brand": "Canon",
@@ -3068,7 +3122,11 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "70-200mm F2.8L IS USM",
+      "rf 70-200mm f2.8l is usm"
+    ]
   },
   {
     "brand": "Canon",
@@ -3096,7 +3154,11 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "28-70mm F2L USM",
+      "rf 28-70mm f2l usm"
+    ]
   },
   {
     "brand": "Canon",
@@ -3124,7 +3186,11 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "50mm F1.2L USM",
+      "rf 50mm f1.2l usm"
+    ]
   },
   {
     "brand": "Nikon",
@@ -3152,7 +3218,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "14-24mm f/2.8 S",
+      "1424S",
+      "1424s"
+    ]
   },
   {
     "brand": "Nikon",
@@ -3180,7 +3251,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "24-70mm f/2.8 S",
+      "2470S",
+      "2470s"
+    ]
   },
   {
     "brand": "Nikon",
@@ -3208,7 +3284,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "70-200mm f/2.8 VR S",
+      "70200S",
+      "70200s"
+    ]
   },
   {
     "brand": "Nikon",
@@ -3236,7 +3317,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "135S",
+      "135mm f/1.8 S Plena",
+      "135s"
+    ]
   },
   {
     "brand": "Nikon",
@@ -3264,7 +3350,12 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0
+    "launchPrice": 0,
+    "aliases": [
+      "50S",
+      "50mm f/1.2 S",
+      "50s"
+    ]
   },
   {
     "brand": "Laowa",
@@ -3293,7 +3384,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 82.0
+    "diameter": 82.0,
+    "aliases": [
+      "10mm f2.8 c&d-dreamer"
+    ]
   },
   {
     "brand": "Laowa",
@@ -3322,7 +3416,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.2
+    "diameter": 77.2,
+    "aliases": [
+      "12mm f2.8 lite zero-d ff"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3351,7 +3448,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 101.4
+    "diameter": 101.4,
+    "aliases": [
+      "14mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3380,7 +3480,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 95.4
+    "diameter": 95.4,
+    "aliases": [
+      "14mm f1.8 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -3409,7 +3512,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 83.0
+    "diameter": 83.0,
+    "aliases": [
+      "14GM",
+      "14gm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -3438,7 +3545,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.5
+    "diameter": 85.5,
+    "aliases": [
+      "14mm f2.8 af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3467,7 +3577,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 104.0
+    "diameter": 104.0,
+    "aliases": [
+      "15mm f1.4 dg dn fisheye art"
+    ]
   },
   {
     "brand": "Sony",
@@ -3496,7 +3609,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 73.5
+    "diameter": 73.5,
+    "aliases": [
+      "16G",
+      "16g"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -3525,7 +3642,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.0
+    "diameter": 85.0,
+    "aliases": [
+      "16mm f1.8 af led"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3554,7 +3674,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 50.8
+    "diameter": 50.8,
+    "aliases": [
+      "17mm f4.0 dg dn c"
+    ]
   },
   {
     "brand": "Samyang",
@@ -3583,7 +3706,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 63.5
+    "diameter": 63.5,
+    "aliases": [
+      "18mm f2.8 af"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -3612,7 +3738,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "18mm f2.8"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3641,7 +3770,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "20mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3670,7 +3802,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 90.7
+    "diameter": 90.7,
+    "aliases": [
+      "20mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -3699,7 +3834,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 73.5
+    "diameter": 73.5,
+    "aliases": [
+      "20G",
+      "20g"
+    ]
   },
   {
     "brand": "Samyang",
@@ -3728,7 +3867,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 76.9
+    "diameter": 76.9,
+    "aliases": [
+      "20mm t1.9 v-af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3757,7 +3899,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "20mm f2.0 dg dn c"
+    ]
   },
   {
     "brand": "Tokina",
@@ -3786,7 +3931,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.4
+    "diameter": 73.4,
+    "aliases": [
+      "20mm f2.0 af firin"
+    ]
   },
   {
     "brand": "Tamron",
@@ -3815,7 +3963,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "20mm f2.8 di iii osd f050"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -3844,7 +3995,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 65.0
+    "diameter": 65.0,
+    "aliases": [
+      "20mm f2.8 af air"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3873,7 +4027,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.7
+    "diameter": 75.7,
+    "aliases": [
+      "24mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -3902,7 +4059,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.0
+    "diameter": 85.0,
+    "aliases": [
+      "24mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -3931,7 +4091,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 75.4
+    "diameter": 75.4,
+    "aliases": [
+      "24GM",
+      "24gm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -3960,7 +4124,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 65.0
+    "diameter": 65.0,
+    "aliases": [
+      "24mm f1.8 af"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -3989,7 +4156,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "24mm f1.8 af stm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4018,7 +4188,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.1
+    "diameter": 72.1,
+    "aliases": [
+      "24mm t1.9 v-af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4047,7 +4220,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "24mm f2.0 dg dn c"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4076,7 +4252,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 61.8
+    "diameter": 61.8,
+    "aliases": [
+      "24mm f2.8 af"
+    ]
   },
   {
     "brand": "Sony",
@@ -4105,7 +4284,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 68.0
+    "diameter": 68.0,
+    "aliases": [
+      "24G",
+      "24g"
+    ]
   },
   {
     "brand": "Tamron",
@@ -4134,7 +4317,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "24mm f2.8 di iii osd f051"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4163,7 +4349,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 64.0
+    "diameter": 64.0,
+    "aliases": [
+      "24mm f3.5 dg dn c"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -4192,7 +4381,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 78.0
+    "diameter": 78.0,
+    "aliases": [
+      "25mm f2.0"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4221,7 +4413,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 82.8
+    "diameter": 82.8,
+    "aliases": [
+      "28mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -4250,7 +4445,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "28mm f1.8 af stm"
+    ]
   },
   {
     "brand": "Sony",
@@ -4279,7 +4477,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 64.0
+    "diameter": 64.0,
+    "aliases": [
+      "28mm f2.0"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -4308,7 +4509,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 60.3
+    "diameter": 60.3,
+    "aliases": [
+      "28mm f4.5 af chip"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4337,7 +4541,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 88.0
+    "diameter": 88.0,
+    "aliases": [
+      "35mm f1.2 dg dn art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4366,7 +4573,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.0
+    "diameter": 81.0,
+    "aliases": [
+      "35mm f1.2 dg dn art ii"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -4395,7 +4605,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 89.2
+    "diameter": 89.2,
+    "aliases": [
+      "35mm f1.2 af lab"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4424,7 +4637,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.9
+    "diameter": 75.9,
+    "aliases": [
+      "35mm f1.4 af"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4453,7 +4669,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.0
+    "diameter": 75.0,
+    "aliases": [
+      "35mm f1.4 af ii"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4482,7 +4701,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.0
+    "diameter": 75.0,
+    "aliases": [
+      "35mm f1.4 af p"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4511,7 +4733,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "35mm f1.4 dg art ii"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4540,7 +4765,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.0
+    "diameter": 77.0,
+    "aliases": [
+      "35mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -4569,7 +4797,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 76.0
+    "diameter": 76.0,
+    "aliases": [
+      "35GM",
+      "35gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -4598,7 +4830,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 78.5
+    "diameter": 78.5,
+    "aliases": [
+      "35mm f1.4 za"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -4627,7 +4862,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "35mm f1.8 af"
+    ]
   },
   {
     "brand": "Sony",
@@ -4656,7 +4894,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 65.6
+    "diameter": 65.6,
+    "aliases": [
+      "35mm f1.8"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4685,7 +4926,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.1
+    "diameter": 72.1,
+    "aliases": [
+      "35mm t1.9 v-af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4714,7 +4958,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "35mm f2.0 dg dn c"
+    ]
   },
   {
     "brand": "Yongnuo",
@@ -4743,7 +4990,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 67.0
+    "diameter": 67.0,
+    "aliases": [
+      "35mm f2.0 s df dsm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4772,7 +5022,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 61.8
+    "diameter": 61.8,
+    "aliases": [
+      "35mm f2.8 af"
+    ]
   },
   {
     "brand": "Sony",
@@ -4801,7 +5054,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 61.5
+    "diameter": 61.5,
+    "aliases": [
+      "35mm f2.8 za"
+    ]
   },
   {
     "brand": "Tamron",
@@ -4830,7 +5086,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "35mm f2.8 di iii osd f053"
+    ]
   },
   {
     "brand": "Sigma",
@@ -4859,7 +5118,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "40mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -4888,7 +5150,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 78.0
+    "diameter": 78.0,
+    "aliases": [
+      "40mm f2.0 cf"
+    ]
   },
   {
     "brand": "Sony",
@@ -4917,7 +5182,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 68.0
+    "diameter": 68.0,
+    "aliases": [
+      "40G",
+      "40g"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -4946,7 +5215,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 68.0
+    "diameter": 68.0,
+    "aliases": [
+      "40mm f2.5 af air"
+    ]
   },
   {
     "brand": "Samyang",
@@ -4975,7 +5247,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 61.8
+    "diameter": 61.8,
+    "aliases": [
+      "45mm f1.8 af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5004,7 +5279,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 64.0
+    "diameter": 64.0,
+    "aliases": [
+      "45mm f2.8 dg dn c"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5033,7 +5311,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.1
+    "diameter": 72.1,
+    "aliases": [
+      "45mm t1.9 v-af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5062,7 +5343,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.0
+    "diameter": 81.0,
+    "aliases": [
+      "50mm f1.2 dg dn art"
+    ]
   },
   {
     "brand": "Sony",
@@ -5091,7 +5375,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 87.0
+    "diameter": 87.0,
+    "aliases": [
+      "50GM",
+      "50gm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5120,7 +5408,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.5
+    "diameter": 73.5,
+    "aliases": [
+      "50mm f1.4 af"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5149,7 +5440,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.1
+    "diameter": 80.1,
+    "aliases": [
+      "50mm f1.4 af ii"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5178,7 +5472,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.4
+    "diameter": 85.4,
+    "aliases": [
+      "50mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -5207,7 +5504,11 @@
     "specialElements": "2 XA (Extreme Aspherical), 1 ED",
     "coatings": "Nano AR II, Fluorine Coating",
     "closeFocus": "0.38m (AF) / 0.41m (MF)",
-    "diameter": 80.6
+    "diameter": 80.6,
+    "aliases": [
+      "50GM",
+      "50gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -5236,7 +5537,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 83.5
+    "diameter": 83.5,
+    "aliases": [
+      "50mm f1.4 za"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -5265,7 +5569,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 84.5
+    "diameter": 84.5,
+    "aliases": [
+      "50mm f1.4 pro"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -5294,7 +5601,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "50mm f1.8 af"
+    ]
   },
   {
     "brand": "Yongnuo",
@@ -5323,7 +5633,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 68.0
+    "diameter": 68.0,
+    "aliases": [
+      "50mm f1.8 s df dsm"
+    ]
   },
   {
     "brand": "Sirui",
@@ -5352,7 +5665,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "50mm t1.8 1.33x"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5381,7 +5697,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "50mm f2.0 dg dn c"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -5410,7 +5729,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 65.0
+    "diameter": 65.0,
+    "aliases": [
+      "50mm f2.0 af air"
+    ]
   },
   {
     "brand": "Sony",
@@ -5439,7 +5761,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 68.0
+    "diameter": 68.0,
+    "aliases": [
+      "50G",
+      "50g"
+    ]
   },
   {
     "brand": "Sony",
@@ -5468,7 +5794,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 70.8
+    "diameter": 70.8,
+    "aliases": [
+      "50mm f2.8 marcro"
+    ]
   },
   {
     "brand": "Sony",
@@ -5497,7 +5826,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 64.4
+    "diameter": 64.4,
+    "aliases": [
+      "55mm f1.8 za"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5526,7 +5858,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "65mm f2.0 dg dn c"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5555,7 +5890,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.8
+    "diameter": 70.8,
+    "aliases": [
+      "70mm f2.8 dg macro art"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5584,7 +5922,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 65.0
+    "diameter": 65.0,
+    "aliases": [
+      "75mm f1.8 af"
+    ]
   },
   {
     "brand": "Sirui",
@@ -5613,7 +5954,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "75mm t1.8 1.33x"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5642,7 +5986,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.1
+    "diameter": 72.1,
+    "aliases": [
+      "75mm t1.9 v-af"
+    ]
   },
   {
     "brand": "Meike",
@@ -5671,7 +6018,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.0
+    "diameter": 87.0,
+    "aliases": [
+      "85mm f1.4 af stm"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5700,7 +6050,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 88.0
+    "diameter": 88.0,
+    "aliases": [
+      "85mm f1.4 af"
+    ]
   },
   {
     "brand": "Samyang",
@@ -5729,7 +6082,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 83.4
+    "diameter": 83.4,
+    "aliases": [
+      "85mm f1.4 af ii"
+    ]
   },
   {
     "brand": "Sigma",
@@ -5758,7 +6114,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 94.7
+    "diameter": 94.7,
+    "aliases": [
+      "85mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -5787,7 +6146,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 89.5
+    "diameter": 89.5,
+    "aliases": [
+      "85GM",
+      "85gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -5816,7 +6179,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 85.0
+    "diameter": 85.0,
+    "aliases": [
+      "85GM2",
+      "85gm2"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -5845,7 +6212,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 84.5
+    "diameter": 84.5,
+    "aliases": [
+      "85mm f1.4 pro"
+    ]
   },
   {
     "brand": "7Artisans",
@@ -5874,7 +6244,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "85mm f1.8 af"
+    ]
   },
   {
     "brand": "Meike",
@@ -5903,7 +6276,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 0.0
+    "diameter": 0.0,
+    "aliases": [
+      "85mm f1.8 stm"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -5932,7 +6308,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 78.0
+    "diameter": 78.0,
+    "aliases": [
+      "85mm f1.8"
+    ]
   },
   {
     "brand": "Tokina",
@@ -5961,7 +6340,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "85mm f1.8 fe atx-m"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -5990,7 +6372,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "85mm f1.8 af stm"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -6019,7 +6404,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "85mm f1.8 af stm ii"
+    ]
   },
   {
     "brand": "Yongnuo",
@@ -6048,7 +6436,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 67.0
+    "diameter": 67.0,
+    "aliases": [
+      "85mm f1.8 s df dsm"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -6077,7 +6468,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 69.0
+    "diameter": 69.0,
+    "aliases": [
+      "85mm f2.0 evo"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6106,7 +6500,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 59.7
+    "diameter": 59.7,
+    "aliases": [
+      "90mm f2.8 dg dn c"
+    ]
   },
   {
     "brand": "Sony",
@@ -6135,7 +6532,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 79.0
+    "diameter": 79.0,
+    "aliases": [
+      "90G",
+      "90g"
+    ]
   },
   {
     "brand": "Tamron",
@@ -6164,7 +6565,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 79.2
+    "diameter": 79.2,
+    "aliases": [
+      "90mm f2.8 di iii macro vxd"
+    ]
   },
   {
     "brand": "Sirui",
@@ -6193,7 +6597,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "100mm t1.8 1.33x"
+    ]
   },
   {
     "brand": "Samyang",
@@ -6222,7 +6629,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.2
+    "diameter": 72.2,
+    "aliases": [
+      "100mm t2.3 v-af"
+    ]
   },
   {
     "brand": "Sony",
@@ -6251,7 +6661,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 85.2
+    "diameter": 85.2,
+    "aliases": [
+      "100GM",
+      "100gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -6280,7 +6694,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 81.4
+    "diameter": 81.4,
+    "aliases": [
+      "100GM",
+      "100gm"
+    ]
   },
   {
     "brand": "Tokina",
@@ -6309,7 +6727,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.0
+    "diameter": 74.0,
+    "aliases": [
+      "100mm f2.8 fe macro firin"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6338,7 +6759,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 115.9
+    "diameter": 115.9,
+    "aliases": [
+      "105mm f1.4 dg hsm art"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6367,7 +6791,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 111.7
+    "diameter": 111.7,
+    "aliases": [
+      "135mm f1.4 dg dn art"
+    ]
   },
   {
     "brand": "Samyang",
@@ -6396,7 +6823,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 93.4
+    "diameter": 93.4,
+    "aliases": [
+      "135mm f1.8 af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6425,7 +6855,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 91.4
+    "diameter": 91.4,
+    "aliases": [
+      "135mm f1.8 dg hsm art"
+    ]
   },
   {
     "brand": "Sony",
@@ -6454,7 +6887,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 89.5
+    "diameter": 89.5,
+    "aliases": [
+      "135GM",
+      "135gm"
+    ]
   },
   {
     "brand": "Viltrox",
@@ -6483,7 +6920,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 93.0
+    "diameter": 93.0,
+    "aliases": [
+      "135mm f1.8 af lab"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -6512,7 +6952,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.0
+    "diameter": 81.0,
+    "aliases": [
+      "135mm f2.8 apo"
+    ]
   },
   {
     "brand": "Laowa",
@@ -6541,7 +6984,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 67.6
+    "diameter": 67.6,
+    "aliases": [
+      "180mm f4.5 ca-dreamer macro"
+    ]
   },
   {
     "brand": "Laowa",
@@ -6570,7 +7016,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 118.0
+    "diameter": 118.0,
+    "aliases": [
+      "200mm f2.0 c-dreamer"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6599,7 +7048,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 118.9
+    "diameter": 118.9,
+    "aliases": [
+      "200mm f2.0 dg os sports"
+    ]
   },
   {
     "brand": "Sony",
@@ -6628,7 +7080,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 124.0
+    "diameter": 124.0,
+    "aliases": [
+      "300GM",
+      "300gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -6657,7 +7113,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 158.1
+    "diameter": 158.1,
+    "aliases": [
+      "400GM",
+      "400gm"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6686,7 +7146,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 107.6
+    "diameter": 107.6,
+    "aliases": [
+      "500mm f5.6 dg dn os sport"
+    ]
   },
   {
     "brand": "Sony",
@@ -6715,7 +7178,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 163.6
+    "diameter": 163.6,
+    "aliases": [
+      "600GM",
+      "600gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -6744,7 +7211,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 97.6
+    "diameter": 97.6,
+    "aliases": [
+      "1224GM",
+      "1224gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -6773,7 +7244,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 87.0
+    "diameter": 87.0,
+    "aliases": [
+      "1224G",
+      "1224g"
+    ]
   },
   {
     "brand": "Samyang",
@@ -6802,7 +7277,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 84.0
+    "diameter": 84.0,
+    "aliases": [
+      "14-24mm f2.8 af"
+    ]
   },
   {
     "brand": "Sony",
@@ -6831,7 +7309,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 74.8
+    "diameter": 74.8,
+    "aliases": [
+      "1625G",
+      "1625g"
+    ]
   },
   {
     "brand": "Sigma",
@@ -6860,7 +7342,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.2
+    "diameter": 77.2,
+    "aliases": [
+      "16-28mm f2.8 dg dn c"
+    ]
   },
   {
     "brand": "Tamron",
@@ -6889,7 +7374,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.8
+    "diameter": 74.8,
+    "aliases": [
+      "16-30mm f2.8 di iii vxd g2 a064"
+    ]
   },
   {
     "brand": "Sony",
@@ -6918,7 +7406,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 88.5
+    "diameter": 88.5,
+    "aliases": [
+      "1635GM",
+      "1635gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -6947,7 +7439,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "1635GM2",
+      "1635gm2"
+    ]
   },
   {
     "brand": "Sony",
@@ -6976,7 +7472,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 118.4
+    "diameter": 118.4,
+    "aliases": [
+      "1635G",
+      "1635g"
+    ]
   },
   {
     "brand": "Sony",
@@ -7005,7 +7505,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 78.0
+    "diameter": 78.0,
+    "aliases": [
+      "16-35mm f4 za oss"
+    ]
   },
   {
     "brand": "Sony",
@@ -7034,7 +7537,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 80.5
+    "diameter": 80.5,
+    "aliases": [
+      "1635G",
+      "1635g"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7063,7 +7570,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "17-28mm f2.8 di iii rxd a046"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7092,7 +7602,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.8
+    "diameter": 74.8,
+    "aliases": [
+      "17-50mm f4 di iii rxd a068"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7121,7 +7634,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.7
+    "diameter": 74.7,
+    "aliases": [
+      "20-40mm f2.8 di iii vxd a062 20-40mm f2.8 di iii vxd a062"
+    ]
   },
   {
     "brand": "Sony",
@@ -7150,7 +7666,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "2070G",
+      "2070g"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7179,7 +7699,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.2
+    "diameter": 77.2,
+    "aliases": [
+      "20-200mm f3.5-6.3 dg c"
+    ]
   },
   {
     "brand": "Sony",
@@ -7208,7 +7731,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 74.8
+    "diameter": 74.8,
+    "aliases": [
+      "2450G",
+      "2450g"
+    ]
   },
   {
     "brand": "Samyang",
@@ -7237,7 +7764,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 88.0
+    "diameter": 88.0,
+    "aliases": [
+      "24-70mm f2.8 af"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7266,7 +7796,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "24-70mm f2.8 dg dn art"
+    ]
   },
   {
     "brand": "Sony",
@@ -7295,7 +7828,11 @@
     "specialElements": "2 XA, 3 ED, 2 Aspherical",
     "coatings": "Nano AR II, Fluorine Coating",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 87.6
+    "diameter": 87.6,
+    "aliases": [
+      "2470GM",
+      "2470gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -7324,7 +7861,11 @@
     "specialElements": "2 XA, 3 ED, 2 Aspherical",
     "coatings": "Nano AR II, Fluorine Coating",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "2470GM2",
+      "2470gm2"
+    ]
   },
   {
     "brand": "Sony",
@@ -7353,7 +7894,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "24-70mm f4 za oss"
+    ]
   },
   {
     "brand": "Sony",
@@ -7382,7 +7926,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 83.4
+    "diameter": 83.4,
+    "aliases": [
+      "24105G",
+      "24105g"
+    ]
   },
   {
     "brand": "Sony",
@@ -7411,7 +7959,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 80.5
+    "diameter": 80.5,
+    "aliases": [
+      "24-240mm f3.5-6.3 oss"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7440,7 +7991,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 76.2
+    "diameter": 76.2,
+    "aliases": [
+      "25-200mm f2.8-5.6 g2 vxd a075"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7469,7 +8023,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "28-45mm f1.8 dg dn art"
+    ]
   },
   {
     "brand": "Sony",
@@ -7498,7 +8055,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 64.0
+    "diameter": 64.0,
+    "aliases": [
+      "28-60mm f4-5.6"
+    ]
   },
   {
     "brand": "Sony",
@@ -7527,7 +8087,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 139.8
+    "diameter": 139.8,
+    "aliases": [
+      "2870GM",
+      "2870gm"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7556,7 +8120,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.2
+    "diameter": 72.2,
+    "aliases": [
+      "28-70mm f2.8 dg dn c"
+    ]
   },
   {
     "brand": "Sony",
@@ -7585,7 +8152,10 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 72.5
+    "diameter": 72.5,
+    "aliases": [
+      "28-70mm f3.5-5.6 oss"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7614,7 +8184,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 73.0
+    "diameter": 73.0,
+    "aliases": [
+      "28-75mm f2.8 di iii rxd a036"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7643,7 +8216,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 75.8
+    "diameter": 75.8,
+    "aliases": [
+      "28-75mm f2.8 di iii vxd a063 g2"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7672,7 +8248,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 87.8
+    "diameter": 87.8,
+    "aliases": [
+      "28-105mm f2.8 dg dn art"
+    ]
   },
   {
     "brand": "Sony",
@@ -7701,7 +8280,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 105.0
+    "diameter": 105.0,
+    "aliases": [
+      "28135G",
+      "28135g"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7730,7 +8313,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.0
+    "diameter": 74.0,
+    "aliases": [
+      "28-200mm f2.8-5.6 di iii rxd a071"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7759,7 +8345,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.0
+    "diameter": 77.0,
+    "aliases": [
+      "28-300mm f4.0-7.1 di iii vxd a074"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7788,7 +8377,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.6
+    "diameter": 80.6,
+    "aliases": [
+      "35-100mm f2.8 di iii vxd a078"
+    ]
   },
   {
     "brand": "Samyang",
@@ -7817,7 +8409,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 92.8
+    "diameter": 92.8,
+    "aliases": [
+      "35-150mm f2.0-2.8 af"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7846,7 +8441,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 89.2
+    "diameter": 89.2,
+    "aliases": [
+      "35-150mm f2.0-2.8 di iii vxd a058"
+    ]
   },
   {
     "brand": "Sony",
@@ -7875,7 +8473,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 102.8
+    "diameter": 102.8,
+    "aliases": [
+      "50150GM",
+      "50150gm"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7904,7 +8506,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "50-300mm f4.5-6.3 di iii vc vxd a069"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7933,7 +8538,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 88.5
+    "diameter": 88.5,
+    "aliases": [
+      "50-400mm f4.5-6.3 di iii vc vxd a067"
+    ]
   },
   {
     "brand": "Sigma",
@@ -7962,7 +8570,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 120.4
+    "diameter": 120.4,
+    "aliases": [
+      "60-600mm f4.5-6.3 dg dn os sport"
+    ]
   },
   {
     "brand": "Tamron",
@@ -7991,7 +8602,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.0
+    "diameter": 81.0,
+    "aliases": [
+      "70-180mm f2.8 di iii vxd a056"
+    ]
   },
   {
     "brand": "Tamron",
@@ -8020,7 +8634,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 83.0
+    "diameter": 83.0,
+    "aliases": [
+      "70-180mm f2.8 di iii vxd a065 g2"
+    ]
   },
   {
     "brand": "Sigma",
@@ -8049,7 +8666,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 90.6
+    "diameter": 90.6,
+    "aliases": [
+      "70-200mm f2.8 dg dn sport"
+    ]
   },
   {
     "brand": "Sony",
@@ -8078,7 +8698,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 88.0
+    "diameter": 88.0,
+    "aliases": [
+      "70200GM",
+      "70200gm"
+    ]
   },
   {
     "brand": "Sony",
@@ -8107,7 +8731,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 88.0
+    "diameter": 88.0,
+    "aliases": [
+      "70200GM2",
+      "70200gm2"
+    ]
   },
   {
     "brand": "Sony",
@@ -8136,7 +8764,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 80.0
+    "diameter": 80.0,
+    "aliases": [
+      "70200G",
+      "70200g"
+    ]
   },
   {
     "brand": "Sony",
@@ -8165,7 +8797,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 82.0
+    "diameter": 82.0,
+    "aliases": [
+      "70200G2",
+      "70200g2"
+    ]
   },
   {
     "brand": "Sony",
@@ -8194,7 +8830,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 84.0
+    "diameter": 84.0,
+    "aliases": [
+      "70300G",
+      "70300g"
+    ]
   },
   {
     "brand": "Tamron",
@@ -8223,7 +8863,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.0
+    "diameter": 77.0,
+    "aliases": [
+      "70-300mm f4.5-6.3 di iii rxd a047"
+    ]
   },
   {
     "brand": "Sony",
@@ -8252,7 +8895,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 93.9
+    "diameter": 93.9,
+    "aliases": [
+      "100400GM",
+      "100400gm"
+    ]
   },
   {
     "brand": "Sigma",
@@ -8281,7 +8928,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 86.0
+    "diameter": 86.0,
+    "aliases": [
+      "100-400mm f5-6.3 dg dn os c"
+    ]
   },
   {
     "brand": "Sigma",
@@ -8310,7 +8960,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 109.4
+    "diameter": 109.4,
+    "aliases": [
+      "150-600mm f5-6.3 dg dn os"
+    ]
   },
   {
     "brand": "Sony",
@@ -8339,7 +8992,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 111.5
+    "diameter": 111.5,
+    "aliases": [
+      "200600G",
+      "200600g"
+    ]
   },
   {
     "brand": "Sigma",
@@ -8368,7 +9025,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 167.0
+    "diameter": 167.0,
+    "aliases": [
+      "300-600mm f4.0 dg dn os sport"
+    ]
   },
   {
     "brand": "Sony",
@@ -8397,7 +9057,11 @@
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR Coating, Fluorine",
     "closeFocus": "0.3m - 0.5m",
-    "diameter": 119.8
+    "diameter": 119.8,
+    "aliases": [
+      "400800G",
+      "400800g"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8426,7 +9090,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 66.0
+    "diameter": 66.0,
+    "aliases": [
+      "9mm f5.6 w-dreamer"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8455,7 +9122,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 68.5
+    "diameter": 68.5,
+    "aliases": [
+      "10mm f5.6"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8484,7 +9154,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 58.0
+    "diameter": 58.0,
+    "aliases": [
+      "11mm f4.5 c-dreamer"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8513,7 +9186,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 82.2
+    "diameter": 82.2,
+    "aliases": [
+      "12mm f2.8 zero-d"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8542,7 +9218,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 68.3
+    "diameter": 68.3,
+    "aliases": [
+      "12mm f5.6 aspherical"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8571,7 +9250,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 77.2
+    "diameter": 77.2,
+    "aliases": [
+      "15mm f2 zero-d"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8600,7 +9282,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 83.8
+    "diameter": 83.8,
+    "aliases": [
+      "15mm f4.0 wide macro 1:1"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8629,7 +9314,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 62.3
+    "diameter": 62.3,
+    "aliases": [
+      "15mm f4.5 iii"
+    ]
   },
   {
     "brand": "Tokina",
@@ -8658,7 +9346,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.5
+    "diameter": 81.5,
+    "aliases": [
+      "20mm f2 mf"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8687,7 +9378,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 79.5
+    "diameter": 79.5,
+    "aliases": [
+      "21mm f1.4 aspherical"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -8716,7 +9410,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 72.0
+    "diameter": 72.0,
+    "aliases": [
+      "21mm f2.8"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8745,7 +9442,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 39.9
+    "diameter": 39.9,
+    "aliases": [
+      "21mm f3.5 aspherical"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8774,7 +9474,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 408.0
+    "diameter": 408.0,
+    "aliases": [
+      "24mm f14 2x macro probe"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -8803,7 +9506,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 74.5
+    "diameter": 74.5,
+    "aliases": [
+      "25mm f2.4"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8832,7 +9538,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 65.0
+    "diameter": 65.0,
+    "aliases": [
+      "25mm f2.8 ultra macro 2.5-5x"
+    ]
   },
   {
     "brand": "Laowa",
@@ -8861,7 +9570,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 103.0
+    "diameter": 103.0,
+    "aliases": [
+      "35mm f0.95 ff ii argus"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8890,7 +9602,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 59.9
+    "diameter": 59.9,
+    "aliases": [
+      "35mm f1.2 aspherical se"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8919,7 +9634,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 39.6
+    "diameter": 39.6,
+    "aliases": [
+      "35mm f1.4"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8948,7 +9666,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 67.0
+    "diameter": 67.0,
+    "aliases": [
+      "35mm f2"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -8977,7 +9698,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 51.9
+    "diameter": 51.9,
+    "aliases": [
+      "40mm f1.2 aspherical se"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9006,7 +9730,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 59.3
+    "diameter": 59.3,
+    "aliases": [
+      "40mm f1.2 aspherical"
+    ]
   },
   {
     "brand": "Mitakon",
@@ -9035,7 +9762,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 85.0
+    "diameter": 85.0,
+    "aliases": [
+      "50mm f0.95 iii"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9064,7 +9794,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 58.5
+    "diameter": 58.5,
+    "aliases": [
+      "50mm f1.2 aspherical se"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9093,7 +9826,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 58.8
+    "diameter": 58.8,
+    "aliases": [
+      "50mm f1.2 aspherical"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -9122,7 +9858,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 59.2
+    "diameter": 59.2,
+    "aliases": [
+      "50mm f2"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9151,7 +9890,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 61.3
+    "diameter": 61.3,
+    "aliases": [
+      "50mm f2 apo-lanthar"
+    ]
   },
   {
     "brand": "Laowa",
@@ -9180,7 +9922,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 70.0
+    "diameter": 70.0,
+    "aliases": [
+      "60mm f2.8 macro 2:1"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9209,7 +9954,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 91.3
+    "diameter": 91.3,
+    "aliases": [
+      "65mm f2 macro apo-lanthar"
+    ]
   },
   {
     "brand": "Zeiss",
@@ -9238,7 +9986,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 94.8
+    "diameter": 94.8,
+    "aliases": [
+      "85mm f2.4"
+    ]
   },
   {
     "brand": "Laowa",
@@ -9267,7 +10018,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 81.0
+    "diameter": 81.0,
+    "aliases": [
+      "85mm f5.6 2x ultra-macro apo"
+    ]
   },
   {
     "brand": "Laowa",
@@ -9296,7 +10050,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 125.0
+    "diameter": 125.0,
+    "aliases": [
+      "100mm f2.8 ultra-macro"
+    ]
   },
   {
     "brand": "Laowa",
@@ -9325,7 +10082,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 98.9
+    "diameter": 98.9,
+    "aliases": [
+      "105mm f2.0(t3.2) stf mf"
+    ]
   },
   {
     "brand": "Voigtlander",
@@ -9354,7 +10114,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 99.7
+    "diameter": 99.7,
+    "aliases": [
+      "110mm f2.5 macro"
+    ]
   },
   {
     "brand": "Samyang",
@@ -9383,7 +10146,10 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 148.0
+    "diameter": 148.0,
+    "aliases": [
+      "135mm f2.0 ed umc"
+    ]
   },
   {
     "brand": "Laowa",
@@ -9412,11 +10178,14 @@
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "diameter": 90.9
+    "diameter": 90.9,
+    "aliases": [
+      "10-18mm f4.5-5.6 zoom"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "FX3",
+    "modelName": "Sony afx3",
     "gearType": "CAMERA_BODY",
     "megapixels": 12.1,
     "weightGrams": 630,
@@ -9434,7 +10203,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "FX3",
-      "Sony afx3",
       "Sonyafx3",
       "afx3",
       "fx3",
@@ -9444,7 +10212,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "FX30",
+    "modelName": "Sony aFX30",
     "gearType": "CAMERA_BODY",
     "megapixels": 26.0,
     "weightGrams": 562,
@@ -9462,7 +10230,6 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "FX30",
-      "Sony aFX30",
       "SonyaFX30",
       "aFX30",
       "afx30",
@@ -9497,7 +10264,13 @@
     "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
-    "diameter": "--"
+    "diameter": "--",
+    "aliases": [
+      "28-70mm F2 GM",
+      "2870GM",
+      "2870gm",
+      "F28-70mm F2 GM"
+    ]
   },
   {
     "brand": "Sony",
@@ -9525,7 +10298,13 @@
     "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
-    "diameter": "--"
+    "diameter": "--",
+    "aliases": [
+      "85GM2",
+      "85gm2",
+      "85mm F1.4 GM II",
+      "F85mm F1.4 GM II"
+    ]
   },
   {
     "brand": "Sony",
@@ -9553,11 +10332,15 @@
     "maxMagnification": "0.15x - 0.25x",
     "hasCustomButton": false,
     "lengthMm": "--",
-    "diameter": "--"
+    "diameter": "--",
+    "aliases": [
+      "11mm F1.8",
+      "e 11mm f1.8"
+    ]
   },
   {
     "brand": "Sony",
-    "modelName": "A75",
+    "modelName": "Sony aA7 V",
     "gearType": "CAMERA_BODY",
     "sensorType": "Partially Stacked CMOS",
     "megapixels": 33.0,
@@ -9576,7 +10359,6 @@
       "A7 V",
       "A75",
       "A7V",
-      "Sony aA7 V",
       "SonyaA7V",
       "a7 v",
       "a75",
@@ -9615,7 +10397,10 @@
     "hasCustomButton": false,
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "24-70mm f2.8 dg dn ii art"
+    ]
   },
   {
     "opticalDesign": "15 groups, 19 elements",
@@ -9643,7 +10428,12 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "14L",
+      "14l",
+      "14mm f/1.4 L VCM"
+    ]
   },
   {
     "opticalDesign": "18 groups, 21 elements",
@@ -9670,7 +10460,12 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "70-200mm f/2.8 VR S II",
+      "70200S2",
+      "70200s2"
+    ]
   },
   {
     "opticalDesign": "10 groups, 15 elements",
@@ -9708,7 +10503,12 @@
     "weightGrams": "--",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "16-55mm F2.8 R LM WR II",
+      "1655WR",
+      "1655wr"
+    ]
   },
   {
     "brand": "Sigma",
@@ -9736,6 +10536,9 @@
     "hasCustomButton": false,
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--"
+    "series": "--",
+    "aliases": [
+      "35mm f1.4 dg dn art ii"
+    ]
   }
 ]
