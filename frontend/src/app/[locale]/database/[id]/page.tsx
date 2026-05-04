@@ -161,7 +161,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                   {gear.megapixels && (
                     <div className="bg-[#111] border border-white/5 p-4">
                       <div className="text-gray-500 text-[10px] uppercase tracking-widest mb-1">{t('megapixels')}</div>
-                      <div className="text-white text-xl font-light">{gear.megapixels}MP</div>
+                      <div className="text-white text-xl font-light">{gear.megapixels}</div>
                     </div>
                   )}
                   {gear.sensorType && (
@@ -175,7 +175,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
               {gear.weightGrams && (
                 <div className="bg-[#111] border border-white/5 p-4">
                   <div className="text-gray-500 text-[10px] uppercase tracking-widest mb-1">{t('weight')}</div>
-                  <div className="text-white text-xl font-light">{gear.weightGrams}g</div>
+                  <div className="text-white text-xl font-light">{gear.weightGrams}</div>
                 </div>
               )}
               {gear.launchPrice && (

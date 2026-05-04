@@ -83,20 +83,20 @@ export default function CameraCard({ gear, isSelected, isDisabled, onToggle, t, 
                 gear.megapixels && (
                   <div className="flex justify-between border-b border-white/5 pb-1">
                     <span>{t('megapixels')}</span>
-                    <span className="text-gray-300">{gear.megapixels}MP</span>
+                    <span className="text-gray-300">{gear.megapixels}</span>
                   </div>
                 )
               )}
               {gear.weightGrams && (
                 <div className="flex justify-between border-b border-white/5 pb-1">
                   <span>{t('weight')}</span>
-                  <span className="text-gray-300">{gear.weightGrams}g</span>
+                  <span className="text-gray-300">{gear.weightGrams}</span>
                 </div>
               )}
               {isLens && gear.filterSizeMm && (
                 <div className="flex justify-between border-b border-white/5 pb-1">
                   <span>{t('filterSize')}</span>
-                  <span className="text-gray-300">{gear.filterSizeMm}mm</span>
+                  <span className="text-gray-300">{gear.filterSizeMm}</span>
                 </div>
               )}
               {!isLens && gear.videoResolution && (
