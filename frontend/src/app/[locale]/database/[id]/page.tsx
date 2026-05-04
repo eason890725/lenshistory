@@ -28,11 +28,15 @@ async function getGear(id: string) {
 }
 
 function SpecRow({ label, value, unit }: { label: string; value: any; unit?: string }) {
-  if (value === null || value === undefined) return null;
+  if (value === null || value === undefined || value === "") return null;
+  // Prevent duplicate units
+  const displayValue = String(value);
+  const displayUnit = (unit && !displayValue.includes(unit)) ? unit : '';
+  
   return (
     <div className="flex justify-between items-center border-b border-white/5 py-3 px-4 hover:bg-white/[0.02] transition-colors">
       <span className="text-gray-500 text-xs uppercase tracking-widest font-bold">{label}</span>
-      <span className="text-white text-sm font-light">{value}{unit || ''}</span>
+      <span className="text-white text-sm font-light">{displayValue}{displayUnit}</span>
     </div>
   );
 }
@@ -249,14 +253,15 @@ export default async function GearDetailPage({
                 </>
               )}
               <SpecRow label={t('weight')} value={gear.weightGrams} unit="g" />
-              <SpecRow label={t('dimensions')} value={gear.dimensions} />
-              {isLens && (
+              {isLens ? (
                 <>
                   <SpecRow label={t('length')} value={gear.lengthMm} unit="mm" />
-                  <SpecRow label={t('diameter')} value={gear.diameterMm} unit="mm" />
-                  <SpecRow label={t('series')} value={gear.series} />
-                  <SpecRow label={t('type')} value={gear.lensType} />
+                  <SpecRow label={t('diameter')} value={gear.widthMm || gear.diameterMm} unit="mm" />
+                  <SpecRow label={t('maxMagnification')} value={gear.maxMagnification} unit="x" />
+                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm} unit="mm" />
                 </>
+              ) : (
+                <SpecRow label={t('dimensions')} value={gear.dimensions} />
               )}
             </div>
           </div>
