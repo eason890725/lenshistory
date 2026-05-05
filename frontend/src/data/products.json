@@ -1721,15 +1721,16 @@
     "videoResolution": "6K 60p RAW / 4K 120p",
     "afPoints": "Dual Pixel Intelligent AF",
     "evfResolution": "9.44M-dot OLED",
-    "burstSpeed": "40 fps",
+    "burstSpeed": "40 fps (Electronic Shutter)",
     "logSupport": "C-Log 2/3",
     "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": "Approx. 922 g (including battery and card)",
     "launchPrice": 198000,
     "aliases": [
       "R1",
+      "r1",
       "EOSR1",
-      "CanonR1"
+      "Flagship"
     ],
     "processor": "DIGIC X + DIGIC Accelerator",
     "ibisRating": "8.5 stops (CIPA)",
@@ -1758,13 +1759,13 @@
     "evfResolution": "5.76M-dot OLED",
     "burstSpeed": "30 fps",
     "logSupport": "C-Log 3",
-    "sensorType": "Stacked CMOS",
+    "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": "Approx. 1015 g (including battery and card)",
     "launchPrice": 172000,
     "aliases": [
       "R3",
-      "EOSR3",
-      "CanonR3"
+      "r3",
+      "EOSR3"
     ],
     "processor": "DIGIC X",
     "afTargets": "Human, Animal, Bird, Vehicle (Eye Control AF)",
@@ -1795,8 +1796,9 @@
     "launchPrice": 122000,
     "aliases": [
       "R5II",
+      "r5ii",
       "R5MarkII",
-      "EOSR5II"
+      "R52"
     ],
     "processor": "DIGIC X + DIGIC Accelerator",
     "afTargets": "Human, Animal, Bird, Vehicle (Action Priority)",
