@@ -1724,22 +1724,19 @@
     "burstSpeed": "40 fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Back-illuminated Stacked CMOS",
-    "weightGrams": "Approx. 1115 g (including battery and card)",
+    "weightGrams": "Approx. 922 g (including battery and card)",
     "launchPrice": 198000,
     "aliases": [
-      "Canon eos r1",
-      "EOS R1",
-      "EOSR1",
       "R1",
-      "eosr1",
-      "r1"
+      "EOSR1",
+      "CanonR1"
     ],
     "processor": "DIGIC X + DIGIC Accelerator",
     "ibisRating": "8.5 stops (CIPA)",
     "afRange": "EV -7.5 to 21",
     "evfMagnification": "0.90x",
     "batteryLifeShots": "Approx. 700 shots (CIPA)",
-    "dimensions": "157.6 x 149.2 x 87.3 mm",
+    "dimensions": "157.6 x 149.5 x 87.3 mm",
     "afTargets": "Human, Animal, Bird, Vehicle, Horse, Plane, Train",
     "videoColorDepth": "10-bit 4:2:2 (HEVC/RAW)",
     "isoRange": "100-102400 (Ext: 50-409600)",
@@ -1765,14 +1762,9 @@
     "weightGrams": "Approx. 1015 g (including battery and card)",
     "launchPrice": 172000,
     "aliases": [
-      "Canon eos r3",
-      "EOS R3",
-      "EOS r3",
-      "EOSR3",
-      "EOSr3",
       "R3",
-      "eosr3",
-      "r3"
+      "EOSR3",
+      "CanonR3"
     ],
     "processor": "DIGIC X",
     "afTargets": "Human, Animal, Bird, Vehicle (Eye Control AF)",
@@ -1781,7 +1773,8 @@
     "ibisRating": "8.0 stops (CIPA)",
     "evfMagnification": "0.76x",
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
-    "batterySpec": "LP-E19 (Approx. 760 shots CIPA)"
+    "batterySpec": "LP-E19 (Approx. 760 shots CIPA)",
+    "dimensions": "150.0 x 142.6 x 87.2 mm"
   },
   {
     "brand": "Canon",
@@ -1801,19 +1794,9 @@
     "weightGrams": "Approx. 746 g (including battery and card)",
     "launchPrice": 122000,
     "aliases": [
-      "Canon eos r5 mark ii",
-      "EOS R5 II",
-      "EOS R5 Mark II",
-      "EOS r5 Mark ii",
-      "EOSR5II",
-      "EOSr5Markii",
-      "R5 Mark II",
       "R5II",
-      "R5MARKII",
-      "eos r5 ii",
-      "eosr5ii",
-      "r5 mark ii",
-      "r5ii"
+      "R5MarkII",
+      "EOSR5II"
     ],
     "processor": "DIGIC X + DIGIC Accelerator",
     "afTargets": "Human, Animal, Bird, Vehicle (Action Priority)",
@@ -1841,20 +1824,16 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Canon eos r5",
-      "EOS R5",
-      "EOS r5",
-      "EOSR5",
-      "EOSr5",
       "R5",
-      "eosr5",
-      "r5"
+      "EOSR5"
     ],
     "processor": "DIGIC X",
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E6NH (Approx. 490 shots CIPA)"
+    "batterySpec": "LP-E6NH (Approx. 490 shots CIPA)",
+    "weightGrams": "Approx. 738 g (including battery and card)",
+    "dimensions": "138.5 x 97.5 x 88.0 mm"
   },
   {
     "brand": "Canon",
@@ -1872,19 +1851,9 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 76900,
     "aliases": [
-      "Canon eos r6 mark ii",
-      "EOS R6 II",
-      "EOS R6 Mark II",
-      "EOS r6 Mark ii",
-      "EOSR6II",
-      "EOSr6Markii",
-      "R6 Mark II",
       "R6II",
-      "R6MARKII",
-      "eos r6 ii",
-      "eosr6ii",
-      "r6 mark ii",
-      "r6ii"
+      "R6MarkII",
+      "EOSR6II"
     ],
     "processor": "DIGIC X",
     "afTargets": "Human, Animal, Bird, Vehicle, Insect, Plane, Train",
@@ -1893,7 +1862,9 @@
     "ibisRating": "8.0 stops (CIPA)",
     "evfMagnification": "0.76x",
     "cardSlots": "2x SD UHS-II",
-    "batterySpec": "LP-E6NH (Approx. 760 shots CIPA)"
+    "batterySpec": "LP-E6NH (Approx. 760 shots CIPA)",
+    "weightGrams": "Approx. 670 g (including battery and card)",
+    "dimensions": "138.4 x 98.4 x 88.4 mm"
   },
   {
     "brand": "Canon",
@@ -1911,20 +1882,16 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Canon eos r6",
-      "EOS R6",
-      "EOS r6",
-      "EOSR6",
-      "EOSr6",
       "R6",
-      "eosr6",
-      "r6"
+      "EOSR6"
     ],
     "processor": "DIGIC X",
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E6NH (Approx. 510 shots CIPA)"
+    "batterySpec": "LP-E6NH (Approx. 510 shots CIPA)",
+    "weightGrams": "Approx. 680 g (including battery and card)",
+    "dimensions": "138.4 x 97.5 x 88.4 mm"
   },
   {
     "brand": "Canon",
@@ -1942,14 +1909,8 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Canon eos r8",
-      "EOS R8",
-      "EOS r8",
-      "EOSR8",
-      "EOSr8",
       "R8",
-      "eosr8",
-      "r8"
+      "EOSR8"
     ],
     "processor": "DIGIC X",
     "afTargets": "Human, Animal, Bird, Vehicle, Insect, Plane, Train",
@@ -1958,7 +1919,9 @@
     "ibisRating": "No (Lens OIS support)",
     "evfMagnification": "0.70x",
     "cardSlots": "1x SD UHS-II",
-    "batterySpec": "LP-E17 (Approx. 290 shots CIPA)"
+    "batterySpec": "LP-E17 (Approx. 290 shots CIPA)",
+    "weightGrams": "Approx. 461 g (including battery and card)",
+    "dimensions": "132.5 x 86.1 x 70.0 mm"
   },
   {
     "brand": "Canon",
@@ -1976,20 +1939,16 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Canon eos r",
-      "EOS R",
-      "EOS r",
       "EOSR",
-      "EOSr",
-      "R",
-      "eosr",
-      "r"
+      "CanonR"
     ],
     "processor": "DIGIC 8",
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E6N (Approx. 370 shots CIPA)"
+    "batterySpec": "LP-E6N (Approx. 370 shots CIPA)",
+    "weightGrams": "Approx. 660 g (including battery and card)",
+    "dimensions": "135.8 x 98.3 x 84.4 mm"
   },
   {
     "brand": "Canon",
@@ -2007,20 +1966,16 @@
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
-      "Canon eos rp",
-      "EOS RP",
-      "EOS rp",
       "EOSRP",
-      "EOSrp",
-      "RP",
-      "eosrp",
-      "rp"
+      "CanonRP"
     ],
     "processor": "DIGIC 8",
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E17 (Approx. 250 shots CIPA)"
+    "batterySpec": "LP-E17 (Approx. 250 shots CIPA)",
+    "weightGrams": "Approx. 485 g (including battery and card)",
+    "dimensions": "132.5 x 85.0 x 70.0 mm"
   },
   {
     "brand": "Canon",
