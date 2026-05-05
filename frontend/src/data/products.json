@@ -3738,11 +3738,11 @@
     "releaseYear": 2020,
     "slug": "z-14-24mm-f-2-8-s",
     "id": "z-14-24mm-f-2-8-s",
-    "motorType": "STM",
-    "opticalDesign": "16 elements in 11 groups",
-    "minAperture": "--",
-    "specialElements": "4 ED, 3 Aspherical",
-    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "motorType": "STM (Stepping Motor)",
+    "opticalDesign": "15 elements in 12 groups",
+    "minAperture": "22",
+    "specialElements": "4 ED elements, 3 Aspherical elements",
+    "coatings": "Nano Crystal Coat, ARNEO Coat, Fluorine Coating",
     "closeFocus": "0.28m",
     "maxMagnification": "0.13x",
     "hasOIS": false,
@@ -3752,7 +3752,7 @@
     "weightGrams": "650 g",
     "lengthMm": 124.5,
     "diameter": 88.5,
-    "series": "--",
+    "series": "S-Line",
     "launchPrice": 75000,
     "aliases": [
       "14-24mm f/2.8 S",
@@ -3778,9 +3778,9 @@
     "id": "z-24-70mm-f-2-8-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "17 elements in 15 groups",
-    "minAperture": "--",
-    "specialElements": "2 ED, 4 Aspherical",
-    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "minAperture": "22",
+    "specialElements": "2 ED elements, 4 Aspherical elements",
+    "coatings": "Nano Crystal Coat, ARNEO Coat, Fluorine Coating",
     "closeFocus": "0.38m",
     "maxMagnification": "0.22x",
     "hasOIS": false,
@@ -3790,7 +3790,7 @@
     "weightGrams": "805 g",
     "lengthMm": 126.0,
     "diameter": 89.0,
-    "series": "--",
+    "series": "S-Line",
     "launchPrice": 71000,
     "aliases": [
       "24-70mm f/2.8 S",
@@ -3800,7 +3800,7 @@
       "Z 24-70mm f/2.8 S",
       "Z24-70mmf/2.8S"
     ],
-    "dimensions": "φ89.0 x 126.0 mm",
+    "dimensions": "φ89 x 126 mm",
     "filterSizeMm": "82mm"
   },
   {
@@ -3816,19 +3816,19 @@
     "id": "z-70-200mm-f-2-8-vr-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "21 elements in 18 groups",
-    "minAperture": "--",
-    "specialElements": "6 ED, 2 Aspherical, 1 Fluorite, 1 SR",
-    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "minAperture": "22",
+    "specialElements": "6 ED elements, 2 Aspherical, 1 Fluorite, 1 SR element",
+    "coatings": "Nano Crystal Coat, ARNEO Coat, Fluorine Coating",
     "closeFocus": "0.5m",
     "maxMagnification": "0.20x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "hasWeatherSeal": false,
-    "weightGrams": "1360 g",
+    "weightGrams": "1360 g (with tripod collar)",
     "lengthMm": 220.0,
     "diameter": 89.0,
-    "series": "--",
+    "series": "S-Line",
     "launchPrice": 81000,
     "aliases": [
       "70-200mm f/2.8 VR S",
@@ -3838,7 +3838,7 @@
       "Z 70-200mm f/2.8 VR S",
       "Z70-200mmf/2.8VRS"
     ],
-    "dimensions": "φ89.0 x 220.0 mm",
+    "dimensions": "φ89 x 220 mm",
     "filterSizeMm": "77mm"
   },
   {
@@ -3854,9 +3854,9 @@
     "id": "z-135mm-f-1-8-s-plena",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "16 elements in 14 groups",
-    "minAperture": "--",
-    "specialElements": "4 ED, 1 Aspherical, 1 SR",
-    "coatings": "Meso Amorphous, ARNEO",
+    "minAperture": "16",
+    "specialElements": "4 ED elements, 1 Aspherical, 1 SR element",
+    "coatings": "Meso Amorphous Coat, ARNEO Coat",
     "closeFocus": "0.82m",
     "maxMagnification": "0.2x",
     "hasOIS": false,
@@ -3866,7 +3866,7 @@
     "weightGrams": "995 g",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--",
+    "series": "S-Line / Plena",
     "launchPrice": 84900,
     "aliases": [
       "135S",
@@ -3876,7 +3876,7 @@
       "Z 135mm f/1.8 S Plena",
       "Z135mmf/1.8SPlena"
     ],
-    "dimensions": "φ98.0 x 139.5 mm",
+    "dimensions": "φ98 x 139.5 mm",
     "filterSizeMm": "82mm"
   },
   {
@@ -3892,9 +3892,9 @@
     "id": "z-50mm-f-1-2-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "17 elements in 15 groups",
-    "minAperture": "--",
-    "specialElements": "2 ED, 3 Aspherical",
-    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "minAperture": "16",
+    "specialElements": "2 ED elements, 3 Aspherical elements",
+    "coatings": "Nano Crystal Coat, ARNEO Coat",
     "closeFocus": "0.45m",
     "maxMagnification": "0.15x",
     "hasOIS": false,
@@ -3904,7 +3904,7 @@
     "weightGrams": "1090 g",
     "lengthMm": "--",
     "diameter": "--",
-    "series": "--",
+    "series": "S-Line",
     "launchPrice": 65000,
     "aliases": [
       "50S",
@@ -3914,7 +3914,7 @@
       "Z 50mm f/1.2 S",
       "Z50mmf/1.2S"
     ],
-    "dimensions": "φ89.5 x 150.0 mm",
+    "dimensions": "φ89.5 x 150 mm",
     "filterSizeMm": "82mm"
   },
   {
@@ -11706,8 +11706,8 @@
   },
   {
     "opticalDesign": "15 elements in 10 groups",
-    "specialElements": "1 ED, 2 Aspherical",
-    "coatings": "Nano Crystal",
+    "specialElements": "1 ED element, 2 Aspherical elements",
+    "coatings": "Nano Crystal Coat",
     "motorType": "Multi-focusing System (STM)",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
@@ -11727,7 +11727,9 @@
     "focalLengthMaxMm": 85,
     "apertureMax": 1.2,
     "lensType": "PRIME",
-    "launchPrice": 84900
+    "launchPrice": 84900,
+    "minAperture": "16",
+    "series": "S-Line"
   },
   {
     "opticalDesign": "12 groups, 17 elements",
