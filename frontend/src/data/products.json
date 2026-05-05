@@ -1870,7 +1870,8 @@
     "cardSlots": "2x SD UHS-II",
     "batterySpec": "LP-E6NH (Approx. 760 shots CIPA)",
     "weightGrams": "Approx. 670 g (including battery and card)",
-    "dimensions": "138.4 x 98.4 x 88.4 mm"
+    "dimensions": "138.4 x 98.4 x 88.4 mm",
+    "image_url": "/images/products/canon/eos-r6-ii.jpg"
   },
   {
     "brand": "Canon",
@@ -1928,7 +1929,8 @@
     "cardSlots": "1x SD UHS-II",
     "batterySpec": "LP-E17 (Approx. 290 shots CIPA)",
     "weightGrams": "Approx. 461 g (including battery and card)",
-    "dimensions": "132.5 x 86.1 x 70.0 mm"
+    "dimensions": "132.5 x 86.1 x 70.0 mm",
+    "image_url": "/images/products/canon/eos-r8.jpg"
   },
   {
     "brand": "Canon",
@@ -1955,7 +1957,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6N (Approx. 370 shots CIPA)",
     "weightGrams": "Approx. 660 g (including battery and card)",
-    "dimensions": "135.8 x 98.3 x 84.4 mm"
+    "dimensions": "135.8 x 98.3 x 84.4 mm",
+    "image_url": "/images/products/canon/eos-r.jpg"
   },
   {
     "brand": "Canon",
@@ -1982,7 +1985,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 250 shots CIPA)",
     "weightGrams": "Approx. 485 g (including battery and card)",
-    "dimensions": "132.5 x 85.0 x 70.0 mm"
+    "dimensions": "132.5 x 85.0 x 70.0 mm",
+    "image_url": "/images/products/canon/eos-rp.jpg"
   },
   {
     "brand": "Canon",
@@ -2015,7 +2019,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6NH (Approx. 660 shots CIPA)",
     "weightGrams": "Approx. 612 g (including battery and card)",
-    "dimensions": "132.0 x 90.4 x 91.7 mm"
+    "dimensions": "132.0 x 90.4 x 91.7 mm",
+    "image_url": "/images/products/canon/eos-r7.jpg"
   },
   {
     "brand": "Canon",
@@ -2050,7 +2055,8 @@
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
-    "dimensions": "122.5 x 87.8 x 83.4 mm"
+    "dimensions": "122.5 x 87.8 x 83.4 mm",
+    "image_url": "/images/products/canon/eos-r10.jpg"
   },
   {
     "brand": "Canon",
