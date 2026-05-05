@@ -3705,8 +3705,8 @@
     "hasCustomButton": false,
     "hasWeatherSeal": false,
     "weightGrams": "650 g",
-    "lengthMm": "--",
-    "diameter": "--",
+    "lengthMm": 124.5,
+    "diameter": 88.5,
     "series": "--",
     "launchPrice": 0,
     "aliases": [
@@ -3717,7 +3717,8 @@
       "Z 14-24mm f/2.8 S",
       "Z14-24mmf/2.8S"
     ],
-    "dimensions": "φ88.5 x 124.5 mm"
+    "dimensions": "φ88.5 x 124.5 mm",
+    "filterSizeMm": "112mm (via HB-97)"
   },
   {
     "brand": "Nikon",
@@ -3742,8 +3743,8 @@
     "hasCustomButton": false,
     "hasWeatherSeal": false,
     "weightGrams": "805 g",
-    "lengthMm": "--",
-    "diameter": "--",
+    "lengthMm": 126.0,
+    "diameter": 89.0,
     "series": "--",
     "launchPrice": 0,
     "aliases": [
@@ -3754,7 +3755,8 @@
       "Z 24-70mm f/2.8 S",
       "Z24-70mmf/2.8S"
     ],
-    "dimensions": "φ89.0 x 126.0 mm"
+    "dimensions": "φ89.0 x 126.0 mm",
+    "filterSizeMm": "82mm"
   },
   {
     "brand": "Nikon",
@@ -3772,15 +3774,15 @@
     "minAperture": "--",
     "specialElements": "6 ED, 2 Aspherical, 1 Fluorite, 1 SR",
     "coatings": "Nano Crystal, ARNEO, Fluorine",
-    "closeFocus": "0.5m (Wide) / 1.0m (Tele)",
-    "maxMagnification": "0.2x",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.20x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
     "hasWeatherSeal": false,
-    "weightGrams": "1360 g (with tripod collar)",
-    "lengthMm": "--",
-    "diameter": "--",
+    "weightGrams": "1360 g",
+    "lengthMm": 220.0,
+    "diameter": 89.0,
     "series": "--",
     "launchPrice": 0,
     "aliases": [
@@ -3791,7 +3793,8 @@
       "Z 70-200mm f/2.8 VR S",
       "Z70-200mmf/2.8VRS"
     ],
-    "dimensions": "φ89.0 x 220.0 mm"
+    "dimensions": "φ89.0 x 220.0 mm",
+    "filterSizeMm": "77mm"
   },
   {
     "brand": "Nikon",
@@ -3828,7 +3831,8 @@
       "Z 135mm f/1.8 S Plena",
       "Z135mmf/1.8SPlena"
     ],
-    "dimensions": "φ98.0 x 139.5 mm"
+    "dimensions": "φ98.0 x 139.5 mm",
+    "filterSizeMm": "82mm"
   },
   {
     "brand": "Nikon",
@@ -3865,7 +3869,8 @@
       "Z 50mm f/1.2 S",
       "Z50mmf/1.2S"
     ],
-    "dimensions": "φ89.5 x 150.0 mm"
+    "dimensions": "φ89.5 x 150.0 mm",
+    "filterSizeMm": "82mm"
   },
   {
     "brand": "Laowa",
@@ -11655,42 +11660,6 @@
     "dimensions": "φ99.2 x 149.8 mm"
   },
   {
-    "opticalDesign": "18 groups, 21 elements",
-    "specialElements": "2 Fluorite, 1 SR, 6 ED, 2 Aspherical",
-    "coatings": "Meso Amorphous, Arneo, Nano Crystal",
-    "motorType": "VCM + Multi-focusing System",
-    "hasApertureRing": true,
-    "hasWeatherSeal": true,
-    "brand": "Nikon",
-    "gearType": "LENS",
-    "releaseYear": 2026,
-    "launchPrice": 82900,
-    "focalLengthMinMm": 70,
-    "focalLengthMaxMm": 200,
-    "apertureMax": "2.8",
-    "modelName": "Nikon Z 70-200mm F/2.8 VR S II",
-    "slug": "z-70-200mm-f-2-8-vr-s-ii",
-    "id": "z-70-200mm-f-2-8-vr-s-ii",
-    "minAperture": "--",
-    "closeFocus": "--",
-    "maxMagnification": "--",
-    "hasOIS": false,
-    "hasCustomButton": false,
-    "weightGrams": "-- g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
-    "aliases": [
-      "70-200mm f/2.8 VR S II",
-      "70200S2",
-      "70200s2",
-      "Nikon Z 70-200mm f/2.8 VR S 2",
-      "Nikon Z 70-200mm f/2.8 VR S II",
-      "Z 70-200mm f/2.8 VR S II",
-      "Z70-200mmf/2.8VRSII"
-    ]
-  },
-  {
     "opticalDesign": "15 elements in 10 groups",
     "specialElements": "1 ED, 2 Aspherical",
     "coatings": "Nano Crystal",
@@ -11781,6 +11750,58 @@
       "35mm f1.4 dg dn art ii",
       "35mmf1.4dgdnartii",
       "Sigma 35mm f1.4 dg dn art ii"
+    ]
+  },
+  {
+    "id": "z-24-120mm-f-4-s",
+    "slug": "z-24-120mm-f-4-s",
+    "brand": "Nikon",
+    "modelName": "Nikon Z 24-120mm f/4 S",
+    "gearType": "LENS",
+    "lensType": "ZOOM",
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 120,
+    "apertureMax": 4.0,
+    "releaseYear": 2021,
+    "filterSizeMm": "77mm",
+    "weightGrams": "630 g",
+    "dimensions": "φ84.0 x 118.0 mm",
+    "closeFocus": "0.35m",
+    "maxMagnification": "0.39x",
+    "motorType": "Multi-focusing System (STM)",
+    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "opticalDesign": "16 elements in 13 groups",
+    "specialElements": "3 ED, 1 Aspherical ED, 3 Aspherical",
+    "hasWeatherSeal": true,
+    "aliases": [
+      "24120S",
+      "Z24-120"
+    ]
+  },
+  {
+    "id": "z-100-400mm-f-4-5-5-6-vr-s",
+    "slug": "z-100-400mm-f-4-5-5-6-vr-s",
+    "brand": "Nikon",
+    "modelName": "Nikon Z 100-400mm f/4.5-5.6 VR S",
+    "gearType": "LENS",
+    "lensType": "ZOOM",
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 400,
+    "apertureMax": 4.5,
+    "releaseYear": 2021,
+    "filterSizeMm": "77mm",
+    "weightGrams": "1435 g (with tripod collar)",
+    "dimensions": "φ98.0 x 222.0 mm",
+    "closeFocus": "0.75m (Wide) / 0.98m (Tele)",
+    "maxMagnification": "0.38x",
+    "motorType": "Multi-focusing System (STM)",
+    "coatings": "Nano Crystal, ARNEO, Fluorine",
+    "opticalDesign": "25 elements in 20 groups",
+    "specialElements": "6 ED, 2 Super ED",
+    "hasWeatherSeal": true,
+    "aliases": [
+      "100400S",
+      "Z100-400"
     ]
   }
 ]
