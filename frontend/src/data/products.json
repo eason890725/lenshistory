@@ -1776,7 +1776,8 @@
     "evfMagnification": "0.76x",
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
     "batterySpec": "LP-E19 (Approx. 760 shots CIPA)",
-    "dimensions": "150.0 x 142.6 x 87.2 mm"
+    "dimensions": "150.0 x 142.6 x 87.2 mm",
+    "image_url": "/images/products/canon/eos-r3.png"
   },
   {
     "brand": "Canon",
@@ -1809,7 +1810,8 @@
     "batterySpec": "LP-E6P (Approx. 630 shots CIPA)",
     "dimensions": "138.5 x 101.2 x 93.5 mm",
     "evfMagnification": "0.76x",
-    "cardSlots": "1x CFexpress Type B, 1x SD UHS-II"
+    "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
+    "image_url": "/images/products/canon/eos-r5-ii.jpg"
   },
   {
     "brand": "Canon",
@@ -1836,7 +1838,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6NH (Approx. 490 shots CIPA)",
     "weightGrams": "Approx. 738 g (including battery and card)",
-    "dimensions": "138.5 x 97.5 x 88.0 mm"
+    "dimensions": "138.5 x 97.5 x 88.0 mm",
+    "image_url": "/images/products/canon/eos-r5.png"
   },
   {
     "brand": "Canon",
@@ -1894,7 +1897,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6NH (Approx. 510 shots CIPA)",
     "weightGrams": "Approx. 680 g (including battery and card)",
-    "dimensions": "138.4 x 97.5 x 88.4 mm"
+    "dimensions": "138.4 x 97.5 x 88.4 mm",
+    "image_url": "/images/products/canon/eos-r6.jpg"
   },
   {
     "brand": "Canon",
