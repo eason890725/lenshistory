@@ -2219,7 +2219,7 @@
   },
   {
     "brand": "Nikon",
-    "modelName": "Nikon z7",
+    "modelName": "Nikon Z 7",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "45.7MP",
@@ -2231,12 +2231,12 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "9 fps",
     "logSupport": "N-Log (External)",
-    "launchPrice": 39980,
+    "launchPrice": 105000,
     "aliases": [
       "Z7",
       "z7"
     ],
-    "processor": "EXPEED 7",
+    "processor": "EXPEED 6",
     "afTargets": "People, Animals, Birds, Vehicles",
     "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
@@ -2244,7 +2244,10 @@
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x XQD / CFexpress Type B",
     "isoRange": "64-25600 (Ext: 32-102400)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "weightGrams": "Approx. 675 g (including battery and card)",
+    "dimensions": "134.0 x 100.5 x 67.5 mm",
+    "ibisRating": "5.0 stops (CIPA)"
   },
   {
     "brand": "Nikon",
@@ -2315,7 +2318,7 @@
   },
   {
     "brand": "Nikon",
-    "modelName": "Nikon z6",
+    "modelName": "Nikon Z 6",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "24.5MP",
@@ -2327,12 +2330,12 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "12 fps",
     "logSupport": "N-Log (External)",
-    "launchPrice": 39980,
+    "launchPrice": 63000,
     "aliases": [
       "Z6",
       "z6"
     ],
-    "processor": "EXPEED 7",
+    "processor": "EXPEED 6",
     "afTargets": "People, Animals, Birds, Vehicles",
     "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
@@ -2340,7 +2343,10 @@
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x XQD / CFexpress Type B",
     "isoRange": "100-51200 (Ext: 50-204800)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "weightGrams": "Approx. 675 g (including battery and card)",
+    "dimensions": "134.0 x 100.5 x 67.5 mm",
+    "ibisRating": "5.0 stops (CIPA)"
   },
   {
     "brand": "Nikon",
@@ -2437,7 +2443,7 @@
   },
   {
     "brand": "Nikon",
-    "modelName": "Nikon z50",
+    "modelName": "Nikon Z 50",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "20.9MP",
@@ -2449,20 +2455,23 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "11 fps",
     "logSupport": "No",
-    "launchPrice": 39980,
+    "launchPrice": 28900,
     "aliases": [
       "Z50",
       "z50"
     ],
-    "processor": "EXPEED 7",
-    "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "processor": "EXPEED 6",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "8-bit",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.68x",
     "lcdSpec": "3.2-inch 1.04M-dot Flip-down Touchscreen",
     "cardSlots": "1x SD (UHS-I)",
     "isoRange": "100-51200 (Ext: 204800)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "weightGrams": "Approx. 450 g (including battery and card)",
+    "dimensions": "126.5 x 93.5 x 60.0 mm",
+    "ibisRating": "No (Lens OIS support)"
   },
   {
     "brand": "Nikon",
