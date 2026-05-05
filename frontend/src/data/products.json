@@ -1743,7 +1743,8 @@
     "isoRange": "100-102400 (Ext: 50-409600)",
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen LCD",
     "batterySpec": "LP-E19 (Approx. 700 shots CIPA)",
-    "cardSlots": "2x CFexpress Type B"
+    "cardSlots": "2x CFexpress Type B",
+    "image_url": "/images/products/canon/canon-eos-r1.jpg"
   },
   {
     "brand": "Canon",
