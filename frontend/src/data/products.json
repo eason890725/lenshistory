@@ -1762,7 +1762,7 @@
     "logSupport": "C-Log 3",
     "sensorType": "Stacked CMOS",
     "weightGrams": "Approx. 1015 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 172000,
     "aliases": [
       "Canon eos r3",
       "EOS R3",
@@ -1794,7 +1794,7 @@
     "logSupport": "C-Log 2/3",
     "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": "Approx. 746 g (including battery and card)",
-    "launchPrice": 128000,
+    "launchPrice": 122000,
     "aliases": [
       "Canon eos r5 mark ii",
       "EOS R5 II",
@@ -1862,7 +1862,7 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 76900,
     "aliases": [
       "Canon eos r6 mark ii",
       "EOS R6 II",
@@ -2172,7 +2172,7 @@
     "logSupport": "N-Log / ProRes RAW",
     "sensorType": "Stacked CMOS",
     "weightGrams": "Approx. 910 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 118800,
     "aliases": [
       "Z8",
       "z8"
@@ -2251,7 +2251,7 @@
     "logSupport": "N-Log",
     "sensorType": "Partially Stacked CMOS",
     "weightGrams": "Approx. 670 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 75900,
     "aliases": [
       "Z6 III",
       "Z6III",
@@ -2349,7 +2349,7 @@
     "logSupport": "N-Log",
     "sensorType": "CMOS",
     "weightGrams": "Approx. 710 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 63800,
     "aliases": [
       "ZF",
       "Zf",
@@ -3512,7 +3512,7 @@
     "opticalDesign": "16 elements in 12 groups",
     "minAperture": "--",
     "specialElements": "3 Aspherical, 2 UD",
-    "launchPrice": 59980,
+    "launchPrice": 67900,
     "coatings": "ASC, SWC, Fluorine",
     "closeFocus": "0.28m",
     "maxMagnification": "0.21x",
@@ -3549,7 +3549,7 @@
     "opticalDesign": "21 elements in 15 groups",
     "minAperture": "--",
     "specialElements": "3 Aspherical, 3 UD",
-    "launchPrice": 59980,
+    "launchPrice": 67900,
     "coatings": "ASC, Fluorine",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
@@ -3586,7 +3586,7 @@
     "opticalDesign": "17 elements in 13 groups",
     "minAperture": "--",
     "specialElements": "1 Aspherical, 1 Super UD, 4 UD",
-    "launchPrice": 59980,
+    "launchPrice": 76900,
     "coatings": "SWC, ASC, Fluorine",
     "closeFocus": "0.7m",
     "maxMagnification": "0.23x",
@@ -3634,7 +3634,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 88000,
     "aliases": [
       "28-70mm F2L USM",
       "EOS rf 28-70mm f2l usm",
@@ -3671,7 +3671,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 67900,
     "aliases": [
       "50mm F1.2L USM",
       "EOS rf 50mm f1.2l usm",
@@ -3708,7 +3708,7 @@
     "lengthMm": 124.5,
     "diameter": 88.5,
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 75000,
     "aliases": [
       "14-24mm f/2.8 S",
       "1424S",
@@ -3746,7 +3746,7 @@
     "lengthMm": 126.0,
     "diameter": 89.0,
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 71000,
     "aliases": [
       "24-70mm f/2.8 S",
       "2470S",
@@ -3784,7 +3784,7 @@
     "lengthMm": 220.0,
     "diameter": 89.0,
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 81000,
     "aliases": [
       "70-200mm f/2.8 VR S",
       "70200S",
@@ -3822,7 +3822,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 84900,
     "aliases": [
       "135S",
       "135mm f/1.8 S Plena",
@@ -3860,7 +3860,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 65000,
     "aliases": [
       "50S",
       "50mm f/1.2 S",
@@ -11554,7 +11554,7 @@
     "evfResolution": "3.68M-dot OLED",
     "burstSpeed": "10+ fps",
     "releaseYear": 2025,
-    "launchPrice": 78990,
+    "launchPrice": 114980,
     "hasIBIS": true,
     "sensorFormat": "Full Frame",
     "slug": "a7-v",
@@ -11681,7 +11681,8 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "apertureMax": 1.2,
-    "lensType": "PRIME"
+    "lensType": "PRIME",
+    "launchPrice": 84900
   },
   {
     "opticalDesign": "12 groups, 17 elements",
@@ -11776,7 +11777,8 @@
     "aliases": [
       "24120S",
       "Z24-120"
-    ]
+    ],
+    "launchPrice": 33900
   },
   {
     "id": "z-100-400mm-f-4-5-5-6-vr-s",
@@ -11802,6 +11804,7 @@
     "aliases": [
       "100400S",
       "Z100-400"
-    ]
+    ],
+    "launchPrice": 82000
   }
 ]
