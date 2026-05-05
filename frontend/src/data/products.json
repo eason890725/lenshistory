@@ -2008,7 +2008,8 @@
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E6NH (Approx. 660 shots CIPA)"
+    "batterySpec": "LP-E6NH (Approx. 660 shots CIPA)",
+    "weightGrams": "Approx. 612 g (including battery and card)"
   },
   {
     "brand": "Canon",
@@ -2025,7 +2026,7 @@
     "burstSpeed": "15fps (Mech) / 23fps (Elec)",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": "Approx. 1115 g (including battery and card)",
+    "weightGrams": "Approx. 429 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
       "Canon eos r10",
@@ -2073,7 +2074,8 @@
     "afTargets": "People, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
-    "batterySpec": "LP-E17 (Approx. 370 shots CIPA)"
+    "batterySpec": "LP-E17 (Approx. 370 shots CIPA)",
+    "weightGrams": "Approx. 375 g (including battery and card)"
   },
   {
     "brand": "Canon",
@@ -2090,7 +2092,7 @@
     "burstSpeed": "6.5fps",
     "logSupport": "C-Log 2/3",
     "sensorType": "Stacked CMOS",
-    "weightGrams": "Approx. 1115 g (including battery and card)",
+    "weightGrams": "Approx. 356 g (including battery and card)",
     "launchPrice": 39980,
     "aliases": [
       "Canon eos r100",
