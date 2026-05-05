@@ -2089,7 +2089,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 370 shots CIPA)",
     "weightGrams": "Approx. 375 g (including battery and card)",
-    "dimensions": "116.3 x 85.5 x 68.8 mm"
+    "dimensions": "116.3 x 85.5 x 68.8 mm",
+    "image_url": "/images/products/canon/eos-r50.jpg"
   },
   {
     "brand": "Canon",
@@ -3613,7 +3614,8 @@
       "rf 15-35mm f2.8l is usm",
       "rf15-35mmf2.8lisusm"
     ],
-    "dimensions": "φ88.5 x 126.8 mm"
+    "dimensions": "φ88.5 x 126.8 mm",
+    "image_url": "/images/products/canon/rf-15-35mm-f2-8l-is-usm.jpg"
   },
   {
     "brand": "Canon",
