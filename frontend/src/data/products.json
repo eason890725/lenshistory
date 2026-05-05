@@ -2127,7 +2127,7 @@
     "afPoints": "493",
     "evfResolution": "3.69M-dot Quad-VGA OLED",
     "burstSpeed": "20 fps (RAW) / 120 fps (JPEG)",
-    "logSupport": "N-Log / ProRes RAW",
+    "logSupport": "N-Log / HLG / ProRes RAW / N-RAW",
     "sensorType": "Stacked CMOS",
     "weightGrams": "Approx. 1340 g (including battery and card)",
     "launchPrice": 165000,
@@ -2141,13 +2141,14 @@
     "ibisRating": "6.0 stops (CIPA)",
     "dimensions": "149.0 x 149.5 x 90.5 mm",
     "afTargets": "Human, Animal (Dog, Cat, Bird), Vehicle (Car, Bike, Plane, Train)",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log / ProRes)",
+    "videoColorDepth": "12-bit (N-RAW/ProRes RAW) / 10-bit (H.265)",
     "batterySpec": "EN-EL18d (Approx. 740 shots CIPA)",
     "afRange": "EV -6.5 to 19 (Starlight: -9 to 19)",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "2x CFexpress Type B / XQD",
-    "ports": "USB-C (3.2 Gen 2), HDMI Type A, RJ-45, Mic, Headphone, 10-pin Terminal"
+    "ports": "USB-C (3.2 Gen 2), HDMI Type A, RJ-45, Mic, Headphone, 10-pin Terminal",
+    "isoRange": "64-25600 (Ext: 32-102400)"
   },
   {
     "brand": "Nikon",
@@ -2162,7 +2163,7 @@
     "afPoints": "493",
     "evfResolution": "3.69M-dot Quad-VGA OLED",
     "burstSpeed": "20 fps (RAW) / 120 fps (JPEG)",
-    "logSupport": "N-Log / ProRes RAW",
+    "logSupport": "N-Log / HLG / N-RAW",
     "sensorType": "Stacked CMOS",
     "weightGrams": "Approx. 910 g (including battery and card)",
     "launchPrice": 118800,
@@ -2179,7 +2180,7 @@
     "batterySpec": "EN-EL15c (Approx. 340 shots CIPA)",
     "isoRange": "64-25600 (Ext: 32-102400)",
     "dimensions": "144.0 x 118.5 x 83.0 mm",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "12-bit (N-RAW) / 10-bit (H.265)",
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "Dual USB-C (Data + Power), HDMI Type A, Mic, Headphone, 10-pin"
@@ -2197,7 +2198,7 @@
     "afPoints": "493 Points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "10 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "N-Log (External)",
     "launchPrice": 88000,
     "aliases": [
       "Z72",
@@ -2205,14 +2206,16 @@
     ],
     "processor": "Dual EXPEED 6",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "10-bit 4:2:2 (via HDMI)",
     "ibisRating": "5.0 stops (CIPA)",
     "weightGrams": "Approx. 705 g",
     "dimensions": "134.0 x 100.5 x 69.5 mm",
     "afRange": "EV -3 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
-    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)"
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
+    "isoRange": "64-25600 (Ext: 32-102400)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2227,7 +2230,7 @@
     "afPoints": "493 Points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "9 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "N-Log (External)",
     "launchPrice": 39980,
     "aliases": [
       "Z7",
@@ -2235,11 +2238,13 @@
     ],
     "processor": "EXPEED 7",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
-    "cardSlots": "1x XQD / CFexpress Type B"
+    "cardSlots": "1x XQD / CFexpress Type B",
+    "isoRange": "64-25600 (Ext: 32-102400)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2254,7 +2259,7 @@
     "afPoints": "299",
     "evfResolution": "5.76M-dot Bright OLED",
     "burstSpeed": "14 fps (Mech) / 120 fps (JPEG)",
-    "logSupport": "N-Log",
+    "logSupport": "N-Log / HLG / N-RAW",
     "sensorType": "Partially Stacked CMOS",
     "weightGrams": "Approx. 760 g (including battery and card)",
     "launchPrice": 75900,
@@ -2265,7 +2270,7 @@
     ],
     "processor": "EXPEED 7",
     "afTargets": "Human, Animal, Bird, Vehicle, Plane",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "12-bit (N-RAW) / 10-bit (H.265)",
     "ibisRating": "8.0 stops (CIPA)",
     "dimensions": "138.5 x 101.5 x 74.0 mm",
     "batterySpec": "EN-EL15c (Approx. 360 shots CIPA)",
@@ -2273,7 +2278,8 @@
     "evfMagnification": "0.76x",
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
-    "ports": "USB-C, HDMI Type A, Mic, Headphone"
+    "ports": "USB-C, HDMI Type A, Mic, Headphone",
+    "isoRange": "100-64000 (Ext: 50-204800)"
   },
   {
     "brand": "Nikon",
@@ -2288,7 +2294,7 @@
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "14 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "N-Log (External)",
     "launchPrice": 56900,
     "aliases": [
       "Z62",
@@ -2296,7 +2302,7 @@
     ],
     "processor": "Dual EXPEED 6",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "10-bit 4:2:2 (via HDMI)",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "ibisRating": "5.0 stops (CIPA)",
     "weightGrams": "Approx. 705 g",
@@ -2304,7 +2310,8 @@
     "afRange": "EV -4.5 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
-    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)"
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2319,7 +2326,7 @@
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "12 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "N-Log (External)",
     "launchPrice": 39980,
     "aliases": [
       "Z6",
@@ -2327,11 +2334,13 @@
     ],
     "processor": "EXPEED 7",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
-    "cardSlots": "1x XQD / CFexpress Type B"
+    "cardSlots": "1x XQD / CFexpress Type B",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2346,7 +2355,7 @@
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "4.5 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "No (Flat Picture Control)",
     "launchPrice": 39900,
     "aliases": [
       "Z5",
@@ -2354,14 +2363,16 @@
     ],
     "processor": "EXPEED 6",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "8-bit",
     "ibisRating": "5.0 stops (CIPA)",
     "weightGrams": "Approx. 675 g",
     "dimensions": "134.0 x 100.5 x 69.5 mm",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 1.04M-dot Tilting Touchscreen",
-    "cardSlots": "2x SD (UHS-II)"
+    "cardSlots": "2x SD (UHS-II)",
+    "isoRange": "100-51200 (Ext: 50-102400)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2376,7 +2387,7 @@
     "afPoints": "299",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "14 fps",
-    "logSupport": "N-Log",
+    "logSupport": "N-Log / HLG",
     "sensorType": "BSI CMOS",
     "weightGrams": "Approx. 710 g (including battery and card)",
     "launchPrice": 63800,
@@ -2387,14 +2398,15 @@
     ],
     "processor": "EXPEED 7",
     "afTargets": "People, Animals, Birds, Vehicles",
-    "videoColorDepth": "10-bit 4:2:2 (N-Log)",
+    "videoColorDepth": "10-bit 4:2:2 (Internal)",
     "ibisRating": "8.0 stops (CIPA)",
     "dimensions": "144.0 x 103.0 x 49.0 mm",
     "batterySpec": "EN-EL15c (Approx. 380 shots CIPA)",
     "afRange": "EV -10 to 19",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
-    "cardSlots": "1x SD (UHS-II) + 1x MicroSD (UHS-I)"
+    "cardSlots": "1x SD (UHS-II) + 1x MicroSD (UHS-I)",
+    "isoRange": "100-64000 (Ext: 50-204800)"
   },
   {
     "brand": "Nikon",
@@ -2436,7 +2448,7 @@
     "afPoints": "209 Points",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "11 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "No",
     "launchPrice": 39980,
     "aliases": [
       "Z50",
@@ -2448,7 +2460,9 @@
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.68x",
     "lcdSpec": "3.2-inch 1.04M-dot Flip-down Touchscreen",
-    "cardSlots": "1x SD (UHS-I)"
+    "cardSlots": "1x SD (UHS-I)",
+    "isoRange": "100-51200 (Ext: 204800)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Nikon",
@@ -2463,7 +2477,7 @@
     "afPoints": "209 Points",
     "evfResolution": "No EVF",
     "burstSpeed": "11 fps",
-    "logSupport": "S-Log3 / S-Cinetone",
+    "logSupport": "No",
     "launchPrice": 39980,
     "aliases": [
       "Z30",
@@ -2474,7 +2488,9 @@
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "afRange": "EV -2 to 19",
     "lcdSpec": "3.0-inch 1.04M-dot Vari-angle Touchscreen",
-    "cardSlots": "1x SD (UHS-I)"
+    "cardSlots": "1x SD (UHS-I)",
+    "isoRange": "100-51200 (Ext: 204800)",
+    "sensorType": "BSI CMOS"
   },
   {
     "brand": "Sony",
