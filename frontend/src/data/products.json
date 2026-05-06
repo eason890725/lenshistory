@@ -1777,7 +1777,7 @@
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
     "batterySpec": "LP-E19 (Approx. 760 shots CIPA)",
     "dimensions": "150.0 x 142.6 x 87.2 mm",
-    "image_url": "/images/products/canon/eos-r3.png"
+    "image_url": "/images/products/canon/eos-r3.jpg"
   },
   {
     "brand": "Canon",
@@ -1839,7 +1839,7 @@
     "batterySpec": "LP-E6NH (Approx. 490 shots CIPA)",
     "weightGrams": "Approx. 738 g (including battery and card)",
     "dimensions": "138.5 x 97.5 x 88.0 mm",
-    "image_url": "/images/products/canon/eos-r5.png"
+    "image_url": "/images/products/canon/eos-r5.jpg"
   },
   {
     "brand": "Canon",
@@ -2125,7 +2125,7 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
-    "image_url": "/images/products/canon/eos-r100.png"
+    "image_url": "/images/products/canon/eos-r100.jpg"
   },
   {
     "brand": "Nikon",
@@ -3654,7 +3654,7 @@
       "rf24-70mmf2.8lisusm"
     ],
     "dimensions": "φ88.5 x 125.7 mm",
-    "image_url": "/images/products/canon/rf-24-70mm-f2-8l-is-usm.png"
+    "image_url": "/images/products/canon/rf-24-70mm-f2-8l-is-usm.jpg"
   },
   {
     "brand": "Canon",
@@ -3692,7 +3692,7 @@
       "rf70-200mmf2.8lisusm"
     ],
     "dimensions": "φ89.9 x 146.0 mm",
-    "image_url": "/images/products/canon/rf-70-200mm-f2-8l-is-usm.png"
+    "image_url": "/images/products/canon/rf-70-200mm-f2-8l-is-usm.jpg"
   },
   {
     "brand": "Canon",
