@@ -2263,7 +2263,8 @@
     "sensorType": "BSI CMOS",
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
-    "ibisRating": "5.0 stops (CIPA)"
+    "ibisRating": "5.0 stops (CIPA)",
+    "image_url": "/images/products/nikon/z7.jpg"
   },
   {
     "brand": "Nikon",
@@ -2364,7 +2365,8 @@
     "sensorType": "BSI CMOS",
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
-    "ibisRating": "5.0 stops (CIPA)"
+    "ibisRating": "5.0 stops (CIPA)",
+    "image_url": "/images/products/nikon/z6.jpg"
   },
   {
     "brand": "Nikon",
