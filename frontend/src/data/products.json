@@ -3700,12 +3700,14 @@
       "rf 15-35mm f2.8l is usm",
       "rf15-35mmf2.8lisusm"
     ],
-    "dimensions": "φ88.5 x 126.8 mm",
+    "dimensions": "ø88.5 x 126.8 mm",
     "image_url": "/images/products/canon/canon-rf-15-35mm-f2-8l-is-usm.jpg",
-    "coating": "SWC, ASC, Fluorine Coating",
+    "coating": "SWC, ASC, Fluorine",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.28m",
+    "filterSize": "82mm"
   },
   {
     "brand": "Canon",
@@ -3742,12 +3744,14 @@
       "rf 24-70mm f2.8l is usm",
       "rf24-70mmf2.8lisusm"
     ],
-    "dimensions": "φ88.5 x 125.7 mm",
+    "dimensions": "ø88.5 x 125.7 mm",
     "image_url": "/images/products/canon/canon-rf-24-70mm-f2-8l-is-usm.jpg",
-    "coating": "ASC, Fluorine Coating",
+    "coating": "ASC, Fluorine",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.21m",
+    "filterSize": "82mm"
   },
   {
     "brand": "Canon",
@@ -3784,12 +3788,14 @@
       "rf 70-200mm f2.8l is usm",
       "rf70-200mmf2.8lisusm"
     ],
-    "dimensions": "φ89.9 x 146.0 mm",
+    "dimensions": "ø89.9 x 146.0 mm",
     "image_url": "/images/products/canon/canon-rf-70-200mm-f2-8l-is-usm.jpg",
-    "coating": "SWC, ASC, Fluorine Coating",
+    "coating": "SWC, ASC, Fluorine",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.70m",
+    "filterSize": "77mm"
   },
   {
     "brand": "Canon",
@@ -3826,12 +3832,14 @@
       "rf 28-70mm f2l usm",
       "rf28-70mmf2lusm"
     ],
-    "dimensions": "φ103.8 x 139.8 mm",
+    "dimensions": "ø103.8 x 139.8 mm",
     "image_url": "/images/products/canon/canon-rf-28-70mm-f2l-usm.jpg",
-    "coating": "ASC, SWC, Fluorine Coating",
+    "coating": "ASC, SWC, Fluorine",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.39m",
+    "filterSize": "95mm"
   },
   {
     "brand": "Canon",
@@ -3868,12 +3876,14 @@
       "rf 50mm f1.2l usm",
       "rf50mmf1.2lusm"
     ],
-    "dimensions": "φ89.8 x 108.0 mm",
+    "dimensions": "ø89.8 x 108.0 mm",
     "image_url": "/images/products/canon/canon-rf-50mm-f1-2l-usm.jpg",
-    "coating": "ASC, Fluorine Coating",
+    "coating": "ASC, Fluorine",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.40m",
+    "filterSize": "77mm"
   },
   {
     "brand": "Nikon",
@@ -11839,7 +11849,7 @@
     "id": "canon-rf-35mm-f-1-4-l-vcm",
     "minAperture": "TBD / Professional Standard",
     "closeFocus": "0.18m",
-    "maxMagnification": "0.15x",
+    "maxMagnification": "0.18x",
     "hasOIS": false,
     "hasCustomButton": false,
     "weightGrams": "1100 g",
@@ -11855,11 +11865,14 @@
       "RF 14mm f/1.4 L VCM",
       "RF14mmf/1.4LVCM"
     ],
-    "dimensions": "φ99.2 x 149.8 mm",
+    "dimensions": "ø76.5 x 99.3 mm",
     "image_url": "/images/products/canon/canon-rf-35mm-f-1-4-l-vcm.jpg",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "minFocusDistance": "0.28m",
+    "filterSize": "67mm",
+    "coating": "ASC, Fluorine"
   },
   {
     "opticalDesign": "15 elements in 10 groups",
@@ -12034,14 +12047,18 @@
     "image_url": "/images/products/canon/canon-rf-85mm-f1-2l-usm.jpg",
     "opticalDesign": "13 elements in 9 groups",
     "specialElements": "1 UD, 1 Aspherical, BR Lens",
-    "coating": "ASC, Fluorine Coating",
+    "coating": "ASC, Fluorine",
     "motorType": "Ring-type USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 85mm f/1.2L USM"
-    ]
+    ],
+    "maxMagnification": "0.12x",
+    "minFocusDistance": "0.85m",
+    "filterSize": "82mm",
+    "dimensions": "ø103.2 x 117.3 mm"
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -12062,14 +12079,18 @@
     "image_url": "/images/products/canon/canon-rf-135mm-f1-8l-is-usm.jpg",
     "opticalDesign": "17 elements in 12 groups",
     "specialElements": "3 UD",
-    "coating": "ASC, Fluorine Coating",
+    "coating": "ASC, Fluorine",
     "motorType": "Nano USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 135mm f/1.8L IS USM"
-    ]
+    ],
+    "maxMagnification": "0.26x",
+    "minFocusDistance": "0.70m",
+    "filterSize": "82mm",
+    "dimensions": "ø89.2 x 130.3 mm"
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -12091,14 +12112,18 @@
     "category": "Professional",
     "opticalDesign": "17 elements in 13 groups",
     "specialElements": "SA (Spherical Aberration) Control Ring",
-    "coating": "Super Spectra Coating, Fluorine",
+    "coating": "Super Spectra, Fluorine",
     "motorType": "Dual Nano USM",
     "ibisRating": "5.0 stops (up to 8.0 with IBIS)",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 100mm F2.8 L Macro IS USM"
-    ]
+    ],
+    "maxMagnification": "1.4x",
+    "minFocusDistance": "0.26m",
+    "filterSize": "67mm",
+    "dimensions": "ø81.5 x 148.0 mm"
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -12119,14 +12144,18 @@
     "image_url": "/images/products/canon/canon-rf-100-500mm-f4-5-7-1l-is-usm.jpg",
     "opticalDesign": "20 elements in 14 groups",
     "specialElements": "1 Super UD, 6 UD",
-    "coating": "ASC, Fluorine Coating",
+    "coating": "ASC, Fluorine",
     "motorType": "Dual Nano USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 100-500mm f/4.5-7.1L IS USM"
-    ]
+    ],
+    "maxMagnification": "0.33x",
+    "minFocusDistance": "0.90m",
+    "filterSize": "77mm",
+    "dimensions": "ø93.8 x 207.6 mm"
   },
   {
     "id": "canon-rf-24-105mm-f4l-is-usm",
@@ -12237,11 +12266,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "6 elements in 5 groups",
     "specialElements": "1 Aspherical element",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Gear-type STM",
     "aliases": [
       "RF 50mm F1.8 STM"
-    ]
+    ],
+    "maxMagnification": "0.25x",
+    "minFocusDistance": "0.30m",
+    "filterSize": "43mm",
+    "dimensions": "ø69.2 x 40.5 mm"
   },
   {
     "id": "z-58mm-f-0-95-s-noct",
@@ -12553,11 +12586,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "9 elements in 7 groups",
     "specialElements": "1 Aspherical element",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Gear-type STM",
     "aliases": [
       "RF 16mm F2.8 STM"
-    ]
+    ],
+    "maxMagnification": "0.26x",
+    "minFocusDistance": "0.13m",
+    "filterSize": "43mm",
+    "dimensions": "ø69.2 x 40.1 mm"
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -12581,11 +12618,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "11 elements in 9 groups",
     "specialElements": "1 UD, 1 Aspherical",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Gear-type STM",
     "aliases": [
       "RF 24mm F1.8 Macro IS STM"
-    ]
+    ],
+    "maxMagnification": "0.50x",
+    "minFocusDistance": "0.14m",
+    "filterSize": "52mm",
+    "dimensions": "ø74.4 x 63.1 mm"
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -12609,11 +12650,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "8 elements in 6 groups",
     "specialElements": "3 Aspherical elements",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Gear-type STM",
     "aliases": [
       "RF 28mm F2.8 STM"
-    ]
+    ],
+    "maxMagnification": "0.17x",
+    "minFocusDistance": "0.23m",
+    "filterSize": "55mm",
+    "dimensions": "ø69.2 x 24.7 mm"
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -12637,11 +12682,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "11 elements in 9 groups",
     "specialElements": "1 Aspherical element",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Gear-type STM",
     "aliases": [
       "RF 35mm F1.8 Macro IS STM"
-    ]
+    ],
+    "maxMagnification": "0.50x",
+    "minFocusDistance": "0.17m",
+    "filterSize": "52mm",
+    "dimensions": "ø74.4 x 62.8 mm"
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -12665,11 +12714,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "12 elements in 9 groups",
     "specialElements": "1 UD, 1 Aspherical",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Nano USM",
     "aliases": [
       "RF 100-400mm F5.6-8 IS USM"
-    ]
+    ],
+    "maxMagnification": "0.41x",
+    "minFocusDistance": "0.88m",
+    "filterSize": "67mm",
+    "dimensions": "ø79.5 x 164.7 mm"
   },
   {
     "id": "canon-rf-600mm-f11-is-stm",
@@ -12693,11 +12746,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "10 elements in 7 groups",
     "specialElements": "DO (Diffractive Optics) lens",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF 600mm F11 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.14x",
+    "minFocusDistance": "4.50m",
+    "filterSize": "82mm",
+    "dimensions": "ø93.0 x 199.5 mm"
   },
   {
     "id": "canon-rf-800mm-f11-is-stm",
@@ -12721,11 +12778,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "11 elements in 8 groups",
     "specialElements": "DO (Diffractive Optics) lens",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF 800mm F11 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.14x",
+    "minFocusDistance": "6.00m",
+    "filterSize": "95mm",
+    "dimensions": "ø101.6 x 281.8 mm"
   },
   {
     "id": "canon-rf-24-105mm-f4-7-1-is-stm",
@@ -12749,11 +12810,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "13 elements in 11 groups",
     "specialElements": "1 Aspherical element",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF 24-105mm F4-7.1 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.4x (AF) / 0.5x (MF)",
+    "minFocusDistance": "0.20m (AF) / 0.13m (MF)",
+    "filterSize": "67mm",
+    "dimensions": "ø76.6 x 88.8 mm"
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -12777,11 +12842,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "7 elements in 7 groups",
     "specialElements": "2 Aspherical elements",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF-S 18-45mm F4.5-6.3 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.16x (AF) / 0.26x (MF)",
+    "minFocusDistance": "0.20m (AF) / 0.15m (MF)",
+    "filterSize": "49mm",
+    "dimensions": "ø69.0 x 44.3 mm"
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -12805,11 +12874,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "12 elements in 10 groups",
     "specialElements": "1 UD, 2 Aspherical",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF-S 10-18mm F4.5-6.3 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.23x (AF) / 0.50x (MF)",
+    "minFocusDistance": "0.14m (AF) / 0.086m (MF)",
+    "filterSize": "49mm",
+    "dimensions": "ø69.0 x 44.9 mm"
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -12833,11 +12906,15 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "opticalDesign": "17 elements in 13 groups",
     "specialElements": "1 UD, 2 Aspherical",
-    "coating": "Super Spectra Coating",
+    "coating": "Super Spectra (SSC)",
     "motorType": "Lead-screw type STM",
     "aliases": [
       "RF-S 18-150mm F3.5-6.3 IS STM"
-    ]
+    ],
+    "maxMagnification": "0.44x (AF) / 0.59x (MF)",
+    "minFocusDistance": "0.17m (AF) / 0.12m (MF)",
+    "filterSize": "55mm",
+    "dimensions": "ø69.0 x 84.5 mm"
   },
   {
     "id": "z-20mm-f-1-8-s",
