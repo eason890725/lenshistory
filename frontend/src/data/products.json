@@ -1856,7 +1856,7 @@
     "videoResolution": "8K 30p RAW / 4K 120p",
     "afPoints": "1053 Areas",
     "evfResolution": "5.76M-dot OLED",
-    "burstSpeed": "12fps (Mech) / 20fps (Elec)",
+    "burstSpeed": "12 fps (Mechanical), 20 fps (Electronic)",
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
@@ -1871,7 +1871,9 @@
     "weightGrams": "Approx. 738 g (including battery and card)",
     "dimensions": "138.5 x 97.5 x 88.0 mm",
     "image_url": "/images/products/canon/canon-eos-r5.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "sensorType": "45MP Full-frame BSI CMOS",
+    "ibisRating": "8.0 stops (CIPA)"
   },
   {
     "brand": "Canon",
@@ -2109,7 +2111,7 @@
     "videoResolution": "4K 30p (Uncropped) / FHD 120p",
     "afPoints": "651 Areas",
     "evfResolution": "2.36M-dot OLED",
-    "burstSpeed": "12fps (Elec. 1st Curtain) / 15fps (Elec)",
+    "burstSpeed": "12 fps (Elec. 1st Curtain), 15 fps (Electronic)",
     "logSupport": "S-Log3 / S-Cinetone",
     "launchPrice": 39980,
     "aliases": [
@@ -2130,7 +2132,9 @@
     "weightGrams": "Approx. 375 g (including battery and card)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
     "image_url": "/images/products/canon/canon-eos-r50.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "sensorType": "24.2MP APS-C CMOS (Standard)",
+    "ibisRating": "No IBIS"
   },
   {
     "brand": "Canon",
@@ -12041,7 +12045,12 @@
     "hasWeatherSeal": true,
     "series": "L-Series",
     "image_url": "/images/products/canon/canon-rf-100mm-f2-8l-macro-is-usm.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "opticalDesign": "17 elements in 13 groups",
+    "specialElements": "SA (Spherical Aberration) Control Ring",
+    "coating": "Super Spectra Coating, Fluorine",
+    "motorType": "Dual Nano USM",
+    "ibisRating": "5.0 stops (up to 8.0 with IBIS)"
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -12083,7 +12092,12 @@
     "hasWeatherSeal": true,
     "series": "L-Series",
     "image_url": "/images/products/canon/canon-rf-24-105mm-f4l-is-usm.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "opticalDesign": "18 elements in 14 groups",
+    "specialElements": "3 Aspherical, 1 UD",
+    "coating": "ASC, Fluorine",
+    "motorType": "Nano USM",
+    "ibisRating": "5.0 stops"
   },
   {
     "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
@@ -12102,7 +12116,12 @@
     "hasWeatherSeal": true,
     "series": "L-Series",
     "image_url": "/images/products/canon/canon-rf-24-105mm-f2-8l-is-usm-z.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "opticalDesign": "23 elements in 18 groups",
+    "specialElements": "4 UD, 3 Aspherical",
+    "coating": "ASC, SSC, Fluorine",
+    "motorType": "Dual Nano USM",
+    "ibisRating": "5.5 stops (up to 8.0 with IBIS)"
   },
   {
     "id": "canon-rf-10-20mm-f4l-is-stm",
@@ -12121,7 +12140,12 @@
     "hasWeatherSeal": true,
     "series": "L-Series",
     "image_url": "/images/products/canon/canon-rf-10-20mm-f4l-is-stm.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "opticalDesign": "16 elements in 12 groups",
+    "specialElements": "1 Super UD, 3 UD, 3 Aspherical",
+    "coating": "SWC, ASC, Fluorine",
+    "motorType": "STM (Optimized for Video)",
+    "ibisRating": "5.0 stops (up to 6.0 Peripheral Control)"
   },
   {
     "id": "canon-rf-50mm-f1-8-stm",
