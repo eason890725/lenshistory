@@ -2161,7 +2161,8 @@
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "2x CFexpress Type B / XQD",
     "ports": "USB-C (3.2 Gen 2), HDMI Type A, RJ-45, Mic, Headphone, 10-pin Terminal",
-    "isoRange": "64-25600 (Ext: 32-102400)"
+    "isoRange": "64-25600 (Ext: 32-102400)",
+    "image_url": "/images/products/nikon/z9.jpg"
   },
   {
     "brand": "Nikon",
@@ -2196,7 +2197,8 @@
     "videoColorDepth": "12-bit (N-RAW) / 10-bit (H.265)",
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
-    "ports": "Dual USB-C (Data + Power), HDMI Type A, Mic, Headphone, 10-pin"
+    "ports": "Dual USB-C (Data + Power), HDMI Type A, Mic, Headphone, 10-pin",
+    "image_url": "/images/products/nikon/z8.jpg"
   },
   {
     "brand": "Nikon",
@@ -2228,7 +2230,8 @@
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "isoRange": "64-25600 (Ext: 32-102400)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "image_url": "/images/products/nikon/z7-ii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2295,7 +2298,8 @@
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "USB-C, HDMI Type A, Mic, Headphone",
-    "isoRange": "100-64000 (Ext: 50-204800)"
+    "isoRange": "100-64000 (Ext: 50-204800)",
+    "image_url": "/images/products/nikon/z6-iii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2327,7 +2331,8 @@
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "image_url": "/images/products/nikon/z6-ii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2391,7 +2396,8 @@
     "lcdSpec": "3.2-inch 1.04M-dot Tilting Touchscreen",
     "cardSlots": "2x SD (UHS-II)",
     "isoRange": "100-51200 (Ext: 50-102400)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "image_url": "/images/products/nikon/z5.jpg"
   },
   {
     "brand": "Nikon",
@@ -2425,7 +2431,8 @@
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
     "cardSlots": "1x SD (UHS-II) + 1x MicroSD (UHS-I)",
-    "isoRange": "100-64000 (Ext: 50-204800)"
+    "isoRange": "100-64000 (Ext: 50-204800)",
+    "image_url": "/images/products/nikon/zf.jpg"
   },
   {
     "brand": "Nikon",
@@ -2452,7 +2459,8 @@
     "afTargets": "People, Animals, Birds, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "ibisRating": "No (Lens OIS support)",
-    "dimensions": "134.5 x 93.5 x 43.5 mm"
+    "dimensions": "134.5 x 93.5 x 43.5 mm",
+    "image_url": "/images/products/nikon/zfc.jpg"
   },
   {
     "brand": "Nikon",
@@ -2484,7 +2492,8 @@
     "sensorType": "BSI CMOS",
     "weightGrams": "Approx. 450 g (including battery and card)",
     "dimensions": "126.5 x 93.5 x 60.0 mm",
-    "ibisRating": "No (Lens OIS support)"
+    "ibisRating": "No (Lens OIS support)",
+    "image_url": "/images/products/nikon/z50.jpg"
   },
   {
     "brand": "Nikon",
@@ -2512,7 +2521,8 @@
     "lcdSpec": "3.0-inch 1.04M-dot Vari-angle Touchscreen",
     "cardSlots": "1x SD (UHS-I)",
     "isoRange": "100-51200 (Ext: 204800)",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "image_url": "/images/products/nikon/z30.jpg"
   },
   {
     "brand": "Sony",
