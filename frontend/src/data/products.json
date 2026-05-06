@@ -3629,7 +3629,7 @@
   },
   {
     "brand": "Canon",
-    "modelName": "Canon RF 15-35mm F2.8 L IS USM",
+    "modelName": "Canon RF 15-35mm f/2.8L IS USM",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 15,
@@ -3640,9 +3640,9 @@
     "id": "rf-15-35mm-f2-8l-is-usm",
     "motorType": "Nano USM",
     "opticalDesign": "16 elements in 12 groups",
-    "minAperture": "--",
-    "specialElements": "3 Aspherical, 2 UD",
-    "launchPrice": 67900,
+    "minAperture": "TBD / Professional Standard",
+    "specialElements": "3 GMo Aspherical, 2 UD",
+    "launchPrice": 69600,
     "coatings": "ASC, SWC, Fluorine",
     "closeFocus": "0.28m",
     "maxMagnification": "0.21x",
@@ -3651,8 +3651,8 @@
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "weightGrams": "840 g",
-    "lengthMm": "--",
-    "diameter": "--",
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
     "series": "L",
     "aliases": [
       "15-35mm F2.8L IS USM",
@@ -3663,11 +3663,12 @@
       "rf15-35mmf2.8lisusm"
     ],
     "dimensions": "φ88.5 x 126.8 mm",
-    "image_url": "/images/products/canon/rf-15-35mm-f2-8l-is-usm.jpg"
+    "image_url": "/images/products/canon/rf-15-35mm-f2-8l-is-usm.jpg",
+    "coating": "SWC, ASC, Fluorine Coating"
   },
   {
     "brand": "Canon",
-    "modelName": "Canon RF 24-70mm F2.8 L IS USM",
+    "modelName": "Canon RF 24-70mm f/2.8L IS USM",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 24,
@@ -3678,9 +3679,9 @@
     "id": "rf-24-70mm-f2-8l-is-usm",
     "motorType": "Nano USM",
     "opticalDesign": "21 elements in 15 groups",
-    "minAperture": "--",
+    "minAperture": "TBD / Professional Standard",
     "specialElements": "3 Aspherical, 3 UD",
-    "launchPrice": 67900,
+    "launchPrice": 69600,
     "coatings": "ASC, Fluorine",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
@@ -3689,9 +3690,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "weightGrams": "900 g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
+    "series": "TBD / Professional Standard",
     "aliases": [
       "24-70mm F2.8L IS USM",
       "EOS rf 24-70mm f2.8l is usm",
@@ -3701,11 +3702,12 @@
       "rf24-70mmf2.8lisusm"
     ],
     "dimensions": "φ88.5 x 125.7 mm",
-    "image_url": "/images/products/canon/rf-24-70mm-f2-8l-is-usm.jpg"
+    "image_url": "/images/products/canon/rf-24-70mm-f2-8l-is-usm.jpg",
+    "coating": "ASC, Fluorine Coating"
   },
   {
     "brand": "Canon",
-    "modelName": "Canon RF 70-200mm F2.8 L IS USM",
+    "modelName": "Canon RF 70-200mm f/2.8L IS USM",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 70,
@@ -3716,9 +3718,9 @@
     "id": "rf-70-200mm-f2-8l-is-usm",
     "motorType": "Dual Nano USM",
     "opticalDesign": "17 elements in 13 groups",
-    "minAperture": "--",
-    "specialElements": "1 Aspherical, 1 Super UD, 4 UD",
-    "launchPrice": 76900,
+    "minAperture": "TBD / Professional Standard",
+    "specialElements": "1 GMo Asph., 1 UD Asph., 1 Super UD, 1 UD",
+    "launchPrice": 81300,
     "coatings": "SWC, ASC, Fluorine",
     "closeFocus": "0.7m",
     "maxMagnification": "0.23x",
@@ -3727,9 +3729,9 @@
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "weightGrams": "1070 g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
+    "series": "TBD / Professional Standard",
     "aliases": [
       "70-200mm F2.8L IS USM",
       "EOS rf 70-200mm f2.8l is usm",
@@ -3739,11 +3741,12 @@
       "rf70-200mmf2.8lisusm"
     ],
     "dimensions": "φ89.9 x 146.0 mm",
-    "image_url": "/images/products/canon/rf-70-200mm-f2-8l-is-usm.jpg"
+    "image_url": "/images/products/canon/rf-70-200mm-f2-8l-is-usm.jpg",
+    "coating": "SWC, ASC, Fluorine Coating"
   },
   {
     "brand": "Canon",
-    "modelName": "Canon RF 28-70mm F2l USM",
+    "modelName": "Canon RF 28-70mm f/2L USM",
     "gearType": "LENS",
     "lensType": "ZOOM",
     "focalLengthMinMm": 28,
@@ -3752,10 +3755,10 @@
     "releaseYear": 2018,
     "slug": "rf-28-70mm-f2l-usm",
     "id": "rf-28-70mm-f2l-usm",
-    "motorType": "Ring USM",
+    "motorType": "Ring-type USM",
     "opticalDesign": "19 elements in 13 groups",
-    "minAperture": "--",
-    "specialElements": "4 Aspherical, 2 Super UD, 1 UD",
+    "minAperture": "TBD / Professional Standard",
+    "specialElements": "1 Super UD, 2 UD, 4 Aspherical",
     "coatings": "SWC, ASC, Fluorine",
     "closeFocus": "0.39m",
     "maxMagnification": "0.18x",
@@ -3764,10 +3767,10 @@
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "weightGrams": "1430 g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
-    "launchPrice": 88000,
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
+    "series": "TBD / Professional Standard",
+    "launchPrice": 91900,
     "aliases": [
       "28-70mm F2L USM",
       "EOS rf 28-70mm f2l usm",
@@ -3777,11 +3780,12 @@
       "rf28-70mmf2lusm"
     ],
     "dimensions": "φ103.8 x 139.8 mm",
-    "image_url": "/images/products/canon/rf-28-70mm-f2l-usm.jpg"
+    "image_url": "/images/products/canon/rf-28-70mm-f2l-usm.jpg",
+    "coating": "ASC, SWC, Fluorine Coating"
   },
   {
     "brand": "Canon",
-    "modelName": "Canon RF 50mm F1.2 L USM",
+    "modelName": "Canon RF 50mm f/1.2L USM",
     "gearType": "LENS",
     "lensType": "PRIME",
     "focalLengthMinMm": 50,
@@ -3790,10 +3794,10 @@
     "releaseYear": 2018,
     "slug": "rf-50mm-f1-2l-usm",
     "id": "rf-50mm-f1-2l-usm",
-    "motorType": "Ring USM",
+    "motorType": "Ring-type USM",
     "opticalDesign": "15 elements in 9 groups",
-    "minAperture": "--",
-    "specialElements": "1 Aspherical, 1 UD",
+    "minAperture": "TBD / Professional Standard",
+    "specialElements": "1 UD, 2 Aspherical",
     "coatings": "ASC, Fluorine",
     "closeFocus": "0.40m",
     "maxMagnification": "0.19x",
@@ -3802,10 +3806,10 @@
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "weightGrams": "950 g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
-    "launchPrice": 67900,
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
+    "series": "TBD / Professional Standard",
+    "launchPrice": 69300,
     "aliases": [
       "50mm F1.2L USM",
       "EOS rf 50mm f1.2l usm",
@@ -3815,7 +3819,8 @@
       "rf50mmf1.2lusm"
     ],
     "dimensions": "φ89.8 x 108.0 mm",
-    "image_url": "/images/products/canon/rf-50mm-f1-2l-usm.jpg"
+    "image_url": "/images/products/canon/rf-50mm-f1-2l-usm.jpg",
+    "coating": "ASC, Fluorine Coating"
   },
   {
     "brand": "Nikon",
@@ -11779,15 +11784,15 @@
     "modelName": "Canon RF 35mm f/1.4L VCM",
     "slug": "rf-35mm-f-1-4-l-vcm",
     "id": "rf-35mm-f-1-4-l-vcm",
-    "minAperture": "--",
+    "minAperture": "TBD / Professional Standard",
     "closeFocus": "0.18m",
     "maxMagnification": "0.15x",
     "hasOIS": false,
     "hasCustomButton": false,
     "weightGrams": "1100 g",
-    "lengthMm": "--",
-    "diameter": "--",
-    "series": "--",
+    "lengthMm": "TBD / Professional Standard",
+    "diameter": "TBD / Professional Standard",
+    "series": "TBD / Professional Standard",
     "aliases": [
       "14L",
       "14l",
@@ -11957,7 +11962,7 @@
   {
     "id": "rf-85mm-f1-2l-usm",
     "brand": "Canon",
-    "modelName": "Canon RF 85mm F1.2 L USM",
+    "modelName": "Canon RF 85mm f/1.2L USM",
     "gearType": "LENS",
     "mount": "Canon RF",
     "sensorFormat": "Full Frame",
@@ -11966,16 +11971,20 @@
     "apertureMax": 1.2,
     "releaseYear": 2019,
     "weightGrams": 1195,
-    "launchPrice": 85000,
+    "launchPrice": 81300,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-85mm-f1-2l-usm.jpg"
+    "image_url": "/images/products/canon/rf-85mm-f1-2l-usm.jpg",
+    "opticalDesign": "13 elements in 9 groups",
+    "specialElements": "1 UD, 1 Aspherical, BR Lens",
+    "coating": "ASC, Fluorine Coating",
+    "motorType": "Ring-type USM"
   },
   {
     "id": "rf-135mm-f1-8l-is-usm",
     "brand": "Canon",
-    "modelName": "Canon RF 135mm F1.8 L IS USM",
+    "modelName": "Canon RF 135mm f/1.8L IS USM",
     "gearType": "LENS",
     "mount": "Canon RF",
     "sensorFormat": "Full Frame",
@@ -11984,11 +11993,15 @@
     "apertureMax": 1.8,
     "releaseYear": 2022,
     "weightGrams": 935,
-    "launchPrice": 65000,
+    "launchPrice": 63000,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-135mm-f1-8l-is-usm.jpg"
+    "image_url": "/images/products/canon/rf-135mm-f1-8l-is-usm.jpg",
+    "opticalDesign": "17 elements in 12 groups",
+    "specialElements": "3 UD",
+    "coating": "ASC, Fluorine Coating",
+    "motorType": "Nano USM"
   },
   {
     "id": "rf-100mm-f2-8l-macro-is-usm",
@@ -12011,7 +12024,7 @@
   {
     "id": "rf-100-500mm-f4-5-7-1l-is-usm",
     "brand": "Canon",
-    "modelName": "Canon RF 100-500mm F4.5-7.1 L IS USM",
+    "modelName": "Canon RF 100-500mm f/4.5-7.1L IS USM",
     "gearType": "LENS",
     "mount": "Canon RF",
     "sensorFormat": "Full Frame",
@@ -12020,11 +12033,15 @@
     "apertureMax": 4.5,
     "releaseYear": 2020,
     "weightGrams": 1370,
-    "launchPrice": 88000,
+    "launchPrice": 83900,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-100-500mm-f4-5-7-1l-is-usm.jpg"
+    "image_url": "/images/products/canon/rf-100-500mm-f4-5-7-1l-is-usm.jpg",
+    "opticalDesign": "20 elements in 14 groups",
+    "specialElements": "1 Super UD, 6 UD",
+    "coating": "ASC, Fluorine Coating",
+    "motorType": "Dual Nano USM"
   },
   {
     "id": "rf-24-105mm-f4l-is-usm",
@@ -13029,7 +13046,16 @@
     "weightGrams": 609,
     "launchPrice": 79000,
     "hasIBIS": true,
-    "image_url": "/images/products/canon/eos-r6-mark-iii.jpg"
+    "image_url": "/images/products/canon/eos-r6-mark-iii.jpg",
+    "aliases": [
+      "R6III",
+      "R6 Mark III",
+      "R63"
+    ],
+    "sensorType": "32.5MP BSI Stacked CMOS",
+    "afTargets": "People, Animal, Vehicle, Sport Mode",
+    "ibisRating": "8.5 stops (CIPA)",
+    "burstSpeed": "40 fps (Electronic), 12 fps (Mechanical)"
   },
   {
     "id": "nikon-zr",
