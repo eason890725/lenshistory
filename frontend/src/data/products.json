@@ -13015,5 +13015,50 @@
     "hasWeatherSeal": false,
     "series": "XC-Series",
     "image_url": "/images/products/fujifilm/xc-50-230mm-f4-5-6-7-ois-ii.jpg"
+  },
+  {
+    "id": "eos-r6-mark-iii",
+    "brand": "Canon",
+    "modelName": "Canon EOS R6 Mark III",
+    "gearType": "CAMERA",
+    "mount": "Canon RF",
+    "sensorFormat": "Full Frame",
+    "megapixels": 32.5,
+    "maxVideoResolution": "7K RAW",
+    "releaseYear": 2025,
+    "weightGrams": 609,
+    "launchPrice": 79000,
+    "hasIBIS": true,
+    "image_url": "/images/products/canon/eos-r6-mark-iii.jpg"
+  },
+  {
+    "id": "nikon-zr",
+    "brand": "Nikon",
+    "modelName": "Nikon ZR (Cinema Camera)",
+    "gearType": "CAMERA",
+    "mount": "Nikon Z",
+    "sensorFormat": "Full Frame",
+    "megapixels": 24.5,
+    "maxVideoResolution": "8K REDCODE",
+    "releaseYear": 2025,
+    "weightGrams": 650,
+    "launchPrice": 69000,
+    "hasIBIS": true,
+    "image_url": "/images/products/nikon/nikon-zr.jpg"
+  },
+  {
+    "id": "nikon-z6-iii",
+    "brand": "Nikon",
+    "modelName": "Nikon Z6 III",
+    "gearType": "CAMERA",
+    "mount": "Nikon Z",
+    "sensorFormat": "Full Frame",
+    "megapixels": 24.5,
+    "maxVideoResolution": "6K RAW",
+    "releaseYear": 2024,
+    "weightGrams": 670,
+    "launchPrice": 79000,
+    "hasIBIS": true,
+    "image_url": "/images/products/nikon/nikon-z6-iii.jpg"
   }
 ]
