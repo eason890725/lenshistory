@@ -3818,7 +3818,8 @@
       "Z14-24mmf/2.8S"
     ],
     "dimensions": "φ88.5 x 124.5 mm",
-    "filterSizeMm": "112mm (via HB-97)"
+    "filterSizeMm": "112mm (via HB-97)",
+    "image_url": "/images/products/nikon/z-14-24mm-f-2-8-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -3856,7 +3857,8 @@
       "Z24-70mmf/2.8S"
     ],
     "dimensions": "φ89 x 126 mm",
-    "filterSizeMm": "82mm"
+    "filterSizeMm": "82mm",
+    "image_url": "/images/products/nikon/z-24-70mm-f-2-8-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -3932,7 +3934,8 @@
       "Z135mmf/1.8SPlena"
     ],
     "dimensions": "φ98 x 139.5 mm",
-    "filterSizeMm": "82mm"
+    "filterSizeMm": "82mm",
+    "image_url": "/images/products/nikon/z-135mm-f-1-8-s-plena.jpg"
   },
   {
     "brand": "Nikon",
@@ -3970,7 +3973,8 @@
       "Z50mmf/1.2S"
     ],
     "dimensions": "φ89.5 x 150 mm",
-    "filterSizeMm": "82mm"
+    "filterSizeMm": "82mm",
+    "image_url": "/images/products/nikon/z-50mm-f-1-2-s.jpg"
   },
   {
     "brand": "Laowa",
@@ -11784,7 +11788,8 @@
     "lensType": "PRIME",
     "launchPrice": 84900,
     "minAperture": "16",
-    "series": "S-Line"
+    "series": "S-Line",
+    "image_url": "/images/products/nikon/z-85mm-f-1-2-s.jpg"
   },
   {
     "opticalDesign": "12 groups, 17 elements",
@@ -11880,7 +11885,8 @@
       "24120S",
       "Z24-120"
     ],
-    "launchPrice": 33900
+    "launchPrice": 33900,
+    "image_url": "/images/products/nikon/z-24-120mm-f-4-s.jpg"
   },
   {
     "id": "z-100-400mm-f-4-5-5-6-vr-s",
@@ -11907,6 +11913,7 @@
       "100400S",
       "Z100-400"
     ],
-    "launchPrice": 82000
+    "launchPrice": 82000,
+    "image_url": "/images/products/nikon/z-100-400mm-f-4-5-5-6-vr-s.jpg"
   }
 ]
