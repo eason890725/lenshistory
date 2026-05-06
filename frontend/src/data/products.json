@@ -1807,7 +1807,8 @@
     "batterySpec": "LP-E19 (Approx. 760 shots CIPA)",
     "dimensions": "150.0 x 142.6 x 87.2 mm",
     "image_url": "/images/products/canon/canon-eos-r3.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1842,7 +1843,8 @@
     "evfMagnification": "0.76x",
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
     "image_url": "/images/products/canon/canon-eos-r5-ii.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1873,7 +1875,8 @@
     "image_url": "/images/products/canon/canon-eos-r5.jpg",
     "category": "Enthusiast",
     "sensorType": "45MP Full-frame BSI CMOS",
-    "ibisRating": "8.0 stops (CIPA)"
+    "ibisRating": "8.0 stops (CIPA)",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1906,7 +1909,8 @@
     "weightGrams": "Approx. 670 g (including battery and card)",
     "dimensions": "138.4 x 98.4 x 88.4 mm",
     "image_url": "/images/products/canon/canon-eos-r6-ii.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1935,7 +1939,8 @@
     "weightGrams": "Approx. 680 g (including battery and card)",
     "dimensions": "138.4 x 97.5 x 88.4 mm",
     "image_url": "/images/products/canon/canon-eos-r6.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1967,7 +1972,8 @@
     "weightGrams": "Approx. 461 g (including battery and card)",
     "dimensions": "132.5 x 86.1 x 70.0 mm",
     "image_url": "/images/products/canon/canon-eos-r8.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -1996,7 +2002,8 @@
     "weightGrams": "Approx. 660 g (including battery and card)",
     "dimensions": "135.8 x 98.3 x 84.4 mm",
     "image_url": "/images/products/canon/canon-eos-r.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -2025,7 +2032,8 @@
     "weightGrams": "Approx. 485 g (including battery and card)",
     "dimensions": "132.5 x 85.0 x 70.0 mm",
     "image_url": "/images/products/canon/canon-eos-rp.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -2060,7 +2068,8 @@
     "weightGrams": "Approx. 612 g (including battery and card)",
     "dimensions": "132.0 x 90.4 x 91.7 mm",
     "image_url": "/images/products/canon/canon-eos-r7.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -2097,7 +2106,8 @@
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "122.5 x 87.8 x 83.4 mm",
     "image_url": "/images/products/canon/canon-eos-r10.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -2113,7 +2123,7 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "12 fps (Elec. 1st Curtain), 15 fps (Electronic)",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 22900,
     "aliases": [
       "Canon eos r50",
       "EOS R50",
@@ -2134,7 +2144,8 @@
     "image_url": "/images/products/canon/canon-eos-r50.jpg",
     "category": "Enthusiast",
     "sensorType": "24.2MP APS-C CMOS (Standard)",
-    "ibisRating": "No IBIS"
+    "ibisRating": "No IBIS",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Canon",
@@ -2170,7 +2181,8 @@
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
     "image_url": "/images/products/canon/canon-eos-r100.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
   {
     "brand": "Nikon",
@@ -3682,7 +3694,9 @@
     "dimensions": "φ88.5 x 126.8 mm",
     "image_url": "/images/products/canon/canon-rf-15-35mm-f2-8l-is-usm.jpg",
     "coating": "SWC, ASC, Fluorine Coating",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "brand": "Canon",
@@ -3722,7 +3736,9 @@
     "dimensions": "φ88.5 x 125.7 mm",
     "image_url": "/images/products/canon/canon-rf-24-70mm-f2-8l-is-usm.jpg",
     "coating": "ASC, Fluorine Coating",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "brand": "Canon",
@@ -3762,7 +3778,9 @@
     "dimensions": "φ89.9 x 146.0 mm",
     "image_url": "/images/products/canon/canon-rf-70-200mm-f2-8l-is-usm.jpg",
     "coating": "SWC, ASC, Fluorine Coating",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "brand": "Canon",
@@ -3802,7 +3820,9 @@
     "dimensions": "φ103.8 x 139.8 mm",
     "image_url": "/images/products/canon/canon-rf-28-70mm-f2l-usm.jpg",
     "coating": "ASC, SWC, Fluorine Coating",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "brand": "Canon",
@@ -3842,7 +3862,9 @@
     "dimensions": "φ89.8 x 108.0 mm",
     "image_url": "/images/products/canon/canon-rf-50mm-f1-2l-usm.jpg",
     "coating": "ASC, Fluorine Coating",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "brand": "Nikon",
@@ -11826,7 +11848,9 @@
     ],
     "dimensions": "φ99.2 x 149.8 mm",
     "image_url": "/images/products/canon/canon-rf-35mm-f-1-4-l-vcm.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "opticalDesign": "15 elements in 10 groups",
@@ -12003,7 +12027,9 @@
     "specialElements": "1 UD, 1 Aspherical, BR Lens",
     "coating": "ASC, Fluorine Coating",
     "motorType": "Ring-type USM",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -12026,7 +12052,9 @@
     "specialElements": "3 UD",
     "coating": "ASC, Fluorine Coating",
     "motorType": "Nano USM",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -12050,7 +12078,9 @@
     "specialElements": "SA (Spherical Aberration) Control Ring",
     "coating": "Super Spectra Coating, Fluorine",
     "motorType": "Dual Nano USM",
-    "ibisRating": "5.0 stops (up to 8.0 with IBIS)"
+    "ibisRating": "5.0 stops (up to 8.0 with IBIS)",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -12073,7 +12103,9 @@
     "specialElements": "1 Super UD, 6 UD",
     "coating": "ASC, Fluorine Coating",
     "motorType": "Dual Nano USM",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-24-105mm-f4l-is-usm",
@@ -12097,7 +12129,9 @@
     "specialElements": "3 Aspherical, 1 UD",
     "coating": "ASC, Fluorine",
     "motorType": "Nano USM",
-    "ibisRating": "5.0 stops"
+    "ibisRating": "5.0 stops",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
@@ -12121,7 +12155,9 @@
     "specialElements": "4 UD, 3 Aspherical",
     "coating": "ASC, SSC, Fluorine",
     "motorType": "Dual Nano USM",
-    "ibisRating": "5.5 stops (up to 8.0 with IBIS)"
+    "ibisRating": "5.5 stops (up to 8.0 with IBIS)",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-10-20mm-f4l-is-stm",
@@ -12145,7 +12181,9 @@
     "specialElements": "1 Super UD, 3 UD, 3 Aspherical",
     "coating": "SWC, ASC, Fluorine",
     "motorType": "STM (Optimized for Video)",
-    "ibisRating": "5.0 stops (up to 6.0 Peripheral Control)"
+    "ibisRating": "5.0 stops (up to 6.0 Peripheral Control)",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-50mm-f1-8-stm",
@@ -12164,7 +12202,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-50mm-f1-8-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "z-58mm-f-0-95-s-noct",
@@ -12471,7 +12511,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-16mm-f2-8-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -12490,7 +12532,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-24mm-f1-8-macro-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -12509,7 +12553,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-28mm-f2-8-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -12528,7 +12574,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-35mm-f1-8-macro-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -12547,7 +12595,9 @@
     "hasWeatherSeal": false,
     "series": "USM",
     "image_url": "/images/products/canon/canon-rf-100-400mm-f5-6-8-is-usm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-600mm-f11-is-stm",
@@ -12566,7 +12616,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-600mm-f11-is-stm.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-800mm-f11-is-stm",
@@ -12585,7 +12637,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-800mm-f11-is-stm.jpg",
-    "category": "Enthusiast"
+    "category": "Enthusiast",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-24-105mm-f4-7-1-is-stm",
@@ -12604,7 +12658,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-24-105mm-f4-7-1-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -12623,7 +12679,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-s-18-45mm-f4-5-6-3-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -12642,7 +12700,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-s-10-18mm-f4-5-6-3-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -12661,7 +12721,9 @@
     "hasWeatherSeal": false,
     "series": "STM",
     "image_url": "/images/products/canon/canon-rf-s-18-150mm-f3-5-6-3-is-stm.jpg",
-    "category": "Entry"
+    "category": "Entry",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "z-20mm-f-1-8-s",
@@ -13118,7 +13180,9 @@
     "afTargets": "People, Animal, Vehicle, Sport Mode",
     "ibisRating": "8.5 stops (CIPA)",
     "burstSpeed": "40 fps (Electronic), 12 fps (Mechanical)",
-    "category": "Professional"
+    "category": "Professional",
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "evfResolution": "OLED Color EVF (Professional Standard)"
   },
   {
     "id": "nikon-zr",
