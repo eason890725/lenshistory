@@ -3896,7 +3896,8 @@
       "Z70-200mmf/2.8VRS"
     ],
     "dimensions": "φ89 x 220 mm",
-    "filterSizeMm": "77mm"
+    "filterSizeMm": "77mm",
+    "image_url": "/images/products/nikon/z-70-200mm-f-2-8-vr-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -11761,7 +11762,8 @@
       "RF 14mm f/1.4 L VCM",
       "RF14mmf/1.4LVCM"
     ],
-    "dimensions": "φ99.2 x 149.8 mm"
+    "dimensions": "φ99.2 x 149.8 mm",
+    "image_url": "/images/products/canon/rf-35mm-f-1-4-l-vcm.jpg"
   },
   {
     "opticalDesign": "15 elements in 10 groups",
