@@ -2201,7 +2201,7 @@
     "megapixels": "45.7MP",
     "releaseYear": 2021,
     "slug": "z9",
-    "id": "z9",
+    "id": "nikon-z9",
     "videoResolution": "8K 60p / 4K 120p / ProRes RAW",
     "afPoints": "493",
     "evfResolution": "3.69M-dot Quad-VGA OLED",
@@ -2228,7 +2228,7 @@
     "cardSlots": "2x CFexpress Type B / XQD",
     "ports": "USB-C (3.2 Gen 2), HDMI Type A, RJ-45, Mic, Headphone, 10-pin Terminal",
     "isoRange": "64-25600 (Ext: 32-102400)",
-    "image_url": "/images/products/nikon/z9.jpg"
+    "image_url": "/images/products/nikon/nikon-z9.jpg"
   },
   {
     "brand": "Nikon",
@@ -2238,7 +2238,7 @@
     "megapixels": "45.7MP",
     "releaseYear": 2023,
     "slug": "z8",
-    "id": "z8",
+    "id": "nikon-z8",
     "videoResolution": "8K 60p / 4K 120p / N-RAW",
     "afPoints": "493",
     "evfResolution": "3.69M-dot Quad-VGA OLED",
@@ -2264,7 +2264,7 @@
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "Dual USB-C (Data + Power), HDMI Type A, Mic, Headphone, 10-pin",
-    "image_url": "/images/products/nikon/z8.jpg"
+    "image_url": "/images/products/nikon/nikon-z8.jpg"
   },
   {
     "brand": "Nikon",
@@ -2274,7 +2274,7 @@
     "megapixels": "45.7MP",
     "releaseYear": 2020,
     "slug": "z7-ii",
-    "id": "z7-ii",
+    "id": "nikon-z7-ii",
     "videoResolution": "4K 60p / FHD 120p",
     "afPoints": "493 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -2297,7 +2297,7 @@
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "isoRange": "64-25600 (Ext: 32-102400)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/z7-ii.jpg"
+    "image_url": "/images/products/nikon/nikon-z7-ii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2307,7 +2307,7 @@
     "megapixels": "45.7MP",
     "releaseYear": 2018,
     "slug": "z7",
-    "id": "z7",
+    "id": "nikon-z7",
     "videoResolution": "4K 30p / FHD 120p",
     "afPoints": "493 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -2330,7 +2330,7 @@
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
     "ibisRating": "5.0 stops (CIPA)",
-    "image_url": "/images/products/nikon/z7.jpg"
+    "image_url": "/images/products/nikon/nikon-z7.jpg"
   },
   {
     "brand": "Nikon",
@@ -2340,7 +2340,7 @@
     "megapixels": "24.5MP",
     "releaseYear": 2024,
     "slug": "z6-iii",
-    "id": "z6-iii",
+    "id": "nikon-z6-iii",
     "videoResolution": "6K 60p N-RAW / 4K 120p",
     "afPoints": "299",
     "evfResolution": "5.76M-dot Bright OLED",
@@ -2366,7 +2366,7 @@
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "USB-C, HDMI Type A, Mic, Headphone",
     "isoRange": "100-64000 (Ext: 50-204800)",
-    "image_url": "/images/products/nikon/z6-iii.jpg"
+    "image_url": "/images/products/nikon/nikon-z6-iii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2376,7 +2376,7 @@
     "megapixels": "24.5MP",
     "releaseYear": 2020,
     "slug": "z6-ii",
-    "id": "z6-ii",
+    "id": "nikon-z6-ii",
     "videoResolution": "4K 60p / FHD 120p",
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -2399,7 +2399,7 @@
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/z6-ii.jpg"
+    "image_url": "/images/products/nikon/nikon-z6-ii.jpg"
   },
   {
     "brand": "Nikon",
@@ -2409,7 +2409,7 @@
     "megapixels": "24.5MP",
     "releaseYear": 2018,
     "slug": "z6",
-    "id": "z6",
+    "id": "nikon-z6",
     "videoResolution": "4K 30p / FHD 120p",
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -2432,7 +2432,7 @@
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
     "ibisRating": "5.0 stops (CIPA)",
-    "image_url": "/images/products/nikon/z6.jpg"
+    "image_url": "/images/products/nikon/nikon-z6.jpg"
   },
   {
     "brand": "Nikon",
@@ -2442,7 +2442,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2020,
     "slug": "z5",
-    "id": "z5",
+    "id": "nikon-z5",
     "videoResolution": "4K 30p (Cropped 1.7x) / FHD 60p",
     "afPoints": "273 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -2465,7 +2465,7 @@
     "cardSlots": "2x SD (UHS-II)",
     "isoRange": "100-51200 (Ext: 50-102400)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/z5.jpg"
+    "image_url": "/images/products/nikon/nikon-z5.jpg"
   },
   {
     "brand": "Nikon",
@@ -2475,7 +2475,7 @@
     "megapixels": "24.5MP",
     "releaseYear": 2023,
     "slug": "zf",
-    "id": "zf",
+    "id": "nikon-zf",
     "videoResolution": "4K 60p (Cropped) / 4K 30p",
     "afPoints": "299",
     "evfResolution": "3.69M-dot OLED",
@@ -2500,7 +2500,7 @@
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
     "cardSlots": "1x SD (UHS-II) + 1x MicroSD (UHS-I)",
     "isoRange": "100-64000 (Ext: 50-204800)",
-    "image_url": "/images/products/nikon/zf.jpg"
+    "image_url": "/images/products/nikon/nikon-zf.jpg"
   },
   {
     "brand": "Nikon",
@@ -2510,7 +2510,7 @@
     "megapixels": "20.9MP",
     "releaseYear": 2021,
     "slug": "zfc",
-    "id": "zfc",
+    "id": "nikon-zfc",
     "videoResolution": "4K 60p",
     "afPoints": "299",
     "evfResolution": "3.69M-dot OLED",
@@ -2528,7 +2528,7 @@
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "ibisRating": "No (Lens OIS support)",
     "dimensions": "134.5 x 93.5 x 43.5 mm",
-    "image_url": "/images/products/nikon/zfc.jpg"
+    "image_url": "/images/products/nikon/nikon-zfc.jpg"
   },
   {
     "brand": "Nikon",
@@ -2538,7 +2538,7 @@
     "megapixels": "20.9MP",
     "releaseYear": 2019,
     "slug": "z50",
-    "id": "z50",
+    "id": "nikon-z50",
     "videoResolution": "4K 30p / FHD 120p",
     "afPoints": "209 Points",
     "evfResolution": "2.36M-dot OLED",
@@ -2561,7 +2561,7 @@
     "weightGrams": "Approx. 450 g (including battery and card)",
     "dimensions": "126.5 x 93.5 x 60.0 mm",
     "ibisRating": "No (Lens OIS support)",
-    "image_url": "/images/products/nikon/z50.jpg"
+    "image_url": "/images/products/nikon/nikon-z50.jpg"
   },
   {
     "brand": "Nikon",
@@ -2571,7 +2571,7 @@
     "megapixels": "20.9MP",
     "releaseYear": 2022,
     "slug": "z30",
-    "id": "z30",
+    "id": "nikon-z30",
     "videoResolution": "4K 30p / FHD 120p",
     "afPoints": "209 Points",
     "evfResolution": "No EVF",
@@ -2590,7 +2590,7 @@
     "cardSlots": "1x SD (UHS-I)",
     "isoRange": "100-51200 (Ext: 204800)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/z30.jpg"
+    "image_url": "/images/products/nikon/nikon-z30.jpg"
   },
   {
     "brand": "Sony",
@@ -3895,7 +3895,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "z-14-24mm-f-2-8-s",
-    "id": "z-14-24mm-f-2-8-s",
+    "id": "nikon-z-14-24mm-f-2-8-s",
     "motorType": "STM (Stepping Motor)",
     "opticalDesign": "15 elements in 12 groups",
     "minAperture": "22",
@@ -3922,7 +3922,7 @@
     ],
     "dimensions": "φ88.5 x 124.5 mm",
     "filterSizeMm": "112mm (via HB-97)",
-    "image_url": "/images/products/nikon/z-14-24mm-f-2-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-14-24mm-f-2-8-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -3934,7 +3934,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "z-24-70mm-f-2-8-s",
-    "id": "z-24-70mm-f-2-8-s",
+    "id": "nikon-z-24-70mm-f-2-8-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "17 elements in 15 groups",
     "minAperture": "22",
@@ -3961,7 +3961,7 @@
     ],
     "dimensions": "φ89 x 126 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/z-24-70mm-f-2-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -3973,7 +3973,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "z-70-200mm-f-2-8-vr-s",
-    "id": "z-70-200mm-f-2-8-vr-s",
+    "id": "nikon-z-70-200mm-f-2-8-vr-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "21 elements in 18 groups",
     "minAperture": "22",
@@ -4000,7 +4000,7 @@
     ],
     "dimensions": "φ89 x 220 mm",
     "filterSizeMm": "77mm",
-    "image_url": "/images/products/nikon/z-70-200mm-f-2-8-vr-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s.jpg"
   },
   {
     "brand": "Nikon",
@@ -4012,7 +4012,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2023,
     "slug": "z-135mm-f-1-8-s-plena",
-    "id": "z-135mm-f-1-8-s-plena",
+    "id": "nikon-z-135mm-f-1-8-s-plena",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "16 elements in 14 groups",
     "minAperture": "16",
@@ -4039,7 +4039,7 @@
     ],
     "dimensions": "φ98 x 139.5 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/z-135mm-f-1-8-s-plena.jpg"
+    "image_url": "/images/products/nikon/nikon-z-135mm-f-1-8-s-plena.jpg"
   },
   {
     "brand": "Nikon",
@@ -4051,7 +4051,7 @@
     "apertureMax": 1.2,
     "releaseYear": 2020,
     "slug": "z-50mm-f-1-2-s",
-    "id": "z-50mm-f-1-2-s",
+    "id": "nikon-z-50mm-f-1-2-s",
     "motorType": "Multi-focusing System (STM)",
     "opticalDesign": "17 elements in 15 groups",
     "minAperture": "16",
@@ -4078,7 +4078,7 @@
     ],
     "dimensions": "φ89.5 x 150 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/z-50mm-f-1-2-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-2-s.jpg"
   },
   {
     "brand": "Laowa",
@@ -11883,7 +11883,7 @@
     "hasWeatherSeal": true,
     "modelName": "Nikon Z 85mm f/1.2 S",
     "slug": "z-85mm-f-1-2-s",
-    "id": "z-85mm-f-1-2-s",
+    "id": "nikon-z-85mm-f-1-2-s",
     "aliases": [
       "Z85mmf/1.2S"
     ],
@@ -11900,7 +11900,7 @@
     "launchPrice": 84900,
     "minAperture": "16",
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-85mm-f-1-2-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-2-s.jpg"
   },
   {
     "opticalDesign": "12 groups, 17 elements",
@@ -11973,7 +11973,7 @@
     ]
   },
   {
-    "id": "z-24-120mm-f-4-s",
+    "id": "nikon-z-24-120mm-f-4-s",
     "slug": "z-24-120mm-f-4-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 24-120mm f/4 S",
@@ -11998,10 +11998,10 @@
       "Z24-120"
     ],
     "launchPrice": 33900,
-    "image_url": "/images/products/nikon/z-24-120mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-120mm-f-4-s.jpg"
   },
   {
-    "id": "z-100-400mm-f-4-5-5-6-vr-s",
+    "id": "nikon-z-100-400mm-f-4-5-5-6-vr-s",
     "slug": "z-100-400mm-f-4-5-5-6-vr-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 100-400mm f/4.5-5.6 VR S",
@@ -12026,7 +12026,7 @@
       "Z100-400"
     ],
     "launchPrice": 82000,
-    "image_url": "/images/products/nikon/z-100-400mm-f-4-5-5-6-vr-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-100-400mm-f-4-5-5-6-vr-s.jpg"
   },
   {
     "id": "canon-rf-85mm-f1-2l-usm",
@@ -12277,7 +12277,7 @@
     "dimensions": "ø69.2 x 40.5 mm"
   },
   {
-    "id": "z-58mm-f-0-95-s-noct",
+    "id": "nikon-z-58mm-f-0-95-s-noct",
     "brand": "Nikon",
     "modelName": "Nikon Z 58mm f/0.95 S Noct",
     "gearType": "LENS",
@@ -12292,10 +12292,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-58mm-f-0-95-s-noct.jpg"
+    "image_url": "/images/products/nikon/nikon-z-58mm-f-0-95-s-noct.jpg"
   },
   {
-    "id": "z-105mm-f-2-8-vr-s-micro",
+    "id": "nikon-z-105mm-f-2-8-vr-s-micro",
     "brand": "Nikon",
     "modelName": "Nikon Z 105mm f/2.8 VR S Micro",
     "gearType": "LENS",
@@ -12310,10 +12310,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-105mm-f-2-8-vr-s-micro.jpg"
+    "image_url": "/images/products/nikon/nikon-z-105mm-f-2-8-vr-s-micro.jpg"
   },
   {
-    "id": "z-14-30mm-f-4-s",
+    "id": "nikon-z-14-30mm-f-4-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 14-30mm f/4 S",
     "gearType": "LENS",
@@ -12328,10 +12328,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-14-30mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-14-30mm-f-4-s.jpg"
   },
   {
-    "id": "z-24-200mm-f-4-6-3-vr",
+    "id": "nikon-z-24-200mm-f-4-6-3-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z 24-200mm f/4-6.3 VR",
     "gearType": "LENS",
@@ -12346,10 +12346,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-24-200mm-f-4-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-200mm-f-4-6-3-vr.jpg"
   },
   {
-    "id": "z-180-600mm-f-5-6-6-3-vr",
+    "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z 180-600mm f/5.6-6.3 VR",
     "gearType": "LENS",
@@ -12364,10 +12364,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-180-600mm-f-5-6-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-180-600mm-f-5-6-6-3-vr.jpg"
   },
   {
-    "id": "z-85mm-f-1-8-s",
+    "id": "nikon-z-85mm-f-1-8-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 85mm f/1.8 S",
     "gearType": "LENS",
@@ -12382,10 +12382,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-85mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-8-s.jpg"
   },
   {
-    "id": "z-50mm-f-1-8-s",
+    "id": "nikon-z-50mm-f-1-8-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 50mm f/1.8 S",
     "gearType": "LENS",
@@ -12400,10 +12400,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-50mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-8-s.jpg"
   },
   {
-    "id": "z-35mm-f-1-8-s",
+    "id": "nikon-z-35mm-f-1-8-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 35mm f/1.8 S",
     "gearType": "LENS",
@@ -12418,7 +12418,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-35mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-8-s.jpg"
   },
   {
     "id": "xf-35mm-f1-4-r",
@@ -12917,7 +12917,7 @@
     "dimensions": "ø69.0 x 84.5 mm"
   },
   {
-    "id": "z-20mm-f-1-8-s",
+    "id": "nikon-z-20mm-f-1-8-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 20mm f/1.8 S",
     "gearType": "LENS",
@@ -12932,10 +12932,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-20mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-20mm-f-1-8-s.jpg"
   },
   {
-    "id": "z-24mm-f-1-8-s",
+    "id": "nikon-z-24mm-f-1-8-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 24mm f/1.8 S",
     "gearType": "LENS",
@@ -12950,10 +12950,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-24mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24mm-f-1-8-s.jpg"
   },
   {
-    "id": "z-26mm-f-2-8",
+    "id": "nikon-z-26mm-f-2-8",
     "brand": "Nikon",
     "modelName": "Nikon Z 26mm f/2.8",
     "gearType": "LENS",
@@ -12968,10 +12968,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-26mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-26mm-f-2-8.jpg"
   },
   {
-    "id": "z-28mm-f-2-8",
+    "id": "nikon-z-28mm-f-2-8",
     "brand": "Nikon",
     "modelName": "Nikon Z 28mm f/2.8",
     "gearType": "LENS",
@@ -12986,10 +12986,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-28mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8.jpg"
   },
   {
-    "id": "z-40mm-f-2",
+    "id": "nikon-z-40mm-f-2",
     "brand": "Nikon",
     "modelName": "Nikon Z 40mm f/2",
     "gearType": "LENS",
@@ -13004,10 +13004,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-40mm-f-2.jpg"
+    "image_url": "/images/products/nikon/nikon-z-40mm-f-2.jpg"
   },
   {
-    "id": "z-24-70mm-f-4-s",
+    "id": "nikon-z-24-70mm-f-4-s",
     "brand": "Nikon",
     "modelName": "Nikon Z 24-70mm f/4 S",
     "gearType": "LENS",
@@ -13022,10 +13022,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/z-24-70mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-4-s.jpg"
   },
   {
-    "id": "z-dx-16-50mm-f-3-5-6-3-vr",
+    "id": "nikon-z-dx-16-50mm-f-3-5-6-3-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z DX 16-50mm f/3.5-6.3 VR",
     "gearType": "LENS",
@@ -13040,10 +13040,10 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/z-dx-16-50mm-f-3-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-16-50mm-f-3-5-6-3-vr.jpg"
   },
   {
-    "id": "z-dx-50-250mm-f-4-5-6-3-vr",
+    "id": "nikon-z-dx-50-250mm-f-4-5-6-3-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z DX 50-250mm f/4.5-6.3 VR",
     "gearType": "LENS",
@@ -13058,10 +13058,10 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/z-dx-50-250mm-f-4-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-50-250mm-f-4-5-6-3-vr.jpg"
   },
   {
-    "id": "z-dx-12-28mm-f-3-5-5-6-pz-vr",
+    "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z DX 12-28mm f/3.5-5.6 PZ VR",
     "gearType": "LENS",
@@ -13076,10 +13076,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/z-dx-12-28mm-f-3-5-5-6-pz-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr.jpg"
   },
   {
-    "id": "z-dx-18-140mm-f-3-5-6-3-vr",
+    "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
     "brand": "Nikon",
     "modelName": "Nikon Z DX 18-140mm f/3.5-6.3 VR",
     "gearType": "LENS",
@@ -13094,10 +13094,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/z-dx-18-140mm-f-3-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-18-140mm-f-3-5-6-3-vr.jpg"
   },
   {
-    "id": "z-24-50mm-f-4-6-3",
+    "id": "nikon-z-24-50mm-f-4-6-3",
     "brand": "Nikon",
     "modelName": "Nikon Z 24-50mm f/4-6.3",
     "gearType": "LENS",
@@ -13112,10 +13112,10 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-24-50mm-f-4-6-3.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-50mm-f-4-6-3.jpg"
   },
   {
-    "id": "z-28-75mm-f-2-8",
+    "id": "nikon-z-28-75mm-f-2-8",
     "brand": "Nikon",
     "modelName": "Nikon Z 28-75mm f/2.8",
     "gearType": "LENS",
@@ -13130,7 +13130,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/z-28-75mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-28-75mm-f-2-8.jpg"
   },
   {
     "id": "xf-23mm-f2-r-wr",
