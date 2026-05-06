@@ -1956,16 +1956,16 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "6fps (Elec. 1st Curtain) / 40fps (Elec)",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 42000,
     "aliases": [
       "R8",
       "EOSR8"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Human, Animal, Bird, Vehicle, Insect, Plane, Train",
+    "afTargets": "Humans, Animals (Cats/Dogs/Birds/Horses), Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-204800)",
-    "ibisRating": "No (Lens OIS support)",
+    "ibisRating": "No IBIS",
     "evfMagnification": "0.70x",
     "cardSlots": "1x SD UHS-II",
     "batterySpec": "LP-E17 (Approx. 290 shots CIPA)",
@@ -1973,7 +1973,8 @@
     "dimensions": "132.5 x 86.1 x 70.0 mm",
     "image_url": "/images/products/canon/canon-eos-r8.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "sensorType": "24.2MP FSI-CMOS (High Speed)"
   },
   {
     "brand": "Canon",
@@ -1989,13 +1990,13 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "8fps",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 52000,
     "aliases": [
       "EOSR",
       "CanonR"
     ],
     "processor": "DIGIC 8",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans (Face/Eye)",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6N (Approx. 370 shots CIPA)",
@@ -2003,7 +2004,9 @@
     "dimensions": "135.8 x 98.3 x 84.4 mm",
     "image_url": "/images/products/canon/canon-eos-r.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "sensorType": "30.3MP FSI-CMOS",
+    "ibisRating": "No IBIS"
   },
   {
     "brand": "Canon",
@@ -2019,13 +2022,13 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "5fps",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 32000,
     "aliases": [
       "EOSRP",
       "CanonRP"
     ],
     "processor": "DIGIC 8",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans (Face/Eye)",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 250 shots CIPA)",
@@ -2033,7 +2036,9 @@
     "dimensions": "132.5 x 85.0 x 70.0 mm",
     "image_url": "/images/products/canon/canon-eos-rp.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "sensorType": "26.2MP FSI-CMOS",
+    "ibisRating": "No IBIS"
   },
   {
     "brand": "Canon",
@@ -2049,7 +2054,7 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "15fps (Mech) / 30fps (Elec)",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 45000,
     "aliases": [
       "Canon eos r7",
       "EOS R7",
@@ -2061,7 +2066,7 @@
       "r7"
     ],
     "processor": "DIGIC X",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E6NH (Approx. 660 shots CIPA)",
@@ -2069,7 +2074,9 @@
     "dimensions": "132.0 x 90.4 x 91.7 mm",
     "image_url": "/images/products/canon/canon-eos-r7.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "sensorType": "32.5MP APS-C FSI-CMOS",
+    "ibisRating": "8.0 stops (CIPA)"
   },
   {
     "brand": "Canon",
@@ -2085,9 +2092,9 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "15fps (Mech) / 23fps (Elec)",
     "logSupport": "C-Log 2/3",
-    "sensorType": "Stacked CMOS",
+    "sensorType": "24.2MP APS-C FSI-CMOS",
     "weightGrams": "Approx. 429 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 28000,
     "aliases": [
       "Canon eos r10",
       "EOS R1",
@@ -2100,14 +2107,15 @@
       "r10"
     ],
     "processor": "DIGIC X",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans, Animals, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "122.5 x 87.8 x 83.4 mm",
     "image_url": "/images/products/canon/canon-eos-r10.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "ibisRating": "No IBIS"
   },
   {
     "brand": "Canon",
@@ -2135,7 +2143,7 @@
       "r50"
     ],
     "processor": "DIGIC X",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans, Animals, Vehicles (Aircraft/Trains)",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 370 shots CIPA)",
@@ -2143,7 +2151,7 @@
     "dimensions": "116.3 x 85.5 x 68.8 mm",
     "image_url": "/images/products/canon/canon-eos-r50.jpg",
     "category": "Enthusiast",
-    "sensorType": "24.2MP APS-C CMOS (Standard)",
+    "sensorType": "24.2MP APS-C FSI-CMOS",
     "ibisRating": "No IBIS",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen"
   },
@@ -2161,9 +2169,9 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "6.5fps",
     "logSupport": "C-Log 2/3",
-    "sensorType": "Stacked CMOS",
+    "sensorType": "24.1MP APS-C FSI-CMOS",
     "weightGrams": "Approx. 356 g (including battery and card)",
-    "launchPrice": 39980,
+    "launchPrice": 13000,
     "aliases": [
       "Canon eos r100",
       "EOS R100",
@@ -2175,14 +2183,15 @@
       "r100"
     ],
     "processor": "DIGIC 8",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Humans (Face/Eye)",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
     "image_url": "/images/products/canon/canon-eos-r100.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "ibisRating": "No IBIS"
   },
   {
     "brand": "Nikon",
@@ -12029,7 +12038,10 @@
     "motorType": "Ring-type USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 85mm f/1.2L USM"
+    ]
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -12054,7 +12066,10 @@
     "motorType": "Nano USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 135mm f/1.8L IS USM"
+    ]
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -12080,7 +12095,10 @@
     "motorType": "Dual Nano USM",
     "ibisRating": "5.0 stops (up to 8.0 with IBIS)",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 100mm F2.8 L Macro IS USM"
+    ]
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -12105,7 +12123,10 @@
     "motorType": "Dual Nano USM",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 100-500mm f/4.5-7.1L IS USM"
+    ]
   },
   {
     "id": "canon-rf-24-105mm-f4l-is-usm",
@@ -12131,7 +12152,10 @@
     "motorType": "Nano USM",
     "ibisRating": "5.0 stops",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 24-105mm F4 L IS USM"
+    ]
   },
   {
     "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
@@ -12157,7 +12181,10 @@
     "motorType": "Dual Nano USM",
     "ibisRating": "5.5 stops (up to 8.0 with IBIS)",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 24-105mm F2.8 L IS USM Z"
+    ]
   },
   {
     "id": "canon-rf-10-20mm-f4l-is-stm",
@@ -12183,7 +12210,10 @@
     "motorType": "STM (Optimized for Video)",
     "ibisRating": "5.0 stops (up to 6.0 Peripheral Control)",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "aliases": [
+      "RF 10-20mm F4 L IS STM"
+    ]
   },
   {
     "id": "canon-rf-50mm-f1-8-stm",
@@ -12204,7 +12234,14 @@
     "image_url": "/images/products/canon/canon-rf-50mm-f1-8-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "6 elements in 5 groups",
+    "specialElements": "1 Aspherical element",
+    "coating": "Super Spectra Coating",
+    "motorType": "Gear-type STM",
+    "aliases": [
+      "RF 50mm F1.8 STM"
+    ]
   },
   {
     "id": "z-58mm-f-0-95-s-noct",
@@ -12513,7 +12550,14 @@
     "image_url": "/images/products/canon/canon-rf-16mm-f2-8-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "9 elements in 7 groups",
+    "specialElements": "1 Aspherical element",
+    "coating": "Super Spectra Coating",
+    "motorType": "Gear-type STM",
+    "aliases": [
+      "RF 16mm F2.8 STM"
+    ]
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -12534,7 +12578,14 @@
     "image_url": "/images/products/canon/canon-rf-24mm-f1-8-macro-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "1 UD, 1 Aspherical",
+    "coating": "Super Spectra Coating",
+    "motorType": "Gear-type STM",
+    "aliases": [
+      "RF 24mm F1.8 Macro IS STM"
+    ]
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -12555,7 +12606,14 @@
     "image_url": "/images/products/canon/canon-rf-28mm-f2-8-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "8 elements in 6 groups",
+    "specialElements": "3 Aspherical elements",
+    "coating": "Super Spectra Coating",
+    "motorType": "Gear-type STM",
+    "aliases": [
+      "RF 28mm F2.8 STM"
+    ]
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -12576,7 +12634,14 @@
     "image_url": "/images/products/canon/canon-rf-35mm-f1-8-macro-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "1 Aspherical element",
+    "coating": "Super Spectra Coating",
+    "motorType": "Gear-type STM",
+    "aliases": [
+      "RF 35mm F1.8 Macro IS STM"
+    ]
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -12597,7 +12662,14 @@
     "image_url": "/images/products/canon/canon-rf-100-400mm-f5-6-8-is-usm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "1 UD, 1 Aspherical",
+    "coating": "Super Spectra Coating",
+    "motorType": "Nano USM",
+    "aliases": [
+      "RF 100-400mm F5.6-8 IS USM"
+    ]
   },
   {
     "id": "canon-rf-600mm-f11-is-stm",
@@ -12618,7 +12690,14 @@
     "image_url": "/images/products/canon/canon-rf-600mm-f11-is-stm.jpg",
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "10 elements in 7 groups",
+    "specialElements": "DO (Diffractive Optics) lens",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF 600mm F11 IS STM"
+    ]
   },
   {
     "id": "canon-rf-800mm-f11-is-stm",
@@ -12639,7 +12718,14 @@
     "image_url": "/images/products/canon/canon-rf-800mm-f11-is-stm.jpg",
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "11 elements in 8 groups",
+    "specialElements": "DO (Diffractive Optics) lens",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF 800mm F11 IS STM"
+    ]
   },
   {
     "id": "canon-rf-24-105mm-f4-7-1-is-stm",
@@ -12660,7 +12746,14 @@
     "image_url": "/images/products/canon/canon-rf-24-105mm-f4-7-1-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "13 elements in 11 groups",
+    "specialElements": "1 Aspherical element",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF 24-105mm F4-7.1 IS STM"
+    ]
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -12681,7 +12774,14 @@
     "image_url": "/images/products/canon/canon-rf-s-18-45mm-f4-5-6-3-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "7 elements in 7 groups",
+    "specialElements": "2 Aspherical elements",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF-S 18-45mm F4.5-6.3 IS STM"
+    ]
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -12702,7 +12802,14 @@
     "image_url": "/images/products/canon/canon-rf-s-10-18mm-f4-5-6-3-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "12 elements in 10 groups",
+    "specialElements": "1 UD, 2 Aspherical",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF-S 10-18mm F4.5-6.3 IS STM"
+    ]
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -12723,7 +12830,14 @@
     "image_url": "/images/products/canon/canon-rf-s-18-150mm-f3-5-6-3-is-stm.jpg",
     "category": "Entry",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "opticalDesign": "17 elements in 13 groups",
+    "specialElements": "1 UD, 2 Aspherical",
+    "coating": "Super Spectra Coating",
+    "motorType": "Lead-screw type STM",
+    "aliases": [
+      "RF-S 18-150mm F3.5-6.3 IS STM"
+    ]
   },
   {
     "id": "z-20mm-f-1-8-s",
