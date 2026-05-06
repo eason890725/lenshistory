@@ -1745,7 +1745,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2024,
     "slug": "eos-r1",
-    "id": "eos-r1",
+    "id": "canon-eos-r1",
     "videoResolution": "6K 60p RAW / 4K 120p",
     "afPoints": "Dual Pixel Intelligent AF",
     "evfResolution": "9.44M-dot OLED",
@@ -1772,7 +1772,8 @@
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen LCD",
     "batterySpec": "LP-E19 (Approx. 700 shots CIPA)",
     "cardSlots": "2x CFexpress Type B",
-    "image_url": "/images/products/canon/eos-r1.jpg"
+    "image_url": "/images/products/canon/canon-eos-r1.jpg",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -1782,7 +1783,7 @@
     "megapixels": "24.1MP",
     "releaseYear": 2021,
     "slug": "eos-r3",
-    "id": "eos-r3",
+    "id": "canon-eos-r3",
     "videoResolution": "6K 60p RAW / 4K 120p",
     "afPoints": "1053 Areas",
     "evfResolution": "5.76M-dot OLED",
@@ -1805,7 +1806,8 @@
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
     "batterySpec": "LP-E19 (Approx. 760 shots CIPA)",
     "dimensions": "150.0 x 142.6 x 87.2 mm",
-    "image_url": "/images/products/canon/eos-r3.jpg"
+    "image_url": "/images/products/canon/canon-eos-r3.jpg",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -1815,7 +1817,7 @@
     "megapixels": "45.0MP",
     "releaseYear": 2024,
     "slug": "eos-r5-ii",
-    "id": "eos-r5-ii",
+    "id": "canon-eos-r5-ii",
     "videoResolution": "8K 60p RAW / 4K 120p",
     "afPoints": "Dual Pixel Intelligent AF",
     "evfResolution": "5.76M-dot OLED",
@@ -1839,7 +1841,8 @@
     "dimensions": "138.5 x 101.2 x 93.5 mm",
     "evfMagnification": "0.76x",
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
-    "image_url": "/images/products/canon/eos-r5-ii.jpg"
+    "image_url": "/images/products/canon/canon-eos-r5-ii.jpg",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -1849,7 +1852,7 @@
     "megapixels": "45.0MP",
     "releaseYear": 2020,
     "slug": "eos-r5",
-    "id": "eos-r5",
+    "id": "canon-eos-r5",
     "videoResolution": "8K 30p RAW / 4K 120p",
     "afPoints": "1053 Areas",
     "evfResolution": "5.76M-dot OLED",
@@ -1867,7 +1870,8 @@
     "batterySpec": "LP-E6NH (Approx. 490 shots CIPA)",
     "weightGrams": "Approx. 738 g (including battery and card)",
     "dimensions": "138.5 x 97.5 x 88.0 mm",
-    "image_url": "/images/products/canon/eos-r5.jpg"
+    "image_url": "/images/products/canon/canon-eos-r5.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -1877,7 +1881,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2022,
     "slug": "eos-r6-ii",
-    "id": "eos-r6-ii",
+    "id": "canon-eos-r6-ii",
     "videoResolution": "4K 60p (Uncropped) / 6K RAW (Ext)",
     "afPoints": "1053 Areas",
     "evfResolution": "3.69M-dot OLED",
@@ -1899,7 +1903,8 @@
     "batterySpec": "LP-E6NH (Approx. 760 shots CIPA)",
     "weightGrams": "Approx. 670 g (including battery and card)",
     "dimensions": "138.4 x 98.4 x 88.4 mm",
-    "image_url": "/images/products/canon/eos-r6-ii.jpg"
+    "image_url": "/images/products/canon/canon-eos-r6-ii.jpg",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -1909,7 +1914,7 @@
     "megapixels": "20.1MP",
     "releaseYear": 2020,
     "slug": "eos-r6",
-    "id": "eos-r6",
+    "id": "canon-eos-r6",
     "videoResolution": "4K 60p / FHD 120p",
     "afPoints": "1053 Areas",
     "evfResolution": "3.69M-dot OLED",
@@ -1927,7 +1932,8 @@
     "batterySpec": "LP-E6NH (Approx. 510 shots CIPA)",
     "weightGrams": "Approx. 680 g (including battery and card)",
     "dimensions": "138.4 x 97.5 x 88.4 mm",
-    "image_url": "/images/products/canon/eos-r6.jpg"
+    "image_url": "/images/products/canon/canon-eos-r6.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -1937,7 +1943,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2023,
     "slug": "eos-r8",
-    "id": "eos-r8",
+    "id": "canon-eos-r8",
     "videoResolution": "4K 60p (Uncropped 6K oversampled)",
     "afPoints": "1053 Areas",
     "evfResolution": "2.36M-dot OLED",
@@ -1958,7 +1964,8 @@
     "batterySpec": "LP-E17 (Approx. 290 shots CIPA)",
     "weightGrams": "Approx. 461 g (including battery and card)",
     "dimensions": "132.5 x 86.1 x 70.0 mm",
-    "image_url": "/images/products/canon/eos-r8.jpg"
+    "image_url": "/images/products/canon/canon-eos-r8.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -1968,7 +1975,7 @@
     "megapixels": "30.3MP",
     "releaseYear": 2018,
     "slug": "eos-r",
-    "id": "eos-r",
+    "id": "canon-eos-r",
     "videoResolution": "4K 30p (Cropped) / FHD 60p",
     "afPoints": "5655 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -1986,7 +1993,8 @@
     "batterySpec": "LP-E6N (Approx. 370 shots CIPA)",
     "weightGrams": "Approx. 660 g (including battery and card)",
     "dimensions": "135.8 x 98.3 x 84.4 mm",
-    "image_url": "/images/products/canon/eos-r.jpg"
+    "image_url": "/images/products/canon/canon-eos-r.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -1996,7 +2004,7 @@
     "megapixels": "26.2MP",
     "releaseYear": 2019,
     "slug": "eos-rp",
-    "id": "eos-rp",
+    "id": "canon-eos-rp",
     "videoResolution": "4K 24p (Cropped) / FHD 60p",
     "afPoints": "4779 Points",
     "evfResolution": "2.36M-dot OLED",
@@ -2014,7 +2022,8 @@
     "batterySpec": "LP-E17 (Approx. 250 shots CIPA)",
     "weightGrams": "Approx. 485 g (including battery and card)",
     "dimensions": "132.5 x 85.0 x 70.0 mm",
-    "image_url": "/images/products/canon/eos-rp.jpg"
+    "image_url": "/images/products/canon/canon-eos-rp.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -2024,7 +2033,7 @@
     "megapixels": "32.5MP",
     "releaseYear": 2022,
     "slug": "eos-r7",
-    "id": "eos-r7",
+    "id": "canon-eos-r7",
     "videoResolution": "4K 60p (Oversampled 7K) / 4K 30p",
     "afPoints": "651 Areas",
     "evfResolution": "2.36M-dot OLED",
@@ -2048,7 +2057,8 @@
     "batterySpec": "LP-E6NH (Approx. 660 shots CIPA)",
     "weightGrams": "Approx. 612 g (including battery and card)",
     "dimensions": "132.0 x 90.4 x 91.7 mm",
-    "image_url": "/images/products/canon/eos-r7.jpg"
+    "image_url": "/images/products/canon/canon-eos-r7.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -2058,7 +2068,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2022,
     "slug": "eos-r10",
-    "id": "eos-r10",
+    "id": "canon-eos-r10",
     "videoResolution": "4K 60p (Cropped) / 4K 30p",
     "afPoints": "651 Areas",
     "evfResolution": "2.36M-dot OLED",
@@ -2084,7 +2094,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "122.5 x 87.8 x 83.4 mm",
-    "image_url": "/images/products/canon/eos-r10.jpg"
+    "image_url": "/images/products/canon/canon-eos-r10.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -2094,7 +2105,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2023,
     "slug": "eos-r50",
-    "id": "eos-r50",
+    "id": "canon-eos-r50",
     "videoResolution": "4K 30p (Uncropped) / FHD 120p",
     "afPoints": "651 Areas",
     "evfResolution": "2.36M-dot OLED",
@@ -2118,7 +2129,8 @@
     "batterySpec": "LP-E17 (Approx. 370 shots CIPA)",
     "weightGrams": "Approx. 375 g (including battery and card)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
-    "image_url": "/images/products/canon/eos-r50.jpg"
+    "image_url": "/images/products/canon/canon-eos-r50.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Canon",
@@ -2128,7 +2140,7 @@
     "megapixels": "24.1MP",
     "releaseYear": 2023,
     "slug": "eos-r100",
-    "id": "eos-r100",
+    "id": "canon-eos-r100",
     "videoResolution": "4K 24p (Cropped) / FHD 60p",
     "afPoints": "143 Areas",
     "evfResolution": "2.36M-dot OLED",
@@ -2153,7 +2165,8 @@
     "isoRange": "100-102400 (Ext: 50-819200)",
     "batterySpec": "LP-E17 (Approx. 430 shots CIPA)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
-    "image_url": "/images/products/canon/eos-r100.jpg"
+    "image_url": "/images/products/canon/canon-eos-r100.jpg",
+    "category": "Enthusiast"
   },
   {
     "brand": "Nikon",
@@ -3637,7 +3650,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-15-35mm-f2-8l-is-usm",
-    "id": "rf-15-35mm-f2-8l-is-usm",
+    "id": "canon-rf-15-35mm-f2-8l-is-usm",
     "motorType": "Nano USM",
     "opticalDesign": "16 elements in 12 groups",
     "minAperture": "TBD / Professional Standard",
@@ -3663,8 +3676,9 @@
       "rf15-35mmf2.8lisusm"
     ],
     "dimensions": "φ88.5 x 126.8 mm",
-    "image_url": "/images/products/canon/rf-15-35mm-f2-8l-is-usm.jpg",
-    "coating": "SWC, ASC, Fluorine Coating"
+    "image_url": "/images/products/canon/canon-rf-15-35mm-f2-8l-is-usm.jpg",
+    "coating": "SWC, ASC, Fluorine Coating",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -3676,7 +3690,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-24-70mm-f2-8l-is-usm",
-    "id": "rf-24-70mm-f2-8l-is-usm",
+    "id": "canon-rf-24-70mm-f2-8l-is-usm",
     "motorType": "Nano USM",
     "opticalDesign": "21 elements in 15 groups",
     "minAperture": "TBD / Professional Standard",
@@ -3702,8 +3716,9 @@
       "rf24-70mmf2.8lisusm"
     ],
     "dimensions": "φ88.5 x 125.7 mm",
-    "image_url": "/images/products/canon/rf-24-70mm-f2-8l-is-usm.jpg",
-    "coating": "ASC, Fluorine Coating"
+    "image_url": "/images/products/canon/canon-rf-24-70mm-f2-8l-is-usm.jpg",
+    "coating": "ASC, Fluorine Coating",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -3715,7 +3730,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2019,
     "slug": "rf-70-200mm-f2-8l-is-usm",
-    "id": "rf-70-200mm-f2-8l-is-usm",
+    "id": "canon-rf-70-200mm-f2-8l-is-usm",
     "motorType": "Dual Nano USM",
     "opticalDesign": "17 elements in 13 groups",
     "minAperture": "TBD / Professional Standard",
@@ -3741,8 +3756,9 @@
       "rf70-200mmf2.8lisusm"
     ],
     "dimensions": "φ89.9 x 146.0 mm",
-    "image_url": "/images/products/canon/rf-70-200mm-f2-8l-is-usm.jpg",
-    "coating": "SWC, ASC, Fluorine Coating"
+    "image_url": "/images/products/canon/canon-rf-70-200mm-f2-8l-is-usm.jpg",
+    "coating": "SWC, ASC, Fluorine Coating",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -3754,7 +3770,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2018,
     "slug": "rf-28-70mm-f2l-usm",
-    "id": "rf-28-70mm-f2l-usm",
+    "id": "canon-rf-28-70mm-f2l-usm",
     "motorType": "Ring-type USM",
     "opticalDesign": "19 elements in 13 groups",
     "minAperture": "TBD / Professional Standard",
@@ -3780,8 +3796,9 @@
       "rf28-70mmf2lusm"
     ],
     "dimensions": "φ103.8 x 139.8 mm",
-    "image_url": "/images/products/canon/rf-28-70mm-f2l-usm.jpg",
-    "coating": "ASC, SWC, Fluorine Coating"
+    "image_url": "/images/products/canon/canon-rf-28-70mm-f2l-usm.jpg",
+    "coating": "ASC, SWC, Fluorine Coating",
+    "category": "Professional"
   },
   {
     "brand": "Canon",
@@ -3793,7 +3810,7 @@
     "apertureMax": 1.2,
     "releaseYear": 2018,
     "slug": "rf-50mm-f1-2l-usm",
-    "id": "rf-50mm-f1-2l-usm",
+    "id": "canon-rf-50mm-f1-2l-usm",
     "motorType": "Ring-type USM",
     "opticalDesign": "15 elements in 9 groups",
     "minAperture": "TBD / Professional Standard",
@@ -3819,8 +3836,9 @@
       "rf50mmf1.2lusm"
     ],
     "dimensions": "φ89.8 x 108.0 mm",
-    "image_url": "/images/products/canon/rf-50mm-f1-2l-usm.jpg",
-    "coating": "ASC, Fluorine Coating"
+    "image_url": "/images/products/canon/canon-rf-50mm-f1-2l-usm.jpg",
+    "coating": "ASC, Fluorine Coating",
+    "category": "Professional"
   },
   {
     "brand": "Nikon",
@@ -11783,7 +11801,7 @@
     "filterSizeMm": 0,
     "modelName": "Canon RF 35mm f/1.4L VCM",
     "slug": "rf-35mm-f-1-4-l-vcm",
-    "id": "rf-35mm-f-1-4-l-vcm",
+    "id": "canon-rf-35mm-f-1-4-l-vcm",
     "minAperture": "TBD / Professional Standard",
     "closeFocus": "0.18m",
     "maxMagnification": "0.15x",
@@ -11803,7 +11821,8 @@
       "RF14mmf/1.4LVCM"
     ],
     "dimensions": "φ99.2 x 149.8 mm",
-    "image_url": "/images/products/canon/rf-35mm-f-1-4-l-vcm.jpg"
+    "image_url": "/images/products/canon/canon-rf-35mm-f-1-4-l-vcm.jpg",
+    "category": "Professional"
   },
   {
     "opticalDesign": "15 elements in 10 groups",
@@ -11960,7 +11979,7 @@
     "image_url": "/images/products/nikon/z-100-400mm-f-4-5-5-6-vr-s.jpg"
   },
   {
-    "id": "rf-85mm-f1-2l-usm",
+    "id": "canon-rf-85mm-f1-2l-usm",
     "brand": "Canon",
     "modelName": "Canon RF 85mm f/1.2L USM",
     "gearType": "LENS",
@@ -11975,14 +11994,15 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-85mm-f1-2l-usm.jpg",
+    "image_url": "/images/products/canon/canon-rf-85mm-f1-2l-usm.jpg",
     "opticalDesign": "13 elements in 9 groups",
     "specialElements": "1 UD, 1 Aspherical, BR Lens",
     "coating": "ASC, Fluorine Coating",
-    "motorType": "Ring-type USM"
+    "motorType": "Ring-type USM",
+    "category": "Professional"
   },
   {
-    "id": "rf-135mm-f1-8l-is-usm",
+    "id": "canon-rf-135mm-f1-8l-is-usm",
     "brand": "Canon",
     "modelName": "Canon RF 135mm f/1.8L IS USM",
     "gearType": "LENS",
@@ -11997,14 +12017,15 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-135mm-f1-8l-is-usm.jpg",
+    "image_url": "/images/products/canon/canon-rf-135mm-f1-8l-is-usm.jpg",
     "opticalDesign": "17 elements in 12 groups",
     "specialElements": "3 UD",
     "coating": "ASC, Fluorine Coating",
-    "motorType": "Nano USM"
+    "motorType": "Nano USM",
+    "category": "Professional"
   },
   {
-    "id": "rf-100mm-f2-8l-macro-is-usm",
+    "id": "canon-rf-100mm-f2-8l-macro-is-usm",
     "brand": "Canon",
     "modelName": "Canon RF 100mm F2.8 L Macro IS USM",
     "gearType": "LENS",
@@ -12019,10 +12040,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-100mm-f2-8l-macro-is-usm.jpg"
+    "image_url": "/images/products/canon/canon-rf-100mm-f2-8l-macro-is-usm.jpg",
+    "category": "Professional"
   },
   {
-    "id": "rf-100-500mm-f4-5-7-1l-is-usm",
+    "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
     "brand": "Canon",
     "modelName": "Canon RF 100-500mm f/4.5-7.1L IS USM",
     "gearType": "LENS",
@@ -12037,14 +12059,15 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-100-500mm-f4-5-7-1l-is-usm.jpg",
+    "image_url": "/images/products/canon/canon-rf-100-500mm-f4-5-7-1l-is-usm.jpg",
     "opticalDesign": "20 elements in 14 groups",
     "specialElements": "1 Super UD, 6 UD",
     "coating": "ASC, Fluorine Coating",
-    "motorType": "Dual Nano USM"
+    "motorType": "Dual Nano USM",
+    "category": "Professional"
   },
   {
-    "id": "rf-24-105mm-f4l-is-usm",
+    "id": "canon-rf-24-105mm-f4l-is-usm",
     "brand": "Canon",
     "modelName": "Canon RF 24-105mm F4 L IS USM",
     "gearType": "LENS",
@@ -12059,10 +12082,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-24-105mm-f4l-is-usm.jpg"
+    "image_url": "/images/products/canon/canon-rf-24-105mm-f4l-is-usm.jpg",
+    "category": "Professional"
   },
   {
-    "id": "rf-24-105mm-f2-8l-is-usm-z",
+    "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
     "brand": "Canon",
     "modelName": "Canon RF 24-105mm F2.8 L IS USM Z",
     "gearType": "LENS",
@@ -12077,10 +12101,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-24-105mm-f2-8l-is-usm-z.jpg"
+    "image_url": "/images/products/canon/canon-rf-24-105mm-f2-8l-is-usm-z.jpg",
+    "category": "Professional"
   },
   {
-    "id": "rf-10-20mm-f4l-is-stm",
+    "id": "canon-rf-10-20mm-f4l-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 10-20mm F4 L IS STM",
     "gearType": "LENS",
@@ -12095,10 +12120,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
-    "image_url": "/images/products/canon/rf-10-20mm-f4l-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-10-20mm-f4l-is-stm.jpg",
+    "category": "Professional"
   },
   {
-    "id": "rf-50mm-f1-8-stm",
+    "id": "canon-rf-50mm-f1-8-stm",
     "brand": "Canon",
     "modelName": "Canon RF 50mm F1.8 STM",
     "gearType": "LENS",
@@ -12113,7 +12139,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-50mm-f1-8-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-50mm-f1-8-stm.jpg",
+    "category": "Entry"
   },
   {
     "id": "z-58mm-f-0-95-s-noct",
@@ -12404,7 +12431,7 @@
     "image_url": "/images/products/fujifilm/gf-45-100mm-f4-r-lm-ois-wr.jpg"
   },
   {
-    "id": "rf-16mm-f2-8-stm",
+    "id": "canon-rf-16mm-f2-8-stm",
     "brand": "Canon",
     "modelName": "Canon RF 16mm F2.8 STM",
     "gearType": "LENS",
@@ -12419,10 +12446,11 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-16mm-f2-8-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-16mm-f2-8-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-24mm-f1-8-macro-is-stm",
+    "id": "canon-rf-24mm-f1-8-macro-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 24mm F1.8 Macro IS STM",
     "gearType": "LENS",
@@ -12437,10 +12465,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-24mm-f1-8-macro-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-24mm-f1-8-macro-is-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-28mm-f2-8-stm",
+    "id": "canon-rf-28mm-f2-8-stm",
     "brand": "Canon",
     "modelName": "Canon RF 28mm F2.8 STM",
     "gearType": "LENS",
@@ -12455,10 +12484,11 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-28mm-f2-8-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-28mm-f2-8-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-35mm-f1-8-macro-is-stm",
+    "id": "canon-rf-35mm-f1-8-macro-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 35mm F1.8 Macro IS STM",
     "gearType": "LENS",
@@ -12473,10 +12503,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-35mm-f1-8-macro-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-35mm-f1-8-macro-is-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-100-400mm-f5-6-8-is-usm",
+    "id": "canon-rf-100-400mm-f5-6-8-is-usm",
     "brand": "Canon",
     "modelName": "Canon RF 100-400mm F5.6-8 IS USM",
     "gearType": "LENS",
@@ -12491,10 +12522,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "USM",
-    "image_url": "/images/products/canon/rf-100-400mm-f5-6-8-is-usm.jpg"
+    "image_url": "/images/products/canon/canon-rf-100-400mm-f5-6-8-is-usm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-600mm-f11-is-stm",
+    "id": "canon-rf-600mm-f11-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 600mm F11 IS STM",
     "gearType": "LENS",
@@ -12509,10 +12541,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-600mm-f11-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-600mm-f11-is-stm.jpg",
+    "category": "Enthusiast"
   },
   {
-    "id": "rf-800mm-f11-is-stm",
+    "id": "canon-rf-800mm-f11-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 800mm F11 IS STM",
     "gearType": "LENS",
@@ -12527,10 +12560,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-800mm-f11-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-800mm-f11-is-stm.jpg",
+    "category": "Enthusiast"
   },
   {
-    "id": "rf-24-105mm-f4-7-1-is-stm",
+    "id": "canon-rf-24-105mm-f4-7-1-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF 24-105mm F4-7.1 IS STM",
     "gearType": "LENS",
@@ -12545,10 +12579,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-24-105mm-f4-7-1-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-24-105mm-f4-7-1-is-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-s-18-45mm-f4-5-6-3-is-stm",
+    "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF-S 18-45mm F4.5-6.3 IS STM",
     "gearType": "LENS",
@@ -12563,10 +12598,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-s-18-45mm-f4-5-6-3-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-s-18-45mm-f4-5-6-3-is-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-s-10-18mm-f4-5-6-3-is-stm",
+    "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF-S 10-18mm F4.5-6.3 IS STM",
     "gearType": "LENS",
@@ -12581,10 +12617,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-s-10-18mm-f4-5-6-3-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-s-10-18mm-f4-5-6-3-is-stm.jpg",
+    "category": "Entry"
   },
   {
-    "id": "rf-s-18-150mm-f3-5-6-3-is-stm",
+    "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
     "brand": "Canon",
     "modelName": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
     "gearType": "LENS",
@@ -12599,7 +12636,8 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
-    "image_url": "/images/products/canon/rf-s-18-150mm-f3-5-6-3-is-stm.jpg"
+    "image_url": "/images/products/canon/canon-rf-s-18-150mm-f3-5-6-3-is-stm.jpg",
+    "category": "Entry"
   },
   {
     "id": "z-20mm-f-1-8-s",
@@ -13034,7 +13072,7 @@
     "image_url": "/images/products/fujifilm/xc-50-230mm-f4-5-6-7-ois-ii.jpg"
   },
   {
-    "id": "eos-r6-mark-iii",
+    "id": "canon-eos-r6-mark-iii",
     "brand": "Canon",
     "modelName": "Canon EOS R6 Mark III",
     "gearType": "CAMERA",
@@ -13046,7 +13084,7 @@
     "weightGrams": 609,
     "launchPrice": 79000,
     "hasIBIS": true,
-    "image_url": "/images/products/canon/eos-r6-mark-iii.jpg",
+    "image_url": "/images/products/canon/canon-eos-r6-mark-iii.jpg",
     "aliases": [
       "R6III",
       "R6 Mark III",
@@ -13055,7 +13093,8 @@
     "sensorType": "32.5MP BSI Stacked CMOS",
     "afTargets": "People, Animal, Vehicle, Sport Mode",
     "ibisRating": "8.5 stops (CIPA)",
-    "burstSpeed": "40 fps (Electronic), 12 fps (Mechanical)"
+    "burstSpeed": "40 fps (Electronic), 12 fps (Mechanical)",
+    "category": "Professional"
   },
   {
     "id": "nikon-zr",
