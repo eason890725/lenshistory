@@ -1049,7 +1049,8 @@
     ],
     "processor": "X-Processor 5",
     "isoRange": "160-12800 (Ext: 80-51200)",
-    "ibisRating": "7.0 stops (CIPA)"
+    "ibisRating": "7.0 stops (CIPA)",
+    "image_url": "/images/products/fujifilm/x-h2s.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1074,7 +1075,8 @@
     ],
     "processor": "X-Processor 5",
     "isoRange": "125-12800 (Ext: 64-51200)",
-    "ibisRating": "7.0 stops (CIPA)"
+    "ibisRating": "7.0 stops (CIPA)",
+    "image_url": "/images/products/fujifilm/x-h2.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1126,7 +1128,8 @@
     "afTargets": "Animal, Bird, Automobile, Motorcycle, Bicycle, Airplane, Train",
     "videoColorDepth": "10-bit 4:2:2",
     "lcdSpec": "3.0-inch 1.84M-dot 3-way Tilt LCD",
-    "isoRange": "125-12800 (Ext: 64-51200)"
+    "isoRange": "125-12800 (Ext: 64-51200)",
+    "image_url": "/images/products/fujifilm/x-t5.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1150,7 +1153,8 @@
       "xt4"
     ],
     "processor": "X-Processor 4",
-    "ibisRating": "6.5 stops (CIPA)"
+    "ibisRating": "6.5 stops (CIPA)",
+    "image_url": "/images/products/fujifilm/x-t4.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1172,7 +1176,8 @@
       "XT3",
       "x-t3",
       "xt3"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-t3.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1266,7 +1271,8 @@
       "x-t30ii",
       "xt30 ii",
       "xt30ii"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-t30-ii.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1356,7 +1362,8 @@
       "XPro3",
       "x-pro3",
       "xpro3"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-pro3.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1426,7 +1433,8 @@
       "XS20",
       "x-s20",
       "xs20"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-s20.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1448,7 +1456,8 @@
       "XS10",
       "x-s10",
       "xs10"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-s10.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1470,7 +1479,8 @@
       "XE4",
       "x-e4",
       "xe4"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/x-e4.jpg"
   },
   {
     "brand": "Fujifilm",
