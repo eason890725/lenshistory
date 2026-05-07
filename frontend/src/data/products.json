@@ -4113,12 +4113,12 @@
     "slug": "xf-8-16mm-f2-8-r-lm-wr",
     "id": "fujifilm-xf-8-16mm-f2-8-r-lm-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "20 elements in 13 groups (4 ASPH, 3 ED, 3 Super ED)",
+    "minAperture": "f/22",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.1x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4127,7 +4127,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 58000,
     "aliases": [
       "8-16mm F2.8 R LM WR",
       "816WR",
@@ -4142,7 +4142,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Nano-GI, Fluorine",
+    "minFocusDistance": "0.25m",
+    "filterSize": "N/A"
   },
   {
     "brand": "Fujifilm",
@@ -4156,12 +4160,12 @@
     "slug": "xf-10-24mm-f4-r-ois-wr",
     "id": "fujifilm-xf-10-24mm-f4-r-ois-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "14 elements in 10 groups (4 ASPH, 4 ED)",
+    "minAperture": "f/22",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.16x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4170,7 +4174,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 28300,
     "aliases": [
       "10-24mm F4 R OIS WR",
       "1024WR",
@@ -4185,7 +4189,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Stepping Motor (STM)",
+    "coating": "Super EBC, Fluorine",
+    "minFocusDistance": "0.24m",
+    "filterSize": "72mm"
   },
   {
     "brand": "Fujifilm",
@@ -4199,12 +4207,12 @@
     "slug": "xf-16-55mm-f2-8-r-lm-wr",
     "id": "fujifilm-xf-16-55mm-f2-8-r-lm-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "17 elements in 12 groups (3 ASPH, 3 ED)",
+    "minAperture": "f/22",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.16x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4213,7 +4221,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 33000,
     "aliases": [
       "16-55mm F2.8 R LM WR",
       "1655WR",
@@ -4228,7 +4236,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Nano-GI, HT-EBC",
+    "minFocusDistance": "0.3m",
+    "filterSize": "77mm"
   },
   {
     "brand": "Fujifilm",
@@ -4242,12 +4254,12 @@
     "slug": "xf-18-55mm-f2-8-4-r-lm-ois",
     "id": "fujifilm-xf-18-55mm-f2-8-4-r-lm-ois",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "14 elements in 10 groups (3 ASPH, 1 ED)",
+    "minAperture": "f/22",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.15x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4256,7 +4268,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 12000,
     "aliases": [
       "18-55mm F2.8-4 R LM OIS",
       "Fujifilm xf 18-55mm f2.8-4 r lm ois",
@@ -4271,7 +4283,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC",
+    "minFocusDistance": "0.3m",
+    "filterSize": "58mm"
   },
   {
     "brand": "Fujifilm",
@@ -4285,12 +4301,12 @@
     "slug": "xf-50-140mm-f2-8-r-lm-ois-wr",
     "id": "fujifilm-xf-50-140mm-f2-8-r-lm-ois-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "23 elements in 16 groups (5 ED, 1 Super ED)",
+    "minAperture": "f/22",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.12x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4299,7 +4315,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 42000,
     "aliases": [
       "50-140mm F2.8 R LM OIS WR",
       "50140WR",
@@ -4314,7 +4330,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Triple Linear Motor (LM)",
+    "coating": "Nano-GI, HT-EBC",
+    "minFocusDistance": "1.0m",
+    "filterSize": "72mm"
   },
   {
     "brand": "Fujifilm",
@@ -4328,12 +4348,12 @@
     "slug": "xf-33mm-f1-4-r-lm-wr",
     "id": "fujifilm-xf-33mm-f1-4-r-lm-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "15 elements in 10 groups (2 ASPH, 3 ED)",
+    "minAperture": "f/16",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.15x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4342,7 +4362,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 23300,
     "aliases": [
       "33WR",
       "33mm F1.4 R LM WR",
@@ -4357,7 +4377,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "HT-EBC",
+    "minFocusDistance": "0.3m",
+    "filterSize": "58mm"
   },
   {
     "brand": "Fujifilm",
@@ -4371,12 +4395,12 @@
     "slug": "xf-56mm-f1-2-r-wr",
     "id": "fujifilm-xf-56mm-f1-2-r-wr",
     "motorType": "--",
-    "opticalDesign": "--",
-    "minAperture": "--",
+    "opticalDesign": "13 elements in 8 groups (2 ASPH, 1 ED)",
+    "minAperture": "f/16",
     "specialElements": "--",
     "coatings": "--",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.14x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -4385,7 +4409,7 @@
     "lengthMm": "--",
     "diameter": "--",
     "series": "--",
-    "launchPrice": 0,
+    "launchPrice": 31000,
     "aliases": [
       "56WR",
       "56mm F1.2 R WR",
@@ -4400,7 +4424,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "High-torque DC Motor",
+    "coating": "HT-EBC, Fluorine",
+    "minFocusDistance": "0.5m",
+    "filterSize": "67mm"
   },
   {
     "brand": "Canon",
@@ -13156,7 +13184,7 @@
     ]
   },
   {
-    "opticalDesign": "12 groups, 17 elements",
+    "opticalDesign": "16 elements in 11 groups (4 ASPH, 3 ED, 1 Super ED)",
     "specialElements": "3 ED, 4 Aspherical",
     "coatings": "Nano GI Coating",
     "motorType": "Linear Motor (LM)",
@@ -13172,9 +13200,9 @@
     "modelName": "Fujifilm XF 16-55mm F2.8 R LM WR II",
     "slug": "xf-16-55mm-f2-8-r-lm-wr-ii",
     "id": "fujifilm-xf-16-55mm-f2-8-r-lm-wr-ii",
-    "minAperture": "--",
+    "minAperture": "f/22",
     "closeFocus": "--",
-    "maxMagnification": "--",
+    "maxMagnification": "0.21x",
     "hasOIS": false,
     "hasCustomButton": false,
     "weightGrams": "--",
@@ -13196,7 +13224,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC, Fluorine",
+    "minFocusDistance": "0.3m",
+    "filterSize": "72mm"
   },
   {
     "brand": "Sigma",
@@ -13912,7 +13944,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2012,
     "weightGrams": 187,
-    "launchPrice": 18000,
+    "launchPrice": 16500,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "R-Series",
@@ -13923,7 +13955,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "8 elements in 6 groups (1 ASPH)",
+    "minAperture": "f/16",
+    "focusMotor": "DC Motor",
+    "coating": "Super EBC",
+    "maxMagnification": "0.17x",
+    "minFocusDistance": "0.28m",
+    "filterSize": "52mm"
   },
   {
     "id": "fujifilm-xf-23mm-f1-4-r-lm-wr",
@@ -13937,7 +13976,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "weightGrams": 375,
-    "launchPrice": 26000,
+    "launchPrice": 24500,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
@@ -13948,7 +13987,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "15 elements in 10 groups (2 ASPH, 3 ED)",
+    "minAperture": "f/16",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "HT-EBC",
+    "maxMagnification": "0.2x",
+    "minFocusDistance": "0.19m",
+    "filterSize": "58mm"
   },
   {
     "id": "fujifilm-xf-18mm-f1-4-r-lm-wr",
@@ -13962,7 +14008,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "weightGrams": 370,
-    "launchPrice": 29000,
+    "launchPrice": 26000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
@@ -13973,7 +14019,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "15 elements in 9 groups (3 ASPH, 1 Super ED)",
+    "minAperture": "f/16",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "HT-EBC",
+    "maxMagnification": "0.15x",
+    "minFocusDistance": "0.2m",
+    "filterSize": "62mm"
   },
   {
     "id": "fujifilm-xf-90mm-f2-r-lm-wr",
@@ -13987,7 +14040,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2015,
     "weightGrams": 540,
-    "launchPrice": 28000,
+    "launchPrice": 26000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
@@ -13998,7 +14051,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "11 elements in 8 groups (3 ED)",
+    "minAperture": "f/16",
+    "focusMotor": "Quad Linear Motor (LM)",
+    "coating": "Super EBC",
+    "maxMagnification": "0.2x",
+    "minFocusDistance": "0.6m",
+    "filterSize": "62mm"
   },
   {
     "id": "fujifilm-gf-32-64mm-f4-r-lm-wr",
@@ -14012,7 +14072,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2017,
     "weightGrams": 875,
-    "launchPrice": 72000,
+    "launchPrice": 68000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
@@ -14023,7 +14083,14 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "opticalDesign": "14 elements in 11 groups (3 ASPH, 1 ED, 1 Super ED)",
+    "minAperture": "f/32",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC, Fluorine",
+    "maxMagnification": "0.12x",
+    "minFocusDistance": "0.5m",
+    "filterSize": "77mm"
   },
   {
     "id": "fujifilm-gf-110mm-f2-r-lm-wr",
@@ -14037,7 +14104,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2017,
     "weightGrams": 1010,
-    "launchPrice": 85000,
+    "launchPrice": 82000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
@@ -14048,7 +14115,14 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "opticalDesign": "14 elements in 9 groups (4 ED)",
+    "minAperture": "f/22",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC, Fluorine",
+    "maxMagnification": "0.16x",
+    "minFocusDistance": "0.9m",
+    "filterSize": "77mm"
   },
   {
     "id": "fujifilm-gf-80mm-f1-7-r-wr",
@@ -14062,7 +14136,7 @@
     "apertureMax": 1.7,
     "releaseYear": 2021,
     "weightGrams": 795,
-    "launchPrice": 69000,
+    "launchPrice": 64000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
@@ -14073,7 +14147,14 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "opticalDesign": "12 elements in 9 groups (1 ASPH, 2 Super ED)",
+    "minAperture": "f/22",
+    "focusMotor": "High-torque DC Motor",
+    "coating": "Super EBC, Fluorine",
+    "maxMagnification": "0.15x",
+    "minFocusDistance": "0.7m",
+    "filterSize": "77mm"
   },
   {
     "id": "fujifilm-gf-45-100mm-f4-r-lm-ois-wr",
@@ -14087,7 +14168,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "weightGrams": 1005,
-    "launchPrice": 72000,
+    "launchPrice": 68000,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "GF-Series",
@@ -14098,7 +14179,14 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "opticalDesign": "16 elements in 12 groups (3 ASPH, 1 ED, 1 Super ED)",
+    "minAperture": "f/32",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC, Fluorine",
+    "maxMagnification": "0.13x",
+    "minFocusDistance": "0.65m",
+    "filterSize": "82mm"
   },
   {
     "id": "canon-rf-16mm-f2-8-stm",
