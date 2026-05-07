@@ -13808,7 +13808,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2018,
     "weightGrams": 415,
-    "launchPrice": 17900,
+    "launchPrice": 20400,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13822,14 +13822,16 @@
     "minFocusDistance": "0.4m",
     "filterSize": "62mm",
     "dimensions": "ø75 x 86.5 mm",
-    "coating": "Nano Crystal",
+    "coating": "Nano Crystal, Super Integrated (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-35mm-f-1-8-s",
@@ -13843,7 +13845,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2018,
     "weightGrams": 370,
-    "launchPrice": 24400,
+    "launchPrice": 29000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13857,14 +13859,16 @@
     "minFocusDistance": "0.25m",
     "filterSize": "62mm",
     "dimensions": "ø73 x 86 mm",
-    "coating": "Nano Crystal",
+    "coating": "Nano Crystal, Super Integrated (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "xf-35mm-f1-4-r",
@@ -14544,7 +14548,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2019,
     "weightGrams": 450,
-    "launchPrice": 31400,
+    "launchPrice": 31900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -14558,14 +14562,16 @@
     "minFocusDistance": "0.25m",
     "filterSize": "72mm",
     "dimensions": "ø75 x 96.5 mm",
-    "coating": "Nano Crystal",
+    "coating": "Nano Crystal, Super Integrated (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "nikon-z-26mm-f-2-8",
@@ -14690,7 +14696,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2018,
     "weightGrams": 500,
-    "launchPrice": 28400,
+    "launchPrice": 26500,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -14704,14 +14710,16 @@
     "minFocusDistance": "0.3m",
     "filterSize": "72mm",
     "dimensions": "ø77.5 x 88.5 mm",
-    "coating": "Nano Crystal, Fluorine",
+    "coating": "Nano Crystal, Fluorine, SIC",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-dx-16-50mm-f-3-5-6-3-vr",
@@ -14725,7 +14733,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2019,
     "weightGrams": 135,
-    "launchPrice": 8800,
+    "launchPrice": 9900,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
@@ -14735,7 +14743,7 @@
     "minFocusDistance": "0.2m",
     "filterSize": "46mm",
     "dimensions": "ø70 x 32 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated (SIC)",
     "aliases": [
       "Z DX 16-50mm f/3.5-6.3 VR",
       "ZDX16-50mmf/3.5-6.3VR"
@@ -14746,7 +14754,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22 - f/40",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-dx-50-250mm-f-4-5-6-3-vr",
@@ -14760,7 +14770,7 @@
     "apertureMax": 4.5,
     "releaseYear": 2019,
     "weightGrams": 405,
-    "launchPrice": 10800,
+    "launchPrice": 11800,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
@@ -14774,14 +14784,16 @@
     "minFocusDistance": "0.5m",
     "filterSize": "62mm",
     "dimensions": "ø74 x 110 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22 - f/32",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
