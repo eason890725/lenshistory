@@ -15540,5 +15540,30 @@
     "hasIBIS": false,
     "videoResolution": "6.2K 30p / 4K 60p",
     "afTargets": "Human, Animal, Bird, Vehicle"
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm X-E5",
+    "gearType": "CAMERA_BODY",
+    "sensorFormat": "APS-C",
+    "megapixels": "40.2MP",
+    "releaseYear": 2025,
+    "id": "fujifilm-x-e5",
+    "image_url": "/images/products/fujifilm/fujifilm-x-e5.jpg",
+    "launchPrice": 52900,
+    "sensorType": "X-Trans CMOS 5 HR (BSI)",
+    "processor": "X-Processor 5",
+    "hasIBIS": true,
+    "ibisRating": "7.0 stops",
+    "videoResolution": "6.2K 30p / 4K 60p",
+    "afTargets": "Human, Animal, Bird, Vehicle, Airplane, Train",
+    "weightGrams": "Approx. 400g",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   }
 ]
