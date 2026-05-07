@@ -12356,7 +12356,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2019,
     "weightGrams": 485,
-    "launchPrice": 38000,
+    "launchPrice": 41900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -12364,7 +12364,13 @@
     "aliases": [
       "Z 14-30mm f/4 S",
       "Z14-30mmf/4S"
-    ]
+    ],
+    "opticalDesign": "14 elements in 12 groups (4 ED, 4 aspherical)",
+    "maxMagnification": "0.16x",
+    "minFocusDistance": "0.28m",
+    "filterSize": "82mm",
+    "dimensions": "ø89 x 85 mm",
+    "coating": "Nano Crystal, Fluorine"
   },
   {
     "id": "nikon-z-24-200mm-f-4-6-3-vr",
@@ -12378,7 +12384,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "weightGrams": 570,
-    "launchPrice": 28000,
+    "launchPrice": 32000,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
@@ -12386,7 +12392,13 @@
     "aliases": [
       "Z 24-200mm f/4-6.3 VR",
       "Z24-200mmf/4-6.3VR"
-    ]
+    ],
+    "opticalDesign": "19 elements in 15 groups (2 ED, 1 aspherical ED, 2 aspherical)",
+    "maxMagnification": "0.28x",
+    "minFocusDistance": "0.50m",
+    "filterSize": "67mm",
+    "dimensions": "ø76.5 x 114 mm",
+    "coating": "ARNEO, Fluorine"
   },
   {
     "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
@@ -12428,7 +12440,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2019,
     "weightGrams": 470,
-    "launchPrice": 24000,
+    "launchPrice": 30200,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -12436,7 +12448,13 @@
     "aliases": [
       "Z 85mm f/1.8 S",
       "Z85mmf/1.8S"
-    ]
+    ],
+    "opticalDesign": "12 elements in 8 groups (2 ED)",
+    "maxMagnification": "0.12x",
+    "minFocusDistance": "0.80m",
+    "filterSize": "67mm",
+    "dimensions": "ø75 x 99 mm",
+    "coating": "Nano Crystal"
   },
   {
     "id": "nikon-z-50mm-f-1-8-s",
@@ -12450,7 +12468,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2018,
     "weightGrams": 415,
-    "launchPrice": 18000,
+    "launchPrice": 19800,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -12458,7 +12476,13 @@
     "aliases": [
       "Z 50mm f/1.8 S",
       "Z50mmf/1.8S"
-    ]
+    ],
+    "opticalDesign": "12 elements in 9 groups (2 ED, 2 aspherical)",
+    "maxMagnification": "0.15x",
+    "minFocusDistance": "0.40m",
+    "filterSize": "62mm",
+    "dimensions": "ø76 x 86.5 mm",
+    "coating": "Nano Crystal"
   },
   {
     "id": "nikon-z-35mm-f-1-8-s",
@@ -12472,7 +12496,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2018,
     "weightGrams": 370,
-    "launchPrice": 25000,
+    "launchPrice": 29000,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -12480,7 +12504,13 @@
     "aliases": [
       "Z 35mm f/1.8 S",
       "Z35mmf/1.8S"
-    ]
+    ],
+    "opticalDesign": "11 elements in 9 groups (2 ED, 3 aspherical)",
+    "maxMagnification": "0.19x",
+    "minFocusDistance": "0.25m",
+    "filterSize": "62mm",
+    "dimensions": "ø73 x 86 mm",
+    "coating": "Nano Crystal"
   },
   {
     "id": "xf-35mm-f1-4-r",
@@ -12990,7 +13020,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2020,
     "weightGrams": 505,
-    "launchPrice": 32000,
+    "launchPrice": 32300,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -12998,7 +13028,13 @@
     "aliases": [
       "Z 20mm f/1.8 S",
       "Z20mmf/1.8S"
-    ]
+    ],
+    "opticalDesign": "14 elements in 11 groups (3 ED, 3 aspherical)",
+    "maxMagnification": "0.19x",
+    "minFocusDistance": "0.20m",
+    "filterSize": "77mm",
+    "dimensions": "ø84.5 x 108.5 mm",
+    "coating": "Nano Crystal"
   },
   {
     "id": "nikon-z-24mm-f-1-8-s",
@@ -13012,7 +13048,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2019,
     "weightGrams": 450,
-    "launchPrice": 31000,
+    "launchPrice": 31200,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13020,7 +13056,13 @@
     "aliases": [
       "Z 24mm f/1.8 S",
       "Z24mmf/1.8S"
-    ]
+    ],
+    "opticalDesign": "12 elements in 10 groups (1 ED, 4 aspherical)",
+    "maxMagnification": "0.15x",
+    "minFocusDistance": "0.25m",
+    "filterSize": "72mm",
+    "dimensions": "ø78 x 96.5 mm",
+    "coating": "Nano Crystal"
   },
   {
     "id": "nikon-z-26mm-f-2-8",
@@ -13118,7 +13160,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2018,
     "weightGrams": 500,
-    "launchPrice": 30000,
+    "launchPrice": 32300,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13126,7 +13168,13 @@
     "aliases": [
       "Z 24-70mm f/4 S",
       "Z24-70mmf/4S"
-    ]
+    ],
+    "opticalDesign": "14 elements in 11 groups (1 ED, 1 aspherical ED, 3 aspherical)",
+    "maxMagnification": "0.30x",
+    "minFocusDistance": "0.30m",
+    "filterSize": "72mm",
+    "dimensions": "ø77.5 x 88.5 mm",
+    "coating": "Nano Crystal, Fluorine"
   },
   {
     "id": "nikon-z-dx-16-50mm-f-3-5-6-3-vr",
@@ -13168,7 +13216,7 @@
     "apertureMax": 4.5,
     "releaseYear": 2019,
     "weightGrams": 405,
-    "launchPrice": 11000,
+    "launchPrice": 115000,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
@@ -13176,7 +13224,13 @@
     "aliases": [
       "Z DX 50-250mm f/4.5-6.3 VR",
       "ZDX50-250mmf/4.5-6.3VR"
-    ]
+    ],
+    "opticalDesign": "16 elements in 12 groups (1 ED)",
+    "maxMagnification": "0.23x",
+    "minFocusDistance": "0.50m",
+    "filterSize": "62mm",
+    "dimensions": "ø74 x 110 mm",
+    "coating": "Super Integrated (SIC)"
   },
   {
     "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
@@ -13190,7 +13244,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2023,
     "weightGrams": 205,
-    "launchPrice": 11000,
+    "launchPrice": 12500,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
@@ -13198,7 +13252,13 @@
     "aliases": [
       "Z DX 12-28mm f/3.5-5.6 PZ VR",
       "ZDX12-28mmf/3.5-5.6PZVR"
-    ]
+    ],
+    "opticalDesign": "12 elements in 11 groups (1 ED, 1 aspherical)",
+    "maxMagnification": "0.21x",
+    "minFocusDistance": "0.19m",
+    "filterSize": "67mm",
+    "dimensions": "ø72 x 63.5 mm",
+    "coating": "Super Integrated (SIC)"
   },
   {
     "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
@@ -13212,7 +13272,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2021,
     "weightGrams": 315,
-    "launchPrice": 18000,
+    "launchPrice": 18400,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
@@ -13220,7 +13280,13 @@
     "aliases": [
       "Z DX 18-140mm f/3.5-6.3 VR",
       "ZDX18-140mmf/3.5-6.3VR"
-    ]
+    ],
+    "opticalDesign": "17 elements in 13 groups (2 ED, 2 aspherical)",
+    "maxMagnification": "0.33x",
+    "minFocusDistance": "0.20m",
+    "filterSize": "62mm",
+    "dimensions": "ø73 x 90 mm",
+    "coating": "Super Integrated (SIC)"
   },
   {
     "id": "nikon-z-24-50mm-f-4-6-3",
@@ -13234,7 +13300,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "weightGrams": 195,
-    "launchPrice": 12000,
+    "launchPrice": 12300,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
@@ -13242,7 +13308,13 @@
     "aliases": [
       "Z 24-50mm f/4-6.3",
       "Z24-50mmf/4-6.3"
-    ]
+    ],
+    "opticalDesign": "11 elements in 10 groups (2 ED, 3 aspherical)",
+    "maxMagnification": "0.17x",
+    "minFocusDistance": "0.35m",
+    "filterSize": "52mm",
+    "dimensions": "ø73.5 x 51 mm",
+    "coating": "Super Integrated (SIC)"
   },
   {
     "id": "nikon-z-28-75mm-f-2-8",
