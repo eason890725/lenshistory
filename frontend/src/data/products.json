@@ -1430,7 +1430,7 @@
     "evfResolution": "Standard Tech / HT-EBC Coating",
     "burstSpeed": "Standard Tech / HT-EBC Coating",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 39900,
     "aliases": [
       "X-T3",
       "XT3",
@@ -1444,7 +1444,10 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "sensorType": "26.1MP X-Trans CMOS 4",
+    "ibisRating": "No IBIS",
+    "hasIBIS": false
   },
   {
     "brand": "Fujifilm",
@@ -1589,7 +1592,7 @@
     "evfResolution": "Standard Tech / HT-EBC Coating",
     "burstSpeed": "Standard Tech / HT-EBC Coating",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 25900,
     "aliases": [
       "X-T30",
       "XT30",
@@ -1603,7 +1606,10 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "sensorType": "26.1MP X-Trans CMOS 4",
+    "ibisRating": "No IBIS",
+    "hasIBIS": false
   },
   {
     "brand": "Fujifilm",
@@ -15319,7 +15325,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "21 elements in 14 groups (5 ED, 1 Super ED)",
+    "minAperture": "f/22",
+    "focusMotor": "Twin Linear Motor (LM)",
+    "coating": "Super EBC, Fluorine",
+    "maxMagnification": "0.19x",
+    "minFocusDistance": "1.75m",
+    "filterSize": "77mm"
   },
   {
     "id": "fujifilm-xf-55-200mm-f3-5-4-8-r-lm-ois",
@@ -15369,7 +15382,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "10 elements in 9 groups (3 aspherical, 2 ED)",
+    "minAperture": "f/22",
+    "focusMotor": "Stepping Motor (STM)",
+    "coating": "Super EBC",
+    "maxMagnification": "0.24x",
+    "minFocusDistance": "0.13m",
+    "filterSize": "52mm"
   },
   {
     "id": "fujifilm-xc-35mm-f2",
@@ -15394,7 +15414,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "9 elements in 6 groups (2 aspherical)",
+    "minAperture": "f/16",
+    "focusMotor": "Stepping Motor (STM)",
+    "coating": "Super EBC",
+    "maxMagnification": "0.14x",
+    "minFocusDistance": "0.35m",
+    "filterSize": "43mm"
   },
   {
     "id": "fujifilm-xc-50-230mm-f4-5-6-7-ois-ii",
