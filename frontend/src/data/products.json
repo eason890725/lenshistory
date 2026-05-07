@@ -13961,7 +13961,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2012,
     "weightGrams": 187,
-    "launchPrice": 16500,
+    "launchPrice": 18800,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "R-Series",
@@ -13973,7 +13973,7 @@
         }
       }
     ],
-    "opticalDesign": "8 elements in 6 groups (1 ASPH)",
+    "opticalDesign": "8 elements in 6 groups (1 aspherical)",
     "minAperture": "f/16",
     "focusMotor": "DC Motor",
     "coating": "Super EBC",
@@ -14057,7 +14057,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2015,
     "weightGrams": 540,
-    "launchPrice": 26000,
+    "launchPrice": 29800,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
@@ -15122,7 +15122,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2015,
     "weightGrams": 170,
-    "launchPrice": 11500,
+    "launchPrice": 12900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
@@ -15136,7 +15136,7 @@
     ],
     "opticalDesign": "9 elements in 6 groups (2 aspherical)",
     "minAperture": "f/16",
-    "focusMotor": "STM",
+    "focusMotor": "Stepping Motor (STM)",
     "coating": "Super EBC",
     "maxMagnification": "0.135x",
     "minFocusDistance": "0.35m",
@@ -15250,7 +15250,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2014,
     "weightGrams": 490,
-    "launchPrice": 26000,
+    "launchPrice": 26800,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
@@ -15265,7 +15265,7 @@
     "opticalDesign": "16 elements in 12 groups (4 aspherical, 2 ED)",
     "minAperture": "f/22",
     "focusMotor": "Linear Motor (LM)",
-    "coating": "Super EBC",
+    "coating": "HT-EBC (High Transmittance Electron Beam Coating)",
     "maxMagnification": "0.27x",
     "minFocusDistance": "0.45m",
     "filterSize": "67mm"
@@ -15346,7 +15346,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2013,
     "weightGrams": 580,
-    "launchPrice": 20000,
+    "launchPrice": 21900,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "LM",
@@ -15357,7 +15357,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "14 elements in 10 groups (1 aspherical, 2 ED)",
+    "minAperture": "f/22",
+    "focusMotor": "Linear Motor (LM)",
+    "coating": "Super EBC",
+    "maxMagnification": "0.18x",
+    "minFocusDistance": "1.1m",
+    "filterSize": "62mm"
   },
   {
     "id": "fujifilm-xc-15-45mm-f3-5-5-6-ois-pz",
@@ -15435,7 +15442,7 @@
     "apertureMax": 4.5,
     "releaseYear": 2015,
     "weightGrams": 375,
-    "launchPrice": 11500,
+    "launchPrice": 11800,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "XC-Series",
@@ -15446,7 +15453,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "opticalDesign": "13 elements in 10 groups (1 aspherical, 1 ED)",
+    "minAperture": "f/22",
+    "focusMotor": "Stepping Motor (STM)",
+    "coating": "Super EBC",
+    "maxMagnification": "0.2x",
+    "minFocusDistance": "1.1m",
+    "filterSize": "58mm"
   },
   {
     "id": "canon-eos-r6-mark-iii",
