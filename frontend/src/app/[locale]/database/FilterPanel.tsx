@@ -34,7 +34,7 @@ export default function FilterPanel({
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
 
-  const formats = ["Full Frame", "APS-C"];
+  const formats = ["Full Frame", "APS-C", "Medium Format"];
 
   const handleFormatToggle = (fmt: string) => {
     if (filters.sensorFormats.includes(fmt)) {
@@ -171,7 +171,7 @@ export default function FilterPanel({
       <div className="space-y-3">
         <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{t('mount')}</label>
         <div className="flex flex-wrap gap-2">
-          {["Sony E", "Canon RF", "Nikon Z", "Fujifilm X", "Fujifilm G"].map(m => (
+          {["Sony E", "Canon RF", "Nikon Z", "Fujifilm X", "Fujifilm G", "L-Mount"].map(m => (
             <button
               key={m}
               onClick={() => {
