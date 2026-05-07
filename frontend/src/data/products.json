@@ -7,7 +7,7 @@
     "megapixels": "50.1MP",
     "releaseYear": 2024,
     "slug": "a1-ii",
-    "id": "a1-ii",
+    "id": "sony-a1-ii",
     "weightGrams": "Approx. 746 g (including battery and card)",
     "launchPrice": 209000,
     "hasIBIS": true,
@@ -50,7 +50,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a1-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -60,7 +61,7 @@
     "megapixels": "50.1MP",
     "releaseYear": 2021,
     "slug": "a1",
-    "id": "a1",
+    "id": "sony-a1",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -89,7 +90,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a1.jpg"
   },
   {
     "brand": "Sony",
@@ -99,7 +101,7 @@
     "megapixels": "24.6MP",
     "releaseYear": 2024,
     "slug": "a9-iii",
-    "id": "a9-iii",
+    "id": "sony-a9-iii",
     "weightGrams": "Approx. 617 g (including battery and card)",
     "launchPrice": 184980,
     "hasIBIS": true,
@@ -135,7 +137,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a9-iii.jpg"
   },
   {
     "brand": "Sony",
@@ -145,7 +148,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2019,
     "slug": "a9-ii",
-    "id": "a9-ii",
+    "id": "sony-a9-ii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -177,7 +180,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a9-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -187,7 +191,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2017,
     "slug": "a9",
-    "id": "a9",
+    "id": "sony-a9",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -216,7 +220,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a9.jpg"
   },
   {
     "brand": "Sony",
@@ -226,7 +231,7 @@
     "megapixels": "61MP",
     "releaseYear": 2022,
     "slug": "a7r-v",
-    "id": "a7r-v",
+    "id": "sony-a7r-v",
     "weightGrams": "Approx. 723 g (including battery and card)",
     "launchPrice": 109980,
     "hasIBIS": true,
@@ -269,7 +274,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7r-v.jpg"
   },
   {
     "brand": "Sony",
@@ -279,7 +285,7 @@
     "megapixels": "61.0MP",
     "releaseYear": 2019,
     "slug": "a7r-iv",
-    "id": "a7r-iv",
+    "id": "sony-a7r-iv",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -311,7 +317,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7r-iv.jpg"
   },
   {
     "brand": "Sony",
@@ -321,7 +328,7 @@
     "megapixels": "42.4MP",
     "releaseYear": 2017,
     "slug": "a7r-iii",
-    "id": "a7r-iii",
+    "id": "sony-a7r-iii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -353,7 +360,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7r-iii.jpg"
   },
   {
     "brand": "Sony",
@@ -363,7 +371,7 @@
     "megapixels": "42.4MP",
     "releaseYear": 2015,
     "slug": "a7r-ii",
-    "id": "a7r-ii",
+    "id": "sony-a7r-ii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -395,7 +403,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7r-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -405,7 +414,7 @@
     "megapixels": "36.4MP",
     "releaseYear": 2013,
     "slug": "a7r",
-    "id": "a7r",
+    "id": "sony-a7r",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -434,7 +443,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7r.jpg"
   },
   {
     "brand": "Sony",
@@ -444,7 +454,7 @@
     "megapixels": "12.1MP",
     "releaseYear": 2020,
     "slug": "a7s-iii",
-    "id": "a7s-iii",
+    "id": "sony-a7s-iii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -476,7 +486,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7s-iii.jpg"
   },
   {
     "brand": "Sony",
@@ -486,7 +497,7 @@
     "megapixels": "12.2MP",
     "releaseYear": 2015,
     "slug": "a7s-ii",
-    "id": "a7s-ii",
+    "id": "sony-a7s-ii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -518,7 +529,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7s-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -528,7 +540,7 @@
     "megapixels": "12.2MP",
     "releaseYear": 2014,
     "slug": "a7s",
-    "id": "a7s",
+    "id": "sony-a7s",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -557,7 +569,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7s.jpg"
   },
   {
     "brand": "Sony",
@@ -567,7 +580,7 @@
     "megapixels": "33MP",
     "releaseYear": 2021,
     "slug": "a7-iv",
-    "id": "a7-iv",
+    "id": "sony-a7-iv",
     "weightGrams": "Approx. 658 g (including battery and card)",
     "launchPrice": 64980,
     "hasIBIS": true,
@@ -593,7 +606,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7-iv.jpg"
   },
   {
     "brand": "Sony",
@@ -603,7 +617,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2018,
     "slug": "a7-iii",
-    "id": "a7-iii",
+    "id": "sony-a7-iii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -636,7 +650,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7-iii.jpg"
   },
   {
     "brand": "Sony",
@@ -646,7 +661,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2014,
     "slug": "a7-ii",
-    "id": "a7-ii",
+    "id": "sony-a7-ii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -678,7 +693,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -688,7 +704,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2013,
     "slug": "a7",
-    "id": "a7",
+    "id": "sony-a7",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -717,7 +733,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7.jpg"
   },
   {
     "brand": "Sony",
@@ -727,7 +744,7 @@
     "megapixels": "61.0MP",
     "releaseYear": 2023,
     "slug": "a7c-r",
-    "id": "a7c-r",
+    "id": "sony-a7c-r",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -756,7 +773,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7c-r.jpg"
   },
   {
     "brand": "Sony",
@@ -766,7 +784,7 @@
     "megapixels": "33.0MP",
     "releaseYear": 2023,
     "slug": "a7c-ii",
-    "id": "a7c-ii",
+    "id": "sony-a7c-ii",
     "weightGrams": "Approx. 514 g (including battery and card)",
     "launchPrice": 59980,
     "hasIBIS": true,
@@ -817,7 +835,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7c-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -827,7 +846,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2020,
     "slug": "a7c",
-    "id": "a7c",
+    "id": "sony-a7c",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -856,7 +875,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a7c.jpg"
   },
   {
     "brand": "Sony",
@@ -866,7 +886,7 @@
     "megapixels": "12.1MP",
     "releaseYear": 2023,
     "slug": "zv-e1",
-    "id": "zv-e1",
+    "id": "sony-zv-e1",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -892,7 +912,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-zv-e1.jpg"
   },
   {
     "brand": "Sony",
@@ -902,7 +923,7 @@
     "megapixels": "26.0MP",
     "releaseYear": 2023,
     "slug": "a6700",
-    "id": "a6700",
+    "id": "sony-a6700",
     "weightGrams": "Approx. 493 g (including battery and card)",
     "launchPrice": 44980,
     "hasIBIS": true,
@@ -932,7 +953,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6700.jpg"
   },
   {
     "brand": "Sony",
@@ -942,7 +964,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2019,
     "slug": "a6600",
-    "id": "a6600",
+    "id": "sony-a6600",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -969,7 +991,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6600.jpg"
   },
   {
     "brand": "Sony",
@@ -979,7 +1002,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2016,
     "slug": "a6500",
-    "id": "a6500",
+    "id": "sony-a6500",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1006,7 +1029,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6500.jpg"
   },
   {
     "brand": "Sony",
@@ -1016,7 +1040,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2019,
     "slug": "a6400",
-    "id": "a6400",
+    "id": "sony-a6400",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1043,7 +1067,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6400.jpg"
   },
   {
     "brand": "Sony",
@@ -1053,7 +1078,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2016,
     "slug": "a6300",
-    "id": "a6300",
+    "id": "sony-a6300",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1080,7 +1105,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6300.jpg"
   },
   {
     "brand": "Sony",
@@ -1090,7 +1116,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2019,
     "slug": "a6100",
-    "id": "a6100",
+    "id": "sony-a6100",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1117,7 +1143,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6100.jpg"
   },
   {
     "brand": "Sony",
@@ -1127,7 +1154,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2014,
     "slug": "a6000",
-    "id": "a6000",
+    "id": "sony-a6000",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1154,7 +1181,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-a6000.jpg"
   },
   {
     "brand": "Sony",
@@ -1164,7 +1192,7 @@
     "megapixels": "26.0MP",
     "releaseYear": 2024,
     "slug": "zv-e10-ii",
-    "id": "zv-e10-ii",
+    "id": "sony-zv-e10-ii",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -1196,7 +1224,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-zv-e10-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -1206,7 +1235,7 @@
     "megapixels": "24.2MP",
     "releaseYear": 2021,
     "slug": "zv-e10",
-    "id": "zv-e10",
+    "id": "sony-zv-e10",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -1232,7 +1261,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-zv-e10.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -3244,7 +3274,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2020,
     "slug": "fe-12-24mm-f2-8-gm",
-    "id": "fe-12-24mm-f2-8-gm",
+    "id": "sony-fe-12-24mm-f2-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3276,7 +3306,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-12-24mm-f2-8-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -3288,7 +3319,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2023,
     "slug": "fe-16-35mm-f2-8-gm-ii",
-    "id": "fe-16-35mm-f2-8-gm-ii",
+    "id": "sony-fe-16-35mm-f2-8-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3321,7 +3352,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-16-35mm-f2-8-gm-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -3333,7 +3365,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2022,
     "slug": "fe-24-70mm-f2-8-gm-ii",
-    "id": "fe-24-70mm-f2-8-gm-ii",
+    "id": "sony-fe-24-70mm-f2-8-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3366,7 +3398,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-24-70mm-f2-8-gm-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -3378,7 +3411,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "slug": "fe-70-200mm-f2-8-gm-oss-ii",
-    "id": "fe-70-200mm-f2-8-gm-oss-ii",
+    "id": "sony-fe-70-200mm-f2-8-gm-oss-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3411,7 +3444,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-70-200mm-f2-8-gm-oss-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -3423,7 +3457,7 @@
     "apertureMax": 5.6,
     "releaseYear": 2019,
     "slug": "fe-200-600mm-f5-6-6-3-g-oss",
-    "id": "fe-200-600mm-f5-6-6-3-g-oss",
+    "id": "sony-fe-200-600mm-f5-6-6-3-g-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3455,7 +3489,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-200-600mm-f5-6-6-3-g-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -3467,7 +3502,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "slug": "fe-35mm-f1-4-gm",
-    "id": "fe-35mm-f1-4-gm",
+    "id": "sony-fe-35mm-f1-4-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3499,7 +3534,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-35mm-f1-4-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -3511,7 +3547,7 @@
     "apertureMax": 1.2,
     "releaseYear": 2021,
     "slug": "fe-50mm-f1-2-gm",
-    "id": "fe-50mm-f1-2-gm",
+    "id": "sony-fe-50mm-f1-2-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3543,7 +3579,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-50mm-f1-2-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -3555,7 +3592,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2016,
     "slug": "fe-85mm-f1-4-gm",
-    "id": "fe-85mm-f1-4-gm",
+    "id": "sony-fe-85mm-f1-4-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3587,7 +3624,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-85mm-f1-4-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -3599,7 +3637,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2013,
     "slug": "fe-55mm-f1-8-za",
-    "id": "fe-55mm-f1-8-za",
+    "id": "sony-fe-55mm-f1-8-za",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -3631,7 +3669,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-55mm-f1-8-za.jpg"
   },
   {
     "brand": "Sigma",
@@ -5104,7 +5143,7 @@
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 14,
     "slug": "14mm-f1-8-gm",
-    "id": "14mm-f1-8-gm",
+    "id": "sony-14mm-f1-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -5125,7 +5164,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-14mm-f1-8-gm.jpg"
   },
   {
     "brand": "Samyang",
@@ -5217,7 +5257,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 16,
     "slug": "16mm-f1-8-g",
-    "id": "16mm-f1-8-g",
+    "id": "sony-16mm-f1-8-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -5239,7 +5279,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16mm-f1-8-g.jpg"
   },
   {
     "brand": "Viltrox",
@@ -5472,7 +5513,7 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 20,
     "slug": "20mm-f1-8-g",
-    "id": "20mm-f1-8-g",
+    "id": "sony-20mm-f1-8-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -5494,7 +5535,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-20mm-f1-8-g.jpg"
   },
   {
     "brand": "Samyang",
@@ -5760,7 +5802,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f1-4-gm",
-    "id": "24mm-f1-4-gm",
+    "id": "sony-24mm-f1-4-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -5781,7 +5823,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24mm-f1-4-gm.jpg"
   },
   {
     "brand": "Samyang",
@@ -5977,7 +6020,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 24,
     "slug": "24mm-f2-8-g",
-    "id": "24mm-f2-8-g",
+    "id": "sony-24mm-f2-8-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -5999,7 +6042,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24mm-f2-8-g.jpg"
   },
   {
     "brand": "Tamron",
@@ -6197,7 +6241,7 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "slug": "28mm-f2-0",
-    "id": "28mm-f2-0",
+    "id": "sony-28mm-f2-0",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -6219,7 +6263,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-28mm-f2-0.jpg"
   },
   {
     "brand": "Viltrox",
@@ -6556,7 +6601,7 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f1-4-gm",
-    "id": "35mm-f1-4-gm",
+    "id": "sony-35mm-f1-4-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -6577,7 +6622,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-35mm-f1-4-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -6599,7 +6645,7 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f1-4-za",
-    "id": "35mm-f1-4-za",
+    "id": "sony-35mm-f1-4-za",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -6620,7 +6666,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-35mm-f1-4-za.jpg"
   },
   {
     "brand": "Viltrox",
@@ -6677,7 +6724,7 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f1-8",
-    "id": "35mm-f1-8",
+    "id": "sony-35mm-f1-8",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -6699,7 +6746,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-35mm-f1-8.jpg"
   },
   {
     "brand": "Samyang",
@@ -6860,7 +6908,7 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "slug": "35mm-f2-8-za",
-    "id": "35mm-f2-8-za",
+    "id": "sony-35mm-f2-8-za",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -6881,7 +6929,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-35mm-f2-8-za.jpg"
   },
   {
     "brand": "Tamron",
@@ -7008,7 +7057,7 @@
     "focalLengthMinMm": 40,
     "focalLengthMaxMm": 40,
     "slug": "40mm-f2-5-g",
-    "id": "40mm-f2-5-g",
+    "id": "sony-40mm-f2-5-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7030,7 +7079,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-40mm-f2-5-g.jpg"
   },
   {
     "brand": "Viltrox",
@@ -7226,7 +7276,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-2-gm",
-    "id": "50mm-f1-2-gm",
+    "id": "sony-50mm-f1-2-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7247,7 +7297,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50mm-f1-2-gm.jpg"
   },
   {
     "brand": "Samyang",
@@ -7374,7 +7425,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-4-gm",
-    "id": "50mm-f1-4-gm",
+    "id": "sony-50mm-f1-4-gm",
     "motorType": "2 XD Linear Motors",
     "opticalDesign": "14 elements in 11 groups",
     "minAperture": "--",
@@ -7396,7 +7447,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50mm-f1-4-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -7418,7 +7470,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f1-4-za",
-    "id": "50mm-f1-4-za",
+    "id": "sony-50mm-f1-4-za",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7439,7 +7491,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50mm-f1-4-za.jpg"
   },
   {
     "brand": "Viltrox",
@@ -7670,7 +7723,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2-5-g",
-    "id": "50mm-f2-5-g",
+    "id": "sony-50mm-f2-5-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7692,7 +7745,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50mm-f2-5-g.jpg"
   },
   {
     "brand": "Sony",
@@ -7714,7 +7768,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "slug": "50mm-f2-8-marcro",
-    "id": "50mm-f2-8-marcro",
+    "id": "sony-50mm-f2-8-marcro",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7735,7 +7789,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50mm-f2-8-marcro.jpg"
   },
   {
     "brand": "Sony",
@@ -7757,7 +7812,7 @@
     "focalLengthMinMm": 55,
     "focalLengthMaxMm": 55,
     "slug": "55mm-f1-8-za",
-    "id": "55mm-f1-8-za",
+    "id": "sony-55mm-f1-8-za",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -7778,7 +7833,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-55mm-f1-8-za.jpg"
   },
   {
     "brand": "Sigma",
@@ -8113,7 +8169,7 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f1-4-gm",
-    "id": "85mm-f1-4-gm",
+    "id": "sony-85mm-f1-4-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8134,7 +8190,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-85mm-f1-4-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -8156,7 +8213,7 @@
     "focalLengthMinMm": 85,
     "focalLengthMaxMm": 85,
     "slug": "85mm-f1-4-gm-ii",
-    "id": "85mm-f1-4-gm-ii",
+    "id": "sony-85mm-f1-4-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8178,7 +8235,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-85mm-f1-4-gm-ii.jpg"
   },
   {
     "brand": "Viltrox",
@@ -8551,7 +8609,7 @@
     "focalLengthMinMm": 90,
     "focalLengthMaxMm": 90,
     "slug": "90mm-f2-8-g-macro-oss",
-    "id": "90mm-f2-8-g-macro-oss",
+    "id": "sony-90mm-f2-8-g-macro-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8572,7 +8630,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-90mm-f2-8-g-macro-oss.jpg"
   },
   {
     "brand": "Tamron",
@@ -8697,7 +8756,7 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f2-8-gm-oss-stf",
-    "id": "100mm-f2-8-gm-oss-stf",
+    "id": "sony-100mm-f2-8-gm-oss-stf",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8718,7 +8777,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-100mm-f2-8-gm-oss-stf.jpg"
   },
   {
     "brand": "Sony",
@@ -8740,7 +8800,7 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 100,
     "slug": "100mm-f2-8-gm-oss-marco",
-    "id": "100mm-f2-8-gm-oss-marco",
+    "id": "sony-100mm-f2-8-gm-oss-marco",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8761,7 +8821,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-100mm-f2-8-gm-oss-marco.jpg"
   },
   {
     "brand": "Tokina",
@@ -8958,7 +9019,7 @@
     "focalLengthMinMm": 135,
     "focalLengthMaxMm": 135,
     "slug": "135mm-f1-8-gm",
-    "id": "135mm-f1-8-gm",
+    "id": "sony-135mm-f1-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -8979,7 +9040,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-135mm-f1-8-gm.jpg"
   },
   {
     "brand": "Viltrox",
@@ -9176,7 +9238,7 @@
     "focalLengthMinMm": 300,
     "focalLengthMaxMm": 300,
     "slug": "300mm-f2-8-gm-oss",
-    "id": "300mm-f2-8-gm-oss",
+    "id": "sony-300mm-f2-8-gm-oss",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9197,7 +9259,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-300mm-f2-8-gm-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -9219,7 +9282,7 @@
     "focalLengthMinMm": 400,
     "focalLengthMaxMm": 400,
     "slug": "400mm-f2-8-gm-oss",
-    "id": "400mm-f2-8-gm-oss",
+    "id": "sony-400mm-f2-8-gm-oss",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9240,7 +9303,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-400mm-f2-8-gm-oss.jpg"
   },
   {
     "brand": "Sigma",
@@ -9297,7 +9361,7 @@
     "focalLengthMinMm": 600,
     "focalLengthMaxMm": 600,
     "slug": "600mm-f4-0-gm-oss",
-    "id": "600mm-f4-0-gm-oss",
+    "id": "sony-600mm-f4-0-gm-oss",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9318,7 +9382,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-600mm-f4-0-gm-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -9340,7 +9405,7 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 24,
     "slug": "12-24mm-f2-8-gm",
-    "id": "12-24mm-f2-8-gm",
+    "id": "sony-12-24mm-f2-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9361,7 +9426,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-12-24mm-f2-8-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -9383,7 +9449,7 @@
     "focalLengthMinMm": 12,
     "focalLengthMaxMm": 24,
     "slug": "12-24mm-f4-g",
-    "id": "12-24mm-f4-g",
+    "id": "sony-12-24mm-f4-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9404,7 +9470,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-12-24mm-f4-g.jpg"
   },
   {
     "brand": "Samyang",
@@ -9461,7 +9528,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 25,
     "slug": "16-25mm-f2-8-g",
-    "id": "16-25mm-f2-8-g",
+    "id": "sony-16-25mm-f2-8-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9482,7 +9549,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-25mm-f2-8-g.jpg"
   },
   {
     "brand": "Sigma",
@@ -9574,7 +9642,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f2-8-gm",
-    "id": "16-35mm-f2-8-gm",
+    "id": "sony-16-35mm-f2-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9595,7 +9663,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-35mm-f2-8-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -9617,7 +9686,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f2-8-gm-ii",
-    "id": "16-35mm-f2-8-gm-ii",
+    "id": "sony-16-35mm-f2-8-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9639,7 +9708,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-35mm-f2-8-gm-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -9661,7 +9731,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-t3-1-g",
-    "id": "16-35mm-t3-1-g",
+    "id": "sony-16-35mm-t3-1-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9682,7 +9752,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-35mm-t3-1-g.jpg"
   },
   {
     "brand": "Sony",
@@ -9704,7 +9775,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-za-oss",
-    "id": "16-35mm-f4-za-oss",
+    "id": "sony-16-35mm-f4-za-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9725,7 +9796,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-35mm-f4-za-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -9747,7 +9819,7 @@
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 35,
     "slug": "16-35mm-f4-g-pz",
-    "id": "16-35mm-f4-g-pz",
+    "id": "sony-16-35mm-f4-g-pz",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9768,7 +9840,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-16-35mm-f4-g-pz.jpg"
   },
   {
     "brand": "Tamron",
@@ -9895,7 +9968,7 @@
     "focalLengthMinMm": 20,
     "focalLengthMaxMm": 70,
     "slug": "20-70mm-f4-g",
-    "id": "20-70mm-f4-g",
+    "id": "sony-20-70mm-f4-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9916,7 +9989,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-20-70mm-f4-g.jpg"
   },
   {
     "brand": "Sigma",
@@ -9973,7 +10047,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 50,
     "slug": "24-50mm-f2-8-g",
-    "id": "24-50mm-f2-8-g",
+    "id": "sony-24-50mm-f2-8-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -9994,7 +10068,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-50mm-f2-8-g.jpg"
   },
   {
     "brand": "Samyang",
@@ -10087,7 +10162,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f2-8-gm",
-    "id": "24-70mm-f2-8-gm",
+    "id": "sony-24-70mm-f2-8-gm",
     "motorType": "XD Linear",
     "opticalDesign": "15 groups, 20 elements",
     "minAperture": "--",
@@ -10108,7 +10183,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-70mm-f2-8-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -10130,7 +10206,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f2-8-gm-ii",
-    "id": "24-70mm-f2-8-gm-ii",
+    "id": "sony-24-70mm-f2-8-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "15 groups, 20 elements",
     "minAperture": "--",
@@ -10152,7 +10228,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-70mm-f2-8-gm-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -10174,7 +10251,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 70,
     "slug": "24-70mm-f4-za-oss",
-    "id": "24-70mm-f4-za-oss",
+    "id": "sony-24-70mm-f4-za-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10195,7 +10272,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-70mm-f4-za-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -10217,7 +10295,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 105,
     "slug": "24-105mm-f4-g",
-    "id": "24-105mm-f4-g",
+    "id": "sony-24-105mm-f4-g",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10238,7 +10316,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-105mm-f4-g.jpg"
   },
   {
     "brand": "Sony",
@@ -10260,7 +10339,7 @@
     "focalLengthMinMm": 24,
     "focalLengthMaxMm": 240,
     "slug": "24-240mm-f3-5-6-3-oss",
-    "id": "24-240mm-f3-5-6-3-oss",
+    "id": "sony-24-240mm-f3-5-6-3-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10281,7 +10360,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-24-240mm-f3-5-6-3-oss.jpg"
   },
   {
     "brand": "Tamron",
@@ -10373,7 +10453,7 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 60,
     "slug": "28-60mm-f4-5-6",
-    "id": "28-60mm-f4-5-6",
+    "id": "sony-28-60mm-f4-5-6",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10394,7 +10474,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-28-60mm-f4-5-6.jpg"
   },
   {
     "brand": "Sony",
@@ -10416,7 +10497,7 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f2-0-gm",
-    "id": "28-70mm-f2-0-gm",
+    "id": "sony-28-70mm-f2-0-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10437,7 +10518,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-28-70mm-f2-0-gm.jpg"
   },
   {
     "brand": "Sigma",
@@ -10494,7 +10576,7 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 70,
     "slug": "28-70mm-f3-5-5-6-oss",
-    "id": "28-70mm-f3-5-5-6-oss",
+    "id": "sony-28-70mm-f3-5-5-6-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10515,7 +10597,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-28-70mm-f3-5-5-6-oss.jpg"
   },
   {
     "brand": "Tamron",
@@ -10642,7 +10725,7 @@
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 135,
     "slug": "28-135mm-f4-g-oss-pz",
-    "id": "28-135mm-f4-g-oss-pz",
+    "id": "sony-28-135mm-f4-g-oss-pz",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10663,7 +10746,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-28-135mm-f4-g-oss-pz.jpg"
   },
   {
     "brand": "Tamron",
@@ -10860,7 +10944,7 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 150,
     "slug": "50-150mm-f2-0-gm",
-    "id": "50-150mm-f2-0-gm",
+    "id": "sony-50-150mm-f2-0-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -10881,7 +10965,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-50-150mm-f2-0-gm.jpg"
   },
   {
     "brand": "Tamron",
@@ -11113,7 +11198,7 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f2-8-gm-oss",
-    "id": "70-200mm-f2-8-gm-oss",
+    "id": "sony-70-200mm-f2-8-gm-oss",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11134,7 +11219,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-70-200mm-f2-8-gm-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -11156,7 +11242,7 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f2-8-gm-oss-ii",
-    "id": "70-200mm-f2-8-gm-oss-ii",
+    "id": "sony-70-200mm-f2-8-gm-oss-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11178,7 +11264,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-70-200mm-f2-8-gm-oss-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -11200,7 +11287,7 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss",
-    "id": "70-200mm-f4-g-oss",
+    "id": "sony-70-200mm-f4-g-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11221,7 +11308,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-70-200mm-f4-g-oss.jpg"
   },
   {
     "brand": "Sony",
@@ -11243,7 +11331,7 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 200,
     "slug": "70-200mm-f4-g-oss-ii",
-    "id": "70-200mm-f4-g-oss-ii",
+    "id": "sony-70-200mm-f4-g-oss-ii",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11265,7 +11353,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-70-200mm-f4-g-oss-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -11287,7 +11376,7 @@
     "focalLengthMinMm": 70,
     "focalLengthMaxMm": 300,
     "slug": "70-300mm-f4-5-5-6-g-oss",
-    "id": "70-300mm-f4-5-5-6-g-oss",
+    "id": "sony-70-300mm-f4-5-5-6-g-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11308,7 +11397,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-70-300mm-f4-5-5-6-g-oss.jpg"
   },
   {
     "brand": "Tamron",
@@ -11365,7 +11455,7 @@
     "focalLengthMinMm": 100,
     "focalLengthMaxMm": 400,
     "slug": "100-400mm-f4-5-5-6-gm-oss",
-    "id": "100-400mm-f4-5-5-6-gm-oss",
+    "id": "sony-100-400mm-f4-5-5-6-gm-oss",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11386,7 +11476,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-100-400mm-f4-5-5-6-gm-oss.jpg"
   },
   {
     "brand": "Sigma",
@@ -11478,7 +11569,7 @@
     "focalLengthMinMm": 200,
     "focalLengthMaxMm": 600,
     "slug": "200-600mm-f5-6-6-3-g-oss",
-    "id": "200-600mm-f5-6-6-3-g-oss",
+    "id": "sony-200-600mm-f5-6-6-3-g-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11499,7 +11590,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-200-600mm-f5-6-6-3-g-oss.jpg"
   },
   {
     "brand": "Sigma",
@@ -11556,7 +11648,7 @@
     "focalLengthMinMm": 400,
     "focalLengthMaxMm": 800,
     "slug": "400-800mm-f6-3-8-0-g-oss",
-    "id": "400-800mm-f6-3-8-0-g-oss",
+    "id": "sony-400-800mm-f6-3-8-0-g-oss",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -11577,7 +11669,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-400-800mm-f6-3-8-0-g-oss.jpg"
   },
   {
     "brand": "Laowa",
@@ -12824,7 +12917,7 @@
     "sensorFormat": "Full Frame",
     "sensorType": "BSI CMOS",
     "slug": "fx3",
-    "id": "fx3",
+    "id": "sony-fx3",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -12851,7 +12944,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fx3.jpg"
   },
   {
     "brand": "Sony",
@@ -12865,7 +12959,7 @@
     "sensorFormat": "APS-C",
     "sensorType": "BSI CMOS",
     "slug": "fx30",
-    "id": "fx30",
+    "id": "sony-fx30",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
@@ -12892,7 +12986,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fx30.jpg"
   },
   {
     "brand": "Sony",
@@ -12910,7 +13005,7 @@
     "focalLengthMaxMm": 70,
     "series": "GM",
     "slug": "fe-28-70mm-f2-gm",
-    "id": "fe-28-70mm-f2-gm",
+    "id": "sony-fe-28-70mm-f2-gm",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -12936,7 +13031,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-28-70mm-f2-gm.jpg"
   },
   {
     "brand": "Sony",
@@ -12954,7 +13050,7 @@
     "focalLengthMaxMm": 85,
     "series": "GM",
     "slug": "fe-85mm-f1-4-gm-ii",
-    "id": "fe-85mm-f1-4-gm-ii",
+    "id": "sony-fe-85mm-f1-4-gm-ii",
     "motorType": "XD Linear",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -12981,7 +13077,8 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fe-85mm-f1-4-gm-ii.jpg"
   },
   {
     "brand": "Sony",
@@ -12999,7 +13096,7 @@
     "focalLengthMaxMm": 11,
     "series": "G",
     "slug": "e-11mm-f1-8",
-    "id": "e-11mm-f1-8",
+    "id": "sony-e-11mm-f1-8",
     "motorType": "Linear Motor / DDSSM",
     "opticalDesign": "Advanced Optical Construction",
     "minAperture": "--",
@@ -13026,57 +13123,8 @@
           "name": "Sony E"
         }
       }
-    ]
-  },
-  {
-    "brand": "Sony",
-    "modelName": "Sony Alpha 7C II",
-    "gearType": "CAMERA_BODY",
-    "sensorType": "Exmor R BSI CMOS (Partially Stacked)",
-    "megapixels": "33.0MP",
-    "videoResolution": "4K 60p (Oversampled 7K) / 4K 120p",
-    "afPoints": "759 Phase-detection",
-    "evfResolution": "3.68M-dot OLED",
-    "burstSpeed": "10+ fps",
-    "releaseYear": 2025,
-    "launchPrice": 114980,
-    "hasIBIS": true,
-    "sensorFormat": "Full Frame",
-    "slug": "a7-v",
-    "logSupport": "S-Log3 / S-Cinetone",
-    "id": "a7-v",
-    "aliases": [
-      "A7 V",
-      "A75",
-      "A7V",
-      "Alpha 7C II",
-      "Alpha7CII",
-      "SONYA7V",
-      "Sony Alpha 7C 2",
-      "Sony SONYAlpha 7V",
-      "SonyA7V",
-      "a7 v",
-      "a75",
-      "a7v",
-      "sonya7v"
     ],
-    "ibisRating": "8.0 stops (CIPA)",
-    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
-    "videoColorDepth": "10-bit 4:2:2 / All-I",
-    "evfMagnification": "0.78x",
-    "cardSlots": "2x SD (UHS-II) / CFexpress Type A",
-    "batterySpec": "NP-FZ100",
-    "processor": "BIONZ XR + AI Processing Unit",
-    "dimensions": "131.3 x 96.9 x 79.8 mm",
-    "weightGrams": "Approx. 658 g (including battery and card)",
-    "isoRange": "100-51200 (Ext: 50-204800)",
-    "mounts": [
-      {
-        "mount": {
-          "name": "Sony E"
-        }
-      }
-    ]
+    "image_url": "/images/products/sony/sony-e-11mm-f1-8.jpg"
   },
   {
     "brand": "Sigma",
