@@ -1248,9 +1248,9 @@
     "evfResolution": "5.76M-dot OLED",
     "burstSpeed": "15fps (Mech) / 40fps (Elec)",
     "logSupport": "F-Log2",
-    "sensorType": "Stacked X-Trans CMOS 5 HS",
-    "weightGrams": "Approx. 660 g (including battery and card)",
-    "launchPrice": 39980,
+    "sensorType": "26.1MP X-Trans CMOS 5 HS (Stacked BSI)",
+    "weightGrams": "660g",
+    "launchPrice": 74900,
     "aliases": [
       "X-H2S",
       "XH2S",
@@ -1259,7 +1259,7 @@
     ],
     "processor": "X-Processor 5",
     "isoRange": "160-12800 (Ext: 80-51200)",
-    "ibisRating": "7.0 stops (CIPA)",
+    "ibisRating": "7.0 stops",
     "image_url": "/images/products/fujifilm/fujifilm-x-h2s.jpg",
     "mounts": [
       {
@@ -1267,7 +1267,9 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -1283,7 +1285,7 @@
     "evfResolution": "5.76M-dot OLED",
     "burstSpeed": "15fps (Mechanical) / 20fps (Electronic)",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 56900,
     "aliases": [
       "X-H2",
       "XH2",
@@ -1292,7 +1294,7 @@
     ],
     "processor": "X-Processor 5",
     "isoRange": "125-12800 (Ext: 64-51200)",
-    "ibisRating": "7.0 stops (CIPA)",
+    "ibisRating": "7.0 stops",
     "image_url": "/images/products/fujifilm/fujifilm-x-h2.jpg",
     "mounts": [
       {
@@ -1300,7 +1302,11 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "sensorType": "40.2MP X-Trans CMOS 5 HR (BSI)",
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "weightGrams": "660g",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -1346,9 +1352,9 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "15fps (Mech) / 20fps (Elec)",
     "logSupport": "F-Log2",
-    "sensorType": "X-Trans CMOS 5 HR",
-    "weightGrams": "Approx. 557 g (including battery and card)",
-    "launchPrice": 39980,
+    "sensorType": "40.2MP X-Trans CMOS 5 HR (BSI)",
+    "weightGrams": "557g",
+    "launchPrice": 52900,
     "aliases": [
       "X-T5",
       "XT5",
@@ -1356,8 +1362,8 @@
       "xt5"
     ],
     "processor": "X-Processor 5",
-    "ibisRating": "7.0 stops (CIPA)",
-    "afTargets": "Animal, Bird, Automobile, Motorcycle, Bicycle, Airplane, Train",
+    "ibisRating": "7.0 stops",
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
     "videoColorDepth": "10-bit 4:2:2",
     "lcdSpec": "3.0-inch 1.84M-dot 3-way Tilt LCD",
     "isoRange": "125-12800 (Ext: 64-51200)",
@@ -1368,7 +1374,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -1506,9 +1513,9 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "15 fps (Mech)",
     "logSupport": "F-Log2",
-    "sensorType": "X-Trans CMOS 5 HR",
-    "weightGrams": "Approx. 557 g (including battery and card)",
-    "launchPrice": 39980,
+    "sensorType": "40.2MP X-Trans CMOS 5 HR (BSI)",
+    "weightGrams": "438g",
+    "launchPrice": 43900,
     "aliases": [
       "X-T50",
       "XT50",
@@ -1522,7 +1529,10 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "ibisRating": "7.0 stops",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -1662,7 +1672,7 @@
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 54900,
     "aliases": [
       "X-PRO3",
       "X-Pro3",
@@ -1678,7 +1688,12 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "sensorType": "26.1MP X-Trans CMOS 4 (BSI)",
+    "afTargets": "Human (Face/Eye)",
+    "ibisRating": "No IBIS",
+    "weightGrams": "497g",
+    "hasIBIS": false
   },
   {
     "brand": "Fujifilm",
@@ -1753,12 +1768,12 @@
     "releaseYear": 2023,
     "slug": "x-s20",
     "id": "fujifilm-x-s20",
-    "videoResolution": "--",
+    "videoResolution": "6.2K 30p / 4K 60p",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 39900,
     "aliases": [
       "X-S20",
       "XS20",
@@ -1772,7 +1787,12 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "sensorType": "26.1MP X-Trans CMOS 4 (BSI)",
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "ibisRating": "7.0 stops",
+    "weightGrams": "491g",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -2019,9 +2039,9 @@
     "evfResolution": "9.44M-dot OLED",
     "burstSpeed": "8 fps",
     "logSupport": "F-Log2",
-    "sensorType": "CMOS II HS",
-    "weightGrams": "Approx. 1030 g (including battery and card)",
-    "launchPrice": 39980,
+    "sensorType": "102MP GFX CMOS II HS (Medium Format Stacked)",
+    "weightGrams": "1030g",
+    "launchPrice": 225000,
     "hasWeatherSeal": true,
     "aliases": [
       "GFX100II",
@@ -2035,7 +2055,10 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "ibisRating": "8.0 stops",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
@@ -2046,12 +2069,12 @@
     "releaseYear": 2024,
     "slug": "gfx-100s-ii",
     "id": "fujifilm-gfx-100s-ii",
-    "videoResolution": "--",
+    "videoResolution": "4K 60p",
     "afPoints": "--",
     "evfResolution": "--",
     "burstSpeed": "--",
     "logSupport": "S-Log3 / S-Cinetone",
-    "launchPrice": 39980,
+    "launchPrice": 169000,
     "hasWeatherSeal": true,
     "aliases": [
       "GFX 100S II",
@@ -2066,7 +2089,12 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "sensorType": "102MP GFX CMOS II (Medium Format BSI)",
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
+    "ibisRating": "8.0 stops",
+    "weightGrams": "883g",
+    "hasIBIS": true
   },
   {
     "brand": "Fujifilm",
