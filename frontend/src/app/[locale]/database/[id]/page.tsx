@@ -114,8 +114,8 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                 {gear.series}
               </div>
             )}
-            {gear.imageUrl ? (
-              <img src={gear.imageUrl} alt={name} className="w-full max-w-md object-contain hover:scale-105 transition-transform duration-500" />
+            {gear.image_url ? (
+              <img src={gear.image_url} alt={name} className="w-full max-w-md object-contain hover:scale-105 transition-transform duration-500" />
             ) : (
               <div className="flex flex-col items-center gap-4">
                 <Camera className="w-32 h-32 text-gray-800" />
@@ -280,6 +280,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                     <SpecRow label={t('sensorFormat')} value={gear.sensorFormat} />
                     <SpecRow label={t('video')} value={gear.videoResolution || '--'} />
                     <SpecRow label={t('videoColorDepth')} value={gear.videoColorDepth || '--'} />
+                    <SpecRow label={t('logSupport')} value={gear.logSupport || '--'} />
                     <SpecRow label={t('ibisRating')} value={gear.ibisRating || '--'} />
                   </div>
                 </div>

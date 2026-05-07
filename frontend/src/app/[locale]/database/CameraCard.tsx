@@ -35,16 +35,16 @@ export default function CameraCard({ gear, isSelected, isDisabled, onToggle, t, 
       <Link href={`/database/${gear.slug || gear.id}`} className="block h-full">
         <Card className={`bg-[#1A1A1A] border-none rounded-none hover:ring-1 transition-all cursor-pointer h-full ${isSelected ? 'ring-2 ring-red-500' : 'hover:ring-red-500'}`}>
           <div className="h-52 bg-black/50 flex items-center justify-center border-b border-white/5 relative overflow-hidden">
-            {gear.imageUrl ? (
+            {gear.image_url ? (
               <img 
-                src={gear.imageUrl} 
+                src={gear.image_url} 
                 alt={name} 
                 className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-700 p-4"
               />
             ) : (
-              <div className="flex flex-col items-center gap-2">
-                <Camera className="w-12 h-12 text-gray-800" />
-                <span className="text-[10px] text-gray-700 font-bold uppercase tracking-widest">{gear.gearType}</span>
+              <div className="flex flex-col items-center gap-2 bg-black w-full h-full justify-center">
+                <Camera className="w-12 h-12 text-zinc-900" />
+                <span className="text-[10px] text-zinc-800 font-bold uppercase tracking-widest">{gear.gearType}</span>
               </div>
             )}
             <div className="absolute top-2 right-2 bg-red-600 text-white text-[10px] font-bold px-2 py-0.5 uppercase tracking-tighter">

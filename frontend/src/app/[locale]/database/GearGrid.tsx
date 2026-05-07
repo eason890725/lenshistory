@@ -64,9 +64,11 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
         if (!filters.brands.includes(itemBrandName)) return false;
       }
       // Price
-      if (g.launchPrice && (g.launchPrice < filters.minPrice || g.launchPrice > filters.maxPrice)) return false;
+      const price = Number(g.launchPrice);
+      if (price && (price < filters.minPrice || price > filters.maxPrice)) return false;
       // Year
-      if (g.releaseYear && (g.releaseYear < filters.minYear || g.releaseYear > filters.maxYear)) return false;
+      const year = Number(g.releaseYear);
+      if (year && (year < filters.minYear || year > filters.maxYear)) return false;
       // Format
       if (filters.sensorFormats.length > 0 && !filters.sensorFormats.includes(g.sensorFormat)) return false;
       // Mounts
@@ -79,17 +81,17 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     })
     .sort((a, b) => {
       switch (filters.sortBy) {
-        case 'newest': return b.releaseYear - a.releaseYear;
-        case 'oldest': return a.releaseYear - b.releaseYear;
-        case 'priceDesc': return (b.launchPrice || 0) - (a.launchPrice || 0);
-        case 'priceAsc': return (a.launchPrice || 1000000) - (b.launchPrice || 1000000);
-        case 'weightAsc': return (a.weightGrams || 10000) - (b.weightGrams || 10000);
-        case 'mpDesc': return (b.megapixels || 0) - (a.megapixels || 0);
+        case 'newest': return (Number(b.releaseYear) || 0) - (Number(a.releaseYear) || 0);
+        case 'oldest': return (Number(a.releaseYear) || 0) - (Number(b.releaseYear) || 0);
+        case 'priceDesc': return (Number(b.launchPrice) || 0) - (Number(a.launchPrice) || 0);
+        case 'priceAsc': return (Number(a.launchPrice) || 1000000) - (Number(b.launchPrice) || 1000000);
+        case 'weightAsc': return (Number(a.weightGrams) || 10000) - (Number(b.weightGrams) || 10000);
+        case 'mpDesc': return (Number(b.megapixels) || 0) - (Number(a.megapixels) || 0);
         default: return 0;
       }
     });
 
-  // Initialize filters from URL on mount
+  // Initialize filters from URL and Restore Scroll
   useEffect(() => {
     setMounted(true);
     
@@ -112,23 +114,43 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     const sortBy = searchParams.get('sortBy');
     if (sortBy) urlFilters.sortBy = sortBy;
 
+    // Numerical filters from URL
+    const minP = searchParams.get('minP');
+    if (minP) urlFilters.minPrice = parseInt(minP);
+    const maxP = searchParams.get('maxP');
+    if (maxP) urlFilters.maxPrice = parseInt(maxP);
+    const minY = searchParams.get('minY');
+    if (minY) urlFilters.minYear = parseInt(minY);
+    const maxY = searchParams.get('maxY');
+    if (maxY) urlFilters.maxYear = parseInt(maxY);
+
     if (Object.keys(urlFilters).length > 0) {
       setFilters(prev => ({ ...prev, ...urlFilters }));
     }
+
+    // Scroll Restoration logic
+    const savedScroll = sessionStorage.getItem('database_scroll');
+    if (savedScroll) {
+      // Delay slightly to ensure content is rendered
+      setTimeout(() => {
+        window.scrollTo({ top: parseInt(savedScroll), behavior: 'instant' });
+      }, 100);
+    }
+
+    const handleScroll = () => {
+      sessionStorage.setItem('database_scroll', window.scrollY.toString());
+    };
+    window.addEventListener('scroll', handleScroll);
 
     const stored = localStorage.getItem('compare_ids');
     if (stored) {
       try {
         const ids = JSON.parse(stored);
         setSelectedIds(ids);
-        if (ids.length > 0) {
-          const firstItem = gears.find(g => g.id === ids[0]);
-          if (firstItem) setSelectedType(firstItem.gearType);
-        }
-      } catch (e) {
-        setSelectedIds([]);
-      }
+      } catch (e) {}
     }
+
+    return () => window.removeEventListener('scroll', handleScroll);
   }, [gears]);
 
   // Sync filters to URL
@@ -142,12 +164,16 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     if (filters.sensorFormats.length > 0) params.set('formats', filters.sensorFormats.join(','));
     if (filters.mounts.length > 0) params.set('mounts', filters.mounts.join(','));
     if (filters.sortBy !== 'newest') params.set('sortBy', filters.sortBy);
+    
+    // Sync Numerical Filters to URL
+    if (filters.minPrice > 0) params.set('minP', filters.minPrice.toString());
+    if (filters.maxPrice < 200000) params.set('maxP', filters.maxPrice.toString());
+    if (filters.minYear > 2010) params.set('minY', filters.minYear.toString());
+    if (filters.maxYear < 2026) params.set('maxY', filters.maxYear.toString());
 
     const query = params.toString();
     const url = query ? `${pathname}?${query}` : pathname;
     
-    // Use replace to avoid polluting history with every filter click, 
-    // but the state is now in the URL for navigation.
     window.history.replaceState(null, '', url);
   }, [filters, pathname, mounted]);
 

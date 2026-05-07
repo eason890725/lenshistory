@@ -115,8 +115,8 @@ export default async function ComparePage({
                   {gears.map((g: any) => (
                     <th key={g.id} className="p-6 border-b border-white/10 text-center min-w-[280px] bg-black/20">
                       <div className="h-36 mb-3 flex items-center justify-center relative group">
-                        {g.imageUrl ? (
-                          <img src={g.imageUrl} alt={g.modelNameI18n.enUs} className="w-full h-full object-contain p-4 group-hover:scale-105 transition-transform duration-500" />
+                        {g.image_url ? (
+                          <img src={g.image_url} alt={g.modelNameI18n.enUs} className="w-full h-full object-contain p-4 group-hover:scale-105 transition-transform duration-500" />
                         ) : (
                           <Camera className="w-12 h-12 text-gray-800" />
                         )}
