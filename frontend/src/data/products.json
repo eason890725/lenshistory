@@ -13660,7 +13660,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2019,
     "weightGrams": 485,
-    "launchPrice": 38400,
+    "launchPrice": 41900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13681,7 +13681,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-24-200mm-f-4-6-3-vr",
@@ -13695,7 +13697,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "weightGrams": 570,
-    "launchPrice": 28900,
+    "launchPrice": 32000,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
@@ -13707,7 +13709,7 @@
     "opticalDesign": "19 elements in 15 groups (2 ED, 1 aspherical ED, 2 aspherical)",
     "maxMagnification": "0.28x",
     "minFocusDistance": "0.5m",
-    "filterSize": "72mm",
+    "filterSize": "67mm",
     "dimensions": "ø76.5 x 114 mm",
     "coating": "ARNEO, Fluorine",
     "mounts": [
@@ -13716,7 +13718,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22 - f/36",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
@@ -13767,7 +13771,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2019,
     "weightGrams": 470,
-    "launchPrice": 24900,
+    "launchPrice": 30200,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13788,7 +13792,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "nikon-z-50mm-f-1-8-s",
@@ -14501,7 +14507,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2020,
     "weightGrams": 505,
-    "launchPrice": 31900,
+    "launchPrice": 35900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -14512,17 +14518,19 @@
     ],
     "opticalDesign": "14 elements in 11 groups (3 ED, 3 aspherical)",
     "maxMagnification": "0.19x",
-    "minFocusDistance": "0.2m",
+    "minFocusDistance": "0.20m",
     "filterSize": "77mm",
     "dimensions": "ø84.5 x 108.5 mm",
-    "coating": "Nano Crystal",
+    "coating": "Nano Crystal, Fluorine",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "nikon-z-24mm-f-1-8-s",
@@ -14861,7 +14869,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "weightGrams": 195,
-    "launchPrice": 13400,
+    "launchPrice": 13500,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
@@ -14875,14 +14883,16 @@
     "minFocusDistance": "0.35m",
     "filterSize": "52mm",
     "dimensions": "ø73.5 x 51 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22 - f/36",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-28-75mm-f-2-8",
@@ -14896,7 +14906,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 565,
-    "launchPrice": 28900,
+    "launchPrice": 33500,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
@@ -14906,7 +14916,7 @@
     "minFocusDistance": "0.19m",
     "filterSize": "67mm",
     "dimensions": "ø75 x 120.5 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "aliases": [
       "Z 28-75mm f/2.8",
       "Z28-75mmf/2.8"
@@ -14917,7 +14927,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "xf-23mm-f2-r-wr",
