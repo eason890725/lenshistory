@@ -13623,7 +13623,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 630,
-    "launchPrice": 34400,
+    "launchPrice": 29400,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "S-Line",
@@ -13644,7 +13644,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/32",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "nikon-z-14-30mm-f-4-s",
@@ -13738,7 +13740,7 @@
     "minFocusDistance": "1.3m",
     "filterSize": "95mm",
     "dimensions": "ø110 x 315.5 mm",
-    "coating": "Fluorine Coating",
+    "coating": "Fluorine Coating (Front Element)",
     "aliases": [
       "Z 180-600mm f/5.6-6.3 VR",
       "Z180-600mmf/5.6-6.3VR"
@@ -13749,7 +13751,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/32 - f/36",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-85mm-f-1-8-s",
@@ -14577,7 +14581,7 @@
     "minFocusDistance": "0.2m",
     "filterSize": "52mm (via HB-111)",
     "dimensions": "ø70 x 23.5 mm",
-    "coating": "Super Integrated (SIC)",
+    "coating": "Super Integrated Coating (SIC)",
     "aliases": [
       "Z 26mm f/2.8",
       "Z26mmf/2.8"
@@ -14588,7 +14592,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-28mm-f-2-8",
@@ -14602,7 +14608,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 155,
-    "launchPrice": 9900,
+    "launchPrice": 7900,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
@@ -14612,7 +14618,7 @@
     "minFocusDistance": "0.19m",
     "filterSize": "52mm",
     "dimensions": "ø70 x 43 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "aliases": [
       "Z 28mm f/2.8",
       "Z28mmf/2.8"
@@ -14623,7 +14629,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
     "id": "nikon-z-40mm-f-2",
@@ -14637,7 +14645,7 @@
     "apertureMax": 2.0,
     "releaseYear": 2021,
     "weightGrams": 170,
-    "launchPrice": 8800,
+    "launchPrice": 9180,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
@@ -14647,7 +14655,7 @@
     "minFocusDistance": "0.29m",
     "filterSize": "52mm",
     "dimensions": "ø70 x 45.5 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "aliases": [
       "Z 40mm f/2",
       "Z40mmf/2"
@@ -14658,7 +14666,9 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-24-70mm-f-4-s",
@@ -14791,14 +14801,16 @@
     "minFocusDistance": "0.19m",
     "filterSize": "67mm",
     "dimensions": "ø72 x 63.5 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/16 - f/25",
+    "focusMotor": "STM (Power Zoom Integrated)"
   },
   {
     "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
@@ -14812,7 +14824,7 @@
     "apertureMax": 3.5,
     "releaseYear": 2021,
     "weightGrams": 315,
-    "launchPrice": 19300,
+    "launchPrice": 18900,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
@@ -14826,14 +14838,16 @@
     "minFocusDistance": "0.2m",
     "filterSize": "62mm",
     "dimensions": "ø73 x 90 mm",
-    "coating": "Standard SIC",
+    "coating": "Super Integrated Coating (SIC)",
     "mounts": [
       {
         "mount": {
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "minAperture": "f/22 - f/40",
+    "focusMotor": "STM (Stepping Motor)"
   },
   {
     "id": "nikon-z-24-50mm-f-4-6-3",
