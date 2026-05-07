@@ -43,7 +43,14 @@
     "cardSlots": "2x CFexpress Type A / SD (UHS-II)",
     "batterySpec": "NP-FZ100",
     "ports": "USB-C (10 Gbps), Full HDMI, 2.5G Ethernet",
-    "dimensions": "136.1 x 96.9 x 82.9 mm"
+    "dimensions": "136.1 x 96.9 x 82.9 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -75,7 +82,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -114,7 +128,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -149,7 +170,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -181,7 +209,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -227,7 +262,14 @@
     "cardSlots": "2x CFexpress Type A / SD (UHS-II)",
     "batterySpec": "NP-FZ100 (Approx. 530 shots)",
     "ports": "USB-C (USB 3.2 Gen 2), Full HDMI (Type-A), PC Sync, Ethernet",
-    "dimensions": "131.3 x 96.9 x 82.4 mm"
+    "dimensions": "131.3 x 96.9 x 82.4 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -262,7 +304,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -297,7 +346,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -332,7 +388,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -364,7 +427,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -399,7 +469,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -434,7 +511,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -466,7 +550,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -495,7 +586,14 @@
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
     "isoRange": "100-51200 (Ext: 50-204800)",
-    "ibisRating": "5.5 stops (CIPA)"
+    "ibisRating": "5.5 stops (CIPA)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -531,7 +629,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -566,7 +671,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -598,7 +710,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -630,7 +749,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -684,7 +810,14 @@
     "cardSlots": "1x SD (UHS-I/II)",
     "batterySpec": "NP-FZ100 (Approx. 530 shots)",
     "ports": "USB-C (USB 3.2 Gen 2), HDMI (Type-D), 3.5mm Mic/Headphone",
-    "dimensions": "124.0 x 71.1 x 63.4 mm"
+    "dimensions": "124.0 x 71.1 x 63.4 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -716,7 +849,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -745,7 +885,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -778,7 +925,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -808,7 +962,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -838,7 +999,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -868,7 +1036,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -898,7 +1073,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -928,7 +1110,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -958,7 +1147,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -993,7 +1189,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -1022,7 +1225,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1050,7 +1260,14 @@
     "processor": "X-Processor 5",
     "isoRange": "160-12800 (Ext: 80-51200)",
     "ibisRating": "7.0 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-h2s.jpg"
+    "image_url": "/images/products/fujifilm/x-h2s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1076,7 +1293,14 @@
     "processor": "X-Processor 5",
     "isoRange": "125-12800 (Ext: 64-51200)",
     "ibisRating": "7.0 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-h2.jpg"
+    "image_url": "/images/products/fujifilm/x-h2.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1099,7 +1323,14 @@
       "x-h1",
       "xh1"
     ],
-    "image_url": "/images/products/fujifilm/x-h1.jpg"
+    "image_url": "/images/products/fujifilm/x-h1.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1130,7 +1361,14 @@
     "videoColorDepth": "10-bit 4:2:2",
     "lcdSpec": "3.0-inch 1.84M-dot 3-way Tilt LCD",
     "isoRange": "125-12800 (Ext: 64-51200)",
-    "image_url": "/images/products/fujifilm/x-t5.jpg"
+    "image_url": "/images/products/fujifilm/x-t5.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1155,7 +1393,14 @@
     ],
     "processor": "X-Processor 4",
     "ibisRating": "6.5 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-t4.jpg"
+    "image_url": "/images/products/fujifilm/x-t4.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1178,7 +1423,14 @@
       "x-t3",
       "xt3"
     ],
-    "image_url": "/images/products/fujifilm/x-t3.jpg"
+    "image_url": "/images/products/fujifilm/x-t3.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1201,7 +1453,14 @@
       "x-t2",
       "xt2"
     ],
-    "image_url": "/images/products/fujifilm/x-t2.jpg"
+    "image_url": "/images/products/fujifilm/x-t2.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1224,7 +1483,14 @@
       "x-t1",
       "xt1"
     ],
-    "image_url": "/images/products/fujifilm/x-t1.jpg"
+    "image_url": "/images/products/fujifilm/x-t1.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1249,7 +1515,14 @@
       "x-t50",
       "xt50"
     ],
-    "image_url": "/images/products/fujifilm/x-t50.jpg"
+    "image_url": "/images/products/fujifilm/x-t50.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1276,7 +1549,14 @@
       "xt30 ii",
       "xt30ii"
     ],
-    "image_url": "/images/products/fujifilm/x-t30-ii.jpg"
+    "image_url": "/images/products/fujifilm/x-t30-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1299,7 +1579,14 @@
       "x-t30",
       "xt30"
     ],
-    "image_url": "/images/products/fujifilm/x-t30.jpg"
+    "image_url": "/images/products/fujifilm/x-t30.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1322,7 +1609,14 @@
       "x-t20",
       "xt20"
     ],
-    "image_url": "/images/products/fujifilm/x-t20.jpg"
+    "image_url": "/images/products/fujifilm/x-t20.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1345,7 +1639,14 @@
       "x-t10",
       "xt10"
     ],
-    "image_url": "/images/products/fujifilm/x-t10.jpg"
+    "image_url": "/images/products/fujifilm/x-t10.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1370,7 +1671,14 @@
       "x-pro3",
       "xpro3"
     ],
-    "image_url": "/images/products/fujifilm/x-pro3.jpg"
+    "image_url": "/images/products/fujifilm/x-pro3.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1395,7 +1703,14 @@
       "x-pro2",
       "xpro2"
     ],
-    "image_url": "/images/products/fujifilm/x-pro2.jpg"
+    "image_url": "/images/products/fujifilm/x-pro2.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1420,7 +1735,14 @@
       "x-pro1",
       "xpro1"
     ],
-    "image_url": "/images/products/fujifilm/x-pro1.jpg"
+    "image_url": "/images/products/fujifilm/x-pro1.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1443,7 +1765,14 @@
       "x-s20",
       "xs20"
     ],
-    "image_url": "/images/products/fujifilm/x-s20.jpg"
+    "image_url": "/images/products/fujifilm/x-s20.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1466,7 +1795,14 @@
       "x-s10",
       "xs10"
     ],
-    "image_url": "/images/products/fujifilm/x-s10.jpg"
+    "image_url": "/images/products/fujifilm/x-s10.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1489,7 +1825,14 @@
       "x-e4",
       "xe4"
     ],
-    "image_url": "/images/products/fujifilm/x-e4.jpg"
+    "image_url": "/images/products/fujifilm/x-e4.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1510,6 +1853,13 @@
       "X100VI",
       "x100v i",
       "x100vi"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
     ]
   },
   {
@@ -1533,7 +1883,14 @@
       "x100 v",
       "x100v"
     ],
-    "image_url": "/images/products/fujifilm/x100-v.jpg"
+    "image_url": "/images/products/fujifilm/x100-v.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1554,7 +1911,14 @@
       "X100F",
       "x100f"
     ],
-    "image_url": "/images/products/fujifilm/x100f.jpg"
+    "image_url": "/images/products/fujifilm/x100f.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1575,7 +1939,14 @@
       "X100T",
       "x100t"
     ],
-    "image_url": "/images/products/fujifilm/x100t.jpg"
+    "image_url": "/images/products/fujifilm/x100t.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1596,7 +1967,14 @@
       "X100S",
       "x100s"
     ],
-    "image_url": "/images/products/fujifilm/x100s.jpg"
+    "image_url": "/images/products/fujifilm/x100s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1617,7 +1995,14 @@
       "X100",
       "x100"
     ],
-    "image_url": "/images/products/fujifilm/x100.jpg"
+    "image_url": "/images/products/fujifilm/x100.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1642,7 +2027,14 @@
       "gfx 100 ii",
       "gfx100ii"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100-ii.jpg"
+    "image_url": "/images/products/fujifilm/gfx-100-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1666,7 +2058,14 @@
       "gfx 100s ii",
       "gfx100sii"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100s-ii.jpg"
+    "image_url": "/images/products/fujifilm/gfx-100s-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1690,7 +2089,14 @@
       "gfx 100s",
       "gfx100s"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100s.jpg"
+    "image_url": "/images/products/fujifilm/gfx-100s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -1712,6 +2118,13 @@
       "GFX50SII",
       "gfx 50s ii",
       "gfx50sii"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
     ]
   },
   {
@@ -1735,7 +2148,14 @@
       "gfx 50r",
       "gfx50r"
     ],
-    "image_url": "/images/products/fujifilm/gfx-50r.jpg"
+    "image_url": "/images/products/fujifilm/gfx-50r.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1773,7 +2193,14 @@
     "batterySpec": "LP-E19 (Approx. 700 shots CIPA)",
     "cardSlots": "2x CFexpress Type B",
     "image_url": "/images/products/canon/canon-eos-r1.jpg",
-    "category": "Professional"
+    "category": "Professional",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1808,7 +2235,14 @@
     "dimensions": "150.0 x 142.6 x 87.2 mm",
     "image_url": "/images/products/canon/canon-eos-r3.jpg",
     "category": "Professional",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1844,7 +2278,14 @@
     "cardSlots": "1x CFexpress Type B, 1x SD UHS-II",
     "image_url": "/images/products/canon/canon-eos-r5-ii.jpg",
     "category": "Professional",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1876,7 +2317,14 @@
     "category": "Enthusiast",
     "sensorType": "45MP Full-frame BSI CMOS",
     "ibisRating": "8.0 stops (CIPA)",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1910,7 +2358,14 @@
     "dimensions": "138.4 x 98.4 x 88.4 mm",
     "image_url": "/images/products/canon/canon-eos-r6-ii.jpg",
     "category": "Professional",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1940,7 +2395,14 @@
     "dimensions": "138.4 x 97.5 x 88.4 mm",
     "image_url": "/images/products/canon/canon-eos-r6.jpg",
     "category": "Enthusiast",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -1974,7 +2436,14 @@
     "image_url": "/images/products/canon/canon-eos-r8.jpg",
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "sensorType": "24.2MP FSI-CMOS (High Speed)"
+    "sensorType": "24.2MP FSI-CMOS (High Speed)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2006,7 +2475,14 @@
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "sensorType": "30.3MP FSI-CMOS",
-    "ibisRating": "No IBIS"
+    "ibisRating": "No IBIS",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2038,7 +2514,14 @@
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "sensorType": "26.2MP FSI-CMOS",
-    "ibisRating": "No IBIS"
+    "ibisRating": "No IBIS",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2076,7 +2559,14 @@
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "sensorType": "32.5MP APS-C FSI-CMOS",
-    "ibisRating": "8.0 stops (CIPA)"
+    "ibisRating": "8.0 stops (CIPA)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2115,7 +2605,14 @@
     "image_url": "/images/products/canon/canon-eos-r10.jpg",
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "ibisRating": "No IBIS"
+    "ibisRating": "No IBIS",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2153,7 +2650,14 @@
     "category": "Enthusiast",
     "sensorType": "24.2MP APS-C FSI-CMOS",
     "ibisRating": "No IBIS",
-    "lcdSpec": "3.0-inch Vari-angle Touchscreen"
+    "lcdSpec": "3.0-inch Vari-angle Touchscreen",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -2191,7 +2695,14 @@
     "image_url": "/images/products/canon/canon-eos-r100.jpg",
     "category": "Enthusiast",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "ibisRating": "No IBIS"
+    "ibisRating": "No IBIS",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2228,7 +2739,14 @@
     "cardSlots": "2x CFexpress Type B / XQD",
     "ports": "USB-C (3.2 Gen 2), HDMI Type A, RJ-45, Mic, Headphone, 10-pin Terminal",
     "isoRange": "64-25600 (Ext: 32-102400)",
-    "image_url": "/images/products/nikon/nikon-z9.jpg"
+    "image_url": "/images/products/nikon/nikon-z9.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2264,7 +2782,14 @@
     "lcdSpec": "3.2-inch 2.1M-dot 4-axis Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "Dual USB-C (Data + Power), HDMI Type A, Mic, Headphone, 10-pin",
-    "image_url": "/images/products/nikon/nikon-z8.jpg"
+    "image_url": "/images/products/nikon/nikon-z8.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2297,7 +2822,14 @@
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "isoRange": "64-25600 (Ext: 32-102400)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/nikon-z7-ii.jpg"
+    "image_url": "/images/products/nikon/nikon-z7-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2330,7 +2862,14 @@
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
     "ibisRating": "5.0 stops (CIPA)",
-    "image_url": "/images/products/nikon/nikon-z7.jpg"
+    "image_url": "/images/products/nikon/nikon-z7.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2366,7 +2905,14 @@
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "USB-C, HDMI Type A, Mic, Headphone",
     "isoRange": "100-64000 (Ext: 50-204800)",
-    "image_url": "/images/products/nikon/nikon-z6-iii.jpg"
+    "image_url": "/images/products/nikon/nikon-z6-iii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2399,7 +2945,14 @@
     "lcdSpec": "3.2-inch 2.1M-dot Tilting Touchscreen",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/nikon-z6-ii.jpg"
+    "image_url": "/images/products/nikon/nikon-z6-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2432,7 +2985,14 @@
     "weightGrams": "Approx. 675 g (including battery and card)",
     "dimensions": "134.0 x 100.5 x 67.5 mm",
     "ibisRating": "5.0 stops (CIPA)",
-    "image_url": "/images/products/nikon/nikon-z6.jpg"
+    "image_url": "/images/products/nikon/nikon-z6.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2465,7 +3025,14 @@
     "cardSlots": "2x SD (UHS-II)",
     "isoRange": "100-51200 (Ext: 50-102400)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/nikon-z5.jpg"
+    "image_url": "/images/products/nikon/nikon-z5.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2500,7 +3067,14 @@
     "lcdSpec": "3.2-inch 2.1M-dot Vari-angle Touchscreen",
     "cardSlots": "1x SD (UHS-II) + 1x MicroSD (UHS-I)",
     "isoRange": "100-64000 (Ext: 50-204800)",
-    "image_url": "/images/products/nikon/nikon-zf.jpg"
+    "image_url": "/images/products/nikon/nikon-zf.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2528,7 +3102,14 @@
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "ibisRating": "No (Lens OIS support)",
     "dimensions": "134.5 x 93.5 x 43.5 mm",
-    "image_url": "/images/products/nikon/nikon-zfc.jpg"
+    "image_url": "/images/products/nikon/nikon-zfc.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2561,7 +3142,14 @@
     "weightGrams": "Approx. 450 g (including battery and card)",
     "dimensions": "126.5 x 93.5 x 60.0 mm",
     "ibisRating": "No IBIS (Lens-shift only)",
-    "image_url": "/images/products/nikon/nikon-z50.jpg"
+    "image_url": "/images/products/nikon/nikon-z50.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -2590,7 +3178,14 @@
     "cardSlots": "1x SD (UHS-I)",
     "isoRange": "100-51200 (Ext: 204800)",
     "sensorType": "BSI CMOS",
-    "image_url": "/images/products/nikon/nikon-z30.jpg"
+    "image_url": "/images/products/nikon/nikon-z30.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -2627,6 +3222,13 @@
       "AlphaFE12-24mmF2.8GM",
       "F12-24mm F2.8 GM",
       "FE 12-24mm F2.8 GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2665,6 +3267,13 @@
       "F16-35mm F2.8 GM II",
       "FE 16-35mm F2.8 GM II",
       "Sony Alpha FE 16-35mm F2.8 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2703,6 +3312,13 @@
       "F24-70mm F2.8 GM II",
       "FE 24-70mm F2.8 GM II",
       "Sony Alpha FE 24-70mm F2.8 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2741,6 +3357,13 @@
       "F70-200mm F2.8 GM OSS II",
       "FE 70-200mm F2.8 GM OSS II",
       "Sony Alpha FE 70-200mm F2.8 GM OSS 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2778,6 +3401,13 @@
       "AlphaFE200-600mmF5.6-6.3GOSS",
       "F200-600mm F5.6-6.3 G OSS",
       "FE 200-600mm F5.6-6.3 G OSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2815,6 +3445,13 @@
       "AlphaFE35mmF1.4GM",
       "F35mm F1.4 GM",
       "FE 35mm F1.4 GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2852,6 +3489,13 @@
       "AlphaFE50mmF1.2GM",
       "F50mm F1.2 GM",
       "FE 50mm F1.2 GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2889,6 +3533,13 @@
       "AlphaFE85mmF1.4GM",
       "F85mm F1.4 GM",
       "FE 85mm F1.4 GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -2926,6 +3577,13 @@
       "FE 55mm F1.8 ZA",
       "Sony fe 55mm f1.8 za",
       "fe 55mm f1.8 za"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -3447,7 +4105,14 @@
       "XF 8-16mm F2.8 R LM WR",
       "XF8-16mmF2.8RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-8-16mm-f2-8-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-8-16mm-f2-8-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3483,7 +4148,14 @@
       "XF 10-24mm F4 R OIS WR",
       "XF10-24mmF4ROISWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-10-24mm-f4-r-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-10-24mm-f4-r-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3519,7 +4191,14 @@
       "XF 16-55mm F2.8 R LM WR",
       "XF16-55mmF2.8RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3555,7 +4234,14 @@
       "xf 18-55mm f2.8-4 r lm ois",
       "xf18-55mmf2.8-4rlmois"
     ],
-    "image_url": "/images/products/fujifilm/xf-18-55mm-f2-8-4-r-lm-ois.jpg"
+    "image_url": "/images/products/fujifilm/xf-18-55mm-f2-8-4-r-lm-ois.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3591,7 +4277,14 @@
       "XF 50-140mm F2.8 R LM OIS WR",
       "XF50-140mmF2.8RLMOISWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-50-140mm-f2-8-r-lm-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-50-140mm-f2-8-r-lm-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3627,7 +4320,14 @@
       "XF 33mm F1.4 R LM WR",
       "XF33mmF1.4RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-33mm-f1-4-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-33mm-f1-4-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -3663,7 +4363,14 @@
       "XF 56mm F1.2 R WR",
       "XF56mmF1.2RWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-56mm-f1-2-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-56mm-f1-2-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -3707,7 +4414,14 @@
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.28m",
-    "filterSize": "82mm"
+    "filterSize": "82mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -3751,7 +4465,14 @@
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.21m",
-    "filterSize": "82mm"
+    "filterSize": "82mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -3795,7 +4516,14 @@
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.70m",
-    "filterSize": "77mm"
+    "filterSize": "77mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -3839,7 +4567,14 @@
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.39m",
-    "filterSize": "95mm"
+    "filterSize": "95mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Canon",
@@ -3883,7 +4618,14 @@
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.40m",
-    "filterSize": "77mm"
+    "filterSize": "77mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -3925,7 +4667,14 @@
     "image_url": "/images/products/nikon/nikon-z-14-24mm-f-2-8-s.jpg",
     "minFocusDistance": "0.28m",
     "filterSize": "112mm (via Hood)",
-    "coating": "Nano Crystal, Arneo, Fluorine"
+    "coating": "Nano Crystal, Arneo, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -3967,7 +4716,14 @@
     "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s.jpg",
     "minFocusDistance": "0.38m",
     "filterSize": "82mm",
-    "coating": "Nano Crystal, Arneo, Fluorine"
+    "coating": "Nano Crystal, Arneo, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -4009,7 +4765,14 @@
     "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s.jpg",
     "minFocusDistance": "0.5m - 1.0m",
     "filterSize": "77mm",
-    "coating": "Nano Crystal, Arneo, Fluorine"
+    "coating": "Nano Crystal, Arneo, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -4051,7 +4814,14 @@
     "image_url": "/images/products/nikon/nikon-z-135mm-f-1-8-s-plena.jpg",
     "minFocusDistance": "0.82m",
     "filterSize": "82mm",
-    "coating": "Meso Amorphous, Arneo"
+    "coating": "Meso Amorphous, Arneo",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Nikon",
@@ -4090,7 +4860,14 @@
     ],
     "dimensions": "φ89.5 x 150 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-2-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-2-s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "brand": "Laowa",
@@ -4266,6 +5043,13 @@
       "14mm F1.8 GM",
       "Alpha 14mm F1.8 GM",
       "Alpha14mmF1.8GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -4373,6 +5157,13 @@
       "16mm F1.8 G",
       "Alpha 16mm F1.8 G",
       "Alpha16mmF1.8G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -4621,6 +5412,13 @@
       "20mm F1.8 G",
       "Alpha 20mm F1.8 G",
       "Alpha20mmF1.8G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -4901,6 +5699,13 @@
       "24mm F1.4 GM",
       "Alpha 24mm F1.4 GM",
       "Alpha24mmF1.4GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5112,6 +5917,13 @@
       "24mm F2.8 G",
       "Alpha 24mm F2.8 G",
       "Alpha24mmF2.8G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5325,6 +6137,13 @@
       "Alpha 28mm f2.0",
       "Alpha28mmf2.0",
       "Sony 28mm f2.0"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5676,6 +6495,13 @@
       "35mm F1.4 GM",
       "Alpha 35mm F1.4 GM",
       "Alpha35mmF1.4GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5712,6 +6538,13 @@
       "Alpha 35mm f1.4 za",
       "Alpha35mmf1.4za",
       "Sony 35mm f1.4 za"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5784,6 +6617,13 @@
       "Alpha 35mm f1.8",
       "Alpha35mmf1.8",
       "Sony 35mm f1.8"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -5959,6 +6799,13 @@
       "Alpha 35mm f2.8 za",
       "Alpha35mmf2.8za",
       "Sony 35mm f2.8 za"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6101,6 +6948,13 @@
       "40mm F2.5 G",
       "Alpha 40mm F2.5 G",
       "Alpha40mmF2.5G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6311,6 +7165,13 @@
       "50mm F1.2 GM",
       "Alpha 50mm F1.2 GM",
       "Alpha50mmF1.2GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6453,7 +7314,14 @@
       "Alpha 50mm F1.4 GM",
       "Alpha50mmF1.4GM"
     ],
-    "dimensions": "φ80.6 x 96.0 mm"
+    "dimensions": "φ80.6 x 96.0 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -6489,6 +7357,13 @@
       "Alpha 50mm f1.4 za",
       "Alpha50mmf1.4za",
       "Sony 50mm f1.4 za"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6735,6 +7610,13 @@
       "50mm F2.5 G",
       "Alpha 50mm F2.5 G",
       "Alpha50mmF2.5G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6771,6 +7653,13 @@
       "Alpha 50mm f2.8 marcro",
       "Alpha50mmf2.8marcro",
       "Sony 50mm f2.8 marcro"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -6807,6 +7696,13 @@
       "Alpha 55mm f1.8 za",
       "Alpha55mmf1.8za",
       "Sony 55mm f1.8 za"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7156,6 +8052,13 @@
       "85mm F1.4 GM",
       "Alpha 85mm F1.4 GM",
       "Alpha85mmF1.4GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7193,6 +8096,13 @@
       "Alpha 85mm F1.4 GM II",
       "Alpha85mmF1.4GMII",
       "Sony Alpha 85mm F1.4 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7580,6 +8490,13 @@
       "90mm F2.8 G Macro OSS",
       "Alpha 90mm F2.8 G Macro OSS",
       "Alpha90mmF2.8GMacroOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7719,6 +8636,13 @@
       "100mm F2.8 GM OSS STF",
       "Alpha 100mm F2.8 GM OSS STF",
       "Alpha100mmF2.8GMOSSSTF"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7755,6 +8679,13 @@
       "100mm F2.8 GM OSS Marco",
       "Alpha 100mm F2.8 GM OSS Marco",
       "Alpha100mmF2.8GMOSSMarco"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -7966,6 +8897,13 @@
       "135mm F1.8 GM",
       "Alpha 135mm F1.8 GM",
       "Alpha135mmF1.8GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8177,6 +9115,13 @@
       "300mm F2.8 GM OSS",
       "Alpha 300mm F2.8 GM OSS",
       "Alpha300mmF2.8GMOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8213,6 +9158,13 @@
       "400mm F2.8 GM OSS",
       "Alpha 400mm F2.8 GM OSS",
       "Alpha400mmF2.8GMOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8284,6 +9236,13 @@
       "600mm F4.0 GM OSS",
       "Alpha 600mm F4.0 GM OSS",
       "Alpha600mmF4.0GMOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8320,6 +9279,13 @@
       "1224gm",
       "Alpha 12-24mm F2.8 GM",
       "Alpha12-24mmF2.8GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8356,6 +9322,13 @@
       "1224g",
       "Alpha 12-24mm F4 G",
       "Alpha12-24mmF4G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8427,6 +9400,13 @@
       "1625g",
       "Alpha 16-25mm F2.8 G",
       "Alpha16-25mmF2.8G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8533,6 +9513,13 @@
       "1635gm",
       "Alpha 16-35mm F2.8 GM",
       "Alpha16-35mmF2.8GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8570,6 +9557,13 @@
       "Alpha 16-35mm F2.8 GM II",
       "Alpha16-35mmF2.8GMII",
       "Sony Alpha 16-35mm F2.8 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8606,6 +9600,13 @@
       "1635g",
       "Alpha 16-35mm T3.1 G",
       "Alpha16-35mmT3.1G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8642,6 +9643,13 @@
       "Alpha 16-35mm f4 za oss",
       "Alpha16-35mmf4zaoss",
       "Sony 16-35mm f4 za oss"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8678,6 +9686,13 @@
       "1635g",
       "Alpha 16-35mm F4 G PZ",
       "Alpha16-35mmF4GPZ"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8819,6 +9834,13 @@
       "2070g",
       "Alpha 20-70mm F4 G",
       "Alpha20-70mmF4G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8890,6 +9912,13 @@
       "2450g",
       "Alpha 24-50mm F2.8 G",
       "Alpha24-50mmF2.8G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -8997,6 +10026,13 @@
       "2470gm",
       "Alpha 24-70mm F2.8 GM",
       "Alpha24-70mmF2.8GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9034,6 +10070,13 @@
       "Alpha 24-70mm F2.8 GM II",
       "Alpha24-70mmF2.8GMII",
       "Sony Alpha 24-70mm F2.8 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9070,6 +10113,13 @@
       "Alpha 24-70mm f4 za oss",
       "Alpha24-70mmf4zaoss",
       "Sony 24-70mm f4 za oss"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9106,6 +10156,13 @@
       "24105g",
       "Alpha 24-105mm F4 G",
       "Alpha24-105mmF4G"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9142,6 +10199,13 @@
       "Alpha 24-240mm f3.5-6.3 oss",
       "Alpha24-240mmf3.5-6.3oss",
       "Sony 24-240mm f3.5-6.3 oss"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9248,6 +10312,13 @@
       "Alpha 28-60mm f4-5.6",
       "Alpha28-60mmf4-5.6",
       "Sony 28-60mm f4-5.6"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9284,6 +10355,13 @@
       "2870gm",
       "Alpha 28-70mm F2.0 GM",
       "Alpha28-70mmF2.0GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9355,6 +10433,13 @@
       "Alpha 28-70mm f3.5-5.6 oss",
       "Alpha28-70mmf3.5-5.6oss",
       "Sony 28-70mm f3.5-5.6 oss"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9496,6 +10581,13 @@
       "28135g",
       "Alpha 28-135mm F4 G OSS PZ",
       "Alpha28-135mmF4GOSSPZ"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9707,6 +10799,13 @@
       "50150gm",
       "Alpha 50-150mm F2.0 GM",
       "Alpha50-150mmF2.0GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9953,6 +11052,13 @@
       "70200gm",
       "Alpha 70-200mm F2.8 GM OSS",
       "Alpha70-200mmF2.8GMOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -9990,6 +11096,13 @@
       "Alpha 70-200mm F2.8 GM OSS II",
       "Alpha70-200mmF2.8GMOSSII",
       "Sony Alpha 70-200mm F2.8 GM OSS 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10026,6 +11139,13 @@
       "70200g",
       "Alpha 70-200mm F4 G OSS",
       "Alpha70-200mmF4GOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10063,6 +11183,13 @@
       "Alpha 70-200mm F4 G OSS II",
       "Alpha70-200mmF4GOSSII",
       "Sony Alpha 70-200mm F4 G OSS 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10099,6 +11226,13 @@
       "70300g",
       "Alpha 70-300mm F4.5-5.6 G OSS",
       "Alpha70-300mmF4.5-5.6GOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10170,6 +11304,13 @@
       "100400gm",
       "Alpha 100-400mm F4.5-5.6 GM OSS",
       "Alpha100-400mmF4.5-5.6GMOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10276,6 +11417,13 @@
       "200600g",
       "Alpha 200-600mm F5.6-6.3 G OSS",
       "Alpha200-600mmF5.6-6.3GOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -10347,6 +11495,13 @@
       "400800g",
       "Alpha 400-800mm F6.3-8.0 G OSS",
       "Alpha400-800mmF6.3-8.0GOSS"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -11614,7 +12769,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -11648,7 +12810,14 @@
     "processor": "BIONZ XR",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sony",
@@ -11685,6 +12854,13 @@
       "AlphaFE28-70mmF2GM",
       "F28-70mm F2 GM",
       "FE 28-70mm F2 GM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -11723,6 +12899,13 @@
       "F85mm F1.4 GM II",
       "FE 85mm F1.4 GM II",
       "Sony Alpha FE 85mm F1.4 GM 2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -11761,6 +12944,13 @@
       "E11MMF1.8",
       "Sony e 11mm f1.8",
       "e 11mm f1.8"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
     ]
   },
   {
@@ -11804,7 +12994,14 @@
     "processor": "BIONZ XR + AI Processing Unit",
     "dimensions": "131.3 x 96.9 x 79.8 mm",
     "weightGrams": "Approx. 658 g (including battery and card)",
-    "isoRange": "100-51200 (Ext: 50-204800)"
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "brand": "Sigma",
@@ -11884,7 +13081,14 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "minFocusDistance": "0.28m",
     "filterSize": "67mm",
-    "coating": "ASC, Fluorine"
+    "coating": "ASC, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "opticalDesign": "15 elements in 10 groups",
@@ -11912,7 +13116,14 @@
     "launchPrice": 84900,
     "minAperture": "16",
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-2-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-2-s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "opticalDesign": "12 groups, 17 elements",
@@ -11948,7 +13159,14 @@
       "XF 16-55mm F2.8 R LM WR II",
       "XF16-55mmF2.8RLMWRII"
     ],
-    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr-ii.jpg"
+    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Sigma",
@@ -12010,7 +13228,14 @@
       "Z24-120"
     ],
     "launchPrice": 33900,
-    "image_url": "/images/products/nikon/nikon-z-24-120mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-120mm-f-4-s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-100-400mm-f-4-5-5-6-vr-s",
@@ -12038,7 +13263,14 @@
       "Z100-400"
     ],
     "launchPrice": 82000,
-    "image_url": "/images/products/nikon/nikon-z-100-400mm-f-4-5-5-6-vr-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-100-400mm-f-4-5-5-6-vr-s.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-85mm-f1-2l-usm",
@@ -12070,7 +13302,14 @@
     "maxMagnification": "0.12x",
     "minFocusDistance": "0.85m",
     "filterSize": "82mm",
-    "dimensions": "ø103.2 x 117.3 mm"
+    "dimensions": "ø103.2 x 117.3 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -12102,7 +13341,14 @@
     "maxMagnification": "0.26x",
     "minFocusDistance": "0.70m",
     "filterSize": "82mm",
-    "dimensions": "ø89.2 x 130.3 mm"
+    "dimensions": "ø89.2 x 130.3 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -12135,7 +13381,14 @@
     "maxMagnification": "1.4x",
     "minFocusDistance": "0.26m",
     "filterSize": "67mm",
-    "dimensions": "ø81.5 x 148.0 mm"
+    "dimensions": "ø81.5 x 148.0 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -12167,7 +13420,14 @@
     "maxMagnification": "0.33x",
     "minFocusDistance": "0.90m",
     "filterSize": "77mm",
-    "dimensions": "ø93.8 x 207.6 mm"
+    "dimensions": "ø93.8 x 207.6 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-24-105mm-f4l-is-usm",
@@ -12196,6 +13456,13 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 24-105mm F4 L IS USM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
     ]
   },
   {
@@ -12225,6 +13492,13 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 24-105mm F2.8 L IS USM Z"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
     ]
   },
   {
@@ -12254,6 +13528,13 @@
     "evfResolution": "OLED Color EVF (Professional Standard)",
     "aliases": [
       "RF 10-20mm F4 L IS STM"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
     ]
   },
   {
@@ -12286,7 +13567,14 @@
     "maxMagnification": "0.25x",
     "minFocusDistance": "0.30m",
     "filterSize": "43mm",
-    "dimensions": "ø69.2 x 40.5 mm"
+    "dimensions": "ø69.2 x 40.5 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-58mm-f-0-95-s-noct",
@@ -12314,6 +13602,13 @@
     "aliases": [
       "Z 58mm f/0.95 S Noct",
       "Z58mmf/0.95SNoct"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -12342,6 +13637,13 @@
     "aliases": [
       "Z 105mm f/2.8 VR S Micro",
       "Z105mmf/2.8VRSMicro"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -12370,7 +13672,14 @@
     "minFocusDistance": "0.28m",
     "filterSize": "82mm",
     "dimensions": "ø89 x 85 mm",
-    "coating": "Nano Crystal, Fluorine"
+    "coating": "Nano Crystal, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-24-200mm-f-4-6-3-vr",
@@ -12398,7 +13707,14 @@
     "minFocusDistance": "0.50m",
     "filterSize": "67mm",
     "dimensions": "ø76.5 x 114 mm",
-    "coating": "ARNEO, Fluorine"
+    "coating": "ARNEO, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
@@ -12426,6 +13742,13 @@
     "aliases": [
       "Z 180-600mm f/5.6-6.3 VR",
       "Z180-600mmf/5.6-6.3VR"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -12454,7 +13777,14 @@
     "minFocusDistance": "0.80m",
     "filterSize": "67mm",
     "dimensions": "ø75 x 99 mm",
-    "coating": "Nano Crystal"
+    "coating": "Nano Crystal",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-50mm-f-1-8-s",
@@ -12482,7 +13812,14 @@
     "minFocusDistance": "0.40m",
     "filterSize": "62mm",
     "dimensions": "ø76 x 86.5 mm",
-    "coating": "Nano Crystal"
+    "coating": "Nano Crystal",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-35mm-f-1-8-s",
@@ -12510,7 +13847,14 @@
     "minFocusDistance": "0.25m",
     "filterSize": "62mm",
     "dimensions": "ø73 x 86 mm",
-    "coating": "Nano Crystal"
+    "coating": "Nano Crystal",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "xf-35mm-f1-4-r",
@@ -12528,7 +13872,14 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "R-Series",
-    "image_url": "/images/products/fujifilm/xf-35mm-f1-4-r.jpg"
+    "image_url": "/images/products/fujifilm/xf-35mm-f1-4-r.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-23mm-f1-4-r-lm-wr",
@@ -12546,7 +13897,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-23mm-f1-4-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-23mm-f1-4-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-18mm-f1-4-r-lm-wr",
@@ -12564,7 +13922,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-18mm-f1-4-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-18mm-f1-4-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-90mm-f2-r-lm-wr",
@@ -12582,7 +13947,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-90mm-f2-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-90mm-f2-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "gf-32-64mm-f4-r-lm-wr",
@@ -12600,7 +13972,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-32-64mm-f4-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/gf-32-64mm-f4-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "id": "gf-110mm-f2-r-lm-wr",
@@ -12618,7 +13997,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-110mm-f2-r-lm-wr.jpg"
+    "image_url": "/images/products/fujifilm/gf-110mm-f2-r-lm-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "id": "gf-80mm-f1-7-r-wr",
@@ -12636,7 +14022,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-80mm-f1-7-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/gf-80mm-f1-7-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "id": "gf-45-100mm-f4-r-lm-ois-wr",
@@ -12654,7 +14047,14 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-45-100mm-f4-r-lm-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/gf-45-100mm-f4-r-lm-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-16mm-f2-8-stm",
@@ -12686,7 +14086,14 @@
     "maxMagnification": "0.26x",
     "minFocusDistance": "0.13m",
     "filterSize": "43mm",
-    "dimensions": "ø69.2 x 40.1 mm"
+    "dimensions": "ø69.2 x 40.1 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -12718,7 +14125,14 @@
     "maxMagnification": "0.50x",
     "minFocusDistance": "0.14m",
     "filterSize": "52mm",
-    "dimensions": "ø74.4 x 63.1 mm"
+    "dimensions": "ø74.4 x 63.1 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -12750,7 +14164,14 @@
     "maxMagnification": "0.17x",
     "minFocusDistance": "0.23m",
     "filterSize": "55mm",
-    "dimensions": "ø69.2 x 24.7 mm"
+    "dimensions": "ø69.2 x 24.7 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -12782,7 +14203,14 @@
     "maxMagnification": "0.50x",
     "minFocusDistance": "0.17m",
     "filterSize": "52mm",
-    "dimensions": "ø74.4 x 62.8 mm"
+    "dimensions": "ø74.4 x 62.8 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -12814,7 +14242,14 @@
     "maxMagnification": "0.41x",
     "minFocusDistance": "0.88m",
     "filterSize": "67mm",
-    "dimensions": "ø79.5 x 164.7 mm"
+    "dimensions": "ø79.5 x 164.7 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-600mm-f11-is-stm",
@@ -12846,7 +14281,14 @@
     "maxMagnification": "0.14x",
     "minFocusDistance": "4.50m",
     "filterSize": "82mm",
-    "dimensions": "ø93.0 x 199.5 mm"
+    "dimensions": "ø93.0 x 199.5 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-800mm-f11-is-stm",
@@ -12878,7 +14320,14 @@
     "maxMagnification": "0.14x",
     "minFocusDistance": "6.00m",
     "filterSize": "95mm",
-    "dimensions": "ø101.6 x 281.8 mm"
+    "dimensions": "ø101.6 x 281.8 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-24-105mm-f4-7-1-is-stm",
@@ -12910,7 +14359,14 @@
     "maxMagnification": "0.4x (AF) / 0.5x (MF)",
     "minFocusDistance": "0.20m (AF) / 0.13m (MF)",
     "filterSize": "67mm",
-    "dimensions": "ø76.6 x 88.8 mm"
+    "dimensions": "ø76.6 x 88.8 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -12942,7 +14398,14 @@
     "maxMagnification": "0.16x (AF) / 0.26x (MF)",
     "minFocusDistance": "0.20m (AF) / 0.15m (MF)",
     "filterSize": "49mm",
-    "dimensions": "ø69.0 x 44.3 mm"
+    "dimensions": "ø69.0 x 44.3 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -12974,7 +14437,14 @@
     "maxMagnification": "0.23x (AF) / 0.50x (MF)",
     "minFocusDistance": "0.14m (AF) / 0.086m (MF)",
     "filterSize": "49mm",
-    "dimensions": "ø69.0 x 44.9 mm"
+    "dimensions": "ø69.0 x 44.9 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -13006,7 +14476,14 @@
     "maxMagnification": "0.44x (AF) / 0.59x (MF)",
     "minFocusDistance": "0.17m (AF) / 0.12m (MF)",
     "filterSize": "55mm",
-    "dimensions": "ø69.0 x 84.5 mm"
+    "dimensions": "ø69.0 x 84.5 mm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-20mm-f-1-8-s",
@@ -13034,7 +14511,14 @@
     "minFocusDistance": "0.20m",
     "filterSize": "77mm",
     "dimensions": "ø84.5 x 108.5 mm",
-    "coating": "Nano Crystal"
+    "coating": "Nano Crystal",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-24mm-f-1-8-s",
@@ -13062,7 +14546,14 @@
     "minFocusDistance": "0.25m",
     "filterSize": "72mm",
     "dimensions": "ø78 x 96.5 mm",
-    "coating": "Nano Crystal"
+    "coating": "Nano Crystal",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-26mm-f-2-8",
@@ -13090,6 +14581,13 @@
     "aliases": [
       "Z 26mm f/2.8",
       "Z26mmf/2.8"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13118,6 +14616,13 @@
     "aliases": [
       "Z 28mm f/2.8",
       "Z28mmf/2.8"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13146,6 +14651,13 @@
     "aliases": [
       "Z 40mm f/2",
       "Z40mmf/2"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13174,7 +14686,14 @@
     "minFocusDistance": "0.30m",
     "filterSize": "72mm",
     "dimensions": "ø77.5 x 88.5 mm",
-    "coating": "Nano Crystal, Fluorine"
+    "coating": "Nano Crystal, Fluorine",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-dx-16-50mm-f-3-5-6-3-vr",
@@ -13202,6 +14721,13 @@
     "aliases": [
       "Z DX 16-50mm f/3.5-6.3 VR",
       "ZDX16-50mmf/3.5-6.3VR"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13230,7 +14756,14 @@
     "minFocusDistance": "0.50m",
     "filterSize": "62mm",
     "dimensions": "ø74 x 110 mm",
-    "coating": "Super Integrated (SIC)"
+    "coating": "Super Integrated (SIC)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
@@ -13258,7 +14791,14 @@
     "minFocusDistance": "0.19m",
     "filterSize": "67mm",
     "dimensions": "ø72 x 63.5 mm",
-    "coating": "Super Integrated (SIC)"
+    "coating": "Super Integrated (SIC)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
@@ -13286,7 +14826,14 @@
     "minFocusDistance": "0.20m",
     "filterSize": "62mm",
     "dimensions": "ø73 x 90 mm",
-    "coating": "Super Integrated (SIC)"
+    "coating": "Super Integrated (SIC)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-24-50mm-f-4-6-3",
@@ -13314,7 +14861,14 @@
     "minFocusDistance": "0.35m",
     "filterSize": "52mm",
     "dimensions": "ø73.5 x 51 mm",
-    "coating": "Super Integrated (SIC)"
+    "coating": "Super Integrated (SIC)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-z-28-75mm-f-2-8",
@@ -13342,6 +14896,13 @@
     "aliases": [
       "Z 28-75mm f/2.8",
       "Z28-75mmf/2.8"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13360,7 +14921,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-23mm-f2-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-23mm-f2-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-35mm-f2-r-wr",
@@ -13378,7 +14946,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-35mm-f2-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-35mm-f2-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-50mm-f2-r-wr",
@@ -13396,7 +14971,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-50mm-f2-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-50mm-f2-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-27mm-f2-8-r-wr",
@@ -13414,7 +14996,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-27mm-f2-8-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-27mm-f2-8-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-16mm-f2-8-r-wr",
@@ -13432,7 +15021,14 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-16mm-f2-8-r-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-16mm-f2-8-r-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-18-135mm-f3-5-5-6-r-lm-ois-wr",
@@ -13450,7 +15046,14 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-18-135mm-f3-5-5-6-r-lm-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-18-135mm-f3-5-5-6-r-lm-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-70-300mm-f4-5-6-r-lm-ois-wr",
@@ -13468,7 +15071,14 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-70-300mm-f4-5-6-r-lm-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-70-300mm-f4-5-6-r-lm-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
@@ -13486,7 +15096,14 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-100-400mm-f4-5-5-6-r-lm-ois-wr.jpg"
+    "image_url": "/images/products/fujifilm/xf-100-400mm-f4-5-5-6-r-lm-ois-wr.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xf-55-200mm-f3-5-4-8-r-lm-ois",
@@ -13504,7 +15121,14 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "LM",
-    "image_url": "/images/products/fujifilm/xf-55-200mm-f3-5-4-8-r-lm-ois.jpg"
+    "image_url": "/images/products/fujifilm/xf-55-200mm-f3-5-4-8-r-lm-ois.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xc-15-45mm-f3-5-5-6-ois-pz",
@@ -13522,7 +15146,14 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-15-45mm-f3-5-5-6-ois-pz.jpg"
+    "image_url": "/images/products/fujifilm/xc-15-45mm-f3-5-5-6-ois-pz.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xc-35mm-f2",
@@ -13540,7 +15171,14 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-35mm-f2.jpg"
+    "image_url": "/images/products/fujifilm/xc-35mm-f2.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "xc-50-230mm-f4-5-6-7-ois-ii",
@@ -13558,7 +15196,14 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-50-230mm-f4-5-6-7-ois-ii.jpg"
+    "image_url": "/images/products/fujifilm/xc-50-230mm-f4-5-6-7-ois-ii.jpg",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "canon-eos-r6-mark-iii",
@@ -13585,7 +15230,14 @@
     "burstSpeed": "40 fps (Electronic), 12 fps (Mechanical)",
     "category": "Professional",
     "lcdSpec": "3.0-inch Vari-angle Touchscreen",
-    "evfResolution": "OLED Color EVF (Professional Standard)"
+    "evfResolution": "OLED Color EVF (Professional Standard)",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ]
   },
   {
     "id": "nikon-zr",
@@ -13608,6 +15260,13 @@
     "aliases": [
       "ZR (Cinema Camera)",
       "ZR(CinemaCamera)"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   },
   {
@@ -13627,6 +15286,13 @@
     "aliases": [
       "Z6 III",
       "Z6III"
+    ],
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
     ]
   }
 ]
