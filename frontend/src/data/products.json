@@ -1242,7 +1242,7 @@
     "megapixels": "26.1MP (Stacked)",
     "releaseYear": 2022,
     "slug": "x-h2s",
-    "id": "x-h2s",
+    "id": "fujifilm-x-h2s",
     "videoResolution": "6.2K 30p / 4K 120p",
     "afPoints": "425 Points",
     "evfResolution": "5.76M-dot OLED",
@@ -1260,7 +1260,7 @@
     "processor": "X-Processor 5",
     "isoRange": "160-12800 (Ext: 80-51200)",
     "ibisRating": "7.0 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-h2s.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-h2s.jpg",
     "mounts": [
       {
         "mount": {
@@ -1277,7 +1277,7 @@
     "megapixels": "40.2MP",
     "releaseYear": 2022,
     "slug": "x-h2",
-    "id": "x-h2",
+    "id": "fujifilm-x-h2",
     "videoResolution": "8K 30p / 4K 60p",
     "afPoints": "425 Points",
     "evfResolution": "5.76M-dot OLED",
@@ -1293,7 +1293,7 @@
     "processor": "X-Processor 5",
     "isoRange": "125-12800 (Ext: 64-51200)",
     "ibisRating": "7.0 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-h2.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-h2.jpg",
     "mounts": [
       {
         "mount": {
@@ -1310,7 +1310,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2018,
     "slug": "x-h1",
-    "id": "x-h1",
+    "id": "fujifilm-x-h1",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1323,7 +1323,7 @@
       "x-h1",
       "xh1"
     ],
-    "image_url": "/images/products/fujifilm/x-h1.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-h1.jpg",
     "mounts": [
       {
         "mount": {
@@ -1340,7 +1340,7 @@
     "megapixels": "40.2MP",
     "releaseYear": 2022,
     "slug": "x-t5",
-    "id": "x-t5",
+    "id": "fujifilm-x-t5",
     "videoResolution": "6.2K 30p / 4K 60p",
     "afPoints": "425 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -1361,7 +1361,7 @@
     "videoColorDepth": "10-bit 4:2:2",
     "lcdSpec": "3.0-inch 1.84M-dot 3-way Tilt LCD",
     "isoRange": "125-12800 (Ext: 64-51200)",
-    "image_url": "/images/products/fujifilm/x-t5.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t5.jpg",
     "mounts": [
       {
         "mount": {
@@ -1378,7 +1378,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2020,
     "slug": "x-t4",
-    "id": "x-t4",
+    "id": "fujifilm-x-t4",
     "videoResolution": "4K 60p / 10-bit",
     "afPoints": "425 Points",
     "evfResolution": "3.69M-dot OLED",
@@ -1393,7 +1393,7 @@
     ],
     "processor": "X-Processor 4",
     "ibisRating": "6.5 stops (CIPA)",
-    "image_url": "/images/products/fujifilm/x-t4.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t4.jpg",
     "mounts": [
       {
         "mount": {
@@ -1410,7 +1410,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2018,
     "slug": "x-t3",
-    "id": "x-t3",
+    "id": "fujifilm-x-t3",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1423,7 +1423,7 @@
       "x-t3",
       "xt3"
     ],
-    "image_url": "/images/products/fujifilm/x-t3.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t3.jpg",
     "mounts": [
       {
         "mount": {
@@ -1440,7 +1440,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2016,
     "slug": "x-t2",
-    "id": "x-t2",
+    "id": "fujifilm-x-t2",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1453,7 +1453,7 @@
       "x-t2",
       "xt2"
     ],
-    "image_url": "/images/products/fujifilm/x-t2.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t2.jpg",
     "mounts": [
       {
         "mount": {
@@ -1470,7 +1470,7 @@
     "megapixels": "16.3MP",
     "releaseYear": 2014,
     "slug": "x-t1",
-    "id": "x-t1",
+    "id": "fujifilm-x-t1",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1483,7 +1483,7 @@
       "x-t1",
       "xt1"
     ],
-    "image_url": "/images/products/fujifilm/x-t1.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t1.jpg",
     "mounts": [
       {
         "mount": {
@@ -1500,7 +1500,7 @@
     "megapixels": "40.2MP",
     "releaseYear": 2024,
     "slug": "x-t50",
-    "id": "x-t50",
+    "id": "fujifilm-x-t50",
     "videoResolution": "6.2K 30p / 4K 60p",
     "afPoints": "425",
     "evfResolution": "3.69M-dot OLED",
@@ -1515,7 +1515,7 @@
       "x-t50",
       "xt50"
     ],
-    "image_url": "/images/products/fujifilm/x-t50.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t50.jpg",
     "mounts": [
       {
         "mount": {
@@ -1532,7 +1532,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2021,
     "slug": "x-t30-ii",
-    "id": "x-t30-ii",
+    "id": "fujifilm-x-t30-ii",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1549,7 +1549,7 @@
       "xt30 ii",
       "xt30ii"
     ],
-    "image_url": "/images/products/fujifilm/x-t30-ii.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t30-ii.jpg",
     "mounts": [
       {
         "mount": {
@@ -1566,7 +1566,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2019,
     "slug": "x-t30",
-    "id": "x-t30",
+    "id": "fujifilm-x-t30",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1579,7 +1579,7 @@
       "x-t30",
       "xt30"
     ],
-    "image_url": "/images/products/fujifilm/x-t30.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t30.jpg",
     "mounts": [
       {
         "mount": {
@@ -1596,7 +1596,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2017,
     "slug": "x-t20",
-    "id": "x-t20",
+    "id": "fujifilm-x-t20",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1609,7 +1609,7 @@
       "x-t20",
       "xt20"
     ],
-    "image_url": "/images/products/fujifilm/x-t20.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t20.jpg",
     "mounts": [
       {
         "mount": {
@@ -1626,7 +1626,7 @@
     "megapixels": "16.3MP",
     "releaseYear": 2015,
     "slug": "x-t10",
-    "id": "x-t10",
+    "id": "fujifilm-x-t10",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1639,7 +1639,7 @@
       "x-t10",
       "xt10"
     ],
-    "image_url": "/images/products/fujifilm/x-t10.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-t10.jpg",
     "mounts": [
       {
         "mount": {
@@ -1656,7 +1656,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2019,
     "slug": "x-pro3",
-    "id": "x-pro3",
+    "id": "fujifilm-x-pro3",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1671,7 +1671,7 @@
       "x-pro3",
       "xpro3"
     ],
-    "image_url": "/images/products/fujifilm/x-pro3.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-pro3.jpg",
     "mounts": [
       {
         "mount": {
@@ -1688,7 +1688,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2016,
     "slug": "x-pro2",
-    "id": "x-pro2",
+    "id": "fujifilm-x-pro2",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1703,7 +1703,7 @@
       "x-pro2",
       "xpro2"
     ],
-    "image_url": "/images/products/fujifilm/x-pro2.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-pro2.jpg",
     "mounts": [
       {
         "mount": {
@@ -1720,7 +1720,7 @@
     "megapixels": "16.3MP",
     "releaseYear": 2012,
     "slug": "x-pro1",
-    "id": "x-pro1",
+    "id": "fujifilm-x-pro1",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1735,7 +1735,7 @@
       "x-pro1",
       "xpro1"
     ],
-    "image_url": "/images/products/fujifilm/x-pro1.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-pro1.jpg",
     "mounts": [
       {
         "mount": {
@@ -1752,7 +1752,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2023,
     "slug": "x-s20",
-    "id": "x-s20",
+    "id": "fujifilm-x-s20",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1765,7 +1765,7 @@
       "x-s20",
       "xs20"
     ],
-    "image_url": "/images/products/fujifilm/x-s20.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-s20.jpg",
     "mounts": [
       {
         "mount": {
@@ -1782,7 +1782,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2020,
     "slug": "x-s10",
-    "id": "x-s10",
+    "id": "fujifilm-x-s10",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1795,7 +1795,7 @@
       "x-s10",
       "xs10"
     ],
-    "image_url": "/images/products/fujifilm/x-s10.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-s10.jpg",
     "mounts": [
       {
         "mount": {
@@ -1812,7 +1812,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2021,
     "slug": "x-e4",
-    "id": "x-e4",
+    "id": "fujifilm-x-e4",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1825,7 +1825,7 @@
       "x-e4",
       "xe4"
     ],
-    "image_url": "/images/products/fujifilm/x-e4.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x-e4.jpg",
     "mounts": [
       {
         "mount": {
@@ -1842,7 +1842,7 @@
     "megapixels": "40.2MP",
     "releaseYear": 2024,
     "slug": "x100v-i",
-    "id": "x100v-i",
+    "id": "fujifilm-x100v-i",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1860,7 +1860,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/fujifilm-x100v-i.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -1870,7 +1871,7 @@
     "megapixels": "26.1MP",
     "releaseYear": 2020,
     "slug": "x100-v",
-    "id": "x100-v",
+    "id": "fujifilm-x100-v",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1883,7 +1884,7 @@
       "x100 v",
       "x100v"
     ],
-    "image_url": "/images/products/fujifilm/x100-v.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x100-v.jpg",
     "mounts": [
       {
         "mount": {
@@ -1900,7 +1901,7 @@
     "megapixels": "24.3MP",
     "releaseYear": 2017,
     "slug": "x100f",
-    "id": "x100f",
+    "id": "fujifilm-x100f",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1911,7 +1912,7 @@
       "X100F",
       "x100f"
     ],
-    "image_url": "/images/products/fujifilm/x100f.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x100f.jpg",
     "mounts": [
       {
         "mount": {
@@ -1928,7 +1929,7 @@
     "megapixels": "16.3MP",
     "releaseYear": 2014,
     "slug": "x100t",
-    "id": "x100t",
+    "id": "fujifilm-x100t",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1939,7 +1940,7 @@
       "X100T",
       "x100t"
     ],
-    "image_url": "/images/products/fujifilm/x100t.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x100t.jpg",
     "mounts": [
       {
         "mount": {
@@ -1956,7 +1957,7 @@
     "megapixels": "16.3MP",
     "releaseYear": 2013,
     "slug": "x100s",
-    "id": "x100s",
+    "id": "fujifilm-x100s",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1967,7 +1968,7 @@
       "X100S",
       "x100s"
     ],
-    "image_url": "/images/products/fujifilm/x100s.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x100s.jpg",
     "mounts": [
       {
         "mount": {
@@ -1984,7 +1985,7 @@
     "megapixels": "12.3MP",
     "releaseYear": 2010,
     "slug": "x100",
-    "id": "x100",
+    "id": "fujifilm-x100",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -1995,7 +1996,7 @@
       "X100",
       "x100"
     ],
-    "image_url": "/images/products/fujifilm/x100.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-x100.jpg",
     "mounts": [
       {
         "mount": {
@@ -2012,7 +2013,7 @@
     "megapixels": "102.0MP",
     "releaseYear": 2023,
     "slug": "gfx-100-ii",
-    "id": "gfx-100-ii",
+    "id": "fujifilm-gfx-100-ii",
     "videoResolution": "8K 30p / 4K 60p",
     "afPoints": "425",
     "evfResolution": "9.44M-dot OLED",
@@ -2027,7 +2028,7 @@
       "gfx 100 ii",
       "gfx100ii"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100-ii.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-100-ii.jpg",
     "mounts": [
       {
         "mount": {
@@ -2044,7 +2045,7 @@
     "megapixels": "102.0MP",
     "releaseYear": 2024,
     "slug": "gfx-100s-ii",
-    "id": "gfx-100s-ii",
+    "id": "fujifilm-gfx-100s-ii",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -2058,7 +2059,7 @@
       "gfx 100s ii",
       "gfx100sii"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100s-ii.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-100s-ii.jpg",
     "mounts": [
       {
         "mount": {
@@ -2075,7 +2076,7 @@
     "megapixels": "102.0MP",
     "releaseYear": 2021,
     "slug": "gfx-100s",
-    "id": "gfx-100s",
+    "id": "fujifilm-gfx-100s",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -2089,7 +2090,7 @@
       "gfx 100s",
       "gfx100s"
     ],
-    "image_url": "/images/products/fujifilm/gfx-100s.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-100s.jpg",
     "mounts": [
       {
         "mount": {
@@ -2106,7 +2107,7 @@
     "megapixels": "51.4MP",
     "releaseYear": 2021,
     "slug": "gfx-50s-ii",
-    "id": "gfx-50s-ii",
+    "id": "fujifilm-gfx-50s-ii",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -2125,7 +2126,8 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-50s-ii.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -2135,7 +2137,7 @@
     "megapixels": "51.4MP",
     "releaseYear": 2018,
     "slug": "gfx-50r",
-    "id": "gfx-50r",
+    "id": "fujifilm-gfx-50r",
     "videoResolution": "--",
     "afPoints": "--",
     "evfResolution": "--",
@@ -2148,7 +2150,7 @@
       "gfx 50r",
       "gfx50r"
     ],
-    "image_url": "/images/products/fujifilm/gfx-50r.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-50r.jpg",
     "mounts": [
       {
         "mount": {
@@ -4081,7 +4083,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2018,
     "slug": "xf-8-16mm-f2-8-r-lm-wr",
-    "id": "xf-8-16mm-f2-8-r-lm-wr",
+    "id": "fujifilm-xf-8-16mm-f2-8-r-lm-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4105,7 +4107,7 @@
       "XF 8-16mm F2.8 R LM WR",
       "XF8-16mmF2.8RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-8-16mm-f2-8-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-8-16mm-f2-8-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -4124,7 +4126,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2020,
     "slug": "xf-10-24mm-f4-r-ois-wr",
-    "id": "xf-10-24mm-f4-r-ois-wr",
+    "id": "fujifilm-xf-10-24mm-f4-r-ois-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4148,7 +4150,7 @@
       "XF 10-24mm F4 R OIS WR",
       "XF10-24mmF4ROISWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-10-24mm-f4-r-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-10-24mm-f4-r-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -4167,7 +4169,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2015,
     "slug": "xf-16-55mm-f2-8-r-lm-wr",
-    "id": "xf-16-55mm-f2-8-r-lm-wr",
+    "id": "fujifilm-xf-16-55mm-f2-8-r-lm-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4191,7 +4193,7 @@
       "XF 16-55mm F2.8 R LM WR",
       "XF16-55mmF2.8RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-16-55mm-f2-8-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -4210,7 +4212,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2012,
     "slug": "xf-18-55mm-f2-8-4-r-lm-ois",
-    "id": "xf-18-55mm-f2-8-4-r-lm-ois",
+    "id": "fujifilm-xf-18-55mm-f2-8-4-r-lm-ois",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4234,7 +4236,7 @@
       "xf 18-55mm f2.8-4 r lm ois",
       "xf18-55mmf2.8-4rlmois"
     ],
-    "image_url": "/images/products/fujifilm/xf-18-55mm-f2-8-4-r-lm-ois.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-18-55mm-f2-8-4-r-lm-ois.jpg",
     "mounts": [
       {
         "mount": {
@@ -4253,7 +4255,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2014,
     "slug": "xf-50-140mm-f2-8-r-lm-ois-wr",
-    "id": "xf-50-140mm-f2-8-r-lm-ois-wr",
+    "id": "fujifilm-xf-50-140mm-f2-8-r-lm-ois-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4277,7 +4279,7 @@
       "XF 50-140mm F2.8 R LM OIS WR",
       "XF50-140mmF2.8RLMOISWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-50-140mm-f2-8-r-lm-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-50-140mm-f2-8-r-lm-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -4296,7 +4298,7 @@
     "apertureMax": 1.4,
     "releaseYear": 2021,
     "slug": "xf-33mm-f1-4-r-lm-wr",
-    "id": "xf-33mm-f1-4-r-lm-wr",
+    "id": "fujifilm-xf-33mm-f1-4-r-lm-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4320,7 +4322,7 @@
       "XF 33mm F1.4 R LM WR",
       "XF33mmF1.4RLMWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-33mm-f1-4-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-33mm-f1-4-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -4339,7 +4341,7 @@
     "apertureMax": 1.2,
     "releaseYear": 2022,
     "slug": "xf-56mm-f1-2-r-wr",
-    "id": "xf-56mm-f1-2-r-wr",
+    "id": "fujifilm-xf-56mm-f1-2-r-wr",
     "motorType": "--",
     "opticalDesign": "--",
     "minAperture": "--",
@@ -4363,7 +4365,7 @@
       "XF 56mm F1.2 R WR",
       "XF56mmF1.2RWR"
     ],
-    "image_url": "/images/products/fujifilm/xf-56mm-f1-2-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -13141,7 +13143,7 @@
     "apertureMax": "2.8",
     "modelName": "Fujifilm XF 16-55mm F2.8 R LM WR II",
     "slug": "xf-16-55mm-f2-8-r-lm-wr-ii",
-    "id": "xf-16-55mm-f2-8-r-lm-wr-ii",
+    "id": "fujifilm-xf-16-55mm-f2-8-r-lm-wr-ii",
     "minAperture": "--",
     "closeFocus": "--",
     "maxMagnification": "--",
@@ -13159,7 +13161,7 @@
       "XF 16-55mm F2.8 R LM WR II",
       "XF16-55mmF2.8RLMWRII"
     ],
-    "image_url": "/images/products/fujifilm/xf-16-55mm-f2-8-r-lm-wr-ii.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-16-55mm-f2-8-r-lm-wr-ii.jpg",
     "mounts": [
       {
         "mount": {
@@ -13871,7 +13873,7 @@
     "focusMotor": "Dual STM (Multi-focus system)"
   },
   {
-    "id": "xf-35mm-f1-4-r",
+    "id": "fujifilm-xf-35mm-f1-4-r",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 35mm F1.4 R",
     "gearType": "LENS",
@@ -13886,7 +13888,7 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "R-Series",
-    "image_url": "/images/products/fujifilm/xf-35mm-f1-4-r.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-35mm-f1-4-r.jpg",
     "mounts": [
       {
         "mount": {
@@ -13896,7 +13898,7 @@
     ]
   },
   {
-    "id": "xf-23mm-f1-4-r-lm-wr",
+    "id": "fujifilm-xf-23mm-f1-4-r-lm-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 23mm F1.4 R LM WR",
     "gearType": "LENS",
@@ -13911,7 +13913,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-23mm-f1-4-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-23mm-f1-4-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -13921,7 +13923,7 @@
     ]
   },
   {
-    "id": "xf-18mm-f1-4-r-lm-wr",
+    "id": "fujifilm-xf-18mm-f1-4-r-lm-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 18mm F1.4 R LM WR",
     "gearType": "LENS",
@@ -13936,7 +13938,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-18mm-f1-4-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-18mm-f1-4-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -13946,7 +13948,7 @@
     ]
   },
   {
-    "id": "xf-90mm-f2-r-lm-wr",
+    "id": "fujifilm-xf-90mm-f2-r-lm-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 90mm F2 R LM WR",
     "gearType": "LENS",
@@ -13961,7 +13963,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-90mm-f2-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-90mm-f2-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -13971,7 +13973,7 @@
     ]
   },
   {
-    "id": "gf-32-64mm-f4-r-lm-wr",
+    "id": "fujifilm-gf-32-64mm-f4-r-lm-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm GF 32-64mm F4 R LM WR",
     "gearType": "LENS",
@@ -13986,7 +13988,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-32-64mm-f4-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gf-32-64mm-f4-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -13996,7 +13998,7 @@
     ]
   },
   {
-    "id": "gf-110mm-f2-r-lm-wr",
+    "id": "fujifilm-gf-110mm-f2-r-lm-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm GF 110mm F2 R LM WR",
     "gearType": "LENS",
@@ -14011,7 +14013,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-110mm-f2-r-lm-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gf-110mm-f2-r-lm-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -14021,7 +14023,7 @@
     ]
   },
   {
-    "id": "gf-80mm-f1-7-r-wr",
+    "id": "fujifilm-gf-80mm-f1-7-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm GF 80mm F1.7 R WR",
     "gearType": "LENS",
@@ -14036,7 +14038,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-80mm-f1-7-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gf-80mm-f1-7-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -14046,7 +14048,7 @@
     ]
   },
   {
-    "id": "gf-45-100mm-f4-r-lm-ois-wr",
+    "id": "fujifilm-gf-45-100mm-f4-r-lm-ois-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm GF 45-100mm F4 R LM OIS WR",
     "gearType": "LENS",
@@ -14061,7 +14063,7 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "GF-Series",
-    "image_url": "/images/products/fujifilm/gf-45-100mm-f4-r-lm-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-gf-45-100mm-f4-r-lm-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -14944,7 +14946,7 @@
     "focusMotor": "STM (Stepping Motor)"
   },
   {
-    "id": "xf-23mm-f2-r-wr",
+    "id": "fujifilm-xf-23mm-f2-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 23mm F2 R WR",
     "gearType": "LENS",
@@ -14959,7 +14961,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-23mm-f2-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-23mm-f2-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -14969,7 +14971,7 @@
     ]
   },
   {
-    "id": "xf-35mm-f2-r-wr",
+    "id": "fujifilm-xf-35mm-f2-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 35mm F2 R WR",
     "gearType": "LENS",
@@ -14984,7 +14986,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-35mm-f2-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-35mm-f2-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -14994,7 +14996,7 @@
     ]
   },
   {
-    "id": "xf-50mm-f2-r-wr",
+    "id": "fujifilm-xf-50mm-f2-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 50mm F2 R WR",
     "gearType": "LENS",
@@ -15009,7 +15011,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-50mm-f2-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-50mm-f2-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15019,7 +15021,7 @@
     ]
   },
   {
-    "id": "xf-27mm-f2-8-r-wr",
+    "id": "fujifilm-xf-27mm-f2-8-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 27mm F2.8 R WR",
     "gearType": "LENS",
@@ -15034,7 +15036,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-27mm-f2-8-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-27mm-f2-8-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15044,7 +15046,7 @@
     ]
   },
   {
-    "id": "xf-16mm-f2-8-r-wr",
+    "id": "fujifilm-xf-16mm-f2-8-r-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 16mm F2.8 R WR",
     "gearType": "LENS",
@@ -15059,7 +15061,7 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "R WR",
-    "image_url": "/images/products/fujifilm/xf-16mm-f2-8-r-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-16mm-f2-8-r-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15069,7 +15071,7 @@
     ]
   },
   {
-    "id": "xf-18-135mm-f3-5-5-6-r-lm-ois-wr",
+    "id": "fujifilm-xf-18-135mm-f3-5-5-6-r-lm-ois-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 18-135mm F3.5-5.6 R LM OIS WR",
     "gearType": "LENS",
@@ -15084,7 +15086,7 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-18-135mm-f3-5-5-6-r-lm-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-18-135mm-f3-5-5-6-r-lm-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15094,7 +15096,7 @@
     ]
   },
   {
-    "id": "xf-70-300mm-f4-5-6-r-lm-ois-wr",
+    "id": "fujifilm-xf-70-300mm-f4-5-6-r-lm-ois-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 70-300mm F4-5.6 R LM OIS WR",
     "gearType": "LENS",
@@ -15109,7 +15111,7 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-70-300mm-f4-5-6-r-lm-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-70-300mm-f4-5-6-r-lm-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15119,7 +15121,7 @@
     ]
   },
   {
-    "id": "xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
+    "id": "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 100-400mm F4.5-5.6 R LM OIS WR",
     "gearType": "LENS",
@@ -15134,7 +15136,7 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "LM WR",
-    "image_url": "/images/products/fujifilm/xf-100-400mm-f4-5-5-6-r-lm-ois-wr.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr.jpg",
     "mounts": [
       {
         "mount": {
@@ -15144,7 +15146,7 @@
     ]
   },
   {
-    "id": "xf-55-200mm-f3-5-4-8-r-lm-ois",
+    "id": "fujifilm-xf-55-200mm-f3-5-4-8-r-lm-ois",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XF 55-200mm F3.5-4.8 R LM OIS",
     "gearType": "LENS",
@@ -15159,7 +15161,7 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "LM",
-    "image_url": "/images/products/fujifilm/xf-55-200mm-f3-5-4-8-r-lm-ois.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-55-200mm-f3-5-4-8-r-lm-ois.jpg",
     "mounts": [
       {
         "mount": {
@@ -15169,7 +15171,7 @@
     ]
   },
   {
-    "id": "xc-15-45mm-f3-5-5-6-ois-pz",
+    "id": "fujifilm-xc-15-45mm-f3-5-5-6-ois-pz",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XC 15-45mm F3.5-5.6 OIS PZ",
     "gearType": "LENS",
@@ -15184,7 +15186,7 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-15-45mm-f3-5-5-6-ois-pz.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xc-15-45mm-f3-5-5-6-ois-pz.jpg",
     "mounts": [
       {
         "mount": {
@@ -15194,7 +15196,7 @@
     ]
   },
   {
-    "id": "xc-35mm-f2",
+    "id": "fujifilm-xc-35mm-f2",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XC 35mm F2",
     "gearType": "LENS",
@@ -15209,7 +15211,7 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-35mm-f2.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xc-35mm-f2.jpg",
     "mounts": [
       {
         "mount": {
@@ -15219,7 +15221,7 @@
     ]
   },
   {
-    "id": "xc-50-230mm-f4-5-6-7-ois-ii",
+    "id": "fujifilm-xc-50-230mm-f4-5-6-7-ois-ii",
     "brand": "Fujifilm",
     "modelName": "Fujifilm XC 50-230mm F4.5-6.7 OIS II",
     "gearType": "LENS",
@@ -15234,7 +15236,7 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "XC-Series",
-    "image_url": "/images/products/fujifilm/xc-50-230mm-f4-5-6-7-ois-ii.jpg",
+    "image_url": "/images/products/fujifilm/fujifilm-xc-50-230mm-f4-5-6-7-ois-ii.jpg",
     "mounts": [
       {
         "mount": {
