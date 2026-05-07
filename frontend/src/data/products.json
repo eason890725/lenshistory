@@ -15268,31 +15268,5 @@
         }
       }
     ]
-  },
-  {
-    "id": "nikon-z6-iii",
-    "brand": "Nikon",
-    "modelName": "Nikon Z6 III",
-    "gearType": "CAMERA",
-    "mount": "Nikon Z",
-    "sensorFormat": "Full Frame",
-    "megapixels": 24.5,
-    "maxVideoResolution": "6K RAW",
-    "releaseYear": 2024,
-    "weightGrams": 670,
-    "launchPrice": 79000,
-    "hasIBIS": true,
-    "image_url": "/images/products/nikon/nikon-z6-iii.jpg",
-    "aliases": [
-      "Z6 III",
-      "Z6III"
-    ],
-    "mounts": [
-      {
-        "mount": {
-          "name": "Nikon Z"
-        }
-      }
-    ]
   }
 ]
