@@ -128,29 +128,51 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       setFilters(prev => ({ ...prev, ...urlFilters }));
     }
 
-    // Scroll Restoration logic
-    const savedScroll = sessionStorage.getItem('database_scroll');
-    if (savedScroll) {
-      // Delay slightly to ensure content is rendered
-      setTimeout(() => {
-        window.scrollTo({ top: parseInt(savedScroll), behavior: 'instant' });
-      }, 100);
+    // Scroll Restoration logic - Improved for stability
+    if (typeof window !== 'undefined') {
+      window.history.scrollRestoration = 'manual';
+      const savedScroll = sessionStorage.getItem('database_scroll');
+      
+      if (savedScroll) {
+        let attempts = 0;
+        const targetScroll = parseInt(savedScroll);
+        
+        const performScroll = () => {
+          window.scrollTo({ top: targetScroll, behavior: 'instant' });
+          attempts++;
+          // Try multiple times over ~500ms to handle layout shifts
+          if (attempts < 10) {
+            requestAnimationFrame(performScroll);
+          }
+        };
+        requestAnimationFrame(performScroll);
+      }
+
+      // Use a flag to avoid saving while we are restoring
+      let restorationTimeout: any = null;
+      const handleScroll = () => {
+        // Debounce or at least avoid saving during initial mount
+        if (restorationTimeout) clearTimeout(restorationTimeout);
+        restorationTimeout = setTimeout(() => {
+          sessionStorage.setItem('database_scroll', window.scrollY.toString());
+        }, 100);
+      };
+
+      window.addEventListener('scroll', handleScroll);
+
+      const stored = localStorage.getItem('compare_ids');
+      if (stored) {
+        try {
+          const ids = JSON.parse(stored);
+          setSelectedIds(ids);
+        } catch (e) {}
+      }
+
+      return () => {
+        window.removeEventListener('scroll', handleScroll);
+        if (restorationTimeout) clearTimeout(restorationTimeout);
+      };
     }
-
-    const handleScroll = () => {
-      sessionStorage.setItem('database_scroll', window.scrollY.toString());
-    };
-    window.addEventListener('scroll', handleScroll);
-
-    const stored = localStorage.getItem('compare_ids');
-    if (stored) {
-      try {
-        const ids = JSON.parse(stored);
-        setSelectedIds(ids);
-      } catch (e) {}
-    }
-
-    return () => window.removeEventListener('scroll', handleScroll);
   }, [gears]);
 
   // Sync filters to URL
