@@ -9,13 +9,13 @@
     "slug": "a1-ii",
     "id": "sony-a1-ii",
     "weightGrams": "Approx. 746 g (including battery and card)",
-    "launchPrice": 209000,
+    "launchPrice": 189980,
     "hasIBIS": true,
-    "sensorType": "Exmor R BSI Stacked CMOS",
+    "sensorType": "50.1MP Full-frame Stacked BSI CMOS (Exmor RS)",
     "videoResolution": "8K 30p / 4K 120p",
     "afPoints": "759 Phase-detection",
     "evfResolution": "9.44M-dot OLED",
-    "burstSpeed": "--",
+    "burstSpeed": "30fps",
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "A1 II",
@@ -33,9 +33,9 @@
       "sonya1ii"
     ],
     "processor": "BIONZ XR + AI Processing Unit",
-    "ibisRating": "8.5 stops (CIPA)",
+    "ibisRating": "8.5 stops (Center)",
     "isoRange": "100-32000 (Ext: 50-102400)",
-    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afTargets": "Human (Face/Eye), Animal, Bird, Car, Motorcycle, Bicycle, Airplane, Train",
     "afRange": "-4 to +20 EV",
     "videoColorDepth": "10-bit 4:2:2",
     "evfMagnification": "0.90x",
@@ -105,11 +105,11 @@
     "weightGrams": "Approx. 617 g (including battery and card)",
     "launchPrice": 184980,
     "hasIBIS": true,
-    "sensorType": "Global Shutter Stacked CMOS",
-    "videoResolution": "4K 60p / 10-bit",
+    "sensorType": "24.6MP Full-frame Stacked CMOS (Global Shutter)",
+    "videoResolution": "4K 120p (No Crop)",
     "afPoints": "759+ Phase-detection",
     "evfResolution": "--",
-    "burstSpeed": "--",
+    "burstSpeed": "120fps",
     "logSupport": "S-Log3 / S-Cinetone",
     "aliases": [
       "A9 III",
@@ -128,7 +128,7 @@
       "sonya9iii"
     ],
     "processor": "BIONZ XR",
-    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afTargets": "Real-time Recognition AF (AI Unit)",
     "videoColorDepth": "10-bit 4:2:2",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "mounts": [
@@ -138,7 +138,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-a9-iii.jpg"
+    "image_url": "/images/products/sony/sony-a9-iii.jpg",
+    "ibisRating": "8.0 stops"
   },
   {
     "brand": "Sony",
@@ -233,9 +234,9 @@
     "slug": "a7r-v",
     "id": "sony-a7r-v",
     "weightGrams": "Approx. 723 g (including battery and card)",
-    "launchPrice": 109980,
+    "launchPrice": 106980,
     "hasIBIS": true,
-    "sensorType": "Exmor R BSI CMOS",
+    "sensorType": "61.0MP Full-frame BSI CMOS (Exmor R)",
     "videoResolution": "8K 24p / 4K 60p",
     "afPoints": "693 Phase-detection",
     "evfResolution": "9.44M-dot OLED",
@@ -257,7 +258,7 @@
       "sonya7rv"
     ],
     "processor": "BIONZ XR (with AI Processing Unit)",
-    "ibisRating": "8.0 stops (CIPA)",
+    "ibisRating": "8.0 stops",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "afRange": "-4 to +20 EV",
@@ -786,15 +787,15 @@
     "slug": "a7c-ii",
     "id": "sony-a7c-ii",
     "weightGrams": "Approx. 514 g (including battery and card)",
-    "launchPrice": 59980,
+    "launchPrice": 56980,
     "hasIBIS": true,
-    "sensorType": "Exmor R BSI CMOS",
+    "sensorType": "33.0MP Full-frame BSI CMOS",
     "videoResolution": "4K 60p (Super 35) / 4K 30p (Full Frame)",
     "afPoints": "759 Phase-detection",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "10 fps",
     "logSupport": "S-Log3 / S-Cinetone",
-    "ibisRating": "7.0 stops (CIPA)",
+    "ibisRating": "7.0 stops",
     "lcdResolution": "1.04M-dot Vari-angle",
     "hasWeatherSeal": true,
     "processor": "BIONZ XR",
@@ -3367,10 +3368,10 @@
     "slug": "fe-24-70mm-f2-8-gm-ii",
     "id": "sony-fe-24-70mm-f2-8-gm-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "Advanced Optical Construction",
+    "opticalDesign": "20 elements in 15 groups",
     "minAperture": "--",
     "specialElements": "XA, ED, Aspherical elements",
-    "launchPrice": 59980,
+    "launchPrice": 51280,
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
     "maxMagnification": "0.15x - 0.25x",
@@ -3399,7 +3400,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-24-70mm-f2-8-gm-ii.jpg"
+    "image_url": "/images/products/sony/sony-fe-24-70mm-f2-8-gm-ii.jpg",
+    "focusMotor": "4 XD Linear Motors",
+    "coating": "Nano AR II",
+    "minFocusDistance": "0.21m",
+    "filterSize": "82mm"
   },
   {
     "brand": "Sony",
@@ -3413,10 +3418,10 @@
     "slug": "fe-70-200mm-f2-8-gm-oss-ii",
     "id": "sony-fe-70-200mm-f2-8-gm-oss-ii",
     "motorType": "XD Linear",
-    "opticalDesign": "Advanced Optical Construction",
+    "opticalDesign": "17 elements in 14 groups",
     "minAperture": "--",
     "specialElements": "XA, ED, Aspherical elements",
-    "launchPrice": 59980,
+    "launchPrice": 76980,
     "coatings": "Nano AR II",
     "closeFocus": "0.3m - 0.5m",
     "maxMagnification": "0.15x - 0.25x",
@@ -3445,7 +3450,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-70-200mm-f2-8-gm-oss-ii.jpg"
+    "image_url": "/images/products/sony/sony-fe-70-200mm-f2-8-gm-oss-ii.jpg",
+    "focusMotor": "4 XD Linear Motors",
+    "coating": "Nano AR II",
+    "minFocusDistance": "0.4m",
+    "filterSize": "77mm"
   },
   {
     "brand": "Sony",
@@ -12997,7 +13006,7 @@
     "weightGrams": "Approx. 918 g (including battery and card)",
     "filterSizeMm": "86mm",
     "releaseYear": 2024,
-    "launchPrice": 92980,
+    "launchPrice": 87980,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
@@ -13007,7 +13016,7 @@
     "slug": "fe-28-70mm-f2-gm",
     "id": "sony-fe-28-70mm-f2-gm",
     "motorType": "XD Linear",
-    "opticalDesign": "Advanced Optical Construction",
+    "opticalDesign": "20 elements in 14 groups",
     "minAperture": "--",
     "specialElements": "XA, ED, Aspherical elements",
     "coatings": "Nano AR II",
@@ -13032,7 +13041,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-28-70mm-f2-gm.jpg"
+    "image_url": "/images/products/sony/sony-fe-28-70mm-f2-gm.jpg",
+    "focusMotor": "4 XD Linear Motors",
+    "coating": "Nano AR II, Fluorine",
+    "minFocusDistance": "0.38m",
+    "filterSize": "86mm"
   },
   {
     "brand": "Sony",
