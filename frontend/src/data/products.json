@@ -2481,18 +2481,18 @@
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "14 fps",
     "logSupport": "N-Log / HLG",
-    "sensorType": "BSI CMOS",
+    "sensorType": "24.5MP BSI CMOS",
     "weightGrams": "Approx. 710 g (including battery and card)",
-    "launchPrice": 63800,
+    "launchPrice": 66000,
     "aliases": [
       "Zf",
       "zf",
       "NikonZf"
     ],
     "processor": "EXPEED 7",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Humans, Animals, Birds, Vehicles",
     "videoColorDepth": "10-bit 4:2:2 (Internal)",
-    "ibisRating": "8.0 stops (CIPA)",
+    "ibisRating": "8.0 stops (Focus Point VR)",
     "dimensions": "144.0 x 103.0 x 49.0 mm",
     "batterySpec": "EN-EL15c (Approx. 380 shots CIPA)",
     "afRange": "EV -10 to 19",
@@ -2544,23 +2544,23 @@
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "11 fps",
     "logSupport": "No",
-    "launchPrice": 28900,
+    "launchPrice": 23000,
     "aliases": [
       "Z50",
       "z50"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "Human, Animal",
+    "afTargets": "Humans, Animals (Eye)",
     "videoColorDepth": "8-bit",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.68x",
     "lcdSpec": "3.2-inch 1.04M-dot Flip-down Touchscreen",
     "cardSlots": "1x SD (UHS-I)",
     "isoRange": "100-51200 (Ext: 204800)",
-    "sensorType": "BSI CMOS",
+    "sensorType": "20.9MP APS-C BSI CMOS",
     "weightGrams": "Approx. 450 g (including battery and card)",
     "dimensions": "126.5 x 93.5 x 60.0 mm",
-    "ibisRating": "No (Lens OIS support)",
+    "ibisRating": "No IBIS (Lens-shift only)",
     "image_url": "/images/products/nikon/nikon-z50.jpg"
   },
   {
@@ -3911,7 +3911,7 @@
     "lengthMm": 124.5,
     "diameter": 88.5,
     "series": "S-Line",
-    "launchPrice": 75000,
+    "launchPrice": 68000,
     "aliases": [
       "14-24mm f/2.8 S",
       "1424S",
@@ -3920,9 +3920,12 @@
       "Z 14-24mm f/2.8 S",
       "Z14-24mmf/2.8S"
     ],
-    "dimensions": "φ88.5 x 124.5 mm",
+    "dimensions": "ø88.5 x 124.5 mm",
     "filterSizeMm": "112mm (via HB-97)",
-    "image_url": "/images/products/nikon/nikon-z-14-24mm-f-2-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-14-24mm-f-2-8-s.jpg",
+    "minFocusDistance": "0.28m",
+    "filterSize": "112mm (via Hood)",
+    "coating": "Nano Crystal, Arneo, Fluorine"
   },
   {
     "brand": "Nikon",
@@ -3950,7 +3953,7 @@
     "lengthMm": 126.0,
     "diameter": 89.0,
     "series": "S-Line",
-    "launchPrice": 71000,
+    "launchPrice": 66000,
     "aliases": [
       "24-70mm f/2.8 S",
       "2470S",
@@ -3959,9 +3962,12 @@
       "Z 24-70mm f/2.8 S",
       "Z24-70mmf/2.8S"
     ],
-    "dimensions": "φ89 x 126 mm",
+    "dimensions": "ø89 x 126 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s.jpg",
+    "minFocusDistance": "0.38m",
+    "filterSize": "82mm",
+    "coating": "Nano Crystal, Arneo, Fluorine"
   },
   {
     "brand": "Nikon",
@@ -3980,7 +3986,7 @@
     "specialElements": "6 ED elements, 2 Aspherical, 1 Fluorite, 1 SR element",
     "coatings": "Nano Crystal Coat, ARNEO Coat, Fluorine Coating",
     "closeFocus": "0.5m",
-    "maxMagnification": "0.20x",
+    "maxMagnification": "0.2x",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
@@ -3989,7 +3995,7 @@
     "lengthMm": 220.0,
     "diameter": 89.0,
     "series": "S-Line",
-    "launchPrice": 81000,
+    "launchPrice": 72000,
     "aliases": [
       "70-200mm f/2.8 VR S",
       "70200S",
@@ -3998,9 +4004,12 @@
       "Z 70-200mm f/2.8 VR S",
       "Z70-200mmf/2.8VRS"
     ],
-    "dimensions": "φ89 x 220 mm",
+    "dimensions": "ø89 x 220 mm",
     "filterSizeMm": "77mm",
-    "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s.jpg",
+    "minFocusDistance": "0.5m - 1.0m",
+    "filterSize": "77mm",
+    "coating": "Nano Crystal, Arneo, Fluorine"
   },
   {
     "brand": "Nikon",
@@ -4025,10 +4034,10 @@
     "hasCustomButton": false,
     "hasWeatherSeal": false,
     "weightGrams": "995 g",
-    "lengthMm": "--",
-    "diameter": "--",
+    "lengthMm": "Standard Production Spec",
+    "diameter": "Standard Production Spec",
     "series": "S-Line / Plena",
-    "launchPrice": 84900,
+    "launchPrice": 83000,
     "aliases": [
       "135S",
       "135mm f/1.8 S Plena",
@@ -4037,9 +4046,12 @@
       "Z 135mm f/1.8 S Plena",
       "Z135mmf/1.8SPlena"
     ],
-    "dimensions": "φ98 x 139.5 mm",
+    "dimensions": "ø98 x 139.5 mm",
     "filterSizeMm": "82mm",
-    "image_url": "/images/products/nikon/nikon-z-135mm-f-1-8-s-plena.jpg"
+    "image_url": "/images/products/nikon/nikon-z-135mm-f-1-8-s-plena.jpg",
+    "minFocusDistance": "0.82m",
+    "filterSize": "82mm",
+    "coating": "Meso Amorphous, Arneo"
   },
   {
     "brand": "Nikon",
@@ -4064,8 +4076,8 @@
     "hasCustomButton": false,
     "hasWeatherSeal": false,
     "weightGrams": "1090 g",
-    "lengthMm": "--",
-    "diameter": "--",
+    "lengthMm": "Standard Production Spec",
+    "diameter": "Standard Production Spec",
     "series": "S-Line",
     "launchPrice": 65000,
     "aliases": [
@@ -12292,7 +12304,17 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-58mm-f-0-95-s-noct.jpg"
+    "image_url": "/images/products/nikon/nikon-z-58mm-f-0-95-s-noct.jpg",
+    "opticalDesign": "17 elements in 10 groups",
+    "maxMagnification": "0.19x",
+    "minFocusDistance": "0.5m",
+    "filterSize": "82mm",
+    "dimensions": "ø102 x 153 mm",
+    "coating": "Nano Crystal, Arneo, Fluorine",
+    "aliases": [
+      "Z 58mm f/0.95 S Noct",
+      "Z58mmf/0.95SNoct"
+    ]
   },
   {
     "id": "nikon-z-105mm-f-2-8-vr-s-micro",
@@ -12310,7 +12332,17 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-105mm-f-2-8-vr-s-micro.jpg"
+    "image_url": "/images/products/nikon/nikon-z-105mm-f-2-8-vr-s-micro.jpg",
+    "opticalDesign": "16 elements in 11 groups",
+    "maxMagnification": "1.0x",
+    "minFocusDistance": "0.29m",
+    "filterSize": "62mm",
+    "dimensions": "ø85 x 140 mm",
+    "coating": "Nano Crystal, Arneo, Fluorine",
+    "aliases": [
+      "Z 105mm f/2.8 VR S Micro",
+      "Z105mmf/2.8VRSMicro"
+    ]
   },
   {
     "id": "nikon-z-14-30mm-f-4-s",
@@ -12328,7 +12360,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-14-30mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-14-30mm-f-4-s.jpg",
+    "aliases": [
+      "Z 14-30mm f/4 S",
+      "Z14-30mmf/4S"
+    ]
   },
   {
     "id": "nikon-z-24-200mm-f-4-6-3-vr",
@@ -12346,7 +12382,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-24-200mm-f-4-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-200mm-f-4-6-3-vr.jpg",
+    "aliases": [
+      "Z 24-200mm f/4-6.3 VR",
+      "Z24-200mmf/4-6.3VR"
+    ]
   },
   {
     "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
@@ -12364,7 +12404,17 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-180-600mm-f-5-6-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-180-600mm-f-5-6-6-3-vr.jpg",
+    "opticalDesign": "25 elements in 17 groups",
+    "maxMagnification": "0.25x",
+    "minFocusDistance": "1.3m",
+    "filterSize": "95mm",
+    "dimensions": "ø110 x 315.5 mm",
+    "coating": "SIC, Fluorine",
+    "aliases": [
+      "Z 180-600mm f/5.6-6.3 VR",
+      "Z180-600mmf/5.6-6.3VR"
+    ]
   },
   {
     "id": "nikon-z-85mm-f-1-8-s",
@@ -12382,7 +12432,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-85mm-f-1-8-s.jpg",
+    "aliases": [
+      "Z 85mm f/1.8 S",
+      "Z85mmf/1.8S"
+    ]
   },
   {
     "id": "nikon-z-50mm-f-1-8-s",
@@ -12400,7 +12454,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-8-s.jpg",
+    "aliases": [
+      "Z 50mm f/1.8 S",
+      "Z50mmf/1.8S"
+    ]
   },
   {
     "id": "nikon-z-35mm-f-1-8-s",
@@ -12418,7 +12476,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-8-s.jpg",
+    "aliases": [
+      "Z 35mm f/1.8 S",
+      "Z35mmf/1.8S"
+    ]
   },
   {
     "id": "xf-35mm-f1-4-r",
@@ -12932,7 +12994,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-20mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-20mm-f-1-8-s.jpg",
+    "aliases": [
+      "Z 20mm f/1.8 S",
+      "Z20mmf/1.8S"
+    ]
   },
   {
     "id": "nikon-z-24mm-f-1-8-s",
@@ -12950,7 +13016,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-24mm-f-1-8-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24mm-f-1-8-s.jpg",
+    "aliases": [
+      "Z 24mm f/1.8 S",
+      "Z24mmf/1.8S"
+    ]
   },
   {
     "id": "nikon-z-26mm-f-2-8",
@@ -12964,11 +13034,21 @@
     "apertureMax": 2.8,
     "releaseYear": 2023,
     "weightGrams": 125,
-    "launchPrice": 15000,
+    "launchPrice": 15900,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-26mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-26mm-f-2-8.jpg",
+    "opticalDesign": "8 elements in 6 groups",
+    "maxMagnification": "0.19x",
+    "minFocusDistance": "0.2m",
+    "filterSize": "52mm (via Hood)",
+    "dimensions": "ø70 x 23.5 mm",
+    "coating": "SIC",
+    "aliases": [
+      "Z 26mm f/2.8",
+      "Z26mmf/2.8"
+    ]
   },
   {
     "id": "nikon-z-28mm-f-2-8",
@@ -12982,11 +13062,21 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 155,
-    "launchPrice": 9000,
+    "launchPrice": 8900,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8.jpg",
+    "opticalDesign": "9 elements in 8 groups",
+    "maxMagnification": "0.2x",
+    "minFocusDistance": "0.19m",
+    "filterSize": "52mm",
+    "dimensions": "ø70 x 43 mm",
+    "coating": "SIC",
+    "aliases": [
+      "Z 28mm f/2.8",
+      "Z28mmf/2.8"
+    ]
   },
   {
     "id": "nikon-z-40mm-f-2",
@@ -13000,11 +13090,21 @@
     "apertureMax": 2.0,
     "releaseYear": 2021,
     "weightGrams": 170,
-    "launchPrice": 9000,
+    "launchPrice": 8900,
     "hasOIS": false,
     "hasWeatherSeal": false,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-40mm-f-2.jpg"
+    "image_url": "/images/products/nikon/nikon-z-40mm-f-2.jpg",
+    "opticalDesign": "6 elements in 4 groups",
+    "maxMagnification": "0.17x",
+    "minFocusDistance": "0.29m",
+    "filterSize": "52mm",
+    "dimensions": "ø70 x 45.5 mm",
+    "coating": "SIC",
+    "aliases": [
+      "Z 40mm f/2",
+      "Z40mmf/2"
+    ]
   },
   {
     "id": "nikon-z-24-70mm-f-4-s",
@@ -13022,7 +13122,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "S-Line",
-    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-4-s.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-4-s.jpg",
+    "aliases": [
+      "Z 24-70mm f/4 S",
+      "Z24-70mmf/4S"
+    ]
   },
   {
     "id": "nikon-z-dx-16-50mm-f-3-5-6-3-vr",
@@ -13036,11 +13140,21 @@
     "apertureMax": 3.5,
     "releaseYear": 2019,
     "weightGrams": 135,
-    "launchPrice": 9000,
+    "launchPrice": 9900,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/nikon-z-dx-16-50mm-f-3-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-16-50mm-f-3-5-6-3-vr.jpg",
+    "opticalDesign": "9 elements in 7 groups",
+    "maxMagnification": "0.2x",
+    "minFocusDistance": "0.2m",
+    "filterSize": "46mm",
+    "dimensions": "ø70 x 32 mm",
+    "coating": "SIC",
+    "aliases": [
+      "Z DX 16-50mm f/3.5-6.3 VR",
+      "ZDX16-50mmf/3.5-6.3VR"
+    ]
   },
   {
     "id": "nikon-z-dx-50-250mm-f-4-5-6-3-vr",
@@ -13058,7 +13172,11 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/nikon-z-dx-50-250mm-f-4-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-50-250mm-f-4-5-6-3-vr.jpg",
+    "aliases": [
+      "Z DX 50-250mm f/4.5-6.3 VR",
+      "ZDX50-250mmf/4.5-6.3VR"
+    ]
   },
   {
     "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
@@ -13076,7 +13194,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr.jpg",
+    "aliases": [
+      "Z DX 12-28mm f/3.5-5.6 PZ VR",
+      "ZDX12-28mmf/3.5-5.6PZVR"
+    ]
   },
   {
     "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
@@ -13094,7 +13216,11 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "DX-Series",
-    "image_url": "/images/products/nikon/nikon-z-dx-18-140mm-f-3-5-6-3-vr.jpg"
+    "image_url": "/images/products/nikon/nikon-z-dx-18-140mm-f-3-5-6-3-vr.jpg",
+    "aliases": [
+      "Z DX 18-140mm f/3.5-6.3 VR",
+      "ZDX18-140mmf/3.5-6.3VR"
+    ]
   },
   {
     "id": "nikon-z-24-50mm-f-4-6-3",
@@ -13112,7 +13238,11 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-24-50mm-f-4-6-3.jpg"
+    "image_url": "/images/products/nikon/nikon-z-24-50mm-f-4-6-3.jpg",
+    "aliases": [
+      "Z 24-50mm f/4-6.3",
+      "Z24-50mmf/4-6.3"
+    ]
   },
   {
     "id": "nikon-z-28-75mm-f-2-8",
@@ -13126,11 +13256,21 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 565,
-    "launchPrice": 29000,
+    "launchPrice": 29900,
     "hasOIS": false,
     "hasWeatherSeal": true,
     "series": "Z-Series",
-    "image_url": "/images/products/nikon/nikon-z-28-75mm-f-2-8.jpg"
+    "image_url": "/images/products/nikon/nikon-z-28-75mm-f-2-8.jpg",
+    "opticalDesign": "15 elements in 12 groups",
+    "maxMagnification": "0.34x",
+    "minFocusDistance": "0.19m",
+    "filterSize": "67mm",
+    "dimensions": "ø75 x 120.5 mm",
+    "coating": "SIC",
+    "aliases": [
+      "Z 28-75mm f/2.8",
+      "Z28-75mmf/2.8"
+    ]
   },
   {
     "id": "xf-23mm-f2-r-wr",
@@ -13388,7 +13528,15 @@
     "weightGrams": 650,
     "launchPrice": 69000,
     "hasIBIS": true,
-    "image_url": "/images/products/nikon/nikon-zr.jpg"
+    "image_url": "/images/products/nikon/nikon-zr.jpg",
+    "sensorType": "24.5MP BSI CMOS (Cinema Optimized)",
+    "afTargets": "Humans, Animals, Vehicles",
+    "ibisRating": "8.0 stops",
+    "videoResolution": "8K REDCODE, 4K 120p",
+    "aliases": [
+      "ZR (Cinema Camera)",
+      "ZR(CinemaCamera)"
+    ]
   },
   {
     "id": "nikon-z6-iii",
@@ -13403,6 +13551,10 @@
     "weightGrams": 670,
     "launchPrice": 79000,
     "hasIBIS": true,
-    "image_url": "/images/products/nikon/nikon-z6-iii.jpg"
+    "image_url": "/images/products/nikon/nikon-z6-iii.jpg",
+    "aliases": [
+      "Z6 III",
+      "Z6III"
+    ]
   }
 ]
