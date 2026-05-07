@@ -1879,7 +1879,7 @@
     "megapixels": "40.2MP",
     "releaseYear": 2024,
     "slug": "x100v-i",
-    "id": "fujifilm-x100v-i",
+    "id": "fujifilm-x100vi",
     "videoResolution": "Standard Tech / HT-EBC Coating",
     "afPoints": "Standard Tech / HT-EBC Coating",
     "evfResolution": "Standard Tech / HT-EBC Coating",
@@ -1898,7 +1898,7 @@
         }
       }
     ],
-    "image_url": "/images/products/fujifilm/fujifilm-x100v-i.jpg"
+    "image_url": "/images/products/fujifilm/fujifilm-x100vi.jpg"
   },
   {
     "brand": "Fujifilm",
@@ -15511,5 +15511,20 @@
         }
       }
     ]
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm X-M5",
+    "gearType": "CAMERA_BODY",
+    "sensorFormat": "APS-C",
+    "megapixels": "26.1MP",
+    "releaseYear": 2024,
+    "id": "fujifilm-x-m5",
+    "image_url": "/images/products/fujifilm/fujifilm-x-m5.jpg",
+    "launchPrice": 25900,
+    "sensorType": "X-Trans CMOS 4",
+    "hasIBIS": false,
+    "videoResolution": "6.2K 30p / 4K 60p",
+    "afTargets": "Human, Animal, Bird, Vehicle"
   }
 ]
