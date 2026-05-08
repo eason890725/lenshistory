@@ -1,18 +1,25 @@
 import { Camera, ChevronLeft, X } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
+import products from '@/data/products.json';
 
-async function getCompareGears(ids: string) {
+function getCompareGears(ids: string) {
   if (!ids) return [];
-  try {
-    const backendBase = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:8083';
-    const res = await fetch(`${backendBase}/api/v1/gear/compare?ids=${ids}`, { cache: 'no-store' });
-    if (!res.ok) throw new Error('Failed to fetch data');
-    return res.json();
-  } catch (error) {
-    console.error('Backend is not reachable:', error);
-    return [];
-  }
+  const idList = ids.split(',').map(id => id.trim());
+  return products
+    .filter((p: any) => idList.includes(String(p.id)) || idList.includes(p.slug))
+    .map((item: any) => ({
+      ...item,
+      id: item.id,
+      brand: typeof item.brand === 'string' ? {
+        slug: item.brand.toLowerCase(),
+        nameI18n: { enUs: item.brand, zhTw: item.brand }
+      } : item.brand,
+      modelNameI18n: {
+        enUs: item.modelName,
+        zhTw: item.modelName
+      }
+    }));
 }
 
 function focalStr(g: any) {
@@ -41,7 +48,7 @@ export default async function ComparePage({
 
   const t = await getTranslations('GearSpecs');
   const tc = await getTranslations('Common');
-  const gears = await getCompareGears(ids);
+  const gears = getCompareGears(ids);
 
   const specRows = [
     // --- Lens Specific ---

@@ -14,10 +14,10 @@ function getGears() {
       slug: item.brand.toLowerCase(), 
       nameI18n: { enUs: item.brand, zhTw: item.brand } 
     } : item.brand,
-    modelNameI18n: typeof item.modelName === 'string' ? {
+    modelNameI18n: {
       enUs: item.modelName,
       zhTw: item.modelName
-    } : item.modelNameI18n
+    }
   }));
 }
 

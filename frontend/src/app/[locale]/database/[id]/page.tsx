@@ -21,10 +21,10 @@ async function getGear(id: string) {
       slug: item.brand.toLowerCase(), 
       nameI18n: { enUs: item.brand, zhTw: item.brand } 
     } : item.brand,
-    modelNameI18n: typeof item.modelName === 'string' ? {
+    modelNameI18n: {
       enUs: item.modelName,
       zhTw: item.modelName
-    } : item.modelNameI18n
+    }
   };
 }
 
@@ -72,10 +72,10 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
   if (!gear) notFound();
 
   // Robustly handle both old nested structure and new flat structure
-  const name = gear.modelNameI18n?.enUs || gear.modelName || 'Unknown Model';
+  const name = gear.modelName || 'Unknown Model';
   const brandName = typeof gear.brand === 'string' 
     ? gear.brand 
-    : (gear.brand.nameI18n?.enUs || gear.brand.name || 'Unknown Brand');
+    : ((gear.brand as any).nameI18n?.enUs || (gear.brand as any).name || 'Unknown Brand');
   
   const isLens = gear.gearType === 'LENS';
   const isPrime = isLens && gear.focalLengthMinMm === gear.focalLengthMaxMm;
@@ -242,7 +242,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                   <SpecRow label={t('opticalDesign')} value={gear.opticalDesign || '--'} />
                   <SpecRow label={t('specialElements')} value={gear.specialElements || '--'} />
                   <SpecRow label={t('coatings')} value={gear.coatings || '--'} />
-                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm === 0 ? "後置濾鏡 (Rear) / 前組不可裝" : (gear.filterSizeMm || '--')} unit={gear.filterSizeMm > 0 ? "mm" : ""} />
+                  <SpecRow label={t('filterSize')} value={gear.filterSizeMm === 0 ? "後置濾鏡 (Rear) / 前組不可裝" : (gear.filterSizeMm || '--')} unit={Number(gear.filterSizeMm ?? 0) > 0 ? "mm" : ""} />
                 </div>
 
                 {/* 3. Key Features */}

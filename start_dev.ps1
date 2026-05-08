@@ -60,3 +60,5 @@ Write-Host "5. Launching Frontend..." -ForegroundColor Green
 Start-Process powershell -ArgumentList "-NoExit", "-Command", "cd '$frontendDir'; npm run dev -- --port 3000"
 
 Write-Host "`n🚀 SYSTEM IS READY!" -ForegroundColor Green
+Write-Host "🌍 Opening browser at http://localhost:3000" -ForegroundColor Cyan
+Start-Process "http://localhost:3000"

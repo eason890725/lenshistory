@@ -1,0 +1,49 @@
+import requests
+import json
+import os
+
+def harvest_persistence_v34_2_4_3():
+    targets = [
+        {"id": "rf-50mm-f1-2l-usm", "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Canon_RF_50mm_F1.2L_USM.jpg"},
+        {"id": "rf-14mm-f-1-4-l-vcm", "url": "https://www.usa.canon.com/media/catalog/product/7/4/7427c002_rf14mm_vcm_1.jpg"}
+    ]
+    
+    json_path = "frontend/src/data/products.json"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+    
+    with open(json_path, "r", encoding="utf-8") as f:
+        products = json.load(f)
+    
+    results = []
+    
+    for t in targets:
+        id = t["id"]
+        url = t["url"]
+        target_file = f"frontend/public/images/products/canon/{id}.jpg"
+        
+        try:
+            print(f"Downloading {id} from {url}...")
+            resp = requests.get(url, headers=headers, timeout=20)
+            resp.raise_for_status()
+            
+            os.makedirs(os.path.dirname(target_file), exist_ok=True)
+            with open(target_file, "wb") as f:
+                f.write(resp.content)
+            
+            # 更新 JSON
+            for p in products:
+                if p.get("id") == id:
+                    p["image_url"] = f"/images/products/canon/{id}.jpg"
+                    break
+            
+            results.append(f"{id} | {url} | Success")
+        except Exception as e:
+            results.append(f"{id} | {url} | Fail ({str(e)})")
+
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(products, f, indent=2, ensure_ascii=False)
+    
+    print("\n".join(results))
+
+if __name__ == "__main__":
+    harvest_persistence_v34_2_4_3()

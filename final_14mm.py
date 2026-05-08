@@ -1,0 +1,33 @@
+import requests
+import json
+import os
+
+def final_14mm_harvest():
+    url = "https://petapixel.com/assets/uploads/2024/05/Canon-RF-14mm-f1.4-L-VCM-1.jpg"
+    id = "rf-14mm-f-1-4-l-vcm"
+    json_path = "frontend/src/data/products.json"
+    target_file = f"frontend/public/images/products/canon/{id}.jpg"
+    
+    headers = {"User-Agent": "Mozilla/5.0"}
+    
+    try:
+        resp = requests.get(url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        os.makedirs(os.path.dirname(target_file), exist_ok=True)
+        with open(target_file, "wb") as f:
+            f.write(resp.content)
+            
+        with open(json_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for p in data:
+            if p.get("id") == id:
+                p["image_url"] = f"/images/products/canon/{id}.jpg"
+                break
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print("SUCCESS")
+    except Exception as e:
+        print(f"FAIL: {e}")
+
+if __name__ == "__main__":
+    final_14mm_harvest()

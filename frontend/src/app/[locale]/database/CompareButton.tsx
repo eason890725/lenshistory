@@ -4,8 +4,8 @@ import { useState, useEffect } from 'react';
 import { ArrowRightLeft, Check } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 
-export default function CompareButton({ gearId, locale }: { gearId: number, locale: string }) {
-  const [selectedIds, setSelectedIds] = useState<number[]>([]);
+export default function CompareButton({ gearId, locale }: { gearId: string | number, locale: string }) {
+  const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const router = useRouter();
 
   // Load from localStorage on mount
@@ -16,12 +16,13 @@ export default function CompareButton({ gearId, locale }: { gearId: number, loca
     }
   }, []);
 
-  const isSelected = selectedIds.includes(gearId);
+  const gearIdStr = String(gearId);
+  const isSelected = selectedIds.includes(gearIdStr);
 
   const toggleSelect = () => {
     const newIds = isSelected 
-      ? selectedIds.filter(id => id !== gearId)
-      : [...selectedIds, gearId];
+      ? selectedIds.filter(id => id !== gearIdStr)
+      : [...selectedIds, gearIdStr];
     
     setSelectedIds(newIds);
     localStorage.setItem('compare_ids', JSON.stringify(newIds));
