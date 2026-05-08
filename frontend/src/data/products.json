@@ -226,7 +226,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 R V",
+    "modelName": "Sony Alpha 7R V",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "61MP",
@@ -280,7 +280,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 RIV",
+    "modelName": "Sony Alpha 7RIV",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "61.0MP",
@@ -323,7 +323,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 RIII",
+    "modelName": "Sony Alpha 7RIII",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "42.4MP",
@@ -366,7 +366,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 RII",
+    "modelName": "Sony Alpha 7RII",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "42.4MP",
@@ -409,7 +409,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha 7 R",
+    "modelName": "Sony Alpha 7R",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "36.4MP",
@@ -881,7 +881,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha Sonyazv-e1",
+    "modelName": "Sony Alpha azv-e1",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "Full Frame",
     "megapixels": "12.1MP",
@@ -1187,7 +1187,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha SonyaZV-E10II",
+    "modelName": "Sony Alpha aZV-E10II",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "26.0MP",
@@ -1230,7 +1230,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha SonyaZV-E10",
+    "modelName": "Sony Alpha aZV-E10",
     "gearType": "CAMERA_BODY",
     "sensorFormat": "APS-C",
     "megapixels": "24.2MP",
@@ -12916,7 +12916,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha SONYAFX3",
+    "modelName": "Sony Alpha AFX3",
     "gearType": "CAMERA_BODY",
     "megapixels": "12.1MP",
     "weightGrams": "Approx. 630 g (including battery and card)",
@@ -12958,7 +12958,7 @@
   },
   {
     "brand": "Sony",
-    "modelName": "Sony Alpha SONYAFX30",
+    "modelName": "Sony Alpha AFX30",
     "gearType": "CAMERA_BODY",
     "megapixels": "26.0MP",
     "weightGrams": "Approx. 562 g (including battery and card)",
