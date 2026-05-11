@@ -38,36 +38,36 @@ export default function HomePage() {
         {/* Abstract Background Glow */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-red-900/20 blur-[120px] rounded-full pointer-events-none" />
 
-        <div className="max-w-7xl mx-auto w-full px-8 py-20 flex flex-col items-center text-center relative z-10">
+        <div className="max-w-7xl mx-auto w-full px-6 py-16 md:py-20 flex flex-col items-center text-center relative z-10">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm mb-8">
             <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse" />
             <span className="text-[10px] uppercase tracking-widest font-bold text-gray-300">{t('version')}</span>
           </div>
 
-          <h2 className="text-6xl md:text-8xl font-black tracking-tighter uppercase mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-500" 
+          <h2 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter uppercase mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-500" 
               dangerouslySetInnerHTML={{ __html: t('title') }} />
           
-          <p className="max-w-2xl text-lg text-gray-400 font-light mb-12 leading-relaxed">
+          <p className="max-w-2xl text-base md:text-lg text-gray-400 font-light mb-12 leading-relaxed px-4">
             {t('subtitle')}
           </p>
 
           <Link 
             href="/database" 
-            className="group relative inline-flex items-center gap-4 px-8 py-4 bg-white text-black font-bold uppercase tracking-widest overflow-hidden transition-all hover:scale-105"
+            className="group relative inline-flex items-center gap-4 px-6 md:px-8 py-4 bg-white text-black font-bold uppercase tracking-widest overflow-hidden transition-all hover:scale-105"
           >
-            <span className="relative z-10">{t('enter')}</span>
+            <span className="relative z-10 text-sm md:text-base">{t('enter')}</span>
             <ChevronRight className="w-5 h-5 relative z-10 group-hover:translate-x-1 transition-transform" />
             <div className="absolute inset-0 bg-red-600 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out z-0" />
             <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out z-0 text-white flex items-center justify-center gap-4">
-              <span>{t('enter')}</span>
+              <span className="text-sm md:text-base">{t('enter')}</span>
               <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </div>
           </Link>
         </div>
 
         {/* Floating Gear Showcase */}
-        <div className="w-full max-w-6xl mx-auto px-8 pb-20 relative z-10">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div className="w-full max-w-6xl mx-auto px-6 pb-20 relative z-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
             {heroImages.map((img, idx) => (
               <div 
                 key={idx} 

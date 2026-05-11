@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Camera, Check, ArrowRightLeft } from 'lucide-react';
+import { Camera, Check, ArrowRightLeft, Filter, X } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import CameraCard from './CameraCard';
 import { useRouter, useSearchParams, usePathname } from 'next/navigation';
@@ -26,6 +26,7 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     mounts: []
   });
   const [mounted, setMounted] = useState(false);
+  const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
 
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -236,9 +237,41 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
 
   return (
     <div className="flex flex-col md:flex-row gap-8 items-start">
-      {/* Sidebar Filters */}
-      <aside className="w-full md:w-64 shrink-0 sticky top-24">
+      {/* Mobile Filter Toggle Button */}
+      <div className="md:hidden w-full sticky top-20 z-20 bg-black/80 backdrop-blur-md py-4">
+        <button 
+          onClick={() => setIsMobileFilterOpen(true)}
+          className="w-full flex items-center justify-center gap-2 bg-[#1A1A1A] hover:bg-[#222] border border-white/10 text-white py-3 rounded-none uppercase tracking-widest text-sm font-semibold transition-colors"
+        >
+          <Filter className="w-4 h-4" />
+          {tc('filters') || 'FILTERS'}
+        </button>
+      </div>
+
+      {/* Sidebar Filters (Desktop & Mobile Modal) */}
+      <aside className={`
+        fixed inset-0 z-50 bg-black/95 p-6 overflow-y-auto transition-transform duration-300
+        ${isMobileFilterOpen ? 'translate-x-0' : '-translate-x-full'}
+        md:static md:translate-x-0 md:w-64 md:shrink-0 md:bg-transparent md:p-0 md:block md:sticky md:top-24 md:z-10 md:overflow-visible
+      `}>
+        <div className="flex md:hidden justify-between items-center mb-8 border-b border-white/10 pb-4">
+          <h2 className="text-xl font-bold uppercase tracking-widest">{tc('filters') || 'FILTERS'}</h2>
+          <button onClick={() => setIsMobileFilterOpen(false)} className="p-2 border border-white/10 hover:bg-white/5 transition-colors">
+            <X className="w-5 h-5" />
+          </button>
+        </div>
+        
         <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} />
+        
+        {/* Mobile Apply Button */}
+        <div className="mt-8 md:hidden pb-12">
+          <button 
+            onClick={() => setIsMobileFilterOpen(false)}
+            className="w-full bg-red-600 hover:bg-red-700 transition-colors text-white py-4 font-bold uppercase tracking-widest text-sm"
+          >
+            Apply & Close
+          </button>
+        </div>
       </aside>
 
       <div className="flex-1 relative w-full">
