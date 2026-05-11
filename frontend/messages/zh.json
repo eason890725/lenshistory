@@ -99,5 +99,17 @@
     "megapixelsHighest": "解析度：由高到低",
     "sensorFormat": "感光元件",
     "resetFilters": "重設所有篩選"
+  },
+  "Landing": {
+    "version": "資料庫 v2.0 正式上線",
+    "title": "終極攝影器材 <br/> 歷史檔案庫",
+    "subtitle": "精心策劃的高解析度資料庫，涵蓋 Sony、Nikon、Canon 與 Fujifilm 的旗艦生態系。探索技術規格、深度比較鏡頭，見證現代光學科技的歷史演進。",
+    "enter": "進入資料庫",
+    "feature1Title": "龐大館藏",
+    "feature1Desc": "超過 140+ 款精心記錄的相機與鏡頭，配備極致純黑 (RGB 0,0,0) 的高解析度去背影像。",
+    "feature2Title": "深度對比",
+    "feature2Desc": "跨越系統限制，瞬間交叉比對各家廠牌的技術指標、光學公式與物理尺寸。",
+    "feature3Title": "歷史考究",
+    "feature3Desc": "追溯傳奇光學設計的血脈，從單眼相機的黃金時代，一路見證至現代無反相機的革命。"
   }
 }

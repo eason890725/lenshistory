@@ -100,5 +100,17 @@
     "megapixelsHighest": "Megapixels: Highest First",
     "sensorFormat": "Sensor Format",
     "resetFilters": "Reset Filters"
+  },
+  "Landing": {
+    "version": "Database v2.0 Live",
+    "title": "The Ultimate <br/> Gear Archive",
+    "subtitle": "A meticulously curated, high-fidelity database covering the flagship ecosystems of Sony, Nikon, Canon, and Fujifilm. Explore technical specifications, compare lenses, and discover the history of modern optics.",
+    "enter": "Enter Database",
+    "feature1Title": "Vast Collection",
+    "feature1Desc": "Over 140+ meticulously documented cameras and lenses, featuring pure RGB 0,0,0 high-resolution isolations.",
+    "feature2Title": "Deep Comparison",
+    "feature2Desc": "Instantly cross-reference technical metrics, optical formulas, and dimensions across multiple systems.",
+    "feature3Title": "Historical Accuracy",
+    "feature3Desc": "Trace the lineage of legendary optical designs from DSLR eras to the modern mirrorless revolution."
   }
 }
