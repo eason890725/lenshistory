@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --webpack",
+    "validate": "node scripts/validate-products.mjs",
+    "prebuild": "npm run validate",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
