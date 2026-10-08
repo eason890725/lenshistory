@@ -2,39 +2,16 @@ import { Camera } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import {setRequestLocale, getTranslations} from 'next-intl/server';
 import GearGrid from './GearGrid';
-
-import products from '@/data/products.json';
-
-// Transform the flat JSON data into the multi-language structure expected by the UI
-function getGears() {
-  return products.map((item: any, index: number) => ({
-    ...item,
-    id: item.id || (index + 1),
-    brand: typeof item.brand === 'string' ? { 
-      slug: item.brand.toLowerCase(), 
-      nameI18n: { enUs: item.brand, zhTw: item.brand } 
-    } : item.brand,
-    modelNameI18n: {
-      enUs: item.modelName,
-      zhTw: item.modelName
-    }
-  }));
-}
-
+import { gears } from '@/lib/gear-data';
 
 export default async function DatabasePage({
-  searchParams,
   params
 }: {
-  searchParams: Promise<{ brand?: string, type?: string, q?: string }>;
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
   const tc = await getTranslations('Common');
-
-  const resolvedSearchParams = await searchParams;
-  const gears = getGears();
 
   return (
     <div className="flex flex-col min-h-screen">

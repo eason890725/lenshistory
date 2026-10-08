@@ -1,31 +1,19 @@
 'use client';
 
-import { useState, useEffect } from 'react';
 import { ArrowRightLeft, Check } from 'lucide-react';
 import { useRouter } from 'next/navigation';
+import { useCompareIds } from '@/lib/compare';
 
-export default function CompareButton({ gearId, locale }: { gearId: string | number, locale: string }) {
-  const [selectedIds, setSelectedIds] = useState<string[]>([]);
+export default function CompareButton({ gearId, locale }: { gearId: string, locale: string }) {
+  const [selectedIds, setSelectedIds] = useCompareIds();
   const router = useRouter();
 
-  // Load from localStorage on mount
-  useEffect(() => {
-    const stored = localStorage.getItem('compare_ids');
-    if (stored) {
-      setSelectedIds(JSON.parse(stored));
-    }
-  }, []);
-
-  const gearIdStr = String(gearId);
-  const isSelected = selectedIds.includes(gearIdStr);
+  const isSelected = selectedIds.includes(gearId);
 
   const toggleSelect = () => {
-    const newIds = isSelected 
-      ? selectedIds.filter(id => id !== gearIdStr)
-      : [...selectedIds, gearIdStr];
-    
-    setSelectedIds(newIds);
-    localStorage.setItem('compare_ids', JSON.stringify(newIds));
+    setSelectedIds(isSelected
+      ? selectedIds.filter(id => id !== gearId)
+      : [...selectedIds, gearId]);
   };
 
   const goToCompare = () => {
@@ -36,19 +24,19 @@ export default function CompareButton({ gearId, locale }: { gearId: string | num
 
   return (
     <div className="flex gap-4 w-full">
-      <button 
+      <button
         onClick={toggleSelect}
         className={`flex-1 font-medium py-3 px-6 uppercase tracking-wider text-sm transition-colors flex items-center justify-center gap-2 border
-          ${isSelected 
-            ? 'bg-red-600 border-red-600 text-white hover:bg-red-700' 
+          ${isSelected
+            ? 'bg-red-600 border-red-600 text-white hover:bg-red-700'
             : 'bg-transparent border-white/20 text-gray-300 hover:border-white hover:text-white'}`}
       >
         {isSelected ? <Check className="w-4 h-4" /> : <ArrowRightLeft className="w-4 h-4" />}
         {isSelected ? 'Selected' : 'Add to Compare'}
       </button>
-      
+
       {selectedIds.length > 0 && (
-        <button 
+        <button
           onClick={goToCompare}
           className="bg-white text-black hover:bg-gray-200 font-bold py-3 px-8 uppercase tracking-wider text-sm transition-colors"
         >

@@ -41,6 +41,7 @@
     "fullSpecs": "完整技術參數",
     "optical": "光學性能",
     "imaging": "影像核心",
+    "hardware": "硬體與物理規格",
     "basicSpecs": "基本規格",
     "performance": "效能參數",
     "physical": "物理規格",
@@ -98,7 +99,8 @@
     "weightLightest": "重量：由輕到重",
     "megapixelsHighest": "解析度：由高到低",
     "sensorFormat": "感光元件",
-    "resetFilters": "重設所有篩選"
+    "resetFilters": "重設所有篩選",
+    "filters": "篩選"
   },
   "Landing": {
     "version": "資料庫 v2.0 正式上線",

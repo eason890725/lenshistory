@@ -41,6 +41,7 @@
     "fullSpecs": "Technical Specifications",
     "optical": "Optical Performance",
     "imaging": "Imaging Core",
+    "hardware": "Hardware & Physical",
     "basicSpecs": "Basic Specifications",
     "performance": "Performance Metrics",
     "physical": "Physical Specs",
@@ -99,7 +100,8 @@
     "weightLightest": "Weight: Lightest First",
     "megapixelsHighest": "Megapixels: Highest First",
     "sensorFormat": "Sensor Format",
-    "resetFilters": "Reset Filters"
+    "resetFilters": "Reset Filters",
+    "filters": "Filters"
   },
   "Landing": {
     "version": "Database v2.0 Live",

@@ -1,34 +1,13 @@
-'use client';
-
-import { useTranslations } from 'next-intl';
-import { useRouter } from 'next/navigation';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Link } from '@/i18n/routing';
-import React from 'react';
-import { Camera, ChevronLeft, Calendar, Tag, Shield, Zap, Maximize, Cpu, Video, Layers } from 'lucide-react';
+import { Camera } from 'lucide-react';
+import BackButton from '../BackButton';
 import CompareButton from '../CompareButton';
-import products from '@/data/products.json';
+import { focalLength, weightLabel } from '@/lib/gear';
+import { findGear } from '@/lib/gear-data';
 
-async function getGear(id: string) {
-  const item = products.find((p: any) => String(p.id) === id || p.slug === id);
-  
-  if (!item) return null;
-
-  return {
-    ...item,
-    id: item.id,
-    brand: typeof item.brand === 'string' ? { 
-      slug: item.brand.toLowerCase(), 
-      nameI18n: { enUs: item.brand, zhTw: item.brand } 
-    } : item.brand,
-    modelNameI18n: {
-      enUs: item.modelName,
-      zhTw: item.modelName
-    }
-  };
-}
-
-function SpecRow({ label, value, unit }: { label: string; value: any; unit?: string }) {
+function SpecRow({ label, value, unit }: { label: string; value: string | number | null | undefined; unit?: string }) {
   if (value === null || value === undefined || value === "") return null;
   
   const displayValue = (typeof value === 'number' && value === 0) ? "0" : String(value);
@@ -46,7 +25,7 @@ function SpecRow({ label, value, unit }: { label: string; value: any; unit?: str
   );
 }
 
-function FeatureBadge({ label, value, t }: { label: string; value: boolean | null | undefined; t: any }) {
+function FeatureBadge({ label, value }: { label: string; value: boolean | null | undefined }) {
   if (value === null || value === undefined) return null;
   return (
     <div className={`px-3 py-1.5 text-xs font-semibold uppercase tracking-wider border ${
@@ -59,24 +38,17 @@ function FeatureBadge({ label, value, t }: { label: string; value: boolean | nul
   );
 }
 
-export default function GearDetailPage({ params }: { params: Promise<{ id: string, locale: string }> }) {
-  const { id, locale } = React.use(params);
-  const router = useRouter();
-  const t = useTranslations('GearSpecs');
-  const tc = useTranslations('Common');
-  
-  // Note: Since this is now a Client Component, getGear needs to be handled via API or data fetching hook
-  // Keeping original async implementation for now as requested
-  const gear = products.find((p: any) => String(p.id) === id || p.slug === id);
-  
+export default async function GearDetailPage({ params }: { params: Promise<{ id: string, locale: string }> }) {
+  const { id, locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations('GearSpecs');
+  const tc = await getTranslations('Common');
+
+  const gear = findGear(decodeURIComponent(id));
   if (!gear) notFound();
 
-  // Robustly handle both old nested structure and new flat structure
-  const name = gear.modelName || 'Unknown Model';
-  const brandName = typeof gear.brand === 'string' 
-    ? gear.brand 
-    : ((gear.brand as any).nameI18n?.enUs || (gear.brand as any).name || 'Unknown Brand');
-  
+  const name = gear.modelName;
+  const brandName = gear.brand;
   const isLens = gear.gearType === 'LENS';
   const isPrime = isLens && gear.focalLengthMinMm === gear.focalLengthMaxMm;
 
@@ -95,13 +67,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
 
       <main className="flex-1 max-w-6xl mx-auto w-full p-8">
         <div className="mb-8">
-          <button 
-            onClick={() => router.back()}
-            className="group flex items-center gap-2 text-gray-400 hover:text-white transition-colors mb-8"
-          >
-            <ChevronLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
-            <span className="text-xs uppercase tracking-[0.2em] font-medium">{tc('backToDatabase')}</span>
-          </button>
+          <BackButton label={tc('backToDatabase')} />
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
@@ -145,7 +111,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                     <div className="bg-[#111] border border-white/5 p-4">
                       <div className="text-gray-500 text-[10px] uppercase tracking-widest mb-1">{t('focalLength')}</div>
                       <div className="text-white text-xl font-light">
-                        {isPrime ? `${gear.focalLengthMinMm}mm` : `${gear.focalLengthMinMm}-${gear.focalLengthMaxMm}mm`}
+                        {focalLength(gear)}
                       </div>
                     </div>
                   )}
@@ -175,7 +141,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
               {gear.weightGrams && (
                 <div className="bg-[#111] border border-white/5 p-4">
                   <div className="text-gray-500 text-[10px] uppercase tracking-widest mb-1">{t('weight')}</div>
-                  <div className="text-white text-xl font-light">{gear.weightGrams}</div>
+                  <div className="text-white text-xl font-light">{weightLabel(gear)}</div>
                 </div>
               )}
               {gear.launchPrice && (
@@ -190,15 +156,15 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
             <div className="flex flex-wrap gap-2">
               {isLens ? (
                 <>
-                  <FeatureBadge label={t('ois')} value={gear.hasOIS} t={t} />
-                  <FeatureBadge label={t('weatherSeal')} value={gear.hasWeatherSeal} t={t} />
-                  <FeatureBadge label={t('apertureRing')} value={gear.hasApertureRing} t={t} />
-                  <FeatureBadge label={t('customButton')} value={gear.hasCustomButton} t={t} />
+                  <FeatureBadge label={t('ois')} value={gear.hasOIS} />
+                  <FeatureBadge label={t('weatherSeal')} value={gear.hasWeatherSeal} />
+                  <FeatureBadge label={t('apertureRing')} value={gear.hasApertureRing} />
+                  <FeatureBadge label={t('customButton')} value={gear.hasCustomButton} />
                 </>
               ) : (
                 <>
-                  <FeatureBadge label={t('ibis')} value={gear.hasIBIS} t={t} />
-                  <FeatureBadge label={t('weatherSeal')} value={gear.hasWeatherSeal} t={t} />
+                  <FeatureBadge label={t('ibis')} value={gear.hasIBIS} />
+                  <FeatureBadge label={t('weatherSeal')} value={gear.hasWeatherSeal} />
                   <div className="bg-white/5 border border-white/10 px-3 py-1.5 text-[10px] text-gray-400 uppercase tracking-widest">
                     {gear.sensorType || '--'}
                   </div>
@@ -226,7 +192,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                   <div className="bg-white/[0.02] px-4 py-2 border-b border-white/5">
                     <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('basicSpecs')}</span>
                   </div>
-                  <SpecRow label={t('focalLength')} value={isPrime ? `${gear.focalLengthMinMm}mm` : `${gear.focalLengthMinMm}-${gear.focalLengthMaxMm}mm`} />
+                  <SpecRow label={t('focalLength')} value={focalLength(gear)} />
                   <SpecRow label={t('maxAperture')} value={gear.apertureMax ? `f/${gear.apertureMax}` : null} />
                   <SpecRow label={t('minAperture')} value={gear.minAperture ? `f/${gear.minAperture}` : '--'} />
                   <SpecRow label={t('motorType')} value={gear.motorType || '--'} />
@@ -262,7 +228,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
                     <span className="text-red-500 text-[10px] font-bold uppercase tracking-widest">{t('physical')}</span>
                   </div>
                   <SpecRow label={t('series')} value={gear.series || '--'} />
-                  <SpecRow label={t('weight')} value={gear.weightGrams || '--'} unit={gear.weightGrams && !String(gear.weightGrams).includes('g') ? "g" : ""} />
+                  <SpecRow label={t('weight')} value={weightLabel(gear) || '--'} />
                   <SpecRow label={t('dimensions')} value={gear.dimensions || '--'} />
                   <SpecRow label={t('releaseYear')} value={gear.releaseYear || '--'} />
                   <SpecRow label={t('launchPrice')} value={gear.launchPrice ? `NT$${Number(gear.launchPrice).toLocaleString()}` : '--'} />
@@ -287,7 +253,7 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
 
                 {/* 2. Performance Section */}
                 <div className="mb-8 border-t border-white/5 pt-4">
-                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">效能參數</div>
+                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">{t('performance')}</div>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-1">
                     <SpecRow label={t('afPoints')} value={gear.afPoints || '--'} />
                     <SpecRow label={t('afTargets')} value={gear.afTargets || '--'} />
@@ -301,13 +267,13 @@ export default function GearDetailPage({ params }: { params: Promise<{ id: strin
 
                 {/* 3. Hardware & Physical Section */}
                 <div className="mb-8 border-t border-white/5 pt-4">
-                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">硬體與物理規格</div>
+                  <div className="text-red-500 text-[10px] uppercase tracking-widest font-bold mb-4">{t('hardware')}</div>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-1">
                     <SpecRow label={t('lcdSpec')} value={gear.lcdSpec || '--'} />
                     <SpecRow label={t('cardSlots')} value={gear.cardSlots || '--'} />
                     <SpecRow label={t('batterySpec')} value={gear.batterySpec || '--'} />
                     <SpecRow label={t('ports')} value={gear.ports || '--'} />
-                    <SpecRow label={t('weight')} value={gear.weightGrams || '--'} />
+                    <SpecRow label={t('weight')} value={weightLabel(gear) || '--'} />
                     <SpecRow label={t('dimensions')} value={gear.dimensions || '--'} />
                   </div>
                 </div>

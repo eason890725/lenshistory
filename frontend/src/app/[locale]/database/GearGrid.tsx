@@ -1,43 +1,49 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Camera, Check, ArrowRightLeft, Filter, X } from 'lucide-react';
-import { Link } from '@/i18n/routing';
+import { ArrowRightLeft, Filter, X } from 'lucide-react';
 import CameraCard from './CameraCard';
 import { useRouter, useSearchParams, usePathname } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { weightValue, type Gear } from '@/lib/gear';
+import { useCompareIds } from '@/lib/compare';
 
 import FilterPanel, { FilterState } from './FilterPanel';
 
-export default function GearGrid({ gears, locale }: { gears: any[], locale: string }) {
-  const [selectedIds, setSelectedIds] = useState<number[]>([]);
-  const [selectedType, setSelectedType] = useState<string | null>(null);
-  const [filters, setFilters] = useState<FilterState>({
-    q: '',
-    sortBy: 'newest',
-    minPrice: 0,
-    maxPrice: 200000,
-    minYear: 2010,
-    maxYear: 2026,
-    sensorFormats: [],
-    gearTypes: [],
-    brands: [],
-    mounts: []
-  });
-  const [mounted, setMounted] = useState(false);
+function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
+  const list = (k: string) => p.get(k)?.split(',') ?? [];
+  const int = (k: string, fallback: number) => (p.get(k) ? parseInt(p.get(k)!) : fallback);
+  return {
+    q: p.get('q') ?? '',
+    sortBy: p.get('sortBy') ?? 'newest',
+    minPrice: int('minP', 0),
+    maxPrice: int('maxP', 200000),
+    minYear: int('minY', 2010),
+    maxYear: int('maxY', 2026),
+    sensorFormats: list('formats'),
+    gearTypes: list('gearTypes'),
+    brands: list('brands'),
+    mounts: list('mounts')
+  };
+}
+
+export default function GearGrid({ gears, locale }: { gears: Gear[], locale: string }) {
+  const searchParams = useSearchParams();
+  const [filters, setFilters] = useState<FilterState>(() => filtersFromParams(searchParams));
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
+  const [storedIds, setSelectedIds] = useCompareIds();
+  // Drop ids that no longer exist (e.g. merged duplicates) so they can't lock the type filter
+  const selectedIds = storedIds.filter(id => gears.some(g => g.id === id));
+  const selectedType = gears.find(g => g.id === selectedIds[0])?.gearType ?? null;
 
   const router = useRouter();
-  const searchParams = useSearchParams();
   const pathname = usePathname();
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
 
   // Calculate counts for each brand from all available gears
   const brandCounts = gears.reduce((acc: Record<string, number>, g) => {
-    const brandName = g.brand?.nameI18n?.enUs || g.brand;
-    acc[brandName] = (acc[brandName] || 0) + 1;
+    acc[g.brand] = (acc[g.brand] || 0) + 1;
     return acc;
   }, {});
 
@@ -47,34 +53,28 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       // Search (Model, Brand, and Aliases)
       if (filters.q) {
         const query = filters.q.toLowerCase();
-        const nameEn = (g.modelNameI18n?.enUs || g.modelName || '').toLowerCase();
-        const brandEn = (typeof g.brand === 'string' ? g.brand : (g.brand?.nameI18n?.enUs || g.brand?.name || '')).toLowerCase();
-        const aliases = (g.aliases || []).map((a: string) => a.toLowerCase());
-        
-        const matchesName = nameEn.includes(query);
-        const matchesBrand = brandEn.includes(query);
-        const matchesAlias = aliases.some((a: string) => a.includes(query));
-        
+        const matchesName = g.modelName.toLowerCase().includes(query);
+        const matchesBrand = g.brand.toLowerCase().includes(query);
+        const matchesAlias = (g.aliases || []).some(a => a.toLowerCase().includes(query));
+
         if (!matchesName && !matchesBrand && !matchesAlias) return false;
       }
       // Gear Type
       if (filters.gearTypes.length > 0 && !filters.gearTypes.includes(g.gearType)) return false;
       // Brands
-      if (filters.brands.length > 0) {
-        const itemBrandName = typeof g.brand === 'string' ? g.brand : (g.brand?.nameI18n?.enUs || g.brand?.name);
-        if (!filters.brands.includes(itemBrandName)) return false;
-      }
+      if (filters.brands.length > 0 && !filters.brands.includes(g.brand)) return false;
       // Price
-      const price = Number(g.launchPrice);
-      if (price && (price < filters.minPrice || price > filters.maxPrice)) return false;
+      // The slider's top position means "MAX", i.e. no upper limit
+      const price = g.launchPrice;
+      if (price && (price < filters.minPrice || (filters.maxPrice < 200000 && price > filters.maxPrice))) return false;
       // Year
       const year = Number(g.releaseYear);
       if (year && (year < filters.minYear || year > filters.maxYear)) return false;
       // Format
-      if (filters.sensorFormats.length > 0 && !filters.sensorFormats.includes(g.sensorFormat)) return false;
+      if (filters.sensorFormats.length > 0 && !filters.sensorFormats.includes(g.sensorFormat ?? '')) return false;
       // Mounts
       if (filters.mounts.length > 0) {
-        const gearMountNames = g.mounts?.map((gm: any) => gm.mount?.name) || [];
+        const gearMountNames = g.mounts?.map(gm => gm.mount.name) || [];
         if (!filters.mounts.some(m => gearMountNames.includes(m))) return false;
       }
       
@@ -86,100 +86,49 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
         case 'oldest': return (Number(a.releaseYear) || 0) - (Number(b.releaseYear) || 0);
         case 'priceDesc': return (Number(b.launchPrice) || 0) - (Number(a.launchPrice) || 0);
         case 'priceAsc': return (Number(a.launchPrice) || 1000000) - (Number(b.launchPrice) || 1000000);
-        case 'weightAsc': return (Number(a.weightGrams) || 10000) - (Number(b.weightGrams) || 10000);
+        case 'weightAsc': return (weightValue(a) || 10000) - (weightValue(b) || 10000);
         case 'mpDesc': return (Number(b.megapixels) || 0) - (Number(a.megapixels) || 0);
         default: return 0;
       }
     });
 
-  // Initialize filters from URL and Restore Scroll
+  // Restore scroll position when coming back from a detail page
   useEffect(() => {
-    setMounted(true);
-    
-    const urlFilters: Partial<FilterState> = {};
-    const q = searchParams.get('q');
-    if (q) urlFilters.q = q;
-    
-    const brands = searchParams.get('brands');
-    if (brands) urlFilters.brands = brands.split(',');
-    
-    const gearTypes = searchParams.get('gearTypes');
-    if (gearTypes) urlFilters.gearTypes = gearTypes.split(',');
-    
-    const formats = searchParams.get('formats');
-    if (formats) urlFilters.sensorFormats = formats.split(',');
-    
-    const mounts = searchParams.get('mounts');
-    if (mounts) urlFilters.mounts = mounts.split(',');
-    
-    const sortBy = searchParams.get('sortBy');
-    if (sortBy) urlFilters.sortBy = sortBy;
+    window.history.scrollRestoration = 'manual';
+    const savedScroll = sessionStorage.getItem('database_scroll');
 
-    // Numerical filters from URL
-    const minP = searchParams.get('minP');
-    if (minP) urlFilters.minPrice = parseInt(minP);
-    const maxP = searchParams.get('maxP');
-    if (maxP) urlFilters.maxPrice = parseInt(maxP);
-    const minY = searchParams.get('minY');
-    if (minY) urlFilters.minYear = parseInt(minY);
-    const maxY = searchParams.get('maxY');
-    if (maxY) urlFilters.maxYear = parseInt(maxY);
+    if (savedScroll) {
+      let attempts = 0;
+      const targetScroll = parseInt(savedScroll);
 
-    if (Object.keys(urlFilters).length > 0) {
-      setFilters(prev => ({ ...prev, ...urlFilters }));
+      const performScroll = () => {
+        window.scrollTo({ top: targetScroll, behavior: 'instant' });
+        attempts++;
+        // Try multiple times over ~500ms to handle layout shifts
+        if (attempts < 10) {
+          requestAnimationFrame(performScroll);
+        }
+      };
+      requestAnimationFrame(performScroll);
     }
 
-    // Scroll Restoration logic - Improved for stability
-    if (typeof window !== 'undefined') {
-      window.history.scrollRestoration = 'manual';
-      const savedScroll = sessionStorage.getItem('database_scroll');
-      
-      if (savedScroll) {
-        let attempts = 0;
-        const targetScroll = parseInt(savedScroll);
-        
-        const performScroll = () => {
-          window.scrollTo({ top: targetScroll, behavior: 'instant' });
-          attempts++;
-          // Try multiple times over ~500ms to handle layout shifts
-          if (attempts < 10) {
-            requestAnimationFrame(performScroll);
-          }
-        };
-        requestAnimationFrame(performScroll);
-      }
+    let saveTimeout: ReturnType<typeof setTimeout> | undefined;
+    const handleScroll = () => {
+      clearTimeout(saveTimeout);
+      saveTimeout = setTimeout(() => {
+        sessionStorage.setItem('database_scroll', window.scrollY.toString());
+      }, 100);
+    };
 
-      // Use a flag to avoid saving while we are restoring
-      let restorationTimeout: any = null;
-      const handleScroll = () => {
-        // Debounce or at least avoid saving during initial mount
-        if (restorationTimeout) clearTimeout(restorationTimeout);
-        restorationTimeout = setTimeout(() => {
-          sessionStorage.setItem('database_scroll', window.scrollY.toString());
-        }, 100);
-      };
-
-      window.addEventListener('scroll', handleScroll);
-
-      const stored = localStorage.getItem('compare_ids');
-      if (stored) {
-        try {
-          const ids = JSON.parse(stored);
-          setSelectedIds(ids);
-        } catch (e) {}
-      }
-
-      return () => {
-        window.removeEventListener('scroll', handleScroll);
-        if (restorationTimeout) clearTimeout(restorationTimeout);
-      };
-    }
-  }, [gears]);
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      clearTimeout(saveTimeout);
+    };
+  }, []);
 
   // Sync filters to URL
   useEffect(() => {
-    if (!mounted) return;
-
     const params = new URLSearchParams();
     if (filters.q) params.set('q', filters.q);
     if (filters.brands.length > 0) params.set('brands', filters.brands.join(','));
@@ -198,26 +147,22 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
     const url = query ? `${pathname}?${query}` : pathname;
     
     window.history.replaceState(null, '', url);
-  }, [filters, pathname, mounted]);
+  }, [filters, pathname]);
 
-  const toggleSelect = (e: React.MouseEvent, gear: any) => {
+  const toggleSelect = (e: React.MouseEvent, gear: Gear) => {
     e.preventDefault();
     e.stopPropagation();
-    
+
     const isSelected = selectedIds.includes(gear.id);
-    
+
     if (!isSelected && selectedIds.length > 0 && selectedType !== gear.gearType) {
       alert(tc('cannotMixComparison'));
       return;
     }
 
-    const newIds = isSelected 
+    setSelectedIds(isSelected
       ? selectedIds.filter(i => i !== gear.id)
-      : [...selectedIds, gear.id];
-    
-    setSelectedIds(newIds);
-    setSelectedType(newIds.length > 0 ? gear.gearType : null);
-    localStorage.setItem('compare_ids', JSON.stringify(newIds));
+      : [...selectedIds, gear.id]);
   };
 
   const handleCompare = () => {
@@ -225,15 +170,6 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       router.push(`/${locale}/compare?ids=${selectedIds.join(',')}`);
     }
   };
-
-  if (!mounted) {
-    return (
-      <div className="flex flex-col md:flex-row gap-8 items-start opacity-0">
-        <aside className="w-full md:w-64 shrink-0" />
-        <div className="flex-1" />
-      </div>
-    );
-  }
 
   return (
     <div className="flex flex-col md:flex-row gap-8 items-start">
@@ -244,7 +180,7 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
           className="w-full flex items-center justify-center gap-2 bg-[#1A1A1A] hover:bg-[#222] border border-white/10 text-white py-3 rounded-none uppercase tracking-widest text-sm font-semibold transition-colors"
         >
           <Filter className="w-4 h-4" />
-          {tc('filters') || 'FILTERS'}
+          {tc('filters')}
         </button>
       </div>
 
@@ -255,7 +191,7 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
         md:static md:translate-x-0 md:w-64 md:shrink-0 md:bg-transparent md:p-0 md:block md:sticky md:top-24 md:z-10 md:overflow-visible
       `}>
         <div className="flex md:hidden justify-between items-center mb-8 border-b border-white/10 pb-4">
-          <h2 className="text-xl font-bold uppercase tracking-widest">{tc('filters') || 'FILTERS'}</h2>
+          <h2 className="text-xl font-bold uppercase tracking-widest">{tc('filters')}</h2>
           <button onClick={() => setIsMobileFilterOpen(false)} className="p-2 border border-white/10 hover:bg-white/5 transition-colors">
             <X className="w-5 h-5" />
           </button>
@@ -277,7 +213,7 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
       <div className="flex-1 relative w-full">
         {filteredGears.length > 0 ? (
           <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-            {filteredGears.map((gear: any) => (
+            {filteredGears.map(gear => (
               <CameraCard
                 key={gear.id}
                 gear={gear}
@@ -299,24 +235,20 @@ export default function GearGrid({ gears, locale }: { gears: any[], locale: stri
 
       {/* Floating Compare Button */}
       {selectedIds.length > 0 && (
-        <div className="fixed bottom-8 left-1/2 -translate-x-1/2 bg-[#111] border border-red-600/50 p-4 shadow-2xl flex items-center gap-6 z-50 animate-in fade-in slide-in-from-bottom-4">
-          <div className="text-white text-sm font-medium tracking-wide">
+        <div className="fixed bottom-8 left-1/2 -translate-x-1/2 bg-[#111] border border-red-600/50 p-4 shadow-2xl flex items-center gap-3 md:gap-6 z-50 whitespace-nowrap animate-in fade-in slide-in-from-bottom-4">
+          <div className="text-white text-xs md:text-sm font-medium tracking-wide">
             {selectedIds.length} {tc('itemsSelected')} ({selectedType === 'LENS' ? t('lens') : t('body')})
           </div>
           <div className="flex gap-2">
             <button 
-              onClick={() => {
-                setSelectedIds([]);
-                setSelectedType(null);
-                localStorage.setItem('compare_ids', '[]');
-              }}
-              className="text-gray-400 hover:text-white text-xs uppercase tracking-widest px-4 py-2 border border-white/10 hover:border-white transition-colors"
+              onClick={() => setSelectedIds([])}
+              className="text-gray-400 hover:text-white text-xs uppercase tracking-widest px-3 md:px-4 py-2 border border-white/10 hover:border-white transition-colors"
             >
               {tc('clear')}
             </button>
             <button 
               onClick={handleCompare}
-              className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 text-sm font-semibold uppercase tracking-widest transition-colors flex items-center gap-2"
+              className="bg-red-600 hover:bg-red-700 text-white px-4 md:px-6 py-2 text-sm font-semibold uppercase tracking-widest transition-colors flex items-center gap-2"
             >
               <ArrowRightLeft className="w-4 h-4" />
               {tc('compare')}

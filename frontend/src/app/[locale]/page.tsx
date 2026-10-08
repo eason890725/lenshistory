@@ -1,17 +1,16 @@
 import { useTranslations } from 'next-intl';
-import { Camera, ChevronRight, Zap, Database, Scale, Layers } from 'lucide-react';
+import { Camera, ChevronRight, Database, Scale, Layers } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 
 export default function HomePage() {
   const tNav = useTranslations('Navigation');
-  const tc = useTranslations('Common');
   const t = useTranslations('Landing');
 
   const heroImages = [
     { brand: 'SONY', model: 'A1 II', src: '/images/products/sony/sony-a1-ii.jpg', delay: '0ms' },
     { brand: 'NIKON', model: 'Z9', src: '/images/products/nikon/nikon-z9.jpg', delay: '150ms' },
     { brand: 'CANON', model: 'EOS R1', src: '/images/products/canon/canon-eos-r1.jpg', delay: '300ms' },
-    { brand: 'FUJIFILM', model: 'GFX100 II', src: '/images/products/fujifilm/fujifilm-gfx100-ii.jpg', delay: '450ms' }
+    { brand: 'FUJIFILM', model: 'GFX100 II', src: '/images/products/fujifilm/fujifilm-gfx-100-ii.jpg', delay: '450ms' }
   ];
 
   return (

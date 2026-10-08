@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { Search, SortDesc, SlidersHorizontal } from 'lucide-react';
+import { Search, SortDesc } from 'lucide-react';
 
 export interface FilterState {
   q: string;
