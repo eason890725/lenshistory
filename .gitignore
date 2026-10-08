@@ -2,9 +2,9 @@
 .next/
 node_modules/
 
-# Maven/Java
-target/
-*.class
+# Python / tooling
+__pycache__/
+graphify-out/
 
 # OS
 .DS_Store
