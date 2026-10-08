@@ -6,7 +6,7 @@ import { join, relative } from 'node:path';
 const root = new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1');
 const items = JSON.parse(readFileSync(process.argv[2] ?? join(root, 'src/data/products.json'), 'utf8'));
 
-const SHARED = ['id', 'slug', 'brand', 'modelName', 'gearType', 'aliases', 'image_url', 'mounts', 'sensorFormat', 'series',
+const SHARED = ['id', 'slug', 'brand', 'modelName', 'gearType', 'aliases', 'image_url', 'officialUrl', 'mounts', 'sensorFormat', 'series',
   'category', 'releaseYear', 'launchPrice', 'weightGrams', 'dimensions', 'hasWeatherSeal'];
 const LENS = ['lensType', 'focalLengthMinMm', 'focalLengthMaxMm', 'apertureMax', 'minAperture', 'maxMagnification', 'closeFocus',
   'filterSizeMm', 'motorType', 'opticalDesign', 'specialElements', 'coatings', 'hasOIS', 'hasApertureRing', 'hasCustomButton'];
