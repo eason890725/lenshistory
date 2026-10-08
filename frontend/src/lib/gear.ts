@@ -10,6 +10,7 @@ export type Gear = {
   gearType: 'LENS' | 'CAMERA_BODY';
   aliases?: string[];
   image_url?: string;
+  officialUrl?: string;
   mounts?: { mount: { name: string } }[];
   sensorFormat?: string;
   series?: string;

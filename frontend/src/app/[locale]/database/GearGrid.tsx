@@ -1,14 +1,13 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { ArrowRightLeft, Filter, X } from 'lucide-react';
-import CameraCard from './CameraCard';
-import { useRouter, useSearchParams, usePathname } from 'next/navigation';
+import { usePathname, useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { useRouter } from '@/i18n/routing';
+import ProductCard from '@/components/gear/ProductCard';
 import { weightValue, type Gear } from '@/lib/gear';
 import { useCompareIds } from '@/lib/compare';
-
-import FilterPanel, { FilterState } from './FilterPanel';
+import FilterPanel, { EMPTY_FILTERS, PRICE_MAX, YEAR_MAX, YEAR_MIN, type FilterState } from './FilterPanel';
 
 function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
   const list = (k: string) => p.get(k)?.split(',') ?? [];
@@ -17,20 +16,52 @@ function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
     q: p.get('q') ?? '',
     sortBy: p.get('sortBy') ?? 'newest',
     minPrice: int('minP', 0),
-    maxPrice: int('maxP', 200000),
-    minYear: int('minY', 2010),
-    maxYear: int('maxY', 2026),
+    maxPrice: int('maxP', PRICE_MAX),
+    minYear: int('minY', YEAR_MIN),
+    maxYear: int('maxY', YEAR_MAX),
     sensorFormats: list('formats'),
     gearTypes: list('gearTypes'),
     brands: list('brands'),
-    mounts: list('mounts')
+    mounts: list('mounts'),
   };
 }
 
-export default function GearGrid({ gears, locale }: { gears: Gear[], locale: string }) {
+function matches(g: Gear, f: FilterState) {
+  if (f.q) {
+    const q = f.q.toLowerCase();
+    const hit = g.modelName.toLowerCase().includes(q) || g.brand.toLowerCase().includes(q) || (g.aliases || []).some(a => a.toLowerCase().includes(q));
+    if (!hit) return false;
+  }
+  if (f.gearTypes.length && !f.gearTypes.includes(g.gearType)) return false;
+  if (f.brands.length && !f.brands.includes(g.brand)) return false;
+  // The slider's top position means "MAX", i.e. no upper limit
+  const price = g.launchPrice;
+  if (price && (price < f.minPrice || (f.maxPrice < PRICE_MAX && price > f.maxPrice))) return false;
+  const year = g.releaseYear;
+  if (year && (year < f.minYear || year > f.maxYear)) return false;
+  if (f.sensorFormats.length && !f.sensorFormats.includes(g.sensorFormat ?? '')) return false;
+  if (f.mounts.length && !f.mounts.some(m => g.mounts?.some(gm => gm.mount.name === m))) return false;
+  return true;
+}
+
+function compareGears(sortBy: string) {
+  return (a: Gear, b: Gear) => {
+    switch (sortBy) {
+      case 'newest': return (b.releaseYear || 0) - (a.releaseYear || 0);
+      case 'oldest': return (a.releaseYear || 0) - (b.releaseYear || 0);
+      case 'priceDesc': return (b.launchPrice || 0) - (a.launchPrice || 0);
+      case 'priceAsc': return (a.launchPrice || 1e9) - (b.launchPrice || 1e9);
+      case 'weightAsc': return (weightValue(a) || 1e5) - (weightValue(b) || 1e5);
+      case 'mpDesc': return (parseFloat(String(b.megapixels)) || 0) - (parseFloat(String(a.megapixels)) || 0);
+      default: return 0;
+    }
+  };
+}
+
+export default function GearGrid({ gears }: { gears: Gear[] }) {
   const searchParams = useSearchParams();
   const [filters, setFilters] = useState<FilterState>(() => filtersFromParams(searchParams));
-  const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
+  const [sheetOpen, setSheetOpen] = useState(false);
   const [storedIds, setSelectedIds] = useCompareIds();
   // Drop ids that no longer exist (e.g. merged duplicates) so they can't lock the type filter
   const selectedIds = storedIds.filter(id => gears.some(g => g.id === id));
@@ -41,223 +72,144 @@ export default function GearGrid({ gears, locale }: { gears: Gear[], locale: str
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
 
-  // Calculate counts for each brand from all available gears
-  const brandCounts = gears.reduce((acc: Record<string, number>, g) => {
-    acc[g.brand] = (acc[g.brand] || 0) + 1;
-    return acc;
-  }, {});
+  const brandCounts = Object.entries(
+    gears.reduce<Record<string, number>>((acc, g) => ({ ...acc, [g.brand]: (acc[g.brand] || 0) + 1 }), {})
+  ).sort((a, b) => b[1] - a[1]);
+  const mountOptions = [...new Set(gears.flatMap(g => g.mounts?.map(m => m.mount.name) ?? []))].sort();
 
-  // Filtering and Sorting logic
-  const filteredGears = gears
-    .filter(g => {
-      // Search (Model, Brand, and Aliases)
-      if (filters.q) {
-        const query = filters.q.toLowerCase();
-        const matchesName = g.modelName.toLowerCase().includes(query);
-        const matchesBrand = g.brand.toLowerCase().includes(query);
-        const matchesAlias = (g.aliases || []).some(a => a.toLowerCase().includes(query));
-
-        if (!matchesName && !matchesBrand && !matchesAlias) return false;
-      }
-      // Gear Type
-      if (filters.gearTypes.length > 0 && !filters.gearTypes.includes(g.gearType)) return false;
-      // Brands
-      if (filters.brands.length > 0 && !filters.brands.includes(g.brand)) return false;
-      // Price
-      // The slider's top position means "MAX", i.e. no upper limit
-      const price = g.launchPrice;
-      if (price && (price < filters.minPrice || (filters.maxPrice < 200000 && price > filters.maxPrice))) return false;
-      // Year
-      const year = Number(g.releaseYear);
-      if (year && (year < filters.minYear || year > filters.maxYear)) return false;
-      // Format
-      if (filters.sensorFormats.length > 0 && !filters.sensorFormats.includes(g.sensorFormat ?? '')) return false;
-      // Mounts
-      if (filters.mounts.length > 0) {
-        const gearMountNames = g.mounts?.map(gm => gm.mount.name) || [];
-        if (!filters.mounts.some(m => gearMountNames.includes(m))) return false;
-      }
-      
-      return true;
-    })
-    .sort((a, b) => {
-      switch (filters.sortBy) {
-        case 'newest': return (Number(b.releaseYear) || 0) - (Number(a.releaseYear) || 0);
-        case 'oldest': return (Number(a.releaseYear) || 0) - (Number(b.releaseYear) || 0);
-        case 'priceDesc': return (Number(b.launchPrice) || 0) - (Number(a.launchPrice) || 0);
-        case 'priceAsc': return (Number(a.launchPrice) || 1000000) - (Number(b.launchPrice) || 1000000);
-        case 'weightAsc': return (weightValue(a) || 10000) - (weightValue(b) || 10000);
-        case 'mpDesc': return (Number(b.megapixels) || 0) - (Number(a.megapixels) || 0);
-        default: return 0;
-      }
-    });
+  const results = gears.filter(g => matches(g, filters)).sort(compareGears(filters.sortBy));
 
   // Restore scroll position when coming back from a detail page
   useEffect(() => {
     window.history.scrollRestoration = 'manual';
-    const savedScroll = sessionStorage.getItem('database_scroll');
-
-    if (savedScroll) {
+    const saved = sessionStorage.getItem('database_scroll');
+    if (saved) {
       let attempts = 0;
-      const targetScroll = parseInt(savedScroll);
-
-      const performScroll = () => {
-        window.scrollTo({ top: targetScroll, behavior: 'instant' });
-        attempts++;
-        // Try multiple times over ~500ms to handle layout shifts
-        if (attempts < 10) {
-          requestAnimationFrame(performScroll);
-        }
+      const target = parseInt(saved);
+      const restore = () => {
+        window.scrollTo({ top: target, behavior: 'instant' });
+        if (++attempts < 10) requestAnimationFrame(restore);
       };
-      requestAnimationFrame(performScroll);
+      requestAnimationFrame(restore);
     }
 
     let saveTimeout: ReturnType<typeof setTimeout> | undefined;
-    const handleScroll = () => {
+    const onScroll = () => {
       clearTimeout(saveTimeout);
-      saveTimeout = setTimeout(() => {
-        sessionStorage.setItem('database_scroll', window.scrollY.toString());
-      }, 100);
+      saveTimeout = setTimeout(() => sessionStorage.setItem('database_scroll', String(window.scrollY)), 100);
     };
-
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('scroll', onScroll);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener('scroll', onScroll);
       clearTimeout(saveTimeout);
     };
   }, []);
 
-  // Sync filters to URL
+  // Keep the filters in the URL so back/forward and shared links restore them
   useEffect(() => {
-    const params = new URLSearchParams();
-    if (filters.q) params.set('q', filters.q);
-    if (filters.brands.length > 0) params.set('brands', filters.brands.join(','));
-    if (filters.gearTypes.length > 0) params.set('gearTypes', filters.gearTypes.join(','));
-    if (filters.sensorFormats.length > 0) params.set('formats', filters.sensorFormats.join(','));
-    if (filters.mounts.length > 0) params.set('mounts', filters.mounts.join(','));
-    if (filters.sortBy !== 'newest') params.set('sortBy', filters.sortBy);
-    
-    // Sync Numerical Filters to URL
-    if (filters.minPrice > 0) params.set('minP', filters.minPrice.toString());
-    if (filters.maxPrice < 200000) params.set('maxP', filters.maxPrice.toString());
-    if (filters.minYear > 2010) params.set('minY', filters.minYear.toString());
-    if (filters.maxYear < 2026) params.set('maxY', filters.maxYear.toString());
-
-    const query = params.toString();
-    const url = query ? `${pathname}?${query}` : pathname;
-    
-    window.history.replaceState(null, '', url);
+    const p = new URLSearchParams();
+    if (filters.q) p.set('q', filters.q);
+    if (filters.brands.length) p.set('brands', filters.brands.join(','));
+    if (filters.gearTypes.length) p.set('gearTypes', filters.gearTypes.join(','));
+    if (filters.sensorFormats.length) p.set('formats', filters.sensorFormats.join(','));
+    if (filters.mounts.length) p.set('mounts', filters.mounts.join(','));
+    if (filters.sortBy !== 'newest') p.set('sortBy', filters.sortBy);
+    if (filters.minPrice > 0) p.set('minP', String(filters.minPrice));
+    if (filters.maxPrice < PRICE_MAX) p.set('maxP', String(filters.maxPrice));
+    if (filters.minYear > YEAR_MIN) p.set('minY', String(filters.minYear));
+    if (filters.maxYear < YEAR_MAX) p.set('maxY', String(filters.maxYear));
+    const query = p.toString();
+    window.history.replaceState(null, '', query ? `${pathname}?${query}` : pathname);
   }, [filters, pathname]);
 
-  const toggleSelect = (e: React.MouseEvent, gear: Gear) => {
-    e.preventDefault();
-    e.stopPropagation();
-
+  const toggleCompare = (gear: Gear) => {
     const isSelected = selectedIds.includes(gear.id);
-
-    if (!isSelected && selectedIds.length > 0 && selectedType !== gear.gearType) {
-      alert(tc('cannotMixComparison'));
-      return;
-    }
-
-    setSelectedIds(isSelected
-      ? selectedIds.filter(i => i !== gear.id)
-      : [...selectedIds, gear.id]);
+    if (!isSelected && selectedType && selectedType !== gear.gearType) return;
+    setSelectedIds(isSelected ? selectedIds.filter(i => i !== gear.id) : [...selectedIds, gear.id]);
   };
 
-  const handleCompare = () => {
-    if (selectedIds.length > 0) {
-      router.push(`/${locale}/compare?ids=${selectedIds.join(',')}`);
-    }
-  };
+  const activeCount =
+    filters.brands.length + filters.gearTypes.length + filters.mounts.length + filters.sensorFormats.length +
+    (filters.q ? 1 : 0) + (filters.maxPrice < PRICE_MAX ? 1 : 0) + (filters.minYear > YEAR_MIN || filters.maxYear < YEAR_MAX ? 1 : 0);
 
   return (
-    <div className="flex flex-col md:flex-row gap-8 items-start">
-      {/* Mobile Filter Toggle Button */}
-      <div className="md:hidden w-full sticky top-20 z-20 bg-black/80 backdrop-blur-md py-4">
-        <button 
-          onClick={() => setIsMobileFilterOpen(true)}
-          className="w-full flex items-center justify-center gap-2 bg-[#1A1A1A] hover:bg-[#222] border border-white/10 text-white py-3 rounded-none uppercase tracking-widest text-sm font-semibold transition-colors"
+    <div className="grid gap-[var(--space-xl)] lg:grid-cols-[16rem_minmax(0,1fr)]">
+      {/* Filters: sidebar on desktop, a sheet on small screens */}
+      <div className="lg:hidden">
+        <button
+          type="button"
+          onClick={() => setSheetOpen(true)}
+          className="flex h-11 w-full items-center justify-between border border-rule-2 px-[var(--space-md)] text-sm text-ink"
         >
-          <Filter className="w-4 h-4" />
-          {tc('filters')}
+          <span>{tc('filters')}</span>
+          {activeCount > 0 && <span className="font-mono text-xs text-accent tnum">{activeCount}</span>}
         </button>
       </div>
 
-      {/* Sidebar Filters (Desktop & Mobile Modal) */}
-      <aside className={`
-        fixed inset-0 z-50 bg-black/95 p-6 overflow-y-auto transition-transform duration-300
-        ${isMobileFilterOpen ? 'translate-x-0' : '-translate-x-full'}
-        md:static md:translate-x-0 md:w-64 md:shrink-0 md:bg-transparent md:p-0 md:block md:sticky md:top-24 md:z-10 md:overflow-visible
-      `}>
-        <div className="flex md:hidden justify-between items-center mb-8 border-b border-white/10 pb-4">
-          <h2 className="text-xl font-bold uppercase tracking-widest">{tc('filters')}</h2>
-          <button onClick={() => setIsMobileFilterOpen(false)} className="p-2 border border-white/10 hover:bg-white/5 transition-colors">
-            <X className="w-5 h-5" />
+      <aside
+        className={`${sheetOpen ? 'fixed inset-0 z-40 overflow-y-auto bg-paper px-[var(--page-gutter)] py-[var(--space-lg)]' : 'hidden'} lg:sticky lg:top-[var(--space-lg)] lg:block lg:max-h-[calc(100dvh-var(--space-xl))] lg:self-start lg:overflow-y-auto lg:p-0`}
+      >
+        <div className="mb-[var(--space-md)] flex items-center justify-between lg:hidden">
+          <h2 className="text-lg font-bold">{tc('filters')}</h2>
+          <button type="button" onClick={() => setSheetOpen(false)} className="link-type min-h-11 text-sm">
+            {tc('applyFilters')}
           </button>
         </div>
-        
-        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} />
-        
-        {/* Mobile Apply Button */}
-        <div className="mt-8 md:hidden pb-12">
-          <button 
-            onClick={() => setIsMobileFilterOpen(false)}
-            className="w-full bg-red-600 hover:bg-red-700 transition-colors text-white py-4 font-bold uppercase tracking-widest text-sm"
-          >
-            Apply & Close
-          </button>
-        </div>
+        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} mountOptions={mountOptions} />
       </aside>
 
-      <div className="flex-1 relative w-full">
-        {filteredGears.length > 0 ? (
-          <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
-            {filteredGears.map(gear => (
-              <CameraCard
+      <section aria-live="polite" className="min-w-0">
+        <p className="label mb-[var(--space-md)] tnum">{tc('resultsCount', { count: results.length })}</p>
+        {results.length > 0 ? (
+          <div className="grid grid-cols-[repeat(2,minmax(0,1fr))] gap-x-[var(--space-lg)] gap-y-[var(--space-xl)] md:grid-cols-[repeat(3,minmax(0,1fr))] xl:grid-cols-[repeat(4,minmax(0,1fr))]">
+            {results.map((gear, i) => (
+              <ProductCard
                 key={gear.id}
                 gear={gear}
-                isSelected={selectedIds.includes(gear.id)}
-                isDisabled={selectedIds.length > 0 && selectedType !== gear.gearType}
-                onToggle={toggleSelect}
-                t={t}
-                tc={tc}
+                priority={i < 4}
+                noImageLabel={t('noImage')}
+                compare={{
+                  selected: selectedIds.includes(gear.id),
+                  disabled: !!selectedType && selectedType !== gear.gearType && !selectedIds.includes(gear.id),
+                  onToggle: toggleCompare,
+                  labels: { add: tc('addCompare'), remove: tc('inCompare'), mixed: tc('cannotMixComparison') },
+                }}
               />
             ))}
           </div>
         ) : (
-          <div className="flex flex-col items-center justify-center py-48 border border-dashed border-white/5 bg-white/5 w-full">
-             <div className="text-gray-600 uppercase tracking-[0.5em] text-sm mb-2 font-bold">NO RESULTS FOUND</div>
-             <div className="text-[10px] text-gray-700 uppercase tracking-widest">TRY ADJUSTING YOUR FILTERS</div>
+          <div className="border-t border-rule py-[var(--space-2xl)]">
+            <p className="font-display text-lg font-bold">{tc('noResults')}</p>
+            <p className="mt-[var(--space-xs)] text-sm text-muted">{tc('noResultsHint')}</p>
+            <button type="button" onClick={() => setFilters(EMPTY_FILTERS)} className="link-type mt-[var(--space-md)] min-h-11 text-sm">
+              {tc('resetFilters')}
+            </button>
           </div>
         )}
-      </div>
+      </section>
 
-      {/* Floating Compare Button */}
+      {/* C4 sticky bottom bar for the compare selection */}
       {selectedIds.length > 0 && (
-        <div className="fixed bottom-8 left-1/2 -translate-x-1/2 bg-[#111] border border-red-600/50 p-4 shadow-2xl flex items-center gap-3 md:gap-6 z-50 whitespace-nowrap animate-in fade-in slide-in-from-bottom-4">
-          <div className="text-white text-xs md:text-sm font-medium tracking-wide">
-            {selectedIds.length} {tc('itemsSelected')} ({selectedType === 'LENS' ? t('lens') : t('body')})
-          </div>
-          <div className="flex gap-2">
-            <button 
-              onClick={() => setSelectedIds([])}
-              className="text-gray-400 hover:text-white text-xs uppercase tracking-widest px-3 md:px-4 py-2 border border-white/10 hover:border-white transition-colors"
-            >
-              {tc('clear')}
-            </button>
-            <button 
-              onClick={handleCompare}
-              className="bg-red-600 hover:bg-red-700 text-white px-4 md:px-6 py-2 text-sm font-semibold uppercase tracking-widest transition-colors flex items-center gap-2"
-            >
-              <ArrowRightLeft className="w-4 h-4" />
-              {tc('compare')}
-            </button>
+        <div className="fixed inset-x-0 bottom-0 z-30 border-t border-rule-2 bg-paper px-[var(--page-gutter)] py-[var(--space-sm)]">
+          <div className="mx-auto flex max-w-[var(--page-max)] items-center justify-between gap-[var(--space-md)]">
+            <p className="truncate text-sm text-ink-2 tnum">
+              {selectedIds.length} {tc('itemsSelected')} · {selectedType === 'LENS' ? t('lens') : t('body')}
+            </p>
+            <div className="flex shrink-0 items-center gap-[var(--space-md)]">
+              <button type="button" onClick={() => setSelectedIds([])} className="link-type min-h-11 text-sm text-ink-2">
+                {tc('clear')}
+              </button>
+              <button
+                type="button"
+                onClick={() => router.push(`/compare?ids=${selectedIds.join(',')}`)}
+                className="h-11 whitespace-nowrap bg-accent px-[var(--space-lg)] text-sm font-bold text-accent-ink transition-colors duration-[var(--dur-short)] ease-out hover:bg-ink"
+              >
+                {tc('compareNow', { count: selectedIds.length })}
+              </button>
+            </div>
           </div>
         </div>
       )}
     </div>
   );
 }
-
-

@@ -1,116 +1,62 @@
-import { useTranslations } from 'next-intl';
-import { Camera, ChevronRight, Database, Scale, Layers } from 'lucide-react';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
+import ProductCard from '@/components/gear/ProductCard';
+import { gears } from '@/lib/gear-data';
 
-export default function HomePage() {
-  const tNav = useTranslations('Navigation');
-  const t = useTranslations('Landing');
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations('Landing');
+  const ts = await getTranslations('GearSpecs');
 
-  const heroImages = [
-    { brand: 'SONY', model: 'A1 II', src: '/images/products/sony/sony-a1-ii.jpg', delay: '0ms' },
-    { brand: 'NIKON', model: 'Z9', src: '/images/products/nikon/nikon-z9.jpg', delay: '150ms' },
-    { brand: 'CANON', model: 'EOS R1', src: '/images/products/canon/canon-eos-r1.jpg', delay: '300ms' },
-    { brand: 'FUJIFILM', model: 'GFX100 II', src: '/images/products/fujifilm/fujifilm-gfx-100-ii.jpg', delay: '450ms' }
-  ];
+  const brands = Object.values(
+    gears.reduce<Record<string, { brand: string; bodies: number; lenses: number }>>((acc, g) => {
+      const row = (acc[g.brand] ??= { brand: g.brand, bodies: 0, lenses: 0 });
+      if (g.gearType === 'LENS') row.lenses++;
+      else row.bodies++;
+      return acc;
+    }, {})
+  ).sort((a, b) => b.bodies + b.lenses - (a.bodies + a.lenses));
+
+  const latest = [...gears]
+    .filter(g => g.image_url)
+    .sort((a, b) => (b.releaseYear || 0) - (a.releaseYear || 0) || a.modelName.localeCompare(b.modelName))
+    .slice(0, 8);
 
   return (
-    <div className="flex flex-col min-h-screen bg-black text-white selection:bg-red-500/30">
-      {/* Header */}
-      <header className="border-b border-white/10 p-4 flex justify-between items-center bg-black/50 backdrop-blur-md sticky top-0 z-50">
-        <div className="flex items-center gap-2">
-          <Camera className="w-6 h-6 text-red-600" />
-          <h1 className="text-xl font-bold tracking-widest uppercase">LensHistory</h1>
+    <main className="mx-auto max-w-[var(--page-max)] px-[var(--page-gutter)] pt-[var(--space-2xl)] pb-[var(--space-2xl)]">
+      <section className="max-w-[46rem]">
+        <h1 className="text-[length:var(--text-display)] font-bold leading-[1.05] tracking-[var(--tracking-display)]">{t('title')}</h1>
+        <p className="mt-[var(--space-md)] max-w-[34em] text-md text-ink-2">{t('lede')}</p>
+        <Link href="/database" className="link-type mt-[var(--space-lg)] inline-flex min-h-11 items-center text-md font-bold tnum">
+          {t('browse', { count: gears.length })} →
+        </Link>
+      </section>
+
+      <section className="mt-[var(--space-3xl)]" aria-labelledby="by-brand">
+        <h2 id="by-brand" className="text-xl font-bold">{t('byBrand')}</h2>
+        <ul className="mt-[var(--space-md)] grid border-t border-ink sm:grid-cols-[repeat(2,minmax(0,1fr))] lg:grid-cols-[repeat(3,minmax(0,1fr))] sm:gap-x-[var(--space-xl)]">
+          {brands.map(b => (
+            <li key={b.brand} className="border-b border-rule">
+              <Link href={`/database?brands=${encodeURIComponent(b.brand)}`} className="group flex min-h-14 items-baseline justify-between gap-[var(--space-md)] py-[var(--space-sm)]">
+                <span className="font-display text-lg font-bold text-ink group-hover:text-accent">{b.brand}</span>
+                <span className="font-mono text-xs text-muted tnum">
+                  {[b.bodies && `${b.bodies} ${t('bodies')}`, b.lenses && `${b.lenses} ${t('lenses')}`].filter(Boolean).join(' · ')}
+                </span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="mt-[var(--space-3xl)]" aria-labelledby="latest">
+        <h2 id="latest" className="text-xl font-bold">{t('latest')}</h2>
+        <div className="mt-[var(--space-md)] grid grid-cols-[repeat(2,minmax(0,1fr))] gap-x-[var(--space-lg)] gap-y-[var(--space-xl)] border-t border-ink pt-[var(--space-lg)] md:grid-cols-[repeat(4,minmax(0,1fr))]">
+          {latest.map((g, i) => (
+            <ProductCard key={g.id} gear={g} noImageLabel={ts('noImage')} priority={i < 4} />
+          ))}
         </div>
-        <nav className="flex gap-6 text-sm font-medium text-gray-400">
-          <Link href="/" className="text-white hover:text-red-500 transition-colors">{tNav('home')}</Link>
-          <Link href="/database" className="hover:text-red-500 transition-colors">{tNav('database')}</Link>
-        </nav>
-        <div className="flex gap-4">
-          <Link href="/" locale="en" className="text-xs hover:text-white transition-colors">EN</Link>
-          <span className="text-xs text-gray-600">|</span>
-          <Link href="/" locale="zh" className="text-xs hover:text-white transition-colors">繁</Link>
-        </div>
-      </header>
-
-      {/* Hero Section */}
-      <main className="flex-1 flex flex-col items-center justify-center relative overflow-hidden">
-        {/* Abstract Background Glow */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-red-900/20 blur-[120px] rounded-full pointer-events-none" />
-
-        <div className="max-w-7xl mx-auto w-full px-6 py-16 md:py-20 flex flex-col items-center text-center relative z-10">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm mb-8">
-            <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse" />
-            <span className="text-[10px] uppercase tracking-widest font-bold text-gray-300">{t('version')}</span>
-          </div>
-
-          <h2 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter uppercase mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-500" 
-              dangerouslySetInnerHTML={{ __html: t('title') }} />
-          
-          <p className="max-w-2xl text-base md:text-lg text-gray-400 font-light mb-12 leading-relaxed px-4">
-            {t('subtitle')}
-          </p>
-
-          <Link 
-            href="/database" 
-            className="group relative inline-flex items-center gap-4 px-6 md:px-8 py-4 bg-white text-black font-bold uppercase tracking-widest overflow-hidden transition-all hover:scale-105"
-          >
-            <span className="relative z-10 text-sm md:text-base">{t('enter')}</span>
-            <ChevronRight className="w-5 h-5 relative z-10 group-hover:translate-x-1 transition-transform" />
-            <div className="absolute inset-0 bg-red-600 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-in-out z-0" />
-            <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 ease-in-out z-0 text-white flex items-center justify-center gap-4">
-              <span className="text-sm md:text-base">{t('enter')}</span>
-              <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </div>
-          </Link>
-        </div>
-
-        {/* Floating Gear Showcase */}
-        <div className="w-full max-w-6xl mx-auto px-6 pb-20 relative z-10">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
-            {heroImages.map((img, idx) => (
-              <div 
-                key={idx} 
-                className="group flex flex-col items-center bg-[#0a0a0a] border border-white/5 p-6 transition-all duration-500 hover:border-white/20 hover:bg-[#111] hover:-translate-y-2"
-                style={{ animationDelay: img.delay }}
-              >
-                <div className="text-red-500 text-[10px] font-bold tracking-widest uppercase mb-4 opacity-50 group-hover:opacity-100 transition-opacity">
-                  {img.brand}
-                </div>
-                <div className="h-40 w-full flex items-center justify-center relative mb-4">
-                  <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-full blur-xl" />
-                  <img 
-                    src={img.src} 
-                    alt={img.model} 
-                    className="w-full h-full object-contain relative z-10 drop-shadow-2xl transition-transform duration-700 group-hover:scale-110" 
-                  />
-                </div>
-                <div className="text-gray-400 font-medium uppercase tracking-wider text-sm">{img.model}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Feature Highlights */}
-        <div className="w-full border-t border-white/5 bg-[#050505]">
-          <div className="max-w-7xl mx-auto px-8 py-24 grid grid-cols-1 md:grid-cols-3 gap-12">
-            <div className="flex flex-col items-center text-center">
-              <Database className="w-8 h-8 text-red-500 mb-6" />
-              <h3 className="text-lg font-bold uppercase tracking-widest mb-3">{t('feature1Title')}</h3>
-              <p className="text-sm text-gray-500 leading-relaxed font-light">{t('feature1Desc')}</p>
-            </div>
-            <div className="flex flex-col items-center text-center">
-              <Scale className="w-8 h-8 text-red-500 mb-6" />
-              <h3 className="text-lg font-bold uppercase tracking-widest mb-3">{t('feature2Title')}</h3>
-              <p className="text-sm text-gray-500 leading-relaxed font-light">{t('feature2Desc')}</p>
-            </div>
-            <div className="flex flex-col items-center text-center">
-              <Layers className="w-8 h-8 text-red-500 mb-6" />
-              <h3 className="text-lg font-bold uppercase tracking-widest mb-3">{t('feature3Title')}</h3>
-              <p className="text-sm text-gray-500 leading-relaxed font-light">{t('feature3Desc')}</p>
-            </div>
-          </div>
-        </div>
-      </main>
-    </div>
+      </section>
+    </main>
   );
 }

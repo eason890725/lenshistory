@@ -1,7 +1,7 @@
 {
   "Navigation": {
     "home": "Home",
-    "database": "Gear Database",
+    "database": "Database",
     "compare": "Compare",
     "assetManagement": "Assets",
     "marketMonitor": "Market"
@@ -54,7 +54,6 @@
     "ibis": "IBIS",
     "megapixels": "Resolution",
     "sensorType": "Sensor Type",
-    "processor": "Processor",
     "processor": "Image Processor",
     "maxIso": "Max ISO",
     "video": "Video",
@@ -75,7 +74,9 @@
     "lens": "Lens",
     "body": "Body",
     "gearType": "Gear Type",
-    "itemsTotal": "Items Total"
+    "itemsTotal": "Items Total",
+    "officialPage": "Official spec page",
+    "noImage": "No image yet"
   },
   "Common": {
     "back": "Back",
@@ -101,18 +102,29 @@
     "megapixelsHighest": "Megapixels: Highest First",
     "sensorFormat": "Sensor Format",
     "resetFilters": "Reset Filters",
-    "filters": "Filters"
+    "filters": "Filters",
+    "addCompare": "Add to compare",
+    "inCompare": "In compare",
+    "compareNow": "Compare {count}",
+    "resultsCount": "{count} items",
+    "noResults": "Nothing matches these filters",
+    "noResultsHint": "Loosen a filter or two and try again.",
+    "applyFilters": "Show results",
+    "compareEmpty": "Nothing selected yet. Tick two or more items in the database, then come back.",
+    "selectToCompare": "Select to compare"
   },
   "Landing": {
-    "version": "Database v2.0 Live",
-    "title": "The Ultimate <br/> Gear Archive",
-    "subtitle": "A meticulously curated, high-fidelity database covering the flagship ecosystems of Sony, Nikon, Canon, and Fujifilm. Explore technical specifications, compare lenses, and discover the history of modern optics.",
-    "enter": "Enter Database",
-    "feature1Title": "Vast Collection",
-    "feature1Desc": "Over 140+ meticulously documented cameras and lenses, featuring pure RGB 0,0,0 high-resolution isolations.",
-    "feature2Title": "Deep Comparison",
-    "feature2Desc": "Instantly cross-reference technical metrics, optical formulas, and dimensions across multiple systems.",
-    "feature3Title": "Historical Accuracy",
-    "feature3Desc": "Trace the lineage of legendary optical designs from DSLR eras to the modern mirrorless revolution."
+    "title": "The gear index",
+    "lede": "Mirrorless cameras and lenses, entered one by one with their official specs, launch year and Taiwan price.",
+    "browse": "Browse all {count}",
+    "byBrand": "By brand",
+    "latest": "Recent releases",
+    "bodies": "bodies",
+    "lenses": "lenses"
+  },
+  "Site": {
+    "issue": "{count} items · {brands} brands · {from}–{to}",
+    "colophon": "LensHistory. Mirrorless cameras and lenses, one entry each. Specs come from each maker’s official pages and press releases; anything we could not confirm is left blank rather than guessed. Launch prices are Taiwan list prices in NT$. Product images belong to their makers.",
+    "switchLocale": "繁中"
   }
 }

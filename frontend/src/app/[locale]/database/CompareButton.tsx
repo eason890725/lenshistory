@@ -1,47 +1,31 @@
 'use client';
 
-import { ArrowRightLeft, Check } from 'lucide-react';
-import { useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/routing';
 import { useCompareIds } from '@/lib/compare';
 
-export default function CompareButton({ gearId, locale }: { gearId: string, locale: string }) {
+export default function CompareButton({ gearId }: { gearId: string }) {
   const [selectedIds, setSelectedIds] = useCompareIds();
-  const router = useRouter();
-
+  const tc = useTranslations('Common');
   const isSelected = selectedIds.includes(gearId);
 
-  const toggleSelect = () => {
-    setSelectedIds(isSelected
-      ? selectedIds.filter(id => id !== gearId)
-      : [...selectedIds, gearId]);
-  };
-
-  const goToCompare = () => {
-    if (selectedIds.length > 0) {
-      router.push(`/${locale}/compare?ids=${selectedIds.join(',')}`);
-    }
-  };
-
   return (
-    <div className="flex gap-4 w-full">
+    <div className="flex flex-wrap items-center gap-x-[var(--space-lg)] gap-y-[var(--space-xs)]">
       <button
-        onClick={toggleSelect}
-        className={`flex-1 font-medium py-3 px-6 uppercase tracking-wider text-sm transition-colors flex items-center justify-center gap-2 border
-          ${isSelected
-            ? 'bg-red-600 border-red-600 text-white hover:bg-red-700'
-            : 'bg-transparent border-white/20 text-gray-300 hover:border-white hover:text-white'}`}
+        type="button"
+        aria-pressed={isSelected}
+        onClick={() => setSelectedIds(isSelected ? selectedIds.filter(id => id !== gearId) : [...selectedIds, gearId])}
+        className={`h-11 whitespace-nowrap border px-[var(--space-lg)] text-sm font-bold transition-colors duration-[var(--dur-short)] ease-out ${
+          isSelected ? 'border-ink bg-ink text-paper' : 'border-ink text-ink hover:bg-ink hover:text-paper'
+        }`}
       >
-        {isSelected ? <Check className="w-4 h-4" /> : <ArrowRightLeft className="w-4 h-4" />}
-        {isSelected ? 'Selected' : 'Add to Compare'}
+        {isSelected ? tc('inCompare') : tc('addCompare')}
       </button>
 
       {selectedIds.length > 0 && (
-        <button
-          onClick={goToCompare}
-          className="bg-white text-black hover:bg-gray-200 font-bold py-3 px-8 uppercase tracking-wider text-sm transition-colors"
-        >
-          Compare ({selectedIds.length})
-        </button>
+        <Link href={`/compare?ids=${selectedIds.join(',')}`} className="link-type inline-flex min-h-11 items-center text-sm tnum">
+          {tc('compareNow', { count: selectedIds.length })} →
+        </Link>
       )}
     </div>
   );

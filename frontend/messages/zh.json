@@ -1,8 +1,8 @@
 {
   "Navigation": {
     "home": "首頁",
-    "database": "產品資料庫",
-    "compare": "產品對比",
+    "database": "資料庫",
+    "compare": "比較",
     "assetManagement": "資產管理",
     "marketMonitor": "市場行情"
   },
@@ -74,7 +74,9 @@
     "lens": "鏡頭",
     "body": "機身",
     "gearType": "器材類別",
-    "itemsTotal": "項產品"
+    "itemsTotal": "項產品",
+    "officialPage": "官方規格頁",
+    "noImage": "尚無圖片"
   },
   "Common": {
     "back": "返回",
@@ -100,18 +102,29 @@
     "megapixelsHighest": "解析度：由高到低",
     "sensorFormat": "感光元件",
     "resetFilters": "重設所有篩選",
-    "filters": "篩選"
+    "filters": "篩選",
+    "addCompare": "加入比較",
+    "inCompare": "已加入比較",
+    "compareNow": "比較 {count} 件",
+    "resultsCount": "{count} 件",
+    "noResults": "沒有符合條件的器材",
+    "noResultsHint": "放寬一兩個條件再試試。",
+    "applyFilters": "看結果",
+    "compareEmpty": "還沒有選擇要比較的器材。到資料庫勾選兩件以上再回來。",
+    "selectToCompare": "勾選以比較"
   },
   "Landing": {
-    "version": "資料庫 v2.0 正式上線",
-    "title": "終極攝影器材 <br/> 歷史檔案庫",
-    "subtitle": "精心策劃的高解析度資料庫，涵蓋 Sony、Nikon、Canon 與 Fujifilm 的旗艦生態系。探索技術規格、深度比較鏡頭，見證現代光學科技的歷史演進。",
-    "enter": "進入資料庫",
-    "feature1Title": "龐大館藏",
-    "feature1Desc": "超過 140+ 款精心記錄的相機與鏡頭，配備極致純黑 (RGB 0,0,0) 的高解析度去背影像。",
-    "feature2Title": "深度對比",
-    "feature2Desc": "跨越系統限制，瞬間交叉比對各家廠牌的技術指標、光學公式與物理尺寸。",
-    "feature3Title": "歷史考究",
-    "feature3Desc": "追溯傳奇光學設計的血脈，從單眼相機的黃金時代，一路見證至現代無反相機的革命。"
+    "title": "器材總目",
+    "lede": "無反光鏡時代的相機與鏡頭，一台一台記下官方規格、上市年份與台灣售價。",
+    "browse": "瀏覽全部 {count} 件",
+    "byBrand": "依品牌",
+    "latest": "近年發表",
+    "bodies": "機身",
+    "lenses": "鏡頭"
+  },
+  "Site": {
+    "issue": "{count} 件器材 · {brands} 個品牌 · {from}–{to}",
+    "colophon": "LensHistory 鏡頭歷史。收錄無反光鏡時代的相機與鏡頭，規格以各品牌官網與官方新聞稿為準，查不到的欄位留白，不推估。上市價格為台灣首發建議售價（新台幣）。產品圖片版權屬各品牌。",
+    "switchLocale": "EN"
   }
 }

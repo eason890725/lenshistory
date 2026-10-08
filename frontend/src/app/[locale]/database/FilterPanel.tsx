@@ -1,7 +1,6 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { Search, SortDesc } from 'lucide-react';
 
 export interface FilterState {
   q: string;
@@ -16,59 +15,88 @@ export interface FilterState {
   mounts: string[];
 }
 
-export default function FilterPanel({ 
-  filters, 
+export const PRICE_MAX = 200000;
+export const YEAR_MIN = 2010;
+export const YEAR_MAX = 2026;
+
+export const EMPTY_FILTERS: FilterState = {
+  q: '',
+  sortBy: 'newest',
+  minPrice: 0,
+  maxPrice: PRICE_MAX,
+  minYear: YEAR_MIN,
+  maxYear: YEAR_MAX,
+  sensorFormats: [],
+  gearTypes: [],
+  brands: [],
+  mounts: [],
+};
+
+const FORMATS = ['Full Frame', 'APS-C', 'Medium Format'];
+const YEARS = [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026];
+
+function toggle(list: string[], value: string) {
+  return list.includes(value) ? list.filter(v => v !== value) : [...list, value];
+}
+
+function Chip({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
+  return (
+    <button
+      type="button"
+      aria-pressed={active}
+      onClick={onClick}
+      className={`min-h-9 whitespace-nowrap border px-[var(--space-sm)] text-sm transition-colors duration-[var(--dur-short)] ease-out ${
+        active ? 'border-ink bg-ink text-paper' : 'border-rule-2 text-ink-2 hover:border-ink hover:text-ink'
+      }`}
+    >
+      {children}
+    </button>
+  );
+}
+
+function Group({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <fieldset className="border-t border-rule py-[var(--space-md)]">
+      <legend className="label float-left mb-[var(--space-sm)] w-full">{label}</legend>
+      <div className="clear-both">{children}</div>
+    </fieldset>
+  );
+}
+
+export default function FilterPanel({
+  filters,
   setFilters,
   brandCounts,
-  maxPriceData = 200000,
-  minYearData = 2010,
-  maxYearData = 2026
-}: { 
-  filters: FilterState; 
+  mountOptions,
+}: {
+  filters: FilterState;
   setFilters: (f: FilterState) => void;
-  brandCounts: Record<string, number>;
-  maxPriceData?: number;
-  minYearData?: number;
-  maxYearData?: number;
+  brandCounts: [string, number][];
+  mountOptions: string[];
 }) {
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
-
-  const formats = ["Full Frame", "APS-C", "Medium Format"];
-
-  const handleFormatToggle = (fmt: string) => {
-    if (filters.sensorFormats.includes(fmt)) {
-      setFilters({ ...filters, sensorFormats: filters.sensorFormats.filter(f => f !== fmt) });
-    } else {
-      setFilters({ ...filters, sensorFormats: [...filters.sensorFormats, fmt] });
-    }
-  };
+  const set = (patch: Partial<FilterState>) => setFilters({ ...filters, ...patch });
 
   return (
-    <div className="bg-[#111] border border-white/10 p-6 space-y-8 max-h-[calc(100vh-120px)] overflow-y-auto custom-scrollbar">
-      {/* Search */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500 flex items-center gap-2">
-          <Search className="w-3 h-3" /> {tc('search')}
-        </label>
-        <input 
-          type="text" 
+    <div className="text-sm">
+      <label className="block pb-[var(--space-md)]">
+        <span className="label mb-[var(--space-xs)] block">{tc('search')}</span>
+        <input
+          type="search"
           value={filters.q}
-          onChange={(e) => setFilters({ ...filters, q: e.target.value })}
-          placeholder="MODEL NAME..."
-          className="w-full bg-black border border-white/10 px-4 py-2 text-sm text-white focus:outline-none focus:border-red-600 transition-colors"
+          onChange={e => set({ q: e.target.value })}
+          placeholder="α7 IV · 24-70 · Z8"
+          className="h-11 w-full border border-rule-2 bg-paper px-[var(--space-sm)] text-base text-ink placeholder:text-muted focus-visible:border-ink"
         />
-      </div>
+      </label>
 
-      {/* Sort */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500 flex items-center gap-2">
-          <SortDesc className="w-3 h-3" /> {tc('sortBy')}
-        </label>
-        <select 
+      <label className="block border-t border-rule py-[var(--space-md)]">
+        <span className="label mb-[var(--space-xs)] block">{tc('sortBy')}</span>
+        <select
           value={filters.sortBy}
-          onChange={(e) => setFilters({ ...filters, sortBy: e.target.value })}
-          className="w-full bg-black border border-white/10 px-4 py-2 text-sm text-white focus:outline-none focus:border-red-600 appearance-none"
+          onChange={e => set({ sortBy: e.target.value })}
+          className="h-11 w-full border border-rule-2 bg-paper px-[var(--space-sm)] text-ink"
         >
           <option value="newest">{tc('newest')}</option>
           <option value="oldest">{tc('oldest')}</option>
@@ -77,172 +105,85 @@ export default function FilterPanel({
           <option value="weightAsc">{tc('weightLightest')}</option>
           <option value="mpDesc">{tc('megapixelsHighest')}</option>
         </select>
-      </div>
+      </label>
 
-      {/* Price Range */}
-      <div className="space-y-3">
-        <div className="flex justify-between items-center">
-          <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{t('launchPrice')}</label>
-          <span className="text-[10px] text-red-500 font-mono">NT${filters.minPrice.toLocaleString()} - {filters.maxPrice >= maxPriceData ? 'MAX' : 'NT$' + filters.maxPrice.toLocaleString()}</span>
+      <Group label={t('gearType')}>
+        <div className="flex flex-wrap gap-[var(--space-xs)]">
+          {(['CAMERA_BODY', 'LENS'] as const).map(type => (
+            <Chip key={type} active={filters.gearTypes.includes(type)} onClick={() => set({ gearTypes: toggle(filters.gearTypes, type) })}>
+              {type === 'LENS' ? t('lens') : t('body')}
+            </Chip>
+          ))}
         </div>
-        <input 
-          type="range" 
-          min={0} 
-          max={maxPriceData} 
+      </Group>
+
+      <Group label={tc('brands')}>
+        <div className="flex flex-wrap gap-[var(--space-xs)]">
+          {brandCounts.map(([brand, count]) => (
+            <Chip key={brand} active={filters.brands.includes(brand)} onClick={() => set({ brands: toggle(filters.brands, brand) })}>
+              {brand} <span className="ml-1 font-mono text-xs opacity-70 tnum">{count}</span>
+            </Chip>
+          ))}
+        </div>
+      </Group>
+
+      <Group label={t('mount')}>
+        <div className="flex flex-wrap gap-[var(--space-xs)]">
+          {mountOptions.map(m => (
+            <Chip key={m} active={filters.mounts.includes(m)} onClick={() => set({ mounts: toggle(filters.mounts, m) })}>
+              {m}
+            </Chip>
+          ))}
+        </div>
+      </Group>
+
+      <Group label={tc('sensorFormat')}>
+        <div className="flex flex-wrap gap-[var(--space-xs)]">
+          {FORMATS.map(f => (
+            <Chip key={f} active={filters.sensorFormats.includes(f)} onClick={() => set({ sensorFormats: toggle(filters.sensorFormats, f) })}>
+              {f}
+            </Chip>
+          ))}
+        </div>
+      </Group>
+
+      <Group label={t('launchPrice')}>
+        <p className="mb-[var(--space-xs)] font-mono text-xs text-ink-2 tnum">
+          NT${filters.minPrice.toLocaleString()} – {filters.maxPrice >= PRICE_MAX ? 'MAX' : `NT$${filters.maxPrice.toLocaleString()}`}
+        </p>
+        <input
+          type="range"
+          min={0}
+          max={PRICE_MAX}
           step={5000}
           value={filters.maxPrice}
-          onChange={(e) => setFilters({ ...filters, maxPrice: parseInt(e.target.value) })}
-          className="w-full h-1 bg-white/10 rounded-lg appearance-none cursor-pointer accent-red-600"
+          onChange={e => set({ maxPrice: parseInt(e.target.value) })}
+          aria-label={t('launchPrice')}
+          className="w-full accent-[var(--color-accent)]"
         />
-      </div>
+      </Group>
 
-      {/* Year Range */}
-      <div className="space-y-3">
-        <div className="flex justify-between items-center">
-          <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{t('releaseYear')}</label>
-          <span className="text-[10px] text-red-500 font-mono">{filters.minYear} - {filters.maxYear}</span>
-        </div>
-        <div className="flex gap-2">
-           <select 
-            value={filters.minYear}
-            onChange={(e) => setFilters({ ...filters, minYear: parseInt(e.target.value) })}
-            className="flex-1 bg-black border border-white/10 px-2 py-1 text-xs text-white"
-           >
-             {[2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026].map(y => <option key={y} value={y}>{y}</option>)}
-           </select>
-           <select 
-            value={filters.maxYear}
-            onChange={(e) => setFilters({ ...filters, maxYear: parseInt(e.target.value) })}
-            className="flex-1 bg-black border border-white/10 px-2 py-1 text-xs text-white"
-           >
-             {[2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026].map(y => <option key={y} value={y}>{y}</option>)}
-           </select>
-        </div>
-      </div>
-
-      {/* Brands */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{tc('brands')}</label>
-        <div className="flex flex-wrap gap-2">
-          {(() => {
-            const masterBrands = [
-              "Sony", "Canon", "Nikon", "Fujifilm", "Panasonic", "Leica", "Pentax", "OM System",
-              "Sigma", "Tamron", "Samyang", "Viltrox", "Laowa", "Tokina", "Voigtlander", "Zeiss"
-            ];
-            
-            // Get unique brands from data that are NOT in master list
-            const otherBrands = Object.keys(brandCounts).filter(b => !masterBrands.includes(b));
-            
-            // Combine and maintain master order
-            const allDisplayBrands = [...masterBrands, ...otherBrands];
-
-            return allDisplayBrands.map(brand => {
-              const count = brandCounts[brand] || 0;
-              const isSelected = filters.brands.includes(brand);
-              const isDisabled = count === 0;
-
-              return (
-                <button
-                  key={brand}
-                  disabled={isDisabled}
-                  onClick={() => {
-                    const next = isSelected 
-                      ? filters.brands.filter(b => b !== brand)
-                      : [...filters.brands, brand];
-                    setFilters({ ...filters, brands: next });
-                  }}
-                  className={`px-3 py-1.5 text-[10px] font-bold border transition-all flex items-center gap-1.5
-                    ${isSelected 
-                      ? 'bg-red-600/20 border-red-600 text-white' 
-                      : isDisabled 
-                        ? 'bg-transparent border-white/5 text-gray-700 opacity-40 cursor-not-allowed border-dashed'
-                        : 'bg-black border-white/10 text-gray-500 hover:border-white/30 hover:text-gray-300'}`}
-                >
-                  <span>{brand}</span>
-                  {count > 0 && <span className={`text-[8px] px-1 rounded-sm ${isSelected ? 'bg-red-600 text-white' : 'bg-gray-800 text-gray-500'}`}>{count}</span>}
-                </button>
-              );
-            });
-          })()}
-        </div>
-      </div>
-
-      {/* Mounts */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{t('mount')}</label>
-        <div className="flex flex-wrap gap-2">
-          {["Sony E", "Canon RF", "Nikon Z", "Fujifilm X", "Fujifilm G", "L-Mount"].map(m => (
-            <button
-              key={m}
-              onClick={() => {
-                const next = filters.mounts.includes(m) 
-                  ? filters.mounts.filter(x => x !== m)
-                  : [...filters.mounts, m];
-                setFilters({ ...filters, mounts: next });
-              }}
-              className={`px-2 py-1 text-[9px] font-bold border transition-colors ${filters.mounts.includes(m) ? 'bg-red-600/20 border-red-600 text-white' : 'bg-black border-white/10 text-gray-500 hover:border-white/30'}`}
+      <Group label={t('releaseYear')}>
+        <div className="flex items-center gap-[var(--space-xs)]">
+          {(['minYear', 'maxYear'] as const).map((key, i) => (
+            <select
+              key={key}
+              value={filters[key]}
+              onChange={e => set({ [key]: parseInt(e.target.value) })}
+              aria-label={`${t('releaseYear')} ${i === 0 ? 'from' : 'to'}`}
+              className="h-11 min-w-0 flex-1 border border-rule-2 bg-paper px-[var(--space-xs)] font-mono text-sm text-ink tnum"
             >
-              {m}
-            </button>
+              {YEARS.map(y => <option key={y} value={y}>{y}</option>)}
+            </select>
           ))}
         </div>
-      </div>
+      </Group>
 
-      {/* Gear Type */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{t('gearType')}</label>
-        <div className="flex gap-2">
-          {["LENS", "CAMERA_BODY"].map(type => (
-            <button
-              key={type}
-              onClick={() => {
-                const next = filters.gearTypes.includes(type) 
-                  ? filters.gearTypes.filter(t => t !== type)
-                  : [...filters.gearTypes, type];
-                setFilters({ ...filters, gearTypes: next });
-              }}
-              className={`flex-1 py-2 text-[10px] font-bold border transition-colors ${filters.gearTypes.includes(type) ? 'bg-red-600 border-red-600 text-white' : 'bg-black border-white/10 text-gray-500 hover:border-white/30'}`}
-            >
-              {type === 'LENS' ? t('lens') : t('body')}
-            </button>
-          ))}
-        </div>
+      <div className="border-t border-rule pt-[var(--space-md)]">
+        <button type="button" onClick={() => setFilters(EMPTY_FILTERS)} className="link-type min-h-11 text-sm text-ink-2">
+          {tc('resetFilters')}
+        </button>
       </div>
-
-      {/* Sensor Format */}
-      <div className="space-y-3">
-        <label className="text-[10px] font-bold uppercase tracking-widest text-gray-500">{tc('sensorFormat')}</label>
-        <div className="flex flex-wrap gap-2">
-          {formats.map(fmt => (
-            <button
-              key={fmt}
-              onClick={() => handleFormatToggle(fmt)}
-              className={`px-3 py-1.5 text-[10px] font-bold border transition-colors ${filters.sensorFormats.includes(fmt) ? 'bg-red-600/20 border-red-600 text-white' : 'bg-black border-white/10 text-gray-500 hover:border-white/30'}`}
-            >
-              {fmt}
-            </button>
-          ))}
-        </div>
-      </div>
-
-      {/* Reset */}
-      <button 
-        onClick={() => setFilters({
-          q: '',
-          sortBy: 'newest',
-          minPrice: 0,
-          maxPrice: maxPriceData,
-          minYear: minYearData,
-          maxYear: maxYearData,
-          sensorFormats: [],
-          gearTypes: [],
-          brands: [],
-          mounts: []
-        })}
-        className="w-full py-2 text-[10px] font-bold uppercase tracking-[0.2em] text-gray-500 hover:text-white border border-dashed border-white/10 hover:border-white/30 transition-colors"
-      >
-        {tc('resetFilters')}
-      </button>
     </div>
   );
 }

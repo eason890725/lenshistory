@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Chiron_Sung_HK } from "next/font/google";
 import "../globals.css";
 import {NextIntlClientProvider, hasLocale} from 'next-intl';
 import {getMessages, setRequestLocale} from 'next-intl/server';
 import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
+import SiteHeader from '@/components/site/SiteHeader';
+import SiteFooter from '@/components/site/SiteFooter';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -16,9 +18,18 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// CJK + Latin serif for headings. Google serves it in unicode-range slices, so pages only fetch the glyphs they use.
+const chironSung = Chiron_Sung_HK({
+  variable: "--font-chiron-sung",
+  weight: ["400", "700"],
+  subsets: ["latin"],
+  preload: false,
+  adjustFontFallback: false,
+});
+
 export const metadata: Metadata = {
-  title: "LensHistory DB",
-  description: "Photography Gear History Tracking and Value Analysis System",
+  title: "LensHistory 鏡頭歷史",
+  description: "無反光鏡時代的相機與鏡頭規格總目",
 };
 
 type Props = {
@@ -29,24 +40,23 @@ type Props = {
 export default async function LocaleLayout({children, params}: Props) {
   const {locale} = await params;
 
-  // Ensure that the incoming `locale` is valid
   if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
 
-  // Enable static rendering
   setRequestLocale(locale);
-
   const messages = await getMessages();
 
   return (
     <html
-      lang={locale}
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
+      lang={locale === 'zh' ? 'zh-Hant-TW' : 'en'}
+      className={`${geistSans.variable} ${geistMono.variable} ${chironSung.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-background text-foreground">
+      <body className="min-h-full flex flex-col">
         <NextIntlClientProvider messages={messages}>
-          {children}
+          <SiteHeader />
+          <div className="flex-1">{children}</div>
+          <SiteFooter />
         </NextIntlClientProvider>
       </body>
     </html>

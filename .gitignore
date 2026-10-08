@@ -5,6 +5,7 @@ node_modules/
 # Python / tooling
 __pycache__/
 graphify-out/
+.playwright-mcp/
 
 # OS
 .DS_Store
