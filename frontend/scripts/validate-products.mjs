@@ -38,6 +38,8 @@ for (const g of items) {
   const err = msg => errors.push(`${at}: ${msg}`);
 
   for (const k of ['id', 'brand', 'modelName']) if (typeof g[k] !== 'string' || !g[k]) err(`missing ${k}`);
+  // ids become URL paths and image file names (Windows forbids ':' etc.)
+  for (const k of ['id', 'slug']) if (g[k] !== undefined && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(g[k])) err(`${k} must be lowercase letters, digits and single hyphens: "${g[k]}"`);
   if (!ALLOWED[g.gearType]) { err(`gearType must be LENS or CAMERA_BODY, got ${g.gearType}`); continue; }
   for (const k of ['id', 'slug']) {
     if (g[k] === undefined) continue;
