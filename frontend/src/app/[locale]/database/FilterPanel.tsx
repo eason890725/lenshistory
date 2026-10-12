@@ -104,6 +104,8 @@ export default function FilterPanel({
           <option value="priceAsc">{tc('priceLowToHigh')}</option>
           <option value="weightAsc">{tc('weightLightest')}</option>
           <option value="mpDesc">{tc('megapixelsHighest')}</option>
+          <option value="focalAsc">{tc('focalWideFirst')}</option>
+          <option value="focalDesc">{tc('focalTeleFirst')}</option>
         </select>
       </label>
 

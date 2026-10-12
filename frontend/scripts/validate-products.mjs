@@ -16,6 +16,18 @@ const BODY = ['megapixels', 'sensorType', 'processor', 'isoRange', 'burstSpeed',
 const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...SHARED, ...BODY]) };
 const NUMBER = ['releaseYear', 'launchPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
+const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds']);
+const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', '1-inch']);
+// House style for free-text fields (scripts/normalize_products.py rewrites most variants into these)
+const STYLE = {
+  closeFocus: /^\d+(\.\d+)?m\b/,
+  maxMagnification: /^\d+(\.\d+)?x\b/,
+  opticalDesign: /^\d+ elements in \d+ groups$/,
+  megapixels: /^\d+(\.\d+)?MP\b/,
+  burstSpeed: /^\d+(\.\d+)?fps\b/,
+  dimensions: /^(Ø[\d.]+ x [\d.]+ mm|[\d.]+ x [\d.]+ x [\d.]+ mm)/,
+  ibisRating: /^[\d.]+(-[\d.]+)? stops/,
+};
 
 const errors = [];
 const warnings = [];
@@ -38,7 +50,10 @@ for (const g of items) {
     if (typeof v === 'string' && JUNK.has(v.trim())) err(`placeholder value in ${k}: "${v}" (leave the field out instead)`);
     if (NUMBER.includes(k) && typeof v !== 'number') err(`${k} must be a number, got ${JSON.stringify(v)}`);
     if (k.startsWith('has') && typeof v !== 'boolean') err(`${k} must be true/false`);
+    if (STYLE[k] && !STYLE[k].test(String(v))) err(`${k} not in house style: "${v}" (run scripts/normalize_products.py or fix by hand)`);
   }
+  if (g.sensorFormat && !FORMATS.has(g.sensorFormat)) err(`sensorFormat must be one of ${[...FORMATS].join(', ')}`);
+  for (const m of g.mounts ?? []) if (!MOUNTS.has(m?.mount?.name)) err(`unknown mount "${m?.mount?.name}"`);
 
   if (g.launchPrice !== undefined && !(g.launchPrice > 0)) err('launchPrice must be > 0 (leave it out when unknown)');
   if (g.image_url && !existsSync(join(root, 'public', g.image_url))) err(`image not found: ${g.image_url}`);

@@ -35,6 +35,11 @@ editorial — 器材型錄 / 檔案館。
 - 顯示時放在 `.plate` 裡，圖片 `mix-blend-mode: multiply`，白底會融進展示盤的紙色。
 - 不用網頁截圖、不用黑底圖。沒有圖就顯示「尚無圖片」，不放假圖。
 
+## 規格欄位寫法
+- 統一格式由 `frontend/scripts/normalize_products.py` 改寫（例如 "0.28m"、"0.25x"、"14 elements in 11 groups"、"Ø76 x 96 mm"、"10fps (Mech) / 30fps (Elec)"）。
+- `npm run validate` 會擋下不符格式的值、未知的卡口名稱與片幅名稱。
+- 新增資料後先跑 normalize，再跑 validate。
+
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。
 

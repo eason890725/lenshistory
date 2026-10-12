@@ -111,7 +111,10 @@
     "noResultsHint": "Loosen a filter or two and try again.",
     "applyFilters": "Show results",
     "compareEmpty": "Nothing selected yet. Tick two or more items in the database, then come back.",
-    "selectToCompare": "Select to compare"
+    "selectToCompare": "Select to compare",
+    "focalWideFirst": "Focal length: wide first",
+    "focalTeleFirst": "Focal length: tele first",
+    "diffOnly": "Only show differences"
   },
   "Landing": {
     "title": "The gear index",

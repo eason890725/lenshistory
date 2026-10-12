@@ -1,5 +1,5 @@
-import { Fragment } from 'react';
 import { Link } from '@/i18n/routing';
+import CompareTable from './CompareTable';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { focalLength, weightLabel, type Gear } from '@/lib/gear';
 import { gears as allGears } from '@/lib/gear-data';
@@ -90,51 +90,25 @@ export default async function ComparePage({
           </Link>
         </div>
       ) : (
-        <div className="mt-[var(--space-xl)] overflow-x-auto">
-          <table className="w-full min-w-[40rem] border-collapse text-left text-sm tnum">
-            <thead>
-              <tr>
-                <th className="sticky left-0 z-10 w-40 bg-paper" />
-                {gears.map(g => (
-                  <th key={g.id} scope="col" className="min-w-[12rem] px-[var(--space-sm)] pb-[var(--space-md)] align-top font-normal">
-                    <Link href={`/database/${g.slug || g.id}`} className="group block">
-                      <div className="plate flex aspect-square items-center justify-center p-[var(--space-md)]">
-                        {g.image_url ? (
-                          <img src={g.image_url} alt={g.modelName} width={400} height={400} className="max-h-full max-w-full object-contain" />
-                        ) : (
-                          <span className="label">{t('noImage')}</span>
-                        )}
-                      </div>
-                      <p className="label mt-[var(--space-sm)]">{g.brand}</p>
-                      <p className="mt-[var(--space-2xs)] font-display text-md font-bold leading-snug text-ink group-hover:text-accent">{shortName(g)}</p>
-                    </Link>
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {sections.map(section => (
-                <Fragment key={section}>
-                  <tr>
-                    <th colSpan={gears.length + 1} scope="colgroup" className="label border-b border-ink pt-[var(--space-lg)] pb-[var(--space-xs)] text-left font-normal">
-                      {section}
-                    </th>
-                  </tr>
-                  {visibleRows.filter(r => r.section === section).map(r => (
-                    <tr key={r.label} className="border-b border-rule">
-                      <th scope="row" className="sticky left-0 z-10 bg-paper py-[var(--space-sm)] pr-[var(--space-md)] font-normal text-muted">{r.label}</th>
-                      {gears.map(g => (
-                        <td key={g.id} className="px-[var(--space-sm)] py-[var(--space-sm)] text-ink">
-                          {(!r.type || r.type === g.gearType) ? (r.get(g) ?? '—') : ''}
-                        </td>
-                      ))}
-                    </tr>
-                  ))}
-                </Fragment>
-              ))}
-            </tbody>
-          </table>
-        </div>
+        <CompareTable
+          labels={{ diffOnly: tc('diffOnly'), noImage: t('noImage') }}
+          columns={gears.map(g => ({
+            id: g.id,
+            href: `/database/${g.slug || g.id}`,
+            brand: g.brand,
+            name: shortName(g),
+            image: g.image_url,
+          }))}
+          sections={sections.map(section => ({
+            title: section,
+            rows: visibleRows
+              .filter(r => r.section === section)
+              .map(r => ({
+                label: r.label,
+                values: gears.map(g => ((!r.type || r.type === g.gearType) ? String(r.get(g) ?? '—') : null)),
+              })),
+          }))}
+        />
       )}
     </main>
   );

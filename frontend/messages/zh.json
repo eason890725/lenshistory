@@ -111,7 +111,10 @@
     "noResultsHint": "放寬一兩個條件再試試。",
     "applyFilters": "看結果",
     "compareEmpty": "還沒有選擇要比較的器材。到資料庫勾選兩件以上再回來。",
-    "selectToCompare": "勾選以比較"
+    "selectToCompare": "勾選以比較",
+    "focalWideFirst": "焦段：由廣到長",
+    "focalTeleFirst": "焦段：由長到廣",
+    "diffOnly": "只看不同的地方"
   },
   "Landing": {
     "title": "器材總目",

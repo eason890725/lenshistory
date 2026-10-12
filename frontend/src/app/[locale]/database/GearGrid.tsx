@@ -53,6 +53,14 @@ function compareGears(sortBy: string) {
       case 'priceAsc': return (a.launchPrice || 1e9) - (b.launchPrice || 1e9);
       case 'weightAsc': return (weightValue(a) || 1e5) - (weightValue(b) || 1e5);
       case 'mpDesc': return (parseFloat(String(b.megapixels)) || 0) - (parseFloat(String(a.megapixels)) || 0);
+      // Lenses by widest focal length, then longest; bodies (no focal length) go last either way
+      case 'focalAsc':
+      case 'focalDesc': {
+        const dir = sortBy === 'focalAsc' ? 1 : -1;
+        const fa = a.focalLengthMinMm, fb = b.focalLengthMinMm;
+        if (!fa || !fb) return (fa ? -1 : 0) - (fb ? -1 : 0);
+        return dir * (fa - fb || (a.focalLengthMaxMm || fa) - (b.focalLengthMaxMm || fb));
+      }
       default: return 0;
     }
   };
