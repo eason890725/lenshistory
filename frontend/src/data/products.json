@@ -103,7 +103,9 @@
     "batterySpec": "NP-FZ100 (530 shots CIPA)",
     "ports": "USB-C (10Gbps), micro USB, HDMI Type A, mic, headphone, LAN (1000BASE-T)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a1.webp"
+    "image_url": "/images/products/sony/sony-a1.webp",
+    "launchPrice": 174980,
+    "afTargets": "Human, Animal, Bird"
   },
   {
     "brand": "Sony",
@@ -158,7 +160,8 @@
     "lcdSpec": "3.2-inch 2.1M-dot touch",
     "cardSlots": "2x CFexpress Type A / SD (UHS-I/II)",
     "batterySpec": "NP-FZ100 (520 shots CIPA)",
-    "ports": "USB-C (10Gbps), micro USB, HDMI Type A, mic, headphone, LAN (1000BASE-T)"
+    "ports": "USB-C (10Gbps), micro USB, HDMI Type A, mic, headphone, LAN (1000BASE-T)",
+    "hasWeatherSeal": true
   },
   {
     "brand": "Sony",
@@ -209,7 +212,10 @@
     "lcdSpec": "3.0-inch 1.44M-dot tilting touch",
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-FZ100 (690 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 134980,
+    "afTargets": "Human, Animal",
+    "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, LAN, flash sync"
   },
   {
     "brand": "Sony",
@@ -253,7 +259,12 @@
     "evfMagnification": "0.78x",
     "lcdSpec": "3.0-inch 1.44M-dot",
     "batterySpec": "NP-FZ100 (650 shots CIPA)",
-    "image_url": "/images/products/sony/sony-a9.webp"
+    "image_url": "/images/products/sony/sony-a9.webp",
+    "launchPrice": 129980,
+    "afTargets": "Human, Animal",
+    "evfResolution": "3.69M-dot",
+    "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I) / Memory Stick PRO Duo",
+    "ports": "Micro USB, micro HDMI, mic, headphone, LAN, flash sync"
   },
   {
     "brand": "Sony",
@@ -362,7 +373,9 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-FZ100 (670 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7r-iv.webp"
+    "image_url": "/images/products/sony/sony-a7r-iv.webp",
+    "afTargets": "Human, Animal",
+    "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync"
   },
   {
     "brand": "Sony",
@@ -414,7 +427,10 @@
     "cardSlots": "2x SD (1x UHS-II)",
     "batterySpec": "NP-FZ100 (650 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7r-iii.webp"
+    "image_url": "/images/products/sony/sony-a7r-iii.webp",
+    "launchPrice": 99980,
+    "afTargets": "Human, Animal",
+    "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync"
   },
   {
     "brand": "Sony",
@@ -464,7 +480,10 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-FW50 (340 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
-    "image_url": "/images/products/sony/sony-a7r-ii.webp"
+    "image_url": "/images/products/sony/sony-a7r-ii.webp",
+    "launchPrice": 94980,
+    "afTargets": "Human",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -512,7 +531,9 @@
     "batterySpec": "NP-FW50 (340 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7r.webp"
+    "image_url": "/images/products/sony/sony-a7r.webp",
+    "launchPrice": 64980,
+    "afTargets": "Human"
   },
   {
     "brand": "Sony",
@@ -565,7 +586,9 @@
     "cardSlots": "2x CFexpress Type A / SD (UHS-I/II)",
     "batterySpec": "NP-FZ100 (600 shots CIPA)",
     "ports": "USB-C (5Gbps), HDMI Type A, mic, headphone",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 94980,
+    "afTargets": "Human, Animal"
   },
   {
     "brand": "Sony",
@@ -618,7 +641,9 @@
     "batterySpec": "NP-FW50 (370 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7s-ii.webp"
+    "image_url": "/images/products/sony/sony-a7s-ii.webp",
+    "launchPrice": 89980,
+    "afTargets": "Human"
   },
   {
     "brand": "Sony",
@@ -667,7 +692,8 @@
     "batterySpec": "NP-FW50 (380 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7s.webp"
+    "image_url": "/images/products/sony/sony-a7s.webp",
+    "afTargets": "Human"
   },
   {
     "brand": "Sony",
@@ -764,7 +790,10 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-FZ100 (710 shots CIPA)",
     "ports": "USB-C, micro USB, micro HDMI, mic, headphone",
-    "image_url": "/images/products/sony/sony-a7-iii.webp"
+    "image_url": "/images/products/sony/sony-a7-iii.webp",
+    "launchPrice": 59980,
+    "afTargets": "Human, Animal",
+    "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -817,7 +846,9 @@
     "batterySpec": "NP-FW50 (350 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7-ii.webp"
+    "image_url": "/images/products/sony/sony-a7-ii.webp",
+    "launchPrice": 54980,
+    "afTargets": "Human"
   },
   {
     "brand": "Sony",
@@ -865,7 +896,9 @@
     "batterySpec": "NP-FW50 (340 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a7.webp"
+    "image_url": "/images/products/sony/sony-a7.webp",
+    "launchPrice": 44980,
+    "afTargets": "Human"
   },
   {
     "brand": "Sony",
@@ -1028,7 +1061,9 @@
     "cardSlots": "1x SD (UHS-I/II)",
     "batterySpec": "NP-FZ100 (740 shots CIPA)",
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 50980,
+    "afTargets": "Human, Animal"
   },
   {
     "brand": "Sony",
@@ -1171,7 +1206,10 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-FZ100 (810 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic, headphone",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 41980,
+    "afTargets": "Human, Animal",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1218,7 +1256,10 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-FW50 (350 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 41980,
+    "afTargets": "Human",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1264,7 +1305,10 @@
     "batterySpec": "NP-FW50 (410 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a6400.webp"
+    "image_url": "/images/products/sony/sony-a6400.webp",
+    "launchPrice": 26980,
+    "afTargets": "Human, Animal",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1310,7 +1354,10 @@
     "batterySpec": "NP-FW50 (400 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-a6300.webp"
+    "image_url": "/images/products/sony/sony-a6300.webp",
+    "launchPrice": 32980,
+    "afTargets": "Human",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1355,7 +1402,10 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-FW50 (420 shots CIPA)",
     "ports": "micro USB, micro HDMI, mic",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 22980,
+    "afTargets": "Human, Animal",
+    "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1400,7 +1450,10 @@
     "batterySpec": "NP-FW50 (360 shots CIPA)",
     "ports": "micro USB, micro HDMI",
     "hasWeatherSeal": false,
-    "image_url": "/images/products/sony/sony-a6000.webp"
+    "image_url": "/images/products/sony/sony-a6000.webp",
+    "launchPrice": 21980,
+    "afTargets": "Human",
+    "cardSlots": "1x SD / Memory Stick PRO Duo"
   },
   {
     "brand": "Sony",
@@ -1496,7 +1549,8 @@
     "cardSlots": "1x SD / Memory Stick (UHS-I)",
     "batterySpec": "NP-FW50 (440 shots CIPA)",
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Human, Animal"
   },
   {
     "brand": "Fujifilm",
@@ -1632,7 +1686,8 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W126S (310 shots CIPA)",
     "ports": "micro USB (USB 3.0), micro HDMI, 3.5mm mic, 2.5mm remote, sync terminal",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -1723,7 +1778,8 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W235 (500 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 2.5mm remote, sync terminal",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "F-Log, HLG"
   },
   {
     "brand": "Fujifilm",
@@ -1766,7 +1822,9 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W126S (390 shots CIPA)",
     "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afPoints": "425 points",
+    "logSupport": "F-Log, HLG"
   },
   {
     "brand": "Fujifilm",
@@ -1807,7 +1865,9 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W126S (340 shots CIPA)",
     "ports": "micro USB (USB 3.0), HDMI, 3.5mm mic, 2.5mm remote, sync terminal",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afPoints": "325 points",
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -1938,7 +1998,9 @@
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126S (390 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 2.5mm mic/remote",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "videoColorDepth": "8-bit 4:2:0 (Internal) / 10-bit 4:2:2 (HDMI)",
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -1981,7 +2043,9 @@
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126S (380 shots CIPA)",
     "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic, 2.5mm remote",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "425 points",
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -2109,7 +2173,8 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W126S (370 shots EVF / 440 shots OVF, CIPA)",
     "ports": "USB-C (USB 3.1 Gen1), 2.5mm mic/remote",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -2153,7 +2218,8 @@
     "cardSlots": "2x SD (UHS-II in slot 1)",
     "batterySpec": "NP-W126 (280 LCD / 250 EVF / 350 OVF shots CIPA, Standard)",
     "ports": "USB 2.0, HDMI, mic",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afPoints": "325 points"
   },
   {
     "brand": "Fujifilm",
@@ -2236,7 +2302,8 @@
     "cardSlots": "1x SD (UHS-II)",
     "batterySpec": "NP-W235 (750 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen2), micro HDMI, 3.5mm mic, 3.5mm headphone",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "F-Log, F-Log2, HLG"
   },
   {
     "brand": "Fujifilm",
@@ -2277,7 +2344,12 @@
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126S (325 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm remote",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "sensorType": "26.1MP X-Trans CMOS 4",
+    "processor": "X-Processor 4",
+    "afPoints": "425 points",
+    "videoResolution": "4K 30p / Full HD 240p",
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -2321,7 +2393,8 @@
     "cardSlots": "1x SD",
     "batterySpec": "NP-W126S (460 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic/remote",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -2357,7 +2430,8 @@
     "lcdSpec": "3.0-inch 1.62M-dot tilting touch",
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126S (310 shots EVF / 450 shots OVF, CIPA)",
-    "ports": "USB-C (10Gbps), micro HDMI, 2.5mm mic/remote"
+    "ports": "USB-C (10Gbps), micro HDMI, 2.5mm mic/remote",
+    "logSupport": "F-Log, F-Log2, HLG"
   },
   {
     "brand": "Fujifilm",
@@ -2391,7 +2465,10 @@
     "lcdSpec": "3.0-inch 1.62M-dot tilting touch",
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126S (350 shots EVF / 420 shots OVF)",
-    "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic/remote"
+    "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic/remote",
+    "processor": "X-Processor 4",
+    "burstSpeed": "11fps (Mech) / 20fps (Elec)",
+    "logSupport": "F-Log"
   },
   {
     "brand": "Fujifilm",
@@ -2424,7 +2501,8 @@
     "cardSlots": "1x SD",
     "batterySpec": "NP-W126S (270 EVF / 390 OVF shots CIPA, Standard)",
     "ports": "USB 2.0, HDMI, mic",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "325 points"
   },
   {
     "brand": "Fujifilm",
@@ -2650,7 +2728,8 @@
     "lcdSpec": "3.2-inch 2.36M-dot 3-way tilt touch",
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W235 (460 shots CIPA)",
-    "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal"
+    "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
+    "logSupport": "F-Log, HLG"
   },
   {
     "brand": "Fujifilm",
@@ -2691,7 +2770,9 @@
     "lcdSpec": "3.2-inch 2.36M-dot 3-way tilt touch",
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W235 (455 shots CIPA)",
-    "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal"
+    "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
+    "sensorType": "51.4MP CMOS",
+    "videoColorDepth": "8-bit 4:2:0 (Internal) / 10-bit 4:2:2 (HDMI)"
   },
   {
     "brand": "Fujifilm",
@@ -2730,7 +2811,9 @@
     "lcdSpec": "3.2-inch 2.36M-dot 2-way tilt touch",
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-T125 (400 shots CIPA)",
-    "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic/remote, DC IN"
+    "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic/remote, DC IN",
+    "sensorType": "51.4MP CMOS",
+    "afPoints": "425 points"
   },
   {
     "brand": "Canon",
@@ -2745,7 +2828,7 @@
     "afPoints": "Dual Pixel Intelligent AF",
     "evfResolution": "9.44M-dot OLED",
     "burstSpeed": "40fps (Electronic Shutter)",
-    "logSupport": "C-Log 2/3",
+    "logSupport": "Canon Log 2, Canon Log 3",
     "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": 1115,
     "launchPrice": 193000,
@@ -2793,7 +2876,7 @@
     "afPoints": "1053 areas",
     "evfResolution": "5.76M-dot OLED",
     "burstSpeed": "30fps",
-    "logSupport": "C-Log 3",
+    "logSupport": "Canon Log 3",
     "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": 1015,
     "launchPrice": 159900,
@@ -2839,7 +2922,7 @@
     "afPoints": "Dual Pixel Intelligent AF",
     "evfResolution": "5.76M-dot OLED",
     "burstSpeed": "30fps",
-    "logSupport": "C-Log 2/3",
+    "logSupport": "Canon Log 2, Canon Log 3",
     "sensorType": "Back-illuminated Stacked CMOS",
     "weightGrams": 746,
     "launchPrice": 122000,
@@ -3006,7 +3089,8 @@
     "evfMagnification": "0.76x",
     "cardSlots": "2x SD (UHS-II)",
     "ports": "USB-C (USB 3.2 Gen 2), HDMI, mic, headphone, remote",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "Canon Log"
   },
   {
     "brand": "Canon",
@@ -3072,7 +3156,7 @@
     ],
     "processor": "DIGIC 8",
     "afTargets": "Humans (Face/Eye)",
-    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
+    "videoColorDepth": "8-bit 4:2:0 (Internal) / 10-bit 4:2:2 (HDMI)",
     "isoRange": "100-40000 (Ext: 50-102400)",
     "batterySpec": "LP-E6N (370 shots CIPA)",
     "weightGrams": 660,
@@ -3093,7 +3177,8 @@
     "evfMagnification": "0.76x",
     "cardSlots": "1x SD (UHS-II)",
     "ports": "USB (USB 3.2 Gen 1), HDMI, mic, headphone, remote",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "Canon Log"
   },
   {
     "brand": "Canon",
@@ -3115,7 +3200,6 @@
     ],
     "processor": "DIGIC 8",
     "afTargets": "Humans (Face/Eye)",
-    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-40000 (Ext: 50-102400)",
     "batterySpec": "LP-E17 (250 shots CIPA)",
     "weightGrams": 485,
@@ -3202,7 +3286,6 @@
     "afPoints": "651 areas",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "15fps (Mech) / 23fps (Elec)",
-    "logSupport": "C-Log 2/3",
     "sensorType": "24.2MP APS-C FSI-CMOS",
     "weightGrams": 429,
     "launchPrice": 28000,
@@ -3301,7 +3384,6 @@
     "afPoints": "143 areas",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "6.5fps",
-    "logSupport": "C-Log 2/3",
     "sensorType": "24.1MP APS-C FSI-CMOS",
     "weightGrams": 356,
     "launchPrice": 13000,
@@ -3317,7 +3399,6 @@
     ],
     "processor": "DIGIC 8",
     "afTargets": "Humans (Face/Eye)",
-    "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-12800 (Ext: 25600)",
     "batterySpec": "LP-E17 (430 shots CIPA)",
     "dimensions": "116.3 x 85.5 x 68.8 mm",
@@ -3334,7 +3415,8 @@
     "officialUrl": "https://asia.canon/en/consumer/eos-r100/body/specification",
     "hasIBIS": false,
     "cardSlots": "1x SD (UHS-I)",
-    "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote"
+    "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote",
+    "evfMagnification": "0.95x"
   },
   {
     "brand": "Nikon",
@@ -3785,7 +3867,8 @@
     "cardSlots": "1x SD / SDHC / SDXC (UHS-I)",
     "batterySpec": "EN-EL25 (310 shots VF / 360 shots LCD, CIPA)",
     "ports": "USB-C, micro HDMI (Type D), mic",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "isoRange": "100-51200 (Ext: 100-204800)"
   },
   {
     "brand": "Nikon",
@@ -4686,7 +4769,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/18-50mm-f2-8-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/18-50mm-f2-8-dc-dn-contemporary.webp",
+    "coatings": "Super Multi-Layer Coating"
   },
   {
     "brand": "Tamron",
@@ -4756,7 +4840,7 @@
     "coatings": "Super EBC, Nano GI, Fluorine",
     "maxMagnification": "0.1x",
     "hasOIS": false,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 58000,
@@ -4843,7 +4927,7 @@
     "coatings": "HT-EBC, Nano GI",
     "maxMagnification": "0.16x",
     "hasOIS": false,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 33000,
@@ -4886,7 +4970,7 @@
     "coatings": "Standard Tech / HT-EBC Coating",
     "maxMagnification": "0.15x",
     "hasOIS": true,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 12000,
@@ -4929,7 +5013,7 @@
     "coatings": "Nano GI",
     "maxMagnification": "0.12x",
     "hasOIS": true,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 42000,
@@ -4972,7 +5056,7 @@
     "coatings": "Standard Tech / HT-EBC Coating",
     "maxMagnification": "0.15x",
     "hasOIS": false,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 22700,
@@ -5016,7 +5100,7 @@
     "coatings": "Standard Tech / HT-EBC Coating",
     "maxMagnification": "0.14x",
     "hasOIS": false,
-    "hasApertureRing": false,
+    "hasApertureRing": true,
     "hasCustomButton": false,
     "hasWeatherSeal": true,
     "launchPrice": 30900,
@@ -5614,7 +5698,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/12mm-f2-8-lite-zero-d-ff.webp"
+    "image_url": "/images/products/laowa/12mm-f2-8-lite-zero-d-ff.webp",
+    "coatings": "Frog Eye Coating (FEC)"
   },
   {
     "brand": "Sigma",
@@ -6084,7 +6169,7 @@
     "opticalDesign": "11 elements in 10 groups",
     "specialElements": "Aspherical, Anomalous Partial Dispersion (APD) glass",
     "coatings": "ZEISS T*",
-    "motorType": "Linear motor",
+    "motorType": "Linear Motor",
     "mounts": [
       {
         "mount": {
@@ -6139,7 +6224,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/20mm-f1-4-dg-dn-art.webp"
+    "image_url": "/images/products/sigma/20mm-f1-4-dg-dn-art.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "brand": "Sigma",
@@ -6325,7 +6411,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/20mm-f2-0-dg-dn-c.webp"
+    "image_url": "/images/products/sigma/20mm-f2-0-dg-dn-c.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "brand": "Tokina",
@@ -7391,7 +7478,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/35mm-f1-4-af.webp"
+    "image_url": "/images/products/samyang/35mm-f1-4-af.webp",
+    "motorType": "DLSM (Dual Linear Sonic Motor)"
   },
   {
     "brand": "Samyang",
@@ -7617,7 +7705,12 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/35mm-f1-8-af.webp"
+    "image_url": "/images/products/viltrox/35mm-f1-8-af.webp",
+    "minAperture": "16",
+    "closeFocus": "0.4m",
+    "opticalDesign": "10 elements in 8 groups",
+    "specialElements": "2 ED, 2 HRI, 2 Aspherical",
+    "coatings": "HD Nano Coating"
   },
   {
     "brand": "Sony",
@@ -7746,7 +7839,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/35mm-f2-0-dg-dn-c.webp"
+    "image_url": "/images/products/sigma/35mm-f2-0-dg-dn-c.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "brand": "Yongnuo",
@@ -7966,7 +8060,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/40mm-f1-4-dg-hsm-art.webp"
+    "image_url": "/images/products/sigma/40mm-f1-4-dg-hsm-art.webp",
+    "coatings": "Super Multi-Layer Coating, Water and Oil-Repellent Coating"
   },
   {
     "brand": "Zeiss",
@@ -8051,7 +8146,8 @@
     "minAperture": "22",
     "closeFocus": "0.28m (AF) / 0.25m (MF)",
     "motorType": "2x Linear",
-    "image_url": "/images/products/sony/sony-40mm-f2-5-g.webp"
+    "image_url": "/images/products/sony/sony-40mm-f2-5-g.webp",
+    "specialElements": "3 Aspherical"
   },
   {
     "brand": "Viltrox",
@@ -8417,7 +8513,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/50mm-f1-4-dg-hsm-art.webp"
+    "image_url": "/images/products/sigma/50mm-f1-4-dg-hsm-art.webp",
+    "specialElements": "3 SLD, 1 Aspherical",
+    "coatings": "Super Multi-Layer Coating"
   },
   {
     "brand": "Sony",
@@ -8593,7 +8691,11 @@
         }
       }
     ],
-    "image_url": "/images/products/viltrox/50mm-f1-8-af.webp"
+    "image_url": "/images/products/viltrox/50mm-f1-8-af.webp",
+    "minAperture": "16",
+    "closeFocus": "0.55m",
+    "opticalDesign": "11 elements in 10 groups",
+    "specialElements": "1 ED, 2 HRI, 2 Aspherical"
   },
   {
     "brand": "Yongnuo",
@@ -8915,7 +9017,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/65mm-f2-0-dg-dn-c.webp"
+    "image_url": "/images/products/sigma/65mm-f2-0-dg-dn-c.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "brand": "Sigma",
@@ -9564,7 +9667,6 @@
       "Viltrox 85mm f1.8 af stm"
     ],
     "dimensions": "Ø80 x 92 mm",
-    "officialUrl": "https://viltrox.com/pages/af-85-1-8-fe",
     "mounts": [
       {
         "mount": {
@@ -9572,7 +9674,13 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "minAperture": "16",
+    "closeFocus": "0.8m",
+    "motorType": "STM",
+    "opticalDesign": "10 elements in 7 groups",
+    "specialElements": "1 ED, 4 High Transparency",
+    "coatings": "HD Nano multi-layer coating"
   },
   {
     "brand": "Viltrox",
@@ -9617,7 +9725,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/85mm-f1-8-af-stm-ii.webp"
+    "image_url": "/images/products/viltrox/85mm-f1-8-af-stm-ii.webp",
+    "closeFocus": "0.8m"
   },
   {
     "brand": "Yongnuo",
@@ -10110,7 +10219,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/105mm-f1-4-dg-hsm-art.webp"
+    "image_url": "/images/products/sigma/105mm-f1-4-dg-hsm-art.webp",
+    "specialElements": "3 FLD, 2 SLD, 1 Aspherical",
+    "coatings": "Super Multi-Layer Coating, Water and Oil-Repellent Coating"
   },
   {
     "brand": "Sigma",
@@ -10255,7 +10366,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/135mm-f1-8-dg-hsm-art.webp"
+    "image_url": "/images/products/sigma/135mm-f1-8-dg-hsm-art.webp",
+    "coatings": "Super Multi-Layer Coating, Water and Oil-Repellent Coating"
   },
   {
     "brand": "Sony",
@@ -11054,7 +11166,8 @@
     "minAperture": "22",
     "closeFocus": "0.28m",
     "specialElements": "2 XA, 3 Aspherical, 2 ED",
-    "image_url": "/images/products/sony/sony-16-35mm-t3-1-g.webp"
+    "image_url": "/images/products/sony/sony-16-35mm-t3-1-g.webp",
+    "motorType": "DDSSM"
   },
   {
     "brand": "Sony",
@@ -11140,7 +11253,8 @@
     "opticalDesign": "13 elements in 12 groups",
     "minAperture": "22",
     "closeFocus": "0.28m (W) / 0.24m (T)",
-    "motorType": "XD Linear"
+    "motorType": "XD Linear",
+    "specialElements": "2 AA, 1 ED Aspherical, 1 Aspherical, 1 Super ED, 1 ED"
   },
   {
     "brand": "Tamron",
@@ -11497,7 +11611,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/24-70mm-f2-8-dg-dn-art.webp"
+    "image_url": "/images/products/sigma/24-70mm-f2-8-dg-dn-art.webp",
+    "specialElements": "6 FLD, 2 SLD, 3 Aspherical"
   },
   {
     "brand": "Sony",
@@ -12026,7 +12141,8 @@
     "opticalDesign": "18 elements in 12 groups",
     "minAperture": "22",
     "closeFocus": "0.4m (W) / 0.95m (T)",
-    "image_url": "/images/products/sony/sony-28-135mm-f4-g-oss-pz.webp"
+    "image_url": "/images/products/sony/sony-28-135mm-f4-g-oss-pz.webp",
+    "motorType": "SSM"
   },
   {
     "brand": "Tamron",
@@ -12615,7 +12731,8 @@
     "weightGrams": 1480,
     "opticalDesign": "23 elements in 18 groups",
     "minAperture": "22",
-    "closeFocus": "0.96m"
+    "closeFocus": "0.96m",
+    "specialElements": "1 XA, 2 Super ED, 4 ED"
   },
   {
     "brand": "Sony",
@@ -12837,7 +12954,8 @@
     "weightGrams": 1395,
     "opticalDesign": "22 elements in 16 groups",
     "minAperture": "32-40",
-    "closeFocus": "0.98m"
+    "closeFocus": "0.98m",
+    "specialElements": "1 Super ED, 2 ED"
   },
   {
     "brand": "Sigma",
@@ -13539,7 +13657,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "minAperture": "22",
+    "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-videography/loxia-lenses.html"
   },
   {
     "brand": "Voigtlander",
@@ -14263,7 +14383,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/60mm-f2-8-macro-2-1.webp"
   },
   {
     "brand": "Voigtlander",
@@ -14612,7 +14733,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/135mm-f2-0-ed-umc.webp"
+    "image_url": "/images/products/samyang/135mm-f2-0-ed-umc.webp",
+    "specialElements": "1 ED",
+    "coatings": "Ultra Multi Coating (UMC)"
   },
   {
     "brand": "Laowa",
@@ -14710,7 +14833,8 @@
     "batterySpec": "NP-FZ100 (600 shots CIPA)",
     "ports": "USB-C (5Gbps), micro USB, HDMI Type A, mic, headphone, XLR/TRS x2 (via handle)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-fx3.webp"
+    "image_url": "/images/products/sony/sony-fx3.webp",
+    "afTargets": "Human, Animal"
   },
   {
     "brand": "Sony",
@@ -14981,7 +15105,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf12s/",
     "sensorFormat": "Full Frame",
     "filterSizeMm": 82,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "hasOIS": false,
+    "hasCustomButton": true
   },
   {
     "opticalDesign": "16 elements in 11 groups",
@@ -15110,7 +15236,10 @@
     ],
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-120mmf4s/",
     "sensorFormat": "Full Frame",
-    "minAperture": "22"
+    "minAperture": "22",
+    "hasApertureRing": false,
+    "hasOIS": false,
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-100-400mm-f-4-5-5-6-vr-s",
@@ -15149,7 +15278,8 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_100-400mmf45-56_vr_s/",
     "sensorFormat": "Full Frame",
     "minAperture": "32-40",
-    "hasOIS": true
+    "hasOIS": true,
+    "hasCustomButton": true
   },
   {
     "id": "canon-rf-85mm-f1-2l-usm",
@@ -15188,7 +15318,8 @@
     "filterSizeMm": 82,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf85mm-f-1-2l-usm/main/product",
     "minAperture": "16",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -15227,7 +15358,8 @@
     "filterSizeMm": 82,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf135mm-f-1-8l-is-usm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -15344,7 +15476,8 @@
     "closeFocus": "0.45m",
     "maxMagnification": "0.19x",
     "filterSizeMm": 77,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
@@ -15383,7 +15516,8 @@
     "closeFocus": "0.45m",
     "maxMagnification": "0.29x",
     "filterSizeMm": 82,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "canon-rf-10-20mm-f4l-is-stm",
@@ -15396,7 +15530,7 @@
     "apertureMax": 4.0,
     "releaseYear": 2023,
     "weightGrams": 570,
-    "launchPrice": 72000,
+    "launchPrice": 69600,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
@@ -15422,7 +15556,8 @@
     "closeFocus": "0.25m",
     "maxMagnification": "0.12x",
     "filterSizeMm": 0,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "canon-rf-50mm-f1-8-stm",
@@ -15461,7 +15596,8 @@
     "filterSizeMm": 43,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf50mm-f-1-8-stm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "nikon-z-58mm-f-0-95-s-noct",
@@ -15499,7 +15635,8 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_58mmf095s/",
     "minAperture": "16",
     "specialElements": "4 ED, 3 Aspherical",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-105mm-f-2-8-vr-s-micro",
@@ -15654,7 +15791,8 @@
     "motorType": "STM",
     "filterSizeMm": 95,
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_180-600mmf56-63_vr/",
-    "specialElements": "6 ED, 1 Aspherical"
+    "specialElements": "6 ED, 1 Aspherical",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-85mm-f-1-8-s",
@@ -15805,7 +15943,8 @@
     "filterSizeMm": 52,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf35mmf14-r/specifications/",
     "dimensions": "Ø65 x 50.4 mm",
-    "specialElements": "1 Aspherical"
+    "specialElements": "1 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-23mm-f1-4-r-lm-wr",
@@ -15839,7 +15978,8 @@
     "filterSizeMm": 58,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf23mmf14-r-lm-wr/specifications/",
     "dimensions": "Ø67 x 77.8 mm",
-    "specialElements": "2 Aspherical, 3 ED"
+    "specialElements": "2 Aspherical, 3 ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-18mm-f1-4-r-lm-wr",
@@ -15873,7 +16013,8 @@
     "filterSizeMm": 62,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf18mmf14-r-lm-wr/specifications/",
     "dimensions": "Ø68.8 x 75.6 mm",
-    "specialElements": "3 Aspherical, 1 ED"
+    "specialElements": "3 Aspherical, 1 ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-90mm-f2-r-lm-wr",
@@ -15907,7 +16048,8 @@
     "filterSizeMm": 62,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf90mmf2-r-lm-wr/specifications/",
     "dimensions": "Ø75 x 105 mm",
-    "specialElements": "3 ED"
+    "specialElements": "3 ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-gf-32-64mm-f4-r-lm-wr",
@@ -15941,7 +16083,8 @@
     "filterSizeMm": 77,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/gf32-64mmf4-r-lm-wr/specifications/",
     "dimensions": "Ø92.6 x 116 mm (W) / 145.5 mm (T)",
-    "specialElements": "3 Aspherical, 1 ED, 1 Super ED"
+    "specialElements": "3 Aspherical, 1 ED, 1 Super ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-gf-110mm-f2-r-lm-wr",
@@ -16009,7 +16152,8 @@
     "filterSizeMm": 77,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/gf80mmf17-r-wr/specifications/",
     "dimensions": "Ø94.7 x 99.2 mm",
-    "specialElements": "1 Aspherical, 2 Super ED"
+    "specialElements": "1 Aspherical, 2 Super ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-gf-45-100mm-f4-r-lm-ois-wr",
@@ -16043,7 +16187,8 @@
     "filterSizeMm": 82,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/gf45-100mmf4-r-lm-ois-wr/specifications/",
     "dimensions": "Ø93 x 144.5 mm (W) / 174.5 mm (T)",
-    "specialElements": "3 Aspherical, 1 ED, 1 Super ED"
+    "specialElements": "3 Aspherical, 1 ED, 1 Super ED",
+    "hasApertureRing": true
   },
   {
     "id": "canon-rf-16mm-f2-8-stm",
@@ -16082,7 +16227,8 @@
     "filterSizeMm": 43,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf16mm-f-2-8-stm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -16121,7 +16267,8 @@
     "filterSizeMm": 52,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf24mm-f-1-8-macro-is-stm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -16160,7 +16307,8 @@
     "filterSizeMm": 55,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf28mm-f-2-8-stm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -16199,7 +16347,8 @@
     "filterSizeMm": 52,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf35mm-f-1-8-macro-is-stm/main/product",
     "minAperture": "22",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -16355,7 +16504,8 @@
     "filterSizeMm": 67,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf24-105mm-f-4-7-1-is-stm/main/product",
     "minAperture": "22-40",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -16394,7 +16544,8 @@
     "filterSizeMm": 49,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf-s18-45mm-f-4-5-6-3-is-stm/main/product",
     "minAperture": "22-32",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -16433,7 +16584,8 @@
     "filterSizeMm": 49,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf-s10-18mm-f-4-5-6-3-is-stm/main/product",
     "minAperture": "22-32",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -16446,7 +16598,7 @@
     "apertureMax": "3.5-6.3",
     "releaseYear": 2022,
     "weightGrams": 310,
-    "launchPrice": 14900,
+    "launchPrice": 13900,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
@@ -16471,7 +16623,9 @@
     "closeFocus": "0.17m (AF) / 0.12m (MF)",
     "filterSizeMm": 55,
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf-s18-150mm-f-3-5-6-3-is-stm/main/product",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "minAperture": "22",
+    "hasCustomButton": false
   },
   {
     "id": "nikon-z-20mm-f-1-8-s",
@@ -16587,7 +16741,8 @@
     "motorType": "STM",
     "filterSizeMm": 52,
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_26mmf28/",
-    "specialElements": "3 Aspherical"
+    "specialElements": "3 Aspherical",
+    "hasApertureRing": false
   },
   {
     "id": "nikon-z-28mm-f-2-8",
@@ -16972,7 +17127,8 @@
     "filterSizeMm": 43,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf23mmf2-r-wr/specifications/",
     "dimensions": "Ø60 x 51.9 mm",
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-35mm-f2-r-wr",
@@ -17006,7 +17162,8 @@
     "filterSizeMm": 43,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf35mmf2-r-wr/specifications/",
     "dimensions": "Ø60 x 45.9 mm",
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-50mm-f2-r-wr",
@@ -17040,7 +17197,8 @@
     "filterSizeMm": 46,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf50mmf2-r-wr/specifications/",
     "dimensions": "Ø60 x 59.4 mm",
-    "specialElements": "1 Aspherical ED"
+    "specialElements": "1 Aspherical ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-27mm-f2-8-r-wr",
@@ -17074,7 +17232,8 @@
     "filterSizeMm": 39,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf27mmf28-r-wr/specifications/",
     "dimensions": "Ø62 x 23 mm",
-    "specialElements": "1 Aspherical"
+    "specialElements": "1 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-16mm-f2-8-r-wr",
@@ -17108,7 +17267,8 @@
     "filterSizeMm": 49,
     "officialUrl": "https://www.fujifilm-x.com/ja-jp/products/lenses/xf16mmf28-r-wr/specifications/",
     "dimensions": "Ø60 x 45.4 mm",
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-18-135mm-f3-5-5-6-r-lm-ois-wr",
@@ -17142,7 +17302,8 @@
     "filterSizeMm": 67,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/specifications/",
     "dimensions": "Ø75.7 x 97.8 mm (W) / 158 mm (T)",
-    "specialElements": "4 Aspherical, 2 Anomalous Dispersion"
+    "specialElements": "4 Aspherical, 2 Anomalous Dispersion",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-70-300mm-f4-5-6-r-lm-ois-wr",
@@ -17176,7 +17337,8 @@
     "filterSizeMm": 67,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/specifications/",
     "dimensions": "Ø75 x 132.5 mm (W) / 205.5 mm (T)",
-    "specialElements": "1 Aspherical, 2 ED"
+    "specialElements": "1 Aspherical, 2 ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
@@ -17210,7 +17372,8 @@
     "filterSizeMm": 77,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/specifications/",
     "dimensions": "Ø94.8 x 210.5 mm (W) / 270 mm (T)",
-    "specialElements": "5 ED, 1 Super ED"
+    "specialElements": "5 ED, 1 Super ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xf-55-200mm-f3-5-4-8-r-lm-ois",
@@ -17244,7 +17407,8 @@
     "filterSizeMm": 62,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xf55-200mmf35-48-r-lm-ois/specifications/",
     "dimensions": "Ø75 x 118 mm (W) / 177 mm (T)",
-    "specialElements": "1 Aspherical, 1 ED, 1 Super ED"
+    "specialElements": "1 Aspherical, 1 ED, 1 Super ED",
+    "hasApertureRing": true
   },
   {
     "id": "fujifilm-xc-15-45mm-f3-5-5-6-ois-pz",
@@ -17278,7 +17442,8 @@
     "filterSizeMm": 52,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xc15-45mmf35-56-ois-pz/specifications/",
     "dimensions": "Ø62.6 x 44.2 mm",
-    "specialElements": "3 Aspherical, 2 ED"
+    "specialElements": "3 Aspherical, 2 ED",
+    "hasApertureRing": false
   },
   {
     "id": "fujifilm-xc-35mm-f2",
@@ -17312,7 +17477,8 @@
     "filterSizeMm": 43,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xc35mmf2/specifications/",
     "dimensions": "Ø58.4 x 46.5 mm",
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "hasApertureRing": false
   },
   {
     "id": "fujifilm-xc-50-230mm-f4-5-6-7-ois-ii",
@@ -17346,7 +17512,8 @@
     "filterSizeMm": 58,
     "officialUrl": "https://www.fujifilm-x.com/en-us/products/lenses/xc50-230mmf45-67-ois-ii/specifications/",
     "dimensions": "Ø69.5 x 111 mm (W) / 177 mm (T)",
-    "specialElements": "1 Aspherical, 1 ED"
+    "specialElements": "1 Aspherical, 1 ED",
+    "hasApertureRing": false
   },
   {
     "id": "canon-eos-r6-mark-iii",
@@ -17498,7 +17665,8 @@
     "cardSlots": "1x SD (UHS-II)",
     "batterySpec": "NP-W126S (310 shots CIPA)",
     "ports": "USB-C (10Gbps), micro HDMI, 3.5mm mic/remote",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "F-Log, F-Log2, HLG"
   },
   {
     "id": "canon-rf-45mm-f1-2-stm",
@@ -17530,7 +17698,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-45mm-f1-2-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-45mm-f1-2-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-85mm-f1-4-l-vcm",
@@ -17669,7 +17839,8 @@
     ],
     "sensorFormat": "Full Frame",
     "launchPrice": 42900,
-    "image_url": "/images/products/canon/canon-rf-20-50mm-f4-l-is-usm-pz.webp"
+    "image_url": "/images/products/canon/canon-rf-20-50mm-f4-l-is-usm-pz.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-rf-75-300mm-f4-5-6",
@@ -17689,7 +17860,7 @@
     "filterSizeMm": 58,
     "dimensions": "Ø71.2 x 146.1 mm",
     "weightGrams": 507,
-    "motorType": "DC motor",
+    "motorType": "DC Motor",
     "hasOIS": false,
     "hasWeatherSeal": false,
     "mounts": [
@@ -17731,7 +17902,11 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-rf-s-14-30mm-f4-6-3-is-stm-pz.webp"
+    "image_url": "/images/products/canon/canon-rf-s-14-30mm-f4-6-3-is-stm-pz.webp",
+    "specialElements": "1 UD, 2 Aspherical",
+    "coatings": "Super Spectra Coating",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-20mm-f1-4-l-vcm",
@@ -17798,7 +17973,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-16-28mm-f2-8-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-16-28mm-f2-8-is-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-70-200mm-f2-8-l-is-usm-z",
@@ -17933,7 +18110,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-rf-s-7-8mm-f4-stm-dual.webp"
+    "image_url": "/images/products/canon/canon-rf-s-7-8mm-f4-stm-dual.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-28-70mm-f2-8-is-stm",
@@ -17965,7 +18144,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-28-70mm-f2-8-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-28-70mm-f2-8-is-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-s-3-9mm-f3-5-stm-dual-fisheye",
@@ -17995,7 +18176,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-rf-s-3-9mm-f3-5-stm-dual-fisheye.webp"
+    "image_url": "/images/products/canon/canon-rf-s-3-9mm-f3-5-stm-dual-fisheye.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-s-55-210mm-f5-7-1-is-stm",
@@ -18027,7 +18210,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-rf-s-55-210mm-f5-7-1-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-s-55-210mm-f5-7-1-is-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-100-300mm-f2-8-l-is-usm",
@@ -18061,7 +18246,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-100-300mm-f2-8-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-100-300mm-f2-8-l-is-usm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-rf-200-800mm-f6-3-9-is-usm",
@@ -18095,7 +18281,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-200-800mm-f6-3-9-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-200-800mm-f6-3-9-is-usm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-rf-24-50mm-f4-5-6-3-is-stm",
@@ -18126,7 +18313,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-24-50mm-f4-5-6-3-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-24-50mm-f4-5-6-3-is-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-15-30mm-f4-5-6-3-is-stm",
@@ -18159,7 +18348,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-15-30mm-f4-5-6-3-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-15-30mm-f4-5-6-3-is-stm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-1200mm-f8-l-is-usm",
@@ -18193,7 +18384,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-1200mm-f8-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-1200mm-f8-l-is-usm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-rf-800mm-f5-6-l-is-usm",
@@ -18227,7 +18419,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-800mm-f5-6-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-800mm-f5-6-l-is-usm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-rf-14-35mm-f4-l-is-usm",
@@ -18260,7 +18453,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-14-35mm-f4-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-14-35mm-f4-l-is-usm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-600mm-f4-l-is-usm",
@@ -18423,7 +18618,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-85mm-f1-2-l-usm-ds.webp"
+    "image_url": "/images/products/canon/canon-rf-85mm-f1-2-l-usm-ds.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-24-240mm-f4-6-3-is-usm",
@@ -18455,7 +18652,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-24-240mm-f4-6-3-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-24-240mm-f4-6-3-is-usm.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "canon-rf-5-2mm-f2-8-l-dual-fisheye",
@@ -18522,7 +18721,8 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-r6-v.webp"
+    "image_url": "/images/products/canon/canon-eos-r6-v.webp",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "canon-eos-r8-mark-ii",
@@ -18561,7 +18761,8 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-r8-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-eos-r8-mark-ii.webp",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "canon-eos-r50-v",
@@ -18631,7 +18832,11 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-r5-c.webp"
+    "image_url": "/images/products/canon/canon-eos-r5-c.webp",
+    "weightGrams": 770,
+    "isoRange": "100-51200 (Ext: 50-102400)",
+    "hasIBIS": false,
+    "evfMagnification": "0.76x"
   },
   {
     "id": "canon-eos-ra",
@@ -18693,7 +18898,9 @@
     "filterSizeMm": 58,
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "motorType": "Micromotor",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-14mm-f2-8-r.webp"
   },
   {
     "id": "fujifilm-xf-8mm-f3-5-r-wr",
@@ -18725,7 +18932,8 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-8mm-f3-5-r-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-8mm-f3-5-r-wr.webp",
+    "motorType": "Micromotor"
   },
   {
     "id": "fujifilm-xf-16mm-f1-4-r-wr",
@@ -18790,7 +18998,8 @@
     "filterSizeMm": 52,
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/fujifilm/fujifilm-xf-18mm-f2-r.webp"
   },
   {
     "id": "fujifilm-xf-23mm-f2-8-r-wr",
@@ -18819,7 +19028,7 @@
     "dimensions": "Ø61.8 x 23 mm",
     "weightGrams": 90,
     "filterSizeMm": 39,
-    "motorType": "DC motor",
+    "motorType": "DC Motor",
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
@@ -18987,7 +19196,9 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-200mm-f2-r-lm-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-200mm-f2-r-lm-ois-wr.webp",
+    "motorType": "Linear Motor",
+    "hasCustomButton": true
   },
   {
     "id": "fujifilm-xf-400mm-f4-5-r-lm-ois-wr",
@@ -19019,7 +19230,10 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-400mm-f4-5-r-lm-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-400mm-f4-5-r-lm-ois-wr.webp",
+    "motorType": "Linear Motor",
+    "coatings": "Fluorine",
+    "hasCustomButton": true
   },
   {
     "id": "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
@@ -19052,7 +19266,9 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-500mm-f5-6-r-lm-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-500mm-f5-6-r-lm-ois-wr.webp",
+    "coatings": "Fluorine",
+    "hasCustomButton": true
   },
   {
     "id": "fujifilm-xf-16-50mm-f2-8-4-8-r-lm-wr",
@@ -19151,7 +19367,9 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": false,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-18-120mm-f4-lm-pz-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-18-120mm-f4-lm-pz-wr.webp",
+    "motorType": "Linear Motor",
+    "hasCustomButton": true
   },
   {
     "id": "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr",
@@ -19184,7 +19402,8 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr.webp",
+    "motorType": "Linear Motor"
   },
   {
     "id": "fujifilm-xc-13-33mm-f3-5-6-3-ois",
@@ -19216,7 +19435,8 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "hasApertureRing": false,
-    "image_url": "/images/products/fujifilm/fujifilm-xc-13-33mm-f3-5-6-3-ois.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xc-13-33mm-f3-5-6-3-ois.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "id": "fujifilm-gf-19-35mm-t3-5-pz-ois-wr",
@@ -19410,7 +19630,7 @@
     "dimensions": "Ø94.7 x 99.3 mm",
     "weightGrams": 780,
     "filterSizeMm": 77,
-    "motorType": "DC motor",
+    "motorType": "DC Motor",
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
@@ -19546,7 +19766,9 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-gf-500mm-f5-6-r-lm-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gf-500mm-f5-6-r-lm-ois-wr.webp",
+    "coatings": "Fluorine",
+    "hasCustomButton": true
   },
   {
     "id": "fujifilm-gf-20-35mm-f4-r-wr",
@@ -19612,7 +19834,8 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-gf-32-90mm-t3-5-pz-ois-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gf-32-90mm-t3-5-pz-ois-wr.webp",
+    "coatings": "Nano GI"
   },
   {
     "id": "fujifilm-gf-35-70mm-f4-5-5-6-wr",
@@ -19644,7 +19867,8 @@
     "hasOIS": false,
     "hasWeatherSeal": true,
     "hasApertureRing": false,
-    "image_url": "/images/products/fujifilm/fujifilm-gf-35-70mm-f4-5-5-6-wr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gf-35-70mm-f4-5-5-6-wr.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "id": "fujifilm-gf-100-200mm-f5-6-r-lm-ois-wr",
@@ -19709,7 +19933,8 @@
     "coatings": "Nano GI",
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-gf-30mm-f5-6-t-s.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gf-30mm-f5-6-t-s.webp",
+    "hasApertureRing": false
   },
   {
     "id": "fujifilm-gf-110mm-f5-6-t-s-macro",
@@ -19772,7 +19997,9 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-23mm-f1-4-r.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-23mm-f1-4-r.webp",
+    "motorType": "Micromotor",
+    "coatings": "HT-EBC"
   },
   {
     "id": "fujifilm-xf-56mm-f1-2-r",
@@ -19803,7 +20030,9 @@
     "filterSizeMm": 62,
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "motorType": "Micromotor",
+    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r.webp"
   },
   {
     "id": "fujifilm-xf-56mm-f1-2-r-apd",
@@ -19835,7 +20064,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r-apd.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r-apd.webp",
+    "motorType": "Micromotor"
   },
   {
     "id": "fujifilm-xf-10-24mm-f4-r-ois",
@@ -19867,7 +20097,8 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-10-24mm-f4-r-ois.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-10-24mm-f4-r-ois.webp",
+    "motorType": "Stepping Motor"
   },
   {
     "id": "fujifilm-xf-27mm-f2-8",
@@ -19899,7 +20130,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": false,
-    "image_url": "/images/products/fujifilm/fujifilm-xf-27mm-f2-8.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-27mm-f2-8.webp",
+    "motorType": "Micromotor"
   },
   {
     "id": "fujifilm-xc-16-50mm-f3-5-5-6-ois",
@@ -19927,7 +20159,7 @@
     "dimensions": "Ø62.6 x 65.2 mm",
     "weightGrams": 195,
     "filterSizeMm": 58,
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasApertureRing": false,
     "image_url": "/images/products/fujifilm/fujifilm-xc-16-50mm-f3-5-5-6-ois.webp"
@@ -19959,7 +20191,7 @@
     "dimensions": "Ø62.6 x 65.2 mm",
     "weightGrams": 195,
     "filterSizeMm": 58,
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasWeatherSeal": false,
     "hasApertureRing": false,
@@ -19991,7 +20223,7 @@
     "dimensions": "Ø68.5 x 111 mm",
     "weightGrams": 375,
     "filterSizeMm": 58,
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasApertureRing": false,
     "image_url": "/images/products/fujifilm/fujifilm-xc-50-230mm-f4-5-6-7-ois.webp"
@@ -20030,7 +20262,8 @@
     "ports": "USB-C (10Gbps), micro HDMI, 2.5mm mic/remote",
     "dimensions": "118.4 x 82.8 x 46.8 mm",
     "weightGrams": 378,
-    "image_url": "/images/products/fujifilm/fujifilm-x-t30-iii.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-t30-iii.webp",
+    "logSupport": "F-Log, F-Log2, HLG"
   },
   {
     "id": "fujifilm-gfx-100rf",
@@ -20059,7 +20292,8 @@
     "ports": "USB-C (10Gbps), micro HDMI, mic, headphone",
     "dimensions": "133.5 x 90.4 x 76.5 mm",
     "weightGrams": 735,
-    "image_url": "/images/products/fujifilm/fujifilm-gfx-100rf.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-100rf.webp",
+    "logSupport": "F-Log, F-Log2, HLG"
   },
   {
     "id": "fujifilm-gfx-eterna-55",
@@ -20090,7 +20324,9 @@
     "ports": "USB-C, HDMI (Type A), 12G-SDI, LAN, timecode in/out, genlock, mic, headphone",
     "dimensions": "110.8 x 138.2 x 176.8 mm",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-gfx-eterna-55.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-eterna-55.webp",
+    "videoColorDepth": "10-bit 4:2:2",
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)"
   },
   {
     "id": "fujifilm-gfx-100",
@@ -20126,7 +20362,10 @@
     "dimensions": "156.2 x 163.6 x 102.9 mm",
     "weightGrams": 1400,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-gfx-100.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-100.webp",
+    "afTargets": "Human (Face/Eye)",
+    "videoColorDepth": "10-bit 4:2:0 (Internal) / 10-bit 4:2:2 (HDMI)",
+    "logSupport": "F-Log, HLG"
   },
   {
     "id": "fujifilm-gfx-50s",
@@ -20159,7 +20398,9 @@
     "dimensions": "147.5 x 113.8 x 91.4 mm",
     "weightGrams": 920,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-gfx-50s.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gfx-50s.webp",
+    "afTargets": "Human (Face/Eye)",
+    "hasIBIS": false
   },
   {
     "id": "fujifilm-x-e3",
@@ -20192,7 +20433,10 @@
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic",
     "dimensions": "121.3 x 73.9 x 42.7 mm",
     "weightGrams": 337,
-    "image_url": "/images/products/fujifilm/fujifilm-x-e3.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-e3.webp",
+    "processor": "X-Processor Pro",
+    "afTargets": "Human (Face/Eye)",
+    "hasWeatherSeal": false
   },
   {
     "id": "fujifilm-x-t200",
@@ -20225,7 +20469,9 @@
     "dimensions": "121.0 x 83.7 x 55.1 mm",
     "weightGrams": 370,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-t200.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-t200.webp",
+    "afPoints": "425 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-x-a7",
@@ -20256,7 +20502,9 @@
     "dimensions": "119.0 x 67.7 x 41.2 mm",
     "weightGrams": 320,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a7.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a7.webp",
+    "afPoints": "425 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-x-t100",
@@ -20289,7 +20537,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic/remote",
     "dimensions": "121.0 x 83.0 x 47.4 mm",
     "weightGrams": 448,
-    "image_url": "/images/products/fujifilm/fujifilm-x-t100.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-t100.webp",
+    "afTargets": "Human (Face/Eye)",
+    "hasWeatherSeal": false
   },
   {
     "id": "fujifilm-x-a5",
@@ -20320,7 +20570,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic/remote",
     "dimensions": "116.9 x 67.7 x 40.4 mm",
     "weightGrams": 361,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a5.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a5.webp",
+    "afTargets": "Human (Face/Eye)",
+    "hasWeatherSeal": false
   },
   {
     "id": "fujifilm-x-a3",
@@ -20350,7 +20602,9 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 339,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a3.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a3.webp",
+    "dimensions": "116.9 x 66.9 x 40.4 mm",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-x-a10",
@@ -20380,7 +20634,9 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 331,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a10.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a10.webp",
+    "dimensions": "116.9 x 67.4 x 40.4 mm",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-x-e2s",
@@ -20412,7 +20668,9 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 350,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-e2s.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-e2s.webp",
+    "dimensions": "129.0 x 74.9 x 37.2 mm",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-x-a2",
@@ -20443,7 +20701,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 350,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a2.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a2.webp",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x-e2",
@@ -20475,7 +20734,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 350,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-x-e2.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-e2.webp",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x-a1",
@@ -20505,7 +20765,8 @@
     "batterySpec": "NP-W126 (350 shots CIPA)",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 330,
-    "image_url": "/images/products/fujifilm/fujifilm-x-a1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-a1.webp",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x-m1",
@@ -20535,7 +20796,8 @@
     "batterySpec": "350 shots CIPA",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 330,
-    "image_url": "/images/products/fujifilm/fujifilm-x-m1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x-m1.webp",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x-e1",
@@ -20595,7 +20857,9 @@
     "batterySpec": "NP-W126S (410 shots CIPA)",
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "116.9 x 67.4 x 40.4 mm",
-    "weightGrams": 348
+    "weightGrams": 348,
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "hasselblad-xcd-25mm-f2-5-v",
@@ -21044,7 +21308,8 @@
     "filterSizeMm": 77,
     "weightGrams": 1044,
     "dimensions": "Ø84 x 112 mm",
-    "image_url": "/images/products/hasselblad/hasselblad-xcd-80mm-f1-9.webp"
+    "image_url": "/images/products/hasselblad/hasselblad-xcd-80mm-f1-9.webp",
+    "motorType": "Twin AF motors"
   },
   {
     "id": "hasselblad-xcd-90mm-f3-2",
@@ -21227,7 +21492,8 @@
     "batterySpec": "Li-ion 7.27V 3400mAh",
     "ports": "USB-C, mic, headphone",
     "weightGrams": 766,
-    "dimensions": "148 x 97 x 70 mm"
+    "dimensions": "148 x 97 x 70 mm",
+    "image_url": "/images/products/hasselblad/hasselblad-x1d-ii-50c.webp"
   },
   {
     "id": "hasselblad-907x-50c",
@@ -21254,7 +21520,8 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "Li-ion 7.27V 3400mAh",
     "ports": "USB-C, mic, headphone, flash sync, DC in",
-    "dimensions": "102 x 93 x 84 mm"
+    "dimensions": "102 x 93 x 84 mm",
+    "image_url": "/images/products/hasselblad/hasselblad-907x-50c.webp"
   },
   {
     "id": "hasselblad-907x-cfv-100c",
@@ -21283,7 +21550,8 @@
     "batterySpec": "Li-ion 7.27V 3400mAh (420 shots CIPA)",
     "ports": "USB-C, shutter control port, flash sync in, flash sync out, ELX out",
     "dimensions": "102 x 92 x 84 mm",
-    "image_url": "/images/products/hasselblad/hasselblad-907x-cfv-100c.webp"
+    "image_url": "/images/products/hasselblad/hasselblad-907x-cfv-100c.webp",
+    "hasIBIS": false
   },
   {
     "id": "hasselblad-x1d-50c",
@@ -21312,7 +21580,9 @@
     "batterySpec": "Li-ion 3200mAh",
     "ports": "USB 3.0, HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "weightGrams": 725
+    "weightGrams": 725,
+    "dimensions": "150 x 98 x 71 mm",
+    "officialUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
   },
   {
     "id": "leica-sl-typ-601",
@@ -21343,7 +21613,8 @@
     "batterySpec": "BP-SCL4 (400 shots CIPA)",
     "ports": "USB 3.0, HDMI, mic, headphone",
     "weightGrams": 847,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afTargets": "Human"
   },
   {
     "id": "leica-sl2",
@@ -21375,7 +21646,9 @@
     "batterySpec": "BP-SCL4 (370 shots CIPA)",
     "ports": "USB 3.2 Gen 1, HDMI, mic, headphone",
     "weightGrams": 916,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 219000,
+    "afTargets": "Human"
   },
   {
     "id": "leica-sl2-s",
@@ -21407,7 +21680,9 @@
     "batterySpec": "BP-SCL4 (510 shots CIPA)",
     "ports": "USB 3.2 Gen 1, HDMI, mic, headphone",
     "weightGrams": 931,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 145000,
+    "afTargets": "Human"
   },
   {
     "id": "leica-sl3",
@@ -21440,7 +21715,14 @@
     "ports": "USB 3.2 Gen 1, HDMI, mic, headphone",
     "weightGrams": 854,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-sl3.webp"
+    "image_url": "/images/products/leica/leica-sl3.webp",
+    "launchPrice": 226000,
+    "dimensions": "141.2 x 108 x 84.6 mm",
+    "burstSpeed": "7fps (Mech) / 15fps (Elec)",
+    "afPoints": "315 points",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-sl3-s",
@@ -21474,7 +21756,13 @@
     "ports": "USB 3.2 Gen 2, HDMI, mic, headphone",
     "weightGrams": 852,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-sl3-s.webp"
+    "image_url": "/images/products/leica/leica-sl3-s.webp",
+    "launchPrice": 168500,
+    "dimensions": "141.2 x 108 x 82.7 mm",
+    "afPoints": "779 phase-detect points",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-sl3-p",
@@ -21508,7 +21796,12 @@
     "ports": "USB 3.2 Gen 2, HDMI, mic, headphone",
     "weightGrams": 852,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-sl3-p.webp"
+    "image_url": "/images/products/leica/leica-sl3-p.webp",
+    "dimensions": "141.2 x 108 x 84.6 mm",
+    "afPoints": "819 phase-detect points",
+    "afTargets": "Human, Animal, Vehicle",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-q-typ-116",
@@ -21531,7 +21824,8 @@
     "batterySpec": "BP-DC12",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 640,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Human"
   },
   {
     "id": "leica-q-p",
@@ -21554,7 +21848,8 @@
     "batterySpec": "BP-DC12",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 640,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Human"
   },
   {
     "id": "leica-q2",
@@ -21576,7 +21871,13 @@
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL4 (350 shots CIPA)",
     "weightGrams": 734,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 178000,
+    "dimensions": "130 x 80 x 91.9 mm",
+    "afPoints": "225 points",
+    "afTargets": "Human",
+    "officialUrl": "https://leica-camera.com/en-int/node/6921",
+    "image_url": "/images/products/leica/leica-q2.webp"
   },
   {
     "id": "leica-q2-monochrom",
@@ -21598,7 +21899,9 @@
     "cardSlots": "1x SD (UHS-II)",
     "batterySpec": "BP-SCL4 (350 shots CIPA)",
     "weightGrams": 734,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 179000,
+    "afTargets": "Human"
   },
   {
     "id": "leica-q3",
@@ -21624,7 +21927,13 @@
     "ports": "USB, HDMI",
     "weightGrams": 743,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-q3.webp"
+    "image_url": "/images/products/leica/leica-q3.webp",
+    "launchPrice": 215000,
+    "dimensions": "130 x 80.3 x 92.6 mm",
+    "afPoints": "315 points",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-q3-43",
@@ -21650,7 +21959,13 @@
     "ports": "USB 3.2 Gen 2, HDMI",
     "weightGrams": 772,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-q3-43.webp"
+    "image_url": "/images/products/leica/leica-q3-43.webp",
+    "launchPrice": 240000,
+    "dimensions": "130 x 80.3 x 97.6 mm",
+    "afPoints": "315 points",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-q3-monochrom",
@@ -21676,7 +21991,13 @@
     "ports": "USB, HDMI",
     "weightGrams": 743,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-q3-monochrom.webp"
+    "image_url": "/images/products/leica/leica-q3-monochrom.webp",
+    "launchPrice": 233000,
+    "dimensions": "130 x 80.3 x 92.6 mm",
+    "afPoints": "315 points",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-m-typ-240",
@@ -21703,7 +22024,8 @@
     "cardSlots": "1x SD",
     "ports": "USB 2.0",
     "weightGrams": 680,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 260000
   },
   {
     "id": "leica-m-e-typ-220",
@@ -21754,7 +22076,8 @@
     "cardSlots": "1x SD",
     "ports": "USB 2.0",
     "weightGrams": 600,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 280000
   },
   {
     "id": "leica-m-p-typ-240",
@@ -21783,7 +22106,8 @@
     "batterySpec": "BP-SCL2",
     "ports": "USB 2.0",
     "weightGrams": 680,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 280000
   },
   {
     "id": "leica-m-monochrom-typ-246",
@@ -21811,7 +22135,8 @@
     "batterySpec": "BP-SCL2",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 680,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 260000
   },
   {
     "id": "leica-m-typ-262",
@@ -21864,7 +22189,9 @@
     "lcdSpec": "3.0-inch 1.04M-dot fixed",
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL5 (210 shots CIPA)",
-    "weightGrams": 660
+    "weightGrams": 660,
+    "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-schwarz/jetzt-kaufen",
+    "image_url": "/images/products/leica/leica-m10.webp"
   },
   {
     "id": "leica-m10-p",
@@ -21890,7 +22217,9 @@
     "lcdSpec": "3.0-inch 1.04M-dot fixed touch",
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL5 (210 shots CIPA)",
-    "weightGrams": 660
+    "weightGrams": 660,
+    "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-p-schwarz/jetzt-kaufen",
+    "image_url": "/images/products/leica/leica-m10-p.webp"
   },
   {
     "id": "leica-m10-d",
@@ -21915,7 +22244,9 @@
     "hasIBIS": false,
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL5",
-    "weightGrams": 660
+    "weightGrams": 660,
+    "officialUrl": "https://leica-camera.com/zh-Hant/product/leica-m10-d-black-chrome",
+    "image_url": "/images/products/leica/leica-m10-d.webp"
   },
   {
     "id": "leica-m-e-typ-240",
@@ -21937,7 +22268,8 @@
     "hasIBIS": false,
     "cardSlots": "1x SD",
     "ports": "USB 2.0",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 139000
   },
   {
     "id": "leica-m10-monochrom",
@@ -21950,7 +22282,10 @@
     "megapixels": "40.9MP",
     "sensorType": "CMOS",
     "isoRange": "160-100000",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "launchPrice": 278000,
+    "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-monochrom/jetzt-kaufen",
+    "image_url": "/images/products/leica/leica-m10-monochrom.webp"
   },
   {
     "id": "leica-m10-r",
@@ -21974,7 +22309,10 @@
     "hasIBIS": false,
     "cardSlots": "1x SD",
     "weightGrams": 660,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 260000,
+    "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-r-schwarz/jetzt-kaufen",
+    "image_url": "/images/products/leica/leica-m10-r.webp"
   },
   {
     "id": "leica-m11",
@@ -22004,7 +22342,9 @@
     "ports": "USB 3.2 Gen 1",
     "weightGrams": 640,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-m11.webp"
+    "image_url": "/images/products/leica/leica-m11.webp",
+    "launchPrice": 275000,
+    "dimensions": "139 x 80 x 38.5 mm"
   },
   {
     "id": "leica-m11-monochrom",
@@ -22033,7 +22373,10 @@
     "ports": "USB 3.2 Gen 1",
     "weightGrams": 640,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-m11-monochrom.webp"
+    "image_url": "/images/products/leica/leica-m11-monochrom.webp",
+    "launchPrice": 295000,
+    "dimensions": "139 x 80 x 38.5 mm",
+    "lcdSpec": "2.95-inch 2.33M-dot fixed touch"
   },
   {
     "id": "leica-m11-p",
@@ -22063,7 +22406,9 @@
     "ports": "USB 3.2 Gen 1",
     "weightGrams": 640,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-m11-p.webp"
+    "image_url": "/images/products/leica/leica-m11-p.webp",
+    "launchPrice": 290000,
+    "dimensions": "139 x 80 x 38.5 mm"
   },
   {
     "id": "leica-m-ev1",
@@ -22095,7 +22440,8 @@
     "ports": "USB 3.2 Gen 1",
     "weightGrams": 484,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-m-ev1.webp"
+    "image_url": "/images/products/leica/leica-m-ev1.webp",
+    "launchPrice": 259000
   },
   {
     "id": "leica-cl",
@@ -22124,7 +22470,11 @@
     "cardSlots": "1x SD (UHS-II)",
     "batterySpec": "BP-DC12 (220 shots CIPA)",
     "weightGrams": 403,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "dimensions": "131 x 78 x 45 mm",
+    "evfMagnification": "0.74x",
+    "afTargets": "Human",
+    "officialUrl": "https://leica-camera.com/en-GB/node/292"
   },
   {
     "id": "leica-t-typ-701",
@@ -22152,7 +22502,9 @@
     "batterySpec": "BP-DC13 (400 shots CIPA)",
     "ports": "USB 2.0",
     "weightGrams": 384,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 65000,
+    "afTargets": "Human"
   },
   {
     "id": "leica-tl",
@@ -22180,7 +22532,8 @@
     "batterySpec": "400 shots CIPA",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 384,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Human"
   },
   {
     "id": "leica-tl2",
@@ -22208,7 +22561,9 @@
     "batterySpec": "BP-DC13 (250 shots CIPA)",
     "ports": "USB 3.0, HDMI",
     "weightGrams": 399,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 77000,
+    "afTargets": "Human"
   },
   {
     "id": "leica-vario-elmarit-sl-24-90-f2-8-4-asph",
@@ -22232,13 +22587,16 @@
     "specialElements": "4 Aspherical",
     "closeFocus": "0.3m",
     "maxMagnification": "0.14x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 82,
     "weightGrams": 1140,
-    "dimensions": "Ø88 x 138 mm"
+    "dimensions": "Ø88 x 138 mm",
+    "minAperture": "22",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-90mm-f2-8-4-asph-black",
+    "image_url": "/images/products/leica/leica-vario-elmarit-sl-24-90-f2-8-4-asph.webp"
   },
   {
     "id": "leica-apo-vario-elmarit-sl-90-280-f2-8-4",
@@ -22259,11 +22617,19 @@
     "focalLengthMaxMm": 280,
     "apertureMax": "2.8-4",
     "specialElements": "4 APD",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "filterSizeMm": 82
+    "filterSizeMm": 82,
+    "weightGrams": 1710,
+    "dimensions": "Ø88 x 238 mm",
+    "minAperture": "22",
+    "maxMagnification": "0.21x",
+    "closeFocus": "0.6m (W) / 1.4m (T)",
+    "opticalDesign": "23 elements in 17 groups",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-vario-elmarit-sl-90-280mm-f2-8-4-black",
+    "image_url": "/images/products/leica/leica-apo-vario-elmarit-sl-90-280-f2-8-4.webp"
   },
   {
     "id": "leica-summilux-sl-50-f1-4-asph",
@@ -22306,11 +22672,17 @@
     "opticalDesign": "18 elements in 12 groups",
     "coatings": "AquaDura",
     "closeFocus": "0.25m",
-    "motorType": "Linear motor",
+    "motorType": "Linear Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "weightGrams": 990,
-    "dimensions": "Ø88 x 123 mm"
+    "dimensions": "Ø88 x 123 mm",
+    "minAperture": "22",
+    "maxMagnification": "0.27x",
+    "filterSizeMm": 82,
+    "specialElements": "2 Aspherical",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/super-vario-elmar-sl-16-35mm-f3-5-4-5-asph-black",
+    "image_url": "/images/products/leica/leica-super-vario-elmar-sl-16-35-f3-5-4-5-asph.webp"
   },
   {
     "id": "leica-apo-summicron-sl-75-f2-asph",
@@ -22334,13 +22706,16 @@
     "specialElements": "1 Aspherical",
     "closeFocus": "0.5m",
     "maxMagnification": "0.2x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 720,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "minAperture": "22",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-75mm-f2-asph-black",
+    "image_url": "/images/products/leica/leica-apo-summicron-sl-75-f2-asph.webp"
   },
   {
     "id": "leica-apo-summicron-sl-90-f2-asph",
@@ -22365,13 +22740,15 @@
     "specialElements": "1 Aspherical",
     "closeFocus": "0.6m",
     "maxMagnification": "0.2x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 700,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "minAperture": "22",
+    "image_url": "/images/products/leica/leica-apo-summicron-sl-90-f2-asph.webp"
   },
   {
     "id": "leica-apo-summicron-sl-35-f2-asph",
@@ -22397,13 +22774,15 @@
     "coatings": "MC, AquaDura",
     "closeFocus": "0.27m",
     "maxMagnification": "0.2x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 720,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "minAperture": "22",
+    "image_url": "/images/products/leica/leica-apo-summicron-sl-35-f2-asph.webp"
   },
   {
     "id": "leica-apo-summicron-sl-50-f2-asph",
@@ -22429,13 +22808,15 @@
     "coatings": "AquaDura",
     "closeFocus": "0.35m",
     "maxMagnification": "0.2x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 740,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "minAperture": "22",
+    "image_url": "/images/products/leica/leica-apo-summicron-sl-50-f2-asph.webp"
   },
   {
     "id": "leica-apo-summicron-sl-28-f2-asph",
@@ -22460,13 +22841,15 @@
     "specialElements": "6 Aspherical",
     "closeFocus": "0.24m",
     "maxMagnification": "0.2x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 700,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "minAperture": "22",
+    "image_url": "/images/products/leica/leica-apo-summicron-sl-28-f2-asph.webp"
   },
   {
     "id": "leica-vario-elmarit-sl-24-70-f2-8-asph",
@@ -22490,13 +22873,17 @@
     "specialElements": "3 Aspherical",
     "closeFocus": "0.18m",
     "maxMagnification": "0.34x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 82,
     "weightGrams": 856,
-    "dimensions": "Ø88 x 123 mm"
+    "dimensions": "Ø88 x 123 mm",
+    "launchPrice": 86700,
+    "minAperture": "22",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-70-f2-8-asph-black-finish",
+    "image_url": "/images/products/leica/leica-vario-elmarit-sl-24-70-f2-8-asph.webp"
   },
   {
     "id": "leica-super-apo-summicron-sl-21-f2-asph",
@@ -22524,7 +22911,10 @@
     "hasApertureRing": false,
     "filterSizeMm": 67,
     "weightGrams": 789,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "launchPrice": 163000,
+    "minAperture": "22",
+    "image_url": "/images/products/leica/leica-super-apo-summicron-sl-21-f2-asph.webp"
   },
   {
     "id": "leica-vario-elmar-sl-100-400-f5-6-3",
@@ -22547,13 +22937,17 @@
     "opticalDesign": "22 elements in 16 groups",
     "closeFocus": "1.1m",
     "maxMagnification": "0.24x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": true,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 82,
     "weightGrams": 1530,
-    "dimensions": "Ø88 x 198 mm"
+    "dimensions": "Ø88 x 198 mm",
+    "minAperture": "22",
+    "coatings": "Aqua-Dura",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmar-sl-100-400-f5-6-3",
+    "image_url": "/images/products/leica/leica-vario-elmar-sl-100-400-f5-6-3.webp"
   },
   {
     "id": "leica-super-vario-elmarit-sl-14-24-f2-8-asph",
@@ -22580,7 +22974,13 @@
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "weightGrams": 855,
-    "dimensions": "Ø85 x 131 mm"
+    "dimensions": "Ø85 x 131 mm",
+    "launchPrice": 85800,
+    "minAperture": "22",
+    "filterSizeMm": 0,
+    "coatings": "Aqua-Dura",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/leica-super-vario-elmarit-sl-14-24-f28-asph-black-anodized-finish",
+    "image_url": "/images/products/leica/leica-super-vario-elmarit-sl-14-24-f2-8-asph.webp"
   },
   {
     "id": "leica-summicron-sl-35-f2-asph",
@@ -22606,7 +23006,12 @@
     "coatings": "Aqua-Dura",
     "closeFocus": "0.24m",
     "hasApertureRing": false,
-    "dimensions": "Ø74.5 x 83 mm"
+    "dimensions": "Ø74.5 x 83 mm",
+    "weightGrams": 400,
+    "maxMagnification": "0.22x",
+    "filterSizeMm": 67,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/leica/leica-summicron-sl-35-f2-asph.webp"
   },
   {
     "id": "leica-vario-elmarit-sl-70-200-f2-8-asph",
@@ -22634,7 +23039,11 @@
     "hasApertureRing": false,
     "filterSizeMm": 82,
     "weightGrams": 1540,
-    "dimensions": "Ø89 x 207 mm"
+    "dimensions": "Ø89 x 207 mm",
+    "minAperture": "22",
+    "hasWeatherSeal": true,
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-70-200-f28-asph-black-anodized-finish",
+    "image_url": "/images/products/leica/leica-vario-elmarit-sl-70-200-f2-8-asph.webp"
   },
   {
     "id": "leica-summilux-sl-50-f1-4-asph-2026",
@@ -22658,13 +23067,17 @@
     "specialElements": "2 Aspherical",
     "closeFocus": "0.5m",
     "maxMagnification": "0.13x",
-    "motorType": "Linear motor",
+    "motorType": "Linear Motor",
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 584,
-    "dimensions": "Ø74 x 76 mm"
+    "dimensions": "Ø74 x 76 mm",
+    "minAperture": "16",
+    "coatings": "Aqua-Dura",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/summilux-sl-50mm-f1-4-asph-black-anodized-finish",
+    "image_url": "/images/products/leica/leica-summilux-sl-50-f1-4-asph-2026.webp"
   },
   {
     "id": "leica-apo-macro-elmarit-sl-100-f2-8",
@@ -22692,7 +23105,11 @@
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 801,
-    "dimensions": "Ø77 x 137 mm"
+    "dimensions": "Ø77 x 137 mm",
+    "minAperture": "22",
+    "coatings": "Aqua-Dura",
+    "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-macro-elmarit-sl-100mm-f2-8-black",
+    "image_url": "/images/products/leica/leica-apo-macro-elmarit-sl-100-f2-8.webp"
   },
   {
     "id": "leica-summicron-tl-23-f2-asph",
@@ -22714,11 +23131,17 @@
     "apertureMax": 2,
     "opticalDesign": "9 elements in 6 groups",
     "closeFocus": "0.3m",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "filterSizeMm": 52,
     "weightGrams": 154,
-    "dimensions": "Ø63 x 37 mm"
+    "dimensions": "Ø63 x 37 mm",
+    "launchPrice": 69000,
+    "minAperture": "16",
+    "maxMagnification": "0.08x",
+    "hasApertureRing": false,
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/summicron-tl-23mm-f2-asph-black",
+    "image_url": "/images/products/leica/leica-summicron-tl-23-f2-asph.webp"
   },
   {
     "id": "leica-vario-elmar-tl-18-56-f3-5-5-6-asph",
@@ -22741,11 +23164,16 @@
     "opticalDesign": "10 elements in 7 groups",
     "closeFocus": "0.45m",
     "maxMagnification": "0.13x",
-    "motorType": "Stepper motor",
+    "motorType": "Stepping Motor",
     "hasOIS": false,
     "filterSizeMm": 52,
     "weightGrams": 256,
-    "dimensions": "Ø63 x 60 mm"
+    "dimensions": "Ø63 x 60 mm",
+    "launchPrice": 63000,
+    "minAperture": "16",
+    "hasApertureRing": false,
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/vario-elmar-tl-18-56mm-f3-5-5-6-asph-black",
+    "image_url": "/images/products/leica/leica-vario-elmar-tl-18-56-f3-5-5-6-asph.webp"
   },
   {
     "id": "leica-apo-vario-elmar-tl-55-135-f3-5-4-5-asph",
@@ -22772,7 +23200,10 @@
     "hasWeatherSeal": false,
     "filterSizeMm": 60,
     "weightGrams": 500,
-    "dimensions": "Ø68 x 110 mm"
+    "dimensions": "Ø68 x 110 mm",
+    "minAperture": "16",
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/apo-vario-elmar-tl-55-135mm-f3-5-4-5-asph-black",
+    "image_url": "/images/products/leica/leica-apo-vario-elmar-tl-55-135-f3-5-4-5-asph.webp"
   },
   {
     "id": "leica-summilux-tl-35-f1-4-asph",
@@ -22800,7 +23231,11 @@
     "hasApertureRing": false,
     "hasWeatherSeal": false,
     "filterSizeMm": 60,
-    "dimensions": "Ø70 x 77 mm"
+    "dimensions": "Ø70 x 77 mm",
+    "weightGrams": 428,
+    "minAperture": "16",
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/summilux-tl-35mm-f1-4-asph-black",
+    "image_url": "/images/products/leica/leica-summilux-tl-35-f1-4-asph.webp"
   },
   {
     "id": "leica-apo-macro-elmarit-tl-60-f2-8-asph",
@@ -22829,7 +23264,10 @@
     "hasWeatherSeal": false,
     "filterSizeMm": 60,
     "weightGrams": 320,
-    "dimensions": "Ø68 x 89 mm"
+    "dimensions": "Ø68 x 89 mm",
+    "minAperture": "32",
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/apo-macro-elmarit-tl-60mm-f2-8-asph-black",
+    "image_url": "/images/products/leica/leica-apo-macro-elmarit-tl-60-f2-8-asph.webp"
   },
   {
     "id": "leica-elmarit-tl-18-f2-8-asph",
@@ -22857,7 +23295,10 @@
     "hasWeatherSeal": false,
     "filterSizeMm": 39,
     "weightGrams": 80,
-    "dimensions": "Ø61 x 21 mm"
+    "dimensions": "Ø61 x 21 mm",
+    "minAperture": "16",
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/elmarit-tl-18-f2-8-asph-black",
+    "image_url": "/images/products/leica/leica-elmarit-tl-18-f2-8-asph.webp"
   },
   {
     "id": "leica-super-vario-elmar-tl-11-23-f3-5-4-5-asph",
@@ -22876,7 +23317,16 @@
     ],
     "focalLengthMinMm": 11,
     "focalLengthMaxMm": 23,
-    "apertureMax": "3.5-4.5"
+    "apertureMax": "3.5-4.5",
+    "weightGrams": 386,
+    "dimensions": "Ø73 x 77 mm",
+    "minAperture": "16",
+    "closeFocus": "0.2m",
+    "filterSizeMm": 67,
+    "opticalDesign": "14 elements in 11 groups",
+    "hasApertureRing": false,
+    "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/super-vario-elmar-tl-11-23mm-f3-5-4-5-asph",
+    "image_url": "/images/products/leica/leica-super-vario-elmar-tl-11-23-f3-5-4-5-asph.webp"
   },
   {
     "id": "leica-m11-d",
@@ -22900,7 +23350,11 @@
     "cardSlots": "1x SD (UHS-II)",
     "ports": "USB-C",
     "weightGrams": 540,
-    "image_url": "/images/products/leica/leica-m11-d.webp"
+    "image_url": "/images/products/leica/leica-m11-d.webp",
+    "launchPrice": 310000,
+    "dimensions": "139 x 80 x 38.5 mm",
+    "sensorType": "BSI CMOS",
+    "processor": "Leica Maestro III"
   },
   {
     "id": "leica-m-d-typ-262",
@@ -22921,7 +23375,8 @@
     "sensorType": "CMOS",
     "processor": "Maestro",
     "isoRange": "200-6400",
-    "burstSpeed": "3fps"
+    "burstSpeed": "3fps",
+    "launchPrice": 226000
   },
   {
     "id": "leica-summicron-sl-50-f2-asph",
@@ -22951,7 +23406,9 @@
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 402,
-    "dimensions": "Ø74.5 x 83 mm"
+    "dimensions": "Ø74.5 x 83 mm",
+    "coatings": "Aqua-Dura",
+    "image_url": "/images/products/leica/leica-summicron-sl-50-f2-asph.webp"
   },
   {
     "id": "leica-vario-elmarit-sl-28-70-f2-8-asph",
@@ -22982,7 +23439,9 @@
     "hasWeatherSeal": true,
     "filterSizeMm": 67,
     "weightGrams": 572,
-    "dimensions": "Ø73 x 102 mm"
+    "dimensions": "Ø73 x 102 mm",
+    "launchPrice": 67800,
+    "image_url": "/images/products/leica/leica-vario-elmarit-sl-28-70-f2-8-asph.webp"
   },
   {
     "id": "nikon-z-400mm-f-2-8-tc-vr-s",
@@ -23002,7 +23461,7 @@
     "specialElements": "2 ED, 1 Super ED, 2 Fluorite, 1 SR",
     "coatings": "Meso Amorphous Coat, ARNEO Coat, Fluorine Coat",
     "motorType": "Silky Swift VCM (SSVCM)",
-    "filterSizeMm": 46,
+    "filterSizeMm": 0,
     "dimensions": "Ø156 x 380 mm",
     "weightGrams": 2950,
     "hasOIS": true,
@@ -23015,7 +23474,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-400mm-f-2-8-tc-vr-s.webp"
+    "image_url": "/images/products/nikon/nikon-z-400mm-f-2-8-tc-vr-s.webp",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-400mm-f-4-5-vr-s",
@@ -23048,7 +23508,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-400mm-f-4-5-vr-s.webp"
+    "image_url": "/images/products/nikon/nikon-z-400mm-f-4-5-vr-s.webp",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-600mm-f-4-tc-vr-s",
@@ -23068,7 +23529,7 @@
     "specialElements": "3 ED, 1 Super ED, 2 Fluorite, 2 SR",
     "coatings": "Meso Amorphous Coat, Nano Crystal Coat, Fluorine Coat",
     "motorType": "Silky Swift VCM (SSVCM)",
-    "filterSizeMm": 46,
+    "filterSizeMm": 0,
     "dimensions": "Ø165 x 437 mm",
     "weightGrams": 3260,
     "hasOIS": true,
@@ -23115,7 +23576,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-600mm-f-6-3-vr-s.webp"
+    "image_url": "/images/products/nikon/nikon-z-600mm-f-6-3-vr-s.webp",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-800mm-f-6-3-vr-s",
@@ -23135,7 +23597,7 @@
     "specialElements": "3 ED, 1 SR, 1 PF",
     "coatings": "Nano Crystal Coat, Fluorine Coat",
     "motorType": "STM",
-    "filterSizeMm": 46,
+    "filterSizeMm": 0,
     "dimensions": "Ø140 x 385 mm",
     "weightGrams": 2385,
     "hasOIS": true,
@@ -23148,7 +23610,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-800mm-f-6-3-vr-s.webp"
+    "image_url": "/images/products/nikon/nikon-z-800mm-f-6-3-vr-s.webp",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-35mm-f-1-2-s",
@@ -23180,7 +23643,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-2-s.webp"
+    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-2-s.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-24-70mm-f-2-8-s-ii",
@@ -23212,7 +23677,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s-ii.webp"
+    "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s-ii.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-70-200mm-f-2-8-vr-s-ii",
@@ -23244,7 +23710,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s-ii.webp"
+    "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s-ii.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-35mm-f-1-4",
@@ -23275,7 +23742,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-4.webp"
+    "image_url": "/images/products/nikon/nikon-z-35mm-f-1-4.webp",
+    "coatings": "Super Integrated Coating",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-50mm-f-1-4",
@@ -23306,7 +23775,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-4.webp"
+    "image_url": "/images/products/nikon/nikon-z-50mm-f-1-4.webp",
+    "coatings": "Super Integrated Coating",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-dx-24mm-f-1-7",
@@ -23337,7 +23808,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-dx-24mm-f-1-7.webp"
+    "image_url": "/images/products/nikon/nikon-z-dx-24mm-f-1-7.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-17-28mm-f-2-8",
@@ -23369,7 +23841,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-17-28mm-f-2-8.webp"
+    "image_url": "/images/products/nikon/nikon-z-17-28mm-f-2-8.webp",
+    "coatings": "Super Integrated Coating"
   },
   {
     "id": "nikon-z-24-105mm-f-4-7-1",
@@ -23401,7 +23874,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-24-105mm-f-4-7-1.webp"
+    "image_url": "/images/products/nikon/nikon-z-24-105mm-f-4-7-1.webp",
+    "coatings": "Super Integrated Coating",
+    "hasApertureRing": false
   },
   {
     "id": "nikon-z-28-135mm-f-4-pz",
@@ -23433,7 +23908,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-28-135mm-f-4-pz.webp"
+    "image_url": "/images/products/nikon/nikon-z-28-135mm-f-4-pz.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-28-400mm-f-4-8-vr",
@@ -23464,7 +23941,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-28-400mm-f-4-8-vr.webp"
+    "image_url": "/images/products/nikon/nikon-z-28-400mm-f-4-8-vr.webp",
+    "coatings": "Super Integrated Coating",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-70-180mm-f-2-8",
@@ -23495,7 +23974,10 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-70-180mm-f-2-8.webp"
+    "image_url": "/images/products/nikon/nikon-z-70-180mm-f-2-8.webp",
+    "coatings": "Super Integrated Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-dx-16-50mm-f-2-8-vr",
@@ -23526,7 +24008,10 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-dx-16-50mm-f-2-8-vr.webp"
+    "image_url": "/images/products/nikon/nikon-z-dx-16-50mm-f-2-8-vr.webp",
+    "coatings": "Super Integrated Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-dx-mc-35mm-f-1-7",
@@ -23557,7 +24042,10 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-dx-mc-35mm-f-1-7.webp"
+    "image_url": "/images/products/nikon/nikon-z-dx-mc-35mm-f-1-7.webp",
+    "coatings": "Super Integrated Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z-mc-50mm-f-2-8",
@@ -23590,7 +24078,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z-mc-50mm-f-2-8.webp"
+    "image_url": "/images/products/nikon/nikon-z-mc-50mm-f-2-8.webp",
+    "hasApertureRing": false
   },
   {
     "id": "nikon-z5-ii",
@@ -23627,7 +24116,9 @@
     "cardSlots": "2x SD (UHS-II)",
     "dimensions": "134 x 100.5 x 72 mm",
     "weightGrams": 700,
-    "image_url": "/images/products/nikon/nikon-z5-ii.webp"
+    "image_url": "/images/products/nikon/nikon-z5-ii.webp",
+    "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z5-iic",
@@ -23662,7 +24153,8 @@
     "cardSlots": "1x SD (UHS-II)",
     "dimensions": "134 x 80.5 x 72 mm",
     "weightGrams": 620,
-    "image_url": "/images/products/nikon/nikon-z5-iic.webp"
+    "image_url": "/images/products/nikon/nikon-z5-iic.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "nikon-z50-ii",
@@ -23698,7 +24190,9 @@
         }
       }
     ],
-    "image_url": "/images/products/nikon/nikon-z50-ii.webp"
+    "image_url": "/images/products/nikon/nikon-z50-ii.webp",
+    "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
+    "hasWeatherSeal": true
   },
   {
     "id": "sigma-85mm-f1-2-dg-art",
@@ -23736,7 +24230,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/sigma-85mm-f1-2-dg-art.webp"
+    "image_url": "/images/products/sigma/sigma-85mm-f1-2-dg-art.webp",
+    "specialElements": "2 SLD, 3 Aspherical",
+    "coatings": "Water and Oil-Repellent Coating"
   },
   {
     "id": "sigma-12mm-f1-4-dc-contemporary",
@@ -23779,7 +24275,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-12mm-f1-4-dc-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-12mm-f1-4-dc-contemporary.webp",
+    "coatings": "Water and Oil-Repellent Coating",
+    "hasCustomButton": false
   },
   {
     "id": "sigma-15mm-f1-4-dc-contemporary",
@@ -23822,7 +24320,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-15mm-f1-4-dc-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-15mm-f1-4-dc-contemporary.webp",
+    "coatings": "Water and Oil-Repellent Coating",
+    "hasCustomButton": false
   },
   {
     "id": "sigma-16mm-f1-4-dc-dn-contemporary",
@@ -23880,7 +24380,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-16mm-f1-4-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-16mm-f1-4-dc-dn-contemporary.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-23mm-f1-4-dc-dn-contemporary",
@@ -23926,7 +24428,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-23mm-f1-4-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-23mm-f1-4-dc-dn-contemporary.webp",
+    "launchPrice": 14900,
+    "coatings": "Super Multi-Layer Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-30mm-f1-4-dc-dn-contemporary",
@@ -23984,7 +24491,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-30mm-f1-4-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-30mm-f1-4-dc-dn-contemporary.webp",
+    "hasWeatherSeal": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-56mm-f1-4-dc-dn-contemporary",
@@ -24041,7 +24550,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-56mm-f1-4-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-56mm-f1-4-dc-dn-contemporary.webp",
+    "specialElements": "1 SLD, 2 Aspherical",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-20-60mm-f2-8-4-dg-contemporary",
@@ -24078,7 +24590,10 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/sigma-20-60mm-f2-8-4-dg-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-20-60mm-f2-8-4-dg-contemporary.webp",
+    "coatings": "Water and Oil-Repellent Coating",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-10-18mm-f2-8-dc-dn-contemporary",
@@ -24125,7 +24640,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-10-18mm-f2-8-dc-dn-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-10-18mm-f2-8-dc-dn-contemporary.webp",
+    "coatings": "Super Multi-Layer Coating",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-16-300mm-f3-5-6-7-dc-os-contemporary",
@@ -24177,7 +24695,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-16-300mm-f3-5-6-7-dc-os-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-16-300mm-f3-5-6-7-dc-os-contemporary.webp",
+    "coatings": "Super Multi-Layer Coating, Water and Oil-Repellent Coating",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-17-40mm-f1-8-dc-art",
@@ -24269,7 +24790,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-50-120mm-f2-8-dc-os-contemporary.webp"
+    "image_url": "/images/products/sigma/sigma-50-120mm-f2-8-dc-os-contemporary.webp",
+    "coatings": "Water and Oil-Repellent Coating",
+    "hasApertureRing": true
   },
   {
     "id": "sigma-19mm-f2-8-dn-art",
@@ -24303,7 +24826,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-19mm-f2-8-dn-art.webp"
+    "image_url": "/images/products/sigma/sigma-19mm-f2-8-dn-art.webp",
+    "motorType": "Micromotor",
+    "coatings": "Super Multi-Layer Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-30mm-f2-8-dn-art",
@@ -24337,7 +24865,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-30mm-f2-8-dn-art.webp"
+    "image_url": "/images/products/sigma/sigma-30mm-f2-8-dn-art.webp",
+    "motorType": "Micromotor",
+    "coatings": "Super Multi-Layer Coating",
+    "hasApertureRing": false,
+    "hasWeatherSeal": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-60mm-f2-8-dn-art",
@@ -24371,7 +24904,11 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-60mm-f2-8-dn-art.webp"
+    "image_url": "/images/products/sigma/sigma-60mm-f2-8-dn-art.webp",
+    "motorType": "Stepping Motor",
+    "hasApertureRing": false,
+    "hasWeatherSeal": false,
+    "hasCustomButton": false
   },
   {
     "id": "sigma-fp",
@@ -24404,7 +24941,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sigma/sigma-fp.webp"
+    "image_url": "/images/products/sigma/sigma-fp.webp",
+    "videoColorDepth": "12-bit (CinemaDNG RAW)"
   },
   {
     "id": "sigma-fp-l",
@@ -24437,7 +24975,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sigma/sigma-fp-l.webp"
+    "image_url": "/images/products/sigma/sigma-fp-l.webp",
+    "videoColorDepth": "12-bit (CinemaDNG RAW)"
   },
   {
     "id": "sigma-bf",
@@ -24510,7 +25049,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/tamron/tamron-12-20mm-f2-8-a084.webp"
+    "image_url": "/images/products/tamron/tamron-12-20mm-f2-8-a084.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "tamron-11-20mm-f2-8-di-iii-a-rxd-b060",
@@ -24685,7 +25225,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-19mm-f2-8-ex-dn.webp"
+    "image_url": "/images/products/sigma/sigma-19mm-f2-8-ex-dn.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "sigma-30mm-f2-8-ex-dn",
@@ -24721,7 +25264,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-30mm-f2-8-ex-dn.webp"
+    "image_url": "/images/products/sigma/sigma-30mm-f2-8-ex-dn.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "tamron-14-150mm-f3-5-5-8-di-iii-c001",
@@ -24740,7 +25286,7 @@
     "filterSizeMm": 52,
     "opticalDesign": "17 elements in 13 groups",
     "specialElements": "1 LD, 2 AD, 2 GM Aspherical, 1 Hybrid Aspherical",
-    "motorType": "Stepping motor",
+    "motorType": "Stepping Motor",
     "dimensions": "Ø63.5 x 80.4 mm",
     "weightGrams": 285,
     "mounts": [
@@ -24787,7 +25333,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-a7-v.webp"
+    "image_url": "/images/products/sony/sony-a7-v.webp",
+    "logSupport": "S-Log3, S-Cinetone",
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-a7r-vi",
@@ -24824,7 +25372,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-a7r-vi.webp"
+    "image_url": "/images/products/sony/sony-a7r-vi.webp",
+    "logSupport": "S-Log3, S-Cinetone",
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-fx2",
@@ -24921,7 +25471,12 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-28-70mm-f3-5-5-6-oss-ii.webp"
+    "image_url": "/images/products/sony/sony-fe-28-70mm-f3-5-5-6-oss-ii.webp",
+    "motorType": "Linear Motor",
+    "specialElements": "1 ED, 3 Aspherical",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "sony-fe-400mm-f4-5-gm-oss",
@@ -24953,7 +25508,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-400mm-f4-5-gm-oss.webp"
+    "image_url": "/images/products/sony/sony-fe-400mm-f4-5-gm-oss.webp",
+    "motorType": "2x XD Linear Motor",
+    "hasApertureRing": false
   },
   {
     "id": "sony-fe-600mm-f6-3-gm-oss",
@@ -24985,7 +25542,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-600mm-f6-3-gm-oss.webp"
+    "image_url": "/images/products/sony/sony-fe-600mm-f6-3-gm-oss.webp",
+    "motorType": "2x XD Linear Motor",
+    "hasApertureRing": false
   },
   {
     "id": "sony-fe-8-14mm-f3-5-fisheye-g",
@@ -25015,7 +25574,12 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-8-14mm-f3-5-fisheye-g.webp"
+    "image_url": "/images/products/sony/sony-fe-8-14mm-f3-5-fisheye-g.webp",
+    "motorType": "Linear Motor",
+    "specialElements": "1 ED Aspherical, 4 ED, 3 Aspherical",
+    "coatings": "Fluorine coating",
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "sony-fe-100-400mm-f4-5-gm-oss",
@@ -25048,7 +25612,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-100-400mm-f4-5-gm-oss.webp"
+    "image_url": "/images/products/sony/sony-fe-100-400mm-f4-5-gm-oss.webp",
+    "specialElements": "2 Super ED, 3 ED, 1 ED XA, 1 XA",
+    "hasApertureRing": false
   },
   {
     "id": "sony-fe-100-400mm-f5-6-8-oss",
@@ -25080,7 +25646,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-100-400mm-f5-6-8-oss.webp"
+    "image_url": "/images/products/sony/sony-fe-100-400mm-f5-6-8-oss.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "sony-fe-50mm-f1-8",
@@ -25108,7 +25676,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-50mm-f1-8.webp"
+    "image_url": "/images/products/sony/sony-fe-50mm-f1-8.webp",
+    "specialElements": "1 Aspherical"
   },
   {
     "id": "sony-fe-85mm-f1-8",
@@ -25139,7 +25708,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fe-85mm-f1-8.webp"
+    "image_url": "/images/products/sony/sony-fe-85mm-f1-8.webp",
+    "hasOIS": false
   },
   {
     "id": "sony-e-pz-18-110mm-f4-g-oss",
@@ -25168,7 +25738,10 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-pz-18-110mm-f4-g-oss.webp"
+    "image_url": "/images/products/sony/sony-e-pz-18-110mm-f4-g-oss.webp",
+    "hasApertureRing": true,
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "sony-fx6",
@@ -25228,7 +25801,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-16-55mm-f2-8-g.webp"
+    "image_url": "/images/products/sony/sony-e-16-55mm-f2-8-g.webp",
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "sony-e-70-350mm-f4-5-6-3-g-oss",
@@ -25259,7 +25834,10 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-70-350mm-f4-5-6-3-g-oss.webp"
+    "image_url": "/images/products/sony/sony-e-70-350mm-f4-5-6-3-g-oss.webp",
+    "specialElements": "3 ED, 1 Aspherical",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-e-15mm-f1-4-g",
@@ -25290,7 +25868,10 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-15mm-f1-4-g.webp"
+    "image_url": "/images/products/sony/sony-e-15mm-f1-4-g.webp",
+    "motorType": "2x Linear Motor",
+    "hasApertureRing": true,
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-e-pz-10-20mm-f4-g",
@@ -25321,7 +25902,10 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-pz-10-20mm-f4-g.webp"
+    "image_url": "/images/products/sony/sony-e-pz-10-20mm-f4-g.webp",
+    "motorType": "2x Linear Motor",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-e-18-135mm-f3-5-5-6-oss",
@@ -25350,7 +25934,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-18-135mm-f3-5-5-6-oss.webp"
+    "image_url": "/images/products/sony/sony-e-18-135mm-f3-5-5-6-oss.webp",
+    "motorType": "Linear Motor",
+    "specialElements": "2 ED, 1 Aspherical",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sony-e-pz-16-50mm-f3-5-5-6-oss-ii",
@@ -25379,7 +25967,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-pz-16-50mm-f3-5-5-6-oss-ii.webp"
+    "image_url": "/images/products/sony/sony-e-pz-16-50mm-f3-5-5-6-oss-ii.webp",
+    "motorType": "Linear Motor",
+    "specialElements": "4 Aspherical, 1 ED",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "sony-e-10-18mm-f4-oss",
@@ -25496,7 +26088,9 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-16-70mm-f4-za-oss.webp"
+    "image_url": "/images/products/sony/sony-e-16-70mm-f4-za-oss.webp",
+    "motorType": "Linear Motor",
+    "specialElements": "1 AA, 3 Aspherical, 1 ED"
   },
   {
     "id": "sony-e-pz-18-105mm-f4-g-oss",
@@ -25617,7 +26211,10 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-nex-6.webp"
+    "image_url": "/images/products/sony/sony-nex-6.webp",
+    "processor": "BIONZ",
+    "afTargets": "Human",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-nex-5r",
@@ -25646,7 +26243,11 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-nex-5r.webp"
+    "image_url": "/images/products/sony/sony-nex-5r.webp",
+    "processor": "BIONZ",
+    "hasIBIS": false,
+    "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-nex-f3",
@@ -25676,7 +26277,10 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-nex-f3.webp"
   },
   {
     "id": "sony-nex-3n",
@@ -25706,7 +26310,9 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-nex-3n.webp"
   },
   {
     "id": "sony-nex-5t",
@@ -25736,7 +26342,11 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "afTargets": "Human",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-nex-5t.webp"
   },
   {
     "id": "sony-a5100",
@@ -25766,7 +26376,11 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "afTargets": "Human",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-a5100.webp"
   },
   {
     "id": "sony-a5000",
@@ -25796,7 +26410,11 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "afTargets": "Human",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-a5000.webp"
   },
   {
     "id": "sony-ilce-qx1",
@@ -25823,7 +26441,13 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "processor": "BIONZ X",
+    "afTargets": "Human",
+    "hasIBIS": false,
+    "ports": "USB 2.0",
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-ilce-qx1.webp"
   },
   {
     "id": "sony-a3000",
@@ -25847,7 +26471,10 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "afTargets": "Human",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-a3500",
@@ -25870,7 +26497,11 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "afTargets": "Human",
+    "hasIBIS": false,
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-e-18-200mm-f3-5-6-3-oss-le",
@@ -25956,7 +26587,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-atx-m-11-18mm-f2-8-e.webp"
+    "image_url": "/images/products/tokina/tokina-atx-m-11-18mm-f2-8-e.webp",
+    "hasApertureRing": false
   },
   {
     "id": "tokina-atx-m-23mm-f1-4-x",
@@ -25964,7 +26596,7 @@
     "brand": "Tokina",
     "modelName": "Tokina atx-m 23mm F1.4 X",
     "gearType": "LENS",
-    "officialUrl": "https://tokinalens.com/product/atx_m_23mm_f1_4_x/",
+    "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/tokina/wide-lenses/atx_m_23mm_f14_x/",
     "releaseYear": 2020,
     "focalLengthMinMm": 23,
     "focalLengthMaxMm": 23,
@@ -26001,7 +26633,7 @@
     "brand": "Tokina",
     "modelName": "Tokina atx-m 33mm F1.4 X",
     "gearType": "LENS",
-    "officialUrl": "https://tokinalens.com/product/atx_m_33mm_f1_4_x/",
+    "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/tokina/standard-lenses/atx_m_33mm_f14_x/",
     "releaseYear": 2020,
     "focalLengthMinMm": 33,
     "focalLengthMaxMm": 33,
@@ -26038,7 +26670,7 @@
     "brand": "Tokina",
     "modelName": "Tokina atx-m 56mm F1.4 X",
     "gearType": "LENS",
-    "officialUrl": "https://tokinalens.com/product/atx_m_56mm_f1_4_x/",
+    "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/tokina/telephoto-lenses/atx-m_56mm_f14/",
     "releaseYear": 2021,
     "focalLengthMinMm": 56,
     "focalLengthMaxMm": 56,
@@ -26142,7 +26774,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-50.webp"
   },
   {
     "id": "zeiss-otus-ml-1-4-85",
@@ -26182,7 +26816,10 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasOIS": false,
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-85.webp"
   },
   {
     "id": "zeiss-otus-ml-1-4-35",
@@ -26223,7 +26860,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-35.webp"
   },
   {
     "id": "voigtlander-nokton-28mm-f1-5-aspherical",
@@ -26256,7 +26895,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-apo-lanthar-28mm-f2-aspherical",
@@ -26293,7 +26934,10 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "specialElements": "6 APD, 2 Aspherical",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -26325,7 +26969,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "specialElements": "1 Aspherical",
+    "hasOIS": false
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -26368,7 +27014,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-portrait-heliar-75mm-f1-8",
@@ -26405,7 +27053,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -26442,7 +27092,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-color-skopar-18mm-f2-8-aspherical",
@@ -26469,7 +27121,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-23mm-f1-2-aspherical",
@@ -26497,7 +27151,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-ultron-27mm-f2",
@@ -26524,7 +27180,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-35mm-f0-9-aspherical",
@@ -26552,7 +27210,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-x-mount",
@@ -26579,7 +27239,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-macro-apo-ultron-35mm-f2",
@@ -26607,7 +27269,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-x-mount",
@@ -26634,7 +27298,9 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-super-nokton-29mm-f0-8-aspherical",
@@ -26660,7 +27326,9 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "specialElements": "2 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-60mm-f0-95",
@@ -26687,7 +27355,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "hasApertureRing": true
   },
   {
     "id": "viltrox-af-13mm-f1-4",
@@ -26728,7 +27397,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-13mm-f1-4.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-13mm-f1-4.webp",
+    "coatings": "HD Nano Multi-layer Coating",
+    "hasOIS": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "viltrox-af-23mm-f1-4",
@@ -26769,7 +27441,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-23mm-f1-4.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-23mm-f1-4.webp",
+    "coatings": "HD Nano Coating",
+    "hasOIS": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "viltrox-af-33mm-f1-4",
@@ -26809,7 +27484,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-33mm-f1-4.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-33mm-f1-4.webp",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "viltrox-af-56mm-f1-4",
@@ -26849,7 +27526,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-4.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-4.webp",
+    "coatings": "HD Nano Multilayer Coating",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "viltrox-af-27mm-f1-2-pro",
@@ -26891,7 +27571,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-27mm-f1-2-pro.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-27mm-f1-2-pro.webp",
+    "hasOIS": false
   },
   {
     "id": "viltrox-af-56mm-f1-2-pro",
@@ -26928,7 +27609,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-2-pro.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-2-pro.webp",
+    "weightGrams": 575,
+    "dimensions": "Ø78 x 92 mm",
+    "coatings": "HD Nano Coating",
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "viltrox-af-75mm-f1-2-pro",
@@ -26970,7 +27656,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-2-pro.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-2-pro.webp",
+    "hasOIS": false,
+    "hasApertureRing": true
   },
   {
     "id": "viltrox-af-9mm-f2-8-air",
@@ -27006,7 +27694,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-9mm-f2-8-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-9mm-f2-8-air.webp",
+    "dimensions": "Ø65 x 56.4 mm",
+    "maxMagnification": "0.15x",
+    "motorType": "STM",
+    "hasApertureRing": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "viltrox-af-15mm-f1-7-air",
@@ -27041,7 +27734,12 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-15mm-f1-7-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-15mm-f1-7-air.webp",
+    "dimensions": "Ø65 x 56 mm",
+    "maxMagnification": "0.1x",
+    "closeFocus": "0.23m",
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "viltrox-af-25mm-f1-7-air",
@@ -27070,7 +27768,16 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-25mm-f1-7-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-25mm-f1-7-air.webp",
+    "dimensions": "Ø64 x 56 mm",
+    "maxMagnification": "0.11x",
+    "closeFocus": "0.3m",
+    "filterSizeMm": 52,
+    "specialElements": "1 ED, 2 HRI, 1 Aspherical",
+    "coatings": "Nano Coating",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "viltrox-af-35mm-f1-7-air",
@@ -27096,7 +27803,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-7-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-7-air.webp",
+    "dimensions": "Ø64 x 56 mm",
+    "minAperture": "16",
+    "maxMagnification": "0.13x",
+    "closeFocus": "0.33m",
+    "hasApertureRing": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "viltrox-af-56mm-f1-7-air",
@@ -27131,7 +27844,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-7-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-56mm-f1-7-air.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "viltrox-af-14mm-f4-0-air",
@@ -27167,7 +27883,13 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/viltrox-af-14mm-f4-0-air.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-14mm-f4-0-air.webp",
+    "dimensions": "Ø65 x 56.4 mm",
+    "minAperture": "16",
+    "maxMagnification": "0.23x",
+    "motorType": "STM",
+    "coatings": "Advanced Multi-Layer Coating",
+    "hasApertureRing": false
   },
   {
     "id": "viltrox-af-26mm-f2-8-evo",
@@ -27198,7 +27920,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/viltrox-af-26mm-f2-8-evo.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-26mm-f2-8-evo.webp",
+    "motorType": "STM",
+    "hasApertureRing": true
   },
   {
     "id": "viltrox-af-55mm-f1-8-evo",
@@ -27230,7 +27954,11 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/viltrox-af-55mm-f1-8-evo.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-55mm-f1-8-evo.webp",
+    "dimensions": "Ø69 x 76 mm",
+    "maxMagnification": "0.16x",
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "samyang-af-60-180mm-f2-8-fe",
@@ -27266,7 +27994,11 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/samyang/samyang-af-60-180mm-f2-8-fe.webp"
   },
   {
     "id": "samyang-af-24-60mm-f2-8-fe",
@@ -27299,7 +28031,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-af-24-60mm-f2-8-fe.webp"
+    "image_url": "/images/products/samyang/samyang-af-24-60mm-f2-8-fe.webp",
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "samyang-af-35mm-f1-8-p-fe",
@@ -27331,7 +28065,10 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-af-35mm-f1-8-p-fe.webp"
+    "image_url": "/images/products/samyang/samyang-af-35mm-f1-8-p-fe.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-af-16mm-f2-8-p-fe",
@@ -27363,7 +28100,10 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-af-16mm-f2-8-p-fe.webp"
+    "image_url": "/images/products/samyang/samyang-af-16mm-f2-8-p-fe.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-af-85mm-f1-8-p-fe",
@@ -27395,7 +28135,10 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-af-85mm-f1-8-p-fe.webp"
+    "image_url": "/images/products/samyang/samyang-af-85mm-f1-8-p-fe.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-af-12mm-f2-e",
@@ -27437,7 +28180,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/samyang/samyang-af-12mm-f2-e.webp"
+    "image_url": "/images/products/samyang/samyang-af-12mm-f2-e.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-af-35mm-f1-8-fe",
@@ -27469,7 +28215,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-af-35mm-f1-8-fe.webp"
+    "image_url": "/images/products/samyang/samyang-af-35mm-f1-8-fe.webp",
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "samyang-mf-14mm-f2-8-z",
@@ -27505,7 +28253,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-mf-14mm-f2-8-z.webp"
+    "image_url": "/images/products/samyang/samyang-mf-14mm-f2-8-z.webp",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-mf-85mm-f1-4-z",
@@ -27541,7 +28291,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/samyang/samyang-mf-85mm-f1-4-z.webp"
+    "image_url": "/images/products/samyang/samyang-mf-85mm-f1-4-z.webp",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-85mm-f1-8-ed-umc-cs",
@@ -27581,7 +28333,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/samyang/samyang-85mm-f1-8-ed-umc-cs.webp"
+    "image_url": "/images/products/samyang/samyang-85mm-f1-8-ed-umc-cs.webp",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "tokina-szx-super-tele-400mm-f8-reflex-mf",
@@ -27640,7 +28394,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/tokina/tokina-szx-super-tele-400mm-f8-reflex-mf.webp"
+    "image_url": "/images/products/tokina/tokina-szx-super-tele-400mm-f8-reflex-mf.webp",
+    "hasApertureRing": false
   },
   {
     "id": "tokina-sz-super-tele-500mm-f8-reflex-mf",
@@ -27694,7 +28449,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/tokina/tokina-sz-super-tele-500mm-f8-reflex-mf.webp"
+    "image_url": "/images/products/tokina/tokina-sz-super-tele-500mm-f8-reflex-mf.webp",
+    "hasApertureRing": false
   },
   {
     "id": "tokina-sz-300mmpro-reflex-f7-1-mf-cf",
@@ -27727,7 +28483,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-sz-300mmpro-reflex-f7-1-mf-cf.webp"
+    "image_url": "/images/products/tokina/tokina-sz-300mmpro-reflex-f7-1-mf-cf.webp",
+    "filterSizeMm": 46,
+    "hasApertureRing": false
   },
   {
     "id": "tokina-sz-600mmpro-reflex-f8-mf-cf",
@@ -27760,7 +28518,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-sz-600mmpro-reflex-f8-mf-cf.webp"
+    "image_url": "/images/products/tokina/tokina-sz-600mmpro-reflex-f8-mf-cf.webp",
+    "filterSizeMm": 77,
+    "hasApertureRing": false
   },
   {
     "id": "tokina-sz-900mmpro-reflex-f11-mf-cf",
@@ -27793,7 +28553,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-sz-900mmpro-reflex-f11-mf-cf.webp"
+    "image_url": "/images/products/tokina/tokina-sz-900mmpro-reflex-f11-mf-cf.webp",
+    "filterSizeMm": 86,
+    "hasApertureRing": false
   },
   {
     "id": "laowa-acris-35mm-f2-8-1x-af-macro-apo",
@@ -27842,7 +28604,10 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "dimensions": "Ø79 x 87.4 mm",
+    "specialElements": "1 ED, 1 HR",
+    "image_url": "/images/products/laowa/laowa-acris-35mm-f2-8-1x-af-macro-apo.webp"
   },
   {
     "id": "laowa-17mm-f4-zero-d-tilt-shift",
@@ -27893,7 +28658,14 @@
         }
       }
     ],
-    "sensorFormat": "Medium Format"
+    "sensorFormat": "Medium Format",
+    "dimensions": "Ø93 x 111 mm",
+    "minAperture": "22",
+    "maxMagnification": "0.131x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-tilt-shift.webp"
   },
   {
     "id": "laowa-8-15mm-f2-8-ff-zoom-fisheye",
@@ -27934,7 +28706,14 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "filterSizeMm": 0,
+    "motorType": "Manual focus",
+    "specialElements": "4 ED, 1 HR",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-8-15mm-f2-8-ff-zoom-fisheye.webp"
   },
   {
     "id": "laowa-12-24mm-f5-6-zoom-shift-cf",
@@ -27977,7 +28756,17 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "dimensions": "Ø80 x 98.91 mm",
+    "minAperture": "22",
+    "maxMagnification": "0.4x",
+    "motorType": "Manual focus",
+    "opticalDesign": "15 elements in 11 groups",
+    "specialElements": "2 Aspherical, 3 ED",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-zoom-shift-cf.webp"
   },
   {
     "id": "laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro",
@@ -28029,7 +28818,14 @@
         }
       }
     ],
-    "sensorFormat": "Medium Format"
+    "sensorFormat": "Medium Format",
+    "dimensions": "Ø105 x 149 mm",
+    "motorType": "Manual focus",
+    "specialElements": "4 ED",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro.webp"
   },
   {
     "id": "laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo",
@@ -28082,7 +28878,14 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "weightGrams": 646,
+    "dimensions": "Ø70.2 x 149.5 mm",
+    "minAperture": "11",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "laowa-6mm-f2-zero-d-mft",
@@ -28107,7 +28910,14 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "minAperture": "16",
+    "maxMagnification": "0.18x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-6mm-f2-zero-d-mft.webp"
   },
   {
     "id": "laowa-19mm-f2-8-zero-d-gfx",
@@ -28133,7 +28943,14 @@
         }
       }
     ],
-    "sensorFormat": "Medium Format"
+    "sensorFormat": "Medium Format",
+    "minAperture": "22",
+    "maxMagnification": "0.185x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-19mm-f2-8-zero-d-gfx.webp"
   },
   {
     "id": "laowa-argus-25mm-f0-95-mft-apo",
@@ -28160,7 +28977,12 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "maxMagnification": "0.17x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-argus-25mm-f0-95-mft-apo.webp"
   },
   {
     "id": "laowa-10mm-f4-cookie",
@@ -28207,7 +29029,13 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "maxMagnification": "0.15x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-10mm-f4-cookie.webp"
   },
   {
     "id": "laowa-argus-45mm-f0-95-ff",
@@ -28247,7 +29075,10 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-argus-45mm-f0-95-ff.webp"
   },
   {
     "id": "laowa-20mm-f4-zero-d-shift",
@@ -28299,7 +29130,13 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "maxMagnification": "0.17x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-20mm-f4-zero-d-shift.webp"
   },
   {
     "id": "laowa-90mm-f2-8-2x-ultra-macro-apo",
@@ -28341,7 +29178,13 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "minAperture": "22",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-90mm-f2-8-2x-ultra-macro-apo.webp"
   },
   {
     "id": "laowa-argus-33mm-f0-95-cf-apo",
@@ -28384,7 +29227,12 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "maxMagnification": "0.125x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-argus-33mm-f0-95-cf-apo.webp"
   },
   {
     "id": "laowa-10mm-f2-zero-d-mft",
@@ -28409,7 +29257,14 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "minAperture": "22",
+    "maxMagnification": "0.15x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-10mm-f2-zero-d-mft.webp"
   },
   {
     "id": "zeiss-nano-prime-18mm-t1-5",
@@ -28434,7 +29289,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "zeiss-nano-prime-24mm-t1-5",
@@ -28460,7 +29317,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/zeiss/zeiss-nano-prime-24mm-t1-5.webp"
+    "image_url": "/images/products/zeiss/zeiss-nano-prime-24mm-t1-5.webp",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "zeiss-nano-prime-35mm-t1-5",
@@ -28485,7 +29344,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "zeiss-nano-prime-50mm-t1-5",
@@ -28510,7 +29371,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "zeiss-nano-prime-75mm-t1-5",
@@ -28535,7 +29398,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "zeiss-nano-prime-100mm-t1-5",
@@ -28560,7 +29425,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "coatings": "ZEISS T*",
+    "hasApertureRing": true
   },
   {
     "id": "samyang-remaster-slim-21mm-f3-5-fe",
@@ -28588,7 +29455,10 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/samyang/samyang-remaster-slim-21mm-f3-5-fe.webp"
   },
   {
     "id": "samyang-remaster-slim-28mm-f3-5-fe",
@@ -28616,7 +29486,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-remaster-slim-32mm-f2-8-fe",
@@ -28644,7 +29516,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "samyang-xeen-meister-50mm-t1-3",
@@ -28673,7 +29547,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasApertureRing": true,
+    "image_url": "/images/products/samyang/samyang-xeen-meister-50mm-t1-3.webp"
   },
   {
     "id": "viltrox-af-35mm-f1-8-evo",
@@ -28707,7 +29583,10 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-8-evo.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-8-evo.webp",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "viltrox-af-75mm-f1-8-evo",
@@ -28746,7 +29625,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-8-evo.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-8-evo.webp",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "viltrox-af-90mm-f2-2-evo",
@@ -28785,7 +29667,10 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/viltrox/viltrox-af-90mm-f2-2-evo.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-90mm-f2-2-evo.webp",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "laowa-4mm-f2-8-fisheye-mft",
@@ -28820,7 +29705,14 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "minAperture": "16",
+    "filterSizeMm": 0,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-4mm-f2-8-fisheye-mft.webp"
   },
   {
     "id": "laowa-17mm-f1-8-mft",
@@ -28847,7 +29739,14 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "minAperture": "22",
+    "maxMagnification": "0.2x",
+    "motorType": "Manual focus",
+    "specialElements": "1 ED",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-17mm-f1-8-mft.webp"
   },
   {
     "id": "laowa-50mm-f2-8-2x-ultra-macro-apo",
@@ -28873,7 +29772,13 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "minAperture": "22",
+    "motorType": "Manual focus",
+    "specialElements": "3 ED",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-50mm-f2-8-2x-ultra-macro-apo.webp"
   },
   {
     "id": "laowa-65mm-f2-8-2x-ultra-macro-apo",
@@ -28881,7 +29786,7 @@
     "brand": "Laowa",
     "modelName": "Laowa 65mm F2.8 2X Ultra Macro APO",
     "gearType": "LENS",
-    "officialUrl": "https://www.venuslens.net/laowa-apsc-lenses/",
+    "officialUrl": "https://www.laowalens.com/camera-lens-33",
     "releaseYear": 2020,
     "focalLengthMinMm": 65,
     "focalLengthMaxMm": 65,
@@ -28911,7 +29816,12 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "minAperture": "22",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-65mm-f2-8-2x-ultra-macro-apo.webp"
   },
   {
     "id": "laowa-15mm-f4-5-zero-d-shift",
@@ -28956,7 +29866,15 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "minAperture": "22",
+    "maxMagnification": "0.2x",
+    "filterSizeMm": 0,
+    "motorType": "Manual focus",
+    "specialElements": "2 Aspherical, 3 ED",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-15mm-f4-5-zero-d-shift.webp"
   },
   {
     "id": "laowa-17mm-f4-gfx-zero-d",
@@ -28984,7 +29902,13 @@
         }
       }
     ],
-    "sensorFormat": "Medium Format"
+    "sensorFormat": "Medium Format",
+    "dimensions": "Ø88 x 124.5 mm",
+    "minAperture": "32",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-17mm-f4-gfx-zero-d.webp"
   },
   {
     "id": "laowa-argus-18mm-f0-95-mft-apo",
@@ -29010,7 +29934,13 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "maxMagnification": "0.15x",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-argus-18mm-f0-95-mft-apo.webp"
   },
   {
     "id": "tokina-sz-33mm-f1-2-mf",

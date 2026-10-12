@@ -13,6 +13,7 @@ MOTOR = {
     'stm (stepping motor)': 'STM', 'stepping motor (stm)': 'STM', 'linear motor (lm)': 'Linear Motor',
     'vxd (linear motor)': 'VXD', 'rxd (stepping motor)': 'RXD', 'hla (high-response linear actuator)': 'HLA',
     'none (manual focus)': 'Manual focus', 'manual focus only': 'Manual focus', 'none': 'Manual focus',
+    'stepper motor': 'Stepping Motor', 'stepping motor': 'Stepping Motor', 'linear motor': 'Linear Motor', 'dc motor': 'DC Motor',
 }
 
 
@@ -82,6 +83,8 @@ def norm(k, v, g):
         s = re.sub(r'\s*/\s*\d+-bit$', '', s)   # bit depth belongs in videoColorDepth
     elif k == 'motorType':
         s = MOTOR.get(s.lower(), s)
+    elif k == 'logSupport':
+        s = s.replace('C-Log 2/3', 'Canon Log 2, Canon Log 3').replace('C-Log 3', 'Canon Log 3')
     elif k == 'apertureMax' and re.fullmatch(r'\d+(\.\d+)?', s):
         return num(s)
     return s
