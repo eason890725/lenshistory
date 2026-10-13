@@ -33222,5 +33222,4827 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp"
+  },
+  {
+    "id": "om-system-pen",
+    "slug": "om-system-pen",
+    "brand": "OM System",
+    "modelName": "OM System PEN",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/pen/pen/spec.html",
+    "releaseYear": 2026,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "5fps (Mech) / 30fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 60p",
+    "logSupport": "OM-Log400",
+    "ibisRating": "5.5 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Human, Animal (Dog, Cat)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "BLS-7 (410 shots CIPA)",
+    "ports": "USB-C, micro HDMI, mic, flash sync",
+    "hasWeatherSeal": true,
+    "dimensions": "125.8 x 74.5 x 43.3 mm",
+    "weightGrams": 393,
+    "hasIBIS": true,
+    "image_url": "/images/products/om-system/om-system-pen.webp"
+  },
+  {
+    "id": "om-system-om-1-mark-ii",
+    "slug": "om-system-om-1-mark-ii",
+    "brand": "OM System",
+    "modelName": "OM System OM-1 Mark II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om1mk2/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Stacked BSI Live MOS",
+    "isoRange": "200-102400 (Ext: 80-102400)",
+    "burstSpeed": "10fps (Mech) / 120fps (Elec)",
+    "videoResolution": "C4K 60p / 4K 60p",
+    "logSupport": "OM-Log400, HLG",
+    "ibisRating": "8.5 stops",
+    "afPoints": "1053 phase-detect points",
+    "afTargets": "Human, Car, Motorcycle, Airplane, Helicopter, Train, Bird, Animal (Dog, Cat)",
+    "evfResolution": "5.76M-dot OLED",
+    "lcdSpec": "3.0-inch 1.62M-dot vari-angle touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "BLX-1 (500 shots CIPA)",
+    "ports": "USB-C (USB 3.0), micro HDMI, mic, headphone",
+    "hasWeatherSeal": true,
+    "dimensions": "134.8 x 91.6 x 72.7 mm",
+    "weightGrams": 599,
+    "hasIBIS": true,
+    "image_url": "/images/products/om-system/om-system-om-1-mark-ii.webp"
+  },
+  {
+    "id": "om-system-om-1",
+    "slug": "om-system-om-1",
+    "brand": "OM System",
+    "modelName": "OM System OM-1",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om1/spec.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Stacked BSI Live MOS",
+    "isoRange": "200-102400 (Ext: 80-102400)",
+    "burstSpeed": "10fps (Mech) / 120fps (Elec)",
+    "videoResolution": "C4K 60p / 4K 60p / Full HD 240p",
+    "logSupport": "OM-Log400, HLG",
+    "ibisRating": "7.0 stops",
+    "afPoints": "1053 phase-detect points",
+    "afTargets": "Car, Motorcycle, Airplane, Helicopter, Train, Bird, Animal (Dog, Cat)",
+    "evfResolution": "5.76M-dot OLED",
+    "lcdSpec": "3.0-inch 1.62M-dot vari-angle touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "BLX-1 (520 shots CIPA)",
+    "ports": "USB-C (USB 3.0), micro HDMI, mic, headphone",
+    "hasWeatherSeal": true,
+    "dimensions": "134.8 x 91.6 x 72.7 mm",
+    "weightGrams": 599,
+    "launchPrice": 65990,
+    "hasIBIS": true
+  },
+  {
+    "id": "om-system-om-3",
+    "slug": "om-system-om-3",
+    "brand": "OM System",
+    "modelName": "OM System OM-3",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om3/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Stacked BSI Live MOS",
+    "isoRange": "200-102400 (Ext: 80-102400)",
+    "burstSpeed": "6fps (Mech) / 120fps (Elec)",
+    "videoResolution": "C4K 60p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:0",
+    "logSupport": "OM-Log400, HLG",
+    "ibisRating": "6.5 stops",
+    "afPoints": "1053 phase-detect points",
+    "afTargets": "Human, Car, Motorcycle, Airplane, Helicopter, Train, Bird, Animal (Dog, Cat)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.62M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLX-1 (590 shots CIPA)",
+    "ports": "USB-C, micro HDMI, mic, headphone",
+    "hasWeatherSeal": true,
+    "dimensions": "139.3 x 88.9 x 45.8 mm",
+    "weightGrams": 496,
+    "hasIBIS": true,
+    "image_url": "/images/products/om-system/om-system-om-3.webp"
+  },
+  {
+    "id": "om-system-om-5",
+    "slug": "om-system-om-5",
+    "brand": "OM System",
+    "modelName": "OM System OM-5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om5/spec.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "10fps (Mech) / 30fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 120p",
+    "logSupport": "OM-Log400",
+    "ibisRating": "6.5 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Human (Face/Eye)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (310 shots CIPA)",
+    "ports": "micro USB (USB 2.0), micro HDMI, mic",
+    "hasWeatherSeal": true,
+    "dimensions": "125.3 x 85.2 x 49.7 mm",
+    "weightGrams": 414,
+    "hasIBIS": true
+  },
+  {
+    "id": "om-system-om-5-mark-ii",
+    "slug": "om-system-om-5-mark-ii",
+    "brand": "OM System",
+    "modelName": "OM System OM-5 Mark II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om5mk2/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "6fps (Mech) / 30fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 60p",
+    "logSupport": "OM-Log400",
+    "ibisRating": "6.5 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Human (Face/Eye)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (310 shots CIPA)",
+    "ports": "USB-C, micro HDMI, mic",
+    "hasWeatherSeal": true,
+    "dimensions": "125.3 x 85.2 x 52.0 mm",
+    "weightGrams": 418,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m1-mark-iii",
+    "slug": "olympus-om-d-e-m1-mark-iii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M1 Mark III",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/omd/em1mk3/spec.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "15fps (Mech) / 60fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 120p",
+    "logSupport": "OM-Log400",
+    "ibisRating": "7.0 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Human (Face/Eye)",
+    "evfResolution": "2.36M-dot LCD",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I)",
+    "batterySpec": "BLH-1 (420 shots CIPA)",
+    "ports": "USB-C, micro HDMI, mic, headphone, 2.5mm remote",
+    "hasWeatherSeal": true,
+    "dimensions": "134.1 x 90.9 x 68.9 mm",
+    "weightGrams": 580,
+    "launchPrice": 54990,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m1x",
+    "slug": "olympus-om-d-e-m1x",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M1X",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/omd/em1x/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "15fps (Mech) / 60fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 60p",
+    "logSupport": "OM-Log400",
+    "ibisRating": "7.0 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Car, Motorcycle, Airplane, Helicopter, Train, Bird",
+    "evfResolution": "2.36M-dot LCD",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "2x BLH-1 (870 shots CIPA)",
+    "ports": "USB-C (USB 3.0), micro HDMI, mic, headphone, 2.5mm remote",
+    "dimensions": "144.4 x 146.8 x 75.4 mm",
+    "weightGrams": 997,
+    "launchPrice": 89990,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m5-mark-iii",
+    "slug": "olympus-om-d-e-m5-mark-iii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M5 Mark III",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/omd/em5mk3/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "10fps (Mech) / 30fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 120p",
+    "ibisRating": "5.5 stops",
+    "afPoints": "121 phase-detect points",
+    "afTargets": "Human (Face/Eye)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (310 shots CIPA)",
+    "ports": "micro USB (USB 2.0), micro HDMI, mic, 2.5mm remote",
+    "dimensions": "125.3 x 85.2 x 49.7 mm",
+    "weightGrams": 414,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-iv",
+    "slug": "olympus-om-d-e-m10-mark-iv",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M10 Mark IV",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/omd/em10mk4/spec.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8.7fps (Mech) / 15fps (Elec)",
+    "videoResolution": "4K 30p / Full HD 60p",
+    "ibisRating": "4.5 stops",
+    "afPoints": "121 points",
+    "afTargets": "Human (Face/Eye)",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (360 shots CIPA)",
+    "ports": "micro USB (USB 2.0), micro HDMI",
+    "dimensions": "121.7 x 84.6 x 49 mm",
+    "weightGrams": 383,
+    "launchPrice": 22990,
+    "hasIBIS": true,
+    "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-iv.webp"
+  },
+  {
+    "id": "olympus-pen-e-p7",
+    "slug": "olympus-pen-e-p7",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-P7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/pen/ep7/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8.7fps (Mech) / 15fps (Elec)",
+    "videoResolution": "4K 30p / Full HD 60p",
+    "ibisRating": "4.5 stops",
+    "afPoints": "121 points",
+    "afTargets": "Human (Face/Eye)",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (360 shots CIPA)",
+    "ports": "micro USB (USB 2.0), micro HDMI",
+    "dimensions": "118.3 x 68.5 x 38.1 mm",
+    "weightGrams": 337,
+    "launchPrice": 24990,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-pen-e-pl10",
+    "slug": "olympus-pen-e-pl10",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL10",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://jp.omsystem.com/product/dslr/pen/epl10/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8.6fps (Mech) / 14.1fps (Elec)",
+    "videoResolution": "4K 30p / Full HD 60p",
+    "ibisRating": "3.5 stops",
+    "afPoints": "121 points",
+    "afTargets": "Human (Face/Eye)",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "BLS-50 (350 shots CIPA)",
+    "ports": "micro USB, micro HDMI",
+    "dimensions": "117.1 x 68 x 39 mm",
+    "weightGrams": 380,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m1-mark-ii",
+    "slug": "olympus-om-d-e-m1-mark-ii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M1 Mark II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/news/2016/nr161102em1mk2e.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.4MP",
+    "sensorType": "Live MOS",
+    "processor": "TruePic VIII",
+    "isoRange": "200-25600 (Ext: 64-25600)",
+    "burstSpeed": "60fps",
+    "videoResolution": "C4K 24p / 4K 30p / Full HD 60p",
+    "ibisRating": "5.5 stops",
+    "afPoints": "121 phase-detect points",
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I)",
+    "batterySpec": "BLH-1 (440 shots CIPA)",
+    "ports": "USB 3.0, HDMI, mic, headphone",
+    "hasWeatherSeal": true,
+    "weightGrams": 574,
+    "launchPrice": 65990,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-pen-f",
+    "slug": "olympus-pen-f",
+    "brand": "OM System",
+    "modelName": "Olympus PEN-F",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/news/2016/nr160127penfe.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "20.3MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 80-25600)",
+    "burstSpeed": "10fps",
+    "videoResolution": "Full HD 60p",
+    "hasIBIS": true,
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLN-1 (330 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 427,
+    "launchPrice": 40990
+  },
+  {
+    "id": "olympus-pen-e-pl8",
+    "slug": "olympus-pen-e-pl8",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL8",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/news/2016/nr161012epl8e.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-50 (350 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 357
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-iii",
+    "slug": "olympus-om-d-e-m10-mark-iii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M10 Mark III",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/news/2017/nr00576.html",
+    "releaseYear": 2017,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VIII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8.6fps",
+    "videoResolution": "4K 30p",
+    "hasIBIS": true,
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "BLS-50 (330 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 410,
+    "launchPrice": 23990
+  },
+  {
+    "id": "olympus-pen-e-pl9",
+    "slug": "olympus-pen-e-pl9",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL9",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/news/2018/nr00697.html",
+    "releaseYear": 2018,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VIII",
+    "isoRange": "200-6400 (Ext: 100-25600)",
+    "burstSpeed": "8.6fps",
+    "videoResolution": "4K 30p",
+    "ibisRating": "3.5 stops",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "BLS-50 (350 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 380,
+    "hasIBIS": true
+  },
+  {
+    "id": "olympus-om-d-e-m5-mark-ii",
+    "slug": "olympus-om-d-e-m5-mark-ii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M5 Mark II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2015a/nr150205em5mk2e.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "10fps",
+    "videoResolution": "Full HD 60p",
+    "hasIBIS": true,
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLN-1 (310 shots CIPA)",
+    "ports": "USB 2.0, HDMI, mic",
+    "hasWeatherSeal": true,
+    "weightGrams": 469
+  },
+  {
+    "id": "olympus-om-d-e-m10-mark-ii",
+    "slug": "olympus-om-d-e-m10-mark-ii",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M10 Mark II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2015b/nr150825em10mk2e.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 60p",
+    "hasIBIS": true,
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-50 (320 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 390,
+    "launchPrice": 18990
+  },
+  {
+    "id": "olympus-air-a01",
+    "slug": "olympus-air-a01",
+    "brand": "OM System",
+    "modelName": "Olympus AIR A01",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2015a/nr150205opce.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-12800 (Ext: 100-12800)",
+    "burstSpeed": "10fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": false,
+    "cardSlots": "1x microSD",
+    "batterySpec": "Built-in (320 shots CIPA)",
+    "ports": "USB 2.0",
+    "hasWeatherSeal": false,
+    "weightGrams": 147
+  },
+  {
+    "id": "olympus-pen-e-pl7",
+    "slug": "olympus-pen-e-pl7",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2014b/nr140828epl7e.html",
+    "releaseYear": 2014,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-50 (350 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 357
+  },
+  {
+    "id": "olympus-om-d-e-m10",
+    "slug": "olympus-om-d-e-m10",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M10",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2014a/nr140129em10e.html",
+    "releaseYear": 2014,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "evfResolution": "1.44M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-5 (320 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 396,
+    "launchPrice": 21990
+  },
+  {
+    "id": "olympus-om-d-e-m1",
+    "slug": "olympus-om-d-e-m1",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M1",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2013b/nr130910em1e.html",
+    "releaseYear": 2013,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.3MP",
+    "processor": "TruePic VII",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "10fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "afPoints": "37 phase-detect points",
+    "evfResolution": "2.36M-dot",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLN-1 (350 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": true,
+    "weightGrams": 497
+  },
+  {
+    "id": "olympus-pen-e-p5",
+    "slug": "olympus-pen-e-p5",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-P5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2013a/nr130510ep5e.html",
+    "releaseYear": 2013,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "9fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "ports": "USB 2.0, HDMI",
+    "weightGrams": 420
+  },
+  {
+    "id": "olympus-pen-e-pl6",
+    "slug": "olympus-pen-e-pl6",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL6",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2013a/nr130510epl6e.html",
+    "releaseYear": 2013,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VI",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 0.46M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-5 (360 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 325
+  },
+  {
+    "id": "olympus-om-d-e-m5",
+    "slug": "olympus-om-d-e-m5",
+    "brand": "OM System",
+    "modelName": "Olympus OM-D E-M5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2012a/nr120208em5e.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "sensorType": "Live MOS",
+    "processor": "TruePic VI",
+    "isoRange": "200-25600",
+    "burstSpeed": "9fps",
+    "videoResolution": "Full HD",
+    "hasIBIS": true,
+    "afPoints": "35 points",
+    "evfResolution": "1.44M-dot",
+    "lcdSpec": "3.0-inch 0.61M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLN-1",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": true,
+    "weightGrams": 425,
+    "launchPrice": 35500
+  },
+  {
+    "id": "olympus-pen-e-pl5",
+    "slug": "olympus-pen-e-pl5",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PL5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2012b/nr120917epl5e.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "processor": "TruePic VI",
+    "isoRange": "200-25600",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 0.46M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-5 (360 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 325
+  },
+  {
+    "id": "olympus-pen-e-pm2",
+    "slug": "olympus-pen-e-pm2",
+    "brand": "OM System",
+    "modelName": "Olympus PEN E-PM2",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.olympus-global.com/en/news/2012b/nr120917epm2e.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "megapixels": "16.1MP",
+    "isoRange": "200-25600",
+    "burstSpeed": "8fps",
+    "videoResolution": "Full HD 30p",
+    "hasIBIS": true,
+    "lcdSpec": "3.0-inch 0.46M-dot fixed touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "BLS-5 (360 shots CIPA)",
+    "ports": "USB 2.0, HDMI",
+    "hasWeatherSeal": false,
+    "weightGrams": 269
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-75mm-f1-8",
+    "slug": "olympus-m-zuiko-digital-ed-75mm-f1-8",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 75mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/premi/75_18/index.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "10 elements in 9 groups",
+    "specialElements": "3 ED, 2 HR",
+    "closeFocus": "0.84m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø64 x 69 mm",
+    "weightGrams": 305,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-75mm-f1-8.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-60mm-f2-8-macro",
+    "slug": "olympus-m-zuiko-digital-ed-60mm-f2-8-macro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 60mm F2.8 Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/macro/60_28macro/index.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 60,
+    "focalLengthMaxMm": 60,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "13 elements in 10 groups",
+    "specialElements": "1 ED, 2 HR, 1 E-HR",
+    "closeFocus": "0.19m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø56 x 82 mm",
+    "weightGrams": 185,
+    "hasWeatherSeal": true,
+    "motorType": "MSC"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-17mm-f1-8",
+    "slug": "olympus-m-zuiko-digital-17mm-f1-8",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital 17mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/premi/17_18/index.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 17,
+    "focalLengthMaxMm": 17,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "9 elements in 6 groups",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.08x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø57.5 x 35.5 mm",
+    "weightGrams": 120,
+    "motorType": "MSC"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-75-300mm-f4-8-6-7-ii",
+    "slug": "olympus-m-zuiko-digital-ed-75-300mm-f4-8-6-7-ii",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 75-300mm F4.8-6.7 II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/75-300_48-67_2/index.html",
+    "releaseYear": 2013,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 300,
+    "apertureMax": "4.8-6.7",
+    "minAperture": "22",
+    "opticalDesign": "18 elements in 13 groups",
+    "specialElements": "1 Super ED, 2 ED, 3 HR",
+    "closeFocus": "0.9m (W) / 1.5m (T)",
+    "maxMagnification": "0.18x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø69 x 116.5 mm",
+    "weightGrams": 423,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-75-300mm-f4-8-6-7-ii.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro",
+    "slug": "olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 12-40mm F2.8 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/12-40_28pro/index.html",
+    "releaseYear": 2013,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 40,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "14 elements in 9 groups",
+    "specialElements": "1 Aspherical ED, 2 Aspherical, 1 DSA, 2 ED, 1 HD, 2 HR",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.3x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø69.9 x 84 mm",
+    "weightGrams": 382,
+    "hasWeatherSeal": true
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-14-42mm-f3-5-5-6-ez",
+    "slug": "olympus-m-zuiko-digital-ed-14-42mm-f3-5-5-6-ez",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 EZ",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/14-42_35-56_ez/index.html",
+    "releaseYear": 2014,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 42,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "opticalDesign": "8 elements in 7 groups",
+    "specialElements": "3 Aspherical, 1 ED, 1 Super HR",
+    "closeFocus": "0.2m (W) / 0.25m (T)",
+    "maxMagnification": "0.23x",
+    "filterSizeMm": 37,
+    "dimensions": "Ø60.6 x 22.5 mm",
+    "weightGrams": 93,
+    "launchPrice": 8990
+  },
+  {
+    "id": "olympus-m-zuiko-digital-25mm-f1-8",
+    "slug": "olympus-m-zuiko-digital-25mm-f1-8",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital 25mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/premi/25_18/index.html",
+    "releaseYear": 2014,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "9 elements in 7 groups",
+    "specialElements": "2 Aspherical",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.12x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø57.8 x 42 mm",
+    "weightGrams": 137,
+    "launchPrice": 10990
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro",
+    "slug": "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 40-150mm F2.8 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/40-150_28pro/index.html",
+    "releaseYear": 2014,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 150,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "16 elements in 10 groups",
+    "specialElements": "1 Aspherical ED, 2 Aspherical, 1 Super ED, 3 ED, 1 HD",
+    "closeFocus": "0.7m",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø79.4 x 160 mm",
+    "weightGrams": 760,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro",
+    "slug": "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 7-14mm F2.8 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/7-14_28pro/index.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 7,
+    "focalLengthMaxMm": 14,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "14 elements in 11 groups",
+    "specialElements": "2 Aspherical ED, 1 DSA, 1 Aspherical, 3 Super ED, 1 ED, 2 HR",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.12x",
+    "dimensions": "Ø78.9 x 105.8 mm",
+    "weightGrams": 534,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-8mm-f1-8-fisheye-pro",
+    "slug": "olympus-m-zuiko-digital-ed-8mm-f1-8-fisheye-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 8mm F1.8 Fisheye PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/8_18pro/index.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 8,
+    "focalLengthMaxMm": 8,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "17 elements in 15 groups",
+    "specialElements": "1 Aspherical, 3 Super ED, 2 ED, 1 Super HR, 2 HR",
+    "closeFocus": "0.12m",
+    "maxMagnification": "0.2x",
+    "dimensions": "Ø62 x 80 mm",
+    "weightGrams": 315,
+    "hasWeatherSeal": true,
+    "motorType": "MSC"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-14-150mm-f4-0-5-6-ii",
+    "slug": "olympus-m-zuiko-digital-ed-14-150mm-f4-0-5-6-ii",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 14-150mm F4.0-5.6 II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/14-150_40-56_2/index.html",
+    "releaseYear": 2015,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 150,
+    "apertureMax": "4.0-5.6",
+    "minAperture": "22",
+    "opticalDesign": "15 elements in 11 groups",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.22x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø63.5 x 83 mm",
+    "weightGrams": 285,
+    "hasWeatherSeal": true
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro",
+    "slug": "olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 300mm F4.0 IS PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/300_4ispro/index.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 300,
+    "focalLengthMaxMm": 300,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "17 elements in 10 groups",
+    "specialElements": "3 Super ED, 3 HR, 1 E-HR",
+    "closeFocus": "1.4m",
+    "maxMagnification": "0.24x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø92.5 x 227 mm",
+    "weightGrams": 1270,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "launchPrice": 87990,
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro",
+    "slug": "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 12-100mm F4.0 IS PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/12-100_4ispro/index.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "17 elements in 11 groups",
+    "specialElements": "1 DSA, 3 Aspherical, 5 ED, 2 Super HR, 1 HR",
+    "closeFocus": "0.15m (W) / 0.45m (T)",
+    "maxMagnification": "0.3x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø77.5 x 116.5 mm",
+    "weightGrams": 561,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "launchPrice": 42990,
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-25mm-f1-2-pro",
+    "slug": "olympus-m-zuiko-digital-ed-25mm-f1-2-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 25mm F1.2 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/25_12pro/index.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "19 elements in 14 groups",
+    "specialElements": "1 Super ED, 2 ED, 1 E-HR, 3 HR, 1 Aspherical",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø70 x 87 mm",
+    "weightGrams": 410,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-25mm-f1-2-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-30mm-f3-5-macro",
+    "slug": "olympus-m-zuiko-digital-ed-30mm-f3-5-macro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 30mm F3.5 Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/macro/30_35macro/index.html",
+    "releaseYear": 2016,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 30,
+    "focalLengthMaxMm": 30,
+    "apertureMax": 3.5,
+    "minAperture": "22",
+    "opticalDesign": "7 elements in 6 groups",
+    "specialElements": "1 DSA, 1 Aspherical ED, 1 Aspherical",
+    "closeFocus": "0.095m",
+    "maxMagnification": "1.25x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø57 x 60 mm",
+    "weightGrams": 128,
+    "motorType": "MSC",
+    "launchPrice": 10990
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-17mm-f1-2-pro",
+    "slug": "olympus-m-zuiko-digital-ed-17mm-f1-2-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 17mm F1.2 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/17_12pro/index.html",
+    "releaseYear": 2017,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 17,
+    "focalLengthMaxMm": 17,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "15 elements in 11 groups",
+    "specialElements": "1 Super ED, 3 ED, 1 ED-DSA, 1 Aspherical ED, 1 Super HR, 1 Aspherical",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø68.2 x 87 mm",
+    "weightGrams": 390,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-17mm-f1-2-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-45mm-f1-2-pro",
+    "slug": "olympus-m-zuiko-digital-ed-45mm-f1-2-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 45mm F1.2 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/45_12pro/index.html",
+    "releaseYear": 2017,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 45,
+    "focalLengthMaxMm": 45,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "14 elements in 10 groups",
+    "specialElements": "1 ED, 4 HR, 1 Aspherical",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø70 x 84.9 mm",
+    "weightGrams": 410,
+    "hasWeatherSeal": true,
+    "motorType": "MSC"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-12-200mm-f3-5-6-3",
+    "slug": "olympus-m-zuiko-digital-ed-12-200mm-f3-5-6-3",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/12-200_35-63/index.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "3.5-6.3",
+    "minAperture": "22",
+    "opticalDesign": "16 elements in 11 groups",
+    "specialElements": "3 Aspherical, 2 ED, 2 Super ED, 2 HR, 1 Super HR",
+    "closeFocus": "0.22m (W) / 0.7m (T)",
+    "maxMagnification": "0.23x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø77.5 x 99.7 mm",
+    "weightGrams": 455,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-200mm-f3-5-6-3.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-12-45mm-f4-0-pro",
+    "slug": "olympus-m-zuiko-digital-ed-12-45mm-f4-0-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 12-45mm F4.0 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/12-45_4pro/index.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 45,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "2 HR, 1 DSA, 1 Super HR, 2 Aspherical, 2 ED",
+    "closeFocus": "0.12m (W) / 0.23m (T)",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø63.4 x 70 mm",
+    "weightGrams": 254,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-45mm-f4-0-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
+    "slug": "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 150-400mm F4.5 TC1.25x IS PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/150-400_45ispro/index.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 150,
+    "focalLengthMaxMm": 400,
+    "apertureMax": 4.5,
+    "minAperture": "22",
+    "opticalDesign": "28 elements in 18 groups",
+    "closeFocus": "1.3m",
+    "maxMagnification": "0.29x",
+    "filterSizeMm": 95,
+    "dimensions": "Ø115.8 x 314.3 mm",
+    "weightGrams": 1875,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro.webp"
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
+    "slug": "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 100-400mm F5.0-6.3 IS",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/100-400_50-63is/index.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 400,
+    "apertureMax": "5.0-6.3",
+    "minAperture": "22",
+    "opticalDesign": "21 elements in 15 groups",
+    "specialElements": "4 ED, 2 Super HR, 2 HR",
+    "closeFocus": "1.3m",
+    "maxMagnification": "0.29x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø86.4 x 205.7 mm",
+    "weightGrams": 1120,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "launchPrice": 41990
+  },
+  {
+    "id": "olympus-m-zuiko-digital-ed-8-25mm-f4-0-pro",
+    "slug": "olympus-m-zuiko-digital-ed-8-25mm-f4-0-pro",
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 8-25mm F4.0 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/8-25_4pro/index.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 8,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "16 elements in 10 groups",
+    "specialElements": "1 DSA, 2 Aspherical ED, 1 Super ED, 1 ED, 1 Super HR, 2 HR, 1 HD",
+    "closeFocus": "0.23m",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø77 x 88.5 mm",
+    "weightGrams": 411,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "launchPrice": 33990
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-20mm-f1-4-pro",
+    "slug": "om-system-m-zuiko-digital-ed-20mm-f1-4-pro",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 20mm F1.4 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/pro/20_14pro/index.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 20,
+    "focalLengthMaxMm": 20,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 10 groups",
+    "specialElements": "1 Super ED, 3 ED, 2 Super HR, 2 Aspherical",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø63.4 x 61.7 mm",
+    "weightGrams": 247,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "launchPrice": 23990
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-12-40mm-f2-8-pro-ii",
+    "slug": "om-system-m-zuiko-digital-ed-12-40mm-f2-8-pro-ii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 12-40mm F2.8 PRO II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/12-40_28pro_2/index.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 40,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "14 elements in 9 groups",
+    "specialElements": "1 Aspherical ED, 2 Aspherical, 1 DSA, 2 ED, 1 HD, 2 HR",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.3x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø69.9 x 84 mm",
+    "weightGrams": 382,
+    "hasWeatherSeal": true,
+    "motorType": "MSC",
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-12-40mm-f2-8-pro-ii.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-40-150mm-f4-0-pro",
+    "slug": "om-system-m-zuiko-digital-ed-40-150mm-f4-0-pro",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 40-150mm F4.0 PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/40-150_4pro/index.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 150,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "15 elements in 9 groups",
+    "specialElements": "2 ED, 1 Super ED, 1 HR, 2 Aspherical",
+    "closeFocus": "0.7m",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø68.9 x 99.4 mm",
+    "weightGrams": 382,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-40-150mm-f4-0-pro.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro",
+    "slug": "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 90mm F3.5 Macro IS PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/macro/90_35macroispro/index.html",
+    "releaseYear": 2023,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 3.5,
+    "minAperture": "22",
+    "opticalDesign": "18 elements in 13 groups",
+    "specialElements": "2 Super ED, 4 ED, 1 Super HR, 1 HR",
+    "closeFocus": "0.224m",
+    "maxMagnification": "2.0x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø69.8 x 136 mm",
+    "weightGrams": 453,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
+    "slug": "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 150-600mm F5.0-6.3 IS",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/150-600_50-63is/index.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 150,
+    "focalLengthMaxMm": 600,
+    "apertureMax": "5.0-6.3",
+    "minAperture": "22",
+    "opticalDesign": "25 elements in 15 groups",
+    "specialElements": "4 Super ED, 2 ED, 6 HR, 1 HD",
+    "closeFocus": "0.56m (W) / 2.8m (T)",
+    "maxMagnification": "0.35x",
+    "filterSizeMm": 95,
+    "dimensions": "Ø109.4 x 264.4 mm",
+    "weightGrams": 2065,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-9-18mm-f4-0-5-6-ii",
+    "slug": "om-system-m-zuiko-digital-ed-9-18mm-f4-0-5-6-ii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 9-18mm F4.0-5.6 II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/9-18_40-56_2/index.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 9,
+    "focalLengthMaxMm": 18,
+    "apertureMax": "4.0-5.6",
+    "minAperture": "22",
+    "opticalDesign": "12 elements in 8 groups",
+    "specialElements": "2 DSA, 1 Aspherical, 1 ED, 1 HR",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 52,
+    "dimensions": "Ø56.2 x 49.3 mm",
+    "weightGrams": 154,
+    "hasWeatherSeal": false
+  },
+  {
+    "id": "om-system-m-zuiko-digital-17mm-f1-8-ii",
+    "slug": "om-system-m-zuiko-digital-17mm-f1-8-ii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital 17mm F1.8 II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/premi/17_18_2/index.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 17,
+    "focalLengthMaxMm": 17,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "9 elements in 6 groups",
+    "specialElements": "1 DSA, 1 HR, 2 Aspherical",
+    "coatings": "ZERO Coating",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.08x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø57.6 x 37.6 mm",
+    "weightGrams": 112,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-17mm-f1-8-ii.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-25mm-f1-8-ii",
+    "slug": "om-system-m-zuiko-digital-25mm-f1-8-ii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital 25mm F1.8 II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/single/premi/25_18_2/index.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "9 elements in 7 groups",
+    "specialElements": "2 Aspherical",
+    "coatings": "ZERO Coating",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.12x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø59.4 x 42 mm",
+    "weightGrams": 156,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-25mm-f1-8-ii.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii",
+    "slug": "om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 100-400mm F5.0-6.3 IS II",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/100-400_50-63is_2/index.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 400,
+    "apertureMax": "5.0-6.3",
+    "minAperture": "22",
+    "opticalDesign": "21 elements in 15 groups",
+    "specialElements": "4 ED, 2 Super HR, 2 HR",
+    "coatings": "ZERO Coating",
+    "closeFocus": "1.3m",
+    "maxMagnification": "0.29x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø86.4 x 205.6 mm",
+    "weightGrams": 1125,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro",
+    "slug": "om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital ED 50-200mm F2.8 IS PRO",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/pro/50-200_28ispro/index.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 200,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "21 elements in 13 groups",
+    "specialElements": "1 Aspherical ED, 2 Super ED, 1 ED, 2 HR, 3 E-HR",
+    "coatings": "ZERO Coating, ZERO Coating 2",
+    "closeFocus": "0.78m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø91.4 x 225.8 mm",
+    "weightGrams": 1075,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro.webp"
+  },
+  {
+    "id": "om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii",
+    "slug": "om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii",
+    "brand": "OM System",
+    "modelName": "OM System M.Zuiko Digital 14-42mm F3.5-5.6 III",
+    "gearType": "LENS",
+    "officialUrl": "https://jp.omsystem.com/product/lens/zoom/mzuiko/14-42_35-56_3/index.html",
+    "releaseYear": 2026,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 42,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "opticalDesign": "8 elements in 7 groups",
+    "specialElements": "3 Aspherical",
+    "closeFocus": "0.13m (W) / 0.30m (T)",
+    "maxMagnification": "0.26x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø60 x 50.5 mm",
+    "weightGrams": 125,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii.webp"
+  },
+  {
+    "id": "panasonic-lumix-gf5",
+    "slug": "panasonic-lumix-gf5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GF5_spec.html",
+    "releaseYear": 2012,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "12.1MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-6400 (Ext: 160-12800)",
+    "burstSpeed": "4fps",
+    "videoResolution": "Full HD 60i",
+    "afPoints": "23 points",
+    "lcdSpec": "3.0-inch 0.92M-dot touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "330 shots CIPA",
+    "dimensions": "107.7 x 66.6 x 36.8 mm"
+  },
+  {
+    "id": "panasonic-lumix-g5",
+    "slug": "panasonic-lumix-g5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-G5_spec.html",
+    "releaseYear": 2012,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16.05MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-12800",
+    "burstSpeed": "20fps (SH)",
+    "videoResolution": "Full HD 60p",
+    "afPoints": "23 points",
+    "evfResolution": "1.44M-dot LCD",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 0.92M-dot touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "320 shots CIPA",
+    "dimensions": "119.9 x 83.2 x 70.8 mm",
+    "weightGrams": 396
+  },
+  {
+    "id": "panasonic-lumix-gh3",
+    "slug": "panasonic-lumix-gh3",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH3",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GH3_spec.html",
+    "releaseYear": 2012,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16.05MP",
+    "sensorType": "Live MOS",
+    "processor": "Venus Engine VII FHD",
+    "isoRange": "200-12800 (Ext: 125-25600)",
+    "burstSpeed": "6fps (Mech) / 20fps (Elec)",
+    "videoResolution": "Full HD 60p",
+    "afPoints": "23 points",
+    "evfResolution": "1.74M-dot OLED",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 0.61M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "540 shots CIPA",
+    "dimensions": "132.9 x 93.4 x 82.0 mm",
+    "weightGrams": 550,
+    "hasWeatherSeal": true
+  },
+  {
+    "id": "panasonic-lumix-gf6",
+    "slug": "panasonic-lumix-gf6",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF6",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GF6_spec.html",
+    "releaseYear": 2013,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-12800 (Ext: 160-25600)",
+    "burstSpeed": "20fps (SH)",
+    "videoResolution": "Full HD 60i",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "330 shots CIPA",
+    "dimensions": "111.2 x 64.8 x 38.4 mm"
+  },
+  {
+    "id": "panasonic-lumix-g6",
+    "slug": "panasonic-lumix-g6",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G6",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-G6_spec.html",
+    "releaseYear": 2013,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16.05MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-12800 (Ext: 160-25600)",
+    "burstSpeed": "40fps (SH)",
+    "videoResolution": "Full HD 60p",
+    "afPoints": "23 points",
+    "evfResolution": "1.44M-dot OLED",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "340 shots CIPA",
+    "dimensions": "122.45 x 84.6 x 71.4 mm",
+    "weightGrams": 390
+  },
+  {
+    "id": "panasonic-lumix-gx7",
+    "slug": "panasonic-lumix-gx7",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GX7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GX7_spec.html",
+    "releaseYear": 2013,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "burstSpeed": "5fps (Mech) / 40fps (Elec)",
+    "videoResolution": "Full HD 60p",
+    "hasIBIS": true,
+    "afPoints": "23 points",
+    "evfResolution": "2.76M-dot LCD",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "320 shots CIPA",
+    "dimensions": "122.6 x 70.7 x 54.6 mm",
+    "weightGrams": 402
+  },
+  {
+    "id": "panasonic-lumix-gm1",
+    "slug": "panasonic-lumix-gm1",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GM1",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GM1K_spec.html",
+    "releaseYear": 2013,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 125-25600)",
+    "burstSpeed": "5fps (Mech) / 40fps (Elec)",
+    "videoResolution": "Full HD 60i",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "230 shots CIPA",
+    "dimensions": "98.5 x 54.9 x 30.4 mm"
+  },
+  {
+    "id": "panasonic-lumix-gh4",
+    "slug": "panasonic-lumix-gh4",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH4",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GH4_spec.html",
+    "releaseYear": 2014,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16.05MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "40fps (Elec)",
+    "videoResolution": "4K 30p",
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.67x",
+    "lcdSpec": "3.0-inch 1.04M-dot OLED touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "530 shots CIPA",
+    "ports": "USB 2.0, micro HDMI",
+    "dimensions": "132.9 x 93.4 x 83.9 mm",
+    "weightGrams": 560
+  },
+  {
+    "id": "panasonic-lumix-gm5",
+    "slug": "panasonic-lumix-gm5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GM5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GM5_spec.html",
+    "releaseYear": 2014,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "Full HD 60p",
+    "evfResolution": "1.16M-dot LCD",
+    "lcdSpec": "3.0-inch 0.92M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "250 shots CIPA",
+    "dimensions": "98.5 x 59.5 x 36.1 mm",
+    "weightGrams": 211
+  },
+  {
+    "id": "panasonic-lumix-gf7",
+    "slug": "panasonic-lumix-gf7",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GF7W_spec.html",
+    "releaseYear": 2015,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "Full HD 60p",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "230 shots CIPA",
+    "ports": "USB 2.0, micro HDMI",
+    "dimensions": "106.5 x 64.6 x 33.3 mm"
+  },
+  {
+    "id": "panasonic-lumix-g7",
+    "slug": "panasonic-lumix-g7",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-G7_spec.html",
+    "releaseYear": 2015,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "4K 30p",
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "350 shots CIPA",
+    "ports": "USB 2.0, mic",
+    "dimensions": "124.9 x 86.2 x 77.4 mm",
+    "weightGrams": 410,
+    "launchPrice": 22900
+  },
+  {
+    "id": "panasonic-lumix-gx8",
+    "slug": "panasonic-lumix-gx8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GX8",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GX8_spec.html",
+    "releaseYear": 2015,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "4K 30p",
+    "hasIBIS": true,
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.77x",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "330 shots CIPA",
+    "dimensions": "133.2 x 77.9 x 63.1 mm",
+    "weightGrams": 487
+  },
+  {
+    "id": "panasonic-lumix-gx85",
+    "slug": "panasonic-lumix-gx85",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GX85",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GX7MK2_spec.html",
+    "releaseYear": 2016,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "4K 30p",
+    "hasIBIS": true,
+    "afPoints": "49 points",
+    "evfResolution": "2.76M-dot LCD",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "290 shots CIPA",
+    "dimensions": "122 x 70.6 x 43.9 mm",
+    "weightGrams": 426
+  },
+  {
+    "id": "panasonic-lumix-g85",
+    "slug": "panasonic-lumix-g85",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G85",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-G8_spec.html",
+    "releaseYear": 2016,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "9fps (Mech) / 40fps (Elec)",
+    "videoResolution": "4K 30p",
+    "hasIBIS": true,
+    "ibisRating": "5 stops",
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.74x",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "330 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI",
+    "dimensions": "128.4 x 89 x 74.3 mm",
+    "weightGrams": 505
+  },
+  {
+    "id": "panasonic-lumix-gm1s",
+    "slug": "panasonic-lumix-gm1s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GM1S",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMC-GM1SK_spec.html",
+    "releaseYear": 2014,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps (Mech) / 40fps (Elec)",
+    "videoResolution": "Full HD 60i",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "230 shots CIPA",
+    "dimensions": "98.5 x 54.9 x 30.4 mm",
+    "weightGrams": 204
+  },
+  {
+    "id": "panasonic-lumix-gf8",
+    "slug": "panasonic-lumix-gf8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF8",
+    "gearType": "CAMERA_BODY",
+    "releaseYear": 2016,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps",
+    "videoResolution": "Full HD 60p",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "230 shots CIPA",
+    "ports": "USB 2.0, HDMI",
+    "weightGrams": 266
+  },
+  {
+    "id": "panasonic-lumix-gf9",
+    "slug": "panasonic-lumix-gf9",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF9",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DC-GF9W_spec.html",
+    "releaseYear": 2017,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps (Mech) / 10fps (Elec)",
+    "videoResolution": "4K 30p",
+    "afPoints": "49 points",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x microSD (UHS-I)",
+    "batterySpec": "210 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI",
+    "dimensions": "106.5 x 64.6 x 33.3 mm",
+    "weightGrams": 269
+  },
+  {
+    "id": "panasonic-lumix-gh5",
+    "slug": "panasonic-lumix-gh5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GH5/spec.html",
+    "releaseYear": 2017,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "12fps",
+    "videoResolution": "4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log L, HLG",
+    "afPoints": "225 points",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.76x",
+    "lcdSpec": "3.2-inch 1.62M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "410 shots CIPA",
+    "ports": "USB 3.1 Gen 1, full-size HDMI",
+    "dimensions": "138.5 x 98.1 x 87.4 mm",
+    "weightGrams": 725,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh5.webp"
+  },
+  {
+    "id": "panasonic-lumix-g9",
+    "slug": "panasonic-lumix-g9",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G9",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-G9/spec.html",
+    "releaseYear": 2017,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "12fps (Mech) / 60fps (Elec)",
+    "videoResolution": "4K 60p",
+    "hasIBIS": true,
+    "ibisRating": "6.5 stops",
+    "afPoints": "225 points",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.83x",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "400 shots CIPA",
+    "ports": "USB 3.0 (Micro-B), full-size HDMI, mic",
+    "dimensions": "136.9 x 97.3 x 91.6 mm",
+    "weightGrams": 658,
+    "launchPrice": 54900
+  },
+  {
+    "id": "panasonic-lumix-gh5s",
+    "slug": "panasonic-lumix-gh5s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH5S",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GH5S/spec.html",
+    "releaseYear": 2018,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "10.28MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-51200 (Ext: 80-204800)",
+    "burstSpeed": "12fps",
+    "videoResolution": "C4K 60p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log L, HLG",
+    "afPoints": "225 points",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.76x",
+    "lcdSpec": "3.2-inch 1.62M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "440 shots CIPA",
+    "ports": "USB 3.1 Gen 1, full-size HDMI, mic",
+    "dimensions": "138.5 x 98.1 x 87.4 mm",
+    "weightGrams": 660,
+    "launchPrice": 79900,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh5s.webp"
+  },
+  {
+    "id": "panasonic-lumix-gf10",
+    "slug": "panasonic-lumix-gf10",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GF10",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DC-GF10W_spec.html",
+    "releaseYear": 2018,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "5.8fps (Mech) / 10fps (Elec)",
+    "videoResolution": "4K 30p",
+    "afPoints": "49 points",
+    "lcdSpec": "3.0-inch 1.04M-dot touch",
+    "cardSlots": "1x microSD (UHS-I)",
+    "batterySpec": "210 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI",
+    "dimensions": "106.5 x 64.6 x 33.3 mm",
+    "weightGrams": 270
+  },
+  {
+    "id": "panasonic-lumix-gx9",
+    "slug": "panasonic-lumix-gx9",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GX9",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GX7MK3/spec.html",
+    "releaseYear": 2018,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "9fps",
+    "videoResolution": "4K 30p",
+    "afPoints": "49 points",
+    "evfResolution": "2.76M-dot LCD",
+    "evfMagnification": "0.7x",
+    "lcdSpec": "3.0-inch 1.24M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "260 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI",
+    "dimensions": "124 x 72.1 x 46.8 mm",
+    "weightGrams": 450,
+    "launchPrice": 27900
+  },
+  {
+    "id": "panasonic-lumix-g95",
+    "slug": "panasonic-lumix-g95",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G95",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DC-G99_spec.html",
+    "releaseYear": 2019,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "9fps",
+    "videoResolution": "4K 30p",
+    "logSupport": "V-Log L",
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.74x",
+    "lcdSpec": "3.0-inch 1.24M-dot touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "290 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI",
+    "dimensions": "130.4 x 93.5 x 77.4 mm",
+    "weightGrams": 536
+  },
+  {
+    "id": "panasonic-lumix-g100",
+    "slug": "panasonic-lumix-g100",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G100",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-G100V/spec.html",
+    "releaseYear": 2020,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "6fps (Mech) / 10fps (Elec)",
+    "videoResolution": "4K 30p",
+    "logSupport": "V-Log L",
+    "afPoints": "49 points",
+    "evfResolution": "3.68M-dot LCOS",
+    "evfMagnification": "0.73x",
+    "lcdSpec": "3.0-inch 1.84M-dot touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "270 shots CIPA",
+    "ports": "USB 2.0 (Micro-B), micro HDMI, mic",
+    "dimensions": "115.6 x 82.5 x 54.2 mm",
+    "weightGrams": 345,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g100.webp"
+  },
+  {
+    "id": "panasonic-lumix-bgh1",
+    "slug": "panasonic-lumix-bgh1",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX BGH1",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-BGH1/spec.html",
+    "releaseYear": 2020,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "10.28MP",
+    "sensorType": "Live MOS",
+    "isoRange": "160-51200 (Ext: 80-204800)",
+    "videoResolution": "C4K 60p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log L, HLG",
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "cardSlots": "2x SD",
+    "ports": "USB-C (USB 3.1 Gen 1), full-size HDMI, 3G-SDI, LAN (PoE+), Genlock in, TC in/out, mic, headphone",
+    "dimensions": "93.0 x 93.0 x 78.0 mm",
+    "weightGrams": 545,
+    "image_url": "/images/products/panasonic/panasonic-lumix-bgh1.webp"
+  },
+  {
+    "id": "panasonic-lumix-gh5ii",
+    "slug": "panasonic-lumix-gh5ii",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH5II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GH5M2/spec.html",
+    "releaseYear": 2021,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "12fps",
+    "videoResolution": "C4K 60p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log L, HLG",
+    "hasIBIS": true,
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "evfMagnification": "0.76x",
+    "lcdSpec": "3.0-inch 1.84M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "ports": "USB-C (USB 3.1 Gen 1), full-size HDMI, mic",
+    "dimensions": "138.5 x 98.1 x 87.4 mm",
+    "weightGrams": 727,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh5ii.webp"
+  },
+  {
+    "id": "panasonic-lumix-gh6",
+    "slug": "panasonic-lumix-gh6",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH6",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GH6/spec.html",
+    "releaseYear": 2022,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "25.2MP",
+    "sensorType": "Live MOS",
+    "processor": "Venus Engine",
+    "isoRange": "100-25600 (Ext: 50-25600)",
+    "burstSpeed": "14fps (Mech) / 75fps (Elec)",
+    "videoResolution": "5.8K 30p / 5.7K 60p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log, HLG",
+    "hasIBIS": true,
+    "afTargets": "Human, Animal",
+    "evfResolution": "3.68M-dot",
+    "evfMagnification": "0.76x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
+    "batterySpec": "360 shots CIPA",
+    "ports": "USB-C (USB 3.2 Gen 2), full-size HDMI, mic",
+    "dimensions": "138.4 x 100.3 x 99.6 mm",
+    "weightGrams": 823,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh6.webp"
+  },
+  {
+    "id": "panasonic-lumix-g9ii",
+    "slug": "panasonic-lumix-g9ii",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G9II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-G9M2/spec.html",
+    "releaseYear": 2023,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "25.2MP",
+    "sensorType": "Live MOS",
+    "isoRange": "100-25600 (Ext: 50-25600)",
+    "burstSpeed": "14fps (Mech) / 75fps (Elec)",
+    "videoResolution": "5.8K 30p / 5.7K 60p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log, HLG",
+    "hasIBIS": true,
+    "afTargets": "Human, Animal, Car, Motorcycle, Train, Airplane",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.8x",
+    "lcdSpec": "3.0-inch 1.84M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "DMW-BLK22 (370 shots CIPA)",
+    "ports": "USB-C (USB 3.2 Gen 2), mic",
+    "dimensions": "134.3 x 102.3 x 90.1 mm",
+    "weightGrams": 658,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g9ii.webp"
+  },
+  {
+    "id": "panasonic-lumix-g100d",
+    "slug": "panasonic-lumix-g100d",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G100D",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-G100DV/spec.html",
+    "releaseYear": 2023,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "6fps (Mech) / 10fps (Elec)",
+    "videoResolution": "4K 30p",
+    "logSupport": "V-Log L",
+    "afPoints": "49 points",
+    "afTargets": "Human, Animal",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.74x",
+    "lcdSpec": "3.0-inch 1.84M-dot touch",
+    "cardSlots": "1x SD",
+    "batterySpec": "270 shots CIPA",
+    "ports": "micro HDMI, mic",
+    "dimensions": "115.6 x 83.1 x 54.2 mm",
+    "weightGrams": 346,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g100d.webp"
+  },
+  {
+    "id": "panasonic-lumix-g97",
+    "slug": "panasonic-lumix-g97",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G97",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-G99M2/spec.html",
+    "releaseYear": 2024,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "20.3MP",
+    "sensorType": "CMOS",
+    "processor": "Venus Engine",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "9fps",
+    "videoResolution": "4K 30p",
+    "logSupport": "V-Log L",
+    "hasIBIS": true,
+    "ibisRating": "5 stops",
+    "afPoints": "49 points",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.74x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II)",
+    "batterySpec": "280 shots CIPA",
+    "ports": "USB-C (USB 2.0), micro HDMI, mic, headphone",
+    "dimensions": "130.4 x 93.5 x 77.4 mm",
+    "weightGrams": 530,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g97.webp"
+  },
+  {
+    "id": "panasonic-lumix-gh7",
+    "slug": "panasonic-lumix-gh7",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH7",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-GH7/spec.html",
+    "releaseYear": 2024,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "megapixels": "25.2MP",
+    "sensorType": "BSI CMOS",
+    "isoRange": "100-25600 (Ext: 50-25600)",
+    "burstSpeed": "14fps (Mech) / 75fps (Elec)",
+    "videoResolution": "5.8K 30p / 5.7K 60p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log, ARRI LogC3, HLG",
+    "hasIBIS": true,
+    "ibisRating": "7.5 stops",
+    "afTargets": "Human, Animal, Car, Motorcycle, Train, Airplane",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.8x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
+    "batterySpec": "DMW-BLK22 (360 shots CIPA)",
+    "ports": "USB-C (USB 3.2 Gen 2), full-size HDMI, mic, headphone, remote",
+    "dimensions": "138.4 x 100.3 x 99.6 mm",
+    "weightGrams": 805,
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh7.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G X VARIO 12-35mm F2.8 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-HS12035_spec.html",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.25m",
+    "filterSizeMm": 58,
+    "opticalDesign": "14 elements in 9 groups",
+    "specialElements": "4 Aspherical, 1 UED, 1 UHR",
+    "dimensions": "Ø67.6 x 73.8 mm",
+    "weightGrams": 305,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-g-x-vario-35-100mm-f2-8-power-o-i-s",
+    "slug": "panasonic-lumix-g-x-vario-35-100mm-f2-8-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G X VARIO 35-100mm F2.8 POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-HS35100_spec.html",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.85m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 58,
+    "opticalDesign": "18 elements in 13 groups",
+    "specialElements": "2 ED, 1 UED",
+    "dimensions": "Ø67.4 x 99.9 mm",
+    "weightGrams": 360,
+    "hasOIS": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-g-vario-45-150mm-f4-0-5-6-asph-mega-o-i-s",
+    "slug": "panasonic-lumix-g-vario-45-150mm-f4-0-5-6-asph-mega-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 45-150mm F4.0-5.6 ASPH. MEGA O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-45-150mm-f4-0-5-6-asph-lens",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 45,
+    "focalLengthMaxMm": 150,
+    "apertureMax": "4-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.9m",
+    "maxMagnification": "0.17x",
+    "filterSizeMm": 52,
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "1 Aspherical",
+    "dimensions": "Ø62 x 73 mm",
+    "weightGrams": 200,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-45-150mm-f4-0-5-6-asph-mega-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-14-42mm-f3-5-5-6-ii-asph-mega-o-i-s",
+    "slug": "panasonic-lumix-g-vario-14-42mm-f3-5-5-6-ii-asph-mega-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 14-42mm F3.5-5.6 II ASPH. MEGA O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-14-42mm-f3-5-5-6-asph-x-vario-lens",
+    "releaseYear": 2013,
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 42,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.2m (W) / 0.3m (T)",
+    "maxMagnification": "0.17x",
+    "filterSizeMm": 46,
+    "opticalDesign": "9 elements in 8 groups",
+    "specialElements": "2 Aspherical",
+    "dimensions": "Ø56 x 49 mm",
+    "weightGrams": 110,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-14-42mm-f3-5-5-6-ii-asph-mega-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-12-32mm-f3-5-5-6-asph-mega-o-i-s",
+    "slug": "panasonic-lumix-g-vario-12-32mm-f3-5-5-6-asph-mega-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 12-32mm F3.5-5.6 ASPH. MEGA O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-FS12032_spec.html",
+    "releaseYear": 2013,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 32,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.2m (W) / 0.3m (T)",
+    "maxMagnification": "0.13x",
+    "filterSizeMm": 37,
+    "opticalDesign": "8 elements in 7 groups",
+    "specialElements": "3 Aspherical, 1 ED",
+    "dimensions": "Ø55.5 x 24 mm",
+    "weightGrams": 70,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-leica-dg-nocticron-42-5mm-f1-2-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-nocticron-42-5mm-f1-2-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG NOCTICRON 42.5mm F1.2 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-42-5mm-f1-2-asph-leica-lens",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 42.5,
+    "focalLengthMaxMm": 42.5,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 67,
+    "opticalDesign": "14 elements in 11 groups",
+    "specialElements": "2 Aspherical, 1 ED, 1 UHR",
+    "dimensions": "Ø74 x 76.8 mm",
+    "weightGrams": 425,
+    "hasOIS": true,
+    "hasApertureRing": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-nocticron-42-5mm-f1-2-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-summilux-15mm-f1-7-asph",
+    "slug": "panasonic-leica-dg-summilux-15mm-f1-7-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG SUMMILUX 15mm F1.7 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-15mm-f1-7-asph-leica-lens",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": 1.7,
+    "minAperture": "16",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 46,
+    "opticalDesign": "9 elements in 7 groups",
+    "specialElements": "3 Aspherical",
+    "dimensions": "Ø57.5 x 36 mm",
+    "weightGrams": 115,
+    "hasApertureRing": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-15mm-f1-7-asph.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-14-140mm-f3-5-5-6-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-vario-14-140mm-f3-5-5-6-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 14-140mm F3.5-5.6 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-FS14140_spec.html",
+    "releaseYear": 2013,
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 140,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.3m (W) / 0.5m (T)",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "opticalDesign": "14 elements in 12 groups",
+    "specialElements": "3 Aspherical, 2 ED",
+    "dimensions": "Ø67 x 75 mm",
+    "weightGrams": 265,
+    "hasOIS": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-g-vario-35-100mm-f4-0-5-6-asph-mega-o-i-s",
+    "slug": "panasonic-lumix-g-vario-35-100mm-f4-0-5-6-asph-mega-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 35-100mm F4.0-5.6 ASPH. MEGA O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-35-100mm-f4-0-5-6-asph-lens",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 100,
+    "apertureMax": "4-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.9m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 46,
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "1 Aspherical, 2 ED",
+    "dimensions": "Ø55.5 x 50 mm",
+    "weightGrams": 135,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-35-100mm-f4-0-5-6-asph-mega-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-42-5mm-f1-7-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-42-5mm-f1-7-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 42.5mm F1.7 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-42-5mm-f1-7-asph-lens",
+    "releaseYear": 2015,
+    "focalLengthMinMm": 42.5,
+    "focalLengthMaxMm": 42.5,
+    "apertureMax": 1.7,
+    "minAperture": "22",
+    "closeFocus": "0.31m",
+    "maxMagnification": "0.2x",
+    "filterSizeMm": 37,
+    "opticalDesign": "10 elements in 8 groups",
+    "specialElements": "1 Aspherical",
+    "dimensions": "Ø55 x 50 mm",
+    "weightGrams": 130,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-42-5mm-f1-7-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-macro-30mm-f2-8-asph-mega-o-i-s",
+    "slug": "panasonic-lumix-g-macro-30mm-f2-8-asph-mega-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G MACRO 30mm F2.8 ASPH. MEGA O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-30mm-f2-8-asph-lens",
+    "releaseYear": 2015,
+    "focalLengthMinMm": 30,
+    "focalLengthMaxMm": 30,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.105m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 46,
+    "opticalDesign": "9 elements in 9 groups",
+    "specialElements": "1 Aspherical",
+    "dimensions": "Ø58.8 x 63.5 mm",
+    "weightGrams": 180,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-macro-30mm-f2-8-asph-mega-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-25mm-f1-7-asph",
+    "slug": "panasonic-lumix-g-25mm-f1-7-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 25mm F1.7 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-25mm-f1-7-asph-lens",
+    "releaseYear": 2015,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.7,
+    "minAperture": "22",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.14x",
+    "filterSizeMm": 46,
+    "opticalDesign": "8 elements in 7 groups",
+    "specialElements": "2 Aspherical, 1 UHR",
+    "dimensions": "Ø60.8 x 52 mm",
+    "weightGrams": 125,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-25mm-f1-7-asph.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-12-60mm-f3-5-5-6-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-vario-12-60mm-f3-5-5-6-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 12-60mm F3.5-5.6 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-12-60mm-f3-5-5-6-asph-lens",
+    "releaseYear": 2016,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 60,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.2m (W) / 0.25m (T)",
+    "maxMagnification": "0.27x",
+    "filterSizeMm": 58,
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "3 Aspherical, 1 ED",
+    "dimensions": "Ø66 x 71 mm",
+    "weightGrams": 210,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-12-60mm-f3-5-5-6-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-45-200mm-f4-0-5-6-ii-power-o-i-s",
+    "slug": "panasonic-lumix-g-vario-45-200mm-f4-0-5-6-ii-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 45-200mm F4.0-5.6 II POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-45-200mm-f4-0-5-6-asph-lens",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 45,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "4-5.6",
+    "minAperture": "22",
+    "closeFocus": "1.0m",
+    "maxMagnification": "0.19x",
+    "filterSizeMm": 52,
+    "opticalDesign": "16 elements in 13 groups",
+    "dimensions": "Ø70 x 100 mm",
+    "weightGrams": 370,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-45-200mm-f4-0-5-6-ii-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-100-300mm-f4-0-5-6-ii-power-o-i-s",
+    "slug": "panasonic-lumix-g-vario-100-300mm-f4-0-5-6-ii-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 100-300mm F4.0-5.6 II POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-100-300mm-f4-0-5-6-asph-lens",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 300,
+    "apertureMax": "4-5.6",
+    "minAperture": "22",
+    "closeFocus": "1.5m",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 67,
+    "opticalDesign": "17 elements in 12 groups",
+    "specialElements": "1 ED",
+    "dimensions": "Ø73.6 x 126 mm",
+    "weightGrams": 520,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-100-300mm-f4-0-5-6-ii-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-RS100400_spec.html",
+    "releaseYear": 2016,
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 400,
+    "apertureMax": "4-6.3",
+    "minAperture": "22",
+    "closeFocus": "1.3m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 72,
+    "opticalDesign": "20 elements in 13 groups",
+    "specialElements": "1 Aspherical ED, 2 ED, 1 UED",
+    "dimensions": "Ø83 x 171.5 mm",
+    "weightGrams": 985,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-leica-dg-summilux-12mm-f1-4-asph",
+    "slug": "panasonic-leica-dg-summilux-12mm-f1-4-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG SUMMILUX 12mm F1.4 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-12mm-f1-4-asph-leica-lens",
+    "releaseYear": 2016,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 12,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 62,
+    "opticalDesign": "15 elements in 12 groups",
+    "specialElements": "2 Aspherical, 1 ED, 2 UED",
+    "dimensions": "Ø70 x 70 mm",
+    "weightGrams": 335,
+    "hasApertureRing": true,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-12mm-f1-4-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmarit-12-60mm-f2-8-4-0-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmarit-12-60mm-f2-8-4-0-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMARIT 12-60mm F2.8-4.0 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-12-60mm-f2-8-4-0-asph-leica-lens",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 60,
+    "apertureMax": "2.8-4",
+    "minAperture": "22",
+    "closeFocus": "0.2m (W) / 0.24m (T)",
+    "maxMagnification": "0.3x",
+    "filterSizeMm": 62,
+    "opticalDesign": "14 elements in 12 groups",
+    "specialElements": "4 Aspherical, 2 ED",
+    "dimensions": "Ø68.4 x 86 mm",
+    "weightGrams": 320,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-12-60mm-f2-8-4-0-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmarit-8-18mm-f2-8-4-0-asph",
+    "slug": "panasonic-leica-dg-vario-elmarit-8-18mm-f2-8-4-0-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMARIT 8-18mm F2.8-4.0 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-8-18mm-f2-8-4-0-leica-lens",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 8,
+    "focalLengthMaxMm": 18,
+    "apertureMax": "2.8-4",
+    "minAperture": "22",
+    "closeFocus": "0.23m",
+    "maxMagnification": "0.12x",
+    "filterSizeMm": 67,
+    "opticalDesign": "15 elements in 10 groups",
+    "specialElements": "1 Aspherical ED, 3 Aspherical, 2 ED, 1 UHR",
+    "dimensions": "Ø73.4 x 88 mm",
+    "weightGrams": 315,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-8-18mm-f2-8-4-0-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
+    "slug": "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG ELMARIT 200mm F2.8 POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-200mm-f2-8-asph-leica-1-4x-teleconverter",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 200,
+    "focalLengthMaxMm": 200,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "1.15m",
+    "maxMagnification": "0.2x",
+    "filterSizeMm": 77,
+    "opticalDesign": "15 elements in 13 groups",
+    "specialElements": "2 UED",
+    "dimensions": "Ø87.5 x 174 mm",
+    "weightGrams": 1245,
+    "hasOIS": true,
+    "hasApertureRing": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "launchPrice": 97900,
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-x-vario-12-35mm-f2-8-ii-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-x-vario-12-35mm-f2-8-ii-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G X VARIO 12-35mm F2.8 II ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-HSA12035_spec.html",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.17x",
+    "filterSizeMm": 58,
+    "opticalDesign": "14 elements in 9 groups",
+    "specialElements": "4 Aspherical, 1 UED, 1 UHR",
+    "dimensions": "Ø67.6 x 73.8 mm",
+    "weightGrams": 305,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-g-x-vario-35-100mm-f2-8-ii-power-o-i-s",
+    "slug": "panasonic-lumix-g-x-vario-35-100mm-f2-8-ii-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G X VARIO 35-100mm F2.8 II POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/p-db/H-HSA35100_spec.html",
+    "releaseYear": 2017,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.85m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 58,
+    "opticalDesign": "18 elements in 13 groups",
+    "specialElements": "2 ED, 1 UED",
+    "dimensions": "Ø67.4 x 99.9 mm",
+    "weightGrams": 357,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMARIT 50-200mm F2.8-4.0 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-50-200mm-f2-8-4-0-leica-lens",
+    "releaseYear": 2018,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "2.8-4",
+    "minAperture": "22",
+    "closeFocus": "0.75m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 67,
+    "opticalDesign": "21 elements in 15 groups",
+    "specialElements": "2 Aspherical, 2 UED, 2 ED, 1 UHR",
+    "dimensions": "Ø76 x 132 mm",
+    "weightGrams": 655,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-vario-14-140mm-f3-5-5-6-ii-asph-power-o-i-s",
+    "slug": "panasonic-lumix-g-vario-14-140mm-f3-5-5-6-ii-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G VARIO 14-140mm F3.5-5.6 II ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-14-140mm-f4-0-5-6-asph-lens",
+    "releaseYear": 2015,
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 140,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.3m (W) / 0.5m (T)",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "opticalDesign": "14 elements in 12 groups",
+    "specialElements": "3 Aspherical, 2 ED",
+    "dimensions": "Ø67 x 75 mm",
+    "weightGrams": 265,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-14-140mm-f3-5-5-6-ii-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-summilux-10-25mm-f1-7-asph",
+    "slug": "panasonic-leica-dg-vario-summilux-10-25mm-f1-7-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-SUMMILUX 10-25mm F1.7 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-10-25mm-f1-7-asph-leica-lens",
+    "releaseYear": 2019,
+    "focalLengthMinMm": 10,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.7,
+    "minAperture": "16",
+    "closeFocus": "0.28m",
+    "maxMagnification": "0.14x",
+    "filterSizeMm": 77,
+    "opticalDesign": "17 elements in 12 groups",
+    "specialElements": "3 Aspherical, 4 ED, 1 UHR",
+    "dimensions": "Ø87.6 x 128 mm",
+    "weightGrams": 690,
+    "hasApertureRing": true,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-summilux-10-25mm-f1-7-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-summilux-25-50mm-f1-7-asph",
+    "slug": "panasonic-leica-dg-vario-summilux-25-50mm-f1-7-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-SUMMILUX 25-50mm F1.7 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-25-50mm-f1-7-asph-leica-lens",
+    "releaseYear": 2021,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.7,
+    "minAperture": "16",
+    "closeFocus": "0.28m (W) / 0.31m (T)",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 77,
+    "opticalDesign": "16 elements in 11 groups",
+    "specialElements": "1 Aspherical, 3 ED, 1 UHR",
+    "dimensions": "Ø87.6 x 127.6 mm",
+    "weightGrams": 654,
+    "hasApertureRing": true,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-summilux-25-50mm-f1-7-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-summilux-9mm-f1-7-asph",
+    "slug": "panasonic-leica-dg-summilux-9mm-f1-7-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG SUMMILUX 9mm F1.7 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-9mm-f1-7-asph-leica-lens",
+    "releaseYear": 2022,
+    "focalLengthMinMm": 9,
+    "focalLengthMaxMm": 9,
+    "apertureMax": 1.7,
+    "minAperture": "16",
+    "closeFocus": "0.095m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 55,
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "2 Aspherical, 2 ED, 1 UHR",
+    "dimensions": "Ø60.8 x 52 mm",
+    "weightGrams": 130,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-9mm-f1-7-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-summilux-25mm-f1-4-ii-asph",
+    "slug": "panasonic-leica-dg-summilux-25mm-f1-4-ii-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG SUMMILUX 25mm F1.4 II ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-25mm-f1-4-aph-leica-lens",
+    "releaseYear": 2019,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 46,
+    "opticalDesign": "9 elements in 7 groups",
+    "specialElements": "2 Aspherical, 1 UHR",
+    "dimensions": "Ø63 x 54.5 mm",
+    "weightGrams": 205,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-25mm-f1-4-ii-asph.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmarit-12-35mm-f2-8-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmarit-12-35mm-f2-8-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMARIT 12-35mm F2.8 ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-12-35mm-f2-8-asph-leica-lens",
+    "releaseYear": 2022,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.15m (W) / 0.25m (T)",
+    "maxMagnification": "0.21x",
+    "filterSizeMm": 58,
+    "opticalDesign": "14 elements in 9 groups",
+    "specialElements": "4 Aspherical, 1 UED, 1 UHR",
+    "dimensions": "Ø67.6 x 73.8 mm",
+    "weightGrams": 306,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-12-35mm-f2-8-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmarit-35-100mm-f2-8-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmarit-35-100mm-f2-8-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMARIT 35-100mm F2.8 POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-35-100mm-f2-8-asph-lens-1",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.85m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 58,
+    "opticalDesign": "18 elements in 13 groups",
+    "specialElements": "1 UED, 2 ED",
+    "dimensions": "Ø67.4 x 99.9 mm",
+    "weightGrams": 360,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-35-100mm-f2-8-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s",
+    "slug": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 II ASPH. POWER O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-100-400mm-f4-0-6-3-asph-leica-lens-1",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 400,
+    "apertureMax": "4-6.3",
+    "minAperture": "22",
+    "closeFocus": "1.3m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 72,
+    "opticalDesign": "20 elements in 13 groups",
+    "specialElements": "1 Aspherical ED, 2 ED, 1 UED",
+    "dimensions": "Ø83 x 171.5 mm",
+    "weightGrams": 985,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "hasWeatherSeal": true,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1h",
+    "slug": "panasonic-lumix-s1h",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1H",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1H/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "processor": "Venus Engine",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "9fps",
+    "videoResolution": "6K 24p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.2-inch 2.33M-dot vari-angle touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "DMW-BLJ31 (400 shots CIPA)",
+    "ports": "USB-C, HDMI, mic, headphone",
+    "dimensions": "151.0 x 114.2 x 110.4 mm",
+    "weightGrams": 1164,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1h.webp"
+  },
+  {
+    "id": "panasonic-lumix-s5",
+    "slug": "panasonic-lumix-s5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S5",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S5/spec.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "processor": "Venus Engine",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "7fps",
+    "videoResolution": "4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "0.74x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I)",
+    "batterySpec": "DMW-BLK22 (440 shots CIPA)",
+    "ports": "USB-C, HDMI, mic, headphone",
+    "dimensions": "132.6 x 97.1 x 81.9 mm",
+    "weightGrams": 714,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s5.webp"
+  },
+  {
+    "id": "panasonic-lumix-bs1h",
+    "slug": "panasonic-lumix-bs1h",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX BS1H",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-BS1H/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "processor": "Venus Engine",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "videoResolution": "6K 24p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log",
+    "hasIBIS": false,
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "cardSlots": "2x SD (UHS-II)",
+    "ports": "USB-C, HDMI Type A, 3G-SDI, LAN, timecode, mic, headphone",
+    "dimensions": "93.0 x 93.0 x 78.8 mm",
+    "weightGrams": 585,
+    "hasWeatherSeal": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-bs1h.webp"
+  },
+  {
+    "id": "panasonic-lumix-s5ii",
+    "slug": "panasonic-lumix-s5ii",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S5II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S5M2/spec.html",
+    "releaseYear": 2023,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "9fps (Mech) / 30fps (Elec)",
+    "videoResolution": "6K 30p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "afTargets": "Human, Animal, Car, Motorcycle, Train, Airplane",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "DMW-BLK22 (370 shots CIPA)",
+    "ports": "USB-C, HDMI, mic, headphone",
+    "dimensions": "134.3 x 102.3 x 90.1 mm",
+    "weightGrams": 740,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s5ii.webp"
+  },
+  {
+    "id": "panasonic-lumix-s5iix",
+    "slug": "panasonic-lumix-s5iix",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S5IIX",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S5M2X/spec.html",
+    "releaseYear": 2023,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "9fps (Mech) / 30fps (Elec)",
+    "videoResolution": "6K 30p / 4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "afTargets": "Human, Animal, Car, Motorcycle, Train, Airplane",
+    "evfResolution": "3.68M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "2x SD",
+    "batterySpec": "DMW-BLK22 (370 shots CIPA)",
+    "ports": "USB-C, HDMI, mic, headphone",
+    "dimensions": "134.3 x 102.3 x 90.1 mm",
+    "weightGrams": 740,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s5iix.webp"
+  },
+  {
+    "id": "panasonic-lumix-s9",
+    "slug": "panasonic-lumix-s9",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S9",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S9/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "30fps (Elec)",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "ibisRating": "5 stops",
+    "afTargets": "Human, Animal, Car, Motorcycle, Train, Airplane",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "batterySpec": "DMW-BLK22 (470 shots CIPA)",
+    "ports": "USB-C, micro HDMI, mic",
+    "dimensions": "126 x 73.9 x 46.7 mm",
+    "weightGrams": 486,
+    "hasWeatherSeal": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s9.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1rii",
+    "slug": "panasonic-lumix-s1rii",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1RII",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1RM2/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "megapixels": "44.3MP",
+    "sensorType": "CMOS",
+    "isoRange": "80-51200 (Ext: 40-102400)",
+    "burstSpeed": "10fps (Mech) / 40fps (Elec)",
+    "videoResolution": "8K 30p",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "ibisRating": "8 stops",
+    "afTargets": "Human, Animal, Car, Motorcycle, Bicycle, Train, Airplane",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD",
+    "batterySpec": "DMW-BLK22 (340 shots CIPA)",
+    "ports": "USB-C, HDMI Type A, mic, headphone",
+    "dimensions": "134.3 x 102.3 x 91.8 mm",
+    "weightGrams": 795,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1rii.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1ii",
+    "slug": "panasonic-lumix-s1ii",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1II",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1M2/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.1MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "10fps (Mech) / 70fps (Elec)",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "ibisRating": "8 stops",
+    "afPoints": "779 phase-detect points",
+    "afTargets": "Human, Animal, Car, Motorcycle, Bicycle, Train, Airplane",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
+    "batterySpec": "DMW-BLK22 (350 shots CIPA)",
+    "ports": "USB-C, HDMI Type A, mic, headphone",
+    "dimensions": "134.3 x 102.3 x 91.8 mm",
+    "weightGrams": 800,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1ii.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1iie",
+    "slug": "panasonic-lumix-s1iie",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1IIE",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1M2ES/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "10fps (Mech) / 30fps (Elec)",
+    "videoResolution": "6K 30p",
+    "logSupport": "V-Log",
+    "hasIBIS": true,
+    "ibisRating": "8 stops",
+    "afPoints": "779 phase-detect points",
+    "afTargets": "Human, Animal, Car, Motorcycle, Bicycle, Train, Airplane",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 1.84M-dot vari-angle touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD",
+    "batterySpec": "DMW-BLK22 (370 shots CIPA)",
+    "ports": "USB-C, HDMI Type A, mic, headphone",
+    "dimensions": "134.3 x 102.3 x 91.8 mm",
+    "weightGrams": 795,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1iie.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-24-105mm-f4-macro-o-i-s",
+    "slug": "panasonic-lumix-s-24-105mm-f4-macro-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 24-105mm F4 MACRO O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R24105/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 105,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.5x",
+    "opticalDesign": "16 elements in 13 groups",
+    "specialElements": "2 Aspherical ED, 2 Aspherical, 1 UED, 2 ED",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84 x 118 mm",
+    "weightGrams": 680,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-24-105mm-f4-macro-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
+    "slug": "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S PRO 70-200mm F4 O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R70200/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 70,
+    "focalLengthMaxMm": 200,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "closeFocus": "0.92m",
+    "maxMagnification": "0.25x",
+    "opticalDesign": "23 elements in 17 groups",
+    "specialElements": "1 Aspherical, 3 ED, 1 UED, 1 UHR",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84.4 x 179 mm",
+    "weightGrams": 985,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-70-200mm-f4-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-pro-50mm-f1-4",
+    "slug": "panasonic-lumix-s-pro-50mm-f1-4",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S PRO 50mm F1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-X50/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "closeFocus": "0.44m",
+    "maxMagnification": "0.15x",
+    "opticalDesign": "13 elements in 11 groups",
+    "specialElements": "2 Aspherical, 3 ED",
+    "filterSizeMm": 77,
+    "dimensions": "Ø90 x 130 mm",
+    "weightGrams": 955,
+    "hasApertureRing": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-50mm-f1-4.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-pro-24-70mm-f2-8",
+    "slug": "panasonic-lumix-s-pro-24-70mm-f2-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S PRO 24-70mm F2.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-E2470/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 70,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.37m",
+    "maxMagnification": "0.25x",
+    "opticalDesign": "18 elements in 16 groups",
+    "specialElements": "3 Aspherical, 4 ED, 1 UHR",
+    "filterSizeMm": 82,
+    "dimensions": "Ø90.9 x 140 mm",
+    "weightGrams": 935,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-24-70mm-f2-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
+    "slug": "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S PRO 70-200mm F2.8 O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-E70200/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 70,
+    "focalLengthMaxMm": 200,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.95m",
+    "maxMagnification": "0.21x",
+    "opticalDesign": "22 elements in 17 groups",
+    "specialElements": "1 Aspherical, 3 ED, 2 UED",
+    "filterSizeMm": 82,
+    "dimensions": "Ø94.4 x 208.6 mm",
+    "weightGrams": 1570,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ]
+  },
+  {
+    "id": "panasonic-lumix-s-pro-16-35mm-f4",
+    "slug": "panasonic-lumix-s-pro-16-35mm-f4",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S PRO 16-35mm F4",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R1635/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 16,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.23x",
+    "opticalDesign": "12 elements in 9 groups",
+    "specialElements": "3 Aspherical, 1 ED, 1 UHR",
+    "filterSizeMm": 77,
+    "dimensions": "Ø85 x 99.6 mm",
+    "weightGrams": 500,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-16-35mm-f4.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-20-60mm-f3-5-5-6",
+    "slug": "panasonic-lumix-s-20-60mm-f3-5-5-6",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 20-60mm F3.5-5.6",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R2060/spec.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 20,
+    "focalLengthMaxMm": 60,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.15m (W) / 0.4m (T)",
+    "maxMagnification": "0.43x",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "2 Aspherical, 3 ED, 1 UHR",
+    "filterSizeMm": 67,
+    "dimensions": "Ø77.4 x 87.2 mm",
+    "weightGrams": 350,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-20-60mm-f3-5-5-6.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-85mm-f1-8",
+    "slug": "panasonic-lumix-s-85mm-f1-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 85mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S85/spec.html",
+    "releaseYear": 2020,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "closeFocus": "0.8m",
+    "maxMagnification": "0.13x",
+    "opticalDesign": "9 elements in 8 groups",
+    "specialElements": "2 ED",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 355,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-85mm-f1-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s",
+    "slug": "panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 70-300mm F4.5-5.6 MACRO O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R70300/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 70,
+    "focalLengthMaxMm": 300,
+    "apertureMax": "4.5-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.54m (W) / 0.74m (T)",
+    "maxMagnification": "0.5x",
+    "opticalDesign": "17 elements in 11 groups",
+    "specialElements": "2 ED, 1 UED, 1 UHR",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84 x 148 mm",
+    "weightGrams": 790,
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-50mm-f1-8",
+    "slug": "panasonic-lumix-s-50mm-f1-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 50mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S50/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "closeFocus": "0.45m",
+    "maxMagnification": "0.14x",
+    "opticalDesign": "9 elements in 8 groups",
+    "specialElements": "3 Aspherical, 1 ED, 1 UHR",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 300,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-50mm-f1-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-24mm-f1-8",
+    "slug": "panasonic-lumix-s-24mm-f1-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 24mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S24/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 24,
+    "apertureMax": 1.8,
+    "minAperture": "16",
+    "closeFocus": "0.24m",
+    "maxMagnification": "0.15x",
+    "opticalDesign": "12 elements in 11 groups",
+    "specialElements": "3 Aspherical, 1 UED, 3 ED",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 310,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-24mm-f1-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-35mm-f1-8",
+    "slug": "panasonic-lumix-s-35mm-f1-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 35mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S35/spec.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "closeFocus": "0.24m",
+    "maxMagnification": "0.22x",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "3 Aspherical, 3 ED",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 295,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-35mm-f1-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-18mm-f1-8",
+    "slug": "panasonic-lumix-s-18mm-f1-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 18mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S18/spec.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 18,
+    "apertureMax": 1.8,
+    "minAperture": "16",
+    "closeFocus": "0.18m",
+    "maxMagnification": "0.2x",
+    "opticalDesign": "13 elements in 12 groups",
+    "specialElements": "3 Aspherical, 1 UED, 3 ED, 1 UHR",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 340,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-18mm-f1-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-14-28mm-f4-5-6-macro",
+    "slug": "panasonic-lumix-s-14-28mm-f4-5-6-macro",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 14-28mm F4-5.6 MACRO",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R1428/spec.html",
+    "releaseYear": 2023,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 28,
+    "apertureMax": "4-5.6",
+    "minAperture": "22",
+    "closeFocus": "0.15m",
+    "maxMagnification": "0.5x",
+    "opticalDesign": "14 elements in 10 groups",
+    "specialElements": "1 Aspherical ED, 1 Aspherical, 3 ED, 1 UHR",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84 x 89.8 mm",
+    "weightGrams": 345,
+    "hasApertureRing": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-14-28mm-f4-5-6-macro.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s",
+    "slug": "panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 28-200mm F4-7.1 MACRO O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R28200/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "4-7.1",
+    "minAperture": "32-45",
+    "closeFocus": "0.14m (W) / 0.65m (T)",
+    "maxMagnification": "0.5x",
+    "opticalDesign": "17 elements in 13 groups",
+    "specialElements": "1 Aspherical, 4 ED, 1 UHR",
+    "filterSizeMm": 67,
+    "dimensions": "Ø77.3 x 93.4 mm",
+    "weightGrams": 413,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-100mm-f2-8-macro",
+    "slug": "panasonic-lumix-s-100mm-f2-8-macro",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 100mm F2.8 MACRO",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-E100/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.204m",
+    "maxMagnification": "1.0x",
+    "opticalDesign": "13 elements in 11 groups",
+    "specialElements": "3 Aspherical, 2 UED, 1 ED",
+    "filterSizeMm": 67,
+    "dimensions": "Ø73.6 x 82 mm",
+    "weightGrams": 298,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-100mm-f2-8-macro.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-26mm-f8",
+    "slug": "panasonic-lumix-s-26mm-f8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 26mm F8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R26/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 26,
+    "focalLengthMaxMm": 26,
+    "apertureMax": 8,
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.14x",
+    "opticalDesign": "5 elements in 5 groups",
+    "specialElements": "1 UED",
+    "filterSizeMm": 0,
+    "dimensions": "Ø67.1 x 18.1 mm",
+    "weightGrams": 58,
+    "hasOIS": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-26mm-f8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-18-40mm-f4-5-6-3",
+    "slug": "panasonic-lumix-s-18-40mm-f4-5-6-3",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 18-40mm F4.5-6.3",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R1840/spec.html",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 40,
+    "apertureMax": "4.5-6.3",
+    "minAperture": "22-32",
+    "closeFocus": "0.15m (W) / 0.35m (T)",
+    "maxMagnification": "0.28x",
+    "opticalDesign": "8 elements in 7 groups",
+    "specialElements": "3 Aspherical, 2 ED, 1 UHR",
+    "filterSizeMm": 62,
+    "dimensions": "Ø67.9 x 40.9 mm",
+    "weightGrams": 155,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-18-40mm-f4-5-6-3.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-24-60mm-f2-8",
+    "slug": "panasonic-lumix-s-24-60mm-f2-8",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 24-60mm F2.8",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-E2460/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 60,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "closeFocus": "0.19m (W) / 0.33m (T)",
+    "maxMagnification": "0.3x",
+    "opticalDesign": "14 elements in 12 groups",
+    "specialElements": "3 Aspherical, 1 UED, 2 ED",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84 x 99.9 mm",
+    "weightGrams": 544,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-24-60mm-f2-8.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
+    "slug": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 100-500mm F5-7.1 O.I.S.",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-R100500/spec.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 500,
+    "apertureMax": "5-7.1",
+    "minAperture": "29-40",
+    "closeFocus": "0.8m (W) / 1.5m (T)",
+    "maxMagnification": "0.36x",
+    "opticalDesign": "19 elements in 12 groups",
+    "specialElements": "2 UED, 2 ED, 2 UHR",
+    "filterSizeMm": 82,
+    "dimensions": "Ø92 x 196.1 mm",
+    "weightGrams": 1285,
+    "hasOIS": true,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-100-500mm-f5-7-1-o-i-s.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-40mm-f2",
+    "slug": "panasonic-lumix-s-40mm-f2",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 40mm F2",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S40/spec.html",
+    "releaseYear": 2026,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 40,
+    "apertureMax": 2,
+    "minAperture": "22",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.17x",
+    "opticalDesign": "7 elements in 6 groups",
+    "specialElements": "3 Aspherical",
+    "filterSizeMm": 62,
+    "dimensions": "Ø69.4 x 40.9 mm",
+    "weightGrams": 144,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-40mm-f2.webp"
+  },
+  {
+    "id": "panasonic-lumix-s-20mm-f2-5",
+    "slug": "panasonic-lumix-s-20mm-f2-5",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 20mm F2.5",
+    "gearType": "LENS",
+    "officialUrl": "https://panasonic.jp/dc/products/S-S20/spec.html",
+    "releaseYear": 2026,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 20,
+    "focalLengthMaxMm": 20,
+    "apertureMax": 2.5,
+    "minAperture": "22",
+    "closeFocus": "0.18m",
+    "maxMagnification": "0.15x",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "3 Aspherical, 3 ED",
+    "filterSizeMm": 62,
+    "dimensions": "Ø69.4 x 40.9 mm",
+    "weightGrams": 142,
+    "hasOIS": false,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-20mm-f2-5.webp"
   }
 ]
