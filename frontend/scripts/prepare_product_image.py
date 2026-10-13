@@ -17,6 +17,7 @@ SIZE = 1000
 PAD = 0.08          # padding on each side, as a fraction of the canvas
 DARK_BG = 12        # luminance at or below this, touching the border, counts as black background
 WHITE_BG = 245      # luminance at or above this counts as white background when trimming
+MIN_SIDE = 500      # products smaller than this in the source get blurry when enlarged to the canvas; refuse them
 
 
 def flatten(im):
@@ -64,6 +65,10 @@ def border_is_dark(im):
 
 def prepare(src, dst):
     im = flatten(Image.open(src))
+    # Work at most at 2x the output size; the masks below are slow on 5000 px press images
+    f = max(1.0, max(im.size) / (2 * SIZE))
+    if f > 1:
+        im = im.resize((round(im.width / f), round(im.height / f)), Image.LANCZOS)
     if border_is_dark(im):
         im = black_to_white(im)
     # Product mask: non-white pixels, with thin specks and leftover line fragments opened away.
@@ -74,15 +79,16 @@ def prepare(src, dst):
     keep = clean.filter(ImageFilter.MaxFilter(k * 2 + 1))
     im = Image.composite(im, Image.new("RGB", im.size, (255, 255, 255)), keep)
     box = clean.getbbox()
-    if box:
-        im = im.crop(box)
+    if not box or max(box[2] - box[0], box[3] - box[1]) * f < MIN_SIDE:   # measured in source pixels
+        return False
+    im = im.crop(box)
     inner = int(SIZE * (1 - 2 * PAD))
-    scale = inner / max(im.size)   # fit, enlarging small legacy images too
+    scale = inner / max(im.size)   # fit (enlarges at most SIZE / MIN_SIDE times)
     im = im.resize((max(1, round(im.width * scale)), max(1, round(im.height * scale))), Image.LANCZOS)
     canvas = Image.new("RGB", (SIZE, SIZE), (255, 255, 255))
     canvas.paste(im, ((SIZE - im.width) // 2, (SIZE - im.height) // 2))
     canvas.save(dst, "WEBP", quality=84, method=6)
-    return box is not None
+    return True
 
 
 def selftest():
@@ -90,21 +96,27 @@ def selftest():
     from PIL import ImageDraw
     d = tempfile.mkdtemp()
     # black background, grey product off-centre
-    im = Image.new("RGB", (800, 400), (0, 0, 0))
-    ImageDraw.Draw(im).rectangle([100, 100, 300, 300], fill=(60, 60, 60))
+    im = Image.new("RGB", (1600, 800), (0, 0, 0))
+    ImageDraw.Draw(im).rectangle([200, 200, 800, 700], fill=(60, 60, 60))
     im.save(os.path.join(d, "a.png"))
-    prepare(os.path.join(d, "a.png"), os.path.join(d, "a.webp"))
+    assert prepare(os.path.join(d, "a.png"), os.path.join(d, "a.webp"))
     out = Image.open(os.path.join(d, "a.webp")).convert("L")
     assert out.size == (SIZE, SIZE)
     assert out.getpixel((5, 5)) > 240, "background should be white"
     assert out.getpixel((SIZE // 2, SIZE // 2)) < 90, "product should stay dark and be centred"
     # transparent PNG
-    im = Image.new("RGBA", (400, 400), (0, 0, 0, 0))
-    ImageDraw.Draw(im).ellipse([50, 50, 350, 350], fill=(20, 20, 20, 255))
+    im = Image.new("RGBA", (800, 800), (0, 0, 0, 0))
+    ImageDraw.Draw(im).ellipse([100, 100, 700, 700], fill=(20, 20, 20, 255))
     im.save(os.path.join(d, "b.png"))
-    prepare(os.path.join(d, "b.png"), os.path.join(d, "b.webp"))
+    assert prepare(os.path.join(d, "b.png"), os.path.join(d, "b.webp"))
     out = Image.open(os.path.join(d, "b.webp")).convert("L")
     assert out.getpixel((5, 5)) > 240 and out.getpixel((SIZE // 2, SIZE // 2)) < 60
+    # a thumbnail-sized source is refused instead of being blown up into a blurry image
+    im = Image.new("RGB", (240, 160), (255, 255, 255))
+    ImageDraw.Draw(im).rectangle([20, 20, 220, 140], fill=(20, 20, 20))
+    im.save(os.path.join(d, "c.png"))
+    assert not prepare(os.path.join(d, "c.png"), os.path.join(d, "c.webp"))
+    assert not os.path.exists(os.path.join(d, "c.webp"))
     print("selftest ok")
 
 

@@ -1109,7 +1109,8 @@
     "batterySpec": "NP-FZ100 (570 shots CIPA)",
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-zv-e1.webp"
+    "image_url": "/images/products/sony/sony-zv-e1.webp",
+    "launchPrice": 64980
   },
   {
     "brand": "Sony",
@@ -1550,7 +1551,8 @@
     "batterySpec": "NP-FW50 (440 shots CIPA)",
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
     "hasWeatherSeal": false,
-    "afTargets": "Human, Animal"
+    "afTargets": "Human, Animal",
+    "launchPrice": 17980
   },
   {
     "brand": "Fujifilm",
@@ -2127,7 +2129,8 @@
     "cardSlots": "1x SD (UHS-I)",
     "batterySpec": "NP-W126 (350 shots)",
     "ports": "USB 2.0, HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 23900
   },
   {
     "brand": "Fujifilm",
@@ -2257,7 +2260,8 @@
     "cardSlots": "1x SD",
     "batterySpec": "NP-W126 (300 shots CIPA)",
     "ports": "USB 2.0, HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 52900
   },
   {
     "brand": "Fujifilm",
@@ -2563,7 +2567,8 @@
     "cardSlots": "1x SD",
     "batterySpec": "NP-95 (330 shots CIPA)",
     "ports": "USB 2.0, HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 39800
   },
   {
     "brand": "Fujifilm",
@@ -2729,7 +2734,8 @@
     "cardSlots": "2x SD (UHS-II)",
     "batterySpec": "NP-W235 (460 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
-    "logSupport": "F-Log, HLG"
+    "logSupport": "F-Log, HLG",
+    "launchPrice": 169600
   },
   {
     "brand": "Fujifilm",
@@ -3105,7 +3111,7 @@
     "afPoints": "1053 areas",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "6fps (Elec. 1st Curtain) / 40fps (Elec)",
-    "launchPrice": 42000,
+    "launchPrice": 43900,
     "aliases": [
       "R8",
       "EOSR8"
@@ -3149,7 +3155,7 @@
     "afPoints": "5655 points",
     "evfResolution": "3.69M-dot OLED",
     "burstSpeed": "8fps",
-    "launchPrice": 52000,
+    "launchPrice": 67000,
     "aliases": [
       "EOSR",
       "CanonR"
@@ -3193,7 +3199,7 @@
     "afPoints": "4779 points",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "5fps",
-    "launchPrice": 32000,
+    "launchPrice": 42900,
     "aliases": [
       "EOSRP",
       "CanonRP"
@@ -3235,7 +3241,7 @@
     "afPoints": "651 areas",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "15fps (Mech) / 30fps (Elec)",
-    "launchPrice": 45000,
+    "launchPrice": 39900,
     "aliases": [
       "Canon eos r7",
       "EOS R7",
@@ -3288,7 +3294,7 @@
     "burstSpeed": "15fps (Mech) / 23fps (Elec)",
     "sensorType": "24.2MP APS-C FSI-CMOS",
     "weightGrams": 429,
-    "launchPrice": 28000,
+    "launchPrice": 24000,
     "aliases": [
       "Canon eos r10",
       "EOS R1",
@@ -3336,7 +3342,7 @@
     "afPoints": "651 areas",
     "evfResolution": "2.36M-dot OLED",
     "burstSpeed": "12fps (Elec. 1st Curtain), 15fps (Electronic)",
-    "launchPrice": 22900,
+    "launchPrice": 19900,
     "aliases": [
       "Canon eos r50",
       "EOS R50",
@@ -6177,7 +6183,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/zeiss/18mm-f2-8.webp"
   },
   {
     "brand": "Sigma",
@@ -7088,7 +7095,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/zeiss/25mm-f2-0.webp"
   },
   {
     "brand": "Sigma",
@@ -8102,7 +8110,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/zeiss/40mm-f2-0-cf.webp"
   },
   {
     "brand": "Sony",
@@ -9598,7 +9607,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/zeiss/85mm-f1-8.webp"
   },
   {
     "brand": "Tokina",
@@ -10500,7 +10510,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/zeiss/135mm-f2-8-apo.webp"
   },
   {
     "brand": "Laowa",
@@ -13236,7 +13247,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/10mm-f5-6.webp"
   },
   {
     "brand": "Laowa",
@@ -13541,7 +13553,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/15mm-f4-5-iii.webp"
   },
   {
     "brand": "Tokina",
@@ -13620,7 +13633,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/21mm-f1-4-aspherical.webp",
+    "launchPrice": 39000
   },
   {
     "brand": "Zeiss",
@@ -13955,7 +13970,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/35mm-f1-2-aspherical-se.webp",
+    "launchPrice": 32000
   },
   {
     "brand": "Voigtlander",
@@ -14042,7 +14059,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/35mm-f2.webp",
+    "launchPrice": 32000
   },
   {
     "brand": "Voigtlander",
@@ -14080,7 +14099,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical-se.webp"
   },
   {
     "brand": "Voigtlander",
@@ -14128,7 +14148,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical.webp"
   },
   {
     "brand": "Mitakon",
@@ -14220,7 +14241,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/50mm-f1-2-aspherical-se.webp"
   },
   {
     "brand": "Voigtlander",
@@ -14258,7 +14280,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/50mm-f1-2-aspherical.webp",
+    "launchPrice": 33000
   },
   {
     "brand": "Zeiss",
@@ -14335,7 +14359,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/50mm-f2-apo-lanthar.webp",
+    "launchPrice": 32000
   },
   {
     "brand": "Laowa",
@@ -14426,7 +14452,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/65mm-f2-macro-apo-lanthar.webp"
   },
   {
     "brand": "Zeiss",
@@ -14674,7 +14701,9 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/voigtlander/110mm-f2-5-macro.webp",
+    "launchPrice": 34000
   },
   {
     "brand": "Samyang",
@@ -14926,7 +14955,8 @@
     "dimensions": "Ø92.9 x 139.8 mm",
     "minAperture": "22",
     "closeFocus": "0.38m",
-    "specialElements": "3 XA, 3 Super ED, 1 ED"
+    "specialElements": "3 XA, 3 Super ED, 1 ED",
+    "launchPrice": 92980
   },
   {
     "brand": "Sony",
@@ -15032,7 +15062,6 @@
     "brand": "Canon",
     "gearType": "LENS",
     "releaseYear": 2024,
-    "launchPrice": 72900,
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "apertureMax": 1.4,
@@ -15332,7 +15361,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2022,
     "weightGrams": 935,
-    "launchPrice": 63000,
+    "launchPrice": 66000,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
@@ -15372,7 +15401,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2021,
     "weightGrams": 685,
-    "launchPrice": 42000,
+    "launchPrice": 39900,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
@@ -15411,7 +15440,7 @@
     "apertureMax": "4.5-7.1",
     "releaseYear": 2020,
     "weightGrams": 1370,
-    "launchPrice": 83900,
+    "launchPrice": 82900,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
@@ -15490,7 +15519,7 @@
     "apertureMax": 2.8,
     "releaseYear": 2023,
     "weightGrams": 1330,
-    "launchPrice": 95000,
+    "launchPrice": 90900,
     "hasOIS": true,
     "hasWeatherSeal": true,
     "series": "L-Series",
@@ -16241,7 +16270,7 @@
     "apertureMax": 1.8,
     "releaseYear": 2022,
     "weightGrams": 270,
-    "launchPrice": 17900,
+    "launchPrice": 17300,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "STM",
@@ -16361,7 +16390,7 @@
     "apertureMax": "5.6-8",
     "releaseYear": 2021,
     "weightGrams": 635,
-    "launchPrice": 19900,
+    "launchPrice": 18900,
     "hasOIS": true,
     "hasWeatherSeal": false,
     "series": "USM",
@@ -18080,7 +18109,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-24mm-f1-4-l-vcm.webp"
+    "image_url": "/images/products/canon/canon-rf-24mm-f1-4-l-vcm.webp",
+    "launchPrice": 46900
   },
   {
     "id": "canon-rf-s-7-8mm-f4-stm-dual",
@@ -18247,7 +18277,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-100-300mm-f2-8-l-is-usm.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 289000
   },
   {
     "id": "canon-rf-200-800mm-f6-3-9-is-usm",
@@ -18282,7 +18313,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-200-800mm-f6-3-9-is-usm.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 58900
   },
   {
     "id": "canon-rf-24-50mm-f4-5-6-3-is-stm",
@@ -18315,7 +18347,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-24-50mm-f4-5-6-3-is-stm.webp",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 9400
   },
   {
     "id": "canon-rf-15-30mm-f4-5-6-3-is-stm",
@@ -18350,7 +18383,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-15-30mm-f4-5-6-3-is-stm.webp",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 15900
   },
   {
     "id": "canon-rf-1200mm-f8-l-is-usm",
@@ -18455,7 +18489,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-14-35mm-f4-l-is-usm.webp",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 48900
   },
   {
     "id": "canon-rf-600mm-f4-l-is-usm",
@@ -18488,7 +18523,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-600mm-f4-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-600mm-f4-l-is-usm.webp",
+    "launchPrice": 377000
   },
   {
     "id": "canon-rf-400mm-f2-8-l-is-usm",
@@ -18521,7 +18557,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-400mm-f2-8-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-400mm-f2-8-l-is-usm.webp",
+    "launchPrice": 350000
   },
   {
     "id": "canon-rf-70-200mm-f4-l-is-usm",
@@ -18554,7 +18591,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-70-200mm-f4-l-is-usm.webp"
+    "image_url": "/images/products/canon/canon-rf-70-200mm-f4-l-is-usm.webp",
+    "launchPrice": 47300
   },
   {
     "id": "canon-rf-85mm-f2-macro-is-stm",
@@ -18585,7 +18623,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-85mm-f2-macro-is-stm.webp"
+    "image_url": "/images/products/canon/canon-rf-85mm-f2-macro-is-stm.webp",
+    "launchPrice": 18900
   },
   {
     "id": "canon-rf-85mm-f1-2-l-usm-ds",
@@ -18654,7 +18693,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-24-240mm-f4-6-3-is-usm.webp",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 27900
   },
   {
     "id": "canon-rf-5-2mm-f2-8-l-dual-fisheye",
@@ -18836,7 +18876,8 @@
     "weightGrams": 770,
     "isoRange": "100-51200 (Ext: 50-102400)",
     "hasIBIS": false,
-    "evfMagnification": "0.76x"
+    "evfMagnification": "0.76x",
+    "launchPrice": 132900
   },
   {
     "id": "canon-eos-ra",
@@ -20032,7 +20073,8 @@
     "hasWeatherSeal": false,
     "hasApertureRing": true,
     "motorType": "Micromotor",
-    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r.webp",
+    "launchPrice": 30900
   },
   {
     "id": "fujifilm-xf-56mm-f1-2-r-apd",
@@ -20293,7 +20335,8 @@
     "dimensions": "133.5 x 90.4 x 76.5 mm",
     "weightGrams": 735,
     "image_url": "/images/products/fujifilm/fujifilm-gfx-100rf.webp",
-    "logSupport": "F-Log, F-Log2, HLG"
+    "logSupport": "F-Log, F-Log2, HLG",
+    "launchPrice": 162000
   },
   {
     "id": "fujifilm-gfx-eterna-55",
@@ -20436,7 +20479,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-e3.webp",
     "processor": "X-Processor Pro",
     "afTargets": "Human (Face/Eye)",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 27600
   },
   {
     "id": "fujifilm-x-t200",
@@ -21614,7 +21658,8 @@
     "ports": "USB 3.0, HDMI, mic, headphone",
     "weightGrams": 847,
     "hasWeatherSeal": true,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "launchPrice": 260000
   },
   {
     "id": "leica-sl2",
@@ -21825,7 +21870,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 640,
     "hasWeatherSeal": false,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "launchPrice": 140000
   },
   {
     "id": "leica-q-p",
@@ -22596,7 +22642,8 @@
     "dimensions": "Ø88 x 138 mm",
     "minAperture": "22",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-90mm-f2-8-4-asph-black",
-    "image_url": "/images/products/leica/leica-vario-elmarit-sl-24-90-f2-8-4-asph.webp"
+    "image_url": "/images/products/leica/leica-vario-elmarit-sl-24-90-f2-8-4-asph.webp",
+    "launchPrice": 160000
   },
   {
     "id": "leica-apo-vario-elmarit-sl-90-280-f2-8-4",
@@ -22947,7 +22994,8 @@
     "minAperture": "22",
     "coatings": "Aqua-Dura",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmar-sl-100-400-f5-6-3",
-    "image_url": "/images/products/leica/leica-vario-elmar-sl-100-400-f5-6-3.webp"
+    "image_url": "/images/products/leica/leica-vario-elmar-sl-100-400-f5-6-3.webp",
+    "launchPrice": 68800
   },
   {
     "id": "leica-super-vario-elmarit-sl-14-24-f2-8-asph",
@@ -23011,7 +23059,8 @@
     "maxMagnification": "0.22x",
     "filterSizeMm": 67,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/leica/leica-summicron-sl-35-f2-asph.webp"
+    "image_url": "/images/products/leica/leica-summicron-sl-35-f2-asph.webp",
+    "launchPrice": 70800
   },
   {
     "id": "leica-vario-elmarit-sl-70-200-f2-8-asph",
@@ -23408,7 +23457,8 @@
     "weightGrams": 402,
     "dimensions": "Ø74.5 x 83 mm",
     "coatings": "Aqua-Dura",
-    "image_url": "/images/products/leica/leica-summicron-sl-50-f2-asph.webp"
+    "image_url": "/images/products/leica/leica-summicron-sl-50-f2-asph.webp",
+    "launchPrice": 61000
   },
   {
     "id": "leica-vario-elmarit-sl-28-70-f2-8-asph",
@@ -24192,7 +24242,8 @@
     ],
     "image_url": "/images/products/nikon/nikon-z50-ii.webp",
     "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 29900
   },
   {
     "id": "sigma-85mm-f1-2-dg-art",
@@ -24748,7 +24799,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/sigma/sigma-17-40mm-f1-8-dc-art.webp"
+    "image_url": "/images/products/sigma/sigma-17-40mm-f1-8-dc-art.webp",
+    "launchPrice": 28980
   },
   {
     "id": "sigma-50-120mm-f2-8-dc-os-contemporary",
@@ -25335,7 +25387,8 @@
     ],
     "image_url": "/images/products/sony/sony-a7-v.webp",
     "logSupport": "S-Log3, S-Cinetone",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 78990
   },
   {
     "id": "sony-a7r-vi",
@@ -25374,7 +25427,8 @@
     ],
     "image_url": "/images/products/sony/sony-a7r-vi.webp",
     "logSupport": "S-Log3, S-Cinetone",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 129980
   },
   {
     "id": "sony-fx2",
@@ -25442,7 +25496,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-fx5.webp"
+    "image_url": "/images/products/sony/sony-fx5.webp",
+    "launchPrice": 144980
   },
   {
     "id": "sony-fe-28-70mm-f3-5-5-6-oss-ii",
@@ -25510,7 +25565,8 @@
     ],
     "image_url": "/images/products/sony/sony-fe-400mm-f4-5-gm-oss.webp",
     "motorType": "2x XD Linear Motor",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 82980
   },
   {
     "id": "sony-fe-600mm-f6-3-gm-oss",
@@ -25544,7 +25600,8 @@
     ],
     "image_url": "/images/products/sony/sony-fe-600mm-f6-3-gm-oss.webp",
     "motorType": "2x XD Linear Motor",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 115980
   },
   {
     "id": "sony-fe-8-14mm-f3-5-fisheye-g",
@@ -25579,7 +25636,8 @@
     "specialElements": "1 ED Aspherical, 4 ED, 3 Aspherical",
     "coatings": "Fluorine coating",
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 44980
   },
   {
     "id": "sony-fe-100-400mm-f4-5-gm-oss",
@@ -25614,7 +25672,8 @@
     ],
     "image_url": "/images/products/sony/sony-fe-100-400mm-f4-5-gm-oss.webp",
     "specialElements": "2 Super ED, 3 ED, 1 ED XA, 1 XA",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 129980
   },
   {
     "id": "sony-fe-100-400mm-f5-6-8-oss",
@@ -25648,7 +25707,8 @@
     ],
     "image_url": "/images/products/sony/sony-fe-100-400mm-f5-6-8-oss.webp",
     "hasApertureRing": false,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 24980
   },
   {
     "id": "sony-fe-50mm-f1-8",
@@ -25709,7 +25769,8 @@
       }
     ],
     "image_url": "/images/products/sony/sony-fe-85mm-f1-8.webp",
-    "hasOIS": false
+    "hasOIS": false,
+    "launchPrice": 18980
   },
   {
     "id": "sony-e-pz-18-110mm-f4-g-oss",
@@ -25741,7 +25802,8 @@
     "image_url": "/images/products/sony/sony-e-pz-18-110mm-f4-g-oss.webp",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 114980
   },
   {
     "id": "sony-fx6",
@@ -25768,7 +25830,9 @@
           "name": "Sony E"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/sony/sony-fx6.webp",
+    "launchPrice": 239980
   },
   {
     "id": "sony-e-16-55mm-f2-8-g",
@@ -25803,7 +25867,8 @@
     ],
     "image_url": "/images/products/sony/sony-e-16-55mm-f2-8-g.webp",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 34880
   },
   {
     "id": "sony-e-70-350mm-f4-5-6-3-g-oss",
@@ -25837,7 +25902,8 @@
     "image_url": "/images/products/sony/sony-e-70-350mm-f4-5-6-3-g-oss.webp",
     "specialElements": "3 ED, 1 Aspherical",
     "hasApertureRing": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 23880
   },
   {
     "id": "sony-e-15mm-f1-4-g",
@@ -25938,7 +26004,8 @@
     "motorType": "Linear Motor",
     "specialElements": "2 ED, 1 Aspherical",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 18880
   },
   {
     "id": "sony-e-pz-16-50mm-f3-5-5-6-oss-ii",
@@ -25971,7 +26038,8 @@
     "motorType": "Linear Motor",
     "specialElements": "4 Aspherical, 1 ED",
     "hasApertureRing": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 9680
   },
   {
     "id": "sony-e-10-18mm-f4-oss",
@@ -26058,7 +26126,8 @@
         }
       }
     ],
-    "image_url": "/images/products/sony/sony-e-35mm-f1-8-oss.webp"
+    "image_url": "/images/products/sony/sony-e-35mm-f1-8-oss.webp",
+    "launchPrice": 13880
   },
   {
     "id": "sony-e-16-70mm-f4-za-oss",
@@ -26214,7 +26283,8 @@
     "image_url": "/images/products/sony/sony-nex-6.webp",
     "processor": "BIONZ",
     "afTargets": "Human",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 24980
   },
   {
     "id": "sony-nex-5r",
@@ -26247,7 +26317,8 @@
     "processor": "BIONZ",
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 19980
   },
   {
     "id": "sony-nex-f3",
@@ -26346,7 +26417,8 @@
     "afTargets": "Human",
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/sony/sony-nex-5t.webp"
+    "image_url": "/images/products/sony/sony-nex-5t.webp",
+    "launchPrice": 17980
   },
   {
     "id": "sony-a5100",
@@ -26380,7 +26452,8 @@
     "afTargets": "Human",
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/sony/sony-a5100.webp"
+    "image_url": "/images/products/sony/sony-a5100.webp",
+    "launchPrice": 14980
   },
   {
     "id": "sony-a5000",
@@ -26897,7 +26970,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-28mm-f1-5-aspherical.webp"
   },
   {
     "id": "voigtlander-apo-lanthar-28mm-f2-aspherical",
@@ -26937,7 +27011,8 @@
     "sensorFormat": "Full Frame",
     "specialElements": "6 APD, 2 Aspherical",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-28mm-f2-aspherical.webp"
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -26971,7 +27046,8 @@
     ],
     "sensorFormat": "Full Frame",
     "specialElements": "1 Aspherical",
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/voigtlander/voigtlander-septon-40mm-f2-aspherical.webp"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -27016,7 +27092,9 @@
     ],
     "sensorFormat": "Full Frame",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-aspherical.webp",
+    "launchPrice": 56000
   },
   {
     "id": "voigtlander-portrait-heliar-75mm-f1-8",
@@ -27055,7 +27133,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-portrait-heliar-75mm-f1-8.webp"
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -27094,7 +27173,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-75mm-f1-5-aspherical.webp"
   },
   {
     "id": "voigtlander-color-skopar-18mm-f2-8-aspherical",
@@ -27123,7 +27203,8 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-18mm-f2-8-aspherical.webp"
   },
   {
     "id": "voigtlander-nokton-23mm-f1-2-aspherical",
@@ -27153,7 +27234,8 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-23mm-f1-2-aspherical.webp"
   },
   {
     "id": "voigtlander-ultron-27mm-f2",
@@ -27182,7 +27264,9 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-ultron-27mm-f2.webp",
+    "launchPrice": 15500
   },
   {
     "id": "voigtlander-nokton-35mm-f0-9-aspherical",
@@ -27212,7 +27296,8 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f0-9-aspherical.webp"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-x-mount",
@@ -27241,7 +27326,9 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-x-mount.webp",
+    "launchPrice": 18500
   },
   {
     "id": "voigtlander-macro-apo-ultron-35mm-f2",
@@ -27271,7 +27358,9 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-macro-apo-ultron-35mm-f2.webp",
+    "launchPrice": 21500
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-x-mount",
@@ -27300,7 +27389,8 @@
     ],
     "sensorFormat": "APS-C",
     "hasOIS": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-x-mount.webp"
   },
   {
     "id": "voigtlander-super-nokton-29mm-f0-8-aspherical",
@@ -27328,7 +27418,8 @@
       }
     ],
     "specialElements": "2 Aspherical",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 60000
   },
   {
     "id": "voigtlander-nokton-60mm-f0-95",
@@ -27356,7 +27447,9 @@
         }
       }
     ],
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-60mm-f0-95.webp",
+    "launchPrice": 38000
   },
   {
     "id": "viltrox-af-13mm-f1-4",
@@ -29035,7 +29128,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-10mm-f4-cookie.webp"
+    "image_url": "/images/products/laowa/laowa-10mm-f4-cookie.webp",
+    "launchPrice": 10800
   },
   {
     "id": "laowa-argus-45mm-f0-95-ff",
