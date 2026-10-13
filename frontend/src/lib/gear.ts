@@ -15,7 +15,8 @@ export type Gear = {
   sensorFormat?: string;
   series?: string;
   category?: string;
-  releaseYear?: number;
+  releaseYear?: number;   // year it was announced (kept separate so the year filter stays simple)
+  releaseMonth?: number;  // 1-12, month it was announced, when known
   launchPrice?: number;
   weightGrams?: number | string;
   dimensions?: string;
@@ -67,6 +68,17 @@ export function weightLabel(g: Gear) {
 
 export function weightValue(g: Gear) {
   return Number(String(g.weightGrams ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/)?.[0]) || undefined;
+}
+
+// "2026.09", or just "2026" when the month isn't known
+export function releaseLabel(g: Gear) {
+  if (!g.releaseYear) return undefined;
+  return g.releaseMonth ? `${g.releaseYear}.${String(g.releaseMonth).padStart(2, '0')}` : String(g.releaseYear);
+}
+
+// Sort key: a known month sorts after "month unknown" within the same year
+export function releaseKey(g: Gear) {
+  return (g.releaseYear || 0) * 100 + (g.releaseMonth || 0);
 }
 
 export function focalLength(g: Gear) {

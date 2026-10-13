@@ -5,7 +5,7 @@ import { usePathname, useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useRouter } from '@/i18n/routing';
 import ProductCard from '@/components/gear/ProductCard';
-import { weightValue, type Gear } from '@/lib/gear';
+import { releaseKey, weightValue, type Gear } from '@/lib/gear';
 import { useCompareIds } from '@/lib/compare';
 import FilterPanel, { EMPTY_FILTERS, PRICE_MAX, YEAR_MAX, YEAR_MIN, type FilterState } from './FilterPanel';
 
@@ -47,8 +47,9 @@ function matches(g: Gear, f: FilterState) {
 function compareGears(sortBy: string) {
   return (a: Gear, b: Gear) => {
     switch (sortBy) {
-      case 'newest': return (b.releaseYear || 0) - (a.releaseYear || 0);
-      case 'oldest': return (a.releaseYear || 0) - (b.releaseYear || 0);
+      // Same year and month: fall back to the name so the order is stable, not file order
+      case 'newest': return releaseKey(b) - releaseKey(a) || a.modelName.localeCompare(b.modelName);
+      case 'oldest': return releaseKey(a) - releaseKey(b) || a.modelName.localeCompare(b.modelName);
       case 'priceDesc': return (b.launchPrice || 0) - (a.launchPrice || 0);
       case 'priceAsc': return (a.launchPrice || 1e9) - (b.launchPrice || 1e9);
       case 'weightAsc': return (weightValue(a) || 1e5) - (weightValue(b) || 1e5);

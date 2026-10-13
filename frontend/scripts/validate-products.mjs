@@ -7,14 +7,14 @@ const root = new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1');
 const items = JSON.parse(readFileSync(process.argv[2] ?? join(root, 'src/data/products.json'), 'utf8'));
 
 const SHARED = ['id', 'slug', 'brand', 'modelName', 'gearType', 'aliases', 'image_url', 'officialUrl', 'mounts', 'sensorFormat', 'series',
-  'category', 'releaseYear', 'launchPrice', 'weightGrams', 'dimensions', 'hasWeatherSeal'];
+  'category', 'releaseYear', 'releaseMonth', 'launchPrice', 'weightGrams', 'dimensions', 'hasWeatherSeal'];
 const LENS = ['lensType', 'focalLengthMinMm', 'focalLengthMaxMm', 'apertureMax', 'minAperture', 'maxMagnification', 'closeFocus',
   'filterSizeMm', 'motorType', 'opticalDesign', 'specialElements', 'coatings', 'hasOIS', 'hasApertureRing', 'hasCustomButton'];
 const BODY = ['megapixels', 'sensorType', 'processor', 'isoRange', 'burstSpeed', 'afPoints', 'afTargets', 'afRange', 'hasIBIS',
   'ibisRating', 'videoResolution', 'videoColorDepth', 'logSupport', 'evfResolution', 'evfMagnification', 'lcdSpec', 'cardSlots',
   'batterySpec', 'ports'];
 const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...SHARED, ...BODY]) };
-const NUMBER = ['releaseYear', 'launchPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
+const NUMBER = ['releaseYear', 'releaseMonth', 'launchPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds']);
 const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch']);
@@ -58,6 +58,8 @@ for (const g of items) {
   for (const m of g.mounts ?? []) if (!MOUNTS.has(m?.mount?.name)) err(`unknown mount "${m?.mount?.name}"`);
 
   if (g.launchPrice !== undefined && !(g.launchPrice > 0)) err('launchPrice must be > 0 (leave it out when unknown)');
+  if (g.releaseMonth !== undefined && !(Number.isInteger(g.releaseMonth) && g.releaseMonth >= 1 && g.releaseMonth <= 12)) err('releaseMonth must be an integer 1-12');
+  if (g.releaseMonth !== undefined && !g.releaseYear) err('releaseMonth needs releaseYear');
   if (g.image_url && !existsSync(join(root, 'public', g.image_url))) err(`image not found: ${g.image_url}`);
   if (g.mounts && !(Array.isArray(g.mounts) && g.mounts.every(m => typeof m?.mount?.name === 'string'))) {
     err('mounts must look like [{ "mount": { "name": "Sony E" } }]');

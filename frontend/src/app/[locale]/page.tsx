@@ -2,6 +2,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/routing';
 import ProductCard from '@/components/gear/ProductCard';
 import { gears } from '@/lib/gear-data';
+import { releaseKey } from '@/lib/gear';
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -20,7 +21,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   const latest = [...gears]
     .filter(g => g.image_url)
-    .sort((a, b) => (b.releaseYear || 0) - (a.releaseYear || 0) || a.modelName.localeCompare(b.modelName))
+    .sort((a, b) => releaseKey(b) - releaseKey(a) || a.modelName.localeCompare(b.modelName))
     .slice(0, 8);
 
   return (

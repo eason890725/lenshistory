@@ -2,7 +2,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import BackButton from '../BackButton';
 import CompareButton from '../CompareButton';
-import { focalLength, weightLabel, weightValue } from '@/lib/gear';
+import { focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
 import { findGear } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
@@ -69,7 +69,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('weight'), weightLabel(gear)],
           [t('dimensions'), gear.dimensions],
           [t('series'), gear.series],
-          [t('releaseYear'), gear.releaseYear],
+          [t('releaseYear'), releaseLabel(gear)],
           [t('launchPrice'), price],
         ] },
       ]
@@ -103,7 +103,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('mount'), mounts],
           [t('weight'), weightLabel(gear)],
           [t('dimensions'), gear.dimensions],
-          [t('releaseYear'), gear.releaseYear],
+          [t('releaseYear'), releaseLabel(gear)],
           [t('launchPrice'), price],
         ] },
       ];
@@ -134,7 +134,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
             {shortName(gear)}
           </h1>
           <p className="mt-[var(--space-sm)] text-md text-ink-2">
-            {[kind, gear.sensorFormat, gear.releaseYear].filter(Boolean).join(' · ')}
+            {[kind, gear.sensorFormat, releaseLabel(gear)].filter(Boolean).join(' · ')}
           </p>
 
           <dl className="mt-[var(--space-lg)] grid grid-cols-[repeat(3,minmax(0,1fr))] border-y border-rule py-[var(--space-md)]">
