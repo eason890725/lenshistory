@@ -13248,7 +13248,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/10mm-f5-6.webp"
+    "image_url": "/images/products/voigtlander/10mm-f5-6.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -13406,7 +13407,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/12mm-f5-6-aspherical.webp"
+    "image_url": "/images/products/voigtlander/12mm-f5-6-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -13554,7 +13556,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/15mm-f4-5-iii.webp"
+    "image_url": "/images/products/voigtlander/15mm-f4-5-iii.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Tokina",
@@ -13596,7 +13599,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/tokina/20mm-f2-mf.webp"
+    "image_url": "/images/products/tokina/20mm-f2-mf.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -13635,7 +13639,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/21mm-f1-4-aspherical.webp",
-    "launchPrice": 39000
+    "launchPrice": 39000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Zeiss",
@@ -13711,7 +13716,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -13817,7 +13823,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -13972,7 +13979,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/35mm-f1-2-aspherical-se.webp",
-    "launchPrice": 32000
+    "launchPrice": 32000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14021,7 +14029,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14061,7 +14070,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/35mm-f2.webp",
-    "launchPrice": 32000
+    "launchPrice": 32000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14100,7 +14110,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical-se.webp"
+    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical-se.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14149,7 +14160,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical.webp"
+    "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Mitakon",
@@ -14203,7 +14215,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/mitakon/50mm-f0-95-iii.webp"
+    "image_url": "/images/products/mitakon/50mm-f0-95-iii.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14242,7 +14255,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/50mm-f1-2-aspherical-se.webp"
+    "image_url": "/images/products/voigtlander/50mm-f1-2-aspherical-se.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14282,7 +14296,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/50mm-f1-2-aspherical.webp",
-    "launchPrice": 33000
+    "launchPrice": 33000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Zeiss",
@@ -14321,7 +14336,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -14361,7 +14377,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/50mm-f2-apo-lanthar.webp",
-    "launchPrice": 32000
+    "launchPrice": 32000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -14453,7 +14470,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/voigtlander/65mm-f2-macro-apo-lanthar.webp"
+    "image_url": "/images/products/voigtlander/65mm-f2-macro-apo-lanthar.webp",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Zeiss",
@@ -14494,7 +14512,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
   },
   {
     "brand": "Laowa",
@@ -14703,7 +14722,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/110mm-f2-5-macro.webp",
-    "launchPrice": 34000
+    "launchPrice": 34000,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Samyang",
@@ -15665,7 +15685,8 @@
     "minAperture": "16",
     "specialElements": "4 ED, 3 Aspherical",
     "hasApertureRing": false,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "motorType": "Manual focus"
   },
   {
     "id": "nikon-z-105mm-f-2-8-vr-s-micro",
@@ -18724,7 +18745,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/canon/canon-rf-5-2mm-f2-8-l-dual-fisheye.webp"
+    "image_url": "/images/products/canon/canon-rf-5-2mm-f2-8-l-dual-fisheye.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "canon-eos-r6-v",
@@ -19975,7 +19997,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "image_url": "/images/products/fujifilm/fujifilm-gf-30mm-f5-6-t-s.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "fujifilm-gf-110mm-f5-6-t-s-macro",
@@ -20006,7 +20029,8 @@
     "filterSizeMm": 72,
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/fujifilm/fujifilm-gf-110mm-f5-6-t-s-macro.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-gf-110mm-f5-6-t-s-macro.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "fujifilm-xf-23mm-f1-4-r",
@@ -21693,7 +21717,8 @@
     "weightGrams": 916,
     "hasWeatherSeal": true,
     "launchPrice": 219000,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "image_url": "/images/products/leica/leica-sl2.webp"
   },
   {
     "id": "leica-sl2-s",
@@ -21727,7 +21752,8 @@
     "weightGrams": 931,
     "hasWeatherSeal": true,
     "launchPrice": 145000,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "image_url": "/images/products/leica/leica-sl2-s.webp"
   },
   {
     "id": "leica-sl3",
@@ -21947,7 +21973,8 @@
     "weightGrams": 734,
     "hasWeatherSeal": true,
     "launchPrice": 179000,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "image_url": "/images/products/leica/leica-q2-monochrom.webp"
   },
   {
     "id": "leica-q3",
@@ -22071,7 +22098,8 @@
     "ports": "USB 2.0",
     "weightGrams": 680,
     "hasWeatherSeal": true,
-    "launchPrice": 260000
+    "launchPrice": 260000,
+    "image_url": "/images/products/leica/leica-m-typ-240.webp"
   },
   {
     "id": "leica-m-e-typ-220",
@@ -22123,7 +22151,8 @@
     "ports": "USB 2.0",
     "weightGrams": 600,
     "hasWeatherSeal": false,
-    "launchPrice": 280000
+    "launchPrice": 280000,
+    "image_url": "/images/products/leica/leica-m-monochrom.webp"
   },
   {
     "id": "leica-m-p-typ-240",
@@ -22182,7 +22211,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 680,
     "hasWeatherSeal": false,
-    "launchPrice": 260000
+    "launchPrice": 260000,
+    "image_url": "/images/products/leica/leica-m-monochrom-typ-246.webp"
   },
   {
     "id": "leica-m-typ-262",
@@ -22696,7 +22726,8 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1.4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "image_url": "/images/products/leica/leica-summilux-sl-50-f1-4-asph.webp"
   },
   {
     "id": "leica-super-vario-elmar-sl-16-35-f3-5-4-5-asph",
@@ -26806,7 +26837,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-sz-8mm-f2-8-fish-eye.webp"
+    "image_url": "/images/products/tokina/tokina-sz-8mm-f2-8-fish-eye.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "zeiss-otus-ml-1-4-50",
@@ -26849,7 +26881,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasOIS": false,
-    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-50.webp"
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-50.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "zeiss-otus-ml-1-4-85",
@@ -26892,7 +26925,8 @@
     "sensorFormat": "Full Frame",
     "coatings": "ZEISS T*",
     "hasOIS": false,
-    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-85.webp"
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-85.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "zeiss-otus-ml-1-4-35",
@@ -26935,7 +26969,8 @@
     ],
     "sensorFormat": "Full Frame",
     "coatings": "ZEISS T*",
-    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-35.webp"
+    "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-35.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-28mm-f1-5-aspherical",
@@ -26971,7 +27006,8 @@
     "sensorFormat": "Full Frame",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-28mm-f1-5-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-28mm-f1-5-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-apo-lanthar-28mm-f2-aspherical",
@@ -27012,7 +27048,8 @@
     "specialElements": "6 APD, 2 Aspherical",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-28mm-f2-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-28mm-f2-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -27047,7 +27084,8 @@
     "sensorFormat": "Full Frame",
     "specialElements": "1 Aspherical",
     "hasOIS": false,
-    "image_url": "/images/products/voigtlander/voigtlander-septon-40mm-f2-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-septon-40mm-f2-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -27094,7 +27132,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-aspherical.webp",
-    "launchPrice": 56000
+    "launchPrice": 56000,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-portrait-heliar-75mm-f1-8",
@@ -27134,7 +27173,8 @@
     "sensorFormat": "Full Frame",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-portrait-heliar-75mm-f1-8.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-portrait-heliar-75mm-f1-8.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -27174,7 +27214,8 @@
     "sensorFormat": "Full Frame",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-75mm-f1-5-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-75mm-f1-5-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-color-skopar-18mm-f2-8-aspherical",
@@ -27204,7 +27245,8 @@
     "sensorFormat": "APS-C",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-18mm-f2-8-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-18mm-f2-8-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-23mm-f1-2-aspherical",
@@ -27235,7 +27277,8 @@
     "sensorFormat": "APS-C",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-23mm-f1-2-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-23mm-f1-2-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-ultron-27mm-f2",
@@ -27266,7 +27309,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-ultron-27mm-f2.webp",
-    "launchPrice": 15500
+    "launchPrice": 15500,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-35mm-f0-9-aspherical",
@@ -27297,7 +27341,8 @@
     "sensorFormat": "APS-C",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f0-9-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f0-9-aspherical.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-x-mount",
@@ -27328,7 +27373,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-x-mount.webp",
-    "launchPrice": 18500
+    "launchPrice": 18500,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-macro-apo-ultron-35mm-f2",
@@ -27360,7 +27406,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-macro-apo-ultron-35mm-f2.webp",
-    "launchPrice": 21500
+    "launchPrice": 21500,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-x-mount",
@@ -27390,7 +27437,8 @@
     "sensorFormat": "APS-C",
     "hasOIS": false,
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-x-mount.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-x-mount.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-super-nokton-29mm-f0-8-aspherical",
@@ -27419,7 +27467,8 @@
     ],
     "specialElements": "2 Aspherical",
     "hasApertureRing": true,
-    "launchPrice": 60000
+    "launchPrice": 60000,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-60mm-f0-95",
@@ -27449,7 +27498,8 @@
     ],
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-60mm-f0-95.webp",
-    "launchPrice": 38000
+    "launchPrice": 38000,
+    "motorType": "Manual focus"
   },
   {
     "id": "viltrox-af-13mm-f1-4",
@@ -28348,7 +28398,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/samyang-mf-14mm-f2-8-z.webp",
     "hasOIS": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "samyang-mf-85mm-f1-4-z",
@@ -28386,7 +28437,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/samyang-mf-85mm-f1-4-z.webp",
     "hasOIS": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "samyang-85mm-f1-8-ed-umc-cs",
@@ -28428,7 +28480,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/samyang/samyang-85mm-f1-8-ed-umc-cs.webp",
     "hasOIS": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-szx-super-tele-400mm-f8-reflex-mf",
@@ -28488,7 +28541,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tokina/tokina-szx-super-tele-400mm-f8-reflex-mf.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-sz-super-tele-500mm-f8-reflex-mf",
@@ -28543,7 +28597,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tokina/tokina-sz-super-tele-500mm-f8-reflex-mf.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-sz-300mmpro-reflex-f7-1-mf-cf",
@@ -28578,7 +28633,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-300mmpro-reflex-f7-1-mf-cf.webp",
     "filterSizeMm": 46,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-sz-600mmpro-reflex-f8-mf-cf",
@@ -28613,7 +28669,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-600mmpro-reflex-f8-mf-cf.webp",
     "filterSizeMm": 77,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-sz-900mmpro-reflex-f11-mf-cf",
@@ -28648,7 +28705,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-900mmpro-reflex-f11-mf-cf.webp",
     "filterSizeMm": 86,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "laowa-acris-35mm-f2-8-1x-af-macro-apo",
@@ -28978,7 +29036,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/laowa/laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo.webp"
   },
   {
     "id": "laowa-6mm-f2-zero-d-mft",
@@ -29643,7 +29702,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasApertureRing": true,
-    "image_url": "/images/products/samyang/samyang-xeen-meister-50mm-t1-3.webp"
+    "image_url": "/images/products/samyang/samyang-xeen-meister-50mm-t1-3.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "viltrox-af-35mm-f1-8-evo",
@@ -30068,7 +30128,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/tokina/tokina-sz-33mm-f1-2-mf.webp"
+    "image_url": "/images/products/tokina/tokina-sz-33mm-f1-2-mf.webp",
+    "motorType": "Manual focus"
   },
   {
     "id": "viltrox-mf-20mm-f1-8",
@@ -30103,6 +30164,7 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/viltrox/viltrox-mf-20mm-f1-8.webp"
+    "image_url": "/images/products/viltrox/viltrox-mf-20mm-f1-8.webp",
+    "motorType": "Manual focus"
   }
 ]

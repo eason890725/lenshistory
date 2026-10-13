@@ -17,7 +17,7 @@ const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...
 const NUMBER = ['releaseYear', 'launchPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds']);
-const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', '1-inch']);
+const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch']);
 // House style for free-text fields (scripts/normalize_products.py rewrites most variants into these)
 const STYLE = {
   closeFocus: /^\d+(\.\d+)?m\b/,

@@ -39,6 +39,9 @@ editorial — 器材型錄 / 檔案館。
 - 統一格式由 `frontend/scripts/normalize_products.py` 改寫（例如 "0.28m"、"0.25x"、"14 elements in 11 groups"、"Ø76 x 96 mm"、"10fps (Mech) / 30fps (Elec)"）。
 - `npm run validate` 會擋下不符格式的值、未知的卡口名稱與片幅名稱。
 - 新增資料後先跑 normalize，再跑 validate。
+- `launchPrice` 是台灣新台幣**首發**建議售價：來自台灣分公司／總代理公告或台灣媒體的上市報導。現價、促銷價、外幣換算價都不收。
+  例外：上市 6 個月內的新品，可以用台灣官方商店目前標示的建議售價（2026-10 起的規則）。
+- `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
 
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。
