@@ -30166,5 +30166,3061 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/viltrox-mf-20mm-f1-8.webp",
     "motorType": "Manual focus"
+  },
+  {
+    "id": "fujifilm-x-half",
+    "slug": "fujifilm-x-half",
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm X half",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/cameras/x-hf1/specifications/",
+    "releaseYear": 2025,
+    "sensorFormat": "1-inch",
+    "megapixels": "17.7MP",
+    "isoRange": "200-12800",
+    "videoResolution": "Full HD 24p",
+    "evfMagnification": "0.38x (OVF)",
+    "lcdSpec": "2.4-inch 0.92M-dot fixed touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "NP-W126S (880 shots CIPA)",
+    "ports": "USB-C (USB 2.0)",
+    "dimensions": "105.8 x 64.3 x 45.8 mm",
+    "weightGrams": 240,
+    "image_url": "/images/products/fujifilm/fujifilm-x-half.webp"
+  },
+  {
+    "id": "fujifilm-mkx-18-55mm-t2-9",
+    "slug": "fujifilm-mkx-18-55mm-t2-9",
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm MKX 18-55mm T2.9",
+    "gearType": "LENS",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/lenses/mkx18-55mmt29/specifications/",
+    "releaseYear": 2018,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 55,
+    "apertureMax": "T2.9",
+    "minAperture": "22",
+    "opticalDesign": "22 elements in 17 groups",
+    "specialElements": "6 Super ED, 2 ED",
+    "closeFocus": "0.85m",
+    "filterSizeMm": 82,
+    "dimensions": "Ø87 x 206.6 mm",
+    "weightGrams": 1100,
+    "image_url": "/images/products/fujifilm/fujifilm-mkx-18-55mm-t2-9.webp"
+  },
+  {
+    "id": "fujifilm-mkx-50-135mm-t2-9",
+    "slug": "fujifilm-mkx-50-135mm-t2-9",
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm MKX 50-135mm T2.9",
+    "gearType": "LENS",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/lenses/mkx50-135mmt29/specifications/",
+    "releaseYear": 2018,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 135,
+    "apertureMax": "T2.9",
+    "minAperture": "22",
+    "opticalDesign": "22 elements in 17 groups",
+    "specialElements": "2 Super ED, 2 ED",
+    "closeFocus": "1.2m",
+    "filterSizeMm": 82,
+    "dimensions": "Ø87 x 206.6 mm",
+    "weightGrams": 1100,
+    "image_url": "/images/products/fujifilm/fujifilm-mkx-50-135mm-t2-9.webp"
+  },
+  {
+    "id": "zeiss-loxia-2-35",
+    "slug": "zeiss-loxia-2-35",
+    "brand": "Zeiss",
+    "modelName": "Zeiss Loxia 2/35",
+    "gearType": "LENS",
+    "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2,
+    "minAperture": "22",
+    "opticalDesign": "9 elements in 6 groups",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.17x",
+    "filterSizeMm": 52,
+    "dimensions": "Ø62.1 x 59.2 mm",
+    "weightGrams": 340,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame"
+  },
+  {
+    "id": "zeiss-touit-2-8-12",
+    "slug": "zeiss-touit-2-8-12",
+    "brand": "Zeiss",
+    "modelName": "Zeiss Touit 2.8/12",
+    "gearType": "LENS",
+    "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/touit-lenses.html",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 12,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "11 elements in 8 groups",
+    "closeFocus": "0.18m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 67,
+    "weightGrams": 260,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C"
+  },
+  {
+    "id": "zeiss-touit-1-8-32",
+    "slug": "zeiss-touit-1-8-32",
+    "brand": "Zeiss",
+    "modelName": "Zeiss Touit 1.8/32",
+    "gearType": "LENS",
+    "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/touit-lenses.html",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 32,
+    "focalLengthMaxMm": 32,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "opticalDesign": "8 elements in 5 groups",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 52,
+    "weightGrams": 200,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C"
+  },
+  {
+    "id": "zeiss-touit-2-8-50m",
+    "slug": "zeiss-touit-2-8-50m",
+    "brand": "Zeiss",
+    "modelName": "Zeiss Touit 2.8/50M",
+    "gearType": "LENS",
+    "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/touit-lenses.html",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "14 elements in 11 groups",
+    "closeFocus": "0.15m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 52,
+    "weightGrams": 290,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C"
+  },
+  {
+    "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-ii",
+    "slug": "voigtlander-apo-lanthar-35mm-f2-aspherical-ii",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer APO-LANTHAR 35mm F2 Aspherical II",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/z-mount/apo-lanthar-35mm-f2-aspherical-ii/",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "5 Anomalous Partial Dispersion, 2 Aspherical",
+    "closeFocus": "0.27m",
+    "maxMagnification": "0.22x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø68.8 x 70.4 mm",
+    "weightGrams": 420,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-ii",
+    "slug": "voigtlander-apo-lanthar-50mm-f2-aspherical-ii",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer APO-LANTHAR 50mm F2 Aspherical II",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/z-mount/apo-lanthar-50mm-f2-aspherical-ii/",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 2,
+    "minAperture": "16",
+    "opticalDesign": "10 elements in 8 groups",
+    "specialElements": "5 Anomalous Partial Dispersion, 2 Aspherical",
+    "closeFocus": "0.45m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø68.8 x 64.3 mm",
+    "weightGrams": 370,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "voigtlander-super-wide-heliar-15mm-f4-5-aspherical-z",
+    "slug": "voigtlander-super-wide-heliar-15mm-f4-5-aspherical-z",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer SUPER WIDE-HELIAR 15mm F4.5 Aspherical (Z-mount)",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/z-mount/super-wide-heliar-15mm-f4-5-aspherical/",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": 4.5,
+    "minAperture": "22",
+    "opticalDesign": "11 elements in 9 groups",
+    "closeFocus": "0.126m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø67.6 x 67 mm",
+    "weightGrams": 290,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "hasApertureRing": true
+  },
+  {
+    "id": "voigtlander-nokton-10-5mm-f0-95-aspherical",
+    "slug": "voigtlander-nokton-10-5mm-f0-95-aspherical",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer NOKTON 10.5mm F0.95 Aspherical",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/micro-four-thirds/nokton-10-5mm-f0-95-aspherical/",
+    "releaseYear": 2015,
+    "focalLengthMinMm": 10.5,
+    "focalLengthMaxMm": 10.5,
+    "apertureMax": 0.95,
+    "minAperture": "16",
+    "opticalDesign": "13 elements in 10 groups",
+    "specialElements": "2 Aspherical",
+    "closeFocus": "0.17m",
+    "maxMagnification": "0.12x",
+    "filterSizeMm": 72,
+    "dimensions": "Ø77 x 82.4 mm",
+    "weightGrams": 585,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "hasApertureRing": true
+  },
+  {
+    "id": "voigtlander-nokton-17-5mm-f0-95-aspherical",
+    "slug": "voigtlander-nokton-17-5mm-f0-95-aspherical",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer NOKTON 17.5mm F0.95 Aspherical",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/micro-four-thirds/nokton-17-5mm-f0-95-aspherical/",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 17.5,
+    "focalLengthMaxMm": 17.5,
+    "apertureMax": 0.95,
+    "minAperture": "16",
+    "opticalDesign": "13 elements in 9 groups",
+    "closeFocus": "0.15m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø63.4 x 80 mm",
+    "weightGrams": 540,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "hasApertureRing": true
+  },
+  {
+    "id": "voigtlander-nokton-25mm-f0-95-type-ii",
+    "slug": "voigtlander-nokton-25mm-f0-95-type-ii",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer NOKTON 25mm F0.95 Type II",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/micro-four-thirds/nokton-25mm-f0-95-type-ii/",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 0.95,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 8 groups",
+    "closeFocus": "0.17m",
+    "maxMagnification": "0.26x",
+    "filterSizeMm": 52,
+    "dimensions": "Ø60.6 x 70 mm",
+    "weightGrams": 435,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "hasApertureRing": true
+  },
+  {
+    "id": "voigtlander-nokton-42-5mm-f0-95",
+    "slug": "voigtlander-nokton-42-5mm-f0-95",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer NOKTON 42.5mm F0.95",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/en/micro-four-thirds/nokton-42-5mm-f0-95/",
+    "releaseYear": 2013,
+    "focalLengthMinMm": 42.5,
+    "focalLengthMaxMm": 42.5,
+    "apertureMax": 0.95,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 8 groups",
+    "closeFocus": "0.23m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø64.3 x 74.6 mm",
+    "weightGrams": 571,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds"
+  },
+  {
+    "id": "tokina-reflex-300mm-f6-3-mf-macro",
+    "slug": "tokina-reflex-300mm-f6-3-mf-macro",
+    "brand": "Tokina",
+    "modelName": "Tokina Reflex 300mm F6.3 MF MACRO",
+    "gearType": "LENS",
+    "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/tokina/macro-lenses/reflex_300mm_f63_mf_macro/",
+    "releaseYear": 2012,
+    "focalLengthMinMm": 300,
+    "focalLengthMaxMm": 300,
+    "apertureMax": 6.3,
+    "opticalDesign": "7 elements in 3 groups",
+    "closeFocus": "0.8m",
+    "maxMagnification": "0.5x",
+    "filterSizeMm": 55,
+    "dimensions": "Ø66 x 66 mm",
+    "weightGrams": 298,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Four Thirds",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/tokina/tokina-reflex-300mm-f6-3-mf-macro.webp"
+  },
+  {
+    "id": "sirui-sniper-16mm-f1-2",
+    "slug": "sirui-sniper-16mm-f1-2",
+    "brand": "Sirui",
+    "modelName": "Sirui Sniper 16mm F1.2 APS-C Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 16,
+    "focalLengthMaxMm": 16,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "14 elements in 5 groups",
+    "specialElements": "3 ED, 2 High Refractive Index, 2 Aspherical",
+    "closeFocus": "0.3m",
+    "filterSizeMm": 58,
+    "weightGrams": 384,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-sniper-75mm-f1-2",
+    "slug": "sirui-sniper-75mm-f1-2",
+    "brand": "Sirui",
+    "modelName": "Sirui Sniper 75mm F1.2 APS-C Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "13 elements in 9 groups",
+    "specialElements": "4 High Refractive Index",
+    "closeFocus": "0.7m",
+    "filterSizeMm": 67,
+    "weightGrams": 466,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-sniper-23mm-f1-2",
+    "slug": "sirui-sniper-23mm-f1-2",
+    "brand": "Sirui",
+    "modelName": "Sirui Sniper 23mm F1.2 APS-C Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 23,
+    "focalLengthMaxMm": 23,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "12 elements in 11 groups",
+    "specialElements": "6 High Refractive Index",
+    "closeFocus": "0.3m",
+    "filterSizeMm": 58,
+    "weightGrams": 381,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-sniper-33mm-f1-2",
+    "slug": "sirui-sniper-33mm-f1-2",
+    "brand": "Sirui",
+    "modelName": "Sirui Sniper 33mm F1.2 APS-C Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 33,
+    "focalLengthMaxMm": 33,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 10 groups",
+    "specialElements": "1 ED, 1 High Refractive Index",
+    "closeFocus": "0.4m",
+    "filterSizeMm": 58,
+    "weightGrams": 400,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-sniper-56mm-f1-2",
+    "slug": "sirui-sniper-56mm-f1-2",
+    "brand": "Sirui",
+    "modelName": "Sirui Sniper 56mm F1.2 APS-C Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 56,
+    "focalLengthMaxMm": 56,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "12 elements in 11 groups",
+    "specialElements": "1 ED, 4 High Refractive Index",
+    "closeFocus": "0.6m",
+    "filterSizeMm": 58,
+    "weightGrams": 422,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-vision-prime-24mm-t1-4",
+    "slug": "sirui-vision-prime-24mm-t1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 24mm T1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/vision-prime-1-series-t1-4-full-frame-cine-lens",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 24,
+    "apertureMax": "T1.4",
+    "minAperture": "T16",
+    "opticalDesign": "14 elements in 11 groups",
+    "closeFocus": "0.26m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80 x 107.2 mm",
+    "weightGrams": 597,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "sirui-vision-prime-35mm-t1-4",
+    "slug": "sirui-vision-prime-35mm-t1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 35mm T1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/vision-prime-1-series-t1-4-full-frame-cine-lens",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": "T1.4",
+    "minAperture": "T16",
+    "opticalDesign": "14 elements in 11 groups",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.16x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80 x 106 mm",
+    "weightGrams": 590,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "sirui-vision-prime-50mm-t1-4",
+    "slug": "sirui-vision-prime-50mm-t1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 50mm T1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/vision-prime-1-series-t1-4-full-frame-cine-lens",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": "T1.4",
+    "minAperture": "T16",
+    "opticalDesign": "14 elements in 11 groups",
+    "closeFocus": "0.43m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80 x 102.2 mm",
+    "weightGrams": 599,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "meike-55mm-f1-4-apsc-af",
+    "slug": "meike-55mm-f1-4-apsc-af",
+    "brand": "Meike",
+    "modelName": "Meike 55mm F1.4 APS-C STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/5514x",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 55,
+    "focalLengthMaxMm": 55,
+    "apertureMax": 1.4,
+    "opticalDesign": "11 elements in 8 groups",
+    "closeFocus": "0.61m",
+    "filterSizeMm": 52,
+    "weightGrams": 286,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "meike-35mm-f2-ff-af",
+    "slug": "meike-35mm-f2-ff-af",
+    "brand": "Meike",
+    "modelName": "Meike 35mm F2 Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/3520e",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/meike/meike-35mm-f2-ff-af.webp"
+  },
+  {
+    "id": "meike-55mm-f1-8-pro",
+    "slug": "meike-55mm-f1-8-pro",
+    "brand": "Meike",
+    "modelName": "Meike 55mm F1.8 Pro Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/5518e",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 55,
+    "focalLengthMaxMm": 55,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/meike/meike-55mm-f1-8-pro.webp"
+  },
+  {
+    "id": "meike-85mm-f1-8-pro",
+    "slug": "meike-85mm-f1-8-pro",
+    "brand": "Meike",
+    "modelName": "Meike 85mm F1.8 Pro Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/8518proe",
+    "releaseYear": 2024,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "motorType": "STM",
+    "image_url": "/images/products/meike/meike-85mm-f1-8-pro.webp"
+  },
+  {
+    "id": "meike-35mm-f1-8-pro",
+    "slug": "meike-35mm-f1-8-pro",
+    "brand": "Meike",
+    "modelName": "Meike 35mm F1.8 Pro Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/3518proe",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/meike/meike-35mm-f1-8-pro.webp"
+  },
+  {
+    "id": "meike-24mm-f1-4-mix",
+    "slug": "meike-24mm-f1-4-mix",
+    "brand": "Meike",
+    "modelName": "Meike 24mm F1.4 MIX Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/2414e",
+    "releaseYear": 2025,
+    "image_url": "/images/products/meike/meike-24mm-f1-4-mix.webp"
+  },
+  {
+    "id": "meike-85mm-f1-8-se-mark-ii",
+    "slug": "meike-85mm-f1-8-se-mark-ii",
+    "brand": "Meike",
+    "modelName": "Meike 85mm F1.8 SE Mark II Full Frame STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/8518ii-se-e-mount",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/meike/meike-85mm-f1-8-se-mark-ii.webp"
+  },
+  {
+    "id": "meike-23mm-f1-4-apsc-af",
+    "slug": "meike-23mm-f1-4-apsc-af",
+    "brand": "Meike",
+    "modelName": "Meike 23mm F1.4 APS-C STM Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/2314e",
+    "releaseYear": 2025,
+    "image_url": "/images/products/meike/meike-23mm-f1-4-apsc-af.webp"
+  },
+  {
+    "id": "meike-56mm-f1-7-air",
+    "slug": "meike-56mm-f1-7-air",
+    "brand": "Meike",
+    "modelName": "Meike 56mm F1.7 Air APS-C Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/5617e",
+    "releaseYear": 2026,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
+  },
+  {
+    "id": "meike-85mm-f1-4-mix-ii",
+    "slug": "meike-85mm-f1-4-mix-ii",
+    "brand": "Meike",
+    "modelName": "Meike 85mm F1.4 MIX II Full Frame Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/8514iie",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "apertureMax": 1.4,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/meike/meike-85mm-f1-4-mix-ii.webp"
+  },
+  {
+    "id": "meike-25mm-f1-7-air",
+    "slug": "meike-25mm-f1-7-air",
+    "brand": "Meike",
+    "modelName": "Meike 25mm F1.7 Air APS-C Auto Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/2517e",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.7,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/meike/meike-25mm-f1-7-air.webp"
+  },
+  {
+    "id": "meike-85mm-f1-8-gfx",
+    "slug": "meike-85mm-f1-8-gfx",
+    "brand": "Meike",
+    "modelName": "Meike 85mm F1.8 Medium Format Auto Focus (G Mount)",
+    "gearType": "LENS",
+    "officialUrl": "https://meikeglobal.com/products/8518g",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "image_url": "/images/products/meike/meike-85mm-f1-8-gfx.webp"
+  },
+  {
+    "id": "7artisans-af-50mm-f1-8",
+    "slug": "7artisans-af-50mm-f1-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 50mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/50mm-f1-8-af-lens",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/7artisans/7artisans-af-50mm-f1-8.webp"
+  },
+  {
+    "id": "7artisans-af-27mm-f2-8",
+    "slug": "7artisans-af-27mm-f2-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 27mm F2.8 APS-C",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/27mm-f2-8-af-aps-c-lens-for-e",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 27,
+    "focalLengthMaxMm": 27,
+    "apertureMax": 2.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C"
+  },
+  {
+    "id": "7artisans-af-35mm-f1-4",
+    "slug": "7artisans-af-35mm-f1-4",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 35mm F1.4 APS-C",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-35mm-f1-4",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-35mm-f1-4.webp"
+  },
+  {
+    "id": "7artisans-af-24mm-f1-8",
+    "slug": "7artisans-af-24mm-f1-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 24mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-24mm-f1-8-full-frame-lens-for-e",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 24,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/7artisans/7artisans-af-24mm-f1-8.webp"
+  },
+  {
+    "id": "7artisans-af-35mm-f1-8",
+    "slug": "7artisans-af-35mm-f1-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 35mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-35mm-f1-8-full-frame-lens-for-e-z-l",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/7artisans/7artisans-af-35mm-f1-8.webp"
+  },
+  {
+    "id": "7artisans-af-10mm-f2-8",
+    "slug": "7artisans-af-10mm-f2-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 10mm F2.8 APS-C Ultra Wide-angle",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-10mm-f2-8-aps-c-lens-for-e-fx-z",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 10,
+    "focalLengthMaxMm": 10,
+    "apertureMax": 2.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-10mm-f2-8.webp"
+  },
+  {
+    "id": "7artisans-af-135mm-f1-8",
+    "slug": "7artisans-af-135mm-f1-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 135mm F1.8",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-135mm-f1-8-full-frame-lens-for-e-z-l",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 135,
+    "focalLengthMaxMm": 135,
+    "apertureMax": 1.8,
+    "filterSizeMm": 82,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/7artisans/7artisans-af-135mm-f1-8.webp"
+  },
+  {
+    "id": "7artisans-af-40mm-f2-5-lite",
+    "slug": "7artisans-af-40mm-f2-5-lite",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 40mm F2.5 Lite",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-40mm-f2-5-full-frame-lens-for-e-z-l",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 40,
+    "apertureMax": 2.5,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/7artisans/7artisans-af-40mm-f2-5-lite.webp"
+  },
+  {
+    "id": "7artisans-af-25mm-f1-8-aps-c-lite",
+    "slug": "7artisans-af-25mm-f1-8-aps-c-lite",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 25mm F1.8 APS-C Lite",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 25,
+    "focalLengthMaxMm": 25,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-25mm-f1-8-aps-c-lite.webp"
+  },
+  {
+    "id": "7artisans-af-35mm-f1-8-aps-c-lite",
+    "slug": "7artisans-af-35mm-f1-8-aps-c-lite",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 35mm F1.8 APS-C Lite",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-35mm-f1-8-aps-c-lite.webp"
+  },
+  {
+    "id": "7artisans-af-50mm-f1-8-aps-c-lite",
+    "slug": "7artisans-af-50mm-f1-8-aps-c-lite",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 50mm F1.8 APS-C Lite",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-50mm-f1-8-aps-c-lite.webp"
+  },
+  {
+    "id": "7artisans-af-10mm-f2-5-fisheye",
+    "slug": "7artisans-af-10mm-f2-5-fisheye",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 10mm F2.5 Fisheye",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-10mm-f2-5-full-frame-lens-for-e-z-l",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 10,
+    "focalLengthMaxMm": 10,
+    "apertureMax": 2.5,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/7artisans/7artisans-af-10mm-f2-5-fisheye.webp"
+  },
+  {
+    "id": "7artisans-af-18mm-f2",
+    "slug": "7artisans-af-18mm-f2",
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 18mm F2 APS-C",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/af-18mm-f2-aps-c-lens-for-e-fx",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 18,
+    "apertureMax": 2,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/7artisans/7artisans-af-18mm-f2.webp"
+  },
+  {
+    "id": "7artisans-35mm-f1-4-iii",
+    "slug": "7artisans-35mm-f1-4-iii",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 35mm F1.4 III",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/7artisans/7artisans-35mm-f1-4-iii.webp"
+  },
+  {
+    "id": "7artisans-10mm-f2-8-fisheye-ii",
+    "slug": "7artisans-10mm-f2-8-fisheye-ii",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 10mm F2.8 Mark II Fisheye",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 10,
+    "focalLengthMaxMm": 10,
+    "apertureMax": 2.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/7artisans/7artisans-10mm-f2-8-fisheye-ii.webp"
+  },
+  {
+    "id": "7artisans-10mm-f3-5",
+    "slug": "7artisans-10mm-f3-5",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 10mm F3.5 APS-C",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/10mm-f-3-5-aps-c-lens-for-sony-e-fuji-x-nikon-z-panasonic-olympus-m43",
+    "releaseYear": 2025,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/7artisans/7artisans-10mm-f3-5.webp"
+  },
+  {
+    "id": "7artisans-14mm-f2-8",
+    "slug": "7artisans-14mm-f2-8",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 14mm F2.8",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 14,
+    "apertureMax": 2.8,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/7artisans/7artisans-14mm-f2-8.webp"
+  },
+  {
+    "id": "7artisans-75mm-f1-4",
+    "slug": "7artisans-75mm-f1-4",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 75mm F1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/75mm-f-1-4-full-frame-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l-lumix-s",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": 1.4,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/7artisans/7artisans-75mm-f1-4.webp"
+  },
+  {
+    "id": "7artisans-6mm-f2-fisheye",
+    "slug": "7artisans-6mm-f2-fisheye",
+    "brand": "7Artisans",
+    "modelName": "7Artisans 6mm F2 APS-C Fisheye",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/mf-6mm-f-2-0-aps-c-lens-for-sony-e-fuji-x-eos-r-nikon-z-panasonic-olympus-m43",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 6,
+    "focalLengthMaxMm": 6,
+    "apertureMax": 2,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "Manual focus",
+    "image_url": "/images/products/7artisans/7artisans-6mm-f2-fisheye.webp"
+  },
+  {
+    "id": "7artisans-dream-35mm-t1-5",
+    "slug": "7artisans-dream-35mm-t1-5",
+    "brand": "7Artisans",
+    "modelName": "7Artisans Dream 35mm T1.5 Cine",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/mf-35-50-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": "T1.5",
+    "filterSizeMm": 82,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "7artisans-dream-50mm-t1-5",
+    "slug": "7artisans-dream-50mm-t1-5",
+    "brand": "7Artisans",
+    "modelName": "7Artisans Dream 50mm T1.5 Cine",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/mf-35-50-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": "T1.5",
+    "filterSizeMm": 82,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "7artisans-dream-75mm-t1-5",
+    "slug": "7artisans-dream-75mm-t1-5",
+    "brand": "7Artisans",
+    "modelName": "7Artisans Dream 75mm T1.5 Cine",
+    "gearType": "LENS",
+    "officialUrl": "https://7artisans.store/products/mf-35-50-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": "T1.5",
+    "filterSizeMm": 82,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-speedmaster-80mm-f1-6",
+    "slug": "mitakon-speedmaster-80mm-f1-6",
+    "brand": "Mitakon",
+    "modelName": "Mitakon Speedmaster 80mm f/1.6",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-speedmaster-80mm-f-1-6/",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 80,
+    "focalLengthMaxMm": 80,
+    "apertureMax": 1.6,
+    "minAperture": "22",
+    "opticalDesign": "10 elements in 6 groups",
+    "specialElements": "4 High Refractive Index, 1 UD",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.26x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø83 x 83.2 mm",
+    "weightGrams": 850,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      },
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-55mm-f2-8-1-5x-macro",
+    "slug": "mitakon-55mm-f2-8-1-5x-macro",
+    "brand": "Mitakon",
+    "modelName": "Mitakon 55mm f/2.8 1-5X Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-55mm-f-2-8-1-5x-macro-lens/",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 55,
+    "focalLengthMaxMm": 55,
+    "apertureMax": 2.8,
+    "opticalDesign": "13 elements in 8 groups",
+    "closeFocus": "0.272m",
+    "maxMagnification": "5.0x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø67 x 87 mm",
+    "weightGrams": 690,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-zhongyi-pittura-30mm-f2-4",
+    "slug": "mitakon-zhongyi-pittura-30mm-f2-4",
+    "brand": "Mitakon",
+    "modelName": "Zhongyi Pittura 30mm f/2.4",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/zhong-yi-pittura-30mm-f-2-4/",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 30,
+    "focalLengthMaxMm": 30,
+    "apertureMax": 2.4,
+    "minAperture": "22",
+    "opticalDesign": "13 elements in 12 groups",
+    "closeFocus": "0.2m",
+    "filterSizeMm": 58,
+    "dimensions": "Ø81 x 80 mm",
+    "weightGrams": 550,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      },
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
+  },
+  {
+    "id": "mitakon-200mm-f4-1x-apo-macro",
+    "slug": "mitakon-200mm-f4-1x-apo-macro",
+    "brand": "Mitakon",
+    "modelName": "Mitakon 200mm f/4 1x APO Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-200mm-f-4-1x-macro-lens/",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 200,
+    "focalLengthMaxMm": 200,
+    "apertureMax": 4,
+    "minAperture": "32",
+    "opticalDesign": "11 elements in 7 groups",
+    "closeFocus": "0.48m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø75 x 186 mm",
+    "weightGrams": 1300,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-speedmaster-90mm-f1-5",
+    "slug": "mitakon-speedmaster-90mm-f1-5",
+    "brand": "Mitakon",
+    "modelName": "Mitakon Speedmaster 90mm f/1.5",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-speedmaster-90-f-1-5-lens/",
+    "releaseYear": 2021,
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 1.5,
+    "minAperture": "16",
+    "opticalDesign": "9 elements in 6 groups",
+    "specialElements": "2 ED, 1 Ultra High Refractive Index",
+    "closeFocus": "1.1m",
+    "maxMagnification": "0.09x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø74 x 102 mm",
+    "weightGrams": 770,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-speedmaster-65mm-f1-4-gfx",
+    "slug": "mitakon-speedmaster-65mm-f1-4-gfx",
+    "brand": "Mitakon",
+    "modelName": "Mitakon Speedmaster 65mm f/1.4 (GFX)",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-speedmaster-65mm-f-1-4-gfx-ii/",
+    "releaseYear": 2018,
+    "focalLengthMinMm": 65,
+    "focalLengthMaxMm": 65,
+    "apertureMax": 1.4,
+    "opticalDesign": "11 elements in 9 groups",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "mitakon-speedmaster-35mm-f0-95-ii",
+    "slug": "mitakon-speedmaster-35mm-f0-95-ii",
+    "brand": "Mitakon",
+    "modelName": "Mitakon Speedmaster 35mm f/0.95 II",
+    "gearType": "LENS",
+    "officialUrl": "https://zyoptics.net/product/mitakon-speedmaster-35mm-f-0-95/",
+    "releaseYear": 2016,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 0.95,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 8 groups",
+    "specialElements": "1 ED, 2 Extra High Refractive Index, 1 High Refractive Index",
+    "closeFocus": "0.35m",
+    "maxMagnification": "0.13x",
+    "filterSizeMm": 55,
+    "dimensions": "Ø63 x 60 mm",
+    "weightGrams": 460,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "yongnuo-yn23mm-f1-4-da-dsm-wl-pro",
+    "slug": "yongnuo-yn23mm-f1-4-da-dsm-wl-pro",
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN23mm F1.4 DA DSM WL Pro",
+    "gearType": "LENS",
+    "officialUrl": "https://nikonrumors.com/2024/08/10/yongnuo-23mm-f-1-4-z-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced-and-available-for-sale.aspx/",
+    "releaseYear": 2024
+  },
+  {
+    "id": "yongnuo-yn56mm-f1-4-da-dsm-wl-pro",
+    "slug": "yongnuo-yn56mm-f1-4-da-dsm-wl-pro",
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN56mm F1.4 DA DSM WL Pro",
+    "gearType": "LENS",
+    "officialUrl": "https://nikonrumors.com/2024/06/08/yongnuo-yn-56mm-f-1-4-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced.aspx/",
+    "releaseYear": 2024
+  },
+  {
+    "id": "laowa-15mm-f5-cookie-ff",
+    "slug": "laowa-15mm-f5-cookie-ff",
+    "brand": "Laowa",
+    "modelName": "Laowa 15mm F5 Cookie FF",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.jp/cat1/15mmf5-cookie.html",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": 5,
+    "minAperture": "22",
+    "opticalDesign": "13 elements in 9 groups",
+    "specialElements": "4 ED, 3 UHR, 2 Aspherical",
+    "closeFocus": "0.12m",
+    "maxMagnification": "0.2x",
+    "filterSizeMm": 39,
+    "dimensions": "Ø53 x 35.2 mm",
+    "weightGrams": 138,
+    "motorType": "Manual focus",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-15mm-f5-cookie-ff.webp"
+  },
+  {
+    "id": "laowa-15mm-f4-5-0-5x-wide-angle-macro",
+    "slug": "laowa-15mm-f4-5-0-5x-wide-angle-macro",
+    "brand": "Laowa",
+    "modelName": "Laowa 15mm F4.5 0.5x Wide Angle Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.jp/cat1/15mmf4.5-0.5x.html",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": 4.5,
+    "minAperture": "32",
+    "opticalDesign": "16 elements in 11 groups",
+    "specialElements": "3 ED, 3 HR, 2 Aspherical",
+    "closeFocus": "0.129m",
+    "maxMagnification": "0.5x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø70 x 47.7 mm",
+    "weightGrams": 308,
+    "motorType": "Manual focus",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-15mm-f4-5-0-5x-wide-angle-macro.webp"
+  },
+  {
+    "id": "laowa-17mm-f4-zero-d-shift",
+    "slug": "laowa-17mm-f4-zero-d-shift",
+    "brand": "Laowa",
+    "modelName": "Laowa 17mm F4 Zero-D Shift",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.jp/cat1/17mmf4-shift.html",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 17,
+    "focalLengthMaxMm": 17,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "18 elements in 12 groups",
+    "specialElements": "4 ED, 5 UHR, 2 Aspherical",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.131x",
+    "filterSizeMm": 86,
+    "dimensions": "Ø93 x 111 mm",
+    "weightGrams": 770,
+    "motorType": "Manual focus",
+    "hasApertureRing": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      },
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-shift.webp"
+  },
+  {
+    "id": "sigma-af-cine-28-45mm-t2-ff",
+    "slug": "sigma-af-cine-28-45mm-t2-ff",
+    "brand": "Sigma",
+    "modelName": "Sigma AF Cine Line 28-45mm T2 FF",
+    "gearType": "LENS",
+    "officialUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_45_2/",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 45,
+    "apertureMax": "T2",
+    "minAperture": "T16",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.25x",
+    "filterSizeMm": 82,
+    "dimensions": "Ø95 x 151.3 mm",
+    "weightGrams": 1200,
+    "motorType": "HLA",
+    "hasApertureRing": true,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
+  },
+  {
+    "id": "sigma-af-cine-28-105mm-t3-ff",
+    "slug": "sigma-af-cine-28-105mm-t3-ff",
+    "brand": "Sigma",
+    "modelName": "Sigma AF Cine Line 28-105mm T3 FF",
+    "gearType": "LENS",
+    "officialUrl": "https://www.sigma-global.com/en/cine-lenses/af-cine/28_105_3/",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 105,
+    "apertureMax": "T3",
+    "minAperture": "T22",
+    "closeFocus": "0.4m",
+    "maxMagnification": "0.32x",
+    "filterSizeMm": 82,
+    "dimensions": "Ø95 x 157.9 mm",
+    "weightGrams": 1300,
+    "motorType": "HLA",
+    "hasApertureRing": true,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
+  },
+  {
+    "id": "sony-e-18-50mm-f4-5-6",
+    "slug": "sony-e-18-50mm-f4-5-6",
+    "brand": "Sony",
+    "modelName": "Sony E 18-50mm F4-5.6",
+    "gearType": "LENS",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 50,
+    "apertureMax": "4-5.6",
+    "hasOIS": false
+  },
+  {
+    "id": "sirui-aurora-85mm-f1-4",
+    "slug": "sirui-aurora-85mm-f1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui Aurora 85mm F1.4 Full-Frame Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-aurora-series-85mm-full-frame-autofocus-lens",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 85,
+    "focalLengthMaxMm": 85,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "14 elements in 9 groups",
+    "closeFocus": "0.85m",
+    "maxMagnification": "0.12x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80.3 x 102 mm",
+    "weightGrams": 540,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-aurora-35mm-f1-4",
+    "slug": "sirui-aurora-35mm-f1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui Aurora 35mm F1.4 Full-Frame Autofocus",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "16 elements in 11 groups",
+    "closeFocus": "0.35m",
+    "maxMagnification": "0.14x",
+    "filterSizeMm": 62,
+    "dimensions": "Ø76 x 102.9 mm",
+    "weightGrams": 490,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "STM",
+    "image_url": "/images/products/sirui/sirui-aurora-35mm-f1-4.webp"
+  },
+  {
+    "id": "sirui-20mm-t1-8-1-33x-s35-autofocus-anamorphic",
+    "slug": "sirui-20mm-t1-8-1-33x-s35-autofocus-anamorphic",
+    "brand": "Sirui",
+    "modelName": "Sirui 20mm T1.8 1.33x S35 Autofocus Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-20mm-t1-8-1-33x-s35-af-anamorphic-lens",
+    "releaseYear": 2025,
+    "focalLengthMinMm": 20,
+    "focalLengthMaxMm": 20,
+    "apertureMax": "T1.8",
+    "minAperture": "T22",
+    "opticalDesign": "16 elements in 12 groups",
+    "specialElements": "5 Cylindrical, 1 Aspherical",
+    "closeFocus": "0.4m",
+    "filterSizeMm": 77,
+    "dimensions": "Ø86.4 x 90.95 mm",
+    "weightGrams": 489,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-40mm-t1-8-1-33x-s35-autofocus-anamorphic",
+    "slug": "sirui-40mm-t1-8-1-33x-s35-autofocus-anamorphic",
+    "brand": "Sirui",
+    "modelName": "Sirui 40mm T1.8 1.33x S35 Autofocus Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-40mm-t1-8-1-33x-s35-frame-autofocus-anamorphic-lens",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 40,
+    "apertureMax": "T1.8",
+    "minAperture": "T22",
+    "opticalDesign": "16 elements in 12 groups",
+    "specialElements": "5 Cylindrical, 1 Aspherical",
+    "closeFocus": "0.6m",
+    "filterSizeMm": 77,
+    "dimensions": "Ø86.4 x 123 mm",
+    "weightGrams": 633,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "STM"
+  },
+  {
+    "id": "sirui-vision-prime-15mm-t1-6",
+    "slug": "sirui-vision-prime-15mm-t1-6",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 15mm T1.6",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-vision-prime-15-75-150mm-t1-4-full-frame-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": "T1.6",
+    "minAperture": "T16",
+    "opticalDesign": "17 elements in 12 groups",
+    "closeFocus": "0.3m",
+    "maxMagnification": "0.08x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø80 x 107 mm",
+    "weightGrams": 607,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "sirui-vision-prime-75mm-t1-4",
+    "slug": "sirui-vision-prime-75mm-t1-4",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 75mm T1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-vision-prime-15-75-150mm-t1-4-full-frame-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": "T1.4",
+    "minAperture": "T16",
+    "opticalDesign": "16 elements in 12 groups",
+    "closeFocus": "0.75m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80 x 96.7 mm",
+    "weightGrams": 599,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "sirui-vision-prime-150mm-t4-macro",
+    "slug": "sirui-vision-prime-150mm-t4-macro",
+    "brand": "Sirui",
+    "modelName": "Sirui VP-1 Vision Prime 150mm T4 Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-vision-prime-15-75-150mm-t1-4-full-frame-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 150,
+    "focalLengthMaxMm": 150,
+    "apertureMax": "T4",
+    "minAperture": "T22",
+    "opticalDesign": "16 elements in 12 groups",
+    "closeFocus": "0.29m",
+    "maxMagnification": "1.5x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø80 x 146.6 mm",
+    "weightGrams": 715,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "sirui-saturn-v2-35mm-t2-9-1-6x",
+    "slug": "sirui-saturn-v2-35mm-t2-9-1-6x",
+    "brand": "Sirui",
+    "modelName": "Sirui Saturn V2 35mm T2.9 1.6x Full-Frame Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/saturn-v2-series-full-frame-anamorphic-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": "T2.9",
+    "minAperture": "T16",
+    "opticalDesign": "18 elements in 13 groups",
+    "closeFocus": "0.9m",
+    "filterSizeMm": 62,
+    "dimensions": "Ø65 x 102.9 mm",
+    "weightGrams": 469,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame"
+  },
+  {
+    "id": "sirui-saturn-v2-50mm-t2-9-1-6x",
+    "slug": "sirui-saturn-v2-50mm-t2-9-1-6x",
+    "brand": "Sirui",
+    "modelName": "Sirui Saturn V2 50mm T2.9 1.6x Full-Frame Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/saturn-v2-series-full-frame-anamorphic-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": "T2.9",
+    "minAperture": "T16",
+    "opticalDesign": "17 elements in 12 groups",
+    "closeFocus": "0.9m",
+    "filterSizeMm": 62,
+    "dimensions": "Ø65 x 109.1 mm",
+    "weightGrams": 515,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame"
+  },
+  {
+    "id": "sirui-saturn-v2-75mm-t2-9-1-6x",
+    "slug": "sirui-saturn-v2-75mm-t2-9-1-6x",
+    "brand": "Sirui",
+    "modelName": "Sirui Saturn V2 75mm T2.9 1.6x Full-Frame Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/saturn-v2-series-full-frame-anamorphic-cine-lens",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": "T2.9",
+    "minAperture": "T16",
+    "opticalDesign": "15 elements in 11 groups",
+    "closeFocus": "0.9m",
+    "filterSizeMm": 62,
+    "dimensions": "Ø65 x 114.2 mm",
+    "weightGrams": 469,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame"
+  },
+  {
+    "id": "sirui-50mm-f1-8-1-33x-anamorphic",
+    "slug": "sirui-50mm-f1-8-1-33x-anamorphic",
+    "brand": "Sirui",
+    "modelName": "Sirui 50mm F1.8 1.33x APS-C Anamorphic",
+    "gearType": "LENS",
+    "officialUrl": "https://store.sirui.com/products/sirui-50mm-f1-8-anamorphic-lens-1-33x",
+    "releaseYear": 2019,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "minAperture": "16",
+    "opticalDesign": "11 elements in 8 groups",
+    "closeFocus": "0.85m",
+    "filterSizeMm": 67,
+    "dimensions": "Ø68.2 x 106.6 mm",
+    "weightGrams": 560,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "motorType": "Manual focus"
+  },
+  {
+    "id": "laowa-55mm-f2-8-tilt-shift-1x-macro",
+    "slug": "laowa-55mm-f2-8-tilt-shift-1x-macro",
+    "brand": "Laowa",
+    "modelName": "Laowa 55mm F2.8 Tilt-Shift 1X Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.de/55mm-f-2-8-macro-1-1-tilt-shift/",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 55,
+    "focalLengthMaxMm": 55,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "14 elements in 11 groups",
+    "closeFocus": "0.27m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø85 x 168.5 mm",
+    "weightGrams": 1345,
+    "motorType": "Manual focus",
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "image_url": "/images/products/laowa/laowa-55mm-f2-8-tilt-shift-1x-macro.webp"
+  },
+  {
+    "id": "laowa-100mm-f2-8-tilt-shift-1x-macro",
+    "slug": "laowa-100mm-f2-8-tilt-shift-1x-macro",
+    "brand": "Laowa",
+    "modelName": "Laowa 100mm F2.8 Tilt-Shift 1X Macro",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.de/100mm-f-2-8-macro-1-1-tilt-shift/",
+    "releaseYear": 2024,
+    "focalLengthMinMm": 100,
+    "focalLengthMaxMm": 100,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "13 elements in 10 groups",
+    "closeFocus": "0.32m",
+    "maxMagnification": "1.0x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø85 x 162 mm",
+    "weightGrams": 1215,
+    "motorType": "Manual focus",
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ],
+    "sensorFormat": "Medium Format",
+    "image_url": "/images/products/laowa/laowa-100mm-f2-8-tilt-shift-1x-macro.webp"
+  },
+  {
+    "id": "laowa-4-5-10mm-f2-8-cf-zoom-fisheye",
+    "slug": "laowa-4-5-10mm-f2-8-cf-zoom-fisheye",
+    "brand": "Laowa",
+    "modelName": "Laowa 4.5-10mm F2.8 CF Zoom Fisheye",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.jp/cat1/4.5-10mmf2.8.html",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 4.5,
+    "focalLengthMaxMm": 10,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "opticalDesign": "13 elements in 9 groups",
+    "closeFocus": "0.1m",
+    "maxMagnification": "0.27x",
+    "dimensions": "Ø68.9 x 59.3 mm",
+    "weightGrams": 338,
+    "motorType": "Manual focus",
+    "hasApertureRing": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/laowa-4-5-10mm-f2-8-cf-zoom-fisheye.webp"
+  },
+  {
+    "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
+    "slug": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
+    "brand": "Laowa",
+    "modelName": "Laowa Aksen 17.5mm F1.7 5-10x Ultra Macro APO",
+    "gearType": "LENS",
+    "officialUrl": "https://www.laowa.jp/cat1/aksen-ultramacro.html",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 17.5,
+    "focalLengthMaxMm": 17.5,
+    "apertureMax": 1.7,
+    "minAperture": "5.6",
+    "opticalDesign": "17 elements in 12 groups",
+    "maxMagnification": "10x",
+    "dimensions": "Ø70.2 x 127.5 mm",
+    "weightGrams": 570,
+    "motorType": "Manual focus",
+    "hasApertureRing": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp"
   }
 ]
