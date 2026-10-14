@@ -22183,7 +22183,8 @@
     "weightGrams": 725,
     "dimensions": "150 x 98 x 71 mm",
     "officialUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 310000
   },
   {
     "id": "leica-sl-typ-601",
@@ -22823,7 +22824,8 @@
     "releaseMonth": 11,
     "image_url": "/images/products/leica/leica-m-typ-262.webp",
     "dimensions": "138.6 x 80 x 42 mm",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28644-Datenblatt_M-Typ-262_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28644-Datenblatt_M-Typ-262_e.pdf",
+    "launchPrice": 210000
   },
   {
     "id": "leica-m10",
@@ -27312,7 +27314,8 @@
     "ports": "USB 2.0",
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-ilce-qx1.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 9980
   },
   {
     "id": "sony-a3000",
@@ -27458,7 +27461,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-atx-m-11-18mm-f2-8-e.webp",
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 23990
   },
   {
     "id": "tokina-atx-m-23mm-f1-4-x",
@@ -31342,7 +31346,8 @@
     ],
     "sensorFormat": "Full Frame",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "launchPrice": 26000
   },
   {
     "id": "voigtlander-nokton-10-5mm-f0-95-aspherical",
@@ -31611,7 +31616,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "STM",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "image_url": "/images/products/sirui/sirui-sniper-23mm-f1-2.webp"
   },
   {
     "id": "sirui-sniper-33mm-f1-2",
@@ -34693,7 +34699,8 @@
     "weightGrams": 414,
     "hasIBIS": true,
     "releaseMonth": 10,
-    "image_url": "/images/products/om-system/om-system-om-5.webp"
+    "image_url": "/images/products/om-system/om-system-om-5.webp",
+    "launchPrice": 37990
   },
   {
     "id": "om-system-om-5-mark-ii",
@@ -35291,7 +35298,8 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": true,
     "weightGrams": 497,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 44990
   },
   {
     "id": "olympus-pen-e-p5",
@@ -35596,7 +35604,8 @@
     "weightGrams": 382,
     "hasWeatherSeal": true,
     "releaseMonth": 9,
-    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro.webp"
+    "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-40mm-f2-8-pro.webp",
+    "launchPrice": 29900
   },
   {
     "id": "olympus-m-zuiko-digital-ed-14-42mm-f3-5-5-6-ez",
@@ -35882,7 +35891,8 @@
     "hasWeatherSeal": true,
     "motorType": "MSC",
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-25mm-f1-2-pro.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 38990
   },
   {
     "id": "olympus-m-zuiko-digital-ed-30mm-f3-5-macro",
@@ -36522,7 +36532,8 @@
     "batterySpec": "330 shots CIPA",
     "dimensions": "107.7 x 66.6 x 36.8 mm",
     "releaseMonth": 4,
-    "image_url": "/images/products/panasonic/panasonic-lumix-gf5.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-gf5.webp",
+    "launchPrice": 15900
   },
   {
     "id": "panasonic-lumix-g5",
@@ -36795,7 +36806,8 @@
     "batterySpec": "230 shots CIPA",
     "ports": "USB 2.0, micro HDMI",
     "dimensions": "106.5 x 64.6 x 33.3 mm",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/panasonic/panasonic-lumix-gf7.webp"
   },
   {
     "id": "panasonic-lumix-g7",
