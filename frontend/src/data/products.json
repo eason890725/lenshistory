@@ -13310,7 +13310,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FF 12mm F2.8 D-Dreamer",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2016,
     "apertureMax": 2.8,
     "filterSizeMm": 0,
     "weightGrams": 590,
@@ -14574,7 +14574,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FF 100mm F2.8 CA-Dreamer Macro 2X",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2018,
     "apertureMax": 2.8,
     "filterSizeMm": 67,
     "weightGrams": 638,
@@ -26979,7 +26979,7 @@
     "modelName": "Voigtländer NOKTON 28mm F1.5 Aspherical",
     "gearType": "LENS",
     "officialUrl": "https://www.cosina.co.jp/voigtlander/en/e-mount/nokton-28mm-f1-5-aspherical/",
-    "releaseYear": 2025,
+    "releaseYear": 2024,
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "apertureMax": 1.5,
@@ -28065,7 +28065,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/viltrox-af-26mm-f2-8-evo.webp",
     "motorType": "STM",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 6950
   },
   {
     "id": "viltrox-af-55mm-f1-8-evo",
@@ -28101,7 +28102,8 @@
     "dimensions": "Ø69 x 76 mm",
     "maxMagnification": "0.16x",
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 8690
   },
   {
     "id": "samyang-af-60-180mm-f2-8-fe",
@@ -28758,7 +28760,8 @@
     "sensorFormat": "Full Frame",
     "dimensions": "Ø79 x 87.4 mm",
     "specialElements": "1 ED, 1 HR",
-    "image_url": "/images/products/laowa/laowa-acris-35mm-f2-8-1x-af-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-acris-35mm-f2-8-1x-af-macro-apo.webp",
+    "launchPrice": 15800
   },
   {
     "id": "laowa-17mm-f4-zero-d-tilt-shift",
@@ -29037,7 +29040,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo.webp",
+    "launchPrice": 24900
   },
   {
     "id": "laowa-6mm-f2-zero-d-mft",
@@ -29740,7 +29744,8 @@
     "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-8-evo.webp",
     "hasOIS": false,
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 9150
   },
   {
     "id": "viltrox-af-75mm-f1-8-evo",
@@ -29782,7 +29787,8 @@
     "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-8-evo.webp",
     "hasOIS": false,
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 7680
   },
   {
     "id": "viltrox-af-90mm-f2-2-evo",
@@ -29824,7 +29830,8 @@
     "image_url": "/images/products/viltrox/viltrox-af-90mm-f2-2-evo.webp",
     "hasOIS": false,
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 8600
   },
   {
     "id": "laowa-4mm-f2-8-fisheye-mft",
@@ -33158,7 +33165,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-4-5-10mm-f2-8-cf-zoom-fisheye.webp"
+    "image_url": "/images/products/laowa/laowa-4-5-10mm-f2-8-cf-zoom-fisheye.webp",
+    "launchPrice": 14100
   },
   {
     "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
@@ -33221,7 +33229,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp",
+    "launchPrice": 24900
   },
   {
     "id": "om-system-pen",
@@ -36810,7 +36819,7 @@
     "modelName": "Panasonic LUMIX G VARIO 14-140mm F3.5-5.6 II ASPH. POWER O.I.S.",
     "gearType": "LENS",
     "officialUrl": "https://shop.panasonic.com/products/g-series-14-140mm-f4-0-5-6-asph-lens",
-    "releaseYear": 2015,
+    "releaseYear": 2019,
     "focalLengthMinMm": 14,
     "focalLengthMaxMm": 140,
     "apertureMax": "3.5-5.6",
@@ -38044,5 +38053,134 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s-20mm-f2-5.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-20mm-f1-7-ii-asph",
+    "slug": "panasonic-lumix-g-20mm-f1-7-ii-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 20mm F1.7 II ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-20mm-f1-7-asph-lens",
+    "releaseYear": 2013,
+    "focalLengthMinMm": 20,
+    "focalLengthMaxMm": 20,
+    "apertureMax": 1.7,
+    "minAperture": "16",
+    "closeFocus": "0.2m",
+    "maxMagnification": "0.13x",
+    "filterSizeMm": 46,
+    "opticalDesign": "7 elements in 5 groups",
+    "specialElements": "2 Aspherical",
+    "dimensions": "Ø63 x 25.5 mm",
+    "weightGrams": 87,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-20mm-f1-7-ii-asph.webp"
+  },
+  {
+    "id": "panasonic-lumix-g-14mm-f2-5-ii-asph",
+    "slug": "panasonic-lumix-g-14mm-f2-5-ii-asph",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 14mm F2.5 II ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://shop.panasonic.com/products/g-series-g-14mm-f2-5-ii-asph-lens",
+    "releaseYear": 2014,
+    "focalLengthMinMm": 14,
+    "focalLengthMaxMm": 14,
+    "apertureMax": 2.5,
+    "minAperture": "22",
+    "closeFocus": "0.18m",
+    "maxMagnification": "0.1x",
+    "filterSizeMm": 46,
+    "opticalDesign": "6 elements in 5 groups",
+    "specialElements": "3 Aspherical",
+    "dimensions": "Ø55.5 x 20.5 mm",
+    "weightGrams": 55,
+    "hasApertureRing": false,
+    "sensorFormat": "Four Thirds",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-14mm-f2-5-ii-asph.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1",
+    "slug": "panasonic-lumix-s1",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "megapixels": "24.2MP",
+    "sensorType": "CMOS",
+    "processor": "Venus Engine",
+    "isoRange": "100-51200 (Ext: 50-204800)",
+    "burstSpeed": "9fps",
+    "videoResolution": "4K 60p",
+    "videoColorDepth": "10-bit 4:2:0",
+    "hasIBIS": true,
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.2-inch 2.1M-dot tilting touch",
+    "cardSlots": "1x XQD + 1x SD (UHS-II)",
+    "batterySpec": "DMW-BLJ31 (380 shots CIPA)",
+    "ports": "USB-C, HDMI Type A, mic, headphone",
+    "dimensions": "148.9 x 110 x 96.7 mm",
+    "weightGrams": 1017,
+    "hasWeatherSeal": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp"
+  },
+  {
+    "id": "panasonic-lumix-s1r",
+    "slug": "panasonic-lumix-s1r",
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S1R",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://panasonic.jp/dc/products/DC-S1R/spec.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "megapixels": "47.3MP",
+    "sensorType": "CMOS",
+    "isoRange": "100-25600 (Ext: 50-51200)",
+    "burstSpeed": "9fps",
+    "videoResolution": "4K 60p",
+    "videoColorDepth": "8-bit 4:2:0",
+    "afPoints": "225 points",
+    "afTargets": "Human, Animal",
+    "evfResolution": "5.76M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.2-inch 2.1M-dot touch",
+    "cardSlots": "1x XQD + 1x SD",
+    "dimensions": "148.9 x 110 x 96.7 mm",
+    "weightGrams": 1016,
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1r.webp"
   }
 ]
