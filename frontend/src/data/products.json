@@ -5769,7 +5769,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/10mm-f2-8-c-d-dreamer.webp"
+    "image_url": "/images/products/laowa/10mm-f2-8-c-d-dreamer.webp",
+    "releaseMonth": 2
   },
   {
     "brand": "Laowa",
@@ -5825,7 +5826,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/12mm-f2-8-lite-zero-d-ff.webp",
-    "coatings": "Frog Eye Coating (FEC)"
+    "coatings": "Frog Eye Coating (FEC)",
+    "releaseMonth": 6
   },
   {
     "brand": "Sigma",
@@ -7880,7 +7882,8 @@
     "closeFocus": "0.4m",
     "opticalDesign": "10 elements in 8 groups",
     "specialElements": "2 ED, 2 HRI, 2 Aspherical",
-    "coatings": "HD Nano Coating"
+    "coatings": "HD Nano Coating",
+    "releaseMonth": 12
   },
   {
     "brand": "Sony",
@@ -8887,7 +8890,8 @@
     "minAperture": "16",
     "closeFocus": "0.55m",
     "opticalDesign": "11 elements in 10 groups",
-    "specialElements": "1 ED, 2 HRI, 2 Aspherical"
+    "specialElements": "1 ED, 2 HRI, 2 Aspherical",
+    "releaseMonth": 12
   },
   {
     "brand": "Yongnuo",
@@ -9269,7 +9273,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/sigma/70mm-f2-8-dg-macro-art.webp"
+    "image_url": "/images/products/sigma/70mm-f2-8-dg-macro-art.webp",
+    "releaseMonth": 2
   },
   {
     "brand": "Samyang",
@@ -10807,7 +10812,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/180mm-f4-5-ca-dreamer-macro.webp"
+    "image_url": "/images/products/laowa/180mm-f4-5-ca-dreamer-macro.webp",
+    "releaseMonth": 9
   },
   {
     "brand": "Laowa",
@@ -10858,7 +10864,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/200mm-f2-0-c-dreamer.webp"
+    "image_url": "/images/products/laowa/200mm-f2-0-c-dreamer.webp",
+    "releaseMonth": 10
   },
   {
     "brand": "Sigma",
@@ -13446,7 +13453,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FFⅡ 9mm F5.6 W-Dreamer",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2020,
     "apertureMax": 5.6,
     "filterSizeMm": 0,
     "weightGrams": 350,
@@ -13490,7 +13497,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/9mm-f5-6-w-dreamer.webp"
+    "image_url": "/images/products/laowa/9mm-f5-6-w-dreamer.webp",
+    "releaseMonth": 6
   },
   {
     "brand": "Voigtlander",
@@ -13537,7 +13545,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FFⅡ 11mm F4.5 C-Dreamer",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2020,
     "apertureMax": 4.5,
     "filterSizeMm": 62,
     "weightGrams": 254,
@@ -13586,7 +13594,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/11mm-f4-5-c-dreamer.webp"
+    "image_url": "/images/products/laowa/11mm-f4-5-c-dreamer.webp",
+    "releaseMonth": 8
   },
   {
     "brand": "Laowa",
@@ -13651,7 +13660,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/12mm-f2-8-zero-d.webp"
+    "image_url": "/images/products/laowa/12mm-f2-8-zero-d.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Voigtlander",
@@ -13697,7 +13707,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FFⅡ 15mm F2 D-Dreamer",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2016,
     "apertureMax": 2.0,
     "filterSizeMm": 72,
     "weightGrams": 500,
@@ -13747,7 +13757,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/15mm-f2-zero-d.webp"
+    "image_url": "/images/products/laowa/15mm-f2-zero-d.webp",
+    "releaseMonth": 9
   },
   {
     "brand": "Laowa",
@@ -13802,7 +13813,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/15mm-f4-0-wide-macro-1-1.webp"
+    "image_url": "/images/products/laowa/15mm-f4-0-wide-macro-1-1.webp",
+    "releaseMonth": 6
   },
   {
     "brand": "Voigtlander",
@@ -14179,7 +14191,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/25mm-f2-8-ultra-macro-2-5-5x.webp"
+    "image_url": "/images/products/laowa/25mm-f2-8-ultra-macro-2-5-5x.webp",
+    "releaseMonth": 2
   },
   {
     "brand": "Laowa",
@@ -14684,7 +14697,7 @@
     "brand": "Laowa",
     "modelName": "Laowa CF 60mm F2.8 Super Macro 2X",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2015,
     "apertureMax": 2.8,
     "filterSizeMm": 62,
     "weightGrams": 503,
@@ -14727,7 +14740,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/60mm-f2-8-macro-2-1.webp"
+    "image_url": "/images/products/laowa/60mm-f2-8-macro-2-1.webp",
+    "releaseMonth": 1
   },
   {
     "brand": "Voigtlander",
@@ -14821,7 +14835,7 @@
     "brand": "Laowa",
     "modelName": "Laowa Mini FFⅡ 85mm F5.6 Macro 2X",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2021,
     "apertureMax": 5.6,
     "filterSizeMm": 46,
     "weightGrams": 252,
@@ -14870,7 +14884,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/85mm-f5-6-2x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/85mm-f5-6-2x-ultra-macro-apo.webp",
+    "releaseMonth": 11
   },
   {
     "brand": "Laowa",
@@ -14935,7 +14950,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/100mm-f2-8-ultra-macro.webp"
+    "image_url": "/images/products/laowa/100mm-f2-8-ultra-macro.webp",
+    "releaseMonth": 4
   },
   {
     "brand": "Laowa",
@@ -15138,7 +15154,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/10-18mm-f4-5-5-6-zoom.webp"
+    "image_url": "/images/products/laowa/10-18mm-f4-5-5-6-zoom.webp",
+    "releaseMonth": 4
   },
   {
     "brand": "Sony",
@@ -22201,7 +22218,10 @@
     "afTargets": "Human",
     "launchPrice": 260000,
     "releaseMonth": 10,
-    "image_url": "/images/products/leica/leica-sl-typ-601.webp"
+    "image_url": "/images/products/leica/leica-sl-typ-601.webp",
+    "dimensions": "147 x 104 x 39 mm",
+    "afPoints": "49 points",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
   },
   {
     "id": "leica-sl2",
@@ -22237,7 +22257,10 @@
     "launchPrice": 219000,
     "afTargets": "Human",
     "image_url": "/images/products/leica/leica-sl2.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "dimensions": "146 x 107 x 42 mm",
+    "afPoints": "225 points",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14762-Leica-SL2_Technical-Data_en.pdf"
   },
   {
     "id": "leica-sl2-s",
@@ -22273,7 +22296,9 @@
     "launchPrice": 145000,
     "afTargets": "Human",
     "image_url": "/images/products/leica/leica-sl2-s.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "afPoints": "225 points",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14874-Leica-SL2-S_Technical-Data_en--1-.pdf"
   },
   {
     "id": "leica-sl3",
@@ -22448,7 +22473,10 @@
     "hasWeatherSeal": false,
     "afTargets": "Human",
     "releaseMonth": 11,
-    "image_url": "/images/products/leica/leica-q-p.webp"
+    "image_url": "/images/products/leica/leica-q-p.webp",
+    "dimensions": "130 x 80 x 93 mm",
+    "afPoints": "49 points",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29526-Technical-Data_Q-P_lens_en.pdf"
   },
   {
     "id": "leica-q2",
@@ -22477,7 +22505,8 @@
     "afTargets": "Human",
     "officialUrl": "https://leica-camera.com/en-int/node/6921",
     "image_url": "/images/products/leica/leica-q2.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "processor": "Maestro II"
   },
   {
     "id": "leica-q2-monochrom",
@@ -22635,7 +22664,11 @@
     "hasWeatherSeal": true,
     "launchPrice": 260000,
     "image_url": "/images/products/leica/leica-m-typ-240.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "dimensions": "139 x 80 x 42 mm",
+    "processor": "Leica Maestro",
+    "batterySpec": "BP-SCL2",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28573-Datenblatt_M--Typ-240-_e.pdf"
   },
   {
     "id": "leica-m-e-typ-220",
@@ -22661,7 +22694,8 @@
     "cardSlots": "1x SD",
     "weightGrams": 585,
     "hasWeatherSeal": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "ports": "USB 2.0"
   },
   {
     "id": "leica-m-monochrom",
@@ -22722,7 +22756,9 @@
     "hasWeatherSeal": true,
     "launchPrice": 280000,
     "releaseMonth": 8,
-    "image_url": "/images/products/leica/leica-m-p-typ-240.webp"
+    "image_url": "/images/products/leica/leica-m-p-typ-240.webp",
+    "dimensions": "139 x 80 x 42 mm",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28710-Datenblatt_M-P--Typ-240-_e.pdf"
   },
   {
     "id": "leica-m-monochrom-typ-246",
@@ -22753,7 +22789,10 @@
     "hasWeatherSeal": false,
     "launchPrice": 260000,
     "image_url": "/images/products/leica/leica-m-monochrom-typ-246.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "dimensions": "138.6 x 80 x 42 mm",
+    "burstSpeed": "3fps",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28763-Datenblatt_M-Monochrom--Typ-246-_e.pdf"
   },
   {
     "id": "leica-m-typ-262",
@@ -22782,7 +22821,9 @@
     "ports": "USB 2.0",
     "weightGrams": 680,
     "releaseMonth": 11,
-    "image_url": "/images/products/leica/leica-m-typ-262.webp"
+    "image_url": "/images/products/leica/leica-m-typ-262.webp",
+    "dimensions": "138.6 x 80 x 42 mm",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28644-Datenblatt_M-Typ-262_e.pdf"
   },
   {
     "id": "leica-m10",
@@ -22811,7 +22852,8 @@
     "weightGrams": 660,
     "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-schwarz/jetzt-kaufen",
     "image_url": "/images/products/leica/leica-m10.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "dimensions": "139 x 80 x 38.5 mm"
   },
   {
     "id": "leica-m10-p",
@@ -22840,7 +22882,8 @@
     "weightGrams": 660,
     "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-p-schwarz/jetzt-kaufen",
     "image_url": "/images/products/leica/leica-m10-p.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "dimensions": "139 x 80 x 38.5 mm"
   },
   {
     "id": "leica-m10-d",
@@ -22868,7 +22911,8 @@
     "weightGrams": 660,
     "officialUrl": "https://leica-camera.com/zh-Hant/product/leica-m10-d-black-chrome",
     "image_url": "/images/products/leica/leica-m10-d.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "dimensions": "139 x 80 x 37.9 mm"
   },
   {
     "id": "leica-m-e-typ-240",
@@ -22893,7 +22937,15 @@
     "hasWeatherSeal": true,
     "launchPrice": 139000,
     "releaseMonth": 6,
-    "image_url": "/images/products/leica/leica-m-e-typ-240.webp"
+    "image_url": "/images/products/leica/leica-m-e-typ-240.webp",
+    "weightGrams": 680,
+    "dimensions": "138.6 x 80 x 42 mm",
+    "isoRange": "200-6400 (Ext: 100-6400)",
+    "burstSpeed": "3fps",
+    "videoResolution": "Full HD 25p",
+    "lcdSpec": "3.0-inch 0.92M-dot fixed",
+    "batterySpec": "BP-SCL2",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29014-190626__TechData_M-E_en_RZ.pdf"
   },
   {
     "id": "leica-m10-monochrom",
@@ -23081,7 +23133,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/leica/leica-m-ev1.webp",
     "launchPrice": 259000,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "dimensions": "138.8 x 80.3 x 38.45 mm"
   },
   {
     "id": "leica-cl",
@@ -23116,7 +23169,8 @@
     "afTargets": "Human",
     "officialUrl": "https://leica-camera.com/en-GB/node/292",
     "releaseMonth": 11,
-    "image_url": "/images/products/leica/leica-cl.webp"
+    "image_url": "/images/products/leica/leica-cl.webp",
+    "afPoints": "49 points"
   },
   {
     "id": "leica-t-typ-701",
@@ -23147,7 +23201,9 @@
     "hasWeatherSeal": false,
     "launchPrice": 65000,
     "afTargets": "Human",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "dimensions": "134 x 69 x 33 mm",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-30518-Leica-T--Typ-701-_Technical-Data_en.pdf"
   },
   {
     "id": "leica-tl",
@@ -23178,7 +23234,9 @@
     "hasWeatherSeal": false,
     "afTargets": "Human",
     "releaseMonth": 11,
-    "image_url": "/images/products/leica/leica-tl.webp"
+    "image_url": "/images/products/leica/leica-tl.webp",
+    "dimensions": "134 x 69 x 33 mm",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-30119-Datenblatt_TL_November-2016_e.pdf"
   },
   {
     "id": "leica-tl2",
@@ -23210,7 +23268,10 @@
     "launchPrice": 77000,
     "afTargets": "Human",
     "releaseMonth": 7,
-    "image_url": "/images/products/leica/leica-tl2.webp"
+    "image_url": "/images/products/leica/leica-tl2.webp",
+    "dimensions": "134 x 69 x 33 mm",
+    "processor": "Maestro II",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-30322-Datenblatt_TL2_en.pdf"
   },
   {
     "id": "leica-vario-elmarit-sl-24-90-f2-8-4-asph",
@@ -23884,7 +23945,9 @@
     "minAperture": "16",
     "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/apo-vario-elmar-tl-55-135mm-f3-5-4-5-asph-black",
     "image_url": "/images/products/leica/leica-apo-vario-elmar-tl-55-135-f3-5-4-5-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "maxMagnification": "0.13x",
+    "specialElements": "1 Aspherical"
   },
   {
     "id": "leica-summilux-tl-35-f1-4-asph",
@@ -24010,7 +24073,8 @@
     "hasApertureRing": false,
     "officialUrl": "https://leica-camera.com/en-GB/photography/lenses/cl-tl/super-vario-elmar-tl-11-23mm-f3-5-4-5-asph",
     "image_url": "/images/products/leica/leica-super-vario-elmar-tl-11-23-f3-5-4-5-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "maxMagnification": "0.19x"
   },
   {
     "id": "leica-m11-d",
@@ -24039,7 +24103,8 @@
     "dimensions": "139 x 80 x 38.5 mm",
     "sensorType": "BSI CMOS",
     "processor": "Leica Maestro III",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "batterySpec": "BP-SCL7 (700 shots CIPA)"
   },
   {
     "id": "leica-m-d-typ-262",
@@ -24063,7 +24128,12 @@
     "burstSpeed": "3fps",
     "launchPrice": 226000,
     "releaseMonth": 4,
-    "image_url": "/images/products/leica/leica-m-d-typ-262.webp"
+    "image_url": "/images/products/leica/leica-m-d-typ-262.webp",
+    "weightGrams": 680,
+    "dimensions": "138.6 x 80 x 42 mm",
+    "cardSlots": "1x SD",
+    "batterySpec": "BP-SCL2",
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28674-Datenblatt_M-D-Typ-262_e.pdf"
   },
   {
     "id": "leica-summicron-sl-50-f2-asph",
@@ -27800,7 +27870,7 @@
     "modelName": "Voigtländer NOKTON 50mm F1 Aspherical",
     "gearType": "LENS",
     "officialUrl": "https://www.cosina.co.jp/voigtlander/en/e-mount/nokton-50mm-f1-aspherical/",
-    "releaseYear": 2022,
+    "releaseYear": 2021,
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1,
@@ -27839,7 +27909,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-aspherical.webp",
     "launchPrice": 56000,
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "releaseMonth": 12
   },
   {
     "id": "voigtlander-portrait-heliar-75mm-f1-8",
@@ -29509,7 +29580,8 @@
     "dimensions": "Ø79 x 87.4 mm",
     "specialElements": "1 ED, 1 HR",
     "image_url": "/images/products/laowa/laowa-acris-35mm-f2-8-1x-af-macro-apo.webp",
-    "launchPrice": 15800
+    "launchPrice": 15800,
+    "releaseMonth": 9
   },
   {
     "id": "laowa-17mm-f4-zero-d-tilt-shift",
@@ -29567,7 +29639,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-tilt-shift.webp"
+    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-tilt-shift.webp",
+    "releaseMonth": 3
   },
   {
     "id": "laowa-8-15mm-f2-8-ff-zoom-fisheye",
@@ -29615,7 +29688,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-8-15mm-f2-8-ff-zoom-fisheye.webp"
+    "image_url": "/images/products/laowa/laowa-8-15mm-f2-8-ff-zoom-fisheye.webp",
+    "releaseMonth": 6
   },
   {
     "id": "laowa-12-24mm-f5-6-zoom-shift-cf",
@@ -29668,7 +29742,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-zoom-shift-cf.webp"
+    "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-zoom-shift-cf.webp",
+    "releaseMonth": 7
   },
   {
     "id": "laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro",
@@ -29727,7 +29802,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro.webp"
+    "image_url": "/images/products/laowa/laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro.webp",
+    "releaseMonth": 11
   },
   {
     "id": "laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo",
@@ -29789,7 +29865,8 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo.webp",
-    "launchPrice": 24900
+    "launchPrice": 24900,
+    "releaseMonth": 7
   },
   {
     "id": "laowa-6mm-f2-zero-d-mft",
@@ -29821,7 +29898,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-6mm-f2-zero-d-mft.webp"
+    "image_url": "/images/products/laowa/laowa-6mm-f2-zero-d-mft.webp",
+    "releaseMonth": 12
   },
   {
     "id": "laowa-19mm-f2-8-zero-d-gfx",
@@ -29854,7 +29932,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-19mm-f2-8-zero-d-gfx.webp"
+    "image_url": "/images/products/laowa/laowa-19mm-f2-8-zero-d-gfx.webp",
+    "releaseMonth": 12
   },
   {
     "id": "laowa-argus-25mm-f0-95-mft-apo",
@@ -29886,7 +29965,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-argus-25mm-f0-95-mft-apo.webp"
+    "image_url": "/images/products/laowa/laowa-argus-25mm-f0-95-mft-apo.webp",
+    "releaseMonth": 3
   },
   {
     "id": "laowa-10mm-f4-cookie",
@@ -29940,7 +30020,8 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-10mm-f4-cookie.webp",
-    "launchPrice": 10800
+    "launchPrice": 10800,
+    "releaseMonth": 7
   },
   {
     "id": "laowa-argus-45mm-f0-95-ff",
@@ -29983,7 +30064,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-argus-45mm-f0-95-ff.webp"
+    "image_url": "/images/products/laowa/laowa-argus-45mm-f0-95-ff.webp",
+    "releaseMonth": 12
   },
   {
     "id": "laowa-20mm-f4-zero-d-shift",
@@ -30041,7 +30123,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-20mm-f4-zero-d-shift.webp"
+    "image_url": "/images/products/laowa/laowa-20mm-f4-zero-d-shift.webp",
+    "releaseMonth": 3
   },
   {
     "id": "laowa-90mm-f2-8-2x-ultra-macro-apo",
@@ -30089,7 +30172,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-90mm-f2-8-2x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-90mm-f2-8-2x-ultra-macro-apo.webp",
+    "releaseMonth": 6
   },
   {
     "id": "laowa-argus-33mm-f0-95-cf-apo",
@@ -30137,7 +30221,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-argus-33mm-f0-95-cf-apo.webp"
+    "image_url": "/images/products/laowa/laowa-argus-33mm-f0-95-cf-apo.webp",
+    "releaseMonth": 5
   },
   {
     "id": "laowa-10mm-f2-zero-d-mft",
@@ -30169,7 +30254,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-10mm-f2-zero-d-mft.webp"
+    "image_url": "/images/products/laowa/laowa-10mm-f2-zero-d-mft.webp",
+    "releaseMonth": 12
   },
   {
     "id": "zeiss-nano-prime-18mm-t1-5",
@@ -30642,7 +30728,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-4mm-f2-8-fisheye-mft.webp"
+    "image_url": "/images/products/laowa/laowa-4mm-f2-8-fisheye-mft.webp",
+    "releaseMonth": 4
   },
   {
     "id": "laowa-17mm-f1-8-mft",
@@ -30708,7 +30795,8 @@
     "specialElements": "3 ED",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-50mm-f2-8-2x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-50mm-f2-8-2x-ultra-macro-apo.webp",
+    "releaseMonth": 8
   },
   {
     "id": "laowa-65mm-f2-8-2x-ultra-macro-apo",
@@ -30751,7 +30839,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-65mm-f2-8-2x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-65mm-f2-8-2x-ultra-macro-apo.webp",
+    "releaseMonth": 1
   },
   {
     "id": "laowa-15mm-f4-5-zero-d-shift",
@@ -30804,7 +30893,8 @@
     "specialElements": "2 Aspherical, 3 ED",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-15mm-f4-5-zero-d-shift.webp"
+    "image_url": "/images/products/laowa/laowa-15mm-f4-5-zero-d-shift.webp",
+    "releaseMonth": 10
   },
   {
     "id": "laowa-17mm-f4-gfx-zero-d",
@@ -30838,7 +30928,8 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-17mm-f4-gfx-zero-d.webp"
+    "image_url": "/images/products/laowa/laowa-17mm-f4-gfx-zero-d.webp",
+    "releaseMonth": 4
   },
   {
     "id": "laowa-argus-18mm-f0-95-mft-apo",
@@ -30870,7 +30961,8 @@
     "hasOIS": false,
     "hasApertureRing": true,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-argus-18mm-f0-95-mft-apo.webp"
+    "image_url": "/images/products/laowa/laowa-argus-18mm-f0-95-mft-apo.webp",
+    "releaseMonth": 10
   },
   {
     "id": "tokina-sz-33mm-f1-2-mf",
@@ -31086,7 +31178,8 @@
     "sensorFormat": "APS-C",
     "coatings": "ZEISS T*",
     "hasOIS": false,
-    "image_url": "/images/products/zeiss/zeiss-touit-2-8-12.webp"
+    "image_url": "/images/products/zeiss/zeiss-touit-2-8-12.webp",
+    "releaseMonth": 9
   },
   {
     "id": "zeiss-touit-1-8-32",
@@ -31120,7 +31213,8 @@
     "sensorFormat": "APS-C",
     "coatings": "ZEISS T*",
     "hasOIS": false,
-    "image_url": "/images/products/zeiss/zeiss-touit-1-8-32.webp"
+    "image_url": "/images/products/zeiss/zeiss-touit-1-8-32.webp",
+    "releaseMonth": 9
   },
   {
     "id": "zeiss-touit-2-8-50m",
@@ -33462,7 +33556,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-15mm-f5-cookie-ff.webp"
+    "image_url": "/images/products/laowa/laowa-15mm-f5-cookie-ff.webp",
+    "releaseMonth": 11
   },
   {
     "id": "laowa-15mm-f4-5-0-5x-wide-angle-macro",
@@ -33517,7 +33612,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-15mm-f4-5-0-5x-wide-angle-macro.webp"
+    "image_url": "/images/products/laowa/laowa-15mm-f4-5-0-5x-wide-angle-macro.webp",
+    "releaseMonth": 5
   },
   {
     "id": "laowa-17mm-f4-zero-d-shift",
@@ -33573,7 +33669,8 @@
       }
     ],
     "sensorFormat": "Medium Format",
-    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-shift.webp"
+    "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-shift.webp",
+    "releaseMonth": 3
   },
   {
     "id": "sigma-af-cine-28-45mm-t2-ff",
@@ -34235,7 +34332,8 @@
       }
     ],
     "sensorFormat": "Medium Format",
-    "image_url": "/images/products/laowa/laowa-55mm-f2-8-tilt-shift-1x-macro.webp"
+    "image_url": "/images/products/laowa/laowa-55mm-f2-8-tilt-shift-1x-macro.webp",
+    "releaseMonth": 10
   },
   {
     "id": "laowa-100mm-f2-8-tilt-shift-1x-macro",
@@ -34286,7 +34384,8 @@
       }
     ],
     "sensorFormat": "Medium Format",
-    "image_url": "/images/products/laowa/laowa-100mm-f2-8-tilt-shift-1x-macro.webp"
+    "image_url": "/images/products/laowa/laowa-100mm-f2-8-tilt-shift-1x-macro.webp",
+    "releaseMonth": 10
   },
   {
     "id": "laowa-4-5-10mm-f2-8-cf-zoom-fisheye",
@@ -34341,7 +34440,8 @@
     ],
     "sensorFormat": "APS-C",
     "image_url": "/images/products/laowa/laowa-4-5-10mm-f2-8-cf-zoom-fisheye.webp",
-    "launchPrice": 14100
+    "launchPrice": 14100,
+    "releaseMonth": 5
   },
   {
     "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
@@ -34405,7 +34505,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp",
-    "launchPrice": 24900
+    "launchPrice": 24900,
+    "releaseMonth": 7
   },
   {
     "id": "om-system-pen",
@@ -39444,7 +39545,8 @@
         }
       }
     ],
-    "image_url": "/images/products/panasonic/panasonic-lumix-g-20mm-f1-7-ii-asph.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-20mm-f1-7-ii-asph.webp",
+    "releaseMonth": 6
   },
   {
     "id": "panasonic-lumix-g-14mm-f2-5-ii-asph",
@@ -39474,7 +39576,8 @@
         }
       }
     ],
-    "image_url": "/images/products/panasonic/panasonic-lumix-g-14mm-f2-5-ii-asph.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-14mm-f2-5-ii-asph.webp",
+    "releaseMonth": 9
   },
   {
     "id": "panasonic-lumix-s1",
@@ -39511,7 +39614,8 @@
         }
       }
     ],
-    "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp",
+    "releaseMonth": 2
   },
   {
     "id": "panasonic-lumix-s1r",
@@ -39543,6 +39647,672 @@
         }
       }
     ],
-    "image_url": "/images/products/panasonic/panasonic-lumix-s1r.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-s1r.webp",
+    "releaseMonth": 2
+  },
+  {
+    "id": "tamron-16-50mm-f2-8-a-b091",
+    "slug": "tamron-16-50mm-f2-8-a-b091",
+    "brand": "Tamron",
+    "modelName": "Tamron 16-50mm F2.8 A (Model B091)",
+    "gearType": "LENS",
+    "officialUrl": "https://www.tamron.com/global/consumer/lenses/b091/",
+    "releaseYear": 2026,
+    "sensorFormat": "APS-C",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "focalLengthMinMm": 16,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 2.8,
+    "minAperture": "16",
+    "opticalDesign": "14 elements in 10 groups",
+    "closeFocus": "0.15m (W) / 0.29m (T)",
+    "maxMagnification": "0.22x",
+    "filterSizeMm": 55,
+    "dimensions": "Ø64.4 x 79.6 mm",
+    "weightGrams": 305,
+    "motorType": "VXD",
+    "coatings": "BBAR G2",
+    "hasWeatherSeal": true
+  },
+  {
+    "id": "voigtlander-apo-lanthar-90mm-f4-close-focus",
+    "slug": "voigtlander-apo-lanthar-90mm-f4-close-focus",
+    "brand": "Voigtlander",
+    "modelName": "Voigtländer APO-LANTHAR 90mm F4 Close Focus",
+    "gearType": "LENS",
+    "officialUrl": "https://www.cosina.co.jp/voigtlander/vm-mount/apo-lanthar-90mm-f4-close-focus/",
+    "releaseYear": 2026,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 4,
+    "minAperture": "22",
+    "opticalDesign": "8 elements in 7 groups",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.28x",
+    "filterSizeMm": 43,
+    "dimensions": "Ø53 x 54.8 mm",
+    "weightGrams": 235
+  },
+  {
+    "id": "leica-noctilux-m-35-f1-2-asph",
+    "slug": "leica-noctilux-m-35-f1-2-asph",
+    "brand": "Leica",
+    "modelName": "Leica Noctilux-M 35 f/1.2 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-noctilux-m-35mm-f-1-2-asph-black-anodized.html",
+    "releaseYear": 2026,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.2,
+    "opticalDesign": "10 elements in 5 groups",
+    "specialElements": "3 Aspherical",
+    "closeFocus": "0.5m",
+    "maxMagnification": "0.09x",
+    "filterSizeMm": 49,
+    "dimensions": "Ø65 x 50 mm",
+    "weightGrams": 416,
+    "hasApertureRing": true,
+    "image_url": "/images/products/leica/leica-noctilux-m-35-f1-2-asph.webp"
+  },
+  {
+    "id": "leica-apo-summicron-m-50-f2-asph",
+    "slug": "leica-apo-summicron-m-50-f2-asph",
+    "brand": "Leica",
+    "modelName": "Leica APO-Summicron-M 50 f/2 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-apo-summicron-m-50mm-f-2-asph-black-anodized.html",
+    "releaseYear": 2012,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 2,
+    "minAperture": "16",
+    "opticalDesign": "8 elements in 5 groups",
+    "specialElements": "1 Aspherical",
+    "closeFocus": "0.7m",
+    "maxMagnification": "0.09x",
+    "filterSizeMm": 39,
+    "dimensions": "Ø53 x 47 mm",
+    "weightGrams": 300,
+    "hasApertureRing": true,
+    "image_url": "/images/products/leica/leica-apo-summicron-m-50-f2-asph.webp"
+  },
+  {
+    "id": "leica-summarit-m-35-f2-4-asph",
+    "slug": "leica-summarit-m-35-f2-4-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summarit-M 35 f/2.4 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summarit-m-35mm-f-2-4-asph-black-anodized-finish",
+    "releaseYear": 2014,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2.4,
+    "opticalDesign": "6 elements in 4 groups",
+    "closeFocus": "0.8m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø52 x 34 mm",
+    "weightGrams": 197
+  },
+  {
+    "id": "leica-summarit-m-50-f2-4",
+    "slug": "leica-summarit-m-50-f2-4",
+    "brand": "Leica",
+    "modelName": "Leica Summarit-M 50 f/2.4",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summarit-m-50mm-f-2-4-black-anodized-finish",
+    "releaseYear": 2014,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 2.4,
+    "opticalDesign": "6 elements in 4 groups",
+    "closeFocus": "0.8m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø52 x 33 mm",
+    "weightGrams": 190,
+    "image_url": "/images/products/leica/leica-summarit-m-50-f2-4.webp"
+  },
+  {
+    "id": "leica-summarit-m-75-f2-4",
+    "slug": "leica-summarit-m-75-f2-4",
+    "brand": "Leica",
+    "modelName": "Leica Summarit-M 75 f/2.4",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summarit-m-75mm-f-2-4-black-anodized-finish",
+    "releaseYear": 2014,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": 2.4,
+    "opticalDesign": "6 elements in 4 groups",
+    "closeFocus": "0.7m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø55 x 60.5 mm",
+    "weightGrams": 325,
+    "image_url": "/images/products/leica/leica-summarit-m-75-f2-4.webp"
+  },
+  {
+    "id": "leica-summarit-m-90-f2-4",
+    "slug": "leica-summarit-m-90-f2-4",
+    "brand": "Leica",
+    "modelName": "Leica Summarit-M 90 f/2.4",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summarit-m-90mm-f-2-4-black-anodized-finish",
+    "releaseYear": 2014,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 2.4,
+    "opticalDesign": "6 elements in 4 groups",
+    "closeFocus": "0.9m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø55 x 67 mm",
+    "weightGrams": 346,
+    "image_url": "/images/products/leica/leica-summarit-m-90-f2-4.webp"
+  },
+  {
+    "id": "leica-summilux-m-28-f1-4-asph",
+    "slug": "leica-summilux-m-28-f1-4-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 28 f/1.4 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summilux-m-28mm-f-1-4-asph-black-anodized",
+    "releaseYear": 2015,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 28,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "10 elements in 7 groups",
+    "specialElements": "1 Aspherical",
+    "closeFocus": "0.7m",
+    "maxMagnification": "0.05x",
+    "filterSizeMm": 49,
+    "weightGrams": 440,
+    "image_url": "/images/products/leica/leica-summilux-m-28-f1-4-asph.webp"
+  },
+  {
+    "id": "leica-summaron-m-28-f5-6",
+    "slug": "leica-summaron-m-28-f5-6",
+    "brand": "Leica",
+    "modelName": "Leica Summaron-M 28 f/5.6",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summaron-m-28mm-f-5-6",
+    "releaseYear": 2016,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 28,
+    "apertureMax": 5.6,
+    "opticalDesign": "6 elements in 4 groups",
+    "closeFocus": "1m",
+    "maxMagnification": "0.03x",
+    "filterSizeMm": 34,
+    "dimensions": "Ø51 x 18 mm",
+    "weightGrams": 165,
+    "hasApertureRing": true
+  },
+  {
+    "id": "leica-noctilux-m-75-f1-25-asph",
+    "slug": "leica-noctilux-m-75-f1-25-asph",
+    "brand": "Leica",
+    "modelName": "Leica Noctilux-M 75 f/1.25 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-noctilux-m-75mm-f-1-25-asph-black-anodized.html",
+    "releaseYear": 2017,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 75,
+    "focalLengthMaxMm": 75,
+    "apertureMax": 1.25,
+    "opticalDesign": "9 elements in 6 groups",
+    "specialElements": "2 Aspherical",
+    "closeFocus": "0.85m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø74 x 91 mm",
+    "weightGrams": 1055
+  },
+  {
+    "id": "leica-thambar-m-90-f2-2",
+    "slug": "leica-thambar-m-90-f2-2",
+    "brand": "Leica",
+    "modelName": "Leica Thambar-M 90 f/2.2",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-thambar-m-90mm-f-2-2",
+    "releaseYear": 2017,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 2.2,
+    "minAperture": "25",
+    "opticalDesign": "4 elements in 3 groups",
+    "closeFocus": "1m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 49,
+    "weightGrams": 500,
+    "image_url": "/images/products/leica/leica-thambar-m-90-f2-2.webp"
+  },
+  {
+    "id": "leica-summilux-m-90-f1-5-asph",
+    "slug": "leica-summilux-m-90-f1-5-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 90 f/1.5 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-summilux-m-90mm-f-1-5-asph-black-anodized.html",
+    "releaseYear": 2019,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 90,
+    "focalLengthMaxMm": 90,
+    "apertureMax": 1.5,
+    "opticalDesign": "8 elements in 6 groups",
+    "specialElements": "2 Aspherical",
+    "closeFocus": "1m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 67,
+    "dimensions": "Ø74 x 91 mm",
+    "weightGrams": 1010,
+    "hasApertureRing": true
+  },
+  {
+    "id": "leica-apo-summicron-m-35-f2-asph",
+    "slug": "leica-apo-summicron-m-35-f2-asph",
+    "brand": "Leica",
+    "modelName": "Leica APO-Summicron-M 35 f/2 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-apo-summicron-m-35mm-f-2-asph-black-anodized.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 2,
+    "opticalDesign": "10 elements in 5 groups",
+    "specialElements": "6 Anomalous Partial Dispersion, 3 Aspherical",
+    "closeFocus": "0.3m",
+    "filterSizeMm": 39,
+    "weightGrams": 320
+  },
+  {
+    "id": "leica-noctilux-m-50-f1-2-asph",
+    "slug": "leica-noctilux-m-50-f1-2-asph",
+    "brand": "Leica",
+    "modelName": "Leica Noctilux-M 50 f/1.2 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-noctilux-m-50-f-1-2-asph-black-anodized.html",
+    "releaseYear": 2021,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.2,
+    "minAperture": "16",
+    "opticalDesign": "6 elements in 4 groups",
+    "specialElements": "2 Aspherical",
+    "closeFocus": "1m",
+    "maxMagnification": "0.06x",
+    "filterSizeMm": 49,
+    "dimensions": "Ø61 x 52 mm",
+    "weightGrams": 405
+  },
+  {
+    "id": "leica-summilux-m-35-f1-4-asph",
+    "slug": "leica-summilux-m-35-f1-4-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 35 f/1.4 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summilux-m-35mm-f-1-4-asph-fle-ii-black",
+    "releaseYear": 2022,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "9 elements in 5 groups",
+    "specialElements": "1 Aspherical",
+    "closeFocus": "0.4m",
+    "maxMagnification": "0.11x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø58 x 46 mm",
+    "weightGrams": 338
+  },
+  {
+    "id": "leica-summilux-m-35-f1-4",
+    "slug": "leica-summilux-m-35-f1-4",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 35 f/1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-summilux-m-35mm-f-1-4.html",
+    "releaseYear": 2022,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "opticalDesign": "7 elements in 5 groups",
+    "closeFocus": "1m",
+    "maxMagnification": "0.04x",
+    "filterSizeMm": 46,
+    "weightGrams": 200,
+    "hasApertureRing": true
+  },
+  {
+    "id": "leica-summilux-m-50-f1-4-asph",
+    "slug": "leica-summilux-m-50-f1-4-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 50 f/1.4 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicastoremiami.com/products/leica-summilux-m-50mm-f-1-4-asph-ii-black",
+    "releaseYear": 2023,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "opticalDesign": "8 elements in 5 groups",
+    "specialElements": "1 Aspherical",
+    "closeFocus": "0.45m",
+    "maxMagnification": "0.16x",
+    "filterSizeMm": 46,
+    "dimensions": "Ø58.6 x 59.3 mm",
+    "weightGrams": 337
+  },
+  {
+    "id": "leica-summicron-m-28-f2-asph",
+    "slug": "leica-summicron-m-28-f2-asph",
+    "brand": "Leica",
+    "modelName": "Leica Summicron-M 28 f/2 ASPH.",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-summicron-m-28-f-2-asph-in-black.html",
+    "releaseYear": 2023,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 28,
+    "apertureMax": 2,
+    "opticalDesign": "9 elements in 6 groups",
+    "closeFocus": "0.4m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø58 x 55 mm",
+    "weightGrams": 275,
+    "hasApertureRing": true
+  },
+  {
+    "id": "leica-summilux-m-50-f1-4",
+    "slug": "leica-summilux-m-50-f1-4",
+    "brand": "Leica",
+    "modelName": "Leica Summilux-M 50 f/1.4",
+    "gearType": "LENS",
+    "officialUrl": "https://leicacamerausa.com/leica-summilux-m-50mm-f-1-4-glossy-black.html",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ],
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.4,
+    "opticalDesign": "7 elements in 5 groups",
+    "closeFocus": "0.7m",
+    "filterSizeMm": 46,
+    "dimensions": "Ø58 x 45 mm",
+    "weightGrams": 417,
+    "hasApertureRing": true
+  },
+  {
+    "id": "canon-eos-c70",
+    "slug": "canon-eos-c70",
+    "brand": "Canon",
+    "modelName": "Canon EOS C70",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://faq.canon.jp/app/answers/detail/a_id/105776/",
+    "releaseYear": 2020,
+    "sensorFormat": "APS-C",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "megapixels": "8.85MP",
+    "isoRange": "160-25600 (Ext: 100-102400)",
+    "videoResolution": "4K 60p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "Canon Log 2, Canon Log 3",
+    "lcdSpec": "3.5-inch 2.76M-dot touch",
+    "cardSlots": "2x SD",
+    "dimensions": "160 x 130 x 116 mm",
+    "weightGrams": 1190,
+    "hasIBIS": false
+  },
+  {
+    "id": "canon-eos-c400",
+    "slug": "canon-eos-c400",
+    "brand": "Canon",
+    "modelName": "Canon EOS C400",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://canon.jp/biz/product/camera/pro-imaging/cinema-eos/lineup/ces-camera/c400/spec",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "megapixels": "19MP",
+    "isoRange": "160-25600 (Ext: 100-102400)",
+    "videoResolution": "6K 60p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "Canon Log 2, Canon Log 3",
+    "lcdSpec": "3.5-inch 2.76M-dot touch",
+    "dimensions": "142 x 135 x 135 mm",
+    "weightGrams": 1540
+  },
+  {
+    "id": "canon-eos-c80",
+    "slug": "canon-eos-c80",
+    "brand": "Canon",
+    "modelName": "Canon EOS C80",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://canon.jp/biz/product/camera/pro-imaging/cinema-eos/lineup/ces-camera/c80/spec",
+    "releaseYear": 2024,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "megapixels": "19MP",
+    "processor": "DIGIC DV 7",
+    "isoRange": "160-25600 (Ext: 100-102400)",
+    "videoResolution": "6K 30p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "Canon Log 2, Canon Log 3",
+    "lcdSpec": "3.5-inch 2.76M-dot touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "dimensions": "160 x 138 x 116 mm",
+    "weightGrams": 1545
+  },
+  {
+    "id": "canon-eos-c50",
+    "slug": "canon-eos-c50",
+    "brand": "Canon",
+    "modelName": "Canon EOS C50",
+    "gearType": "CAMERA_BODY",
+    "officialUrl": "https://canon.jp/biz/product/camera/pro-imaging/cinema-eos/lineup/ces-camera/c50/spec",
+    "releaseYear": 2025,
+    "sensorFormat": "Full Frame",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "megapixels": "32.4MP",
+    "isoRange": "160-25600 (Ext: 100-102400)",
+    "videoResolution": "7K 60p / 4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "Canon Log 2, Canon Log 3",
+    "lcdSpec": "3.0-inch 1.62M-dot touch",
+    "cardSlots": "1x CFexpress Type B + 1x SD",
+    "batterySpec": "LP-E6P",
+    "ports": "HDMI, USB-C, mic, headphone, timecode",
+    "dimensions": "142 x 88 x 95 mm",
+    "weightGrams": 670
   }
 ]
