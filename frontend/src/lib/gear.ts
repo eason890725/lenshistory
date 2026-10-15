@@ -42,7 +42,7 @@ export type Gear = {
   hasCustomButton?: boolean;
 
   // camera body
-  fixedLens?: string;       // built-in lens, e.g. "23mm F2 (35mm equiv.)"; present = fixed-lens camera
+  fixedLens?: string;       // built-in lens of a fixed-lens camera (a body with no mounts), e.g. "23mm F2 (35mm equiv.)"
   megapixels?: number | string;
   sensorType?: string;
   processor?: string;
@@ -73,9 +73,9 @@ export function weightValue(g: Gear) {
   return Number(String(g.weightGrams ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/)?.[0]) || undefined;
 }
 
-// Filter category: interchangeable-lens body, fixed-lens camera or lens
+// Filter category: a body with no mount is a fixed-lens camera (action cams often publish no lens spec, so fixedLens can be empty)
 export function gearKind(g: Gear) {
-  return g.gearType === 'LENS' ? 'LENS' : g.fixedLens ? 'FIXED_LENS' : 'CAMERA_BODY';
+  return g.gearType === 'LENS' ? 'LENS' : g.mounts?.length ? 'CAMERA_BODY' : 'FIXED_LENS';
 }
 
 // Launch price when known, else the street price
