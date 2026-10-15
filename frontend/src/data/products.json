@@ -4893,7 +4893,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/sigma/18-50mm-f2-8-dc-dn-contemporary.webp",
     "coatings": "Super Multi-Layer Coating",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 14190,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -9794,7 +9796,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/meike/85mm-f1-8-stm.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 6990,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Zeiss",
@@ -13562,7 +13566,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/10mm-f5-6.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -13887,7 +13893,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/15mm-f4-5-iii.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 25000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tokina",
@@ -14375,7 +14383,9 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 18000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -14511,7 +14521,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/40mm-f1-2-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Mitakon",
@@ -14831,7 +14843,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/voigtlander/65mm-f2-macro-apo-lanthar.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 29500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Zeiss",
@@ -15496,7 +15510,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf35mm-f-1-4l-vcm/main/product",
     "minAperture": "16",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 45900,
+    "retailPriceDate": "2026-10"
   },
   {
     "opticalDesign": "15 elements in 10 groups",
@@ -15631,7 +15647,9 @@
     ],
     "series": "DN",
     "image_url": "/images/products/sigma/35mm-f1-4-dg-dn-art-ii.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 33880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-120mm-f-4-s",
@@ -18097,7 +18115,9 @@
     "batterySpec": "EN-EL15c (350 shots)",
     "ports": "USB-C, micro HDMI (Type D), mic, headphone",
     "hasWeatherSeal": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 64880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -18209,7 +18229,9 @@
     "image_url": "/images/products/canon/canon-rf-45mm-f1-2-stm.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 12900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-85mm-f1-4-l-vcm",
@@ -18245,7 +18267,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-85mm-f1-4-l-vcm.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 44900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-14mm-f1-4-l-vcm",
@@ -18281,7 +18305,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-14mm-f1-4-l-vcm.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 65900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-7-14mm-f2-8-3-5-l-fisheye-stm",
@@ -18317,7 +18343,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-7-14mm-f2-8-3-5-l-fisheye-stm.webp",
     "releaseMonth": 2,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 45900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-20-50mm-f4-l-is-usm-pz",
@@ -18387,7 +18415,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-75-300mm-f4-5-6.webp",
     "releaseMonth": 4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 6900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-14-30mm-f4-6-3-is-stm-pz",
@@ -18423,7 +18453,9 @@
     "coatings": "Super Spectra Coating",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 10900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-20mm-f1-4-l-vcm",
@@ -18494,7 +18526,9 @@
     "image_url": "/images/products/canon/canon-rf-16-28mm-f2-8-is-stm.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 34100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-70-200mm-f2-8-l-is-usm-z",
@@ -18530,7 +18564,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-70-200mm-f2-8-l-is-usm-z.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 93900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-50mm-f1-4-l-vcm",
@@ -18636,7 +18672,9 @@
     "image_url": "/images/products/canon/canon-rf-s-7-8mm-f4-stm-dual.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 14100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-28-70mm-f2-8-is-stm",
@@ -18671,7 +18709,9 @@
     "image_url": "/images/products/canon/canon-rf-28-70mm-f2-8-is-stm.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 34100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-3-9mm-f3-5-stm-dual-fisheye",
@@ -18740,7 +18780,9 @@
     "image_url": "/images/products/canon/canon-rf-s-55-210mm-f5-7-1-is-stm.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 10800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-100-300mm-f2-8-l-is-usm",
@@ -18923,7 +18965,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-1200mm-f8-l-is-usm.webp",
     "hasApertureRing": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 590000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-800mm-f5-6-l-is-usm",
@@ -18959,7 +19003,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-800mm-f5-6-l-is-usm.webp",
     "hasApertureRing": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 503200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-14-35mm-f4-l-is-usm",
@@ -19174,7 +19220,9 @@
     "image_url": "/images/products/canon/canon-rf-85mm-f1-2-l-usm-ds.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 93000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24-240mm-f4-6-3-is-usm",
@@ -19242,7 +19290,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-5-2mm-f2-8-l-dual-fisheye.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 59900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-r6-v",
@@ -21591,7 +21641,9 @@
     "motorType": "Linear Stepping Motor",
     "image_url": "/images/products/hasselblad/hasselblad-xcd-25mm-f2-5-v.webp",
     "releaseMonth": 5,
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 118000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-38mm-f2-5-v",
@@ -21625,7 +21677,9 @@
     "image_url": "/images/products/hasselblad/hasselblad-xcd-38mm-f2-5-v.webp",
     "releaseMonth": 9,
     "hasOIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 118000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-55mm-f2-5-v",
@@ -21658,7 +21712,9 @@
     "motorType": "Stepping Motor",
     "image_url": "/images/products/hasselblad/hasselblad-xcd-55mm-f2-5-v.webp",
     "releaseMonth": 9,
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 118000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-90mm-f2-5-v",
@@ -21691,7 +21747,9 @@
     "motorType": "Stepping Motor",
     "image_url": "/images/products/hasselblad/hasselblad-xcd-90mm-f2-5-v.webp",
     "releaseMonth": 9,
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 136000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-28mm-f4-p",
@@ -21726,7 +21784,9 @@
     "releaseMonth": 8,
     "hasOIS": false,
     "hasWeatherSeal": true,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 59000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-45mm-f4-p",
@@ -21759,7 +21819,9 @@
     "image_url": "/images/products/hasselblad/hasselblad-xcd-45mm-f4-p.webp",
     "releaseMonth": 1,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 41000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-75mm-f3-4-p",
@@ -21793,7 +21855,9 @@
     "image_url": "/images/products/hasselblad/hasselblad-xcd-75mm-f3-4-p.webp",
     "releaseMonth": 11,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 70000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-20-35mm-f3-2-4-5-e",
@@ -21827,7 +21891,9 @@
     "image_url": "/images/products/hasselblad/hasselblad-xcd-20-35mm-f3-2-4-5-e.webp",
     "releaseMonth": 9,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 189000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-35-100mm-f2-8-4-e",
@@ -21861,7 +21927,9 @@
     "image_url": "/images/products/hasselblad/hasselblad-xcd-35-100mm-f2-8-4-e.webp",
     "releaseMonth": 8,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 146000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-35-75mm-f3-5-4-5",
@@ -21894,7 +21962,9 @@
     "releaseMonth": 6,
     "hasOIS": false,
     "motorType": "Micromotor",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 119000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-xcd-21mm-f4",
@@ -22187,7 +22257,9 @@
     "weightGrams": 840,
     "dimensions": "148.5 x 106 x 75 mm",
     "image_url": "/images/products/hasselblad/hasselblad-x2d-ii-100c.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 248000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-x2d-100c",
@@ -22317,7 +22389,9 @@
     "dimensions": "102 x 92 x 84 mm",
     "image_url": "/images/products/hasselblad/hasselblad-907x-cfv-100c.webp",
     "hasIBIS": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 235000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "hasselblad-x1d-50c",
@@ -22587,7 +22661,8 @@
     "afTargets": "Human, Animal, Vehicle",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 196620
   },
   {
     "id": "leica-q-typ-116",
@@ -23962,7 +24037,8 @@
     "hasWeatherSeal": true,
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-70-200-f28-asph-black-anodized-finish",
     "image_url": "/images/products/leica/leica-vario-elmarit-sl-70-200-f2-8-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 107800
   },
   {
     "id": "leica-summilux-sl-50-f1-4-asph-2026",
@@ -23997,7 +24073,8 @@
     "coatings": "Aqua-Dura",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/summilux-sl-50mm-f1-4-asph-black-anodized-finish",
     "image_url": "/images/products/leica/leica-summilux-sl-50-f1-4-asph-2026.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 163721
   },
   {
     "id": "leica-apo-macro-elmarit-sl-100-f2-8",
@@ -24030,7 +24107,8 @@
     "coatings": "Aqua-Dura",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-macro-elmarit-sl-100mm-f2-8-black",
     "image_url": "/images/products/leica/leica-apo-macro-elmarit-sl-100-f2-8.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 89082
   },
   {
     "id": "leica-summicron-tl-23-f2-asph",
@@ -24419,7 +24497,9 @@
     "image_url": "/images/products/nikon/nikon-z-400mm-f-2-8-tc-vr-s.webp",
     "hasCustomButton": true,
     "releaseMonth": 1,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 474000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-400mm-f-4-5-vr-s",
@@ -24455,7 +24535,9 @@
     "image_url": "/images/products/nikon/nikon-z-400mm-f-4-5-vr-s.webp",
     "hasCustomButton": true,
     "releaseMonth": 6,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 115000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-600mm-f-4-tc-vr-s",
@@ -24491,7 +24573,9 @@
     ],
     "image_url": "/images/products/nikon/nikon-z-600mm-f-4-tc-vr-s.webp",
     "releaseMonth": 11,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 539000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-600mm-f-6-3-vr-s",
@@ -24527,7 +24611,9 @@
     "image_url": "/images/products/nikon/nikon-z-600mm-f-6-3-vr-s.webp",
     "hasCustomButton": true,
     "releaseMonth": 10,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 169000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-800mm-f-6-3-vr-s",
@@ -24563,7 +24649,9 @@
     "image_url": "/images/products/nikon/nikon-z-800mm-f-6-3-vr-s.webp",
     "hasCustomButton": true,
     "releaseMonth": 4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 218000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-35mm-f-1-2-s",
@@ -24599,7 +24687,9 @@
     "hasWeatherSeal": true,
     "hasCustomButton": true,
     "releaseMonth": 2,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 92900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-70mm-f-2-8-s-ii",
@@ -24634,7 +24724,9 @@
     "image_url": "/images/products/nikon/nikon-z-24-70mm-f-2-8-s-ii.webp",
     "hasWeatherSeal": true,
     "releaseMonth": 8,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 81900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-70-200mm-f-2-8-vr-s-ii",
@@ -24669,7 +24761,9 @@
     "image_url": "/images/products/nikon/nikon-z-70-200mm-f-2-8-vr-s-ii.webp",
     "hasWeatherSeal": true,
     "releaseMonth": 2,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 98500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-35mm-f-1-4",
@@ -24704,7 +24798,9 @@
     "coatings": "Super Integrated Coating",
     "hasWeatherSeal": true,
     "releaseMonth": 6,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 20600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-50mm-f-1-4",
@@ -24739,7 +24835,9 @@
     "coatings": "Super Integrated Coating",
     "hasWeatherSeal": true,
     "releaseMonth": 9,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 16800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-24mm-f-1-7",
@@ -24773,7 +24871,9 @@
     "image_url": "/images/products/nikon/nikon-z-dx-24mm-f-1-7.webp",
     "hasWeatherSeal": true,
     "releaseMonth": 6,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 9999,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-17-28mm-f-2-8",
@@ -24808,7 +24908,9 @@
     "image_url": "/images/products/nikon/nikon-z-17-28mm-f-2-8.webp",
     "coatings": "Super Integrated Coating",
     "releaseMonth": 9,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 41900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-105mm-f-4-7-1",
@@ -24843,7 +24945,9 @@
     "image_url": "/images/products/nikon/nikon-z-24-105mm-f-4-7-1.webp",
     "coatings": "Super Integrated Coating",
     "hasApertureRing": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 18880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-28-135mm-f-4-pz",
@@ -24879,7 +24983,9 @@
     "hasWeatherSeal": true,
     "hasCustomButton": true,
     "releaseMonth": 2,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 82900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-28-400mm-f-4-8-vr",
@@ -24914,7 +25020,9 @@
     "coatings": "Super Integrated Coating",
     "hasWeatherSeal": true,
     "releaseMonth": 3,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 44900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-70-180mm-f-2-8",
@@ -24949,7 +25057,9 @@
     "coatings": "Super Integrated Coating",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 39900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-16-50mm-f-2-8-vr",
@@ -24984,7 +25094,9 @@
     "coatings": "Super Integrated Coating",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 31500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-mc-35mm-f-1-7",
@@ -25019,7 +25131,9 @@
     "coatings": "Super Integrated Coating",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 15990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-mc-50mm-f-2-8",
@@ -25054,7 +25168,9 @@
     ],
     "image_url": "/images/products/nikon/nikon-z-mc-50mm-f-2-8.webp",
     "hasApertureRing": false,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 23900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z5-ii",
@@ -25094,7 +25210,9 @@
     "image_url": "/images/products/nikon/nikon-z5-ii.webp",
     "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
     "hasWeatherSeal": true,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 52900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z5-iic",
@@ -25213,7 +25331,9 @@
     "image_url": "/images/products/sigma/sigma-85mm-f1-2-dg-art.webp",
     "specialElements": "2 SLD, 3 Aspherical",
     "coatings": "Water and Oil-Repellent Coating",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 52880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-12mm-f1-4-dc-contemporary",
@@ -25259,7 +25379,9 @@
     "image_url": "/images/products/sigma/sigma-12mm-f1-4-dc-contemporary.webp",
     "coatings": "Water and Oil-Repellent Coating",
     "hasCustomButton": false,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 18800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-15mm-f1-4-dc-contemporary",
@@ -25305,7 +25427,9 @@
     "image_url": "/images/products/sigma/sigma-15mm-f1-4-dc-contemporary.webp",
     "coatings": "Water and Oil-Repellent Coating",
     "hasCustomButton": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 17580,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-16mm-f1-4-dc-dn-contemporary",
@@ -25366,7 +25490,9 @@
     "image_url": "/images/products/sigma/sigma-16mm-f1-4-dc-dn-contemporary.webp",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 11400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-23mm-f1-4-dc-dn-contemporary",
@@ -25479,7 +25605,9 @@
     "image_url": "/images/products/sigma/sigma-30mm-f1-4-dc-dn-contemporary.webp",
     "hasWeatherSeal": false,
     "hasCustomButton": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 8700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-56mm-f1-4-dc-dn-contemporary",
@@ -25581,7 +25709,9 @@
     "coatings": "Water and Oil-Repellent Coating",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 26880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-10-18mm-f2-8-dc-dn-contemporary",
@@ -25632,7 +25762,9 @@
     "coatings": "Super Multi-Layer Coating",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 21980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-16-300mm-f3-5-6-7-dc-os-contemporary",
@@ -25688,7 +25820,9 @@
     "coatings": "Super Multi-Layer Coating, Water and Oil-Repellent Coating",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 20800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-17-40mm-f1-8-dc-art",
@@ -25785,7 +25919,9 @@
     "image_url": "/images/products/sigma/sigma-50-120mm-f2-8-dc-os-contemporary.webp",
     "coatings": "Water and Oil-Repellent Coating",
     "hasApertureRing": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 26880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-19mm-f2-8-dn-art",
@@ -26011,7 +26147,9 @@
       }
     ],
     "image_url": "/images/products/sigma/sigma-bf.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 61850,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tamron-12-20mm-f2-8-a084",
@@ -26098,7 +26236,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tamron/tamron-11-20mm-f2-8-di-iii-a-rxd-b060.webp",
     "releaseMonth": 4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 22800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tamron-17-70mm-f2-8-di-iii-a-vc-rxd-b070",
@@ -26148,7 +26288,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tamron/tamron-17-70mm-f2-8-di-iii-a-vc-rxd-b070.webp",
     "releaseMonth": 12,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 22800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tamron-18-300mm-f3-5-6-3-di-iii-a-vc-vxd-b061",
@@ -26198,7 +26340,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tamron/tamron-18-300mm-f3-5-6-3-di-iii-a-vc-vxd-b061.webp",
     "releaseMonth": 8,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 19600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-19mm-f2-8-ex-dn",
@@ -26502,7 +26646,9 @@
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "hasCustomButton": false,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 12980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-400mm-f4-5-gm-oss",
@@ -26719,7 +26865,9 @@
     "releaseMonth": 3,
     "hasOIS": false,
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 7480,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-85mm-f1-8",
@@ -26928,7 +27076,9 @@
     "motorType": "2x Linear Motor",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 18480,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-10-20mm-f4-g",
@@ -26963,7 +27113,9 @@
     "motorType": "2x Linear Motor",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 17980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-18-135mm-f3-5-5-6-oss",
@@ -27066,7 +27218,9 @@
     ],
     "image_url": "/images/products/sony/sony-e-10-18mm-f4-oss.webp",
     "releaseMonth": 9,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 25880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-16-50mm-f3-5-5-6-oss",
@@ -27098,7 +27252,9 @@
     "image_url": "/images/products/sony/sony-e-pz-16-50mm-f3-5-5-6-oss.webp",
     "releaseMonth": 9,
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 10880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-35mm-f1-8-oss",
@@ -27163,7 +27319,9 @@
     "motorType": "Linear Motor",
     "specialElements": "1 AA, 3 Aspherical, 1 ED",
     "releaseMonth": 8,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 24880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-18-105mm-f4-g-oss",
@@ -27195,7 +27353,9 @@
     ],
     "image_url": "/images/products/sony/sony-e-pz-18-105mm-f4-g-oss.webp",
     "releaseMonth": 8,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 16880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-20mm-f2-8",
@@ -27225,7 +27385,9 @@
       }
     ],
     "image_url": "/images/products/sony/sony-e-20mm-f2-8.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 10880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-18-200mm-f3-5-6-3-oss",
@@ -27256,7 +27418,9 @@
     ],
     "image_url": "/images/products/sony/sony-e-pz-18-200mm-f3-5-6-3-oss.webp",
     "releaseMonth": 9,
-    "specialElements": "1 ED, 5 Aspherical"
+    "specialElements": "1 ED, 5 Aspherical",
+    "retailPrice": 36880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-nex-6",
@@ -27628,7 +27792,9 @@
     "image_url": "/images/products/sony/sony-e-18-200mm-f3-5-6-3-oss-le.webp",
     "releaseMonth": 5,
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 25880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fx9",
@@ -27979,7 +28145,9 @@
     "coatings": "ZEISS T*",
     "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-35.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 62980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-28mm-f1-5-aspherical",
@@ -28017,7 +28185,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-28mm-f1-5-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 27000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-lanthar-28mm-f2-aspherical",
@@ -28060,7 +28230,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-28mm-f2-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -28098,7 +28270,9 @@
     "image_url": "/images/products/voigtlander/voigtlander-septon-40mm-f2-aspherical.webp",
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 16000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -28189,7 +28363,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-portrait-heliar-75mm-f1-8.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -28231,7 +28407,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-75mm-f1-5-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 28000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-color-skopar-18mm-f2-8-aspherical",
@@ -28263,7 +28441,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-color-skopar-18mm-f2-8-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 16000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-23mm-f1-2-aspherical",
@@ -28296,7 +28476,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-23mm-f1-2-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 20000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-ultron-27mm-f2",
@@ -28362,7 +28544,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f0-9-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 47900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-x-mount",
@@ -28461,7 +28645,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-x-mount.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 21500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-super-nokton-29mm-f0-8-aspherical",
@@ -28570,7 +28756,9 @@
     "coatings": "HD Nano Multi-layer Coating",
     "hasOIS": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 10500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-23mm-f1-4",
@@ -28615,7 +28803,9 @@
     "coatings": "HD Nano Coating",
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 6490,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-33mm-f1-4",
@@ -28658,7 +28848,9 @@
     "image_url": "/images/products/viltrox/viltrox-af-33mm-f1-4.webp",
     "hasOIS": false,
     "hasApertureRing": true,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 6490,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-56mm-f1-4",
@@ -28702,7 +28894,9 @@
     "coatings": "HD Nano Multilayer Coating",
     "hasOIS": false,
     "hasApertureRing": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 6490,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-27mm-f1-2-pro",
@@ -28747,7 +28941,9 @@
     "image_url": "/images/products/viltrox/viltrox-af-27mm-f1-2-pro.webp",
     "hasOIS": false,
     "releaseMonth": 8,
-    "coatings": "Front lens waterproof and anti-fouling coating"
+    "coatings": "Front lens waterproof and anti-fouling coating",
+    "retailPrice": 14300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-56mm-f1-2-pro",
@@ -28790,7 +28986,9 @@
     "coatings": "HD Nano Coating",
     "hasApertureRing": true,
     "hasCustomButton": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 16200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-75mm-f1-2-pro",
@@ -28835,7 +29033,9 @@
     "image_url": "/images/products/viltrox/viltrox-af-75mm-f1-2-pro.webp",
     "hasOIS": false,
     "hasApertureRing": true,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 14200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-9mm-f2-8-air",
@@ -28877,7 +29077,9 @@
     "motorType": "STM",
     "hasApertureRing": false,
     "hasWeatherSeal": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 4990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-15mm-f1-7-air",
@@ -28919,7 +29121,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "releaseMonth": 7,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "retailPrice": 5200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-25mm-f1-7-air",
@@ -28958,7 +29162,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": false,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 4590,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-35mm-f1-7-air",
@@ -28991,7 +29197,9 @@
     "closeFocus": "0.33m",
     "hasApertureRing": false,
     "hasWeatherSeal": false,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 4390,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-56mm-f1-7-air",
@@ -29030,7 +29238,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasWeatherSeal": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 4480,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-14mm-f4-0-air",
@@ -29073,7 +29283,9 @@
     "motorType": "STM",
     "coatings": "Advanced Multi-Layer Coating",
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 4990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-26mm-f2-8-evo",
@@ -29300,7 +29512,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 11969,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-af-85mm-f1-8-p-fe",
@@ -29336,7 +29550,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 13150,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-af-12mm-f2-e",
@@ -29382,7 +29598,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 10980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-af-35mm-f1-8-fe",
@@ -29417,7 +29635,9 @@
     "image_url": "/images/products/samyang/samyang-af-35mm-f1-8-fe.webp",
     "hasOIS": false,
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 10980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-mf-14mm-f2-8-z",
@@ -31443,7 +31663,9 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "hasApertureRing": true,
-    "specialElements": "1 APD"
+    "specialElements": "1 APD",
+    "retailPrice": 29280,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "zeiss-touit-2-8-12",
@@ -31478,7 +31700,9 @@
     "coatings": "ZEISS T*",
     "hasOIS": false,
     "image_url": "/images/products/zeiss/zeiss-touit-2-8-12.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 26010,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "zeiss-touit-1-8-32",
@@ -31549,7 +31773,9 @@
     "releaseMonth": 1,
     "coatings": "ZEISS T*",
     "hasOIS": false,
-    "image_url": "/images/products/zeiss/zeiss-touit-2-8-50m.webp"
+    "image_url": "/images/products/zeiss/zeiss-touit-2-8-50m.webp",
+    "retailPrice": 24930,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-ii",
@@ -31582,7 +31808,9 @@
     "hasOIS": false,
     "motorType": "Manual focus",
     "releaseMonth": 10,
-    "coatings": "Mehrfachbeschichtung (multi-coating)"
+    "coatings": "Mehrfachbeschichtung (multi-coating)",
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f2-aspherical-ii",
@@ -31614,7 +31842,9 @@
     "hasApertureRing": true,
     "hasOIS": false,
     "motorType": "Manual focus",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 30000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-super-wide-heliar-15mm-f4-5-aspherical-z",
@@ -31675,7 +31905,9 @@
     "sensorFormat": "Four Thirds",
     "hasApertureRing": true,
     "releaseMonth": 5,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-10-5mm-f0-95-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-10-5mm-f0-95-aspherical.webp",
+    "retailPrice": 33000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-17-5mm-f0-95-aspherical",
@@ -31705,7 +31937,9 @@
     "sensorFormat": "Four Thirds",
     "hasApertureRing": true,
     "releaseMonth": 2,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-17-5mm-f0-95-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-17-5mm-f0-95-aspherical.webp",
+    "retailPrice": 27000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-25mm-f0-95-type-ii",
@@ -31735,7 +31969,9 @@
     "sensorFormat": "Four Thirds",
     "hasApertureRing": true,
     "releaseMonth": 2,
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-25mm-f0-95-type-ii.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-25mm-f0-95-type-ii.webp",
+    "retailPrice": 24000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-42-5mm-f0-95",
@@ -31765,7 +32001,9 @@
     "sensorFormat": "Four Thirds",
     "releaseMonth": 6,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-42-5mm-f0-95.webp",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 27000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tokina-reflex-300mm-f6-3-mf-macro",
@@ -31838,7 +32076,9 @@
     "motorType": "STM",
     "releaseMonth": 6,
     "coatings": "HD Nano coating",
-    "image_url": "/images/products/sirui/sirui-sniper-16mm-f1-2.webp"
+    "image_url": "/images/products/sirui/sirui-sniper-16mm-f1-2.webp",
+    "retailPrice": 8800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-sniper-75mm-f1-2",
@@ -31877,7 +32117,9 @@
     "sensorFormat": "APS-C",
     "motorType": "STM",
     "releaseMonth": 6,
-    "coatings": "HD Nano coating"
+    "coatings": "HD Nano coating",
+    "retailPrice": 8800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-sniper-23mm-f1-2",
@@ -31916,7 +32158,9 @@
     "sensorFormat": "APS-C",
     "motorType": "STM",
     "releaseMonth": 11,
-    "image_url": "/images/products/sirui/sirui-sniper-23mm-f1-2.webp"
+    "image_url": "/images/products/sirui/sirui-sniper-23mm-f1-2.webp",
+    "retailPrice": 7890,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-sniper-33mm-f1-2",
@@ -31955,7 +32199,9 @@
     "sensorFormat": "APS-C",
     "motorType": "STM",
     "releaseMonth": 11,
-    "image_url": "/images/products/sirui/sirui-sniper-33mm-f1-2.webp"
+    "image_url": "/images/products/sirui/sirui-sniper-33mm-f1-2.webp",
+    "retailPrice": 7890,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-sniper-56mm-f1-2",
@@ -31994,7 +32240,9 @@
     "sensorFormat": "APS-C",
     "motorType": "STM",
     "releaseMonth": 11,
-    "image_url": "/images/products/sirui/sirui-sniper-56mm-f1-2.webp"
+    "image_url": "/images/products/sirui/sirui-sniper-56mm-f1-2.webp",
+    "retailPrice": 7890,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-vision-prime-24mm-t1-4",
@@ -32496,7 +32744,9 @@
     "closeFocus": "0.81m",
     "filterSizeMm": 77,
     "opticalDesign": "15 elements in 11 groups",
-    "motorType": "Hyper STM"
+    "motorType": "Hyper STM",
+    "retailPrice": 17800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "meike-25mm-f1-7-air",
@@ -32604,7 +32854,9 @@
     "filterSizeMm": 62,
     "opticalDesign": "11 elements in 9 groups",
     "motorType": "STM",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 7200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-27mm-f2-8",
@@ -32643,7 +32895,9 @@
     "filterSizeMm": 52,
     "motorType": "STM",
     "hasApertureRing": false,
-    "image_url": "/images/products/7artisans/7artisans-af-27mm-f2-8.webp"
+    "image_url": "/images/products/7artisans/7artisans-af-27mm-f2-8.webp",
+    "retailPrice": 4300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-35mm-f1-4",
@@ -32673,7 +32927,9 @@
     "filterSizeMm": 62,
     "opticalDesign": "8 elements in 5 groups",
     "motorType": "STM",
-    "coatings": "Waterproof and anti fouling coating"
+    "coatings": "Waterproof and anti fouling coating",
+    "retailPrice": 4500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-24mm-f1-8",
@@ -32714,7 +32970,9 @@
     "opticalDesign": "14 elements in 11 groups",
     "specialElements": "3 ED, 2 High Refractive, 2 Aspherical",
     "motorType": "STM",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 9900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-35mm-f1-8",
@@ -32755,7 +33013,9 @@
     "opticalDesign": "11 elements in 8 groups",
     "specialElements": "1 ED, 2 High-Refractive, 2 Aspherical",
     "motorType": "STM",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 9000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-10mm-f2-8",
@@ -32794,7 +33054,9 @@
     "filterSizeMm": 62,
     "motorType": "STM",
     "opticalDesign": "11 elements in 10 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 5800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-135mm-f1-8",
@@ -32838,7 +33100,9 @@
     "specialElements": "6 ED, 5 High Refractive Index",
     "coatings": "Nano multi-coating",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 22500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-40mm-f2-5-lite",
@@ -32878,7 +33142,9 @@
     "filterSizeMm": 46,
     "motorType": "STM",
     "opticalDesign": "7 elements in 6 groups",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 4980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-25mm-f1-8-aps-c-lite",
@@ -32917,7 +33183,9 @@
     "closeFocus": "0.25m",
     "filterSizeMm": 58,
     "opticalDesign": "8 elements in 5 groups",
-    "motorType": "STM"
+    "motorType": "STM",
+    "retailPrice": 3980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-35mm-f1-8-aps-c-lite",
@@ -32956,7 +33224,9 @@
     "closeFocus": "0.35m",
     "filterSizeMm": 58,
     "opticalDesign": "7 elements in 6 groups",
-    "motorType": "STM"
+    "motorType": "STM",
+    "retailPrice": 3980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-50mm-f1-8-aps-c-lite",
@@ -32995,7 +33265,9 @@
     "closeFocus": "0.55m",
     "filterSizeMm": 58,
     "opticalDesign": "6 elements in 5 groups",
-    "motorType": "STM"
+    "motorType": "STM",
+    "retailPrice": 3980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-10mm-f2-5-fisheye",
@@ -33037,7 +33309,9 @@
     "opticalDesign": "11 elements in 8 groups",
     "specialElements": "2 ED, 1 Aspherical",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 15600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-af-18mm-f2",
@@ -33156,7 +33430,9 @@
     "dimensions": "Ø75 x 95 mm",
     "minAperture": "16",
     "closeFocus": "0.15m",
-    "opticalDesign": "11 elements in 8 groups"
+    "opticalDesign": "11 elements in 8 groups",
+    "retailPrice": 9400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-10mm-f3-5",
@@ -34113,7 +34389,9 @@
     "coatings": "Anti-smudge fluorine coating",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sirui/sirui-aurora-85mm-f1-4.webp"
+    "image_url": "/images/products/sirui/sirui-aurora-85mm-f1-4.webp",
+    "retailPrice": 16980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-aurora-35mm-f1-4",
@@ -40526,7 +40804,8 @@
     "maxMagnification": "0.28x",
     "filterSizeMm": 43,
     "dimensions": "Ø53 x 54.8 mm",
-    "weightGrams": 235
+    "weightGrams": 235,
+    "launchPrice": 22000
   },
   {
     "id": "leica-noctilux-m-35-f1-2-asph",
@@ -40555,7 +40834,8 @@
     "dimensions": "Ø65 x 50 mm",
     "weightGrams": 416,
     "hasApertureRing": true,
-    "image_url": "/images/products/leica/leica-noctilux-m-35-f1-2-asph.webp"
+    "image_url": "/images/products/leica/leica-noctilux-m-35-f1-2-asph.webp",
+    "launchPrice": 305000
   },
   {
     "id": "leica-apo-summicron-m-50-f2-asph",
@@ -40825,7 +41105,8 @@
     "filterSizeMm": 67,
     "dimensions": "Ø74 x 91 mm",
     "weightGrams": 1010,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 400500
   },
   {
     "id": "leica-apo-summicron-m-35-f2-asph",
@@ -40906,7 +41187,8 @@
     "maxMagnification": "0.11x",
     "filterSizeMm": 46,
     "dimensions": "Ø58 x 46 mm",
-    "weightGrams": 338
+    "weightGrams": 338,
+    "launchPrice": 185600
   },
   {
     "id": "leica-summilux-m-35-f1-4",
@@ -40932,7 +41214,8 @@
     "maxMagnification": "0.04x",
     "filterSizeMm": 46,
     "weightGrams": 200,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 128800
   },
   {
     "id": "leica-summilux-m-50-f1-4-asph",
@@ -40960,7 +41243,8 @@
     "maxMagnification": "0.16x",
     "filterSizeMm": 46,
     "dimensions": "Ø58.6 x 59.3 mm",
-    "weightGrams": 337
+    "weightGrams": 337,
+    "launchPrice": 151000
   },
   {
     "id": "leica-summicron-m-28-f2-asph",
@@ -40986,7 +41270,8 @@
     "filterSizeMm": 46,
     "dimensions": "Ø58 x 55 mm",
     "weightGrams": 275,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 168000
   },
   {
     "id": "leica-summilux-m-50-f1-4",
@@ -41012,7 +41297,8 @@
     "filterSizeMm": 46,
     "dimensions": "Ø58 x 45 mm",
     "weightGrams": 417,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "launchPrice": 128800
   },
   {
     "id": "canon-eos-c70",
@@ -41039,7 +41325,9 @@
     "cardSlots": "2x SD",
     "dimensions": "160 x 130 x 116 mm",
     "weightGrams": 1190,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "retailPrice": 145000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-c400",
@@ -41064,7 +41352,9 @@
     "logSupport": "Canon Log 2, Canon Log 3",
     "lcdSpec": "3.5-inch 2.76M-dot touch",
     "dimensions": "142 x 135 x 135 mm",
-    "weightGrams": 1540
+    "weightGrams": 1540,
+    "retailPrice": 265900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-c80",
@@ -41091,7 +41381,9 @@
     "lcdSpec": "3.5-inch 2.76M-dot touch",
     "cardSlots": "2x SD (UHS-II)",
     "dimensions": "160 x 138 x 116 mm",
-    "weightGrams": 1545
+    "weightGrams": 1545,
+    "retailPrice": 183900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-c50",
@@ -41119,7 +41411,8 @@
     "batterySpec": "LP-E6P",
     "ports": "HDMI, USB-C, mic, headphone, timecode",
     "dimensions": "142 x 88 x 95 mm",
-    "weightGrams": 670
+    "weightGrams": 670,
+    "launchPrice": 98900
   },
   {
     "id": "astrhori-9mm-f2-8",
@@ -41986,7 +42279,9 @@
     "batterySpec": "BP-U series",
     "dimensions": "106 x 119 x 151 mm",
     "weightGrams": 1500,
-    "afTargets": "Human"
+    "afTargets": "Human",
+    "retailPrice": 74600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "blackmagic-pyxis-12k",
@@ -42011,7 +42306,9 @@
     "ports": "12G-SDI, USB-C (viewfinder), USB-C, 10Gb Ethernet (RJ-45), mini XLR, 3.5mm stereo in, headphone, reference/timecode in, 2-pin Lemo DC-IN",
     "batterySpec": "BP-U series",
     "dimensions": "106 x 119 x 151 mm",
-    "weightGrams": 1590
+    "weightGrams": 1590,
+    "retailPrice": 193650,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "blackmagic-cinema-camera-6k",
@@ -42038,7 +42335,9 @@
     "dimensions": "180 x 122 x 94 mm",
     "weightGrams": 1135,
     "afTargets": "Human",
-    "image_url": "/images/products/blackmagic-design/blackmagic-cinema-camera-6k.webp"
+    "image_url": "/images/products/blackmagic-design/blackmagic-cinema-camera-6k.webp",
+    "retailPrice": 62300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "blackmagic-pocket-cinema-camera-4k",
@@ -42064,7 +42363,9 @@
     "batterySpec": "Canon LP-E6",
     "dimensions": "178.1 x 96 x 85.5 mm",
     "weightGrams": 722,
-    "image_url": "/images/products/blackmagic-design/blackmagic-pocket-cinema-camera-4k.webp"
+    "image_url": "/images/products/blackmagic-design/blackmagic-pocket-cinema-camera-4k.webp",
+    "retailPrice": 40450,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "blackmagic-pocket-cinema-camera",
@@ -43834,7 +44135,9 @@
       }
     ],
     "image_url": "/images/products/kase/kase-reflex-lens-200mm-f5-6.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 17900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "kase-af-85mm-f1-4",
@@ -43875,7 +44178,9 @@
         }
       }
     ],
-    "image_url": "/images/products/kase/kase-af-85mm-f1-4.webp"
+    "image_url": "/images/products/kase/kase-af-85mm-f1-4.webp",
+    "retailPrice": 16300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "kase-150mm-f5-6-af-reflex-lens",
@@ -43910,7 +44215,9 @@
       }
     ],
     "image_url": "/images/products/kase/kase-150mm-f5-6-af-reflex-lens.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 19200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nisi-15mm-f4",
