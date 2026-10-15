@@ -1136,7 +1136,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-zv-e1.webp",
     "launchPrice": 64980,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "evfMagnification": "None"
   },
   {
     "brand": "Sony",
@@ -1540,7 +1541,8 @@
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-zv-e10-ii.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "evfMagnification": "None"
   },
   {
     "brand": "Sony",
@@ -1587,7 +1589,8 @@
     "hasWeatherSeal": false,
     "afTargets": "Human, Animal",
     "launchPrice": 17980,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "evfMagnification": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2135,7 +2138,8 @@
     "batterySpec": "NP-W126S (350 shots)",
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic",
     "hasWeatherSeal": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2491,7 +2495,8 @@
     "ports": "USB-C (10Gbps), micro HDMI, 2.5mm mic/remote",
     "logSupport": "F-Log, F-Log2, HLG",
     "releaseMonth": 2,
-    "fixedLens": "23mm F2 (35mm equiv.)"
+    "fixedLens": "23mm F2 (35mm equiv.)",
+    "hasWeatherSeal": true
   },
   {
     "brand": "Fujifilm",
@@ -2530,7 +2535,8 @@
     "burstSpeed": "11fps (Mech) / 20fps (Elec)",
     "logSupport": "F-Log",
     "releaseMonth": 2,
-    "fixedLens": "23mm F2 (35mm equiv.)"
+    "fixedLens": "23mm F2 (35mm equiv.)",
+    "hasWeatherSeal": true
   },
   {
     "brand": "Fujifilm",
@@ -2566,7 +2572,8 @@
     "hasWeatherSeal": false,
     "afPoints": "325 points",
     "releaseMonth": 1,
-    "fixedLens": "23mm F2 (35mm equiv.)"
+    "fixedLens": "23mm F2 (35mm equiv.)",
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2600,7 +2607,8 @@
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic/remote",
     "hasWeatherSeal": false,
     "releaseMonth": 9,
-    "fixedLens": "23mm F2 (35mm equiv.)"
+    "fixedLens": "23mm F2 (35mm equiv.)",
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2848,7 +2856,8 @@
     "ports": "USB-C (USB 3.2 Gen1), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
     "sensorType": "51.4MP CMOS",
     "videoColorDepth": "8-bit 4:2:0 (Internal) / 10-bit 4:2:2 (HDMI)",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2890,7 +2899,8 @@
     "ports": "USB-C (USB 3.1 Gen1), micro HDMI, 2.5mm mic/remote, DC IN",
     "sensorType": "51.4MP CMOS",
     "afPoints": "425 points",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "logSupport": "None"
   },
   {
     "brand": "Canon",
@@ -4057,7 +4067,8 @@
     "ports": "USB-C, micro HDMI (Type D), mic",
     "hasIBIS": false,
     "releaseMonth": 6,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "None"
   },
   {
     "brand": "Sony",
@@ -14021,7 +14032,8 @@
     "sensorFormat": "Full Frame",
     "minAperture": "22",
     "officialUrl": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-videography/loxia-lenses.html",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "motorType": "Manual focus"
   },
   {
     "brand": "Voigtlander",
@@ -15273,7 +15285,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-fx3.webp",
     "afTargets": "Human, Animal",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "evfMagnification": "None"
   },
   {
     "brand": "Sony",
@@ -15321,7 +15334,8 @@
     "batterySpec": "NP-FZ100 (570 shots CIPA)",
     "ports": "USB-C, micro USB, HDMI Type A, mic, headphone",
     "image_url": "/images/products/sony/sony-fx30.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "evfMagnification": "None"
   },
   {
     "brand": "Sony",
@@ -18117,7 +18131,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 9,
     "retailPrice": 64880,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None"
   },
   {
     "brand": "Fujifilm",
@@ -18154,7 +18169,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "evfMagnification": "None"
   },
   {
     "brand": "Fujifilm",
@@ -19331,7 +19347,8 @@
     ],
     "image_url": "/images/products/canon/canon-eos-r6-v.webp",
     "videoColorDepth": "10-bit 4:2:2",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "evfMagnification": "None"
   },
   {
     "id": "canon-eos-r8-mark-ii",
@@ -19410,7 +19427,8 @@
     ],
     "image_url": "/images/products/canon/canon-eos-r50-v.webp",
     "releaseMonth": 3,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "evfMagnification": "None"
   },
   {
     "id": "canon-eos-r5-c",
@@ -21022,7 +21040,8 @@
     "logSupport": "F-Log, F-Log2, HLG",
     "launchPrice": 162000,
     "releaseMonth": 3,
-    "fixedLens": "35mm F4 (28mm equiv.)"
+    "fixedLens": "35mm F4 (28mm equiv.)",
+    "hasWeatherSeal": true
   },
   {
     "id": "fujifilm-gfx-eterna-55",
@@ -21132,7 +21151,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-gfx-50s.webp",
     "afTargets": "Human (Face/Eye)",
     "hasIBIS": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "logSupport": "None",
+    "sensorType": "51.4MP CMOS"
   },
   {
     "id": "fujifilm-x-e3",
@@ -21170,7 +21191,8 @@
     "afTargets": "Human (Face/Eye)",
     "hasWeatherSeal": false,
     "launchPrice": 27600,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-t200",
@@ -21206,7 +21228,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-t200.webp",
     "afPoints": "425 points",
     "afTargets": "Human (Face/Eye)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-a7",
@@ -21240,7 +21263,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-a7.webp",
     "afPoints": "425 points",
     "afTargets": "Human (Face/Eye)",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-t100",
@@ -21276,7 +21300,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-t100.webp",
     "afTargets": "Human (Face/Eye)",
     "hasWeatherSeal": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-a5",
@@ -21310,7 +21335,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-a5.webp",
     "afTargets": "Human (Face/Eye)",
     "hasWeatherSeal": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-a3",
@@ -21344,7 +21371,8 @@
     "dimensions": "116.9 x 66.9 x 40.4 mm",
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 8,
-    "afPoints": "7x7 grid (Single Point AF) / 77 areas on 11x7 grid (Zone AF)"
+    "afPoints": "7x7 grid (Single Point AF) / 77 areas on 11x7 grid (Zone AF)",
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-a10",
@@ -21378,7 +21406,8 @@
     "dimensions": "116.9 x 67.4 x 40.4 mm",
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 12,
-    "afPoints": "49 points (7x7 grid)"
+    "afPoints": "49 points (7x7 grid)",
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-e2s",
@@ -21446,7 +21475,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/fujifilm/fujifilm-x-a2.webp",
     "afTargets": "Face",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-e2",
@@ -21512,7 +21542,8 @@
     "weightGrams": 330,
     "image_url": "/images/products/fujifilm/fujifilm-x-a1.webp",
     "afTargets": "Face",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-m1",
@@ -21544,7 +21575,8 @@
     "weightGrams": 330,
     "image_url": "/images/products/fujifilm/fujifilm-x-m1.webp",
     "afTargets": "Face",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "evfMagnification": "None"
   },
   {
     "id": "fujifilm-x-e1",
@@ -21643,7 +21675,8 @@
     "releaseMonth": 5,
     "hasOIS": false,
     "retailPrice": 118000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false
   },
   {
     "id": "hasselblad-xcd-38mm-f2-5-v",
@@ -21857,7 +21890,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "retailPrice": 70000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false
   },
   {
     "id": "hasselblad-xcd-20-35mm-f3-2-4-5-e",
@@ -21893,7 +21927,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "retailPrice": 189000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false
   },
   {
     "id": "hasselblad-xcd-35-100mm-f2-8-4-e",
@@ -21929,7 +21964,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "retailPrice": 146000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false
   },
   {
     "id": "hasselblad-xcd-35-75mm-f3-5-4-5",
@@ -22391,7 +22427,8 @@
     "hasIBIS": false,
     "releaseMonth": 1,
     "retailPrice": 235000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "weightGrams": 620
   },
   {
     "id": "hasselblad-x1d-50c",
@@ -22501,7 +22538,8 @@
     "releaseMonth": 11,
     "dimensions": "146 x 107 x 42 mm",
     "afPoints": "225 points",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14762-Leica-SL2_Technical-Data_en.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14762-Leica-SL2_Technical-Data_en.pdf",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-sl2-s",
@@ -22539,7 +22577,8 @@
     "image_url": "/images/products/leica/leica-sl2-s.webp",
     "releaseMonth": 12,
     "afPoints": "225 points",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14874-Leica-SL2-S_Technical-Data_en--1-.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-14874-Leica-SL2-S_Technical-Data_en--1-.pdf",
+    "logSupport": "L-Log, HLG"
   },
   {
     "id": "leica-sl3",
@@ -22917,7 +22956,8 @@
     "dimensions": "139 x 80 x 42 mm",
     "processor": "Leica Maestro",
     "batterySpec": "BP-SCL2",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28573-Datenblatt_M--Typ-240-_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28573-Datenblatt_M--Typ-240-_e.pdf",
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m-e-typ-220",
@@ -22944,7 +22984,8 @@
     "weightGrams": 585,
     "hasWeatherSeal": false,
     "releaseMonth": 9,
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m-monochrom",
@@ -22973,7 +23014,8 @@
     "hasWeatherSeal": false,
     "launchPrice": 280000,
     "image_url": "/images/products/leica/leica-m-monochrom.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m-p-typ-240",
@@ -23007,7 +23049,8 @@
     "releaseMonth": 8,
     "image_url": "/images/products/leica/leica-m-p-typ-240.webp",
     "dimensions": "139 x 80 x 42 mm",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28710-Datenblatt_M-P--Typ-240-_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28710-Datenblatt_M-P--Typ-240-_e.pdf",
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m-monochrom-typ-246",
@@ -23041,7 +23084,8 @@
     "releaseMonth": 4,
     "dimensions": "138.6 x 80 x 42 mm",
     "burstSpeed": "3fps",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28763-Datenblatt_M-Monochrom--Typ-246-_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28763-Datenblatt_M-Monochrom--Typ-246-_e.pdf",
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m-typ-262",
@@ -23073,7 +23117,8 @@
     "image_url": "/images/products/leica/leica-m-typ-262.webp",
     "dimensions": "138.6 x 80 x 42 mm",
     "officialUrl": "https://leica-camera.com/sites/default/files/pm-28644-Datenblatt_M-Typ-262_e.pdf",
-    "launchPrice": 210000
+    "launchPrice": 210000,
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-m10",
@@ -23103,7 +23148,8 @@
     "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-schwarz/jetzt-kaufen",
     "image_url": "/images/products/leica/leica-m10.webp",
     "releaseMonth": 1,
-    "dimensions": "139 x 80 x 38.5 mm"
+    "dimensions": "139 x 80 x 38.5 mm",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m10-p",
@@ -23133,7 +23179,8 @@
     "officialUrl": "https://leica-camera.com/de-CH/fotografie/kameras/m/m10-p-schwarz/jetzt-kaufen",
     "image_url": "/images/products/leica/leica-m10-p.webp",
     "releaseMonth": 8,
-    "dimensions": "139 x 80 x 38.5 mm"
+    "dimensions": "139 x 80 x 38.5 mm",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m10-d",
@@ -23162,7 +23209,8 @@
     "officialUrl": "https://leica-camera.com/zh-Hant/product/leica-m10-d-black-chrome",
     "image_url": "/images/products/leica/leica-m10-d.webp",
     "releaseMonth": 10,
-    "dimensions": "139 x 80 x 37.9 mm"
+    "dimensions": "139 x 80 x 37.9 mm",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m-e-typ-240",
@@ -23195,7 +23243,8 @@
     "videoResolution": "Full HD 25p",
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "BP-SCL2",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29014-190626__TechData_M-E_en_RZ.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29014-190626__TechData_M-E_en_RZ.pdf",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m10-monochrom",
@@ -23257,7 +23306,8 @@
     "dimensions": "139 x 80 x 38.5 mm",
     "burstSpeed": "5fps",
     "lcdSpec": "3.0-inch 1.04M-dot fixed",
-    "batterySpec": "BP-SCL5"
+    "batterySpec": "BP-SCL5",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m11",
@@ -23290,7 +23340,8 @@
     "image_url": "/images/products/leica/leica-m11.webp",
     "launchPrice": 275000,
     "dimensions": "139 x 80 x 38.5 mm",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m11-monochrom",
@@ -23323,7 +23374,8 @@
     "launchPrice": 295000,
     "dimensions": "139 x 80 x 38.5 mm",
     "lcdSpec": "2.95-inch 2.33M-dot fixed touch",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m11-p",
@@ -23356,7 +23408,8 @@
     "image_url": "/images/products/leica/leica-m11-p.webp",
     "launchPrice": 290000,
     "dimensions": "139 x 80 x 38.5 mm",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m-ev1",
@@ -25250,7 +25303,8 @@
     "image_url": "/images/products/nikon/nikon-z5-iic.webp",
     "hasWeatherSeal": true,
     "releaseMonth": 9,
-    "afTargets": "Human, Dog, Cat, Bird, Car, Motorcycle, Bicycle, Train, Airplane, Fish"
+    "afTargets": "Human, Dog, Cat, Bird, Car, Motorcycle, Bicycle, Train, Airplane, Fish",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-z50-ii",
@@ -26078,7 +26132,9 @@
     ],
     "image_url": "/images/products/sigma/sigma-fp.webp",
     "videoColorDepth": "12-bit (CinemaDNG RAW)",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "sigma-fp-l",
@@ -26113,7 +26169,8 @@
     ],
     "image_url": "/images/products/sigma/sigma-fp-l.webp",
     "videoColorDepth": "12-bit (CinemaDNG RAW)",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "logSupport": "None"
   },
   {
     "id": "sigma-bf",
@@ -26149,7 +26206,8 @@
     "image_url": "/images/products/sigma/sigma-bf.webp",
     "releaseMonth": 2,
     "retailPrice": 61850,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None"
   },
   {
     "id": "tamron-12-20mm-f2-8-a084",
@@ -27632,7 +27690,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-a5100.webp",
     "launchPrice": 14980,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "evfMagnification": "None"
   },
   {
     "id": "sony-a5000",
@@ -27667,7 +27726,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-a5000.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "evfMagnification": "None"
   },
   {
     "id": "sony-ilce-qx1",
@@ -27702,7 +27762,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-ilce-qx1.webp",
     "releaseMonth": 9,
-    "launchPrice": 9980
+    "launchPrice": 9980,
+    "evfMagnification": "None"
   },
   {
     "id": "sony-a3000",
@@ -27731,7 +27792,8 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
     "releaseMonth": 8,
-    "dimensions": "128 x 91 x 85 mm"
+    "dimensions": "128 x 91 x 85 mm",
+    "sensorType": "CMOS"
   },
   {
     "id": "sony-a3500",
@@ -29828,7 +29890,8 @@
     "hasApertureRing": false,
     "motorType": "Manual focus",
     "releaseMonth": 7,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasOIS": false
   },
   {
     "id": "tokina-sz-super-tele-500mm-f8-reflex-mf",
@@ -31573,7 +31636,8 @@
     "afTargets": "Face/Eye",
     "fixedLens": "10.8mm F2.8 (32mm equiv.)",
     "retailPrice": 18600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-mkx-18-55mm-t2-9",
@@ -31602,7 +31666,9 @@
     "weightGrams": 1100,
     "image_url": "/images/products/fujifilm/fujifilm-mkx-18-55mm-t2-9.webp",
     "releaseMonth": 2,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "fujifilm-mkx-50-135mm-t2-9",
@@ -31631,7 +31697,10 @@
     "weightGrams": 1100,
     "image_url": "/images/products/fujifilm/fujifilm-mkx-50-135mm-t2-9.webp",
     "releaseMonth": 2,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "zeiss-loxia-2-35",
@@ -31702,7 +31771,8 @@
     "image_url": "/images/products/zeiss/zeiss-touit-2-8-12.webp",
     "releaseMonth": 9,
     "retailPrice": 26010,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "dimensions": "Ø88 x 68 mm"
   },
   {
     "id": "zeiss-touit-1-8-32",
@@ -31775,7 +31845,8 @@
     "hasOIS": false,
     "image_url": "/images/products/zeiss/zeiss-touit-2-8-50m.webp",
     "retailPrice": 24930,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "dimensions": "Ø75 x 91 mm"
   },
   {
     "id": "voigtlander-apo-lanthar-35mm-f2-aspherical-ii",
@@ -31874,7 +31945,8 @@
     "sensorFormat": "Full Frame",
     "hasApertureRing": true,
     "releaseMonth": 1,
-    "launchPrice": 26000
+    "launchPrice": 26000,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-10-5mm-f0-95-aspherical",
@@ -31907,7 +31979,9 @@
     "releaseMonth": 5,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-10-5mm-f0-95-aspherical.webp",
     "retailPrice": 33000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-17-5mm-f0-95-aspherical",
@@ -31939,7 +32013,8 @@
     "releaseMonth": 2,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-17-5mm-f0-95-aspherical.webp",
     "retailPrice": 27000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-25mm-f0-95-type-ii",
@@ -31971,7 +32046,10 @@
     "releaseMonth": 2,
     "image_url": "/images/products/voigtlander/voigtlander-nokton-25mm-f0-95-type-ii.webp",
     "retailPrice": 24000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "voigtlander-nokton-42-5mm-f0-95",
@@ -32003,7 +32081,9 @@
     "image_url": "/images/products/voigtlander/voigtlander-nokton-42-5mm-f0-95.webp",
     "hasApertureRing": true,
     "retailPrice": 27000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "tokina-reflex-300mm-f6-3-mf-macro",
@@ -32036,7 +32116,8 @@
     "minAperture": "6.3",
     "coatings": "Enhanced Al-Coated Mirror",
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasOIS": false
   },
   {
     "id": "sirui-sniper-16mm-f1-2",
@@ -32160,7 +32241,8 @@
     "releaseMonth": 11,
     "image_url": "/images/products/sirui/sirui-sniper-23mm-f1-2.webp",
     "retailPrice": 7890,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "HD Nano coating"
   },
   {
     "id": "sirui-sniper-33mm-f1-2",
@@ -32201,7 +32283,8 @@
     "releaseMonth": 11,
     "image_url": "/images/products/sirui/sirui-sniper-33mm-f1-2.webp",
     "retailPrice": 7890,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "HD Nano coating"
   },
   {
     "id": "sirui-sniper-56mm-f1-2",
@@ -32242,7 +32325,8 @@
     "releaseMonth": 11,
     "image_url": "/images/products/sirui/sirui-sniper-56mm-f1-2.webp",
     "retailPrice": 7890,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "HD Nano coating"
   },
   {
     "id": "sirui-vision-prime-24mm-t1-4",
@@ -32423,7 +32507,9 @@
     "dimensions": "Ø66.5 x 76 mm",
     "minAperture": "16",
     "specialElements": "1 ED, 2 High Refraction",
-    "image_url": "/images/products/meike/meike-55mm-f1-4-apsc-af.webp"
+    "image_url": "/images/products/meike/meike-55mm-f1-4-apsc-af.webp",
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "meike-35mm-f2-ff-af",
@@ -32549,7 +32635,8 @@
     "closeFocus": "0.85m",
     "filterSizeMm": 62,
     "opticalDesign": "11 elements in 8 groups",
-    "specialElements": "2 ED, 3 HR, 1 Aspherical"
+    "specialElements": "2 ED, 3 HR, 1 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "meike-35mm-f1-8-pro",
@@ -32608,7 +32695,9 @@
     "filterSizeMm": 72,
     "opticalDesign": "15 elements in 12 groups",
     "specialElements": "3 Low Dispersion, 2 High Refractive Index, 3 Aspherical",
-    "motorType": "STM"
+    "motorType": "STM",
+    "hasApertureRing": true,
+    "hasCustomButton": true
   },
   {
     "id": "meike-85mm-f1-8-se-mark-ii",
@@ -32652,7 +32741,9 @@
     "minAperture": "16",
     "closeFocus": "0.65m",
     "filterSizeMm": 62,
-    "opticalDesign": "11 elements in 7 groups"
+    "opticalDesign": "11 elements in 7 groups",
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "meike-23mm-f1-4-apsc-af",
@@ -32670,7 +32761,8 @@
     "closeFocus": "0.25m",
     "filterSizeMm": 58,
     "opticalDesign": "13 elements in 11 groups",
-    "motorType": "STM"
+    "motorType": "STM",
+    "hasApertureRing": true
   },
   {
     "id": "meike-56mm-f1-7-air",
@@ -32856,7 +32948,9 @@
     "motorType": "STM",
     "hasApertureRing": true,
     "retailPrice": 7200,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "specialElements": "2 Aspherical, 2 HR, 1 ED"
   },
   {
     "id": "7artisans-af-27mm-f2-8",
@@ -32972,7 +33066,8 @@
     "motorType": "STM",
     "hasApertureRing": true,
     "retailPrice": 9900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false
   },
   {
     "id": "7artisans-af-35mm-f1-8",
@@ -33015,7 +33110,8 @@
     "motorType": "STM",
     "hasApertureRing": true,
     "retailPrice": 9000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "7artisans-af-10mm-f2-8",
@@ -33102,7 +33198,8 @@
     "hasApertureRing": true,
     "hasWeatherSeal": true,
     "retailPrice": 22500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "7artisans-af-40mm-f2-5-lite",
@@ -33144,7 +33241,10 @@
     "opticalDesign": "7 elements in 6 groups",
     "hasApertureRing": true,
     "retailPrice": 4980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasCustomButton": true,
+    "specialElements": "3 HR, 1 Aspherical"
   },
   {
     "id": "7artisans-af-25mm-f1-8-aps-c-lite",
@@ -33185,7 +33285,10 @@
     "opticalDesign": "8 elements in 5 groups",
     "motorType": "STM",
     "retailPrice": 3980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "specialElements": "5 HR"
   },
   {
     "id": "7artisans-af-35mm-f1-8-aps-c-lite",
@@ -33226,7 +33329,10 @@
     "opticalDesign": "7 elements in 6 groups",
     "motorType": "STM",
     "retailPrice": 3980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "specialElements": "5 HR"
   },
   {
     "id": "7artisans-af-50mm-f1-8-aps-c-lite",
@@ -33267,7 +33373,10 @@
     "opticalDesign": "6 elements in 5 groups",
     "motorType": "STM",
     "retailPrice": 3980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "specialElements": "3 HR"
   },
   {
     "id": "7artisans-af-10mm-f2-5-fisheye",
@@ -33311,7 +33420,10 @@
     "hasApertureRing": true,
     "hasWeatherSeal": true,
     "retailPrice": 15600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "hasCustomButton": true,
+    "coatings": "Anti-smudge coating"
   },
   {
     "id": "7artisans-af-18mm-f2",
@@ -33342,7 +33454,9 @@
     "motorType": "STM",
     "opticalDesign": "9 elements in 7 groups",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasOIS": false,
+    "specialElements": "1 ED, 1 HR"
   },
   {
     "id": "7artisans-35mm-f1-4-iii",
@@ -34020,7 +34134,11 @@
     ],
     "sensorFormat": "Medium Format",
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "minAperture": "16",
+    "closeFocus": "0.7m",
+    "filterSizeMm": 72,
+    "weightGrams": 1050
   },
   {
     "id": "mitakon-speedmaster-35mm-f0-95-ii",
@@ -34077,7 +34195,8 @@
     "gearType": "LENS",
     "officialUrl": "https://nikonrumors.com/2024/08/10/yongnuo-23mm-f-1-4-z-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced-and-available-for-sale.aspx/",
     "releaseYear": 2024,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "weightGrams": 360
   },
   {
     "id": "yongnuo-yn56mm-f1-4-da-dsm-wl-pro",
@@ -34087,7 +34206,8 @@
     "gearType": "LENS",
     "officialUrl": "https://nikonrumors.com/2024/06/08/yongnuo-yn-56mm-f-1-4-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced.aspx/",
     "releaseYear": 2024,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "weightGrams": 368
   },
   {
     "id": "laowa-15mm-f5-cookie-ff",
@@ -34257,7 +34377,8 @@
     "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-shift.webp",
     "releaseMonth": 3,
     "retailPrice": 35100,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false
   },
   {
     "id": "sigma-af-cine-28-45mm-t2-ff",
@@ -34391,7 +34512,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sirui/sirui-aurora-85mm-f1-4.webp",
     "retailPrice": 16980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "sirui-aurora-35mm-f1-4",
@@ -34731,7 +34853,8 @@
     "sensorFormat": "Full Frame",
     "releaseMonth": 9,
     "maxMagnification": "0.045x",
-    "specialElements": "5 Cylindrical, 1 Aspherical"
+    "specialElements": "5 Cylindrical, 1 Aspherical",
+    "motorType": "Manual focus"
   },
   {
     "id": "sirui-saturn-v2-50mm-t2-9-1-6x",
@@ -34775,7 +34898,8 @@
     "sensorFormat": "Full Frame",
     "releaseMonth": 9,
     "maxMagnification": "0.062x",
-    "specialElements": "5 Cylindrical, 1 Aspherical"
+    "specialElements": "5 Cylindrical, 1 Aspherical",
+    "motorType": "Manual focus"
   },
   {
     "id": "sirui-saturn-v2-75mm-t2-9-1-6x",
@@ -34819,7 +34943,8 @@
     "sensorFormat": "Full Frame",
     "releaseMonth": 9,
     "maxMagnification": "0.09x",
-    "specialElements": "5 Cylindrical, 1 Aspherical"
+    "specialElements": "5 Cylindrical, 1 Aspherical",
+    "motorType": "Manual focus"
   },
   {
     "id": "sirui-50mm-f1-8-1-33x-anamorphic",
@@ -35457,7 +35582,8 @@
     "releaseMonth": 10,
     "image_url": "/images/products/om-system/olympus-om-d-e-m5-mark-iii.webp",
     "processor": "TruePic VIII",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "None"
   },
   {
     "id": "olympus-om-d-e-m10-mark-iv",
@@ -35495,7 +35621,8 @@
     "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-iv.webp",
     "releaseMonth": 8,
     "processor": "TruePic VIII",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "olympus-pen-e-p7",
@@ -35532,7 +35659,8 @@
     "releaseMonth": 6,
     "image_url": "/images/products/om-system/olympus-pen-e-p7.webp",
     "processor": "TruePic VIII",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "olympus-pen-e-pl10",
@@ -35568,7 +35696,8 @@
     "releaseMonth": 10,
     "image_url": "/images/products/om-system/olympus-pen-e-pl10.webp",
     "processor": "TruePic VIII",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "olympus-om-d-e-m1-mark-ii",
@@ -35642,7 +35771,9 @@
     "dimensions": "124.8 x 72.1 x 37.3 mm",
     "sensorType": "Live MOS",
     "afPoints": "81 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "logSupport": "None",
+    "ibisRating": "5 stops"
   },
   {
     "id": "olympus-pen-e-pl8",
@@ -35676,7 +35807,9 @@
     "dimensions": "117.1 x 68.3 x 38.4 mm",
     "sensorType": "Live MOS",
     "afPoints": "81 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "logSupport": "None",
+    "ibisRating": "3.5 stops"
   },
   {
     "id": "olympus-om-d-e-m10-mark-iii",
@@ -35712,7 +35845,9 @@
     "dimensions": "121.5 x 83.6 x 49.5 mm",
     "sensorType": "Live MOS",
     "afPoints": "121 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "logSupport": "None",
+    "ibisRating": "4 stops"
   },
   {
     "id": "olympus-pen-e-pl9",
@@ -35747,7 +35882,8 @@
     "dimensions": "117.1 x 68.0 x 39.0 mm",
     "sensorType": "Live MOS",
     "afPoints": "121 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "logSupport": "None"
   },
   {
     "id": "olympus-om-d-e-m5-mark-ii",
@@ -36403,7 +36539,8 @@
     "coatings": "ZERO Coating",
     "hasOIS": false,
     "retailPrice": 39990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro",
@@ -36436,7 +36573,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro.webp",
     "releaseMonth": 5,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true,
+    "coatings": "ZERO Coating"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-8mm-f1-8-fisheye-pro",
@@ -36541,7 +36680,8 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro.webp",
     "releaseMonth": 1,
     "coatings": "ZERO nano coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro",
@@ -36576,7 +36716,8 @@
     "launchPrice": 42990,
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-100mm-f4-0-is-pro.webp",
     "releaseMonth": 9,
-    "coatings": "Z Coating Nano"
+    "coatings": "Z Coating Nano",
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-25mm-f1-2-pro",
@@ -36612,7 +36753,8 @@
     "launchPrice": 38990,
     "coatings": "Z Coating Nano",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-30mm-f3-5-macro",
@@ -36684,7 +36826,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "retailPrice": 39990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-45mm-f1-2-pro",
@@ -36721,7 +36864,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "retailPrice": 39990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-12-200mm-f3-5-6-3",
@@ -36898,7 +37042,8 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-8-25mm-f4-0-pro.webp",
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "om-system-m-zuiko-digital-ed-20mm-f1-4-pro",
@@ -36969,7 +37114,8 @@
     "releaseMonth": 2,
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "om-system-m-zuiko-digital-ed-40-150mm-f4-0-pro",
@@ -37078,7 +37224,8 @@
     "coatings": "ZERO Coating",
     "hasApertureRing": false,
     "retailPrice": 95990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "om-system-m-zuiko-digital-ed-9-18mm-f4-0-5-6-ii",
@@ -37253,7 +37400,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro.webp",
     "releaseMonth": 9,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "hasCustomButton": true
   },
   {
     "id": "om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii",
@@ -37286,7 +37434,8 @@
     "image_url": "/images/products/om-system/om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii.webp",
     "releaseMonth": 9,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "MSC"
   },
   {
     "id": "panasonic-lumix-gf5",
@@ -37320,7 +37469,9 @@
     "weightGrams": 267,
     "processor": "Venus Engine FHD",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-g5",
@@ -37354,7 +37505,10 @@
     "releaseMonth": 7,
     "processor": "Venus Engine VII FHD",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-gh3",
@@ -37388,7 +37542,9 @@
     "weightGrams": 550,
     "hasWeatherSeal": true,
     "releaseMonth": 9,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gf6",
@@ -37421,7 +37577,9 @@
     "processor": "Venus Engine FHD",
     "afPoints": "23 points",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-g6",
@@ -37454,7 +37612,8 @@
     "weightGrams": 390,
     "releaseMonth": 4,
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gx7",
@@ -37489,7 +37648,9 @@
     "processor": "Venus Engine",
     "isoRange": "200-25600 (Ext: 125-25600)",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-gm1",
@@ -37521,7 +37682,10 @@
     "weightGrams": 204,
     "afPoints": "23 points",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "logSupport": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-gh4",
@@ -37557,7 +37721,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-gh4.webp",
     "processor": "Venus Engine IX",
     "afTargets": "Face/Eye",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gm5",
@@ -37592,7 +37757,9 @@
     "afPoints": "23 points",
     "afTargets": "Face",
     "ports": "USB 2.0, HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gf7",
@@ -37626,7 +37793,9 @@
     "processor": "Venus Engine",
     "afPoints": "23 points",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-g7",
@@ -37662,7 +37831,9 @@
     "releaseMonth": 5,
     "image_url": "/images/products/panasonic/panasonic-lumix-g7.webp",
     "afTargets": "Face/Eye",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gx8",
@@ -37698,7 +37869,8 @@
     "afTargets": "Face/Eye",
     "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
     "ports": "USB 2.0, HDMI, mic",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gx85",
@@ -37735,7 +37907,8 @@
     "processor": "Venus Engine",
     "afTargets": "Face/Eye",
     "ports": "USB 2.0, HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-g85",
@@ -37772,7 +37945,8 @@
     "releaseMonth": 9,
     "image_url": "/images/products/panasonic/panasonic-lumix-g85.webp",
     "afTargets": "Face/Eye",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gm1s",
@@ -37802,7 +37976,9 @@
     "releaseMonth": 10,
     "sensorType": "Live MOS",
     "afPoints": "23 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gf8",
@@ -37832,7 +38008,8 @@
     "processor": "Venus Engine",
     "afTargets": "Face",
     "hasWeatherSeal": false,
-    "launchPrice": 16900
+    "launchPrice": 16900,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gf9",
@@ -37865,7 +38042,9 @@
     "releaseMonth": 1,
     "processor": "Venus Engine",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gh5",
@@ -37905,7 +38084,8 @@
     "afTargets": "Face/Eye",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "launchPrice": 64900
+    "launchPrice": 64900,
+    "ibisRating": "5 stops"
   },
   {
     "id": "panasonic-lumix-g9",
@@ -37983,7 +38163,8 @@
     "releaseMonth": 1,
     "processor": "Venus Engine 10",
     "afTargets": "Face/Eye",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gf10",
@@ -38016,7 +38197,9 @@
     "releaseMonth": 2,
     "processor": "Venus Engine",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-gx9",
@@ -38054,7 +38237,9 @@
     "processor": "Venus Engine",
     "afTargets": "Face/Eye",
     "hasIBIS": true,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "ibisRating": "4 stops",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-g95",
@@ -38092,7 +38277,8 @@
     "processor": "Venus Engine",
     "afTargets": "Face/Eye",
     "hasIBIS": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "ibisRating": "5 stops"
   },
   {
     "id": "panasonic-lumix-g100",
@@ -38128,7 +38314,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-g100.webp",
     "releaseMonth": 6,
     "afTargets": "Face/Eye",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-bgh1",
@@ -38162,7 +38349,11 @@
     "releaseMonth": 10,
     "processor": "Venus Engine",
     "batterySpec": "VBR59 (sold separately)",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "evfMagnification": "None",
+    "burstSpeed": "None",
+    "lcdSpec": "None"
   },
   {
     "id": "panasonic-lumix-gh5ii",
@@ -38203,7 +38394,8 @@
     "batterySpec": "DMW-BLK22 (400 shots CIPA)",
     "hasWeatherSeal": true,
     "retailPrice": 43980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ibisRating": "6.5 stops"
   },
   {
     "id": "panasonic-lumix-gh6",
@@ -38241,7 +38433,9 @@
     "weightGrams": 823,
     "hasWeatherSeal": true,
     "image_url": "/images/products/panasonic/panasonic-lumix-gh6.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "ibisRating": "7.5 stops",
+    "afPoints": "315 points"
   },
   {
     "id": "panasonic-lumix-g9ii",
@@ -39521,7 +39715,8 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1h.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "ibisRating": "6.5 stops"
   },
   {
     "id": "panasonic-lumix-s5",
@@ -39560,7 +39755,8 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s5.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "ibisRating": "6.5 stops"
   },
   {
     "id": "panasonic-lumix-bs1h",
@@ -39595,7 +39791,10 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-bs1h.webp",
     "releaseMonth": 10,
-    "batterySpec": "AG-VBR59, AG-VBR89, AG-VBR118 (sold separately)"
+    "batterySpec": "AG-VBR59, AG-VBR89, AG-VBR118 (sold separately)",
+    "evfMagnification": "None",
+    "burstSpeed": "None",
+    "lcdSpec": "None"
   },
   {
     "id": "panasonic-lumix-s5ii",
@@ -40777,7 +40976,9 @@
     "weightGrams": 305,
     "motorType": "VXD",
     "coatings": "BBAR G2",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "voigtlander-apo-lanthar-90mm-f4-close-focus",
@@ -40805,7 +41006,9 @@
     "filterSizeMm": 43,
     "dimensions": "Ø53 x 54.8 mm",
     "weightGrams": 235,
-    "launchPrice": 22000
+    "launchPrice": 22000,
+    "motorType": "Manual focus",
+    "specialElements": "6 APD"
   },
   {
     "id": "leica-noctilux-m-35-f1-2-asph",
@@ -40835,7 +41038,9 @@
     "weightGrams": 416,
     "hasApertureRing": true,
     "image_url": "/images/products/leica/leica-noctilux-m-35-f1-2-asph.webp",
-    "launchPrice": 305000
+    "launchPrice": 305000,
+    "motorType": "Manual focus",
+    "hasOIS": false
   },
   {
     "id": "leica-apo-summicron-m-50-f2-asph",
@@ -40865,7 +41070,10 @@
     "dimensions": "Ø53 x 47 mm",
     "weightGrams": 300,
     "hasApertureRing": true,
-    "image_url": "/images/products/leica/leica-apo-summicron-m-50-f2-asph.webp"
+    "image_url": "/images/products/leica/leica-apo-summicron-m-50-f2-asph.webp",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "leica-summarit-m-35-f2-4-asph",
@@ -40890,7 +41098,11 @@
     "closeFocus": "0.8m",
     "filterSizeMm": 46,
     "dimensions": "Ø52 x 34 mm",
-    "weightGrams": 197
+    "weightGrams": 197,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "leica-summarit-m-50-f2-4",
@@ -40916,7 +41128,11 @@
     "filterSizeMm": 46,
     "dimensions": "Ø52 x 33 mm",
     "weightGrams": 190,
-    "image_url": "/images/products/leica/leica-summarit-m-50-f2-4.webp"
+    "image_url": "/images/products/leica/leica-summarit-m-50-f2-4.webp",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "leica-summarit-m-75-f2-4",
@@ -40942,7 +41158,11 @@
     "filterSizeMm": 46,
     "dimensions": "Ø55 x 60.5 mm",
     "weightGrams": 325,
-    "image_url": "/images/products/leica/leica-summarit-m-75-f2-4.webp"
+    "image_url": "/images/products/leica/leica-summarit-m-75-f2-4.webp",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "leica-summarit-m-90-f2-4",
@@ -40968,7 +41188,11 @@
     "filterSizeMm": 46,
     "dimensions": "Ø55 x 67 mm",
     "weightGrams": 346,
-    "image_url": "/images/products/leica/leica-summarit-m-90-f2-4.webp"
+    "image_url": "/images/products/leica/leica-summarit-m-90-f2-4.webp",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "leica-summilux-m-28-f1-4-asph",
@@ -41023,7 +41247,10 @@
     "filterSizeMm": 34,
     "dimensions": "Ø51 x 18 mm",
     "weightGrams": 165,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false
   },
   {
     "id": "leica-noctilux-m-75-f1-25-asph",
@@ -41050,7 +41277,11 @@
     "maxMagnification": "0.11x",
     "filterSizeMm": 67,
     "dimensions": "Ø74 x 91 mm",
-    "weightGrams": 1055
+    "weightGrams": 1055,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true
   },
   {
     "id": "leica-thambar-m-90-f2-2",
@@ -41077,7 +41308,12 @@
     "maxMagnification": "0.11x",
     "filterSizeMm": 49,
     "weightGrams": 500,
-    "image_url": "/images/products/leica/leica-thambar-m-90-f2-2.webp"
+    "image_url": "/images/products/leica/leica-thambar-m-90-f2-2.webp",
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true,
+    "dimensions": "Ø57 x 90 mm"
   },
   {
     "id": "leica-summilux-m-90-f1-5-asph",
@@ -41106,7 +41342,9 @@
     "dimensions": "Ø74 x 91 mm",
     "weightGrams": 1010,
     "hasApertureRing": true,
-    "launchPrice": 400500
+    "launchPrice": 400500,
+    "motorType": "Manual focus",
+    "hasOIS": false
   },
   {
     "id": "leica-apo-summicron-m-35-f2-asph",
@@ -41131,7 +41369,12 @@
     "specialElements": "6 Anomalous Partial Dispersion, 3 Aspherical",
     "closeFocus": "0.3m",
     "filterSizeMm": 39,
-    "weightGrams": 320
+    "weightGrams": 320,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true,
+    "dimensions": "Ø53 x 41 mm"
   },
   {
     "id": "leica-noctilux-m-50-f1-2-asph",
@@ -41215,7 +41458,11 @@
     "filterSizeMm": 46,
     "weightGrams": 200,
     "hasApertureRing": true,
-    "launchPrice": 128800
+    "launchPrice": 128800,
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "dimensions": "Ø67 x 26 mm"
   },
   {
     "id": "leica-summilux-m-50-f1-4-asph",
@@ -41244,7 +41491,9 @@
     "filterSizeMm": 46,
     "dimensions": "Ø58.6 x 59.3 mm",
     "weightGrams": 337,
-    "launchPrice": 151000
+    "launchPrice": 151000,
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "leica-summicron-m-28-f2-asph",
@@ -41271,7 +41520,8 @@
     "dimensions": "Ø58 x 55 mm",
     "weightGrams": 275,
     "hasApertureRing": true,
-    "launchPrice": 168000
+    "launchPrice": 168000,
+    "motorType": "Manual focus"
   },
   {
     "id": "leica-summilux-m-50-f1-4",
@@ -41298,7 +41548,9 @@
     "dimensions": "Ø58 x 45 mm",
     "weightGrams": 417,
     "hasApertureRing": true,
-    "launchPrice": 128800
+    "launchPrice": 128800,
+    "motorType": "Manual focus",
+    "hasOIS": false
   },
   {
     "id": "canon-eos-c70",
@@ -41327,7 +41579,11 @@
     "weightGrams": 1190,
     "hasIBIS": false,
     "retailPrice": 145000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "processor": "DIGIC DV 7",
+    "sensorType": "DGO (Dual Gain Output) CMOS",
+    "ports": "USB-C, HDMI, 2x mini XLR, headphone, timecode (BNC), DC in",
+    "batterySpec": "BP-A30 / BP-A60"
   },
   {
     "id": "canon-eos-c400",
@@ -41354,7 +41610,13 @@
     "dimensions": "142 x 135 x 135 mm",
     "weightGrams": 1540,
     "retailPrice": 265900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None",
+    "processor": "DIGIC DV 7",
+    "sensorType": "Back-illuminated stacked CMOS",
+    "ports": "USB-C, HDMI, SDI (BNC), monitor out (BNC), 2x mini XLR, mic, headphone, Ethernet, timecode, genlock, sync, RET, remote, 12V DC in (4-pin XLR)",
+    "batterySpec": "BP-A30N / BP-A60N",
+    "cardSlots": "1x CFexpress + 1x SD"
   },
   {
     "id": "canon-eos-c80",
@@ -41383,7 +41645,11 @@
     "dimensions": "160 x 138 x 116 mm",
     "weightGrams": 1545,
     "retailPrice": 183900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None",
+    "sensorType": "Back-illuminated stacked CMOS",
+    "ports": "USB-C, HDMI, 12G-SDI (BNC), 2x mini XLR, mic, headphone, Ethernet, timecode (BNC), remote, 12V DC in",
+    "batterySpec": "BP-A30N / BP-A60N"
   },
   {
     "id": "canon-eos-c50",
@@ -41412,7 +41678,10 @@
     "ports": "HDMI, USB-C, mic, headphone, timecode",
     "dimensions": "142 x 88 x 95 mm",
     "weightGrams": 670,
-    "launchPrice": 98900
+    "launchPrice": 98900,
+    "evfMagnification": "None",
+    "processor": "DIGIC DV 7",
+    "burstSpeed": "40fps (Elec)"
   },
   {
     "id": "astrhori-9mm-f2-8",
@@ -42381,7 +42650,10 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "videoResolution": "Full HD 30p",
+    "ports": "micro HDMI, 3.5mm mic/line in, headphone, LANC, DC 12V",
+    "cardSlots": "1x SD"
   },
   {
     "id": "blackmagic-cinema-camera-mft",
@@ -42416,7 +42688,10 @@
     ],
     "videoResolution": "Full HD 60p",
     "cardSlots": "1x SD",
-    "ports": "HDMI, 3.5mm stereo in, expansion port (DB-HD15)"
+    "ports": "HDMI, 3.5mm stereo in, expansion port (DB-HD15)",
+    "batterySpec": "Canon LP-E6",
+    "dimensions": "82.5 x 69.5 x 65.4 mm",
+    "weightGrams": 300
   },
   {
     "id": "brightin-star-af-12mm-f2-8",
@@ -42575,7 +42850,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-af-85mm-f1-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-af-85mm-f1-8.webp",
+    "hasWeatherSeal": true
   },
   {
     "id": "brightin-star-mf-11mm-f2-8-ii",
@@ -42750,7 +43026,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-9mm-f5-6.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "motorType": "Manual focus"
   },
   {
     "id": "brightin-star-mf-10mm-f5-6-ii",
@@ -43147,7 +43424,9 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-05.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasApertureRing": true,
+    "coatings": "Multi-layer coating"
   },
   {
     "id": "brightin-star-mf-60mm-f2-8-2x-macro",
@@ -43499,7 +43778,8 @@
       }
     ],
     "sensorFormat": "Four Thirds",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "opticalDesign": "17 elements in 14 groups"
   },
   {
     "id": "dzofilm-linglung-20-70mm-t2-9",
@@ -43522,7 +43802,8 @@
       }
     ],
     "sensorFormat": "Four Thirds",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "opticalDesign": "16 elements in 12 groups"
   },
   {
     "id": "irix-15mm-f-2-4-dragonfly",
@@ -44265,7 +44546,12 @@
       }
     ],
     "image_url": "/images/products/nisi/nisi-15mm-f4.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasOIS": false,
+    "maxMagnification": "0.13x",
+    "opticalDesign": "12 elements in 10 groups",
+    "dimensions": "Ø75.6 x 80.5 mm",
+    "weightGrams": 470
   },
   {
     "id": "nisi-9mm-f2-8",
@@ -44317,7 +44603,8 @@
       }
     ],
     "image_url": "/images/products/nisi/nisi-9mm-f2-8.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "coatings": "NiSi SA+ anti-reflection coating"
   },
   {
     "id": "nisi-250mm-f5-6-reflex-mf",
@@ -44650,7 +44937,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "BC1030 (330 shots CIPA)",
     "ports": "USB 2.0, HDMI",
-    "weightGrams": 222
+    "weightGrams": 222,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx1000",
@@ -44679,7 +44967,8 @@
     "batterySpec": "BC1030 (320 shots CIPA)",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 222,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx300",
@@ -44710,7 +44999,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 331,
     "hasIBIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx1100",
@@ -44739,7 +45029,8 @@
     "batterySpec": "BC1030 (320 shots CIPA)",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 222,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx2000",
@@ -44767,7 +45058,8 @@
     "cardSlots": "1x microSD/microSDHC/microSDXC",
     "batterySpec": "BP1130",
     "ports": "USB 2.0, HDMI",
-    "weightGrams": 228
+    "weightGrams": 228,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-galaxy-nx",
@@ -44831,7 +45123,8 @@
     "dimensions": "127 x 95.5 x 41.7 mm",
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/samsung/samsung-nx30.webp"
+    "image_url": "/images/products/samsung/samsung-nx30.webp",
+    "weightGrams": 375
   },
   {
     "id": "samsung-nx-mini",
@@ -44863,7 +45156,8 @@
     "weightGrams": 196,
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/samsung/samsung-nx-mini.webp"
+    "image_url": "/images/products/samsung/samsung-nx-mini.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx3000",
@@ -44893,7 +45187,8 @@
     "ports": "USB 2.0, HDMI",
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/samsung/samsung-nx3000.webp"
+    "image_url": "/images/products/samsung/samsung-nx3000.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx1",
@@ -44928,7 +45223,8 @@
     "dimensions": "138.5 x 102.3 x 65.8 mm",
     "hasIBIS": false,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/samsung/samsung-nx1.webp"
+    "image_url": "/images/products/samsung/samsung-nx1.webp",
+    "weightGrams": 550
   },
   {
     "id": "samsung-nx500",
@@ -44959,7 +45255,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 287,
     "hasIBIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "evfMagnification": "None"
   },
   {
     "id": "samsung-nx3300",
@@ -45019,7 +45316,9 @@
     "dimensions": "Ø63.5 x 65.5 mm",
     "weightGrams": 208,
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "motorType": "Micromotor",
+    "hasCustomButton": true
   },
   {
     "id": "samsung-nx-45mm-f1-8",
@@ -45080,7 +45379,8 @@
     "weightGrams": 115,
     "hasOIS": false,
     "hasApertureRing": false,
-    "image_url": "/images/products/samsung/samsung-nx-45mm-f1-8-2d-3d.webp"
+    "image_url": "/images/products/samsung/samsung-nx-45mm-f1-8-2d-3d.webp",
+    "motorType": "Micromotor"
   },
   {
     "id": "samsung-nx-10mm-f3-5-fisheye",
@@ -45110,7 +45410,8 @@
     "motorType": "Stepping Motor",
     "dimensions": "Ø58.8 x 26.3 mm",
     "weightGrams": 71,
-    "hasOIS": false
+    "hasOIS": false,
+    "hasCustomButton": true
   },
   {
     "id": "samsung-nx-16-50mm-f2-2-8-s-ed-ois",
@@ -45537,7 +45838,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-voyager-24-50mm-f-2-8.webp"
+    "image_url": "/images/products/thypoch/thypoch-voyager-24-50mm-f-2-8.webp",
+    "hasOIS": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "thypoch-ksana-21mm-f-3-5",
@@ -45568,7 +45871,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-ksana-21mm-f-3-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-ksana-21mm-f-3-5.webp",
+    "coatings": "Epoch Coating.73'",
+    "dimensions": "Ø42 x 27.29 mm"
   },
   {
     "id": "thypoch-ksana-35mm-f-2-asph",
@@ -45600,7 +45905,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-ksana-35mm-f-2-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-ksana-35mm-f-2-asph.webp",
+    "dimensions": "Ø42 x 27 mm"
   },
   {
     "id": "thypoch-eureka-28mm-f-2-8-asph",
@@ -45636,7 +45942,8 @@
         }
       }
     ],
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "dimensions": "Ø28.3 x 19.5 mm"
   },
   {
     "id": "thypoch-eureka-50mm-f-2",
@@ -45666,7 +45973,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "dimensions": "Ø35.9 x 27 mm"
   },
   {
     "id": "thypoch-simera-c-16mm-t1-9",
@@ -46189,7 +46497,8 @@
     "weightGrams": 98,
     "releaseMonth": 3,
     "retailPrice": 3500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-af-17mm-f1-8-air",
@@ -46304,7 +46613,10 @@
     "motorType": "STM",
     "weightGrams": 332,
     "hasApertureRing": false,
-    "launchPrice": 2850
+    "launchPrice": 2850,
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "dimensions": "Ø70 x 90.5 mm"
   },
   {
     "id": "ttartisans-af-24mm-f3-8-mini",
@@ -46336,7 +46648,8 @@
     "motorType": "VCM",
     "weightGrams": 57,
     "dimensions": "Ø60 x 16 mm",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "minAperture": "3.8"
   },
   {
     "id": "ttartisans-af-32mm-f2-8",
@@ -46417,7 +46730,9 @@
     "dimensions": "Ø56 x 44 mm",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-35mm-f1-4.webp",
     "retailPrice": 2150,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-aps-c-50mm-f1-2",
@@ -46472,7 +46787,9 @@
     "dimensions": "Ø62 x 60 mm",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-50mm-f1-2.webp",
     "retailPrice": 2550,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-90mm-f1-25",
@@ -46530,7 +46847,9 @@
     "opticalDesign": "11 elements in 7 groups",
     "weightGrams": 1013,
     "dimensions": "Ø82 x 97 mm",
-    "image_url": "/images/products/ttartisans/ttartisans-90mm-f1-25.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-90mm-f1-25.webp",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-14mm-f2-8-asph",
@@ -46681,7 +47000,8 @@
     "opticalDesign": "14 elements in 10 groups",
     "weightGrams": 695,
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "specialElements": "6 High Index"
   },
   {
     "id": "ttartisans-100mm-f2-8-2x-macro",
@@ -46737,7 +47057,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-100mm-f2-8-2x-macro.webp",
     "retailPrice": 9300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "specialElements": "6 High Index"
   },
   {
     "id": "ttartisans-m-100mm-f2-8-bubble-bokeh",
@@ -46809,7 +47130,9 @@
     "opticalDesign": "8 elements in 5 groups",
     "weightGrams": 1564,
     "motorType": "Manual focus",
-    "image_url": "/images/products/ttartisans/ttartisans-500mm-f6-3.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-500mm-f6-3.webp",
+    "coatings": "MC Multi-Layer Coatings",
+    "specialElements": "2 ED, 2 High Index"
   },
   {
     "id": "ttartisans-tilt-50mm-f1-4",
@@ -46952,7 +47275,8 @@
     "specialElements": "3 ED, 1 Aspherical",
     "weightGrams": 510,
     "motorType": "Manual focus",
-    "image_url": "/images/products/ttartisans/ttartisans-apo-m-35mm-f2-asph.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-apo-m-35mm-f2-asph.webp",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-50mm-f1-4-asph",
@@ -47031,7 +47355,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-m-50mm-f0-95-asph.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "coatings": "Super-MC"
   },
   {
     "id": "ttartisans-21mm-f1-5-asph",
@@ -47264,7 +47589,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-25mm-f2.webp",
     "retailPrice": 1800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-aps-c-50mm-f0-95",
@@ -47377,7 +47703,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-23mm-f1-4.webp",
     "retailPrice": 2600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-aps-c-40mm-f2-8-macro",
@@ -47543,7 +47870,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-7-5mm-f2-fisheye.webp",
     "retailPrice": 3300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-aps-c-35mm-f0-95",
@@ -47760,7 +48088,8 @@
     "batterySpec": "Sony NP-F",
     "ports": "HDMI 2.0, USB-C, Gigabit Ethernet, 10-pin LEMO sync, RS-232, LANC",
     "weightGrams": 757,
-    "dimensions": "91.2 x 99.2 x 89.1 mm"
+    "dimensions": "91.2 x 99.2 x 89.1 mm",
+    "sensorType": "WDR CMOS"
   },
   {
     "id": "z-cam-e2c",
@@ -47785,7 +48114,9 @@
     "cardSlots": "1x SD",
     "batterySpec": "Canon LP-E6",
     "weightGrams": 668,
-    "dimensions": "91.2 x 83.9 x 89.1 mm"
+    "dimensions": "91.2 x 83.9 x 89.1 mm",
+    "sensorType": "CMOS",
+    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet (PoE), LANC, 3.5mm mic, 3.5mm audio out"
   },
   {
     "id": "z-cam-e2-m4",
@@ -47812,7 +48143,9 @@
     "weightGrams": 930,
     "dimensions": "91.2 x 99.25 x 95.6 mm",
     "image_url": "/images/products/z-cam/z-cam-e2-m4.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "sensorType": "WDR CMOS",
+    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet, RS-232, LANC, 3.5mm mic, 5-pin LEMO audio in, 3.5mm audio out"
   },
   {
     "id": "z-cam-e2-m4-mark-ii",
@@ -47840,7 +48173,8 @@
     "ports": "HDMI 2.0, 3G-SDI, USB-C, Gigabit Ethernet, BNC timecode, BNC genlock, 3.5mm mic, headphone, LANC",
     "weightGrams": 1060,
     "dimensions": "98 x 105 x 116 mm",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "sensorType": "CMOS"
   },
   {
     "id": "z-cam-e2n-mark-ii",
@@ -47866,7 +48200,10 @@
     "batterySpec": "Canon LP-E6",
     "weightGrams": 660,
     "dimensions": "91 x 85.3 x 86 mm",
-    "image_url": "/images/products/z-cam/z-cam-e2n-mark-ii.webp"
+    "image_url": "/images/products/z-cam/z-cam-e2n-mark-ii.webp",
+    "sensorType": "CMOS",
+    "logSupport": "None",
+    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet, 3.5mm mic, 3.5mm audio out"
   },
   {
     "id": "meyer-optik-goerlitz-trioplan-100-f2-8-ii",
@@ -48346,7 +48683,13 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-velvet-56.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-velvet-56.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "dimensions": "Ø72 x 86 mm",
+    "weightGrams": 400
   },
   {
     "id": "lensbaby-twist-60",
@@ -48390,7 +48733,10 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-twist-60.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-twist-60.webp",
+    "motorType": "Manual focus",
+    "coatings": "Broadband multi-coated anti-reflective",
+    "closeFocus": "0.46m"
   },
   {
     "id": "lensbaby-trio-28",
@@ -48420,7 +48766,14 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-trio-28.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-trio-28.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "motorType": "Manual focus",
+    "minAperture": "3.5",
+    "closeFocus": "0.2m",
+    "filterSizeMm": 46,
+    "weightGrams": 139
   },
   {
     "id": "lensbaby-velvet-85",
@@ -48468,7 +48821,11 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-velvet-85.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-velvet-85.webp",
+    "motorType": "Manual focus",
+    "coatings": "Broadband multi-coated anti-reflective",
+    "minAperture": "16",
+    "closeFocus": "0.23m"
   },
   {
     "id": "lensbaby-burnside-35",
@@ -48507,7 +48864,13 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-burnside-35.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-burnside-35.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "closeFocus": "0.15m",
+    "dimensions": "Ø70 x 70 mm"
   },
   {
     "id": "lensbaby-sol-45",
@@ -48547,7 +48910,18 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-sol-45.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-sol-45.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Manual focus",
+    "coatings": "Broadband multi-coated anti-reflective",
+    "maxMagnification": "0.17x",
+    "closeFocus": "0.355m",
+    "filterSizeMm": 46,
+    "opticalDesign": "3 elements in 2 groups",
+    "dimensions": "Ø73 x 65 mm",
+    "weightGrams": 272
   },
   {
     "id": "lensbaby-sol-22",
@@ -48570,7 +48944,11 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-sol-22.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-sol-22.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "lensbaby-velvet-28",
@@ -48616,7 +48994,10 @@
         }
       }
     ],
-    "image_url": "/images/products/lensbaby/lensbaby-velvet-28.webp"
+    "image_url": "/images/products/lensbaby/lensbaby-velvet-28.webp",
+    "motorType": "Manual focus",
+    "coatings": "Broadband multi-coated anti-reflective",
+    "closeFocus": "0.049m"
   },
   {
     "id": "7artisans-7-5mm-f2-8-aps-c-fisheye",

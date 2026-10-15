@@ -19,7 +19,7 @@ const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds', 'Samsung NX', 'Samsung NX-M', 'Canon EF-M', 'Nikon 1', 'Pentax Q']);
 const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch']);
 // "None" = the official spec confirms the feature is absent (shown as 無); manual lenses use motorType "Manual focus" instead
-const NONE_OK = new Set(['specialElements', 'coatings', 'afPoints', 'afTargets', 'afRange', 'ibisRating', 'logSupport', 'evfResolution', 'evfMagnification', 'videoColorDepth', 'lcdSpec', 'cardSlots']);
+const NONE_OK = new Set(['specialElements', 'coatings', 'afPoints', 'afTargets', 'afRange', 'ibisRating', 'logSupport', 'evfResolution', 'evfMagnification', 'videoColorDepth', 'lcdSpec', 'cardSlots', 'burstSpeed']);
 // House style for free-text fields (scripts/normalize_products.py rewrites most variants into these)
 const STYLE = {
   closeFocus: /^\d+(\.\d+)?m\b/,
