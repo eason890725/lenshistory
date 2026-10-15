@@ -13519,7 +13519,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/9mm-f5-6-w-dreamer.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 21000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -13616,7 +13618,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/11mm-f4-5-c-dreamer.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 19300,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -13683,7 +13687,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/12mm-f2-8-zero-d.webp",
     "releaseMonth": 7,
-    "coatings": "低反射多层膜"
+    "coatings": "低反射多层膜",
+    "retailPrice": 29800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -13780,7 +13786,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/15mm-f2-zero-d.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 22800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -13837,7 +13845,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/15mm-f4-0-wide-macro-1-1.webp",
     "releaseMonth": 6,
-    "coatings": "低反射多层膜"
+    "coatings": "低反射多层膜",
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -14107,7 +14117,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/24mm-f14-2x-macro-probe.webp"
+    "image_url": "/images/products/laowa/24mm-f14-2x-macro-probe.webp",
+    "retailPrice": 33490,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Zeiss",
@@ -14216,7 +14228,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/25mm-f2-8-ultra-macro-2-5-5x.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -14266,7 +14280,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/35mm-f0-95-ff-ii-argus.webp"
+    "image_url": "/images/products/laowa/35mm-f0-95-ff-ii-argus.webp",
+    "retailPrice": 22600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -14768,7 +14784,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/laowa/60mm-f2-8-macro-2-1.webp",
     "releaseMonth": 1,
-    "coatings": "低反射多层膜"
+    "coatings": "低反射多层膜",
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -14912,7 +14930,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/85mm-f5-6-2x-ultra-macro-apo.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -14978,7 +14998,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/100mm-f2-8-ultra-macro.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -15029,7 +15051,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/105mm-f2-0-t3-2-stf-mf.webp",
-    "coatings": "低反射多层膜"
+    "coatings": "低反射多层膜",
+    "retailPrice": 24600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Voigtlander",
@@ -15183,7 +15207,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/10-18mm-f4-5-5-6-zoom.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 21000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -19447,7 +19473,9 @@
     "hasApertureRing": true,
     "motorType": "Micromotor",
     "image_url": "/images/products/fujifilm/fujifilm-xf-14mm-f2-8-r.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 27800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-8mm-f3-5-r-wr",
@@ -19481,7 +19509,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-8mm-f3-5-r-wr.webp",
     "motorType": "Micromotor",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 24600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-16mm-f1-4-r-wr",
@@ -19516,7 +19546,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-16mm-f1-4-r-wr.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 29800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-18mm-f2-r",
@@ -19549,7 +19581,9 @@
     "hasWeatherSeal": false,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-18mm-f2-r.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 18000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-23mm-f2-8-r-wr",
@@ -19583,7 +19617,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-23mm-f2-8-r-wr.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 12900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-30mm-f2-8-r-lm-wr-macro",
@@ -19617,7 +19653,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-30mm-f2-8-r-lm-wr-macro.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 18500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-50mm-f1-0-r-wr",
@@ -19650,7 +19688,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-50mm-f1-0-r-wr.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 43900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-60mm-f2-4-r-macro",
@@ -19683,7 +19723,9 @@
     "hasWeatherSeal": false,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-60mm-f2-4-r-macro.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 19200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-80mm-f2-8-r-lm-ois-wr-macro",
@@ -19754,7 +19796,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-xf-200mm-f2-r-lm-ois-wr.webp",
     "motorType": "Linear Motor",
     "hasCustomButton": true,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 185000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-400mm-f4-5-r-lm-ois-wr",
@@ -19790,7 +19834,9 @@
     "motorType": "Linear Motor",
     "coatings": "Fluorine",
     "hasCustomButton": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 96800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
@@ -19894,7 +19940,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-16-80mm-f4-r-ois-wr.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 24900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-18-120mm-f4-lm-pz-wr",
@@ -19965,7 +20013,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr.webp",
     "motorType": "Linear Motor",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 59600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xc-13-33mm-f3-5-6-3-ois",
@@ -20067,7 +20117,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-23mm-f4-r-lm-wr.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 77900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-30mm-f3-5-r-wr",
@@ -20101,7 +20153,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-30mm-f3-5-r-wr.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 49600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-45mm-f2-8-r-wr",
@@ -20135,7 +20189,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-45mm-f2-8-r-wr.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 50900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-50mm-f3-5-r-lm-wr",
@@ -20169,7 +20225,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-50mm-f3-5-r-lm-wr.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-55mm-f1-7-r-wr",
@@ -20203,7 +20261,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-55mm-f1-7-r-wr.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 72600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-63mm-f2-8-r-wr",
@@ -20236,7 +20296,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-63mm-f2-8-r-wr.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 44900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-120mm-f4-r-lm-ois-wr-macro",
@@ -20271,7 +20333,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-120mm-f4-r-lm-ois-wr-macro.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 80900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-250mm-f4-r-lm-ois-wr",
@@ -20305,7 +20369,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-250mm-f4-r-lm-ois-wr.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 99600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-500mm-f5-6-r-lm-ois-wr",
@@ -20341,7 +20407,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-gf-500mm-f5-6-r-lm-ois-wr.webp",
     "coatings": "Fluorine",
     "hasCustomButton": true,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 113500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-20-35mm-f4-r-wr",
@@ -20376,7 +20444,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-20-35mm-f4-r-wr.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 77600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-32-90mm-t3-5-pz-ois-wr",
@@ -20444,7 +20514,9 @@
     "hasApertureRing": false,
     "image_url": "/images/products/fujifilm/fujifilm-gf-35-70mm-f4-5-5-6-wr.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 28500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-100-200mm-f5-6-r-lm-ois-wr",
@@ -20478,7 +20550,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-gf-100-200mm-f5-6-r-lm-ois-wr.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 60900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-30mm-f5-6-t-s",
@@ -20513,7 +20587,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-gf-30mm-f5-6-t-s.webp",
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 128000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-110mm-f5-6-t-s-macro",
@@ -20547,7 +20623,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-gf-110mm-f5-6-t-s-macro.webp",
     "motorType": "Manual focus",
     "releaseMonth": 9,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 112000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-23mm-f1-4-r",
@@ -20651,7 +20729,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-56mm-f1-2-r-apd.webp",
     "motorType": "Micromotor",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 47900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-10-24mm-f4-r-ois",
@@ -20857,7 +20937,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-t30-iii.webp",
     "logSupport": "F-Log, F-Log2, HLG",
     "releaseMonth": 10,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 28600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gfx-100rf",
@@ -29807,7 +29889,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-tilt-shift.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 44000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-8-15mm-f2-8-ff-zoom-fisheye",
@@ -29856,7 +29940,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-8-15mm-f2-8-ff-zoom-fisheye.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 24600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-12-24mm-f5-6-zoom-shift-cf",
@@ -29910,7 +29996,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-zoom-shift-cf.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 24600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro",
@@ -29970,7 +30058,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-35mm-f2-8-zero-d-tilt-shift-0-5x-macro.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 44000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo",
@@ -30066,7 +30156,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-6mm-f2-zero-d-mft.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-19mm-f2-8-zero-d-gfx",
@@ -30100,7 +30192,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-19mm-f2-8-zero-d-gfx.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 35100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-argus-25mm-f0-95-mft-apo",
@@ -30133,7 +30227,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-argus-25mm-f0-95-mft-apo.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-10mm-f4-cookie",
@@ -30232,7 +30328,9 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-argus-45mm-f0-95-ff.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 20900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-20mm-f4-zero-d-shift",
@@ -30291,7 +30389,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-20mm-f4-zero-d-shift.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 38600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-90mm-f2-8-2x-ultra-macro-apo",
@@ -30340,7 +30440,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-90mm-f2-8-2x-ultra-macro-apo.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-argus-33mm-f0-95-cf-apo",
@@ -30389,7 +30491,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-argus-33mm-f0-95-cf-apo.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-10mm-f2-zero-d-mft",
@@ -30422,7 +30526,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-10mm-f2-zero-d-mft.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 12200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "zeiss-nano-prime-18mm-t1-5",
@@ -30897,7 +31003,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-4mm-f2-8-fisheye-mft.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 7000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-17mm-f1-8-mft",
@@ -30931,7 +31039,9 @@
     "specialElements": "1 ED",
     "hasOIS": false,
     "hasCustomButton": false,
-    "image_url": "/images/products/laowa/laowa-17mm-f1-8-mft.webp"
+    "image_url": "/images/products/laowa/laowa-17mm-f1-8-mft.webp",
+    "retailPrice": 5200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-50mm-f2-8-2x-ultra-macro-apo",
@@ -30964,7 +31074,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-50mm-f2-8-2x-ultra-macro-apo.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-65mm-f2-8-2x-ultra-macro-apo",
@@ -31008,7 +31120,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-65mm-f2-8-2x-ultra-macro-apo.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-15mm-f4-5-zero-d-shift",
@@ -31062,7 +31176,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-15mm-f4-5-zero-d-shift.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 42200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-17mm-f4-gfx-zero-d",
@@ -31097,7 +31213,9 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-17mm-f4-gfx-zero-d.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 35100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-argus-18mm-f0-95-mft-apo",
@@ -31130,7 +31248,9 @@
     "hasApertureRing": true,
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-argus-18mm-f0-95-mft-apo.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tokina-sz-33mm-f1-2-mf",
@@ -31231,7 +31351,9 @@
     "videoColorDepth": "8-bit 4:2:0",
     "afPoints": "3x3 grid (Single Point AF)",
     "afTargets": "Face/Eye",
-    "fixedLens": "10.8mm F2.8 (32mm equiv.)"
+    "fixedLens": "10.8mm F2.8 (32mm equiv.)",
+    "retailPrice": 18600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-mkx-18-55mm-t2-9",
@@ -33740,7 +33862,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-15mm-f5-cookie-ff.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-15mm-f4-5-0-5x-wide-angle-macro",
@@ -33796,7 +33920,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-15mm-f4-5-0-5x-wide-angle-macro.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 14100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-17mm-f4-zero-d-shift",
@@ -33853,7 +33979,9 @@
     ],
     "sensorFormat": "Medium Format",
     "image_url": "/images/products/laowa/laowa-17mm-f4-zero-d-shift.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 35100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-af-cine-28-45mm-t2-ff",
@@ -34517,7 +34645,9 @@
     ],
     "sensorFormat": "Medium Format",
     "image_url": "/images/products/laowa/laowa-55mm-f2-8-tilt-shift-1x-macro.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 44000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-100mm-f2-8-tilt-shift-1x-macro",
@@ -34569,7 +34699,9 @@
     ],
     "sensorFormat": "Medium Format",
     "image_url": "/images/products/laowa/laowa-100mm-f2-8-tilt-shift-1x-macro.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 44000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-4-5-10mm-f2-8-cf-zoom-fisheye",
@@ -34731,7 +34863,9 @@
     "image_url": "/images/products/om-system/om-system-pen.webp",
     "releaseMonth": 9,
     "processor": "TruePic IX",
-    "videoColorDepth": "8-bit"
+    "videoColorDepth": "8-bit",
+    "retailPrice": 36990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-om-1-mark-ii",
@@ -35785,7 +35919,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-60mm-f2-8-macro.webp",
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 14990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-17mm-f1-8",
@@ -35987,7 +36123,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro.webp",
     "releaseMonth": 9,
     "coatings": "ZERO Coating",
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 39990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro",
@@ -36266,7 +36404,9 @@
     "releaseMonth": 10,
     "coatings": "Z Coating Nano",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 39990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-45mm-f1-2-pro",
@@ -36301,7 +36441,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-45mm-f1-2-pro.webp",
     "coatings": "Z Coating Nano",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 39990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-12-200mm-f3-5-6-3",
@@ -36336,7 +36478,9 @@
     "releaseMonth": 2,
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 26990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-12-45mm-f4-0-pro",
@@ -36582,7 +36726,9 @@
     "motorType": "MSC",
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 29990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro",
@@ -36652,7 +36798,9 @@
     "releaseMonth": 1,
     "motorType": "Stepping Motor",
     "coatings": "ZERO Coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 95990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-ed-9-18mm-f4-0-5-6-ii",
@@ -36721,7 +36869,9 @@
     "releaseMonth": 2,
     "motorType": "MSC",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 14500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-25mm-f1-8-ii",
@@ -37403,7 +37553,8 @@
     "releaseMonth": 2,
     "processor": "Venus Engine",
     "afTargets": "Face",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 16900
   },
   {
     "id": "panasonic-lumix-gf9",
@@ -37475,7 +37626,8 @@
     "processor": "Venus Engine 10",
     "afTargets": "Face/Eye",
     "hasIBIS": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 64900
   },
   {
     "id": "panasonic-lumix-g9",
@@ -37771,7 +37923,9 @@
     "processor": "Venus Engine",
     "evfResolution": "3.68M-dot",
     "batterySpec": "DMW-BLK22 (400 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 43980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-gh6",
@@ -37846,7 +38000,9 @@
     "weightGrams": 658,
     "image_url": "/images/products/panasonic/panasonic-lumix-g9ii.webp",
     "releaseMonth": 9,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 49900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g100d",
@@ -37960,7 +38116,9 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/panasonic/panasonic-lumix-gh7.webp",
     "releaseMonth": 6,
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "retailPrice": 73900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s",
@@ -38161,7 +38319,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-nocticron-42-5mm-f1-2-asph-power-o-i-s.webp",
     "releaseMonth": 1,
     "motorType": "Stepping Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "retailPrice": 32980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-summilux-15mm-f1-7-asph",
@@ -38193,7 +38353,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-15mm-f1-7-asph.webp",
     "releaseMonth": 3,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "retailPrice": 16680,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-vario-14-140mm-f3-5-5-6-asph-power-o-i-s",
@@ -38292,7 +38454,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-g-42-5mm-f1-7-asph-power-o-i-s.webp",
     "releaseMonth": 2,
     "motorType": "Stepping Motor",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 10855,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-macro-30mm-f2-8-asph-mega-o-i-s",
@@ -38327,7 +38491,9 @@
     "releaseMonth": 2,
     "motorType": "Stepping Motor",
     "coatings": "Multi-layer coating",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 9880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-25mm-f1-7-asph",
@@ -38361,7 +38527,9 @@
     "releaseMonth": 9,
     "motorType": "Stepping Motor",
     "hasOIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 5990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-vario-12-60mm-f3-5-5-6-asph-power-o-i-s",
@@ -38461,7 +38629,9 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-100-300mm-f4-0-5-6-ii-power-o-i-s.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 16055,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-asph-power-o-i-s",
@@ -38527,7 +38697,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-12mm-f1-4-asph.webp",
     "releaseMonth": 6,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "retailPrice": 31200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-12-60mm-f2-8-4-0-asph-power-o-i-s",
@@ -38562,7 +38734,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-12-60mm-f2-8-4-0-asph-power-o-i-s.webp",
     "releaseMonth": 1,
     "motorType": "Linear Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "retailPrice": 21300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-8-18mm-f2-8-4-0-asph",
@@ -38597,7 +38771,9 @@
     "releaseMonth": 4,
     "motorType": "Linear Motor",
     "coatings": "Nano Surface Coating",
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 32900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
@@ -38701,7 +38877,9 @@
     ],
     "releaseMonth": 1,
     "motorType": "Stepping Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "retailPrice": 27455,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
@@ -38770,7 +38948,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-14-140mm-f3-5-5-6-ii-asph-power-o-i-s.webp",
     "releaseMonth": 4,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "retailPrice": 19990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-summilux-10-25mm-f1-7-asph",
@@ -38804,7 +38984,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-summilux-10-25mm-f1-7-asph.webp",
     "releaseMonth": 5,
     "motorType": "Stepping Motor",
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 56905,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-summilux-25-50mm-f1-7-asph",
@@ -38837,7 +39019,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-summilux-25-50mm-f1-7-asph.webp",
     "releaseMonth": 7,
-    "motorType": "Linear Motor"
+    "motorType": "Linear Motor",
+    "retailPrice": 52155,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-summilux-9mm-f1-7-asph",
@@ -38871,7 +39055,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-summilux-9mm-f1-7-asph.webp",
     "releaseMonth": 5,
     "motorType": "Stepping Motor",
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 15191,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-summilux-25mm-f1-4-ii-asph",
@@ -38906,7 +39092,9 @@
     "releaseMonth": 8,
     "motorType": "Stepping Motor",
     "coatings": "Nano Surface Coating",
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 20400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-12-35mm-f2-8-asph-power-o-i-s",
@@ -38941,7 +39129,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-12-35mm-f2-8-asph-power-o-i-s.webp",
     "releaseMonth": 12,
     "motorType": "Linear Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "retailPrice": 28900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-35-100mm-f2-8-power-o-i-s",
@@ -38976,7 +39166,9 @@
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmarit-35-100mm-f2-8-power-o-i-s.webp",
     "releaseMonth": 9,
     "motorType": "Stepping Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "retailPrice": 31780,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s",
@@ -39010,7 +39202,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s.webp",
     "releaseMonth": 9,
-    "motorType": "Linear Motor"
+    "motorType": "Linear Motor",
+    "retailPrice": 51900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s1h",
@@ -39160,7 +39354,9 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s5ii.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 48355,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s5iix",
@@ -39197,7 +39393,9 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s5iix.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 62900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s9",
@@ -39231,7 +39429,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s9.webp",
     "releaseMonth": 5,
-    "cardSlots": "1x SD (UHS-II)"
+    "cardSlots": "1x SD (UHS-II)",
+    "retailPrice": 43130,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s1rii",
@@ -39269,7 +39469,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1rii.webp",
     "releaseMonth": 2,
-    "videoColorDepth": "10-bit"
+    "videoColorDepth": "10-bit",
+    "retailPrice": 109900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s1ii",
@@ -39308,7 +39510,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s1ii.webp",
     "releaseMonth": 5,
     "videoResolution": "6K 30p / 5.9K 60p / 4K 120p / Full HD 240p",
-    "videoColorDepth": "10-bit 4:2:2"
+    "videoColorDepth": "10-bit 4:2:2",
+    "retailPrice": 98900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s1iie",
@@ -39452,7 +39656,9 @@
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 77000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-pro-24-70mm-f2-8",
@@ -39485,7 +39691,9 @@
     "releaseMonth": 8,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 60298,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
@@ -39927,7 +40135,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s-26mm-f8.webp",
     "releaseMonth": 5,
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 7900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-18-40mm-f4-5-6-3",
@@ -40067,7 +40277,9 @@
     "releaseMonth": 4,
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 16900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-20mm-f2-5",
@@ -40102,7 +40314,9 @@
     "releaseMonth": 9,
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 19900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-g-20mm-f1-7-ii-asph",
@@ -40238,7 +40452,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1r.webp",
     "releaseMonth": 2,
-    "batterySpec": "360-380 shots CIPA (LCD)"
+    "batterySpec": "360-380 shots CIPA (LCD)",
+    "retailPrice": 60980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tamron-16-50mm-f2-8-a-b091",
