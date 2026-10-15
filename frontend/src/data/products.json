@@ -40923,7 +40923,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-9mm-f2-8.webp"
+    "image_url": "/images/products/astrhori/astrhori-9mm-f2-8.webp",
+    "releaseMonth": 11
   },
   {
     "id": "astrhori-af-85mm-f1-8-mark-ii",
@@ -40962,7 +40963,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-af-85mm-f1-8-mark-ii.webp"
+    "image_url": "/images/products/astrhori/astrhori-af-85mm-f1-8-mark-ii.webp",
+    "releaseMonth": 10
   },
   {
     "id": "astrhori-18mm-f5-6-shift",
@@ -41007,7 +41009,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-18mm-f5-6-shift.webp"
+    "image_url": "/images/products/astrhori/astrhori-18mm-f5-6-shift.webp",
+    "releaseMonth": 9
   },
   {
     "id": "astrhori-6mm-f2-8-circular-fisheye",
@@ -41052,7 +41055,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-6mm-f2-8-circular-fisheye.webp"
+    "image_url": "/images/products/astrhori/astrhori-6mm-f2-8-circular-fisheye.webp",
+    "releaseMonth": 8
   },
   {
     "id": "astrhori-6-5mm-f2-fisheye",
@@ -41102,7 +41106,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-6-5mm-f2-fisheye.webp"
+    "image_url": "/images/products/astrhori/astrhori-6-5mm-f2-fisheye.webp",
+    "releaseMonth": 4
   },
   {
     "id": "astrhori-af-27mm-f2-8",
@@ -41142,7 +41147,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-af-27mm-f2-8.webp"
+    "image_url": "/images/products/astrhori/astrhori-af-27mm-f2-8.webp",
+    "releaseMonth": 11
   },
   {
     "id": "astrhori-120mm-f2-8-macro-2x",
@@ -41188,7 +41194,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-120mm-f2-8-macro-2x.webp"
+    "image_url": "/images/products/astrhori/astrhori-120mm-f2-8-macro-2x.webp",
+    "releaseMonth": 8
   },
   {
     "id": "astrhori-25mm-f2-8-macro-2-0-5-0x",
@@ -41238,7 +41245,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-25mm-f2-8-macro-2-0-5-0x.webp"
+    "image_url": "/images/products/astrhori/astrhori-25mm-f2-8-macro-2-0-5-0x.webp",
+    "releaseMonth": 1
   },
   {
     "id": "astrhori-28mm-f13-2x-macro-probe",
@@ -41385,7 +41393,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-18mm-f8-2x-probe-macro.webp"
+    "image_url": "/images/products/astrhori/astrhori-18mm-f8-2x-probe-macro.webp",
+    "releaseMonth": 5
   },
   {
     "id": "astrhori-18mm-f8-2x-periprobe",
@@ -41438,7 +41447,8 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "releaseMonth": 1
   },
   {
     "id": "astrhori-af-85mm-f1-8",
@@ -41513,7 +41523,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-12mm-f2-8-fisheye.webp"
+    "image_url": "/images/products/astrhori/astrhori-12mm-f2-8-fisheye.webp",
+    "releaseMonth": 12
   },
   {
     "id": "astrhori-18mm-f8-shift",
@@ -41558,7 +41569,8 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "releaseMonth": 12
   },
   {
     "id": "astrhori-85mm-f2-8-macro-tilt",
@@ -41642,7 +41654,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-40mm-f5-6.webp"
+    "image_url": "/images/products/astrhori/astrhori-40mm-f5-6.webp",
+    "releaseMonth": 10
   },
   {
     "id": "astrhori-55mm-f5-6",
@@ -41670,7 +41683,8 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "releaseMonth": 9
   },
   {
     "id": "astrhori-75mm-f4",
@@ -41886,7 +41900,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-af-12mm-f2-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-af-12mm-f2-8.webp",
+    "releaseMonth": 4
   },
   {
     "id": "brightin-star-af-24mm-f1-8",
@@ -41917,7 +41932,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-af-24mm-f1-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-af-24mm-f1-8.webp",
+    "releaseMonth": 12
   },
   {
     "id": "brightin-star-af-35mm-f1-8",
@@ -41948,7 +41964,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-af-35mm-f1-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-af-35mm-f1-8.webp",
+    "releaseMonth": 8
   },
   {
     "id": "brightin-star-af-50mm-f1-4",
@@ -41978,7 +41995,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-af-50mm-f1-4.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-af-50mm-f1-4.webp",
+    "releaseMonth": 12
   },
   {
     "id": "brightin-star-af-85mm-f1-8",
@@ -42054,7 +42072,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-11mm-f2-8-ii.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-11mm-f2-8-ii.webp",
+    "releaseMonth": 4
   },
   {
     "id": "brightin-star-mf-14mm-f2-8",
@@ -42095,7 +42114,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-14mm-f2-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-14mm-f2-8.webp",
+    "releaseMonth": 6
   },
   {
     "id": "brightin-star-mf-7-5mm-f2-8-iv",
@@ -42142,7 +42162,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-7-5mm-f2-8-iv.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-7-5mm-f2-8-iv.webp",
+    "releaseMonth": 5
   },
   {
     "id": "brightin-star-mf-9mm-f5-6",
@@ -42182,7 +42203,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-9mm-f5-6.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-9mm-f5-6.webp",
+    "releaseMonth": 10
   },
   {
     "id": "brightin-star-mf-10mm-f5-6-ii",
@@ -42227,7 +42249,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-ii.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-ii.webp",
+    "releaseMonth": 5
   },
   {
     "id": "brightin-star-mf-10mm-f5-6-pro",
@@ -42275,7 +42298,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-pro.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-pro.webp",
+    "releaseMonth": 9
   },
   {
     "id": "brightin-star-mf-12mm-f2-0-iii",
@@ -42322,7 +42346,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-0-iii.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-0-iii.webp",
+    "releaseMonth": 2
   },
   {
     "id": "brightin-star-mf-12mm-f2-8",
@@ -42365,7 +42390,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-8.webp",
+    "releaseMonth": 4
   },
   {
     "id": "brightin-star-mf-16mm-f2-8",
@@ -42408,7 +42434,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-16mm-f2-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-16mm-f2-8.webp",
+    "releaseMonth": 4
   },
   {
     "id": "brightin-star-mf-28mm-f2-8",
@@ -42436,7 +42463,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-28mm-f2-8.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-28mm-f2-8.webp",
+    "releaseMonth": 7
   },
   {
     "id": "brightin-star-mf-35mm-f1-4",
@@ -42484,7 +42512,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f1-4.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f1-4.webp",
+    "releaseMonth": 12
   },
   {
     "id": "brightin-star-mf-50mm-f0-95-ii",
@@ -42528,7 +42557,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-ii.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-ii.webp",
+    "releaseMonth": 12
   },
   {
     "id": "brightin-star-mf-50mm-f1-05",
@@ -42570,7 +42600,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-05.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-05.webp",
+    "releaseMonth": 1
   },
   {
     "id": "brightin-star-mf-60mm-f2-8-2x-macro",
@@ -42619,7 +42650,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-60mm-f2-8-2x-macro.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-60mm-f2-8-2x-macro.webp",
+    "releaseMonth": 1
   },
   {
     "id": "brightin-star-mf-35mm-f0-95",
@@ -42799,7 +42831,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f2-0-tri-sight.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f2-0-tri-sight.webp",
+    "releaseMonth": 9
   },
   {
     "id": "dzofilm-catta-zoom-35-80mm-t2-9",
@@ -42847,7 +42880,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "releaseMonth": 11
   },
   {
     "id": "dzofilm-catta-zoom-70-135mm-t2-9",
@@ -42895,7 +42929,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "releaseMonth": 11
   },
   {
     "id": "dzofilm-linglung-10-24mm-t2-9",
@@ -43097,7 +43132,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-11mm-t4-3.webp"
+    "image_url": "/images/products/irix/irix-cine-11mm-t4-3.webp",
+    "releaseMonth": 9
   },
   {
     "id": "irix-cine-15mm-t2-6",
@@ -43328,7 +43364,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-45mm-t1-5.webp"
+    "image_url": "/images/products/irix/irix-cine-45mm-t1-5.webp",
+    "releaseMonth": 10
   },
   {
     "id": "irix-cine-65mm-t1-5",
@@ -43385,7 +43422,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-65mm-t1-5.webp"
+    "image_url": "/images/products/irix/irix-cine-65mm-t1-5.webp",
+    "releaseMonth": 4
   },
   {
     "id": "irix-cine-150mm-t3-0-macro-1-1",
@@ -43550,7 +43588,8 @@
         }
       }
     ],
-    "image_url": "/images/products/kase/kase-reflex-lens-200mm-f5-6.webp"
+    "image_url": "/images/products/kase/kase-reflex-lens-200mm-f5-6.webp",
+    "releaseMonth": 2
   },
   {
     "id": "kase-af-85mm-f1-4",
@@ -43625,7 +43664,8 @@
         }
       }
     ],
-    "image_url": "/images/products/kase/kase-150mm-f5-6-af-reflex-lens.webp"
+    "image_url": "/images/products/kase/kase-150mm-f5-6-af-reflex-lens.webp",
+    "releaseMonth": 3
   },
   {
     "id": "nisi-15mm-f4",
@@ -43672,7 +43712,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nisi/nisi-15mm-f4.webp"
+    "image_url": "/images/products/nisi/nisi-15mm-f4.webp",
+    "releaseMonth": 1
   },
   {
     "id": "nisi-9mm-f2-8",
@@ -43723,7 +43764,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nisi/nisi-9mm-f2-8.webp"
+    "image_url": "/images/products/nisi/nisi-9mm-f2-8.webp",
+    "releaseMonth": 9
   },
   {
     "id": "nisi-250mm-f5-6-reflex-mf",
@@ -43775,7 +43817,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nisi/nisi-250mm-f5-6-reflex-mf.webp"
+    "image_url": "/images/products/nisi/nisi-250mm-f5-6-reflex-mf.webp",
+    "releaseMonth": 3
   },
   {
     "id": "nisi-16mm-f2-8-medium-format-asph",
@@ -43812,7 +43855,8 @@
         }
       }
     ],
-    "image_url": "/images/products/nisi/nisi-16mm-f2-8-medium-format-asph.webp"
+    "image_url": "/images/products/nisi/nisi-16mm-f2-8-medium-format-asph.webp",
+    "releaseMonth": 7
   },
   {
     "id": "red-komodo-6k",
@@ -44754,7 +44798,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-28mm-f-1-4-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-28mm-f-1-4-asph.webp",
+    "releaseMonth": 9
   },
   {
     "id": "thypoch-simera-35mm-f-1-4-asph",
@@ -44805,7 +44850,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-35mm-f-1-4-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-35mm-f-1-4-asph.webp",
+    "releaseMonth": 9
   },
   {
     "id": "thypoch-simera-50mm-f-1-4-asph",
@@ -44842,7 +44888,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-50mm-f-1-4-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-50mm-f-1-4-asph.webp",
+    "releaseMonth": 8
   },
   {
     "id": "thypoch-simera-75mm-f-1-4-asph",
@@ -44905,7 +44952,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-21mm-f-1-4-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-21mm-f-1-4-asph.webp",
+    "releaseMonth": 6
   },
   {
     "id": "thypoch-voyager-24-50mm-f-2-8",
@@ -45035,7 +45083,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "releaseMonth": 11
   },
   {
     "id": "thypoch-eureka-50mm-f-2",
@@ -45507,7 +45556,8 @@
     "specialElements": "2 ED, 2 High Refractive Index",
     "motorType": "STM lead screw-type stepping motor",
     "weightGrams": 176,
-    "dimensions": "Ø65 x 49 mm"
+    "dimensions": "Ø65 x 49 mm",
+    "releaseMonth": 12
   },
   {
     "id": "ttartisans-af-35mm-f1-8",
@@ -45572,7 +45622,8 @@
     "filterSizeMm": 39,
     "opticalDesign": "8 elements in 7 groups",
     "motorType": "Stepping Motor",
-    "weightGrams": 98
+    "weightGrams": 98,
+    "releaseMonth": 3
   },
   {
     "id": "ttartisans-af-17mm-f1-8-air",
@@ -45608,7 +45659,8 @@
     "filterSizeMm": 52,
     "opticalDesign": "14 elements in 10 groups",
     "motorType": "Stepping Motor",
-    "weightGrams": 161
+    "weightGrams": 161,
+    "releaseMonth": 4
   },
   {
     "id": "ttartisans-af-50mm-f1-8-neo",
@@ -45645,7 +45697,8 @@
     "opticalDesign": "12 elements in 8 groups",
     "motorType": "STM",
     "weightGrams": 156,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "releaseMonth": 4
   },
   {
     "id": "ttartisans-af-85mm-f1-8-neo",
@@ -45715,7 +45768,8 @@
     "opticalDesign": "6 elements in 6 groups",
     "motorType": "VCM",
     "weightGrams": 57,
-    "dimensions": "Ø60 x 16 mm"
+    "dimensions": "Ø60 x 16 mm",
+    "releaseMonth": 10
   },
   {
     "id": "ttartisans-af-32mm-f2-8",
@@ -45949,7 +46003,8 @@
     "weightGrams": 437,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-14mm-f2-8-asph.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-14mm-f2-8-asph.webp",
+    "releaseMonth": 8
   },
   {
     "id": "ttartisans-tilt-shift-17mm-f4-asph",
@@ -45996,7 +46051,8 @@
     "specialElements": "2 Aspherical, 6 High Refractive",
     "weightGrams": 1051,
     "motorType": "Manual focus",
-    "image_url": "/images/products/ttartisans/ttartisans-tilt-shift-17mm-f4-asph.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-tilt-shift-17mm-f4-asph.webp",
+    "releaseMonth": 10
   },
   {
     "id": "ttartisans-tilt-shift-100mm-f2-8-2x-macro",
@@ -46391,7 +46447,8 @@
     "dimensions": "Ø74 x 72 mm",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-m-50mm-f0-95-asph.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-m-50mm-f0-95-asph.webp",
+    "releaseMonth": 6
   },
   {
     "id": "ttartisans-21mm-f1-5-asph",
@@ -46514,7 +46571,8 @@
     "opticalDesign": "7 elements in 6 groups",
     "weightGrams": 341,
     "motorType": "Manual focus",
-    "image_url": "/images/products/ttartisans/ttartisans-tilt-aps-c-35mm-f1-4.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-tilt-aps-c-35mm-f1-4.webp",
+    "releaseMonth": 5
   },
   {
     "id": "ttartisans-aps-c-10mm-f2-asph",
@@ -47027,7 +47085,8 @@
     "weightGrams": 727,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-50mm-t2-1-dual-bokeh-cine.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-50mm-t2-1-dual-bokeh-cine.webp",
+    "releaseMonth": 11
   },
   {
     "id": "ttartisans-85mm-t2-1-dual-bokeh-cine",
@@ -47070,7 +47129,8 @@
     "weightGrams": 779,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-85mm-t2-1-dual-bokeh-cine.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-85mm-t2-1-dual-bokeh-cine.webp",
+    "releaseMonth": 11
   },
   {
     "id": "z-cam-e2",
@@ -47148,7 +47208,8 @@
     "batterySpec": "Sony NP-F",
     "weightGrams": 930,
     "dimensions": "91.2 x 99.25 x 95.6 mm",
-    "image_url": "/images/products/z-cam/z-cam-e2-m4.webp"
+    "image_url": "/images/products/z-cam/z-cam-e2-m4.webp",
+    "releaseMonth": 5
   },
   {
     "id": "z-cam-e2-m4-mark-ii",
@@ -47175,7 +47236,8 @@
     "batterySpec": "Mini V-Lock 14.8V",
     "ports": "HDMI 2.0, 3G-SDI, USB-C, Gigabit Ethernet, BNC timecode, BNC genlock, 3.5mm mic, headphone, LANC",
     "weightGrams": 1060,
-    "dimensions": "98 x 105 x 116 mm"
+    "dimensions": "98 x 105 x 116 mm",
+    "releaseMonth": 1
   },
   {
     "id": "z-cam-e2n-mark-ii",
