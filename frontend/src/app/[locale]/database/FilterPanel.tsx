@@ -32,7 +32,7 @@ export const EMPTY_FILTERS: FilterState = {
   mounts: [],
 };
 
-const FORMATS = ['Full Frame', 'APS-C', 'Medium Format'];
+const FORMATS = ['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch'];
 const YEARS = [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026];
 
 function toggle(list: string[], value: string) {

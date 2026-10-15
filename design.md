@@ -41,7 +41,8 @@ editorial — 器材型錄 / 檔案館。
 - 新增資料後先跑 normalize，再跑 validate。
 - `launchPrice` 是台灣新台幣**首發**建議售價：來自台灣分公司／總代理公告或台灣媒體的上市報導。現價、促銷價、外幣換算價都不收。
   例外：上市 6 個月內的新品，可以用台灣官方商店目前標示的建議售價（2026-10 起的規則）。
-- `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
+- `weightGrams`：機身含電池與記憶卡，鏡頭用官方值。外接電池的電影機（RED、Blackmagic 盒式機、Z CAM）用官方公布的機身淨重（body only）。
+- `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
 
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。

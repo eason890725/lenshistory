@@ -16,13 +16,13 @@ const BODY = ['megapixels', 'sensorType', 'processor', 'isoRange', 'burstSpeed',
 const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...SHARED, ...BODY]) };
 const NUMBER = ['releaseYear', 'releaseMonth', 'launchPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
-const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds']);
-const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch']);
+const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds', 'Samsung NX', 'Samsung NX-M', 'Canon EF-M', 'Nikon 1', 'Pentax Q']);
+const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch']);
 // House style for free-text fields (scripts/normalize_products.py rewrites most variants into these)
 const STYLE = {
   closeFocus: /^\d+(\.\d+)?m\b/,
   maxMagnification: /^\d+(\.\d+)?x\b/,
-  opticalDesign: /^\d+ elements in \d+ groups$/,
+  opticalDesign: /^\d+ elements( in \d+ groups)?$/, // some makers publish only the element count
   megapixels: /^\d+(\.\d+)?MP\b/,
   burstSpeed: /^\d+(\.\d+)?fps\b/,
   dimensions: /^(Ø[\d.]+ x [\d.]+ mm|[\d.]+ x [\d.]+ x [\d.]+ mm)/,
