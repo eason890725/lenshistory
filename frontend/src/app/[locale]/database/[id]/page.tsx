@@ -2,14 +2,14 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import BackButton from '../BackButton';
 import CompareButton from '../CompareButton';
-import { focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
+import { NONE, focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
 import { findGear } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
 type Row = [label: string, value: string | number | undefined];
 
-function SpecGroup({ title, rows }: { title: string; rows: Row[] }) {
-  const present = rows.filter(([, v]) => v !== undefined && v !== '');
+function SpecGroup({ title, rows, none }: { title: string; rows: Row[]; none: string }) {
+  const present = rows.filter(([, v]) => v !== undefined && v !== '').map(([l, v]): Row => [l, v === NONE ? none : v]);
   if (!present.length) return null;
   return (
     <section className="min-w-0">
@@ -163,7 +163,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
       </div>
 
       <div className="mt-[var(--space-2xl)] grid gap-[var(--space-xl)] md:grid-cols-[repeat(2,minmax(0,1fr))] xl:grid-cols-[repeat(3,minmax(0,1fr))]">
-        {groups.map(g => <SpecGroup key={g.title} {...g} />)}
+        {groups.map(g => <SpecGroup key={g.title} {...g} none={tc('none')} />)}
       </div>
     </main>
   );

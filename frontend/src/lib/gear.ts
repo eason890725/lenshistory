@@ -70,6 +70,9 @@ export function weightValue(g: Gear) {
   return Number(String(g.weightGrams ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/)?.[0]) || undefined;
 }
 
+// Stored in a spec field when the official spec confirms the feature doesn't exist (no EVF, no Log); shown as 無 / None
+export const NONE = 'None';
+
 // "2026.09", or just "2026" when the month isn't known
 export function releaseLabel(g: Gear) {
   if (!g.releaseYear) return undefined;

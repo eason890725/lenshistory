@@ -18,6 +18,8 @@ const NUMBER = ['releaseYear', 'releaseMonth', 'launchPrice', 'focalLengthMinMm'
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds', 'Samsung NX', 'Samsung NX-M', 'Canon EF-M', 'Nikon 1', 'Pentax Q']);
 const FORMATS = new Set(['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch']);
+// "None" = the official spec confirms the feature is absent (shown as 無); manual lenses use motorType "Manual focus" instead
+const NONE_OK = new Set(['specialElements', 'coatings', 'afPoints', 'afTargets', 'afRange', 'ibisRating', 'logSupport', 'evfResolution', 'evfMagnification', 'videoColorDepth']);
 // House style for free-text fields (scripts/normalize_products.py rewrites most variants into these)
 const STYLE = {
   closeFocus: /^\d+(\.\d+)?m\b/,
@@ -52,7 +54,8 @@ for (const g of items) {
     if (typeof v === 'string' && JUNK.has(v.trim())) err(`placeholder value in ${k}: "${v}" (leave the field out instead)`);
     if (NUMBER.includes(k) && typeof v !== 'number') err(`${k} must be a number, got ${JSON.stringify(v)}`);
     if (k.startsWith('has') && typeof v !== 'boolean') err(`${k} must be true/false`);
-    if (STYLE[k] && !STYLE[k].test(String(v))) err(`${k} not in house style: "${v}" (run scripts/normalize_products.py or fix by hand)`);
+    if (v === 'None' && !NONE_OK.has(k)) err(`"None" is only for features a camera or lens can lack (${[...NONE_OK].join(', ')}); use false for has* fields`);
+    if (STYLE[k] && v !== 'None' && !STYLE[k].test(String(v))) err(`${k} not in house style: "${v}" (run scripts/normalize_products.py or fix by hand)`);
   }
   if (g.sensorFormat && !FORMATS.has(g.sensorFormat)) err(`sensorFormat must be one of ${[...FORMATS].join(', ')}`);
   for (const m of g.mounts ?? []) if (!MOUNTS.has(m?.mount?.name)) err(`unknown mount "${m?.mount?.name}"`);

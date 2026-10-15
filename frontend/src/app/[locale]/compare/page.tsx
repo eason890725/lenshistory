@@ -1,7 +1,7 @@
 import { Link } from '@/i18n/routing';
 import CompareTable from './CompareTable';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { focalLength, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
+import { NONE, focalLength, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
 import { gears as allGears } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
@@ -36,6 +36,7 @@ export default async function ComparePage({
   const gears = getCompareGears(ids);
 
   const yesNo = (v?: boolean) => (v === undefined ? undefined : v ? tc('yes') : tc('no'));
+  const noneLabel = (v: string) => (v === NONE ? tc('none') : v);
   const L = 'LENS' as const;
   const B = 'CAMERA_BODY' as const;
 
@@ -105,7 +106,7 @@ export default async function ComparePage({
               .filter(r => r.section === section)
               .map(r => ({
                 label: r.label,
-                values: gears.map(g => ((!r.type || r.type === g.gearType) ? String(r.get(g) ?? '—') : null)),
+                values: gears.map(g => ((!r.type || r.type === g.gearType) ? noneLabel(String(r.get(g) ?? '—')) : null)),
               })),
           }))}
         />
