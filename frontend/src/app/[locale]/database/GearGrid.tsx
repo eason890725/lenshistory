@@ -26,6 +26,14 @@ function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
   };
 }
 
+// Sensor size for ordering the format chips, largest first: named formats, then type sizes ("1-inch" > "2/3-inch" > "1/2.3-inch")
+const NAMED_FORMATS: Record<string, number> = { 'Medium Format': 100, 'Full Frame': 50, 'APS-C': 20, 'Four Thirds': 10 };
+function formatSize(f: string) {
+  if (f in NAMED_FORMATS) return NAMED_FORMATS[f];
+  const m = f.match(/^(?:(\d)\/)?(\d+(?:\.\d+)?)-inch$/);
+  return m ? (m[1] ? Number(m[1]) / Number(m[2]) : Number(m[2])) : 0;
+}
+
 function matches(g: Gear, f: FilterState) {
   if (f.q) {
     const q = f.q.toLowerCase();
@@ -85,6 +93,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
     gears.reduce<Record<string, number>>((acc, g) => ({ ...acc, [g.brand]: (acc[g.brand] || 0) + 1 }), {})
   ).sort((a, b) => b[1] - a[1]);
   const mountOptions = [...new Set(gears.flatMap(g => g.mounts?.map(m => m.mount.name) ?? []))].sort();
+  const formatOptions = [...new Set(gears.map(g => g.sensorFormat).filter((f): f is string => !!f))].sort((a, b) => formatSize(b) - formatSize(a));
 
   const results = gears.filter(g => matches(g, filters)).sort(compareGears(filters.sortBy));
 
@@ -164,7 +173,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
             {tc('applyFilters')}
           </button>
         </div>
-        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} mountOptions={mountOptions} />
+        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} mountOptions={mountOptions} formatOptions={formatOptions} />
       </aside>
 
       <section aria-live="polite" className="min-w-0">

@@ -57,7 +57,8 @@ for (const g of items) {
     if (v === 'None' && !NONE_OK.has(k)) err(`"None" is only for features a camera or lens can lack (${[...NONE_OK].join(', ')}); use false for has* fields`);
     if (STYLE[k] && v !== 'None' && !STYLE[k].test(String(v))) err(`${k} not in house style: "${v}" (run scripts/normalize_products.py or fix by hand)`);
   }
-  if (g.sensorFormat && !FORMATS.has(g.sensorFormat)) err(`sensorFormat must be one of ${[...FORMATS].join(', ')}`);
+  // Compacts and action cams add type-inch sizes like "1/2.3-inch", "2/3-inch", "1.4-inch"
+  if (g.sensorFormat && !FORMATS.has(g.sensorFormat) && !/^(\d\/)?\d(\.\d)?-inch$/.test(g.sensorFormat)) err(`sensorFormat must be one of ${[...FORMATS].join(', ')} or a type size like 1/2.3-inch`);
   for (const m of g.mounts ?? []) if (!MOUNTS.has(m?.mount?.name)) err(`unknown mount "${m?.mount?.name}"`);
 
   if (g.launchPrice !== undefined && !(g.launchPrice > 0)) err('launchPrice must be > 0 (leave it out when unknown)');

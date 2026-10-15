@@ -32,7 +32,6 @@ export const EMPTY_FILTERS: FilterState = {
   mounts: [],
 };
 
-const FORMATS = ['Full Frame', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch'];
 const YEARS = [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026];
 
 function toggle(list: string[], value: string) {
@@ -68,11 +67,13 @@ export default function FilterPanel({
   setFilters,
   brandCounts,
   mountOptions,
+  formatOptions,
 }: {
   filters: FilterState;
   setFilters: (f: FilterState) => void;
   brandCounts: [string, number][];
   mountOptions: string[];
+  formatOptions: string[];
 }) {
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
@@ -141,7 +142,7 @@ export default function FilterPanel({
 
       <Group label={tc('sensorFormat')}>
         <div className="flex flex-wrap gap-[var(--space-xs)]">
-          {FORMATS.map(f => (
+          {formatOptions.map(f => (
             <Chip key={f} active={filters.sensorFormats.includes(f)} onClick={() => set({ sensorFormats: toggle(filters.sensorFormats, f) })}>
               {f}
             </Chip>
