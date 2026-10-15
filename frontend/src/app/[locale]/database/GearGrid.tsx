@@ -5,7 +5,7 @@ import { usePathname, useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useRouter } from '@/i18n/routing';
 import ProductCard from '@/components/gear/ProductCard';
-import { releaseKey, weightValue, type Gear } from '@/lib/gear';
+import { gearKind, priceValue, releaseKey, weightValue, type Gear } from '@/lib/gear';
 import { useCompareIds } from '@/lib/compare';
 import FilterPanel, { EMPTY_FILTERS, PRICE_MAX, YEAR_MAX, YEAR_MIN, type FilterState } from './FilterPanel';
 
@@ -32,10 +32,10 @@ function matches(g: Gear, f: FilterState) {
     const hit = g.modelName.toLowerCase().includes(q) || g.brand.toLowerCase().includes(q) || (g.aliases || []).some(a => a.toLowerCase().includes(q));
     if (!hit) return false;
   }
-  if (f.gearTypes.length && !f.gearTypes.includes(g.gearType)) return false;
+  if (f.gearTypes.length && !f.gearTypes.includes(gearKind(g))) return false;
   if (f.brands.length && !f.brands.includes(g.brand)) return false;
   // The slider's top position means "MAX", i.e. no upper limit
-  const price = g.launchPrice;
+  const price = priceValue(g);
   if (price && (price < f.minPrice || (f.maxPrice < PRICE_MAX && price > f.maxPrice))) return false;
   const year = g.releaseYear;
   if (year && (year < f.minYear || year > f.maxYear)) return false;
@@ -50,8 +50,8 @@ function compareGears(sortBy: string) {
       // Same year and month: fall back to the name so the order is stable, not file order
       case 'newest': return releaseKey(b) - releaseKey(a) || a.modelName.localeCompare(b.modelName);
       case 'oldest': return releaseKey(a) - releaseKey(b) || a.modelName.localeCompare(b.modelName);
-      case 'priceDesc': return (b.launchPrice || 0) - (a.launchPrice || 0);
-      case 'priceAsc': return (a.launchPrice || 1e9) - (b.launchPrice || 1e9);
+      case 'priceDesc': return (priceValue(b) || 0) - (priceValue(a) || 0);
+      case 'priceAsc': return (priceValue(a) || 1e9) - (priceValue(b) || 1e9);
       case 'weightAsc': return (weightValue(a) || 1e5) - (weightValue(b) || 1e5);
       case 'mpDesc': return (parseFloat(String(b.megapixels)) || 0) - (parseFloat(String(a.megapixels)) || 0);
       // Lenses by widest focal length, then longest; bodies (no focal length) go last either way
@@ -177,6 +177,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
                 gear={gear}
                 priority={i < 4}
                 noImageLabel={t('noImage')}
+                streetLabel={t('street')}
                 compare={{
                   selected: selectedIds.includes(gear.id),
                   disabled: !!selectedType && selectedType !== gear.gearType && !selectedIds.includes(gear.id),

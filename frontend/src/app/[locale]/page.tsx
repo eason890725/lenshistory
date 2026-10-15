@@ -54,7 +54,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <h2 id="latest" className="text-xl font-bold">{t('latest')}</h2>
         <div className="mt-[var(--space-md)] grid grid-cols-[repeat(2,minmax(0,1fr))] gap-x-[var(--space-lg)] gap-y-[var(--space-xl)] border-t border-ink pt-[var(--space-lg)] md:grid-cols-[repeat(4,minmax(0,1fr))]">
           {latest.map((g, i) => (
-            <ProductCard key={g.id} gear={g} noImageLabel={ts('noImage')} priority={i < 4} />
+            <ProductCard key={g.id} gear={g} noImageLabel={ts('noImage')} streetLabel={ts('street')} priority={i < 4} />
           ))}
         </div>
       </section>

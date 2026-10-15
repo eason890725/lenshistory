@@ -1,5 +1,5 @@
 import { Link } from '@/i18n/routing';
-import { focalLength, releaseLabel, type Gear } from '@/lib/gear';
+import { focalLength, priceText, releaseLabel, type Gear } from '@/lib/gear';
 
 export function shortName(g: Gear) {
   return g.modelName.startsWith(g.brand + ' ') ? g.modelName.slice(g.brand.length + 1) : g.modelName;
@@ -24,16 +24,18 @@ type CompareProps = {
 export default function ProductCard({
   gear,
   noImageLabel,
+  streetLabel,
   compare,
   priority = false,
 }: {
   gear: Gear;
   noImageLabel: string;
+  streetLabel: string;
   compare?: CompareProps;
   priority?: boolean;
 }) {
   const name = shortName(gear);
-  const facts = [releaseLabel(gear), keySpec(gear), gear.launchPrice ? `NT$${gear.launchPrice.toLocaleString()}` : undefined]
+  const facts = [releaseLabel(gear), keySpec(gear), priceText(gear, streetLabel)]
     .filter(Boolean)
     .join(' · ');
 

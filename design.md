@@ -41,6 +41,8 @@ editorial — 器材型錄 / 檔案館。
 - 新增資料後先跑 normalize，再跑 validate。
 - `launchPrice` 是台灣新台幣**首發**建議售價：來自台灣分公司／總代理公告或台灣媒體的上市報導。現價、促銷價、外幣換算價都不收。
   例外：上市 6 個月內的新品，可以用台灣官方商店目前標示的建議售價（2026-10 起的規則）。
+- `retailPrice`＋`retailPriceDate`（"2026-10"）：查不到首發價時，收台灣現在的全新公司貨售價（官方商店 > PChome／momo／Yahoo／蝦皮商城官方店 > 授權經銷）。平行輸入、二手、限時促銷、組合價不收。頁面有首發價就只顯示首發價，否則顯示「售價 NT$…（年.月）」。
+- `fixedLens`：固定鏡頭相機的內建鏡頭，例如 "23mm F2 (35mm equiv.)"；有這個欄位就歸類為「固定鏡頭相機」，不填 mounts。收錄範圍含 1 吋以上的高階隨身機、小感光元件卡片機與運動相機（2012 年以後）。
 - 「無」：官方規格（或 DPReview 規格頁）明確寫出沒有這項功能時，是非欄位填 `false`，文字欄位填 `"None"`（頁面顯示「無」，可用欄位見 validate 的 NONE_OK）。手動對焦鏡頭的 motorType 用 `"Manual focus"`。沒寫就留空，不推論。
 - `weightGrams`：機身含電池與記憶卡，鏡頭用官方值。外接電池的電影機（RED、Blackmagic 盒式機、Z CAM）用官方公布的機身淨重（body only）。
 - `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。

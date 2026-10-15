@@ -111,9 +111,9 @@ export default function FilterPanel({
 
       <Group label={t('gearType')}>
         <div className="flex flex-wrap gap-[var(--space-xs)]">
-          {(['CAMERA_BODY', 'LENS'] as const).map(type => (
+          {(['CAMERA_BODY', 'FIXED_LENS', 'LENS'] as const).map(type => (
             <Chip key={type} active={filters.gearTypes.includes(type)} onClick={() => set({ gearTypes: toggle(filters.gearTypes, type) })}>
-              {type === 'LENS' ? t('lens') : t('body')}
+              {type === 'LENS' ? t('lens') : type === 'FIXED_LENS' ? t('fixedLensCamera') : t('body')}
             </Chip>
           ))}
         </div>

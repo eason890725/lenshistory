@@ -2490,7 +2490,8 @@
     "batterySpec": "NP-W126S (310 shots EVF / 450 shots OVF, CIPA)",
     "ports": "USB-C (10Gbps), micro HDMI, 2.5mm mic/remote",
     "logSupport": "F-Log, F-Log2, HLG",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -2528,7 +2529,8 @@
     "processor": "X-Processor 4",
     "burstSpeed": "11fps (Mech) / 20fps (Elec)",
     "logSupport": "F-Log",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -2563,7 +2565,8 @@
     "ports": "USB 2.0, HDMI, mic",
     "hasWeatherSeal": false,
     "afPoints": "325 points",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -2596,7 +2599,8 @@
     "batterySpec": "NP-95",
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic/remote",
     "hasWeatherSeal": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -2627,7 +2631,8 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
     "launchPrice": 39800,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -2658,7 +2663,8 @@
     "batterySpec": "NP-95 (300 shots CIPA)",
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "fixedLens": "23mm F2 (35mm equiv.)"
   },
   {
     "brand": "Fujifilm",
@@ -18095,7 +18101,14 @@
     "batterySpec": "NP-W126S (330 shots CIPA)",
     "ports": "USB-C (10Gbps), micro HDMI, 3.5mm mic, 3.5mm headphone",
     "hasWeatherSeal": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "brand": "Fujifilm",
@@ -20876,7 +20889,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-gfx-100rf.webp",
     "logSupport": "F-Log, F-Log2, HLG",
     "launchPrice": 162000,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "fixedLens": "35mm F4 (28mm equiv.)"
   },
   {
     "id": "fujifilm-gfx-eterna-55",
@@ -22518,7 +22532,8 @@
     "afTargets": "Human",
     "launchPrice": 140000,
     "releaseMonth": 6,
-    "image_url": "/images/products/leica/leica-q-typ-116.webp"
+    "image_url": "/images/products/leica/leica-q-typ-116.webp",
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-q-p",
@@ -22547,7 +22562,8 @@
     "image_url": "/images/products/leica/leica-q-p.webp",
     "dimensions": "130 x 80 x 93 mm",
     "afPoints": "49 points",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29526-Technical-Data_Q-P_lens_en.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-29526-Technical-Data_Q-P_lens_en.pdf",
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-q2",
@@ -22577,7 +22593,8 @@
     "officialUrl": "https://leica-camera.com/en-int/node/6921",
     "image_url": "/images/products/leica/leica-q2.webp",
     "releaseMonth": 3,
-    "processor": "Maestro II"
+    "processor": "Maestro II",
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-q2-monochrom",
@@ -22606,7 +22623,8 @@
     "releaseMonth": 11,
     "dimensions": "130 x 80 x 91.9 mm",
     "afPoints": "225 points",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-55427-200827__Tech_data_Q2_Mono_en.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-55427-200827__Tech_data_Q2_Mono_en.pdf",
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-q3",
@@ -22639,7 +22657,8 @@
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-q3-43",
@@ -22672,7 +22691,8 @@
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "fixedLens": "43mm F2 (APO-Summicron ASPH.)"
   },
   {
     "id": "leica-q3-monochrom",
@@ -22705,7 +22725,8 @@
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
   },
   {
     "id": "leica-m-typ-240",
@@ -23040,7 +23061,14 @@
     "burstSpeed": "4.5fps",
     "lcdSpec": "3.0-inch 1.04M-dot fixed",
     "cardSlots": "1x SD",
-    "batterySpec": "BP-SCL5"
+    "batterySpec": "BP-SCL5",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ]
   },
   {
     "id": "leica-m10-r",
@@ -31202,7 +31230,8 @@
     "hasIBIS": false,
     "videoColorDepth": "8-bit 4:2:0",
     "afPoints": "3x3 grid (Single Point AF)",
-    "afTargets": "Face/Eye"
+    "afTargets": "Face/Eye",
+    "fixedLens": "10.8mm F2.8 (32mm equiv.)"
   },
   {
     "id": "fujifilm-mkx-18-55mm-t2-9",

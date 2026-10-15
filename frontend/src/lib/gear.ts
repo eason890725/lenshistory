@@ -17,7 +17,9 @@ export type Gear = {
   category?: string;
   releaseYear?: number;   // year it was announced (kept separate so the year filter stays simple)
   releaseMonth?: number;  // 1-12, month it was announced, when known
-  launchPrice?: number;
+  launchPrice?: number;     // Taiwan launch suggested price (NT$)
+  retailPrice?: number;     // current Taiwan street price for new stock, used only when the launch price can't be found
+  retailPriceDate?: string; // "2026-10", when retailPrice was checked
   weightGrams?: number | string;
   dimensions?: string;
   hasWeatherSeal?: boolean;
@@ -40,6 +42,7 @@ export type Gear = {
   hasCustomButton?: boolean;
 
   // camera body
+  fixedLens?: string;       // built-in lens, e.g. "23mm F2 (35mm equiv.)"; present = fixed-lens camera
   megapixels?: number | string;
   sensorType?: string;
   processor?: string;
@@ -68,6 +71,22 @@ export function weightLabel(g: Gear) {
 
 export function weightValue(g: Gear) {
   return Number(String(g.weightGrams ?? '').replace(/,/g, '').match(/\d+(\.\d+)?/)?.[0]) || undefined;
+}
+
+// Filter category: interchangeable-lens body, fixed-lens camera or lens
+export function gearKind(g: Gear) {
+  return g.gearType === 'LENS' ? 'LENS' : g.fixedLens ? 'FIXED_LENS' : 'CAMERA_BODY';
+}
+
+// Launch price when known, else the street price
+export function priceValue(g: Gear) {
+  return g.launchPrice ?? g.retailPrice;
+}
+
+// "NT$39,990", or "Street NT$32,990" when only the street price is known
+export function priceText(g: Gear, streetLabel: string) {
+  if (g.launchPrice) return `NT$${g.launchPrice.toLocaleString()}`;
+  if (g.retailPrice) return `${streetLabel} NT$${g.retailPrice.toLocaleString()}`;
 }
 
 // Stored in a spec field when the official spec confirms the feature doesn't exist (no EVF, no Log); shown as 無 / None

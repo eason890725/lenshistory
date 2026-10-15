@@ -37,7 +37,11 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
 
   const isLens = gear.gearType === 'LENS';
   const yesNo = (v?: boolean) => (v === undefined ? undefined : v ? tc('yes') : tc('no'));
-  const price = gear.launchPrice ? `NT$${gear.launchPrice.toLocaleString()}` : undefined;
+  // Launch price, else the street price with the month it was checked
+  const price = gear.launchPrice
+    ? `NT$${gear.launchPrice.toLocaleString()}`
+    : gear.retailPrice ? `NT$${gear.retailPrice.toLocaleString()} (${gear.retailPriceDate?.replace('-', '.')})` : undefined;
+  const priceLabel = !gear.launchPrice && gear.retailPrice ? t('retailPrice') : t('launchPrice');
   const mounts = gear.mounts?.map(m => m.mount.name).join(', ');
   const kind = isLens
     ? gear.focalLengthMinMm === gear.focalLengthMaxMm ? t('prime') : t('zoom')
@@ -70,11 +74,12 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('dimensions'), gear.dimensions],
           [t('series'), gear.series],
           [t('releaseYear'), releaseLabel(gear)],
-          [t('launchPrice'), price],
+          [priceLabel, price],
         ] },
       ]
     : [
         { title: t('imaging'), rows: [
+          [t('fixedLens'), gear.fixedLens],
           [t('megapixels'), gear.megapixels],
           [t('sensorType'), gear.sensorType],
           [t('sensorFormat'), gear.sensorFormat],
@@ -104,7 +109,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('weight'), weightLabel(gear)],
           [t('dimensions'), gear.dimensions],
           [t('releaseYear'), releaseLabel(gear)],
-          [t('launchPrice'), price],
+          [priceLabel, price],
         ] },
       ];
 
@@ -139,7 +144,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
 
           <dl className="mt-[var(--space-lg)] grid grid-cols-[repeat(3,minmax(0,1fr))] border-y border-rule py-[var(--space-md)]">
             {([
-              [t('launchPrice'), price ?? '—'],
+              [priceLabel, price ?? '—'],
               [t('weight'), weightValue(gear) ? `${weightValue(gear)}g` : '—'],
               [isLens ? t('focalLength') : t('megapixels'), (isLens ? focalLength(gear) : gear.megapixels) ?? '—'],
             ] as const).map(([label, value]) => (
