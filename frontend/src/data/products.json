@@ -15176,6 +15176,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "Full Frame",
@@ -25538,6 +25543,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -25653,6 +25663,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -25714,6 +25729,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -28067,6 +28087,11 @@
         "mount": {
           "name": "Sony E"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -28858,6 +28883,11 @@
         "mount": {
           "name": "Nikon Z"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -28904,6 +28934,11 @@
         "mount": {
           "name": "Nikon Z"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -28948,6 +28983,11 @@
       {
         "mount": {
           "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -29818,6 +29858,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -29978,6 +30023,11 @@
         "mount": {
           "name": "Fujifilm X"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -30015,6 +30065,11 @@
         "mount": {
           "name": "Fujifilm X"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -30051,6 +30106,11 @@
       {
         "mount": {
           "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -30265,6 +30325,11 @@
       {
         "mount": {
           "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -30557,6 +30622,11 @@
         "mount": {
           "name": "Sony E"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -30765,6 +30835,11 @@
       {
         "mount": {
           "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -31277,6 +31352,11 @@
         "mount": {
           "name": "Fujifilm X"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "minAperture": "16",
@@ -31394,6 +31474,11 @@
       {
         "mount": {
           "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -34179,6 +34264,11 @@
         "mount": {
           "name": "Canon RF"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -35154,6 +35244,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -42982,6 +43077,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-7-5mm-f2-8-iv.webp",
@@ -43069,6 +43169,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -43166,6 +43271,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -43473,6 +43583,11 @@
         "mount": {
           "name": "Canon RF"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-60mm-f2-8-2x-macro.webp",
@@ -43523,6 +43638,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f0-95.webp"
@@ -43570,6 +43690,11 @@
         "mount": {
           "name": "Nikon Z"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-aps-c.webp"
@@ -43614,6 +43739,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -46717,6 +46847,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "focalLengthMinMm": 35,
@@ -46773,6 +46908,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -47232,6 +47372,11 @@
         "mount": {
           "name": "Canon RF"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "focalLengthMinMm": 50,
@@ -47575,6 +47720,11 @@
         "mount": {
           "name": "Micro Four Thirds"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "focalLengthMinMm": 25,
@@ -47630,6 +47780,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -47687,6 +47842,11 @@
       {
         "mount": {
           "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -47746,6 +47906,11 @@
         "mount": {
           "name": "Canon RF"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "focalLengthMinMm": 40,
@@ -47799,6 +47964,11 @@
       {
         "mount": {
           "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -47856,6 +48026,11 @@
         "mount": {
           "name": "Canon RF"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
       }
     ],
     "focalLengthMinMm": 7.5,
@@ -47907,6 +48082,11 @@
       {
         "mount": {
           "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
         }
       }
     ],
@@ -52882,7 +53062,14 @@
     "opticalDesign": "11 elements in 8 groups",
     "weightGrams": 300,
     "sensorFormat": "APS-C",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
+      }
+    ]
   },
   {
     "id": "meike-12mm-f2-8-apsc-mf",
