@@ -49282,7 +49282,9 @@
     "dimensions": "Ø46 x 37.8 mm",
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-25mm-f1-8-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-25mm-f1-8-aps-c.webp",
+    "retailPrice": 2480,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-35mm-f2-aps-c",
@@ -50346,7 +50348,9 @@
     "filterSizeMm": 67,
     "weightGrams": 310,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-12mm-f2-8-mark-ii-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-12mm-f2-8-mark-ii-aps-c.webp",
+    "retailPrice": 5000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "7artisans-18mm-f6-3-mark-ii-aps-c",
@@ -50940,7 +50944,9 @@
         }
       }
     ],
-    "sensorFormat": "Four Thirds"
+    "sensorFormat": "Four Thirds",
+    "retailPrice": 13700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-9mm-f2-8-zero-d",
@@ -51003,7 +51009,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-9mm-f2-8-zero-d.webp"
+    "image_url": "/images/products/laowa/laowa-9mm-f2-8-zero-d.webp",
+    "retailPrice": 14000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-14mm-f4-ff-rl-zero-d",
@@ -51056,7 +51064,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-14mm-f4-ff-rl-zero-d.webp"
+    "image_url": "/images/products/laowa/laowa-14mm-f4-ff-rl-zero-d.webp",
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-12-24mm-f5-6-c-dreamer",
@@ -51107,7 +51117,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-c-dreamer.webp"
+    "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-c-dreamer.webp",
+    "retailPrice": 22800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-argus-28mm-f1-2-ff",
@@ -51153,7 +51165,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-argus-28mm-f1-2-ff.webp"
+    "image_url": "/images/products/laowa/laowa-argus-28mm-f1-2-ff.webp",
+    "retailPrice": 21000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-nanomorph-32mm-t2-9-1-5x-lf",
@@ -52306,7 +52320,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-58mm-f2-8-2x-ultra-macro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-58mm-f2-8-2x-ultra-macro-apo.webp",
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-24mm-f2-zero-d-tilt-shift",
@@ -52400,7 +52416,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-aurogon-ff-10-50x-na0-5-supermicro-apo.webp"
+    "image_url": "/images/products/laowa/laowa-aurogon-ff-10-50x-na0-5-supermicro-apo.webp",
+    "retailPrice": 52800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-24mm-t14-2x-macro-periprobe",
@@ -55630,7 +55648,8 @@
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "119.9 x 67.9 x 48.6 mm",
     "weightGrams": 384,
-    "image_url": "/images/products/casio/casio-exilim-ex-10.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-10.webp",
+    "launchPrice": 24990
   },
   {
     "id": "casio-exilim-ex-100",
@@ -55701,7 +55720,8 @@
     "ports": "micro USB",
     "batterySpec": "Built-in Li-ion (255 shots CIPA)",
     "dimensions": "60.9 x 153.1 x 34.2 mm",
-    "weightGrams": 175
+    "weightGrams": 175,
+    "launchPrice": 16490
   },
   {
     "id": "casio-exilim-ex-fr100",
@@ -55724,7 +55744,8 @@
     "ports": "micro USB",
     "batterySpec": "Built-in Li-ion (235 shots CIPA)",
     "dimensions": "60.9 x 154.8 x 38.7 mm",
-    "weightGrams": 214
+    "weightGrams": 214,
+    "launchPrice": 14990
   },
   {
     "id": "casio-exilim-ex-fr200",
@@ -55748,7 +55769,8 @@
     "ports": "micro USB",
     "batterySpec": "Built-in Li-ion (260 shots CIPA)",
     "dimensions": "60.9 x 154.8 x 46.2 mm",
-    "weightGrams": 238
+    "weightGrams": 238,
+    "launchPrice": 16990
   },
   {
     "id": "casio-g-z-eye-gze-1",
@@ -55879,7 +55901,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "Built-in Li-ion (240 shots CIPA)",
     "dimensions": "126 x 64 x 14.6 mm",
-    "weightGrams": 167
+    "weightGrams": 167,
+    "launchPrice": 29490
   },
   {
     "id": "casio-exilim-ex-tr60",
@@ -55920,7 +55943,8 @@
     "ports": "micro USB",
     "batterySpec": "NP-150 (220 shots CIPA)",
     "dimensions": "128.5 x 60.9 x 16.3 mm",
-    "weightGrams": 149
+    "weightGrams": 149,
+    "launchPrice": 30490
   },
   {
     "id": "casio-exilim-ex-zr1000",
@@ -55940,7 +55964,8 @@
     "batterySpec": "NP-130 (470 shots)",
     "dimensions": "107.5 x 61.5 x 36.7 mm",
     "weightGrams": 255,
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "launchPrice": 12990
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -56069,7 +56094,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "Built-in Li-ion (220 shots)",
     "dimensions": "122.8 x 59 x 14.9 mm",
-    "weightGrams": 157
+    "weightGrams": 157,
+    "launchPrice": 10990
   },
   {
     "id": "casio-exilim-ex-tr15",
@@ -56082,7 +56108,8 @@
     "sensorFormat": "1/2.3-inch",
     "megapixels": "12.1MP",
     "sensorType": "CMOS",
-    "cardSlots": "1x microSD"
+    "cardSlots": "1x microSD",
+    "launchPrice": 23990
   },
   {
     "id": "casio-exilim-ex-je10",
@@ -56405,7 +56432,8 @@
     "hasWeatherSeal": true,
     "dimensions": "39 x 39 x 22.3 mm",
     "weightGrams": 56,
-    "image_url": "/images/products/dji/dji-action-2.webp"
+    "image_url": "/images/products/dji/dji-action-2.webp",
+    "launchPrice": 13700
   },
   {
     "id": "dji-pocket-2",
@@ -56426,7 +56454,8 @@
     "cardSlots": "1x microSD (up to 256GB)",
     "dimensions": "124.7 x 38.1 x 30 mm",
     "weightGrams": 117,
-    "image_url": "/images/products/dji/dji-pocket-2.webp"
+    "image_url": "/images/products/dji/dji-pocket-2.webp",
+    "launchPrice": 12000
   },
   {
     "id": "dji-osmo-action",
@@ -56448,7 +56477,8 @@
     "cardSlots": "1x microSD (up to 256GB)",
     "hasWeatherSeal": true,
     "dimensions": "65 x 42 x 35 mm",
-    "weightGrams": 124
+    "weightGrams": 124,
+    "launchPrice": 12000
   },
   {
     "id": "dji-osmo-pocket",
@@ -56470,7 +56500,8 @@
     "cardSlots": "1x microSD (up to 256GB)",
     "dimensions": "121.9 x 36.9 x 28.6 mm",
     "weightGrams": 116,
-    "image_url": "/images/products/dji/dji-osmo-pocket.webp"
+    "image_url": "/images/products/dji/dji-osmo-pocket.webp",
+    "launchPrice": 12500
   },
   {
     "id": "insta360-x6",
@@ -57267,7 +57298,8 @@
     "dimensions": "106 x 61 x 29.8 mm",
     "weightGrams": 277,
     "afPoints": "135 points",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 18900
   },
   {
     "id": "nikon-1-v1",
@@ -57300,7 +57332,8 @@
     "dimensions": "113 x 76 x 43.5 mm",
     "weightGrams": 383,
     "afPoints": "135 points",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "launchPrice": 26900
   },
   {
     "id": "nikon-1-j2",
@@ -57365,7 +57398,8 @@
     "dimensions": "107.8 x 81.6 x 45.9 mm",
     "weightGrams": 337,
     "afPoints": "135 points",
-    "image_url": "/images/products/nikon/nikon-1-v2.webp"
+    "image_url": "/images/products/nikon/nikon-1-v2.webp",
+    "launchPrice": 28900
   },
   {
     "id": "nikon-1-j3",
@@ -57398,7 +57432,8 @@
     "weightGrams": 244,
     "afPoints": "135 points",
     "hasWeatherSeal": false,
-    "image_url": "/images/products/nikon/nikon-1-j3.webp"
+    "image_url": "/images/products/nikon/nikon-1-j3.webp",
+    "launchPrice": 18900
   },
   {
     "id": "nikon-1-s1",
@@ -57589,7 +57624,8 @@
     "ports": "USB, micro HDMI",
     "dimensions": "98.3 x 59.7 x 31.5 mm",
     "weightGrams": 265,
-    "afPoints": "171 points"
+    "afPoints": "171 points",
+    "launchPrice": 16900
   },
   {
     "id": "nikon-1-vr-10-30mm-f-3-5-5-6",
@@ -58005,7 +58041,8 @@
     "dimensions": "103.0 x 58.3 x 32.0 mm",
     "weightGrams": 194,
     "burstSpeed": "7fps",
-    "image_url": "/images/products/nikon/nikon-coolpix-p310.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p310.webp",
+    "launchPrice": 11900
   },
   {
     "id": "nikon-coolpix-p510",
@@ -58026,7 +58063,8 @@
     "batterySpec": "EN-EL5 (240 shots CIPA)",
     "dimensions": "119.8 x 82.9 x 102.2 mm",
     "weightGrams": 555,
-    "image_url": "/images/products/nikon/nikon-coolpix-p510.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p510.webp",
+    "launchPrice": 14900
   },
   {
     "id": "nikon-coolpix-s9300",
@@ -58141,7 +58179,8 @@
     "batterySpec": "2x AA (240 shots CIPA, alkaline)",
     "dimensions": "101.9 x 64.8 x 39.4 mm",
     "weightGrams": 214,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 3990
   },
   {
     "id": "nikon-coolpix-l810",
@@ -58260,7 +58299,8 @@
     "batterySpec": "EN-EL14 (330 shots CIPA)",
     "dimensions": "118.5 x 72.5 x 50.4 mm",
     "weightGrams": 392,
-    "burstSpeed": "8fps"
+    "burstSpeed": "8fps",
+    "launchPrice": 17900
   },
   {
     "id": "nikon-coolpix-s6400",
@@ -58318,7 +58358,8 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "Built-in Li-ion (190 shots CIPA)",
     "dimensions": "77.0 x 51.2 x 17.2 mm",
-    "weightGrams": 96
+    "weightGrams": 96,
+    "launchPrice": 6590
   },
   {
     "id": "nikon-coolpix-a",
@@ -58338,7 +58379,8 @@
     "dimensions": "111.0 x 64.3 x 40.3 mm",
     "weightGrams": 299,
     "burstSpeed": "4fps",
-    "image_url": "/images/products/nikon/nikon-coolpix-a.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-a.webp",
+    "launchPrice": 34900
   },
   {
     "id": "nikon-coolpix-p330",
@@ -58358,7 +58400,8 @@
     "batterySpec": "EN-EL12 (200 shots CIPA)",
     "dimensions": "103.0 x 58.3 x 32.0 mm",
     "weightGrams": 200,
-    "image_url": "/images/products/nikon/nikon-coolpix-p330.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p330.webp",
+    "launchPrice": 12900
   },
   {
     "id": "nikon-coolpix-p520",
@@ -58758,7 +58801,8 @@
     "dimensions": "125.0 x 85.0 x 106.5 mm",
     "weightGrams": 565,
     "burstSpeed": "7fps",
-    "image_url": "/images/products/nikon/nikon-coolpix-p600.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p600.webp",
+    "launchPrice": 17900
   },
   {
     "id": "nikon-coolpix-p340",
@@ -58778,7 +58822,8 @@
     "batterySpec": "EN-EL12 (220 shots CIPA)",
     "dimensions": "103.0 x 58.3 x 32.0 mm",
     "weightGrams": 194,
-    "image_url": "/images/products/nikon/nikon-coolpix-p340.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p340.webp",
+    "launchPrice": 13900
   },
   {
     "id": "nikon-coolpix-s6900",
@@ -61581,7 +61626,8 @@
     "batterySpec": "NB-5L (200 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "launchPrice": 14990
   },
   {
     "id": "canon-powershot-sx160-is",
@@ -61621,7 +61667,8 @@
     "batterySpec": "NB-6L (195 shots CIPA)",
     "videoResolution": "HD 720p",
     "hasIBIS": true,
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "launchPrice": 11990
   },
   {
     "id": "canon-powershot-a1300",
@@ -61828,7 +61875,8 @@
     "hasIBIS": true,
     "processor": "DIGIC 4+",
     "burstSpeed": "3.9fps",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "launchPrice": 5990
   },
   {
     "id": "canon-powershot-sx600-hs",
@@ -61847,7 +61895,8 @@
     "batterySpec": "NB-6LH (290 shots CIPA)",
     "videoResolution": "Full HD 30p",
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "launchPrice": 6990
   },
   {
     "id": "canon-ixus-170",
@@ -62091,7 +62140,8 @@
     "batterySpec": "NB-13L (250 shots CIPA)",
     "videoResolution": "Full HD 60p",
     "burstSpeed": "5.9fps",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "launchPrice": 11990
   },
   {
     "id": "canon-powershot-sx740-hs",
@@ -62138,7 +62188,8 @@
     "hasIBIS": true,
     "burstSpeed": "10fps",
     "releaseMonth": 9,
-    "image_url": "/images/products/canon/canon-powershot-sx70-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx70-hs.webp",
+    "launchPrice": 14990
   },
   {
     "id": "canon-powershot-v10",
@@ -62225,7 +62276,8 @@
     "batterySpec": "Built-in Li-ion (150 shots CIPA)",
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "launchPrice": 10990
   },
   {
     "id": "canon-powershot-pick",
@@ -62244,7 +62296,8 @@
     "lcdSpec": "None",
     "batterySpec": "Built-in Li-ion",
     "videoResolution": "Full HD 60p",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "launchPrice": 14900
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -63693,7 +63746,8 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "114.8 x 66.2 x 55.0 mm",
     "weightGrams": 393,
-    "image_url": "/images/products/panasonic/panasonic-lumix-lx100.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-lx100.webp",
+    "launchPrice": 29900
   },
   {
     "id": "panasonic-lumix-lx10",
@@ -63771,7 +63825,9 @@
     "ports": "USB-C, mic",
     "dimensions": "127.1 x 73.9 x 66.9 mm",
     "weightGrams": 508,
-    "image_url": "/images/products/panasonic/panasonic-lumix-l10.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-l10.webp",
+    "retailPrice": 49900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-lf1",
@@ -64325,7 +64381,8 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "112.0 x 68.8 x 41.6 mm",
     "weightGrams": 327,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs80.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs80.webp",
+    "launchPrice": 13990
   },
   {
     "id": "panasonic-lumix-zs99",
@@ -64350,7 +64407,9 @@
     "ports": "USB-C",
     "dimensions": "112.0 x 67.8 x 43.1 mm",
     "weightGrams": 322,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs99.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs99.webp",
+    "retailPrice": 16990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-ts4",
@@ -66710,7 +66769,8 @@
     "batterySpec": "NP-BX1 (330 shots CIPA)",
     "releaseMonth": 6,
     "megapixels": "20.2MP",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100.webp",
+    "launchPrice": 21980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-ii",
@@ -66730,7 +66790,8 @@
     "batterySpec": "NP-BX1 (350 shots CIPA)",
     "megapixels": "20.2MP",
     "releaseMonth": 6,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-ii.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-ii.webp",
+    "launchPrice": 22980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-iii",
@@ -66751,7 +66812,8 @@
     "batterySpec": "NP-BX1 (320 shots CIPA)",
     "megapixels": "20.1MP",
     "releaseMonth": 5,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iii.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iii.webp",
+    "launchPrice": 24980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-iv",
@@ -66771,7 +66833,8 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-BX1 (280 shots CIPA)",
     "megapixels": "20.1MP",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 28980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-v",
@@ -66792,7 +66855,8 @@
     "batterySpec": "NP-BX1 (220 shots CIPA)",
     "megapixels": "20.1MP",
     "releaseMonth": 10,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-v.webp",
+    "launchPrice": 31980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-va",
@@ -66833,7 +66897,8 @@
     "batterySpec": "NP-BX1 (240 shots CIPA)",
     "megapixels": "20.1MP",
     "releaseMonth": 6,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-vi.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-vi.webp",
+    "launchPrice": 34980
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vii",
@@ -66876,7 +66941,8 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-FW50 (420 shots CIPA)",
     "releaseMonth": 10,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10.webp",
+    "launchPrice": 35980
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-ii",
@@ -66896,7 +66962,8 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-FW50 (400 shots CIPA)",
     "megapixels": "20.2MP",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "launchPrice": 39980
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iii",
@@ -66916,7 +66983,8 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-FW50 (420 shots CIPA)",
     "megapixels": "20.1MP",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iii.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iii.webp",
+    "launchPrice": 48980
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iv",
@@ -66937,7 +67005,8 @@
     "batterySpec": "NP-FW50 (400 shots CIPA)",
     "megapixels": "20.1MP",
     "releaseMonth": 9,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iv.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iv.webp",
+    "launchPrice": 52980
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-v",
@@ -66979,7 +67048,8 @@
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 1.23M-dot fixed",
     "batterySpec": "NP-BX1 (270 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1.webp",
+    "launchPrice": 92980
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r",
@@ -66998,7 +67068,8 @@
     "videoResolution": "Full HD 60p",
     "lcdSpec": "3.0-inch 1.23M-dot fixed",
     "batterySpec": "NP-BX1 (220 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r.webp",
+    "launchPrice": 92980
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-ii",
@@ -67019,7 +67090,8 @@
     "evfMagnification": "0.74x",
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-BX1 (220 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r-ii.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r-ii.webp",
+    "launchPrice": 109900
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-iii",
@@ -67162,7 +67234,8 @@
     "hasIBIS": true,
     "lcdSpec": "None",
     "batterySpec": "NP-BN (220 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx10.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx10.webp",
+    "launchPrice": 6980
   },
   {
     "id": "sony-cyber-shot-dsc-qx100",
@@ -67182,7 +67255,8 @@
     "hasIBIS": true,
     "lcdSpec": "None",
     "batterySpec": "NP-BN (220 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx100.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx100.webp",
+    "launchPrice": 14980
   },
   {
     "id": "sony-cyber-shot-dsc-qx30",
@@ -67222,7 +67296,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BG1 (340 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx10v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx10v.webp",
+    "launchPrice": 11980
   },
   {
     "id": "sony-cyber-shot-dsc-hx30v",
@@ -67242,7 +67317,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BG1 (320 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx30v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx30v.webp",
+    "launchPrice": 13980
   },
   {
     "id": "sony-cyber-shot-dsc-hx200v",
@@ -67263,7 +67339,8 @@
     "evfResolution": "0.20M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-FH50 (450 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx200v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx200v.webp",
+    "launchPrice": 15980
   },
   {
     "id": "sony-cyber-shot-dsc-hx300",
@@ -67325,7 +67402,8 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-BX1 (300 shots CIPA)",
     "releaseMonth": 2,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx400v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx400v.webp",
+    "launchPrice": 16980
   },
   {
     "id": "sony-cyber-shot-dsc-hx90v",
@@ -67387,7 +67465,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot",
-    "batterySpec": "NP-BX1 (380 shots CIPA)"
+    "batterySpec": "NP-BX1 (380 shots CIPA)",
+    "launchPrice": 14980
   },
   {
     "id": "sony-cyber-shot-dsc-wx50",
@@ -67623,7 +67702,8 @@
     "videoResolution": "720p 30p",
     "hasIBIS": false,
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
-    "batterySpec": "NP-BN (200 shots CIPA)"
+    "batterySpec": "NP-BN (200 shots CIPA)",
+    "launchPrice": 3480
   },
   {
     "id": "sony-cyber-shot-dsc-w830",
@@ -67786,7 +67866,8 @@
     "dimensions": "24.2 x 36.0 x 74.0 mm",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "batterySpec": "NP-BY1"
+    "batterySpec": "NP-BY1",
+    "launchPrice": 9980
   },
   {
     "id": "sony-fdr-x1000v",
@@ -67801,7 +67882,8 @@
     "dimensions": "24.4 x 51.7 x 88.9 mm",
     "videoResolution": "4K 30p / Full HD 120p",
     "hasIBIS": false,
-    "batterySpec": "NP-BX1"
+    "batterySpec": "NP-BX1",
+    "launchPrice": 15980
   },
   {
     "id": "sony-hdr-as200v",
@@ -67817,7 +67899,8 @@
     "dimensions": "24.2 x 46.5 x 81.5 mm",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "batterySpec": "NP-BX1"
+    "batterySpec": "NP-BX1",
+    "launchPrice": 10980
   },
   {
     "id": "sony-hdr-as50",
@@ -67833,7 +67916,8 @@
     "dimensions": "24.2 x 47.0 x 83.0 mm",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "batterySpec": "NP-BX1"
+    "batterySpec": "NP-BX1",
+    "launchPrice": 7980
   },
   {
     "id": "sony-fdr-x3000",
@@ -67851,7 +67935,8 @@
     "videoResolution": "4K 30p / Full HD 120p",
     "hasIBIS": true,
     "batterySpec": "NP-BX1",
-    "image_url": "/images/products/sony/sony-fdr-x3000.webp"
+    "image_url": "/images/products/sony/sony-fdr-x3000.webp",
+    "launchPrice": 14980
   },
   {
     "id": "sony-hdr-as300",
@@ -69046,7 +69131,8 @@
     "batterySpec": "NB-10L (250 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "launchPrice": 23990
   },
   {
     "id": "canon-powershot-g15",
@@ -69066,7 +69152,8 @@
     "batterySpec": "NB-10L (350 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "launchPrice": 16990
   },
   {
     "id": "canon-powershot-g16",
@@ -69107,7 +69194,8 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-g1-x-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g1-x-mark-ii.webp",
+    "launchPrice": 24990
   },
   {
     "id": "canon-powershot-g7-x",
@@ -69127,7 +69215,8 @@
     "batterySpec": "NB-13L (210 shots CIPA)",
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "launchPrice": 17990
   },
   {
     "id": "canon-powershot-g3-x",
@@ -69149,7 +69238,8 @@
     "hasIBIS": true,
     "hasWeatherSeal": true,
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-g3-x.webp"
+    "image_url": "/images/products/canon/canon-powershot-g3-x.webp",
+    "launchPrice": 26990
   },
   {
     "id": "canon-powershot-g5-x",
@@ -69171,7 +69261,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-g5-x.webp"
+    "image_url": "/images/products/canon/canon-powershot-g5-x.webp",
+    "launchPrice": 23990
   },
   {
     "id": "canon-powershot-g9-x",
@@ -69192,7 +69283,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "processor": "DIGIC 6",
-    "burstSpeed": "6fps"
+    "burstSpeed": "6fps",
+    "launchPrice": 14990
   },
   {
     "id": "canon-powershot-g7-x-mark-ii",
@@ -69214,7 +69306,8 @@
     "hasIBIS": true,
     "processor": "DIGIC 7",
     "burstSpeed": "8fps",
-    "image_url": "/images/products/canon/canon-powershot-g7-x-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g7-x-mark-ii.webp",
+    "launchPrice": 20990
   },
   {
     "id": "canon-powershot-g9-x-mark-ii",
@@ -69236,7 +69329,8 @@
     "hasIBIS": true,
     "processor": "DIGIC 7",
     "burstSpeed": "8.1fps",
-    "image_url": "/images/products/canon/canon-powershot-g9-x-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g9-x-mark-ii.webp",
+    "launchPrice": 15990
   },
   {
     "id": "canon-powershot-g1-x-mark-iii",
@@ -69257,7 +69351,8 @@
     "batterySpec": "NB-13L (200 shots CIPA)",
     "videoResolution": "Full HD 60p",
     "burstSpeed": "9fps",
-    "image_url": "/images/products/canon/canon-powershot-g1-x-mark-iii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g1-x-mark-iii.webp",
+    "launchPrice": 33990
   },
   {
     "id": "canon-powershot-g5-x-mark-ii",
@@ -69278,7 +69373,8 @@
     "batterySpec": "NB-13L (230 shots CIPA)",
     "videoResolution": "4K 30p",
     "burstSpeed": "20fps (One-Shot AF) / 30fps (RAW burst)",
-    "image_url": "/images/products/canon/canon-powershot-g5-x-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g5-x-mark-ii.webp",
+    "launchPrice": 23990
   },
   {
     "id": "canon-powershot-g7-x-mark-iii",
@@ -69325,7 +69421,8 @@
     "batterySpec": "NB-10L (315 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "launchPrice": 15990
   },
   {
     "id": "canon-powershot-d20",
@@ -69346,7 +69443,8 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "launchPrice": 12990
   },
   {
     "id": "canon-powershot-sx240-hs",
@@ -69488,7 +69586,8 @@
     "batterySpec": "NB-9L (200 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "launchPrice": 10900
   },
   {
     "id": "canon-powershot-sx170-is",
@@ -69741,7 +69840,8 @@
     "hasIBIS": true,
     "hasWeatherSeal": true,
     "processor": "DIGIC 4",
-    "image_url": "/images/products/canon/canon-powershot-d30.webp"
+    "image_url": "/images/products/canon/canon-powershot-d30.webp",
+    "launchPrice": 9990
   },
   {
     "id": "canon-ixus-145",
@@ -69760,7 +69860,8 @@
     "batterySpec": "NB-11L (230 shots CIPA)",
     "videoResolution": "HD 720p",
     "hasIBIS": false,
-    "processor": "DIGIC 4+"
+    "processor": "DIGIC 4+",
+    "launchPrice": 3490
   },
   {
     "id": "canon-ixus-155",
@@ -69779,7 +69880,8 @@
     "batterySpec": "NB-11LH (230 shots CIPA)",
     "videoResolution": "HD 720p",
     "hasIBIS": true,
-    "processor": "DIGIC 4+"
+    "processor": "DIGIC 4+",
+    "launchPrice": 4990
   },
   {
     "id": "canon-powershot-sx700-hs",
@@ -69799,7 +69901,8 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NB-6LH (250 shots CIPA)",
     "videoResolution": "Full HD 60p",
-    "burstSpeed": "8.5fps"
+    "burstSpeed": "8.5fps",
+    "launchPrice": 10990
   },
   {
     "id": "canon-ixus-275-hs",
