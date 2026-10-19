@@ -33992,7 +33992,8 @@
     ],
     "sensorFormat": "Medium Format",
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-80mm-f1-6.webp"
   },
   {
     "id": "mitakon-55mm-f2-8-1-5x-macro",
@@ -34094,7 +34095,8 @@
     "sensorFormat": "Medium Format",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "image_url": "/images/products/mitakon/mitakon-zhongyi-pittura-30mm-f2-4.webp"
   },
   {
     "id": "mitakon-200mm-f4-1x-apo-macro",
@@ -34158,7 +34160,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "image_url": "/images/products/mitakon/mitakon-200mm-f4-1x-apo-macro.webp"
   },
   {
     "id": "mitakon-speedmaster-90mm-f1-5",
@@ -34203,7 +34206,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-90mm-f1-5.webp"
   },
   {
     "id": "mitakon-speedmaster-65mm-f1-4-gfx",
@@ -34230,7 +34234,8 @@
     "minAperture": "16",
     "closeFocus": "0.7m",
     "filterSizeMm": 72,
-    "weightGrams": 1050
+    "weightGrams": 1050,
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-65mm-f1-4-gfx.webp"
   },
   {
     "id": "mitakon-speedmaster-35mm-f0-95-ii",
@@ -34282,7 +34287,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 2,
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-35mm-f0-95-ii.webp"
   },
   {
     "id": "yongnuo-yn23mm-f1-4-da-dsm-wl-pro",
@@ -41468,7 +41474,8 @@
     "hasApertureRing": true,
     "launchPrice": 400500,
     "motorType": "Manual focus",
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/leica/leica-summilux-m-90-f1-5-asph.webp"
   },
   {
     "id": "leica-apo-summicron-m-35-f2-asph",
@@ -41713,7 +41720,8 @@
     "processor": "DIGIC DV 7",
     "sensorType": "DGO (Dual Gain Output) CMOS",
     "ports": "USB-C, HDMI, 2x mini XLR, headphone, timecode (BNC), DC in",
-    "batterySpec": "BP-A30 / BP-A60"
+    "batterySpec": "BP-A30 / BP-A60",
+    "image_url": "/images/products/canon/canon-eos-c70.webp"
   },
   {
     "id": "canon-eos-c400",
@@ -49548,7 +49556,8 @@
     "weightGrams": 201,
     "dimensions": "Ø60 x 54 mm",
     "hasApertureRing": true,
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/7artisans/7artisans-4mm-f2-8-aps-c-fisheye.webp"
   },
   {
     "id": "7artisans-60mm-f2-8-aps-c-macro",
@@ -49698,7 +49707,8 @@
     "opticalDesign": "11 elements in 8 groups",
     "closeFocus": "0.37m",
     "weightGrams": 369,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-35mm-f0-95-aps-c.webp"
   },
   {
     "id": "7artisans-18mm-f6-3-aps-c",
@@ -49736,7 +49746,8 @@
     "apertureMax": 6.3,
     "opticalDesign": "6 elements in 4 groups",
     "closeFocus": "0.35m",
-    "weightGrams": 51
+    "weightGrams": 51,
+    "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-aps-c.webp"
   },
   {
     "id": "7artisans-35mm-f5-6",
@@ -49783,7 +49794,8 @@
     "specialElements": "2 ED",
     "closeFocus": "0.3m",
     "weightGrams": 128,
-    "dimensions": "Ø60 x 21.75 mm"
+    "dimensions": "Ø60 x 21.75 mm",
+    "image_url": "/images/products/7artisans/7artisans-35mm-f5-6.webp"
   },
   {
     "id": "7artisans-10mm-f2-8-fisheye",
@@ -49985,7 +49997,8 @@
     "specialElements": "2 ED",
     "closeFocus": "0.45m",
     "filterSizeMm": 62,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-50mm-f0-95-aps-c.webp"
   },
   {
     "id": "7artisans-25mm-f0-95-aps-c",
@@ -50042,7 +50055,8 @@
     "closeFocus": "0.25m",
     "filterSizeMm": 52,
     "weightGrams": 582,
-    "dimensions": "Ø63 x 99.7 mm"
+    "dimensions": "Ø63 x 99.7 mm",
+    "image_url": "/images/products/7artisans/7artisans-25mm-f0-95-aps-c.webp"
   },
   {
     "id": "7artisans-vision-25mm-t1-05-cine",
@@ -50202,7 +50216,8 @@
     "filterSizeMm": 35.5,
     "weightGrams": 130,
     "dimensions": "Ø38 x 44 mm",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-m-28mm-f5-6.webp"
   },
   {
     "id": "7artisans-spectrum-35mm-t2-0-cine",
@@ -50328,7 +50343,8 @@
     "modelName": "7Artisans M 35mm F2 Mark II",
     "gearType": "LENS",
     "releaseYear": 2022,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "image_url": "/images/products/7artisans/7artisans-m-35mm-f2-mark-ii.webp"
   },
   {
     "id": "7artisans-12mm-f2-8-mark-ii-aps-c",
@@ -50483,7 +50499,8 @@
     ],
     "focalLengthMinMm": 9,
     "focalLengthMaxMm": 9,
-    "apertureMax": 5.6
+    "apertureMax": 5.6,
+    "image_url": "/images/products/7artisans/7artisans-9mm-f5-6.webp"
   },
   {
     "id": "7artisans-spectrum-14mm-t2-9-cine",
@@ -50557,7 +50574,8 @@
     "closeFocus": "0.5m",
     "filterSizeMm": 46,
     "weightGrams": 364,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-50mm-f1-4-aps-c-tilt.webp"
   },
   {
     "id": "7artisans-hope-10mm-t2-1-cine",
@@ -51418,7 +51436,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-14mm-t2-6-zero-d-vv-cine.webp"
   },
   {
     "id": "laowa-sword-25mm-t2-9-1x-macro",
@@ -51459,7 +51478,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-sword-25mm-t2-9-1x-macro.webp"
   },
   {
     "id": "laowa-nanomorph-60mm-t2-9-1-5x-macro",
@@ -51543,7 +51563,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-28-55mm-t2-9-1-5x.webp"
   },
   {
     "id": "laowa-nanomorph-zoom-50-100mm-t2-9-1-5x",
@@ -51584,7 +51605,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-50-100mm-t2-9-1-5x.webp"
   },
   {
     "id": "laowa-nanomorph-20mm-t2-2-1-5x-mft",
@@ -52157,7 +52179,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-sunlight-40-80mm-t4-5-2x-ff-anamorphic-zoom.webp"
   },
   {
     "id": "laowa-sunlight-70-135mm-t4-5-2x-ff-anamorphic-zoom",
@@ -52197,7 +52220,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-sunlight-70-135mm-t4-5-2x-ff-anamorphic-zoom.webp"
   },
   {
     "id": "laowa-probe-zoom-15-24mm-t8-1-6x",
@@ -54817,7 +54841,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-ef-m-11-22mm-f4-5-6-is-stm.webp"
   },
   {
     "id": "canon-ef-m-55-200mm-f4-5-6-3-is-stm",
@@ -54847,7 +54872,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-ef-m-55-200mm-f4-5-6-3-is-stm.webp"
   },
   {
     "id": "canon-ef-m-15-45mm-f3-5-6-3-is-stm",
@@ -54877,7 +54903,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-ef-m-15-45mm-f3-5-6-3-is-stm.webp"
   },
   {
     "id": "canon-ef-m-28mm-f3-5-macro-is-stm",
@@ -54909,7 +54936,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/canon/canon-ef-m-28mm-f3-5-macro-is-stm.webp"
   },
   {
     "id": "canon-ef-m-18-150mm-f3-5-6-3-is-stm",
@@ -54940,7 +54968,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/canon/canon-ef-m-18-150mm-f3-5-6-3-is-stm.webp"
   },
   {
     "id": "canon-ef-m-32mm-f1-4-stm",
@@ -54972,7 +55001,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/canon/canon-ef-m-32mm-f1-4-stm.webp"
   },
   {
     "id": "canon-eos-m",
@@ -55095,7 +55125,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m10.webp"
   },
   {
     "id": "canon-eos-m5",
@@ -55159,7 +55190,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m6.webp"
   },
   {
     "id": "canon-eos-m100",
@@ -55189,7 +55221,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m100.webp"
   },
   {
     "id": "canon-eos-m50",
@@ -55339,7 +55372,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (430 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 37.7 mm",
-    "weightGrams": 249
+    "weightGrams": 249,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr4100.webp"
   },
   {
     "id": "casio-exilim-ex-zr4000",
@@ -55363,7 +55397,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (430 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 37.7 mm",
-    "weightGrams": 249
+    "weightGrams": 249,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr4000.webp"
   },
   {
     "id": "casio-exilim-ex-zr3200",
@@ -55387,7 +55422,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (425 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 36.7 mm",
-    "weightGrams": 249
+    "weightGrams": 249,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3200.webp"
   },
   {
     "id": "casio-exilim-ex-zr3100",
@@ -55411,7 +55447,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (425 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 36.7 mm",
-    "weightGrams": 249
+    "weightGrams": 249,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3100.webp"
   },
   {
     "id": "casio-exilim-ex-zr3000",
@@ -55435,7 +55472,8 @@
     "batterySpec": "NP-130A (430 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 36.7 mm",
     "weightGrams": 248,
-    "launchPrice": 13490
+    "launchPrice": 13490,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3000.webp"
   },
   {
     "id": "casio-exilim-ex-zr1800",
@@ -55459,7 +55497,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
-    "weightGrams": 242
+    "weightGrams": 242,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1800.webp"
   },
   {
     "id": "casio-exilim-ex-zr1700",
@@ -55483,7 +55522,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
-    "weightGrams": 242
+    "weightGrams": 242,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1700.webp"
   },
   {
     "id": "casio-exilim-ex-zr1600",
@@ -55507,7 +55547,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
-    "weightGrams": 242
+    "weightGrams": 242,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1600.webp"
   },
   {
     "id": "casio-exilim-ex-zr70",
@@ -55531,7 +55572,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
-    "weightGrams": 202
+    "weightGrams": 202,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr70.webp"
   },
   {
     "id": "casio-exilim-ex-zr60",
@@ -55555,7 +55597,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
-    "weightGrams": 202
+    "weightGrams": 202,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr60.webp"
   },
   {
     "id": "casio-exilim-ex-zr50",
@@ -55579,7 +55622,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
-    "weightGrams": 202
+    "weightGrams": 202,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr50.webp"
   },
   {
     "id": "casio-exilim-ex-zr850",
@@ -55603,7 +55647,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "107.4 x 60.0 x 30.7 mm",
-    "weightGrams": 225
+    "weightGrams": 225,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr850.webp"
   },
   {
     "id": "casio-exilim-ex-zr800",
@@ -55627,7 +55672,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (470 shots CIPA)",
     "dimensions": "107.4 x 60.0 x 30.7 mm",
-    "weightGrams": 222
+    "weightGrams": 222,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr800.webp"
   },
   {
     "id": "casio-exilim-ex-zr1300",
@@ -55651,7 +55697,8 @@
     "ports": "USB, AV out, mini HDMI",
     "batterySpec": "NP-130A (470 shots CIPA)",
     "dimensions": "107.5 x 61.5 x 36.7 mm",
-    "weightGrams": 256
+    "weightGrams": 256,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1300.webp"
   },
   {
     "id": "casio-exilim-ex-zr1100",
@@ -55675,7 +55722,8 @@
     "ports": "USB, AV out, mini HDMI",
     "batterySpec": "NP-130A (470 shots CIPA)",
     "dimensions": "107.5 x 61.5 x 36.7 mm",
-    "weightGrams": 256
+    "weightGrams": 256,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1100.webp"
   },
   {
     "id": "casio-exilim-ex-10",
@@ -55751,7 +55799,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-130A (390 shots CIPA)",
     "dimensions": "119.9 x 67.9 x 50.5 mm",
-    "weightGrams": 390
+    "weightGrams": 390,
+    "image_url": "/images/products/casio/casio-exilim-ex-100f.webp"
   },
   {
     "id": "casio-exilim-ex-fr10",
@@ -55822,7 +55871,8 @@
     "batterySpec": "Built-in Li-ion (260 shots CIPA)",
     "dimensions": "60.9 x 154.8 x 46.2 mm",
     "weightGrams": 238,
-    "launchPrice": 16990
+    "launchPrice": 16990,
+    "image_url": "/images/products/casio/casio-exilim-ex-fr200.webp"
   },
   {
     "id": "casio-g-z-eye-gze-1",
@@ -55891,7 +55941,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
-    "weightGrams": 202
+    "weightGrams": 202,
+    "image_url": "/images/products/casio/casio-exilim-ex-fc500s.webp"
   },
   {
     "id": "casio-exilim-ex-mr1",
@@ -56017,7 +56068,8 @@
     "dimensions": "107.5 x 61.5 x 36.7 mm",
     "weightGrams": 255,
     "ports": "USB 2.0, HDMI",
-    "launchPrice": 12990
+    "launchPrice": 12990,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1000.webp"
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -56054,7 +56106,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "470 shots",
     "dimensions": "107.4 x 60 x 30.7 mm",
-    "weightGrams": 222
+    "weightGrams": 222,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr700.webp"
   },
   {
     "id": "casio-exilim-ex-zr400",
@@ -56072,7 +56125,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "515 shots",
     "dimensions": "104.8 x 59.1 x 28.6 mm",
-    "weightGrams": 205
+    "weightGrams": 205,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr400.webp"
   },
   {
     "id": "casio-exilim-ex-zr300",
@@ -56091,7 +56145,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "NP-130 (500 shots)",
     "dimensions": "104.8 x 59.1 x 28.6 mm",
-    "weightGrams": 205
+    "weightGrams": 205,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr300.webp"
   },
   {
     "id": "casio-exilim-ex-zr20",
@@ -56110,7 +56165,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "NP-110 (335 shots)",
     "dimensions": "99.9 x 59 x 25.7 mm",
-    "weightGrams": 166
+    "weightGrams": 166,
+    "image_url": "/images/products/casio/casio-exilim-ex-zr20.webp"
   },
   {
     "id": "casio-exilim-ex-h50",
@@ -56129,7 +56185,8 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "NP-80 (145 shots)",
     "dimensions": "106.9 x 68.6 x 39 mm",
-    "weightGrams": 238
+    "weightGrams": 238,
+    "image_url": "/images/products/casio/casio-exilim-ex-h50.webp"
   },
   {
     "id": "casio-exilim-ex-tr150",
@@ -56181,7 +56238,8 @@
     "dimensions": "82.4 x 55.1 x 20.5 mm",
     "weightGrams": 127,
     "isoRange": "64-1600",
-    "cardSlots": "1x microSD/SDHC/SDXC"
+    "cardSlots": "1x microSD/SDHC/SDXC",
+    "image_url": "/images/products/casio/casio-exilim-ex-je10.webp"
   },
   {
     "id": "casio-exilim-ex-n10",
@@ -56201,7 +56259,8 @@
     "dimensions": "98.5 x 58.2 x 21.2 mm",
     "weightGrams": 132,
     "isoRange": "64-1600",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/casio/casio-exilim-ex-n10.webp"
   },
   {
     "id": "casio-exilim-ex-n1",
@@ -56221,7 +56280,8 @@
     "dimensions": "98.5 x 58.2 x 21.2 mm",
     "weightGrams": 128,
     "isoRange": "64-1600",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/casio/casio-exilim-ex-n1.webp"
   },
   {
     "id": "dji-osmo-pocket-4",
@@ -56530,7 +56590,8 @@
     "hasWeatherSeal": true,
     "dimensions": "65 x 42 x 35 mm",
     "weightGrams": 124,
-    "launchPrice": 12000
+    "launchPrice": 12000,
+    "image_url": "/images/products/dji/dji-osmo-action.webp"
   },
   {
     "id": "dji-osmo-pocket",
@@ -61803,7 +61864,8 @@
     "batterySpec": "NB-9L (190 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "image_url": "/images/products/canon/canon-ixus-510-hs.webp"
   },
   {
     "id": "canon-ixus-240-hs",
@@ -61893,7 +61955,8 @@
     "dimensions": "92.9 x 52.4 x 21.6 mm",
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "NB-11L",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/canon/canon-ixus-132.webp"
   },
   {
     "id": "canon-ixus-255-hs",
@@ -61913,7 +61976,8 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/canon/canon-ixus-255-hs.webp"
   },
   {
     "id": "canon-ixus-265-hs",
@@ -61954,7 +62018,8 @@
     "videoResolution": "Full HD 30p",
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
-    "launchPrice": 6990
+    "launchPrice": 6990,
+    "image_url": "/images/products/canon/canon-powershot-sx600-hs.webp"
   },
   {
     "id": "canon-ixus-170",
@@ -62014,7 +62079,8 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/canon/canon-powershot-sx610-hs.webp"
   },
   {
     "id": "canon-powershot-sx710-hs",
@@ -62316,7 +62382,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "burstSpeed": "3.8fps",
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "image_url": "/images/products/canon/canon-powershot-sx270-hs.webp"
   },
   {
     "id": "canon-powershot-zoom",
@@ -68682,7 +68749,8 @@
           "name": "Fujifilm G"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-85mm-f1-2.webp"
   },
   {
     "id": "mitakon-creator-20mm-f2-4-5x-super-macro",
@@ -68726,7 +68794,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-creator-20mm-f2-4-5x-super-macro.webp"
   },
   {
     "id": "mitakon-creator-85mm-f2-8-1-5x-super-macro",
@@ -68798,7 +68867,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-17mm-f0-95.webp"
   },
   {
     "id": "mitakon-speedmaster-50mm-f0-95-leica-m",
@@ -68822,7 +68892,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-50mm-f0-95-leica-m.webp"
   },
   {
     "id": "mitakon-creator-135mm-f2-5",
@@ -68897,7 +68968,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-creator-28mm-f5-6.webp"
   },
   {
     "id": "mitakon-speedmaster-20mm-f0-95",
@@ -68941,7 +69013,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-20mm-f0-95.webp"
   },
   {
     "id": "mitakon-speedmaster-cinema-17mm-t1-0",
@@ -68970,7 +69043,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-cinema-17mm-t1-0.webp"
   },
   {
     "id": "mitakon-speedmaster-cinema-25mm-t1-0",
@@ -68999,7 +69073,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-cinema-25mm-t1-0.webp"
   },
   {
     "id": "mitakon-speedmaster-cinema-35mm-t1-0",
@@ -69043,7 +69118,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-cinema-35mm-t1-0.webp"
   },
   {
     "id": "mitakon-speedmaster-cinema-50mm-t1-0-mft",
@@ -69072,7 +69148,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-cinema-50mm-t1-0-mft.webp"
   },
   {
     "id": "mitakon-speedmaster-20mm-t1-0-s35",
@@ -69115,7 +69192,8 @@
           "name": "Canon RF"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-20mm-t1-0-s35.webp"
   },
   {
     "id": "mitakon-speedmaster-35mm-t1-0-s35",
@@ -69158,7 +69236,8 @@
           "name": "Canon RF"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-35mm-t1-0-s35.webp"
   },
   {
     "id": "mitakon-speedmaster-50mm-t1-0-s35",
@@ -69201,7 +69280,8 @@
           "name": "Canon RF"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-50mm-t1-0-s35.webp"
   },
   {
     "id": "canon-powershot-g1-x",
@@ -69263,7 +69343,8 @@
     "batterySpec": "NB-10L (360 shots CIPA)",
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "image_url": "/images/products/canon/canon-powershot-g16.webp"
   },
   {
     "id": "canon-powershot-g1-x-mark-ii",
@@ -69375,7 +69456,8 @@
     "hasIBIS": true,
     "processor": "DIGIC 6",
     "burstSpeed": "6fps",
-    "launchPrice": 14990
+    "launchPrice": 14990,
+    "image_url": "/images/products/canon/canon-powershot-g9-x.webp"
   },
   {
     "id": "canon-powershot-g7-x-mark-ii",
@@ -69513,7 +69595,8 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "launchPrice": 15990
+    "launchPrice": 15990,
+    "image_url": "/images/products/canon/canon-powershot-sx50-hs.webp"
   },
   {
     "id": "canon-powershot-d20",
@@ -69535,7 +69618,8 @@
     "hasIBIS": true,
     "hasWeatherSeal": true,
     "processor": "DIGIC 4",
-    "launchPrice": 12990
+    "launchPrice": 12990,
+    "image_url": "/images/products/canon/canon-powershot-d20.webp"
   },
   {
     "id": "canon-powershot-sx240-hs",
@@ -69594,7 +69678,8 @@
     "batterySpec": "NB-9L (190 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "image_url": "/images/products/canon/canon-ixus-500-hs.webp"
   },
   {
     "id": "canon-powershot-sx260-hs",
@@ -69636,7 +69721,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "burstSpeed": "12.1fps",
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "image_url": "/images/products/canon/canon-powershot-s120.webp"
   },
   {
     "id": "canon-powershot-s200",
@@ -69697,7 +69783,8 @@
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
     "batterySpec": "NB-6LH (300 shots CIPA)",
     "videoResolution": "HD 720p",
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "image_url": "/images/products/canon/canon-powershot-sx170-is.webp"
   },
   {
     "id": "canon-powershot-sx510-hs",
@@ -69717,7 +69804,8 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NB-6LH (250 shots CIPA)",
     "processor": "DIGIC 4",
-    "burstSpeed": "3.8fps"
+    "burstSpeed": "3.8fps",
+    "image_url": "/images/products/canon/canon-powershot-sx510-hs.webp"
   },
   {
     "id": "canon-powershot-sx280-hs",
@@ -69738,7 +69826,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "burstSpeed": "3.8fps",
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "image_url": "/images/products/canon/canon-powershot-sx280-hs.webp"
   },
   {
     "id": "canon-powershot-a3500-is",
@@ -69791,7 +69880,8 @@
     "evfResolution": "Optical (real-image zoom)",
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "2x AA",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "image_url": "/images/products/canon/canon-powershot-a1400.webp"
   },
   {
     "id": "canon-powershot-a2600",
@@ -69828,7 +69918,8 @@
     "batterySpec": "NB-11L",
     "videoResolution": "HD 720p",
     "hasIBIS": true,
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "image_url": "/images/products/canon/canon-ixus-140.webp"
   },
   {
     "id": "canon-powershot-sx60-hs",
@@ -70129,6 +70220,7 @@
     "batterySpec": "NB-6LH (210 shots CIPA)",
     "videoResolution": "Full HD",
     "hasIBIS": true,
-    "processor": "DIGIC 4+"
+    "processor": "DIGIC 4+",
+    "image_url": "/images/products/canon/canon-powershot-sx520-hs.webp"
   }
 ]
