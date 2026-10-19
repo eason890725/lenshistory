@@ -23523,7 +23523,8 @@
     "afTargets": "Human",
     "releaseMonth": 4,
     "dimensions": "134 x 69 x 33 mm",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-30518-Leica-T--Typ-701-_Technical-Data_en.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-30518-Leica-T--Typ-701-_Technical-Data_en.pdf",
+    "image_url": "/images/products/leica/leica-t-typ-701.webp"
   },
   {
     "id": "leica-tl",
@@ -35837,7 +35838,8 @@
     "releaseMonth": 11,
     "dimensions": "134.1 x 90.9 x 68.9 mm",
     "afTargets": "Human (Face/Eye)",
-    "logSupport": "OM-Log400"
+    "logSupport": "OM-Log400",
+    "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-ii.webp"
   },
   {
     "id": "olympus-pen-f",
@@ -35875,7 +35877,8 @@
     "afPoints": "81 points",
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
-    "ibisRating": "5 stops"
+    "ibisRating": "5 stops",
+    "image_url": "/images/products/om-system/olympus-pen-f.webp"
   },
   {
     "id": "olympus-pen-e-pl8",
@@ -35911,7 +35914,8 @@
     "afPoints": "81 points",
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
-    "ibisRating": "3.5 stops"
+    "ibisRating": "3.5 stops",
+    "image_url": "/images/products/om-system/olympus-pen-e-pl8.webp"
   },
   {
     "id": "olympus-om-d-e-m10-mark-iii",
@@ -35949,7 +35953,8 @@
     "afPoints": "121 points",
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
-    "ibisRating": "4 stops"
+    "ibisRating": "4 stops",
+    "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-iii.webp"
   },
   {
     "id": "olympus-pen-e-pl9",
@@ -35985,7 +35990,8 @@
     "sensorType": "Live MOS",
     "afPoints": "121 points",
     "afTargets": "Human (Face/Eye)",
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/om-system/olympus-pen-e-pl9.webp"
   },
   {
     "id": "olympus-om-d-e-m5-mark-ii",
@@ -36056,7 +36062,8 @@
     "dimensions": "119.5 x 83.1 x 46.7 mm",
     "sensorType": "Live MOS",
     "afPoints": "81 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-ii.webp"
   },
   {
     "id": "olympus-air-a01",
@@ -36121,7 +36128,8 @@
     "dimensions": "114.9 x 67 x 38.4 mm",
     "sensorType": "Live MOS",
     "afPoints": "81 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "image_url": "/images/products/om-system/olympus-pen-e-pl7.webp"
   },
   {
     "id": "olympus-om-d-e-m10",
@@ -38762,7 +38770,8 @@
     "motorType": "Stepping Motor",
     "coatings": "Nano Surface Coating",
     "hasApertureRing": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-x-vario-35-100mm-f2-8-power-o-i-s.webp"
   },
   {
     "id": "panasonic-lumix-g-vario-45-150mm-f4-0-5-6-asph-mega-o-i-s",
@@ -38966,7 +38975,8 @@
     ],
     "releaseMonth": 4,
     "motorType": "Stepping Motor",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-14-140mm-f3-5-5-6-asph-power-o-i-s.webp"
   },
   {
     "id": "panasonic-lumix-g-vario-35-100mm-f4-0-5-6-asph-mega-o-i-s",
@@ -39422,7 +39432,8 @@
     ],
     "releaseMonth": 1,
     "motorType": "Linear Motor",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-x-vario-12-35mm-f2-8-ii-asph-power-o-i-s.webp"
   },
   {
     "id": "panasonic-lumix-g-x-vario-35-100mm-f2-8-ii-power-o-i-s",
@@ -39458,7 +39469,8 @@
     "motorType": "Stepping Motor",
     "coatings": "Nano Surface Coating",
     "retailPrice": 27455,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-x-vario-35-100mm-f2-8-ii-power-o-i-s.webp"
   },
   {
     "id": "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
@@ -40310,7 +40322,8 @@
     ],
     "releaseMonth": 11,
     "motorType": "Linear Motor",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s.webp"
   },
   {
     "id": "panasonic-lumix-s-pro-16-35mm-f4",
@@ -41359,7 +41372,8 @@
     "hasApertureRing": true,
     "motorType": "Manual focus",
     "hasOIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/leica/leica-summaron-m-28-f5-6.webp"
   },
   {
     "id": "leica-noctilux-m-75-f1-25-asph",
@@ -41484,7 +41498,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "dimensions": "Ø53 x 41 mm"
+    "dimensions": "Ø53 x 41 mm",
+    "image_url": "/images/products/leica/leica-apo-summicron-m-35-f2-asph.webp"
   },
   {
     "id": "leica-noctilux-m-50-f1-2-asph",
@@ -41512,7 +41527,8 @@
     "maxMagnification": "0.06x",
     "filterSizeMm": 49,
     "dimensions": "Ø61 x 52 mm",
-    "weightGrams": 405
+    "weightGrams": 405,
+    "image_url": "/images/products/leica/leica-noctilux-m-50-f1-2-asph.webp"
   },
   {
     "id": "leica-summilux-m-35-f1-4-asph",
@@ -41541,7 +41557,8 @@
     "filterSizeMm": 46,
     "dimensions": "Ø58 x 46 mm",
     "weightGrams": 338,
-    "launchPrice": 185600
+    "launchPrice": 185600,
+    "image_url": "/images/products/leica/leica-summilux-m-35-f1-4-asph.webp"
   },
   {
     "id": "leica-summilux-m-35-f1-4",
@@ -41603,7 +41620,8 @@
     "weightGrams": 337,
     "launchPrice": 151000,
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/leica/leica-summilux-m-50-f1-4-asph.webp"
   },
   {
     "id": "leica-summicron-m-28-f2-asph",
@@ -41631,7 +41649,8 @@
     "weightGrams": 275,
     "hasApertureRing": true,
     "launchPrice": 168000,
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "image_url": "/images/products/leica/leica-summicron-m-28-f2-asph.webp"
   },
   {
     "id": "leica-summilux-m-50-f1-4",
@@ -41660,7 +41679,8 @@
     "hasApertureRing": true,
     "launchPrice": 128800,
     "motorType": "Manual focus",
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/leica/leica-summilux-m-50-f1-4.webp"
   },
   {
     "id": "canon-eos-c70",
@@ -46402,7 +46422,8 @@
     "weightGrams": 233,
     "hasApertureRing": false,
     "retailPrice": 3880,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-56mm-f1-8.webp"
   },
   {
     "id": "ttartisans-af-75mm-f2",
@@ -46448,7 +46469,8 @@
     "weightGrams": 328,
     "hasApertureRing": true,
     "retailPrice": 5880,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-75mm-f2.webp"
   },
   {
     "id": "ttartisans-af-23mm-f1-8",
@@ -46489,7 +46511,8 @@
     "weightGrams": 210,
     "hasApertureRing": false,
     "retailPrice": 3280,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-23mm-f1-8.webp"
   },
   {
     "id": "ttartisans-af-40mm-f2",
@@ -46533,7 +46556,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "retailPrice": 4280,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-40mm-f2.webp"
   },
   {
     "id": "ttartisans-af-35mm-f1-8-ii",
@@ -46643,7 +46667,8 @@
     "releaseMonth": 3,
     "retailPrice": 3500,
     "retailPriceDate": "2026-10",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/ttartisans/ttartisans-af-14mm-f3-5.webp"
   },
   {
     "id": "ttartisans-af-17mm-f1-8-air",
@@ -46680,7 +46705,8 @@
     "opticalDesign": "14 elements in 10 groups",
     "motorType": "Stepping Motor",
     "weightGrams": 161,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "image_url": "/images/products/ttartisans/ttartisans-af-17mm-f1-8-air.webp"
   },
   {
     "id": "ttartisans-af-50mm-f1-8-neo",
@@ -46718,7 +46744,8 @@
     "motorType": "STM",
     "weightGrams": 156,
     "hasApertureRing": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "image_url": "/images/products/ttartisans/ttartisans-af-50mm-f1-8-neo.webp"
   },
   {
     "id": "ttartisans-af-85mm-f1-8-neo",
@@ -46761,7 +46788,8 @@
     "launchPrice": 2850,
     "hasOIS": false,
     "hasWeatherSeal": false,
-    "dimensions": "Ø70 x 90.5 mm"
+    "dimensions": "Ø70 x 90.5 mm",
+    "image_url": "/images/products/ttartisans/ttartisans-af-85mm-f1-8-neo.webp"
   },
   {
     "id": "ttartisans-af-24mm-f3-8-mini",
@@ -46794,7 +46822,8 @@
     "weightGrams": 57,
     "dimensions": "Ø60 x 16 mm",
     "releaseMonth": 10,
-    "minAperture": "3.8"
+    "minAperture": "3.8",
+    "image_url": "/images/products/ttartisans/ttartisans-af-24mm-f3-8-mini.webp"
   },
   {
     "id": "ttartisans-af-32mm-f2-8",
@@ -49320,7 +49349,8 @@
     "weightGrams": 320,
     "dimensions": "Ø50 x 41 mm",
     "hasApertureRing": true,
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/7artisans/7artisans-35mm-f2-aps-c.webp"
   },
   {
     "id": "7artisans-m-50mm-f1-1",
@@ -49616,7 +49646,8 @@
     "minAperture": "22",
     "opticalDesign": "6 elements in 5 groups",
     "closeFocus": "0.28m",
-    "filterSizeMm": 46
+    "filterSizeMm": 46,
+    "image_url": "/images/products/7artisans/7artisans-35mm-f1-2-mark-ii-aps-c.webp"
   },
   {
     "id": "7artisans-35mm-f0-95-aps-c",
@@ -50054,7 +50085,8 @@
     "focalLengthMaxMm": 25,
     "apertureMax": "T1.05",
     "minAperture": "T16",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-vision-25mm-t1-05-cine.webp"
   },
   {
     "id": "7artisans-vision-35mm-t1-05-cine",
@@ -50098,7 +50130,8 @@
     "apertureMax": "T1.05",
     "minAperture": "T16",
     "filterSizeMm": 82,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/7artisans/7artisans-vision-35mm-t1-05-cine.webp"
   },
   {
     "id": "7artisans-vision-50mm-t1-05-cine",
@@ -50946,7 +50979,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "retailPrice": 13700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/laowa/laowa-7-5mm-f2-mft.webp"
   },
   {
     "id": "laowa-9mm-f2-8-zero-d",
@@ -51210,7 +51244,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-nanomorph-32mm-t2-9-1-5x-lf.webp"
   },
   {
     "id": "laowa-nanomorph-42mm-t2-9-1-5x-lf",
@@ -51253,7 +51288,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-nanomorph-42mm-t2-9-1-5x-lf.webp"
   },
   {
     "id": "laowa-nanomorph-55mm-t2-9-1-5x-lf",
@@ -51296,7 +51332,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-nanomorph-55mm-t2-9-1-5x-lf.webp"
   },
   {
     "id": "laowa-nanomorph-85mm-t2-9-1-5x-lf",
@@ -51339,7 +51376,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-nanomorph-85mm-t2-9-1-5x-lf.webp"
   },
   {
     "id": "laowa-14mm-t2-6-zero-d-vv-cine",
@@ -51794,7 +51832,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/laowa-nanomorph-65mm-t2-4-1-5x.webp"
   },
   {
     "id": "laowa-nanomorph-80mm-t2-4-1-5x",
@@ -51843,7 +51882,8 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/laowa/laowa-nanomorph-80mm-t2-4-1-5x.webp"
   },
   {
     "id": "laowa-ranger-28-75mm-t2-9-ff",
@@ -51887,7 +51927,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-ranger-28-75mm-t2-9-ff.webp"
   },
   {
     "id": "laowa-ranger-75-180mm-t2-9-ff",
@@ -51931,7 +51972,8 @@
         }
       }
     ],
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "image_url": "/images/products/laowa/laowa-ranger-75-180mm-t2-9-ff.webp"
   },
   {
     "id": "laowa-ranger-s35-11-18mm-t2-9",
@@ -52821,7 +52863,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/meike/meike-35mm-f0-95-apsc-mf.webp"
   },
   {
     "id": "meike-12mm-f2-apsc-mf",
@@ -52898,7 +52941,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/meike/meike-8mm-f2-8-mft-mf.webp"
   },
   {
     "id": "meike-7-5mm-f2-8-apsc-fisheye-mf",
@@ -52945,7 +52989,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/meike/meike-7-5mm-f2-8-apsc-fisheye-mf.webp"
   },
   {
     "id": "meike-50mm-f0-95-apsc-mf",
@@ -53088,7 +53133,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "image_url": "/images/products/meike/meike-50mm-f1-2-ff-mf.webp"
   },
   {
     "id": "meike-10mm-f2-apsc-mf",
@@ -53128,7 +53174,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "image_url": "/images/products/meike/meike-10mm-f2-apsc-mf.webp"
   },
   {
     "id": "meike-60mm-f2-8-apsc-macro-mf",
@@ -53155,7 +53202,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/meike/meike-60mm-f2-8-apsc-macro-mf.webp"
   },
   {
     "id": "meike-12mm-f2-8-apsc-mf",
@@ -53276,7 +53324,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "image_url": "/images/products/meike/meike-35mm-f1-7-apsc-mf.webp"
   },
   {
     "id": "meike-50mm-f2-apsc-mf",
@@ -55014,7 +55063,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m3.webp"
   },
   {
     "id": "canon-eos-m10",
@@ -55077,7 +55127,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m5.webp"
   },
   {
     "id": "canon-eos-m6",
@@ -55169,7 +55220,8 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-eos-m50.webp"
   },
   {
     "id": "canon-eos-m6-mark-ii",
@@ -56747,7 +56799,8 @@
     "fixedLens": "8x fisheye (360°)",
     "sensorFormat": "Four Thirds",
     "videoResolution": "11K 30p / 8K 60p",
-    "videoColorDepth": "10-bit"
+    "videoColorDepth": "10-bit",
+    "image_url": "/images/products/insta360/insta360-titan.webp"
   },
   {
     "id": "gopro-mission-1-pro",
@@ -57168,7 +57221,8 @@
     "releaseYear": 2015,
     "releaseMonth": 9,
     "megapixels": "8MP",
-    "videoResolution": "Full HD 60p"
+    "videoResolution": "Full HD 60p",
+    "image_url": "/images/products/gopro/gopro-hero-plus.webp"
   },
   {
     "id": "gopro-hero-plus-lcd",
@@ -57230,7 +57284,8 @@
     "officialUrl": "http://investor.gopro.com/press-releases/press-release-details/2014/GoPro-Introduces-HERO4---The-Most-Powerful-GoPro-Lineup-Ever/default.aspx",
     "releaseYear": 2014,
     "releaseMonth": 9,
-    "videoResolution": "Full HD 30p"
+    "videoResolution": "Full HD 30p",
+    "image_url": "/images/products/gopro/gopro-hero-2014.webp"
   },
   {
     "id": "gopro-hero3-plus-black-edition",
@@ -59860,7 +59915,8 @@
     "ports": "USB 2.0, AV out, micro HDMI",
     "dimensions": "102 x 58 x 33.5 mm",
     "weightGrams": 200,
-    "hasIBIS": true
+    "hasIBIS": true,
+    "image_url": "/images/products/pentax/pentax-q7.webp"
   },
   {
     "id": "pentax-07-mount-shield-lens-11-5mm-f9",
@@ -59888,7 +59944,8 @@
     "opticalDesign": "1 elements in 1 groups",
     "motorType": "Fixed focus",
     "dimensions": "Ø40.8 x 6.9 mm",
-    "weightGrams": 8
+    "weightGrams": 8,
+    "image_url": "/images/products/pentax/pentax-07-mount-shield-lens-11-5mm-f9.webp"
   },
   {
     "id": "pentax-08-wide-zoom-3-8-5-9mm-f3-7-4",
@@ -59981,7 +60038,8 @@
     "ports": "Micro USB, micro HDMI",
     "weightGrams": 281,
     "hasIBIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/yi/yi-m1.webp"
   },
   {
     "id": "yi-12-40mm-f3-5-5-6",
@@ -61915,7 +61973,8 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "NB-11L/NB-11LH (200 shots CIPA)",
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/canon/canon-ixus-170.webp"
   },
   {
     "id": "canon-powershot-sx530-hs",
@@ -62016,7 +62075,8 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/canon/canon-ixus-285-hs.webp"
   },
   {
     "id": "canon-powershot-sx620-hs",
@@ -62141,7 +62201,8 @@
     "videoResolution": "Full HD 60p",
     "burstSpeed": "5.9fps",
     "releaseMonth": 4,
-    "launchPrice": 11990
+    "launchPrice": 11990,
+    "image_url": "/images/products/canon/canon-powershot-sx730-hs.webp"
   },
   {
     "id": "canon-powershot-sx740-hs",
@@ -62361,7 +62422,8 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S",
     "hasWeatherSeal": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp140.webp"
   },
   {
     "id": "fujifilm-finepix-xp130",
@@ -62380,7 +62442,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S (240 shots)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp130.webp"
   },
   {
     "id": "fujifilm-finepix-xp120",
@@ -62399,7 +62462,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S (210 shots)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp120.webp"
   },
   {
     "id": "olympus-stylus-xz-10",
@@ -63114,7 +63178,8 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "NP-50"
+    "batterySpec": "NP-50",
+    "image_url": "/images/products/fujifilm/fujifilm-xf1.webp"
   },
   {
     "id": "fujifilm-xq1",
@@ -63134,7 +63199,8 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-48 (240 shots CIPA)",
     "isoRange": "100-12800",
-    "burstSpeed": "12fps"
+    "burstSpeed": "12fps",
+    "image_url": "/images/products/fujifilm/fujifilm-xq1.webp"
   },
   {
     "id": "fujifilm-xq2",
@@ -63210,7 +63276,8 @@
     "videoResolution": "4K 15p / Full HD 60p",
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 1.04M-dot fixed touch",
-    "batterySpec": "NP-95 (330 shots CIPA)"
+    "batterySpec": "NP-95 (330 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-xf10.webp"
   },
   {
     "id": "fujifilm-finepix-xp80",
@@ -63229,7 +63296,8 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.46M-dot fixed",
     "batterySpec": "NP-45S (210 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp80.webp"
   },
   {
     "id": "fujifilm-finepix-xp90",
@@ -63267,7 +63335,8 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.46M-dot fixed",
     "batterySpec": "NP-45S (210 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp70.webp"
   },
   {
     "id": "fujifilm-finepix-xp200",
@@ -63303,7 +63372,8 @@
     "videoResolution": "Full HD 60i",
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp60.webp"
   },
   {
     "id": "fujifilm-finepix-s9800",
@@ -63322,7 +63392,8 @@
     "hasIBIS": true,
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA (300 shots CIPA)"
+    "batterySpec": "4x AA (300 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9800.webp"
   },
   {
     "id": "fujifilm-finepix-s9900w",
@@ -63341,7 +63412,8 @@
     "hasIBIS": true,
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA (300 shots CIPA)"
+    "batterySpec": "4x AA (300 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9900w.webp"
   },
   {
     "id": "fujifilm-finepix-s9200",
@@ -63360,7 +63432,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA (500 shots CIPA)"
+    "batterySpec": "4x AA (500 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9200.webp"
   },
   {
     "id": "fujifilm-finepix-s9400w",
@@ -63379,7 +63452,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA (500 shots CIPA)"
+    "batterySpec": "4x AA (500 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9400w.webp"
   },
   {
     "id": "fujifilm-finepix-s8600",
@@ -63397,7 +63471,8 @@
     "videoResolution": "HD 720p 30p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "3x AA (410 shots CIPA)"
+    "batterySpec": "3x AA (410 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s8600.webp"
   },
   {
     "id": "fujifilm-finepix-s1",
@@ -63417,7 +63492,8 @@
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle",
     "batterySpec": "NP-85 (350 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s1.webp"
   },
   {
     "id": "fujifilm-finepix-s4800",
@@ -63471,7 +63547,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA (300 shots CIPA)"
+    "batterySpec": "4x AA (300 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s8400w.webp"
   },
   {
     "id": "fujifilm-finepix-f900exr",
@@ -63489,7 +63566,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
-    "batterySpec": "NP-50A (260 shots CIPA)"
+    "batterySpec": "NP-50A (260 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-f900exr.webp"
   },
   {
     "id": "fujifilm-finepix-s8200",
@@ -63507,7 +63585,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "4x AA"
+    "batterySpec": "4x AA",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s8200.webp"
   },
   {
     "id": "fujifilm-finepix-sl1000",
@@ -63525,7 +63604,8 @@
     "hasIBIS": true,
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
-    "batterySpec": "Li-ion (350 shots CIPA)"
+    "batterySpec": "Li-ion (350 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-sl1000.webp"
   },
   {
     "id": "fujifilm-finepix-hs50exr",
@@ -63543,7 +63623,8 @@
     "hasIBIS": true,
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle",
-    "batterySpec": "Li-ion (500 shots CIPA)"
+    "batterySpec": "Li-ion (500 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-hs50exr.webp"
   },
   {
     "id": "fujifilm-finepix-hs35exr",
@@ -63617,7 +63698,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "NP-85 (300 shots CIPA)"
+    "batterySpec": "NP-85 (300 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-sl300.webp"
   },
   {
     "id": "fujifilm-finepix-sl240",
@@ -63655,7 +63737,8 @@
     "hasIBIS": true,
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
-    "batterySpec": "4x AA (300 shots CIPA)"
+    "batterySpec": "4x AA (300 shots CIPA)",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s4500.webp"
   },
   {
     "id": "fujifilm-finepix-s4200",
@@ -64718,7 +64801,8 @@
     "batterySpec": "DB-65 (290 shots CIPA)",
     "ports": "USB 2.0 (AV/USB), HDMI",
     "dimensions": "117.0 x 61.0 x 34.7 mm",
-    "weightGrams": 245
+    "weightGrams": 245,
+    "image_url": "/images/products/ricoh/ricoh-gr.webp"
   },
   {
     "id": "ricoh-gr-ii",
@@ -65415,7 +65499,8 @@
     "cardSlots": "None",
     "batterySpec": "Built-in (300 shots)",
     "dimensions": "45.2 x 130.6 x 22.9 mm",
-    "weightGrams": 121
+    "weightGrams": 121,
+    "image_url": "/images/products/ricoh/ricoh-theta-v.webp"
   },
   {
     "id": "ricoh-theta-z1",
@@ -65596,7 +65681,8 @@
     "batterySpec": "LB-060 (240 shots CIPA)",
     "ports": "USB 2.0 (AV), micro HDMI",
     "dimensions": "119 x 89 x 97.5 mm",
-    "weightGrams": 567
+    "weightGrams": 567,
+    "image_url": "/images/products/pentax/pentax-xg-1.webp"
   },
   {
     "id": "pentax-efina",
@@ -65618,7 +65704,8 @@
     "cardSlots": "1x SD/SDHC",
     "batterySpec": "D-LI108 (200 shots CIPA)",
     "dimensions": "87.0 x 54.0 x 20.5 mm",
-    "weightGrams": 108
+    "weightGrams": 108,
+    "image_url": "/images/products/pentax/pentax-efina.webp"
   },
   {
     "id": "leica-x2",
@@ -65848,7 +65935,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "103 x 63 x 28 mm",
-    "weightGrams": 195
+    "weightGrams": 195,
+    "image_url": "/images/products/leica/leica-c-typ-112.webp"
   },
   {
     "id": "leica-v-lux-40",
@@ -65940,7 +66028,8 @@
     "lcdSpec": "3.0-inch 1.24M-dot vari-angle touch",
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "BP-DC12 (360 shots CIPA)",
-    "weightGrams": 812
+    "weightGrams": 812,
+    "image_url": "/images/products/leica/leica-v-lux-5.webp"
   },
   {
     "id": "zeiss-zx1",
@@ -68557,7 +68646,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "image_url": "/images/products/mitakon/mitakon-42-5mm-f1-2.webp"
   },
   {
     "id": "mitakon-speedmaster-85mm-f1-2",
@@ -69216,7 +69306,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "processor": "DIGIC 6",
-    "launchPrice": 17990
+    "launchPrice": 17990,
+    "image_url": "/images/products/canon/canon-powershot-g7-x.webp"
   },
   {
     "id": "canon-powershot-g3-x",
@@ -69799,7 +69890,8 @@
     "batterySpec": "NB-11L (230 shots CIPA)",
     "videoResolution": "HD 720p",
     "hasIBIS": true,
-    "processor": "DIGIC 4+"
+    "processor": "DIGIC 4+",
+    "image_url": "/images/products/canon/canon-ixus-150.webp"
   },
   {
     "id": "canon-powershot-n100",
@@ -69881,7 +69973,8 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "launchPrice": 4990
+    "launchPrice": 4990,
+    "image_url": "/images/products/canon/canon-ixus-155.webp"
   },
   {
     "id": "canon-powershot-sx700-hs",
@@ -69902,7 +69995,8 @@
     "batterySpec": "NB-6LH (250 shots CIPA)",
     "videoResolution": "Full HD 60p",
     "burstSpeed": "8.5fps",
-    "launchPrice": 10990
+    "launchPrice": 10990,
+    "image_url": "/images/products/canon/canon-powershot-sx700-hs.webp"
   },
   {
     "id": "canon-ixus-275-hs",
@@ -69922,7 +70016,8 @@
     "batterySpec": "NB-11LH (250 shots CIPA)",
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
-    "processor": "DIGIC 4+"
+    "processor": "DIGIC 4+",
+    "image_url": "/images/products/canon/canon-ixus-275-hs.webp"
   },
   {
     "id": "canon-powershot-sx410-is",
