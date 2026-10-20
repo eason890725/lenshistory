@@ -49281,7 +49281,11 @@
     "dimensions": "Ø63 x 63 mm",
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-7-5mm-f2-8-aps-c-fisheye.webp"
+    "image_url": "/images/products/7artisans/7artisans-7-5mm-f2-8-aps-c-fisheye.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "coatings": "UMC multi-layer coating"
   },
   {
     "id": "7artisans-25mm-f1-8-aps-c",
@@ -49331,7 +49335,11 @@
     "hasOIS": false,
     "image_url": "/images/products/7artisans/7artisans-25mm-f1-8-aps-c.webp",
     "retailPrice": 2480,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "closeFocus": "0.18m"
   },
   {
     "id": "7artisans-35mm-f2-aps-c",
@@ -49368,7 +49376,10 @@
     "dimensions": "Ø50 x 41 mm",
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-35mm-f2-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-35mm-f2-aps-c.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-m-50mm-f1-1",
@@ -49395,7 +49406,10 @@
     "weightGrams": 400,
     "dimensions": "Ø60 x 49 mm",
     "hasApertureRing": true,
-    "hasOIS": false
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-55mm-f1-4-aps-c",
@@ -49439,7 +49453,10 @@
     "dimensions": "Ø54 x 61 mm",
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-55mm-f1-4-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-55mm-f1-4-aps-c.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-12mm-f2-8-aps-c",
@@ -49481,7 +49498,11 @@
     "weightGrams": 295,
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-12mm-f2-8-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-12mm-f2-8-aps-c.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "coatings": "Multi-layer coating"
   },
   {
     "id": "7artisans-35mm-f1-2-aps-c",
@@ -49523,7 +49544,10 @@
     "weightGrams": 150,
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-35mm-f1-2-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-35mm-f1-2-aps-c.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-4mm-f2-8-aps-c-fisheye",
@@ -49568,7 +49592,10 @@
     "dimensions": "Ø60 x 54 mm",
     "hasApertureRing": true,
     "hasOIS": false,
-    "image_url": "/images/products/7artisans/7artisans-4mm-f2-8-aps-c-fisheye.webp"
+    "image_url": "/images/products/7artisans/7artisans-4mm-f2-8-aps-c-fisheye.webp",
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-60mm-f2-8-aps-c-macro",
@@ -54803,7 +54830,9 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-ef-m-22mm-f2-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-22mm-f2-stm.webp",
+    "hasOIS": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-18-55mm-f3-5-5-6-is-stm",
@@ -54833,7 +54862,9 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-11-22mm-f4-5-6-is-stm",
@@ -54863,7 +54894,10 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-ef-m-11-22mm-f4-5-6-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-11-22mm-f4-5-6-is-stm.webp",
+    "hasOIS": true,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-55-200mm-f4-5-6-3-is-stm",
@@ -54894,7 +54928,8 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-ef-m-55-200mm-f4-5-6-3-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-55-200mm-f4-5-6-3-is-stm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-15-45mm-f3-5-6-3-is-stm",
@@ -54925,7 +54960,9 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-ef-m-15-45mm-f3-5-6-3-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-15-45mm-f3-5-6-3-is-stm.webp",
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-28mm-f3-5-macro-is-stm",
@@ -54958,7 +54995,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-ef-m-28mm-f3-5-macro-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-28mm-f3-5-macro-is-stm.webp",
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-18-150mm-f3-5-6-3-is-stm",
@@ -54990,7 +55028,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-ef-m-18-150mm-f3-5-6-3-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-18-150mm-f3-5-6-3-is-stm.webp",
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-ef-m-32mm-f1-4-stm",
@@ -55023,7 +55063,9 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/canon/canon-ef-m-32mm-f1-4-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-32mm-f1-4-stm.webp",
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "canon-eos-m",
@@ -55055,7 +55097,10 @@
           "name": "Canon EF-M"
         }
       }
-    ]
+    ],
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS"
   },
   {
     "id": "canon-eos-m2",
@@ -55085,7 +55130,9 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m2.webp"
+    "image_url": "/images/products/canon/canon-eos-m2.webp",
+    "sensorType": "CMOS",
+    "videoResolution": "Full HD 30p"
   },
   {
     "id": "canon-eos-m3",
@@ -55116,7 +55163,10 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m3.webp"
+    "image_url": "/images/products/canon/canon-eos-m3.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS"
   },
   {
     "id": "canon-eos-m10",
@@ -55148,7 +55198,11 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m10.webp"
+    "image_url": "/images/products/canon/canon-eos-m10.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS"
   },
   {
     "id": "canon-eos-m5",
@@ -55181,7 +55235,10 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m5.webp"
+    "image_url": "/images/products/canon/canon-eos-m5.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS"
   },
   {
     "id": "canon-eos-m6",
@@ -55213,7 +55270,10 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m6.webp"
+    "image_url": "/images/products/canon/canon-eos-m6.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS"
   },
   {
     "id": "canon-eos-m100",
@@ -55244,7 +55304,12 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m100.webp"
+    "image_url": "/images/products/canon/canon-eos-m100.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "afPoints": "49 points"
   },
   {
     "id": "canon-eos-m50",
@@ -55276,7 +55341,11 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m50.webp"
+    "image_url": "/images/products/canon/canon-eos-m50.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "dimensions": "116.3 x 88.1 x 58.7 mm"
   },
   {
     "id": "canon-eos-m6-mark-ii",
@@ -55306,7 +55375,12 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m6-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-eos-m6-mark-ii.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "afPoints": "5481 points",
+    "dimensions": "119.6 x 70.0 x 49.2 mm"
   },
   {
     "id": "canon-eos-m200",
@@ -55336,7 +55410,12 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m200.webp"
+    "image_url": "/images/products/canon/canon-eos-m200.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "afPoints": "143 areas"
   },
   {
     "id": "canon-eos-m50-mark-ii",
@@ -55370,7 +55449,9 @@
         }
       }
     ],
-    "image_url": "/images/products/canon/canon-eos-m50-mark-ii.webp"
+    "image_url": "/images/products/canon/canon-eos-m50-mark-ii.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS"
   },
   {
     "id": "casio-exilim-ex-zr4100",
@@ -57026,7 +57107,8 @@
     "dimensions": "71.8 x 50.8 x 33.6 mm",
     "weightGrams": 154,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/gopro/gopro-hero11-black.webp"
+    "image_url": "/images/products/gopro/gopro-hero11-black.webp",
+    "launchPrice": 17500
   },
   {
     "id": "gopro-hero11-black-mini",
@@ -58948,7 +59030,13 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL19 (160 shots CIPA)",
     "dimensions": "97.7 x 58.4 x 21.3 mm",
-    "weightGrams": 146
+    "weightGrams": 146,
+    "sensorType": "CMOS",
+    "isoRange": "125-3200",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s3500",
@@ -58967,7 +59055,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (220 shots CIPA)",
     "dimensions": "96.8 x 57.8 x 20.5 mm",
-    "weightGrams": 129
+    "weightGrams": 129,
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s6500",
@@ -58986,7 +59081,15 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL19 (150 shots CIPA)",
     "dimensions": "95.4 x 58.3 x 26.3 mm",
-    "weightGrams": 153
+    "weightGrams": 153,
+    "sensorType": "CMOS",
+    "isoRange": "125-3200",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-aw110",
@@ -59006,7 +59109,13 @@
     "batterySpec": "EN-EL12 (250 shots CIPA)",
     "dimensions": "110.1 x 65.3 x 24.5 mm",
     "weightGrams": 193,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-3200)",
+    "burstSpeed": "8fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-l820",
@@ -59026,7 +59135,12 @@
     "batterySpec": "4x AA (320 shots CIPA, alkaline)",
     "dimensions": "111.0 x 76.3 x 84.5 mm",
     "weightGrams": 470,
-    "image_url": "/images/products/nikon/nikon-coolpix-l820.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l820.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-3200)",
+    "burstSpeed": "8fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-l28",
@@ -59046,7 +59160,12 @@
     "batterySpec": "2x AA (280 shots CIPA, alkaline)",
     "dimensions": "95.4 x 59.8 x 29.0 mm",
     "weightGrams": 164,
-    "image_url": "/images/products/nikon/nikon-coolpix-l28.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l28.webp",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s6800",
@@ -59065,7 +59184,14 @@
     "videoResolution": "Full HD 60i / 30p",
     "batterySpec": "EN-EL19 (170 shots CIPA)",
     "dimensions": "96.8 x 57.5 x 22.9 mm",
-    "weightGrams": 145
+    "weightGrams": 145,
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "9.4fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s3600",
@@ -59084,7 +59210,13 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (230 shots CIPA)",
     "dimensions": "97.1 x 57.9 x 19.9 mm",
-    "weightGrams": 125
+    "weightGrams": 125,
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-l30",
@@ -59104,7 +59236,12 @@
     "batterySpec": "2x AA (320 shots CIPA, alkaline)",
     "dimensions": "95.4 x 60.3 x 29.0 mm",
     "weightGrams": 164,
-    "image_url": "/images/products/nikon/nikon-coolpix-l30.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l30.webp",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out"
   },
   {
     "id": "nikon-coolpix-s9700",
@@ -59124,7 +59261,14 @@
     "batterySpec": "EN-EL12 (300 shots CIPA)",
     "dimensions": "109.6 x 63.5 x 34.5 mm",
     "weightGrams": 232,
-    "image_url": "/images/products/nikon/nikon-coolpix-s9700.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s9700.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "6.9fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s32",
@@ -59145,7 +59289,13 @@
     "dimensions": "107.6 x 66.1 x 40.4 mm",
     "weightGrams": 175,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-s32.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s32.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600",
+    "burstSpeed": "4.7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-aw120",
@@ -59166,7 +59316,14 @@
     "dimensions": "110.1 x 66.0 x 25.8 mm",
     "weightGrams": 213,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-aw120.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-aw120.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "6.9fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-p600",
@@ -59189,7 +59346,11 @@
     "weightGrams": 565,
     "burstSpeed": "7fps",
     "image_url": "/images/products/nikon/nikon-coolpix-p600.webp",
-    "launchPrice": 17900
+    "launchPrice": 17900,
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-6400)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-p340",
@@ -59210,7 +59371,14 @@
     "dimensions": "103.0 x 58.3 x 32.0 mm",
     "weightGrams": 194,
     "image_url": "/images/products/nikon/nikon-coolpix-p340.webp",
-    "launchPrice": 13900
+    "launchPrice": 13900,
+    "sensorType": "CMOS",
+    "isoRange": "80-3200 (Ext: 80-25600)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-s6900",
@@ -59230,7 +59398,14 @@
     "batterySpec": "EN-EL19 (190 shots CIPA)",
     "dimensions": "99.4 x 58.0 x 27.9 mm",
     "weightGrams": 181,
-    "image_url": "/images/products/nikon/nikon-coolpix-s6900.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s6900.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "9fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-s2900",
@@ -59249,7 +59424,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (250 shots CIPA)",
     "dimensions": "94.5 x 58.6 x 19.8 mm",
-    "weightGrams": 119
+    "weightGrams": 119,
+    "processor": "EXPEED C2",
+    "sensorType": "CCD",
+    "isoRange": "80-3200",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-l32",
@@ -59269,7 +59451,14 @@
     "batterySpec": "2x AA (320 shots CIPA, alkaline)",
     "dimensions": "95.4 x 60.3 x 29.0 mm",
     "weightGrams": 164,
-    "image_url": "/images/products/nikon/nikon-coolpix-l32.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l32.webp",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-p610",
@@ -59290,7 +59479,12 @@
     "batterySpec": "EN-EL23 (360 shots CIPA)",
     "dimensions": "125.0 x 85.0 x 106.5 mm",
     "weightGrams": 565,
-    "image_url": "/images/products/nikon/nikon-coolpix-p610.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p610.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-12800)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-s9900",
@@ -59310,7 +59504,14 @@
     "batterySpec": "EN-EL12 (300 shots CIPA)",
     "dimensions": "112.0 x 66.0 x 39.5 mm",
     "weightGrams": 289,
-    "image_url": "/images/products/nikon/nikon-coolpix-s9900.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s9900.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-s7000",
@@ -59330,7 +59531,14 @@
     "batterySpec": "EN-EL19 (210 shots CIPA)",
     "dimensions": "99.5 x 60.0 x 27.4 mm",
     "weightGrams": 161,
-    "image_url": "/images/products/nikon/nikon-coolpix-s7000.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s7000.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "9.2fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-aw130",
@@ -59351,7 +59559,13 @@
     "dimensions": "110.4 x 66.0 x 26.8 mm",
     "weightGrams": 221,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-aw130.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-aw130.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s33",
@@ -59372,7 +59586,13 @@
     "dimensions": "109.5 x 67.0 x 37.6 mm",
     "weightGrams": 180,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-s33.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s33.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600",
+    "burstSpeed": "4.7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-p900",
@@ -59393,7 +59613,14 @@
     "batterySpec": "EN-EL23 (360 shots CIPA)",
     "dimensions": "139.5 x 103.2 x 137.4 mm",
     "weightGrams": 899,
-    "image_url": "/images/products/nikon/nikon-coolpix-p900.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p900.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-12800)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "processor": "EXPEED C2",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-a100",
@@ -59412,7 +59639,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (250 shots CIPA)",
     "dimensions": "94.5 x 58.6 x 19.8 mm",
-    "weightGrams": 119
+    "weightGrams": 119,
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-b700",
@@ -59433,7 +59667,13 @@
     "batterySpec": "EN-EL23 (420 shots CIPA)",
     "dimensions": "125.0 x 85.0 x 106.5 mm",
     "weightGrams": 570,
-    "image_url": "/images/products/nikon/nikon-coolpix-b700.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-b700.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-3200)",
+    "burstSpeed": "5fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-b500",
@@ -59453,7 +59693,14 @@
     "batterySpec": "4x AA (600 shots CIPA, alkaline)",
     "dimensions": "113.5 x 78.3 x 94.9 mm",
     "weightGrams": 542,
-    "image_url": "/images/products/nikon/nikon-coolpix-b500.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-b500.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "7.4fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-a900",
@@ -59473,7 +59720,14 @@
     "batterySpec": "EN-EL12 (270 shots CIPA)",
     "dimensions": "113.0 x 66.5 x 39.9 mm",
     "weightGrams": 299,
-    "image_url": "/images/products/nikon/nikon-coolpix-a900.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-a900.webp",
+    "sensorType": "CMOS",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-a300",
@@ -59493,7 +59747,14 @@
     "batterySpec": "EN-EL19 (240 shots CIPA)",
     "dimensions": "95.9 x 58.0 x 20.1 mm",
     "weightGrams": 119,
-    "image_url": "/images/products/nikon/nikon-coolpix-a300.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-a300.webp",
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-w100",
@@ -59514,7 +59775,11 @@
     "dimensions": "109.5 x 67.0 x 38.0 mm",
     "weightGrams": 177,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-w100.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-w100.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-keymission-360",
@@ -59532,7 +59797,11 @@
     "dimensions": "65.7 x 60.6 x 61.1 mm",
     "weightGrams": 198,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-keymission-360.webp"
+    "image_url": "/images/products/nikon/nikon-keymission-360.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600",
+    "cardSlots": "1x microSD/microSDHC/microSDXC",
+    "ports": "micro USB, micro HDMI"
   },
   {
     "id": "nikon-keymission-170",
@@ -59553,7 +59822,11 @@
     "dimensions": "66.4 x 46.8 x 42.7 mm",
     "weightGrams": 135,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-keymission-170.webp"
+    "image_url": "/images/products/nikon/nikon-keymission-170.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600",
+    "cardSlots": "1x microSD/microSDHC/microSDXC",
+    "ports": "micro USB, micro HDMI"
   },
   {
     "id": "nikon-keymission-80",
@@ -59574,7 +59847,11 @@
     "dimensions": "44.8 x 86.5 x 15.0 mm",
     "weightGrams": 74,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-keymission-80.webp"
+    "image_url": "/images/products/nikon/nikon-keymission-80.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600",
+    "cardSlots": "1x microSD/microSDHC/microSDXC",
+    "ports": "micro USB"
   },
   {
     "id": "nikon-coolpix-w300",
@@ -59595,7 +59872,14 @@
     "dimensions": "111.5 x 66.0 x 29.0 mm",
     "weightGrams": 231,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-w300.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-w300.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-a1000",
@@ -59616,7 +59900,14 @@
     "batterySpec": "EN-EL12 (250 shots CIPA)",
     "dimensions": "114.2 x 71.7 x 40.5 mm",
     "weightGrams": 330,
-    "image_url": "/images/products/nikon/nikon-coolpix-a1000.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-a1000.webp",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-6400)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "afPoints": "99 points",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-b600",
@@ -59636,7 +59927,14 @@
     "batterySpec": "EN-EL12 (280 shots CIPA)",
     "dimensions": "121.6 x 81.5 x 99.2 mm",
     "weightGrams": 500,
-    "image_url": "/images/products/nikon/nikon-coolpix-b600.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-b600.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "afPoints": "99 points",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-w150",
@@ -59657,7 +59955,12 @@
     "dimensions": "109.5 x 67.0 x 38.0 mm",
     "weightGrams": 177,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-w150.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-w150.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-p1100",
@@ -59680,7 +59983,13 @@
     "weightGrams": 1410,
     "retailPrice": 33900,
     "image_url": "/images/products/nikon/nikon-coolpix-p1100.webp",
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-6400)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB-C, micro HDMI, mic",
+    "processor": "EXPEED"
   },
   {
     "id": "nikon-coolpix-l620",
@@ -59699,7 +60008,13 @@
     "videoResolution": "Full HD 60i / 30p",
     "batterySpec": "2x AA (150 shots, alkaline)",
     "dimensions": "108.3 x 68.7 x 34.1 mm",
-    "image_url": "/images/products/nikon/nikon-coolpix-l620.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l620.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-3200",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out, micro HDMI",
+    "weightGrams": 237
   },
   {
     "id": "nikon-coolpix-s2700",
@@ -59716,7 +60031,15 @@
     "hasIBIS": false,
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "EN-EL19 (210 shots CIPA)",
-    "dimensions": "94.8 x 57.8 x 20.8 mm"
+    "dimensions": "94.8 x 57.8 x 20.8 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.3fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "afPoints": "99 points",
+    "videoResolution": "HD 720p",
+    "weightGrams": 125
   },
   {
     "id": "nikon-coolpix-l27",
@@ -59734,7 +60057,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "2x AA (200 shots, alkaline)",
-    "dimensions": "95.4 x 59.8 x 29.0 mm"
+    "dimensions": "95.4 x 59.8 x 29.0 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.2fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "weightGrams": 161
   },
   {
     "id": "nikon-coolpix-s6700",
@@ -59752,7 +60081,13 @@
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (230 shots)",
-    "dimensions": "95.3 x 58.2 x 21.4 mm"
+    "dimensions": "95.3 x 58.2 x 21.4 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "weightGrams": 137
   },
   {
     "id": "nikon-coolpix-s5300",
@@ -59769,7 +60104,14 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL19 (180 shots)",
-    "dimensions": "96.9 x 58.0 x 20.9 mm"
+    "dimensions": "96.9 x 58.0 x 20.9 mm",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, AV out, micro HDMI",
+    "afPoints": "99 points",
+    "weightGrams": 138,
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-s2800",
@@ -59787,7 +60129,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (250 shots)",
-    "dimensions": "93.8 x 58.4 x 19.8 mm"
+    "dimensions": "93.8 x 58.4 x 19.8 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "weightGrams": 120
   },
   {
     "id": "nikon-coolpix-l830",
@@ -59805,7 +60153,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "videoResolution": "Full HD 30p",
     "batterySpec": "4x AA (390 shots, alkaline)",
-    "dimensions": "111.0 x 75.8 x 91.2 mm"
+    "dimensions": "111.0 x 75.8 x 91.2 mm",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-3200)",
+    "burstSpeed": "6.7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out, micro HDMI",
+    "weightGrams": 508
   },
   {
     "id": "nikon-coolpix-l330",
@@ -59823,7 +60177,13 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "4x AA (370 shots, alkaline)",
-    "dimensions": "111.1 x 76.3 x 83.3 mm"
+    "dimensions": "111.1 x 76.3 x 83.3 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "weightGrams": 430
   },
   {
     "id": "nikon-coolpix-l29",
@@ -59841,7 +60201,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "2x AA (200 shots, alkaline)",
-    "dimensions": "96.4 x 59.4 x 28.9 mm"
+    "dimensions": "96.4 x 59.4 x 28.9 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.2fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, AV out",
+    "weightGrams": 160
   },
   {
     "id": "nikon-coolpix-s9600",
@@ -59859,7 +60225,13 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "videoResolution": "Full HD 60i",
     "batterySpec": "EN-EL12 (290 shots CIPA)",
-    "dimensions": "108.6 x 61.0 x 31.6 mm"
+    "dimensions": "108.6 x 61.0 x 31.6 mm",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-6400)",
+    "burstSpeed": "6.7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, micro HDMI",
+    "weightGrams": 206
   },
   {
     "id": "nikon-coolpix-p530",
@@ -59878,7 +60250,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "videoResolution": "Full HD 60i / 30p",
     "batterySpec": "EN-EL5 (240 shots CIPA)",
-    "dimensions": "122.8 x 84.1 x 98.2 mm"
+    "dimensions": "122.8 x 84.1 x 98.2 mm",
+    "sensorType": "CMOS",
+    "isoRange": "100-1600 (Ext: 100-12800)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "micro USB, mini HDMI",
+    "weightGrams": 494
   },
   {
     "id": "nikon-coolpix-s810c",
@@ -59896,7 +60274,13 @@
     "lcdSpec": "3.7-inch 1.23M-dot fixed touch",
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL23 (270 shots CIPA)",
-    "dimensions": "113.0 x 63.5 x 27.5 mm"
+    "dimensions": "113.0 x 63.5 x 27.5 mm",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 125-3200)",
+    "burstSpeed": "8fps",
+    "cardSlots": "1x microSD",
+    "ports": "USB, micro HDMI",
+    "weightGrams": 216
   },
   {
     "id": "nikon-coolpix-s3700",
@@ -59914,7 +60298,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (240 shots CIPA)",
-    "dimensions": "95.9 x 58.0 x 20.1 mm"
+    "dimensions": "95.9 x 58.0 x 20.1 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600 (Ext: 80-3200)",
+    "burstSpeed": "1.1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "weightGrams": 118
   },
   {
     "id": "nikon-coolpix-l840",
@@ -59932,7 +60322,16 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "videoResolution": "Full HD 60i / 30p",
     "batterySpec": "4x AA (590 shots, alkaline)",
-    "dimensions": "113.5 x 78.3 x 96.0 mm"
+    "dimensions": "113.5 x 78.3 x 96.0 mm",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "weightGrams": 538,
+    "afPoints": "99 areas",
+    "burstSpeed": "7.4fps",
+    "isoRange": "125-1600 (Ext: 6400)",
+    "ports": "USB (Hi-Speed), micro HDMI (Type D)",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "nikon-coolpix-l340",
@@ -59950,7 +60349,13 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "4x AA (370 shots, alkaline)",
-    "dimensions": "111.1 x 76.3 x 83.3 mm"
+    "dimensions": "111.1 x 76.3 x 83.3 mm",
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1fps",
+    "ports": "USB (Hi-Speed)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "weightGrams": 430
   },
   {
     "id": "nikon-coolpix-a10",
@@ -59968,7 +60373,16 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "videoResolution": "HD 720p 30p",
     "batterySpec": "2x AA (200 shots, alkaline)",
-    "dimensions": "96.4 x 59.4 x 28.9 mm"
+    "dimensions": "96.4 x 59.4 x 28.9 mm",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "weightGrams": 160,
+    "sensorType": "CCD",
+    "isoRange": "80-1600",
+    "burstSpeed": "1.2fps",
+    "afPoints": "9 areas",
+    "ports": "USB (Hi-Speed), A/V out",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "pentax-q",
@@ -62019,7 +62433,14 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "launchPrice": 14990
+    "launchPrice": 14990,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "burstSpeed": "2.1fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx160-is",
@@ -62040,7 +62461,13 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4",
-    "image_url": "/images/products/canon/canon-powershot-sx160-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx160-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx500-is",
@@ -62062,7 +62489,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 4",
     "launchPrice": 11990,
-    "image_url": "/images/products/canon/canon-powershot-sx500-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx500-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "80-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a1300",
@@ -62083,7 +62516,12 @@
     "videoResolution": "HD 720p",
     "hasIBIS": false,
     "releaseMonth": 2,
-    "image_url": "/images/products/canon/canon-powershot-a1300.webp"
+    "image_url": "/images/products/canon/canon-powershot-a1300.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a810",
@@ -62101,7 +62539,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "2x AA (220 shots CIPA)",
     "videoResolution": "HD 720p",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a2400-is",
@@ -62120,7 +62564,13 @@
     "batterySpec": "NB-11L",
     "videoResolution": "HD 720p",
     "hasIBIS": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-510-hs",
@@ -62141,7 +62591,13 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "image_url": "/images/products/canon/canon-ixus-510-hs.webp"
+    "image_url": "/images/products/canon/canon-ixus-510-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.6fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x microSD/microSDHC/microSDXC"
   },
   {
     "id": "canon-ixus-240-hs",
@@ -62160,7 +62616,9 @@
     "lcdSpec": "3.2-inch 0.46M-dot",
     "batterySpec": "NB-11L",
     "videoResolution": "Full HD",
-    "hasIBIS": true
+    "hasIBIS": true,
+    "processor": "DIGIC 5",
+    "ports": "USB (Hi-Speed), HDMI, AV out"
   },
   {
     "id": "canon-powershot-a2300",
@@ -62178,7 +62636,14 @@
     "dimensions": "94.4 x 54.2 x 20.1 mm",
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "NB-11L",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "videoResolution": "HD 720p 25p",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a3400-is",
@@ -62196,7 +62661,14 @@
     "dimensions": "94.4 x 56.3 x 21.3 mm",
     "lcdSpec": "3.0-inch 0.23M-dot fixed touch",
     "batterySpec": "NB-11L (180 shots CIPA)",
-    "hasIBIS": true
+    "hasIBIS": true,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "videoResolution": "HD 720p 25p",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a4000-is",
@@ -62215,7 +62687,13 @@
     "lcdSpec": "3.0-inch 0.23M-dot",
     "batterySpec": "NB-11L",
     "videoResolution": "HD 720p",
-    "hasIBIS": true
+    "hasIBIS": true,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-132",
@@ -62232,7 +62710,12 @@
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "NB-11L",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-ixus-132.webp"
+    "image_url": "/images/products/canon/canon-ixus-132.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB (Hi-Speed), AV out"
   },
   {
     "id": "canon-ixus-255-hs",
@@ -62253,7 +62736,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 5",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-ixus-255-hs.webp"
+    "image_url": "/images/products/canon/canon-ixus-255-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.4fps",
+    "isoRange": "80-6400",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-265-hs",
@@ -62274,7 +62763,13 @@
     "processor": "DIGIC 4+",
     "burstSpeed": "3.9fps",
     "releaseMonth": 1,
-    "launchPrice": 5990
+    "launchPrice": 5990,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx600-hs",
@@ -62295,7 +62790,14 @@
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
     "launchPrice": 6990,
-    "image_url": "/images/products/canon/canon-powershot-sx600-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx600-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "3.9fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-170",
@@ -62315,7 +62817,13 @@
     "batterySpec": "NB-11L/NB-11LH (200 shots CIPA)",
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-ixus-170.webp"
+    "image_url": "/images/products/canon/canon-ixus-170.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx530-hs",
@@ -62335,7 +62843,14 @@
     "videoResolution": "Full HD 30p",
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-powershot-sx530-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx530-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "1.6fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx610-hs",
@@ -62356,7 +62871,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-powershot-sx610-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx610-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.5fps",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx710-hs",
@@ -62378,7 +62899,12 @@
     "processor": "DIGIC 6",
     "burstSpeed": "6fps",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-powershot-sx710-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx710-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-160",
@@ -62397,7 +62923,14 @@
     "videoResolution": "HD 720p",
     "hasIBIS": false,
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-285-hs",
@@ -62418,7 +62951,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 4+",
     "releaseMonth": 1,
-    "image_url": "/images/products/canon/canon-ixus-285-hs.webp"
+    "image_url": "/images/products/canon/canon-ixus-285-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.5fps",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx620-hs",
@@ -62439,7 +62978,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 4+",
     "releaseMonth": 5,
-    "image_url": "/images/products/canon/canon-powershot-sx620-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx620-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.5fps",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx720-hs",
@@ -62461,7 +63006,12 @@
     "processor": "DIGIC 6",
     "burstSpeed": "5.9fps",
     "releaseMonth": 2,
-    "image_url": "/images/products/canon/canon-powershot-sx720-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx720-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx420-is",
@@ -62482,7 +63032,13 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-powershot-sx420-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx420-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.5fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-175",
@@ -62502,7 +63058,13 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-180",
@@ -62522,7 +63084,13 @@
     "batterySpec": "NB-11LH (190 shots CIPA)",
     "videoResolution": "HD 720p",
     "processor": "DIGIC 4+",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx730-hs",
@@ -62544,7 +63112,13 @@
     "burstSpeed": "5.9fps",
     "releaseMonth": 4,
     "launchPrice": 11990,
-    "image_url": "/images/products/canon/canon-powershot-sx730-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx730-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "DIGIC 6",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx740-hs",
@@ -62568,7 +63142,12 @@
     "retailPrice": 12990,
     "retailPriceDate": "2026-10",
     "releaseMonth": 7,
-    "image_url": "/images/products/canon/canon-powershot-sx740-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx740-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-sx70-hs",
@@ -62592,7 +63171,12 @@
     "burstSpeed": "10fps",
     "releaseMonth": 9,
     "image_url": "/images/products/canon/canon-powershot-sx70-hs.webp",
-    "launchPrice": 14990
+    "launchPrice": 14990,
+    "hasWeatherSeal": false,
+    "processor": "DIGIC 8",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI, mic",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-v10",
@@ -62615,7 +63199,9 @@
     "retailPrice": 13990,
     "retailPriceDate": "2026-10",
     "releaseMonth": 5,
-    "image_url": "/images/products/canon/canon-powershot-v10.webp"
+    "image_url": "/images/products/canon/canon-powershot-v10.webp",
+    "isoRange": "125-12800",
+    "cardSlots": "1x microSD"
   },
   {
     "id": "canon-powershot-sx540-hs",
@@ -62638,7 +63224,12 @@
     "hasIBIS": true,
     "burstSpeed": "5.9fps",
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-sx540-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx540-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx270-hs",
@@ -62660,7 +63251,12 @@
     "hasIBIS": true,
     "burstSpeed": "3.8fps",
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-sx270-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx270-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-6400",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-zoom",
@@ -62682,7 +63278,10 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "releaseMonth": 10,
-    "launchPrice": 10990
+    "launchPrice": 10990,
+    "hasWeatherSeal": false,
+    "isoRange": "100-3200",
+    "cardSlots": "1x microSD"
   },
   {
     "id": "canon-powershot-pick",
@@ -62702,7 +63301,11 @@
     "batterySpec": "Built-in Li-ion",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "launchPrice": 14900
+    "launchPrice": 14900,
+    "hasWeatherSeal": false,
+    "processor": "DIGIC 7",
+    "ports": "USB-C",
+    "cardSlots": "1x microSD/microSDHC/microSDXC"
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -64134,7 +64737,9 @@
     "batterySpec": "Li-ion 3.6V 1250mAh (330 shots CIPA)",
     "ports": "AV/USB (USB 2.0), mini HDMI",
     "dimensions": "110.5 x 67.1 x 45.6 mm",
-    "weightGrams": 298
+    "weightGrams": 298,
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs300",
@@ -64183,7 +64788,9 @@
     "dimensions": "114.8 x 66.2 x 55.0 mm",
     "weightGrams": 393,
     "image_url": "/images/products/panasonic/panasonic-lumix-lx100.webp",
-    "launchPrice": 29900
+    "launchPrice": 29900,
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-lx10",
@@ -64207,7 +64814,10 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "105.5 x 60.0 x 42.0 mm",
     "weightGrams": 310,
-    "image_url": "/images/products/panasonic/panasonic-lumix-lx10.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-lx10.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-12800 (Ext: 80-25600)"
   },
   {
     "id": "panasonic-lumix-lx100-ii",
@@ -64234,7 +64844,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "115.0 x 66.2 x 64.2 mm",
     "weightGrams": 392,
-    "image_url": "/images/products/panasonic/panasonic-lumix-lx100-ii.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-lx100-ii.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-l10",
@@ -64287,7 +64899,10 @@
     "ports": "AV/USB, micro HDMI",
     "dimensions": "102.5 x 62.1 x 27.9 mm",
     "weightGrams": 192,
-    "image_url": "/images/products/panasonic/panasonic-lumix-lf1.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-lf1.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "10fps",
+    "isoRange": "80-6400 (Ext: 12800)"
   },
   {
     "id": "panasonic-lumix-fz200",
@@ -64312,7 +64927,9 @@
     "batterySpec": "Li-ion 7.2V 1200mAh (540 shots CIPA)",
     "ports": "AV/USB (USB 2.0), mini HDMI",
     "dimensions": "125.1 x 86.6 x 110.2 mm",
-    "weightGrams": 588
+    "weightGrams": 588,
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine VII FHD"
   },
   {
     "id": "panasonic-lumix-fz60",
@@ -64334,7 +64951,10 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "Li-ion (450 shots CIPA)",
-    "weightGrams": 493
+    "weightGrams": 493,
+    "hasWeatherSeal": false,
+    "isoRange": "100-6400",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-fz70",
@@ -64360,7 +64980,9 @@
     "ports": "AV/USB (USB 2.0), mini HDMI",
     "dimensions": "130.2 x 97.0 x 118.2 mm",
     "weightGrams": 606,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz70.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz70.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-fz1000",
@@ -64386,7 +65008,10 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "136.8 x 98.5 x 130.7 mm",
     "weightGrams": 831,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz1000.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz1000.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "evfMagnification": "0.70x"
   },
   {
     "id": "panasonic-lumix-fz300",
@@ -64412,7 +65037,9 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "131.6 x 91.5 x 117.1 mm",
     "weightGrams": 691,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz300.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz300.webp",
+    "processor": "Venus Engine",
+    "evfMagnification": "0.7x"
   },
   {
     "id": "panasonic-lumix-fz2500",
@@ -64438,7 +65065,10 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "137.6 x 101.9 x 134.7 mm",
     "weightGrams": 966,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz2500.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz2500.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "isoRange": "125-12800 (Ext: 80-25600)"
   },
   {
     "id": "panasonic-lumix-fz80",
@@ -64464,7 +65094,10 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "130.2 x 94.3 x 119.2 mm",
     "weightGrams": 616,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz80.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz80.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "evfMagnification": "0.46x"
   },
   {
     "id": "panasonic-lumix-fz1000-ii",
@@ -64490,7 +65123,10 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "136.2 x 97.2 x 131.5 mm",
     "weightGrams": 810,
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz1000-ii.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz1000-ii.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "evfMagnification": "0.74x"
   },
   {
     "id": "panasonic-lumix-fz80d",
@@ -64519,7 +65155,9 @@
     "weightGrams": 640,
     "retailPrice": 15900,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/panasonic/panasonic-lumix-fz80d.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz80d.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs20",
@@ -64543,7 +65181,9 @@
     "batterySpec": "Li-ion 3.6V 895mAh (260 shots CIPA)",
     "ports": "AV/USB (USB 2.0), mini HDMI",
     "dimensions": "104.9 x 58.9 x 28.2 mm",
-    "weightGrams": 206
+    "weightGrams": 206,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-zs25",
@@ -64565,7 +65205,12 @@
     "batterySpec": "Li-ion 3.6V 895mAh (260 shots CIPA)",
     "dimensions": "104.9 x 58.9 x 28.7 mm",
     "weightGrams": 193,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs25.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs25.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-zs30",
@@ -64587,7 +65232,12 @@
     "batterySpec": "Li-ion (300 shots CIPA)",
     "dimensions": "108.3 x 58.9 x 27.7 mm",
     "weightGrams": 198,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs30.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs30.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-6400",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-zs35",
@@ -64608,7 +65258,13 @@
     "batterySpec": "Li-ion (350 shots CIPA)",
     "dimensions": "106.8 x 62.2 x 32.4 mm",
     "weightGrams": 250,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs35.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs35.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "isoRange": "100-3200 (Ext: 6400)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-zs40",
@@ -64634,7 +65290,9 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "110.6 x 64.3 x 34.4 mm",
     "weightGrams": 240,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs40.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs40.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs45",
@@ -64659,7 +65317,9 @@
     "ports": "AV/USB (USB 2.0), micro HDMI",
     "dimensions": "107.9 x 59.9 x 32.1 mm",
     "weightGrams": 249,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs45.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs45.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-zs50",
@@ -64684,7 +65344,10 @@
     "ports": "AV/USB, micro HDMI",
     "dimensions": "110.7 x 64.6 x 34.4 mm",
     "weightGrams": 243,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs50.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs50.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "10fps",
+    "evfMagnification": "0.46x"
   },
   {
     "id": "panasonic-lumix-zs100",
@@ -64711,7 +65374,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "110.5 x 64.5 x 44.3 mm",
     "weightGrams": 312,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs100.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs100.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs60",
@@ -64736,7 +65401,10 @@
     "batterySpec": "Li-ion 7.2V 1025mAh (320 shots CIPA)",
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "112.0 x 64.0 x 38.0 mm",
-    "weightGrams": 282
+    "weightGrams": 282,
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "evfMagnification": "0.46x"
   },
   {
     "id": "panasonic-lumix-zs70",
@@ -64763,7 +65431,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "112.0 x 67.0 x 41.0 mm",
     "weightGrams": 322,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs70.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs70.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs200",
@@ -64790,7 +65460,9 @@
     "ports": "micro USB (USB 2.0), micro HDMI",
     "dimensions": "111.2 x 66.4 x 45.2 mm",
     "weightGrams": 340,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs200.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs200.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs80",
@@ -64818,7 +65490,9 @@
     "dimensions": "112.0 x 68.8 x 41.6 mm",
     "weightGrams": 327,
     "image_url": "/images/products/panasonic/panasonic-lumix-zs80.webp",
-    "launchPrice": 13990
+    "launchPrice": 13990,
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-zs99",
@@ -64845,7 +65519,10 @@
     "weightGrams": 322,
     "image_url": "/images/products/panasonic/panasonic-lumix-zs99.webp",
     "retailPrice": 16990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-ts4",
@@ -64865,7 +65542,14 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion 3.6V 940mAh (310 shots CIPA)",
     "dimensions": "103.5 x 64.0 x 26.5 mm",
-    "weightGrams": 197
+    "weightGrams": 197,
+    "processor": "Venus Engine FHD",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "3.7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-ts20",
@@ -64886,7 +65570,12 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "101.0 x 58.3 x 19.2 mm",
-    "weightGrams": 142
+    "weightGrams": 142,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.3fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-ts5",
@@ -64906,7 +65595,13 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "Li-ion 3.6V 1250mAh (370 shots CIPA)",
     "dimensions": "109.2 x 67.4 x 28.9 mm",
-    "weightGrams": 214
+    "weightGrams": 214,
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "isoRange": "100-3200 (Ext: 6400)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-ts25",
@@ -64925,7 +65620,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "103.7 x 58.3 x 19.7 mm",
-    "weightGrams": 144
+    "weightGrams": 144,
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.3fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-ts7",
@@ -64947,7 +65648,12 @@
     "lcdSpec": "3.0-inch 1.04M-dot fixed",
     "batterySpec": "DMW-BCM13 (300 shots CIPA)",
     "dimensions": "116.7 x 76.1 x 37.3 mm",
-    "weightGrams": 319
+    "weightGrams": 319,
+    "processor": "Venus Engine",
+    "isoRange": "80-3200 (Ext: 6400)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-sz7",
@@ -64967,7 +65673,12 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "Li-ion (220 shots CIPA)",
     "dimensions": "99.0 x 59.4 x 21.0 mm",
-    "weightGrams": 133
+    "weightGrams": 133,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "panasonic-lumix-sz5",
@@ -64987,7 +65698,13 @@
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "104.1 x 57.6 x 20.8 mm",
-    "weightGrams": 136
+    "weightGrams": 136,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.5fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-sz9",
@@ -65028,7 +65745,11 @@
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "94.8 x 55.8 x 21.9 mm",
     "weightGrams": 126,
-    "image_url": "/images/products/panasonic/panasonic-lumix-sz3.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz3.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "1.4fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-xs1",
@@ -65048,7 +65769,12 @@
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion (260 shots CIPA)",
     "dimensions": "93.8 x 53.5 x 17.6 mm",
-    "weightGrams": 103
+    "weightGrams": 103,
+    "evfMagnification": "None",
+    "isoRange": "100-6400",
+    "burstSpeed": "1fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-sz8",
@@ -65069,7 +65795,14 @@
     "batterySpec": "Li-ion (200 shots CIPA)",
     "dimensions": "99.8 x 60.4 x 26.5 mm",
     "weightGrams": 159,
-    "image_url": "/images/products/panasonic/panasonic-lumix-sz8.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz8.webp",
+    "processor": "Venus Engine",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.2fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-sz10",
@@ -65090,7 +65823,13 @@
     "batterySpec": "Li-ion (200 shots CIPA)",
     "dimensions": "99.0 x 59.9 x 29.8 mm",
     "weightGrams": 177,
-    "image_url": "/images/products/panasonic/panasonic-lumix-sz10.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz10.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.4fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-fh8",
@@ -65110,7 +65849,13 @@
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
     "batterySpec": "Li-ion (260 shots CIPA)",
     "dimensions": "96.0 x 57.1 x 19.4 mm",
-    "weightGrams": 123
+    "weightGrams": 123,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-1600 (Ext: 6400)",
+    "burstSpeed": "1.3fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0"
   },
   {
     "id": "panasonic-lumix-cm10",
@@ -65155,7 +65900,8 @@
     "ports": "USB 2.0 (AV/USB), HDMI",
     "dimensions": "117.0 x 61.0 x 34.7 mm",
     "weightGrams": 245,
-    "image_url": "/images/products/ricoh/ricoh-gr.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr.webp",
+    "launchPrice": 28900
   },
   {
     "id": "ricoh-gr-ii",
@@ -65245,7 +65991,8 @@
     "sensorFormat": "APS-C",
     "megapixels": "24.2MP",
     "hasIBIS": true,
-    "image_url": "/images/products/ricoh/ricoh-gr-iii-hdf.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iii-hdf.webp",
+    "launchPrice": 32900
   },
   {
     "id": "ricoh-gr-iiix-hdf",
@@ -65260,7 +66007,8 @@
     "sensorFormat": "APS-C",
     "megapixels": "24.2MP",
     "hasIBIS": true,
-    "image_url": "/images/products/ricoh/ricoh-gr-iiix-hdf.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iiix-hdf.webp",
+    "launchPrice": 33900
   },
   {
     "id": "ricoh-gr-iv",
@@ -65817,7 +66565,8 @@
     "batterySpec": "Built-in (260 shots)",
     "dimensions": "44 x 130 x 22.9 mm",
     "weightGrams": 125,
-    "image_url": "/images/products/ricoh/ricoh-theta-s.webp"
+    "image_url": "/images/products/ricoh/ricoh-theta-s.webp",
+    "launchPrice": 13900
   },
   {
     "id": "ricoh-theta-sc",
@@ -65854,7 +66603,8 @@
     "batterySpec": "Built-in (300 shots)",
     "dimensions": "45.2 x 130.6 x 22.9 mm",
     "weightGrams": 121,
-    "image_url": "/images/products/ricoh/ricoh-theta-v.webp"
+    "image_url": "/images/products/ricoh/ricoh-theta-v.webp",
+    "launchPrice": 15900
   },
   {
     "id": "ricoh-theta-z1",
@@ -67094,7 +67844,8 @@
     "videoResolution": "4K 30p",
     "batterySpec": "LB-080 (160 shots CIPA)",
     "hasWeatherSeal": true,
-    "dimensions": "48.0 x 50.0 x 52.5 mm"
+    "dimensions": "48.0 x 50.0 x 52.5 mm",
+    "launchPrice": 15990
   },
   {
     "id": "kodak-pixpro-fz201",
@@ -67218,7 +67969,15 @@
     "releaseMonth": 6,
     "megapixels": "20.2MP",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100.webp",
-    "launchPrice": 21980
+    "launchPrice": 21980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "processor": "BIONZ",
+    "sensorType": "Exmor CMOS",
+    "isoRange": "125-6400 (Ext: 80-25600)",
+    "ports": "micro USB (USB 2.0), micro HDMI"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-ii",
@@ -67239,7 +67998,15 @@
     "megapixels": "20.2MP",
     "releaseMonth": 6,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-ii.webp",
-    "launchPrice": 22980
+    "launchPrice": 22980,
+    "hasWeatherSeal": false,
+    "burstSpeed": "10fps",
+    "isoRange": "160-12800 (Ext: 100-25600)",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "processor": "BIONZ",
+    "sensorType": "Exmor R CMOS",
+    "afPoints": "25 points",
+    "ports": "micro USB (USB 2.0), micro HDMI"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-iii",
@@ -67261,7 +68028,16 @@
     "megapixels": "20.1MP",
     "releaseMonth": 5,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iii.webp",
-    "launchPrice": 24980
+    "launchPrice": 24980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "burstSpeed": "10fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "ports": "USB 2.0, HDMI",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor R CMOS",
+    "afPoints": "25 points"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-iv",
@@ -67282,7 +68058,17 @@
     "batterySpec": "NP-BX1 (280 shots CIPA)",
     "megapixels": "20.1MP",
     "releaseMonth": 6,
-    "launchPrice": 28980
+    "launchPrice": 28980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "burstSpeed": "16fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor RS CMOS",
+    "afPoints": "25 points",
+    "ports": "micro USB (USB 2.0), micro HDMI",
+    "logSupport": "S-Log2"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-v",
@@ -67304,7 +68090,17 @@
     "megapixels": "20.1MP",
     "releaseMonth": 10,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-v.webp",
-    "launchPrice": 31980
+    "launchPrice": 31980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "burstSpeed": "24fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor RS CMOS",
+    "afPoints": "315 phase-detect points",
+    "ports": "micro USB (USB 2.0), micro HDMI",
+    "logSupport": "S-Log2"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-va",
@@ -67324,7 +68120,17 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-BX1 (220 shots CIPA)",
     "megapixels": "20.1MP",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-va.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-va.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "burstSpeed": "24fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor RS CMOS",
+    "afPoints": "315 phase-detect points",
+    "ports": "micro USB (USB 2.0), micro HDMI",
+    "logSupport": "S-Log2"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vi",
@@ -67346,7 +68152,17 @@
     "megapixels": "20.1MP",
     "releaseMonth": 6,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-vi.webp",
-    "launchPrice": 34980
+    "launchPrice": 34980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "ports": "USB 2.0, HDMI",
+    "burstSpeed": "24fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor RS CMOS",
+    "afPoints": "315 phase-detect points",
+    "logSupport": "S-Log2, S-Log3, HLG"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vii",
@@ -67369,7 +68185,17 @@
     "retailPrice": 34980,
     "retailPriceDate": "2026-10",
     "releaseMonth": 7,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-vii.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-vii.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.59x",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo",
+    "burstSpeed": "20fps",
+    "isoRange": "100-12800 (Ext: 64-25600)",
+    "processor": "BIONZ X",
+    "sensorType": "Exmor RS CMOS",
+    "afPoints": "357 phase-detect points",
+    "ports": "micro USB (USB 2.0), micro HDMI, mic",
+    "logSupport": "S-Log2, S-Log3, HLG"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10",
@@ -68227,7 +69053,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "NP-BX1 (300 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-h400.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-h400.webp",
+    "sensorType": "CCD",
+    "processor": "BIONZ",
+    "isoRange": "80-3200",
+    "burstSpeed": "0.71fps",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC / Memory Stick PRO Duo",
+    "evfResolution": "0.2M-dot"
   },
   {
     "id": "sony-cyber-shot-dsc-hx350",
@@ -68247,7 +69080,14 @@
     "evfResolution": "0.20M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-BX1 (300 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx350.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx350.webp",
+    "sensorType": "BSI-CMOS",
+    "processor": "BIONZ X",
+    "isoRange": "80-3200 (Ext: 12800)",
+    "burstSpeed": "10fps",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC / Memory Stick PRO Duo",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-hdr-as15",
@@ -68331,7 +69171,11 @@
     "videoResolution": "4K 30p / Full HD 120p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "launchPrice": 15980
+    "launchPrice": 15980,
+    "sensorType": "Exmor R CMOS",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "hasWeatherSeal": true,
+    "weightGrams": 114
   },
   {
     "id": "sony-hdr-as200v",
@@ -68348,7 +69192,11 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "launchPrice": 10980
+    "launchPrice": 10980,
+    "sensorType": "Exmor R CMOS",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "hasWeatherSeal": true,
+    "weightGrams": 93
   },
   {
     "id": "sony-hdr-as50",
@@ -68365,7 +69213,9 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "launchPrice": 7980
+    "launchPrice": 7980,
+    "sensorType": "Exmor R CMOS",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)"
   },
   {
     "id": "sony-fdr-x3000",
@@ -68384,7 +69234,13 @@
     "hasIBIS": true,
     "batterySpec": "NP-BX1",
     "image_url": "/images/products/sony/sony-fdr-x3000.webp",
-    "launchPrice": 14980
+    "launchPrice": 14980,
+    "sensorType": "Exmor R CMOS",
+    "processor": "BIONZ X",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None"
   },
   {
     "id": "sony-hdr-as300",
@@ -68402,7 +69258,13 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "batterySpec": "NP-BX1",
-    "image_url": "/images/products/sony/sony-hdr-as300.webp"
+    "image_url": "/images/products/sony/sony-hdr-as300.webp",
+    "sensorType": "Exmor R CMOS",
+    "processor": "BIONZ X",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None"
   },
   {
     "id": "voigtlander-ultron-vintage-line-35mm-f2-aspherical",
@@ -68454,7 +69316,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 19000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iii",
@@ -68508,7 +69372,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-vintage-line-50mm-f1-5-aspherical-ii.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-vintage-line-50mm-f1-5-aspherical-ii.webp",
+    "retailPrice": 26000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-ultron-vintage-line-28mm-f2-aspherical",
@@ -68534,7 +69400,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 25000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-heliar-classic-50mm-f1-5",
@@ -68560,7 +69428,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "launchPrice": 23000
   },
   {
     "id": "voigtlander-apo-skopar-90mm-f2-8",
@@ -68587,7 +69456,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-90mm-f2-8.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-90mm-f2-8.webp",
+    "retailPrice": 21000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-heliar-40mm-f2-8-aspherical",
@@ -68613,7 +69484,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "launchPrice": 16000
   },
   {
     "id": "voigtlander-nokton-vintage-line-35mm-f1-5-aspherical",
@@ -68639,7 +69511,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 24000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-ultron-75mm-f1-9",
@@ -68666,7 +69540,8 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-ultron-75mm-f1-9.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-ultron-75mm-f1-9.webp",
+    "launchPrice": 22000
   },
   {
     "id": "voigtlander-color-skopar-28mm-f2-8-aspherical",
@@ -68692,7 +69567,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "launchPrice": 16000
   },
   {
     "id": "voigtlander-color-skopar-50mm-f2-2",
@@ -68718,7 +69594,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 16000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f3-5",
@@ -68744,7 +69622,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 21000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-ultron-90mm-f2",
@@ -68771,7 +69651,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-apo-ultron-90mm-f2.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-apo-ultron-90mm-f2.webp",
+    "retailPrice": 27000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-color-skopar-35mm-f3-5-aspherical",
@@ -68797,7 +69679,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 20000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iv",
@@ -68824,7 +69708,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iv.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iv.webp",
+    "retailPrice": 29000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-40mm-f1-2-aspherical-ii",
@@ -68851,7 +69737,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-40mm-f1-2-aspherical-ii.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-40mm-f1-2-aspherical-ii.webp",
+    "retailPrice": 29000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-aspherical-ii",
@@ -68878,7 +69766,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-aspherical-ii.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-aspherical-ii.webp",
+    "retailPrice": 29000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-apo-skopar-75mm-f2-8",
@@ -68904,7 +69794,9 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "retailPrice": 17000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "voigtlander-ultron-21mm-f1-8-aspherical",
@@ -69598,7 +70490,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 5",
     "launchPrice": 23990,
-    "image_url": "/images/products/canon/canon-powershot-g1-x.webp"
+    "image_url": "/images/products/canon/canon-powershot-g1-x.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "1.9fps",
+    "isoRange": "100-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g15",
@@ -69620,7 +70518,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 5",
     "launchPrice": 16990,
-    "image_url": "/images/products/canon/canon-powershot-g15.webp"
+    "image_url": "/images/products/canon/canon-powershot-g15.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "2.1fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g16",
@@ -69641,7 +70545,13 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-g16.webp"
+    "image_url": "/images/products/canon/canon-powershot-g16.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "12.2fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g1-x-mark-ii",
@@ -69663,7 +70573,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 6",
     "image_url": "/images/products/canon/canon-powershot-g1-x-mark-ii.webp",
-    "launchPrice": 24990
+    "launchPrice": 24990,
+    "hasWeatherSeal": false,
+    "burstSpeed": "5.2fps",
+    "isoRange": "100-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g7-x",
@@ -69685,7 +70601,14 @@
     "hasIBIS": true,
     "processor": "DIGIC 6",
     "launchPrice": 17990,
-    "image_url": "/images/products/canon/canon-powershot-g7-x.webp"
+    "image_url": "/images/products/canon/canon-powershot-g7-x.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "6.5fps",
+    "isoRange": "125-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-g3-x",
@@ -69708,7 +70631,12 @@
     "hasWeatherSeal": true,
     "processor": "DIGIC 6",
     "image_url": "/images/products/canon/canon-powershot-g3-x.webp",
-    "launchPrice": 26990
+    "launchPrice": 26990,
+    "burstSpeed": "5.9fps",
+    "isoRange": "125-12800 (Ext: 125-25600)",
+    "ports": "USB 2.0, HDMI, mic, headphone",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-g5-x",
@@ -69731,7 +70659,13 @@
     "hasIBIS": true,
     "processor": "DIGIC 6",
     "image_url": "/images/products/canon/canon-powershot-g5-x.webp",
-    "launchPrice": 23990
+    "launchPrice": 23990,
+    "hasWeatherSeal": false,
+    "burstSpeed": "5.9fps",
+    "isoRange": "125-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g9-x",
@@ -69754,7 +70688,13 @@
     "processor": "DIGIC 6",
     "burstSpeed": "6fps",
     "launchPrice": 14990,
-    "image_url": "/images/products/canon/canon-powershot-g9-x.webp"
+    "image_url": "/images/products/canon/canon-powershot-g9-x.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-12800",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g7-x-mark-ii",
@@ -69777,7 +70717,13 @@
     "processor": "DIGIC 7",
     "burstSpeed": "8fps",
     "image_url": "/images/products/canon/canon-powershot-g7-x-mark-ii.webp",
-    "launchPrice": 20990
+    "launchPrice": 20990,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-12800 (Ext: 125-25600)",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-g9-x-mark-ii",
@@ -69800,7 +70746,13 @@
     "processor": "DIGIC 7",
     "burstSpeed": "8.1fps",
     "image_url": "/images/products/canon/canon-powershot-g9-x-mark-ii.webp",
-    "launchPrice": 15990
+    "launchPrice": 15990,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-6400 (Ext: 125-12800)",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-g1-x-mark-iii",
@@ -69822,7 +70774,13 @@
     "videoResolution": "Full HD 60p",
     "burstSpeed": "9fps",
     "image_url": "/images/products/canon/canon-powershot-g1-x-mark-iii.webp",
-    "launchPrice": 33990
+    "launchPrice": 33990,
+    "hasWeatherSeal": true,
+    "processor": "DIGIC 7",
+    "isoRange": "100-25600",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-g5-x-mark-ii",
@@ -69844,7 +70802,13 @@
     "videoResolution": "4K 30p",
     "burstSpeed": "20fps (One-Shot AF) / 30fps (RAW burst)",
     "image_url": "/images/products/canon/canon-powershot-g5-x-mark-ii.webp",
-    "launchPrice": 23990
+    "launchPrice": 23990,
+    "hasWeatherSeal": false,
+    "processor": "DIGIC 8",
+    "isoRange": "125-12800",
+    "ports": "USB 3.2 Gen 1, HDMI",
+    "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-g7-x-mark-iii",
@@ -69869,7 +70833,12 @@
     "burstSpeed": "20fps (One-Shot AF) / 30fps (RAW burst)",
     "retailPrice": 24990,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/canon/canon-powershot-g7-x-mark-iii.webp"
+    "image_url": "/images/products/canon/canon-powershot-g7-x-mark-iii.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-12800",
+    "ports": "USB 3.2 Gen 1, HDMI, mic",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-sx50-hs",
@@ -69893,7 +70862,12 @@
     "hasIBIS": true,
     "processor": "DIGIC 5",
     "launchPrice": 15990,
-    "image_url": "/images/products/canon/canon-powershot-sx50-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx50-hs.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "2.2fps",
+    "isoRange": "80-6400",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-d20",
@@ -69916,7 +70890,11 @@
     "hasWeatherSeal": true,
     "processor": "DIGIC 4",
     "launchPrice": 12990,
-    "image_url": "/images/products/canon/canon-powershot-d20.webp"
+    "image_url": "/images/products/canon/canon-powershot-d20.webp",
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx240-hs",
@@ -69936,7 +70914,13 @@
     "batterySpec": "NB-6L (230 shots CIPA)",
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.4fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-125-hs",
@@ -69955,7 +70939,8 @@
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NB-11L",
     "videoResolution": "Full HD",
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "isoRange": "100-3200"
   },
   {
     "id": "canon-ixus-500-hs",
@@ -69976,7 +70961,13 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "image_url": "/images/products/canon/canon-ixus-500-hs.webp"
+    "image_url": "/images/products/canon/canon-ixus-500-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.8fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x microSD/microSDHC/microSDXC"
   },
   {
     "id": "canon-powershot-sx260-hs",
@@ -69997,7 +70988,13 @@
     "videoResolution": "Full HD 24p",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "image_url": "/images/products/canon/canon-powershot-sx260-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx260-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.4fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-s120",
@@ -70020,7 +71017,12 @@
     "hasIBIS": true,
     "burstSpeed": "12.1fps",
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-s120.webp"
+    "image_url": "/images/products/canon/canon-powershot-s120.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-s200",
@@ -70041,7 +71043,13 @@
     "batterySpec": "NB-6LH (200 shots CIPA)",
     "videoResolution": "HD 720p 24p",
     "hasIBIS": true,
-    "processor": "DIGIC 5"
+    "processor": "DIGIC 5",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "1.9fps",
+    "isoRange": "80-6400",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-n",
@@ -70063,7 +71071,11 @@
     "hasIBIS": true,
     "processor": "DIGIC 5",
     "launchPrice": 10900,
-    "image_url": "/images/products/canon/canon-powershot-n.webp"
+    "image_url": "/images/products/canon/canon-powershot-n.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "2.3fps",
+    "isoRange": "80-6400",
+    "cardSlots": "1x microSD/microSDHC/microSDXC"
   },
   {
     "id": "canon-powershot-sx170-is",
@@ -70083,7 +71095,14 @@
     "batterySpec": "NB-6LH (300 shots CIPA)",
     "videoResolution": "HD 720p",
     "processor": "DIGIC 4",
-    "image_url": "/images/products/canon/canon-powershot-sx170-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx170-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx510-hs",
@@ -70104,7 +71123,13 @@
     "batterySpec": "NB-6LH (250 shots CIPA)",
     "processor": "DIGIC 4",
     "burstSpeed": "3.8fps",
-    "image_url": "/images/products/canon/canon-powershot-sx510-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx510-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx280-hs",
@@ -70126,7 +71151,12 @@
     "hasIBIS": true,
     "burstSpeed": "3.8fps",
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-sx280-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx280-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-6400",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a3500-is",
@@ -70145,7 +71175,14 @@
     "lcdSpec": "3.0-inch 0.23M-dot fixed",
     "batterySpec": "NB-11L (200 shots CIPA)",
     "videoResolution": "HD 720p",
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-135",
@@ -70180,7 +71217,13 @@
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "2x AA",
     "hasIBIS": false,
-    "image_url": "/images/products/canon/canon-powershot-a1400.webp"
+    "image_url": "/images/products/canon/canon-powershot-a1400.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "videoResolution": "HD 720p 25p",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-a2600",
@@ -70218,7 +71261,13 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4",
-    "image_url": "/images/products/canon/canon-ixus-140.webp"
+    "image_url": "/images/products/canon/canon-ixus-140.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx60-hs",
@@ -70241,7 +71290,10 @@
     "hasIBIS": true,
     "burstSpeed": "6.4fps",
     "processor": "DIGIC 6",
-    "image_url": "/images/products/canon/canon-powershot-sx60-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx60-hs.webp",
+    "hasWeatherSeal": false,
+    "isoRange": "100-3200",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx400-is",
@@ -70261,7 +71313,14 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-powershot-sx400-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx400-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-150",
@@ -70281,7 +71340,14 @@
     "videoResolution": "HD 720p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-ixus-150.webp"
+    "image_url": "/images/products/canon/canon-ixus-150.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-n100",
@@ -70300,7 +71366,13 @@
     "batterySpec": "NB-12L (330 shots CIPA)",
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
-    "processor": "DIGIC 6"
+    "processor": "DIGIC 6",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-6400",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-d30",
@@ -70323,7 +71395,12 @@
     "hasWeatherSeal": true,
     "processor": "DIGIC 4",
     "image_url": "/images/products/canon/canon-powershot-d30.webp",
-    "launchPrice": 9990
+    "launchPrice": 9990,
+    "evfMagnification": "None",
+    "burstSpeed": "1.9fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-145",
@@ -70343,7 +71420,14 @@
     "videoResolution": "HD 720p",
     "hasIBIS": false,
     "processor": "DIGIC 4+",
-    "launchPrice": 3490
+    "launchPrice": 3490,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-155",
@@ -70364,7 +71448,14 @@
     "hasIBIS": true,
     "processor": "DIGIC 4+",
     "launchPrice": 4990,
-    "image_url": "/images/products/canon/canon-ixus-155.webp"
+    "image_url": "/images/products/canon/canon-ixus-155.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.8fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx700-hs",
@@ -70386,7 +71477,13 @@
     "videoResolution": "Full HD 60p",
     "burstSpeed": "8.5fps",
     "launchPrice": 10990,
-    "image_url": "/images/products/canon/canon-powershot-sx700-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx700-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-275-hs",
@@ -70407,7 +71504,13 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-ixus-275-hs.webp"
+    "image_url": "/images/products/canon/canon-ixus-275-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "2.5fps",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-powershot-sx410-is",
@@ -70428,7 +71531,13 @@
     "batterySpec": "NB-11LH (185 shots CIPA)",
     "videoResolution": "HD 720p",
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-powershot-sx410-is.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx410-is.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "0.5fps",
+    "isoRange": "100-1600",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "canon-ixus-185",
@@ -70499,7 +71608,11 @@
     "hasIBIS": true,
     "burstSpeed": "15fps (Mech) / 30fps (Elec)",
     "retailPrice": 29900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None",
+    "isoRange": "100-32000 (Ext: 100-51200)",
+    "ports": "USB 2.0, HDMI, mic, headphone",
+    "cardSlots": "1x SD (UHS-II)"
   },
   {
     "id": "canon-powershot-sx520-hs",
