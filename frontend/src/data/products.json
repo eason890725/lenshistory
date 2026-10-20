@@ -49622,7 +49622,15 @@
     "focalLengthMinMm": 60,
     "focalLengthMaxMm": 60,
     "apertureMax": 2.8,
-    "image_url": "/images/products/7artisans/7artisans-60mm-f2-8-aps-c-macro.webp"
+    "image_url": "/images/products/7artisans/7artisans-60mm-f2-8-aps-c-macro.webp",
+    "opticalDesign": "8 elements in 7 groups",
+    "closeFocus": "0.26m",
+    "minAperture": "16",
+    "filterSizeMm": 39,
+    "weightGrams": 550,
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-m-75mm-f1-25",
@@ -49694,7 +49702,9 @@
     "opticalDesign": "6 elements in 5 groups",
     "closeFocus": "0.28m",
     "filterSizeMm": 46,
-    "image_url": "/images/products/7artisans/7artisans-35mm-f1-2-mark-ii-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-35mm-f1-2-mark-ii-aps-c.webp",
+    "weightGrams": 218,
+    "hasApertureRing": true
   },
   {
     "id": "7artisans-35mm-f0-95-aps-c",
@@ -49746,7 +49756,9 @@
     "closeFocus": "0.37m",
     "weightGrams": 369,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-35mm-f0-95-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-35mm-f0-95-aps-c.webp",
+    "filterSizeMm": 52,
+    "specialElements": "2 Ultra-low dispersion"
   },
   {
     "id": "7artisans-18mm-f6-3-aps-c",
@@ -49929,7 +49941,8 @@
     "weightGrams": 358,
     "dimensions": "Ø60 x 65 mm",
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-55mm-f1-4-mark-ii-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-55mm-f1-4-mark-ii-aps-c.webp",
+    "filterSizeMm": 52
   },
   {
     "id": "7artisans-60mm-f2-8-mark-ii-aps-c-macro",
@@ -50036,7 +50049,9 @@
     "closeFocus": "0.45m",
     "filterSizeMm": 62,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-50mm-f0-95-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-50mm-f0-95-aps-c.webp",
+    "weightGrams": 420,
+    "minAperture": "16"
   },
   {
     "id": "7artisans-25mm-f0-95-aps-c",
@@ -50094,7 +50109,8 @@
     "filterSizeMm": 52,
     "weightGrams": 582,
     "dimensions": "Ø63 x 99.7 mm",
-    "image_url": "/images/products/7artisans/7artisans-25mm-f0-95-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-25mm-f0-95-aps-c.webp",
+    "minAperture": "16"
   },
   {
     "id": "7artisans-vision-25mm-t1-05-cine",
@@ -50138,7 +50154,9 @@
     "apertureMax": "T1.05",
     "minAperture": "T16",
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-vision-25mm-t1-05-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-vision-25mm-t1-05-cine.webp",
+    "filterSizeMm": 82,
+    "closeFocus": "0.23m"
   },
   {
     "id": "7artisans-vision-35mm-t1-05-cine",
@@ -50183,7 +50201,8 @@
     "minAperture": "T16",
     "filterSizeMm": 82,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-vision-35mm-t1-05-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-vision-35mm-t1-05-cine.webp",
+    "closeFocus": "0.37m"
   },
   {
     "id": "7artisans-vision-50mm-t1-05-cine",
@@ -50227,7 +50246,10 @@
     "apertureMax": "T1.05",
     "opticalDesign": "7 elements in 5 groups",
     "specialElements": "2 ED",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "filterSizeMm": 82,
+    "minAperture": "T16",
+    "closeFocus": "0.5m"
   },
   {
     "id": "7artisans-m-28mm-f5-6",
@@ -50294,7 +50316,9 @@
     "apertureMax": "T2.0",
     "minAperture": "T22",
     "filterSizeMm": 82,
-    "image_url": "/images/products/7artisans/7artisans-spectrum-35mm-t2-0-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-spectrum-35mm-t2-0-cine.webp",
+    "weightGrams": 675,
+    "closeFocus": "0.28m"
   },
   {
     "id": "7artisans-spectrum-50mm-t2-0-cine",
@@ -50333,7 +50357,9 @@
     "apertureMax": "T2.0",
     "minAperture": "T16",
     "filterSizeMm": 82,
-    "image_url": "/images/products/7artisans/7artisans-spectrum-50mm-t2-0-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-spectrum-50mm-t2-0-cine.webp",
+    "weightGrams": 793,
+    "closeFocus": "0.48m"
   },
   {
     "id": "7artisans-spectrum-85mm-t2-0-cine",
@@ -50372,7 +50398,9 @@
     "apertureMax": "T2.0",
     "minAperture": "T16",
     "filterSizeMm": 82,
-    "image_url": "/images/products/7artisans/7artisans-spectrum-85mm-t2-0-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-spectrum-85mm-t2-0-cine.webp",
+    "weightGrams": 832,
+    "closeFocus": "0.79m"
   },
   {
     "id": "7artisans-m-35mm-f2-mark-ii",
@@ -50481,7 +50509,8 @@
     "apertureMax": 6.3,
     "opticalDesign": "6 elements in 5 groups",
     "closeFocus": "0.3m",
-    "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-mark-ii-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-mark-ii-aps-c.webp",
+    "weightGrams": 58
   },
   {
     "id": "7artisans-15mm-f4",
@@ -50491,7 +50520,12 @@
     "gearType": "LENS",
     "releaseYear": 2023,
     "releaseMonth": 4,
-    "image_url": "/images/products/7artisans/7artisans-15mm-f4.webp"
+    "image_url": "/images/products/7artisans/7artisans-15mm-f4.webp",
+    "filterSizeMm": 77,
+    "weightGrams": 536,
+    "minAperture": "22",
+    "closeFocus": "0.4m",
+    "specialElements": "2 Aspherical"
   },
   {
     "id": "7artisans-24mm-f1-4-aps-c",
@@ -50501,7 +50535,10 @@
     "gearType": "LENS",
     "releaseYear": 2023,
     "releaseMonth": 5,
-    "image_url": "/images/products/7artisans/7artisans-24mm-f1-4-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-24mm-f1-4-aps-c.webp",
+    "weightGrams": 344,
+    "minAperture": "16",
+    "closeFocus": "0.3m"
   },
   {
     "id": "7artisans-9mm-f5-6",
@@ -50538,7 +50575,10 @@
     "focalLengthMinMm": 9,
     "focalLengthMaxMm": 9,
     "apertureMax": 5.6,
-    "image_url": "/images/products/7artisans/7artisans-9mm-f5-6.webp"
+    "image_url": "/images/products/7artisans/7artisans-9mm-f5-6.webp",
+    "weightGrams": 463,
+    "minAperture": "22",
+    "closeFocus": "0.2m"
   },
   {
     "id": "7artisans-spectrum-14mm-t2-9-cine",
@@ -50651,7 +50691,12 @@
     "focalLengthMinMm": 10,
     "focalLengthMaxMm": 10,
     "apertureMax": "T2.1",
-    "image_url": "/images/products/7artisans/7artisans-hope-10mm-t2-1-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-hope-10mm-t2-1-cine.webp",
+    "filterSizeMm": 77,
+    "weightGrams": 620,
+    "opticalDesign": "15 elements in 12 groups",
+    "minAperture": "T22",
+    "closeFocus": "0.3m"
   },
   {
     "id": "7artisans-hope-16mm-t2-1-cine",
@@ -50687,7 +50732,11 @@
     ],
     "focalLengthMinMm": 16,
     "focalLengthMaxMm": 16,
-    "apertureMax": "T2.1"
+    "apertureMax": "T2.1",
+    "filterSizeMm": 77,
+    "weightGrams": 706,
+    "minAperture": "T22",
+    "closeFocus": "0.25m"
   },
   {
     "id": "7artisans-hope-25mm-t2-1-cine",
@@ -50724,7 +50773,11 @@
     "focalLengthMinMm": 25,
     "focalLengthMaxMm": 25,
     "apertureMax": "T2.1",
-    "image_url": "/images/products/7artisans/7artisans-hope-25mm-t2-1-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-hope-25mm-t2-1-cine.webp",
+    "filterSizeMm": 77,
+    "weightGrams": 712,
+    "minAperture": "T22",
+    "closeFocus": "0.25m"
   },
   {
     "id": "7artisans-hope-35mm-t2-1-cine",
@@ -50761,7 +50814,11 @@
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "apertureMax": "T2.1",
-    "image_url": "/images/products/7artisans/7artisans-hope-35mm-t2-1-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-hope-35mm-t2-1-cine.webp",
+    "filterSizeMm": 77,
+    "weightGrams": 602,
+    "minAperture": "T22",
+    "closeFocus": "0.51m"
   },
   {
     "id": "7artisans-hope-50mm-t2-1-cine",
@@ -50798,7 +50855,11 @@
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": "T2.1",
-    "image_url": "/images/products/7artisans/7artisans-hope-50mm-t2-1-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-hope-50mm-t2-1-cine.webp",
+    "filterSizeMm": 77,
+    "weightGrams": 705,
+    "minAperture": "T22",
+    "closeFocus": "0.6m"
   },
   {
     "id": "7artisans-hope-85mm-t2-1-cine",
@@ -50952,7 +51013,9 @@
     "focalLengthMaxMm": 50,
     "apertureMax": 1.2,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-50mm-f1-2-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-50mm-f1-2-aps-c.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-m-75mm-f1-25-mark-ii",
@@ -51002,7 +51065,10 @@
     "closeFocus": "0.7m",
     "filterSizeMm": 34,
     "weightGrams": 88,
-    "image_url": "/images/products/7artisans/7artisans-m-35mm-f2-8.webp"
+    "image_url": "/images/products/7artisans/7artisans-m-35mm-f2-8.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "4 high-index glass elements"
   },
   {
     "id": "laowa-7-5mm-f2-mft",
@@ -52929,7 +52995,8 @@
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-35mm-f0-95-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-35mm-f0-95-apsc-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-12mm-f2-apsc-mf",
@@ -52978,7 +53045,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-12mm-f2-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-12mm-f2-apsc-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-8mm-f2-8-mft-mf",
@@ -53007,7 +53075,8 @@
     "sensorFormat": "Four Thirds",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-8mm-f2-8-mft-mf.webp"
+    "image_url": "/images/products/meike/meike-8mm-f2-8-mft-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-7-5mm-f2-8-apsc-fisheye-mf",
@@ -53055,7 +53124,8 @@
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-7-5mm-f2-8-apsc-fisheye-mf.webp"
+    "image_url": "/images/products/meike/meike-7-5mm-f2-8-apsc-fisheye-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-50mm-f0-95-apsc-mf",
@@ -53103,7 +53173,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-50mm-f0-95-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-50mm-f0-95-apsc-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-25mm-f0-95-apsc-mf",
@@ -53156,7 +53227,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-25mm-f0-95-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-25mm-f0-95-apsc-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-50mm-f1-2-ff-mf",
@@ -53199,7 +53271,9 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-50mm-f1-2-ff-mf.webp"
+    "image_url": "/images/products/meike/meike-50mm-f1-2-ff-mf.webp",
+    "hasCustomButton": false,
+    "coatings": "multi-layer coatings"
   },
   {
     "id": "meike-10mm-f2-apsc-mf",
@@ -53240,7 +53314,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-10mm-f2-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-10mm-f2-apsc-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-60mm-f2-8-apsc-macro-mf",
@@ -53268,7 +53343,8 @@
         }
       }
     ],
-    "image_url": "/images/products/meike/meike-60mm-f2-8-apsc-macro-mf.webp"
+    "image_url": "/images/products/meike/meike-60mm-f2-8-apsc-macro-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-12mm-f2-8-apsc-mf",
@@ -53311,7 +53387,9 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-12mm-f2-8-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-12mm-f2-8-apsc-mf.webp",
+    "hasCustomButton": false,
+    "coatings": "Multi-layer Coating"
   },
   {
     "id": "meike-8mm-f3-5-fisheye-mf",
@@ -53347,7 +53425,8 @@
       }
     ],
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-8mm-f3-5-fisheye-mf.webp"
+    "image_url": "/images/products/meike/meike-8mm-f3-5-fisheye-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-35mm-f1-7-apsc-mf",
@@ -53423,7 +53502,14 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-50mm-f2-apsc-mf.webp"
+    "image_url": "/images/products/meike/meike-50mm-f2-apsc-mf.webp",
+    "hasCustomButton": false,
+    "coatings": "Nano technology multi-layer coating",
+    "maxMagnification": "0.08x",
+    "minAperture": "22",
+    "filterSizeMm": 49,
+    "opticalDesign": "6 elements in 5 groups",
+    "weightGrams": 188
   },
   {
     "id": "meike-6-5mm-f2-fisheye-mf",
@@ -53465,7 +53551,8 @@
     ],
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-6-5mm-f2-fisheye-mf.webp"
+    "image_url": "/images/products/meike/meike-6-5mm-f2-fisheye-mf.webp",
+    "hasCustomButton": false
   },
   {
     "id": "meike-85mm-f2-8-macro-ff-mf",
@@ -53515,7 +53602,9 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-85mm-f2-8-macro-ff-mf.webp"
+    "image_url": "/images/products/meike/meike-85mm-f2-8-macro-ff-mf.webp",
+    "hasCustomButton": false,
+    "coatings": "nano technology multi-layer coating"
   },
   {
     "id": "meike-50mm-f1-7-ff-mf",
@@ -53568,7 +53657,9 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/meike/meike-50mm-f1-7-ff-mf.webp"
+    "image_url": "/images/products/meike/meike-50mm-f1-7-ff-mf.webp",
+    "hasCustomButton": false,
+    "coatings": "multi-layer coatings"
   },
   {
     "id": "meike-6-11mm-f3-5-fisheye-zoom-mf",
@@ -53931,7 +54022,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "motorType": "DSM"
+    "motorType": "DSM",
+    "coatings": "Nanometer multi-layer coating"
   },
   {
     "id": "yongnuo-yn11mm-f1-8s-da-dsm-wl",
@@ -54610,7 +54702,8 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "hasApertureRing": true
   },
   {
     "id": "sirui-night-walker-35mm-t1-2",
@@ -54657,7 +54750,8 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "hasApertureRing": true
   },
   {
     "id": "sirui-night-walker-55mm-t1-2",
@@ -54704,7 +54798,8 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "hasApertureRing": true
   },
   {
     "id": "sirui-night-walker-16mm-t1-2",
@@ -56407,7 +56502,8 @@
     "dimensions": "144.2 x 44.4 x 33.5 mm",
     "weightGrams": 191,
     "launchPrice": 14690,
-    "image_url": "/images/products/dji/dji-osmo-pocket-4.webp"
+    "image_url": "/images/products/dji/dji-osmo-pocket-4.webp",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-pocket-4p",
@@ -56430,7 +56526,8 @@
     "dimensions": "159.5 x 63.3 x 33.5 mm",
     "weightGrams": 230,
     "launchPrice": 19290,
-    "image_url": "/images/products/dji/dji-osmo-pocket-4p.webp"
+    "image_url": "/images/products/dji/dji-osmo-pocket-4p.webp",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-360-ii",
@@ -56479,7 +56576,9 @@
     "dimensions": "72.8 x 47.2 x 33.1 mm",
     "weightGrams": 149,
     "launchPrice": 15290,
-    "image_url": "/images/products/dji/dji-osmo-action-6.webp"
+    "image_url": "/images/products/dji/dji-osmo-action-6.webp",
+    "sensorType": "CMOS",
+    "logSupport": "D-Log M"
   },
   {
     "id": "dji-osmo-nano",
@@ -56554,7 +56653,9 @@
     "weightGrams": 146,
     "retailPrice": 9690,
     "image_url": "/images/products/dji/dji-osmo-action-5-pro.webp",
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorType": "CMOS",
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-pocket-3",
@@ -56578,7 +56679,8 @@
     "weightGrams": 179,
     "retailPrice": 10590,
     "image_url": "/images/products/dji/dji-osmo-pocket-3.webp",
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-action-4",
@@ -56602,7 +56704,9 @@
     "weightGrams": 145,
     "retailPrice": 7090,
     "image_url": "/images/products/dji/dji-osmo-action-4.webp",
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorType": "CMOS",
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-action-3",
@@ -56717,7 +56821,10 @@
     "dimensions": "121.9 x 36.9 x 28.6 mm",
     "weightGrams": 116,
     "image_url": "/images/products/dji/dji-osmo-pocket.webp",
-    "launchPrice": 12500
+    "launchPrice": 12500,
+    "sensorType": "CMOS",
+    "ports": "USB-C",
+    "hasWeatherSeal": false
   },
   {
     "id": "insta360-x6",
@@ -60414,7 +60521,8 @@
     "weightGrams": 200,
     "hasIBIS": true,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/pentax/pentax-q.webp"
+    "image_url": "/images/products/pentax/pentax-q.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "pentax-q10",
@@ -60477,7 +60585,9 @@
     "coatings": "SP Coating",
     "dimensions": "Ø45.5 x 23 mm",
     "weightGrams": 37,
-    "image_url": "/images/products/pentax/pentax-01-standard-prime-8-5mm-f1-9.webp"
+    "image_url": "/images/products/pentax/pentax-01-standard-prime-8-5mm-f1-9.webp",
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "pentax-02-standard-zoom-5-15mm-f2-8-4-5",
@@ -60507,7 +60617,9 @@
     "coatings": "SP Coating",
     "dimensions": "Ø48.5 x 48 mm",
     "weightGrams": 96,
-    "image_url": "/images/products/pentax/pentax-02-standard-zoom-5-15mm-f2-8-4-5.webp"
+    "image_url": "/images/products/pentax/pentax-02-standard-zoom-5-15mm-f2-8-4-5.webp",
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "pentax-03-fish-eye-3-2mm-f5-6",
@@ -60538,7 +60650,9 @@
     "motorType": "Manual focus",
     "dimensions": "Ø40.6 x 30.5 mm",
     "weightGrams": 29,
-    "image_url": "/images/products/pentax/pentax-03-fish-eye-3-2mm-f5-6.webp"
+    "image_url": "/images/products/pentax/pentax-03-fish-eye-3-2mm-f5-6.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "pentax-04-toy-lens-wide-6-3mm-f7-1",
@@ -60569,7 +60683,9 @@
     "motorType": "Manual focus",
     "dimensions": "Ø40.6 x 25 mm",
     "weightGrams": 21,
-    "image_url": "/images/products/pentax/pentax-04-toy-lens-wide-6-3mm-f7-1.webp"
+    "image_url": "/images/products/pentax/pentax-04-toy-lens-wide-6-3mm-f7-1.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "pentax-05-toy-lens-telephoto-18mm-f8",
@@ -60600,7 +60716,9 @@
     "motorType": "Manual focus",
     "dimensions": "Ø40.6 x 19.5 mm",
     "weightGrams": 18,
-    "image_url": "/images/products/pentax/pentax-05-toy-lens-telephoto-18mm-f8.webp"
+    "image_url": "/images/products/pentax/pentax-05-toy-lens-telephoto-18mm-f8.webp",
+    "hasApertureRing": false,
+    "hasCustomButton": false
   },
   {
     "id": "pentax-06-telephoto-zoom-15-45mm-f2-8",
@@ -60631,7 +60749,8 @@
     "coatings": "SP Coating",
     "dimensions": "Ø50 x 56 mm",
     "weightGrams": 90,
-    "image_url": "/images/products/pentax/pentax-06-telephoto-zoom-15-45mm-f2-8.webp"
+    "image_url": "/images/products/pentax/pentax-06-telephoto-zoom-15-45mm-f2-8.webp",
+    "hasApertureRing": false
   },
   {
     "id": "pentax-q7",
@@ -60722,7 +60841,9 @@
     "coatings": "SP Coating",
     "dimensions": "Ø54 x 38 mm",
     "weightGrams": 75,
-    "image_url": "/images/products/pentax/pentax-08-wide-zoom-3-8-5-9mm-f3-7-4.webp"
+    "image_url": "/images/products/pentax/pentax-08-wide-zoom-3-8-5-9mm-f3-7-4.webp",
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "pentax-q-s1",
@@ -60754,7 +60875,9 @@
     "weightGrams": 203,
     "hasIBIS": true,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/pentax/pentax-q-s1.webp"
+    "image_url": "/images/products/pentax/pentax-q-s1.webp",
+    "evfMagnification": "None",
+    "processor": "Q Engine"
   },
   {
     "id": "yi-m1",
@@ -60785,7 +60908,8 @@
     "weightGrams": 281,
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "image_url": "/images/products/yi/yi-m1.webp"
+    "image_url": "/images/products/yi/yi-m1.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "yi-12-40mm-f3-5-5-6",
@@ -61357,7 +61481,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "dimensions": "Ø70 x 92 mm"
   },
   {
     "id": "kamlan-55mm-f1-4",
@@ -61394,7 +61519,8 @@
         }
       }
     ],
-    "image_url": "/images/products/kamlan/kamlan-55mm-f1-4.webp"
+    "image_url": "/images/products/kamlan/kamlan-55mm-f1-4.webp",
+    "hasApertureRing": true
   },
   {
     "id": "kamlan-70mm-f1-1",
@@ -63371,7 +63497,13 @@
     "batterySpec": "NP-45S",
     "hasWeatherSeal": true,
     "releaseMonth": 2,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp140.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp140.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI",
+    "isoRange": "100-12800"
   },
   {
     "id": "fujifilm-finepix-xp130",
@@ -63391,7 +63523,14 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S (240 shots)",
     "releaseMonth": 1,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp130.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp130.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI",
+    "isoRange": "100-3200 (Ext: 6400)",
+    "hasWeatherSeal": true
   },
   {
     "id": "fujifilm-finepix-xp120",
@@ -63411,7 +63550,14 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S (210 shots)",
     "releaseMonth": 1,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp120.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp120.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI",
+    "isoRange": "100-6400",
+    "hasWeatherSeal": true
   },
   {
     "id": "olympus-stylus-xz-10",
@@ -63976,7 +64122,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "LI-50B",
     "isoRange": "125-6400",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "TruePic VII",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "olympus-stylus-sh-3",
@@ -64040,7 +64192,14 @@
     "batterySpec": "LI-92B (340 shots CIPA)",
     "hasWeatherSeal": true,
     "image_url": "/images/products/om-system/olympus-tough-tg-5.webp",
-    "launchPrice": 15990
+    "launchPrice": 15990,
+    "evfMagnification": "None",
+    "processor": "TruePic VIII",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-1600 (Ext: 100-12800)",
+    "burstSpeed": "20fps",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "olympus-tough-tg-6",
@@ -64062,7 +64221,14 @@
     "lcdSpec": "3.0-inch 1.04M-dot",
     "batterySpec": "LI-92B (340 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/om-system/olympus-tough-tg-6.webp"
+    "image_url": "/images/products/om-system/olympus-tough-tg-6.webp",
+    "evfMagnification": "None",
+    "processor": "TruePic VIII",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "20fps",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "om-system-tough-tg-7",
@@ -64109,7 +64275,12 @@
     "batterySpec": "NP-50 (270 shots CIPA)",
     "isoRange": "100-12800",
     "burstSpeed": "12fps",
-    "image_url": "/images/products/fujifilm/fujifilm-x20.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x20.webp",
+    "hasWeatherSeal": false,
+    "processor": "EXR Processor II",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-xf1",
@@ -64129,7 +64300,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NP-50",
-    "image_url": "/images/products/fujifilm/fujifilm-xf1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf1.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "EXR CMOS",
+    "isoRange": "200-6400 (Ext: 100-25600)",
+    "burstSpeed": "7fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-xq1",
@@ -64150,7 +64328,12 @@
     "batterySpec": "NP-48 (240 shots CIPA)",
     "isoRange": "100-12800",
     "burstSpeed": "12fps",
-    "image_url": "/images/products/fujifilm/fujifilm-xq1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xq1.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-xq2",
@@ -64169,7 +64352,15 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-48 (240 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-xq2.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xq2.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "EXR Processor II",
+    "sensorType": "CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "12fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-x30",
@@ -64191,7 +64382,14 @@
     "evfMagnification": "0.65x",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-95 (470 shots)",
-    "image_url": "/images/products/fujifilm/fujifilm-x30.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x30.webp",
+    "hasWeatherSeal": false,
+    "processor": "EXR Processor II",
+    "sensorType": "CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "12fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-x70",
@@ -64211,7 +64409,14 @@
     "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
     "batterySpec": "NP-95 (330 shots)",
     "isoRange": "200-6400 (Ext: 100-51200)",
-    "image_url": "/images/products/fujifilm/fujifilm-x70.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-x70.webp",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false,
+    "processor": "EXR Processor II",
+    "sensorType": "CMOS",
+    "burstSpeed": "8fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-xf10",
@@ -64231,7 +64436,14 @@
     "lcdSpec": "3.0-inch 1.04M-dot fixed touch",
     "batterySpec": "NP-95 (330 shots CIPA)",
     "image_url": "/images/products/fujifilm/fujifilm-xf10.webp",
-    "launchPrice": 14990
+    "launchPrice": 14990,
+    "evfMagnification": "None",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "isoRange": "200-12800 (Ext: 100-51200)",
+    "burstSpeed": "6fps",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "ports": "USB 2.0, HDMI, mic"
   },
   {
     "id": "fujifilm-finepix-xp80",
@@ -64251,7 +64463,13 @@
     "lcdSpec": "2.7-inch 0.46M-dot fixed",
     "batterySpec": "NP-45S (210 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp80.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp80.webp",
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "isoRange": "100-3200 (Ext: 6400)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-xp90",
@@ -64270,7 +64488,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-45S (210 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-3200",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-xp70",
@@ -64290,7 +64514,13 @@
     "lcdSpec": "2.7-inch 0.46M-dot fixed",
     "batterySpec": "NP-45S (210 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp70.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp70.webp",
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "isoRange": "100-6400",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-xp200",
@@ -64310,7 +64540,12 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-50A (300 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp200.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp200.webp",
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "isoRange": "100-6400",
+    "burstSpeed": "3fps",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "fujifilm-finepix-xp60",
@@ -64328,7 +64563,12 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp60.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp60.webp",
+    "evfMagnification": "None",
+    "sensorType": "CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s9800",
@@ -64348,7 +64588,13 @@
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "4x AA (300 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9800.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9800.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s9900w",
@@ -64368,7 +64614,13 @@
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "4x AA (300 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9900w.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9900w.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s9200",
@@ -64388,7 +64640,13 @@
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "4x AA (500 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9200.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9200.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s9400w",
@@ -64408,7 +64666,13 @@
     "evfResolution": "0.2M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "4x AA (500 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9400w.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s9400w.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s8600",
@@ -64448,7 +64712,12 @@
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle",
     "batterySpec": "NP-85 (350 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-s1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-s1.webp",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-12800",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC + internal memory",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s4800",
@@ -64522,7 +64791,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-50A (260 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-f900exr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-f900exr.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "EXR CMOS",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "burstSpeed": "11fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "evfMagnification": "None",
+    "processor": "EXR II"
   },
   {
     "id": "fujifilm-finepix-s8200",
@@ -64560,7 +64836,10 @@
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "Li-ion (350 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-sl1000.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-sl1000.webp",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "fujifilm-finepix-hs50exr",
@@ -64579,7 +64858,11 @@
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle",
     "batterySpec": "Li-ion (500 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-hs50exr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-hs50exr.webp",
+    "processor": "EXR Processor II",
+    "sensorType": "EXR CMOS",
+    "burstSpeed": "11fps",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "fujifilm-finepix-hs35exr",
@@ -64598,7 +64881,13 @@
     "hasIBIS": true,
     "evfResolution": "0.92M-dot",
     "lcdSpec": "3.0-inch 0.46M-dot tilting",
-    "batterySpec": "NP-W126 (600 shots)"
+    "batterySpec": "NP-W126 (600 shots)",
+    "hasWeatherSeal": false,
+    "processor": "EXR",
+    "sensorType": "EXR CMOS",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "burstSpeed": "11fps",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "fujifilm-finepix-f800exr",
@@ -64617,7 +64906,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NP-50A (300 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-f800exr.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-f800exr.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "EXR CMOS",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "burstSpeed": "11fps",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "evfMagnification": "None",
+    "processor": "EXR"
   },
   {
     "id": "fujifilm-finepix-f660exr",
@@ -64635,7 +64931,14 @@
     "videoResolution": "Full HD 30p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
-    "batterySpec": "NP-50A (300 shots CIPA)"
+    "batterySpec": "NP-50A (300 shots CIPA)",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false,
+    "processor": "EXR",
+    "sensorType": "EXR CMOS",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "burstSpeed": "11fps",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "fujifilm-finepix-sl300",
@@ -64760,7 +65063,12 @@
     "ports": "USB-C",
     "dimensions": "111.2 x 66.4 x 45.2 mm",
     "weightGrams": 337,
-    "image_url": "/images/products/panasonic/panasonic-lumix-zs300.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs300.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Venus Engine",
+    "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
+    "batterySpec": "DMW-BLG10 (360 shots CIPA)"
   },
   {
     "id": "panasonic-lumix-lx100",
@@ -64875,7 +65183,8 @@
     "weightGrams": 508,
     "image_url": "/images/products/panasonic/panasonic-lumix-l10.webp",
     "retailPrice": 49900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": false
   },
   {
     "id": "panasonic-lumix-lf1",
@@ -65901,7 +66210,8 @@
     "dimensions": "117.0 x 61.0 x 34.7 mm",
     "weightGrams": 245,
     "image_url": "/images/products/ricoh/ricoh-gr.webp",
-    "launchPrice": 28900
+    "launchPrice": 28900,
+    "hasWeatherSeal": false
   },
   {
     "id": "ricoh-gr-ii",
@@ -65925,7 +66235,10 @@
     "ports": "USB/AV, HDMI",
     "dimensions": "117.0 x 62.8 x 34.7 mm",
     "weightGrams": 251,
-    "image_url": "/images/products/ricoh/ricoh-gr-ii.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-ii.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "processor": "GR Engine V"
   },
   {
     "id": "ricoh-gr-iii",
@@ -65950,7 +66263,9 @@
     "ports": "USB-C",
     "dimensions": "109.4 x 61.9 x 33.2 mm",
     "weightGrams": 257,
-    "image_url": "/images/products/ricoh/ricoh-gr-iii.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iii.webp",
+    "burstSpeed": "4fps",
+    "processor": "GR ENGINE 6"
   },
   {
     "id": "ricoh-gr-iiix",
@@ -65976,7 +66291,8 @@
     "weightGrams": 262,
     "retailPrice": 34900,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/ricoh/ricoh-gr-iiix.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iiix.webp",
+    "processor": "GR Engine 6"
   },
   {
     "id": "ricoh-gr-iii-hdf",
@@ -65992,7 +66308,18 @@
     "megapixels": "24.2MP",
     "hasIBIS": true,
     "image_url": "/images/products/ricoh/ricoh-gr-iii-hdf.webp",
-    "launchPrice": 32900
+    "launchPrice": 32900,
+    "ibisRating": "4 stops",
+    "processor": "GR ENGINE 6",
+    "isoRange": "100-102400",
+    "sensorType": "CMOS",
+    "lcdSpec": "3.0-inch 1.037M-dot touch",
+    "batterySpec": "DB-110 (200 shots CIPA)",
+    "cardSlots": "1x SD (UHS-I)",
+    "ports": "USB-C",
+    "dimensions": "109.4 x 61.9 x 33.2 mm",
+    "weightGrams": 257,
+    "videoResolution": "Full HD 60p"
   },
   {
     "id": "ricoh-gr-iiix-hdf",
@@ -66008,7 +66335,18 @@
     "megapixels": "24.2MP",
     "hasIBIS": true,
     "image_url": "/images/products/ricoh/ricoh-gr-iiix-hdf.webp",
-    "launchPrice": 33900
+    "launchPrice": 33900,
+    "ibisRating": "4 stops",
+    "processor": "GR ENGINE 6",
+    "isoRange": "100-102400",
+    "sensorType": "CMOS",
+    "lcdSpec": "3.0-inch 1.037M-dot touch",
+    "batterySpec": "DB-110 (200 shots CIPA)",
+    "cardSlots": "1x SD (UHS-I)",
+    "ports": "USB-C",
+    "dimensions": "109.4 x 61.9 x 35.2 mm",
+    "weightGrams": 262,
+    "videoResolution": "Full HD 60p"
   },
   {
     "id": "ricoh-gr-iv",
@@ -66035,7 +66373,8 @@
     "weightGrams": 262,
     "retailPrice": 45900,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/ricoh/ricoh-gr-iv.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iv.webp",
+    "processor": "GR ENGINE 7"
   },
   {
     "id": "ricoh-gr-iv-hdf",
@@ -66050,7 +66389,18 @@
     "sensorFormat": "APS-C",
     "megapixels": "25.7MP",
     "hasIBIS": true,
-    "image_url": "/images/products/ricoh/ricoh-gr-iv-hdf.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iv-hdf.webp",
+    "ibisRating": "6 stops",
+    "processor": "GR ENGINE 7",
+    "isoRange": "100-204800",
+    "sensorType": "BSI CMOS",
+    "lcdSpec": "3.0-inch 1.037M-dot touch",
+    "batterySpec": "DB-120 (250 shots CIPA)",
+    "cardSlots": "1x microSD (UHS-I)",
+    "ports": "USB-C",
+    "dimensions": "109.4 x 61.1 x 32.7 mm",
+    "weightGrams": 262,
+    "videoResolution": "Full HD 60p"
   },
   {
     "id": "ricoh-gr-iv-monochrome",
@@ -66076,7 +66426,9 @@
     "weightGrams": 262,
     "retailPrice": 62800,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/ricoh/ricoh-gr-iv-monochrome.webp"
+    "image_url": "/images/products/ricoh/ricoh-gr-iv-monochrome.webp",
+    "processor": "GR ENGINE 7",
+    "ibisRating": "6 stops"
   },
   {
     "id": "pentax-optio-wg-2",
@@ -66100,7 +66452,10 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 194,
-    "image_url": "/images/products/pentax/pentax-optio-wg-2.webp"
+    "image_url": "/images/products/pentax/pentax-optio-wg-2.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "1fps",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "pentax-wg-10",
@@ -66124,7 +66479,9 @@
     "hasWeatherSeal": true,
     "dimensions": "115.5 x 58.5 x 28.5 mm",
     "weightGrams": 166,
-    "image_url": "/images/products/pentax/pentax-wg-10.webp"
+    "image_url": "/images/products/pentax/pentax-wg-10.webp",
+    "evfMagnification": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "pentax-wg-3",
@@ -66148,7 +66505,9 @@
     "hasWeatherSeal": true,
     "dimensions": "125 x 64.5 x 32 mm",
     "weightGrams": 229,
-    "image_url": "/images/products/pentax/pentax-wg-3.webp"
+    "image_url": "/images/products/pentax/pentax-wg-3.webp",
+    "evfMagnification": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "ricoh-wg-4",
@@ -66173,7 +66532,9 @@
     "hasWeatherSeal": true,
     "dimensions": "125 x 64.5 x 32 mm",
     "weightGrams": 229,
-    "image_url": "/images/products/ricoh/ricoh-wg-4.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-4.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "1.5fps"
   },
   {
     "id": "ricoh-wg-20",
@@ -66198,7 +66559,9 @@
     "hasWeatherSeal": true,
     "dimensions": "115.5 x 58.5 x 28.5 mm",
     "weightGrams": 164,
-    "image_url": "/images/products/ricoh/ricoh-wg-20.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-20.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "0.7fps"
   },
   {
     "id": "ricoh-wg-m1",
@@ -66222,7 +66585,9 @@
     "hasWeatherSeal": true,
     "dimensions": "66.5 x 42.5 x 89.5 mm",
     "weightGrams": 190,
-    "image_url": "/images/products/ricoh/ricoh-wg-m1.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-m1.webp",
+    "evfMagnification": "None",
+    "isoRange": "100-800"
   },
   {
     "id": "ricoh-wg-30",
@@ -66247,7 +66612,8 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 192,
-    "image_url": "/images/products/ricoh/ricoh-wg-30.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-30.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "ricoh-wg-5-gps",
@@ -66271,7 +66637,8 @@
     "ports": "USB 2.0 (AV), micro HDMI",
     "hasWeatherSeal": true,
     "dimensions": "125 x 64.5 x 32 mm",
-    "weightGrams": 236
+    "weightGrams": 236,
+    "evfMagnification": "None"
   },
   {
     "id": "ricoh-wg-40",
@@ -66343,7 +66710,9 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 193,
-    "image_url": "/images/products/ricoh/ricoh-wg-50.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-50.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "8fps"
   },
   {
     "id": "ricoh-wg-60",
@@ -66368,7 +66737,8 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 193,
-    "image_url": "/images/products/ricoh/ricoh-wg-60.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-60.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "ricoh-wg-6",
@@ -66393,7 +66763,8 @@
     "hasWeatherSeal": true,
     "dimensions": "118.2 x 65.5 x 33.1 mm",
     "weightGrams": 246,
-    "image_url": "/images/products/ricoh/ricoh-wg-6.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-6.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "ricoh-wg-70",
@@ -66466,7 +66837,8 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 194,
-    "image_url": "/images/products/ricoh/ricoh-wg-80.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-80.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "pentax-wg-90",
@@ -66493,7 +66865,8 @@
     "weightGrams": 194,
     "retailPrice": 11900,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/pentax/pentax-wg-90.webp"
+    "image_url": "/images/products/pentax/pentax-wg-90.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "pentax-wg-8",
@@ -66520,7 +66893,8 @@
     "weightGrams": 242,
     "retailPrice": 14900,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/pentax/pentax-wg-8.webp"
+    "image_url": "/images/products/pentax/pentax-wg-8.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "pentax-wg-1000",
@@ -66691,7 +67065,10 @@
     "ports": "USB 2.0 (PC/AV), micro HDMI",
     "dimensions": "122.5 x 60 x 51.5 mm",
     "weightGrams": 391,
-    "image_url": "/images/products/pentax/pentax-mx-1.webp"
+    "image_url": "/images/products/pentax/pentax-mx-1.webp",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false,
+    "burstSpeed": "1fps"
   },
   {
     "id": "pentax-optio-vs20",
@@ -66714,7 +67091,11 @@
     "batterySpec": "D-LI122 (200 shots CIPA)",
     "dimensions": "112 x 61.5 x 38.5 mm",
     "weightGrams": 234,
-    "image_url": "/images/products/pentax/pentax-optio-vs20.webp"
+    "image_url": "/images/products/pentax/pentax-optio-vs20.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "1fps",
+    "ports": "USB 2.0",
+    "hasWeatherSeal": false
   },
   {
     "id": "pentax-optio-ls465",
@@ -66762,7 +67143,9 @@
     "ports": "USB 2.0, micro HDMI, DC in",
     "dimensions": "120 x 86.5 x 106.5 mm",
     "weightGrams": 599,
-    "image_url": "/images/products/pentax/pentax-x-5.webp"
+    "image_url": "/images/products/pentax/pentax-x-5.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "10fps"
   },
   {
     "id": "pentax-xg-1",
@@ -66787,7 +67170,9 @@
     "ports": "USB 2.0 (AV), micro HDMI",
     "dimensions": "119 x 89 x 97.5 mm",
     "weightGrams": 567,
-    "image_url": "/images/products/pentax/pentax-xg-1.webp"
+    "image_url": "/images/products/pentax/pentax-xg-1.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "9fps"
   },
   {
     "id": "pentax-efina",
@@ -66810,7 +67195,10 @@
     "batterySpec": "D-LI108 (200 shots CIPA)",
     "dimensions": "87.0 x 54.0 x 20.5 mm",
     "weightGrams": 108,
-    "image_url": "/images/products/pentax/pentax-efina.webp"
+    "image_url": "/images/products/pentax/pentax-efina.webp",
+    "evfMagnification": "None",
+    "hasWeatherSeal": false,
+    "ports": "USB 2.0"
   },
   {
     "id": "leica-x2",
@@ -66831,7 +67219,10 @@
     "cardSlots": "1x SD/SDHC",
     "batterySpec": "Li-ion (450 shots CIPA)",
     "weightGrams": 345,
-    "image_url": "/images/products/leica/leica-x2.webp"
+    "image_url": "/images/products/leica/leica-x2.webp",
+    "hasWeatherSeal": false,
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-x-vario-typ-107",
@@ -66855,7 +67246,8 @@
     "batterySpec": "BP-DC8 (450 shots CIPA)",
     "weightGrams": 680,
     "image_url": "/images/products/leica/leica-x-vario-typ-107.webp",
-    "launchPrice": 98000
+    "launchPrice": 98000,
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-x-typ-113",
@@ -66877,7 +67269,10 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "BP-DC8 (350 shots CIPA)",
     "weightGrams": 486,
-    "image_url": "/images/products/leica/leica-x-typ-113.webp"
+    "image_url": "/images/products/leica/leica-x-typ-113.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-x-u-typ-113",
@@ -66902,7 +67297,9 @@
     "hasWeatherSeal": true,
     "weightGrams": 635,
     "image_url": "/images/products/leica/leica-x-u-typ-113.webp",
-    "launchPrice": 120000
+    "launchPrice": 120000,
+    "evfMagnification": "None",
+    "ports": "USB 2.0"
   },
   {
     "id": "leica-d-lux-6",
@@ -66925,7 +67322,10 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "Li-ion (330 shots CIPA)",
     "weightGrams": 298,
-    "image_url": "/images/products/leica/leica-d-lux-6.webp"
+    "image_url": "/images/products/leica/leica-d-lux-6.webp",
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-d-lux-typ-109",
@@ -66949,7 +67349,9 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "batterySpec": "Li-ion (300 shots CIPA)",
     "weightGrams": 405,
-    "image_url": "/images/products/leica/leica-d-lux-typ-109.webp"
+    "image_url": "/images/products/leica/leica-d-lux-typ-109.webp",
+    "hasWeatherSeal": false,
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-d-lux-7",
@@ -66972,7 +67374,10 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "batterySpec": "BP-DC15 (340 shots CIPA)",
     "weightGrams": 403,
-    "image_url": "/images/products/leica/leica-d-lux-7.webp"
+    "image_url": "/images/products/leica/leica-d-lux-7.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.7x",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-d-lux-8",
@@ -66995,7 +67400,11 @@
     "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
     "weightGrams": 397,
     "image_url": "/images/products/leica/leica-d-lux-8.webp",
-    "launchPrice": 58500
+    "launchPrice": 58500,
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.74x",
+    "ports": "USB 3.0, HDMI",
+    "cardSlots": "1x SD (UHS-II)"
   },
   {
     "id": "leica-c-lux",
@@ -67019,7 +67428,10 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "batterySpec": "Li-ion (370 shots CIPA)",
     "weightGrams": 340,
-    "image_url": "/images/products/leica/leica-c-lux.webp"
+    "image_url": "/images/products/leica/leica-c-lux.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.53x",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-c-typ-112",
@@ -67044,7 +67456,9 @@
     "batterySpec": "Li-ion (250 shots CIPA)",
     "dimensions": "103 x 63 x 28 mm",
     "weightGrams": 195,
-    "image_url": "/images/products/leica/leica-c-typ-112.webp"
+    "image_url": "/images/products/leica/leica-c-typ-112.webp",
+    "hasWeatherSeal": false,
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-v-lux-40",
@@ -67065,7 +67479,12 @@
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "Li-ion (210 shots CIPA)",
     "weightGrams": 210,
-    "image_url": "/images/products/leica/leica-v-lux-40.webp"
+    "image_url": "/images/products/leica/leica-v-lux-40.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "leica-v-lux-4",
@@ -67090,7 +67509,9 @@
     "batterySpec": "Li-ion (540 shots CIPA)",
     "dimensions": "125.2 x 86.6 x 110.2 mm",
     "weightGrams": 588,
-    "image_url": "/images/products/leica/leica-v-lux-4.webp"
+    "image_url": "/images/products/leica/leica-v-lux-4.webp",
+    "hasWeatherSeal": false,
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "leica-v-lux-typ-114",
@@ -67114,7 +67535,10 @@
     "batterySpec": "BP-DC12 (360 shots CIPA)",
     "dimensions": "137 x 98.5 x 130.7 mm",
     "weightGrams": 830,
-    "image_url": "/images/products/leica/leica-v-lux-typ-114.webp"
+    "image_url": "/images/products/leica/leica-v-lux-typ-114.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.7x",
+    "ports": "USB 2.0, HDMI, mic"
   },
   {
     "id": "leica-v-lux-5",
@@ -67138,7 +67562,10 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "BP-DC12 (360 shots CIPA)",
     "weightGrams": 812,
-    "image_url": "/images/products/leica/leica-v-lux-5.webp"
+    "image_url": "/images/products/leica/leica-v-lux-5.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.74x",
+    "ports": "USB 2.0, HDMI, mic"
   },
   {
     "id": "zeiss-zx1",
@@ -67161,7 +67588,8 @@
     "lcdSpec": "4.3-inch 2.76M-dot fixed touch",
     "cardSlots": "None",
     "weightGrams": 800,
-    "image_url": "/images/products/zeiss/zeiss-zx1.webp"
+    "image_url": "/images/products/zeiss/zeiss-zx1.webp",
+    "evfMagnification": "0.74x"
   },
   {
     "id": "sigma-dp1-merrill",
@@ -67184,7 +67612,10 @@
     "dimensions": "121.5 x 66.7 x 64.3 mm",
     "videoResolution": "VGA",
     "hasIBIS": false,
-    "image_url": "/images/products/sigma/sigma-dp1-merrill.webp"
+    "image_url": "/images/products/sigma/sigma-dp1-merrill.webp",
+    "evfMagnification": "None",
+    "processor": "Dual TRUE II",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp2-merrill",
@@ -67206,7 +67637,10 @@
     "ports": "USB 2.0, video out, audio out",
     "dimensions": "121.5 x 66.7 x 59.2 mm",
     "videoResolution": "VGA",
-    "image_url": "/images/products/sigma/sigma-dp2-merrill.webp"
+    "image_url": "/images/products/sigma/sigma-dp2-merrill.webp",
+    "evfMagnification": "None",
+    "processor": "Dual TRUE II",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp3-merrill",
@@ -67228,7 +67662,11 @@
     "ports": "USB 2.0, video out, audio out",
     "dimensions": "121.5 x 66.7 x 80.6 mm",
     "videoResolution": "VGA",
-    "image_url": "/images/products/sigma/sigma-dp3-merrill.webp"
+    "image_url": "/images/products/sigma/sigma-dp3-merrill.webp",
+    "evfMagnification": "None",
+    "processor": "Dual TRUE II",
+    "burstSpeed": "4fps",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp0-quattro",
@@ -67249,7 +67687,11 @@
     "batterySpec": "BP-51",
     "ports": "USB, cable release",
     "dimensions": "161.4 x 67 x 126 mm",
-    "image_url": "/images/products/sigma/sigma-dp0-quattro.webp"
+    "image_url": "/images/products/sigma/sigma-dp0-quattro.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TRUE III",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp1-quattro",
@@ -67270,7 +67712,11 @@
     "batterySpec": "BP-51",
     "ports": "USB, cable release",
     "dimensions": "161.4 x 67 x 87.1 mm",
-    "image_url": "/images/products/sigma/sigma-dp1-quattro.webp"
+    "image_url": "/images/products/sigma/sigma-dp1-quattro.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TRUE III",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp2-quattro",
@@ -67291,7 +67737,11 @@
     "batterySpec": "BP-51",
     "ports": "USB, cable release",
     "dimensions": "161.4 x 67 x 81.6 mm",
-    "image_url": "/images/products/sigma/sigma-dp2-quattro.webp"
+    "image_url": "/images/products/sigma/sigma-dp2-quattro.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TRUE III",
+    "afPoints": "9 points"
   },
   {
     "id": "sigma-dp3-quattro",
@@ -67312,7 +67762,11 @@
     "batterySpec": "BP-51",
     "ports": "USB, cable release",
     "dimensions": "161.4 x 67 x 101.8 mm",
-    "image_url": "/images/products/sigma/sigma-dp3-quattro.webp"
+    "image_url": "/images/products/sigma/sigma-dp3-quattro.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TRUE III",
+    "afPoints": "9 points"
   },
   {
     "id": "ricoh-g900",
@@ -67336,7 +67790,8 @@
     "ports": "USB-C (USB 3.0), micro HDMI",
     "hasWeatherSeal": true,
     "dimensions": "118.2 x 65.5 x 33.1 mm",
-    "weightGrams": 252
+    "weightGrams": 252,
+    "evfMagnification": "None"
   },
   {
     "id": "kodak-pixpro-az361",
@@ -68216,7 +68671,15 @@
     "batterySpec": "NP-FW50 (420 shots CIPA)",
     "releaseMonth": 10,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10.webp",
-    "launchPrice": 35980
+    "launchPrice": 35980,
+    "hasWeatherSeal": true,
+    "evfMagnification": "0.70x",
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "ports": "USB 2.0, HDMI, microphone, headphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-ii",
@@ -68237,7 +68700,15 @@
     "batterySpec": "NP-FW50 (400 shots CIPA)",
     "megapixels": "20.2MP",
     "releaseMonth": 6,
-    "launchPrice": 39980
+    "launchPrice": 39980,
+    "hasWeatherSeal": true,
+    "evfMagnification": "0.70x",
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "14fps",
+    "isoRange": "125-12800 (Ext: 64-25600)",
+    "ports": "USB 2.0, HDMI, microphone, headphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iii",
@@ -68258,7 +68729,15 @@
     "batterySpec": "NP-FW50 (420 shots CIPA)",
     "megapixels": "20.1MP",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iii.webp",
-    "launchPrice": 48980
+    "launchPrice": 48980,
+    "hasWeatherSeal": true,
+    "evfMagnification": "0.70x",
+    "processor": "Bionz X",
+    "sensorType": "Stacked CMOS",
+    "burstSpeed": "14fps",
+    "isoRange": "100-12800 (Ext: 64-25600)",
+    "ports": "USB 2.0, HDMI, microphone, headphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iv",
@@ -68280,7 +68759,15 @@
     "megapixels": "20.1MP",
     "releaseMonth": 9,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-iv.webp",
-    "launchPrice": 52980
+    "launchPrice": 52980,
+    "hasWeatherSeal": true,
+    "evfMagnification": "0.70x",
+    "processor": "Bionz X",
+    "sensorType": "Stacked CMOS",
+    "burstSpeed": "24fps",
+    "isoRange": "100-12800 (Ext: 64-25600)",
+    "ports": "USB 2.0, HDMI, microphone, headphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-v",
@@ -68323,7 +68810,12 @@
     "lcdSpec": "3.0-inch 1.23M-dot fixed",
     "batterySpec": "NP-BX1 (270 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1.webp",
-    "launchPrice": 92980
+    "launchPrice": 92980,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "burstSpeed": "5fps",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r",
@@ -68343,7 +68835,14 @@
     "lcdSpec": "3.0-inch 1.23M-dot fixed",
     "batterySpec": "NP-BX1 (220 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r.webp",
-    "launchPrice": 92980
+    "launchPrice": 92980,
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "burstSpeed": "5fps",
+    "isoRange": "100-25600 (Ext: 50-102400)",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-ii",
@@ -68365,7 +68864,14 @@
     "lcdSpec": "3.0-inch 1.23M-dot tilting",
     "batterySpec": "NP-BX1 (220 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx1r-ii.webp",
-    "launchPrice": 109900
+    "launchPrice": 109900,
+    "hasWeatherSeal": false,
+    "processor": "BIONZ X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "5fps",
+    "isoRange": "100-25600 (Ext: 50-102400)",
+    "ports": "USB 2.0, HDMI, microphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-iii",
@@ -68409,7 +68915,15 @@
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle touch",
     "batterySpec": "NP-BX1 (260 shots CIPA)",
     "launchPrice": 19980,
-    "image_url": "/images/products/sony/sony-zv-1.webp"
+    "image_url": "/images/products/sony/sony-zv-1.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Bionz X",
+    "sensorType": "Stacked CMOS",
+    "burstSpeed": "24fps",
+    "isoRange": "125-12800 (Ext: 80-25600)",
+    "ports": "USB 2.0, HDMI, microphone",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-zv-1f",
@@ -68428,7 +68942,14 @@
     "videoResolution": "4K 30p / Full HD 120p",
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle",
     "batterySpec": "NP-BX1 (360 shots CIPA)",
-    "launchPrice": 14980
+    "launchPrice": 14980,
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "16fps",
+    "isoRange": "125-12800 (Ext: 80-12800)",
+    "cardSlots": "1x SDHC (UHS-I)"
   },
   {
     "id": "sony-zv-1-ii",
@@ -68448,7 +68969,10 @@
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 0.92M-dot vari-angle touch",
     "batterySpec": "NP-BX1 (290 shots CIPA)",
-    "launchPrice": 24980
+    "launchPrice": 24980,
+    "sensorType": "Stacked CMOS",
+    "isoRange": "125-12800",
+    "ports": "HDMI, microphone"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0",
@@ -68468,7 +68992,14 @@
     "hasIBIS": false,
     "lcdSpec": "1.5-inch 0.23M-dot fixed",
     "batterySpec": "NP-BJ1 (240 shots CIPA)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "BIONZ X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "16fps",
+    "isoRange": "125-12800",
+    "ports": "USB 2.0, HDMI, microphone",
+    "cardSlots": "1x microSD/microSDHC/microSDXC"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0-ii",
@@ -68509,7 +69040,13 @@
     "lcdSpec": "None",
     "batterySpec": "NP-BN (220 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx10.webp",
-    "launchPrice": 6980
+    "launchPrice": 6980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "ports": "USB 2.0",
+    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro"
   },
   {
     "id": "sony-cyber-shot-dsc-qx100",
@@ -68530,7 +69067,13 @@
     "lcdSpec": "None",
     "batterySpec": "NP-BN (220 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-qx100.webp",
-    "launchPrice": 14980
+    "launchPrice": 14980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "isoRange": "160-6400 (Ext: 25600)",
+    "ports": "USB 2.0",
+    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro"
   },
   {
     "id": "sony-cyber-shot-dsc-qx30",
@@ -68571,7 +69114,15 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BG1 (340 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx10v.webp",
-    "launchPrice": 11980
+    "launchPrice": 11980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "BIONZ",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "100-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx30v",
@@ -68592,7 +69143,15 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BG1 (320 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx30v.webp",
-    "launchPrice": 13980
+    "launchPrice": 13980,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "BIONZ",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "100-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx200v",
@@ -68614,7 +69173,14 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-FH50 (450 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx200v.webp",
-    "launchPrice": 15980
+    "launchPrice": 15980,
+    "hasWeatherSeal": false,
+    "processor": "BIONZ",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "100-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx300",
@@ -68635,7 +69201,9 @@
     "evfResolution": "0.20M-dot",
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BX1 (310 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx300.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx300.webp",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0"
   },
   {
     "id": "sony-cyber-shot-dsc-hx50v",
@@ -68655,7 +69223,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "batterySpec": "NP-BX1 (400 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx50v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx50v.webp",
+    "hasWeatherSeal": false,
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx400v",
@@ -68677,7 +69251,13 @@
     "batterySpec": "NP-BX1 (300 shots CIPA)",
     "releaseMonth": 2,
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx400v.webp",
-    "launchPrice": 16980
+    "launchPrice": 16980,
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx90v",
@@ -68698,7 +69278,15 @@
     "evfResolution": "0.64M-dot OLED",
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
     "batterySpec": "NP-BX1 (390 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx90v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx90v.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "0.5x",
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx99",
@@ -68720,7 +69308,14 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-BX1 (370 shots CIPA)",
     "evfMagnification": "0.50x",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx99.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx99.webp",
+    "hasWeatherSeal": false,
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-hx60v",
@@ -68860,7 +69455,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NP-BX1 (500 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx300.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx300.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-3200 (Ext: 12800)",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-wx220",
@@ -68880,7 +69481,15 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.46M-dot fixed",
     "batterySpec": "NP-BN (210 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx220.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx220.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-wx350",
@@ -68900,7 +69509,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "NP-BX1 (470 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx350.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx350.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-wx500",
@@ -68919,7 +69534,15 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot tilting",
-    "batterySpec": "NP-BX1 (400 shots CIPA)"
+    "batterySpec": "NP-BX1 (400 shots CIPA)",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Bionz X",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "isoRange": "80-12800",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-wx800",
@@ -69458,7 +70081,10 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-90mm-f2-8.webp",
     "retailPrice": 21000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "5 APD"
   },
   {
     "id": "voigtlander-heliar-40mm-f2-8-aspherical",
@@ -69541,7 +70167,10 @@
       }
     ],
     "image_url": "/images/products/voigtlander/voigtlander-ultron-75mm-f1-9.webp",
-    "launchPrice": 22000
+    "launchPrice": 22000,
+    "specialElements": "3 Anomalous Partial Dispersion",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-color-skopar-28mm-f2-8-aspherical",
@@ -69568,7 +70197,9 @@
         }
       }
     ],
-    "launchPrice": 16000
+    "launchPrice": 16000,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-color-skopar-50mm-f2-2",
@@ -69596,7 +70227,10 @@
       }
     ],
     "retailPrice": 16000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "3 Anomalous Partial Dispersion"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f3-5",
@@ -69624,7 +70258,10 @@
       }
     ],
     "retailPrice": 21000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "4 Anomalous Partial Dispersion"
   },
   {
     "id": "voigtlander-apo-ultron-90mm-f2",
@@ -69653,7 +70290,10 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-apo-ultron-90mm-f2.webp",
     "retailPrice": 27000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "6 Anomalous Partial Dispersion"
   },
   {
     "id": "voigtlander-color-skopar-35mm-f3-5-aspherical",
@@ -69681,7 +70321,11 @@
       }
     ],
     "retailPrice": 20000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "3 Anomalous Partial Dispersion, 1 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iv",
@@ -69710,7 +70354,9 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iv.webp",
     "retailPrice": 29000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-40mm-f1-2-aspherical-ii",
@@ -69739,7 +70385,10 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-nokton-40mm-f1-2-aspherical-ii.webp",
     "retailPrice": 29000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "2 Aspherical"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-aspherical-ii",
@@ -69768,7 +70417,10 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-nokton-50mm-f1-2-aspherical-ii.webp",
     "retailPrice": 29000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "2 Aspherical"
   },
   {
     "id": "voigtlander-apo-skopar-75mm-f2-8",
@@ -69796,7 +70448,10 @@
       }
     ],
     "retailPrice": 17000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "specialElements": "4 Anomalous Partial Dispersion"
   },
   {
     "id": "voigtlander-ultron-21mm-f1-8-aspherical",
@@ -69823,7 +70478,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-ultron-21mm-f1-8-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-ultron-21mm-f1-8-aspherical.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-24mm-f1-7",
@@ -69936,7 +70593,9 @@
         }
       }
     ],
-    "image_url": "/images/products/mitakon/mitakon-speedmaster-85mm-f1-2.webp"
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-85mm-f1-2.webp",
+    "hasCustomButton": false,
+    "hasApertureRing": true
   },
   {
     "id": "mitakon-creator-20mm-f2-4-5x-super-macro",
@@ -71633,6 +72292,12 @@
     "videoResolution": "Full HD",
     "hasIBIS": true,
     "processor": "DIGIC 4+",
-    "image_url": "/images/products/canon/canon-powershot-sx520-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx520-hs.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "1.6fps",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD/SDHC/SDXC"
   }
 ]
