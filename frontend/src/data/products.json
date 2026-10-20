@@ -52529,7 +52529,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-24mm-t14-2x-macro-periprobe.webp"
+    "image_url": "/images/products/laowa/laowa-24mm-t14-2x-macro-periprobe.webp",
+    "retailPrice": 53700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-24mm-t8-2x-macro-pro2be",
@@ -56653,7 +56655,9 @@
     "hasIBIS": true,
     "lcdSpec": "2.0-inch detachable touch",
     "cardSlots": "1x microSD (up to 2TB)",
-    "weightGrams": 215
+    "weightGrams": 215,
+    "retailPrice": 15400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "insta360-luna-ultra",
@@ -56673,7 +56677,8 @@
     "hasIBIS": true,
     "lcdSpec": "2.0-inch OLED detachable touch",
     "batterySpec": "1550mAh (up to 4 h)",
-    "cardSlots": "1x microSD (up to 1TB)"
+    "cardSlots": "1x microSD (up to 1TB)",
+    "launchPrice": 22990
   },
   {
     "id": "insta360-x4-air",
@@ -56689,7 +56694,8 @@
     "videoResolution": "8K 30p (360°) / 4K 60p (single lens)",
     "hasWeatherSeal": true,
     "dimensions": "114 x 46 x 37 mm",
-    "weightGrams": 165
+    "weightGrams": 165,
+    "launchPrice": 12200
   },
   {
     "id": "insta360-go-ultra",
@@ -56708,7 +56714,8 @@
     "cardSlots": "1x microSD (up to 2TB)",
     "hasWeatherSeal": true,
     "dimensions": "46 x 45.7 x 18.3 mm",
-    "weightGrams": 53
+    "weightGrams": 53,
+    "launchPrice": 13980
   },
   {
     "id": "insta360-x5",
@@ -56741,7 +56748,8 @@
     "videoResolution": "8K 30p / 4K 120p",
     "lcdSpec": "2.5-inch flip touch",
     "batterySpec": "1800mAh",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 14990
   },
   {
     "id": "insta360-x4",
@@ -56785,7 +56793,8 @@
     "hasWeatherSeal": true,
     "dimensions": "71.9 x 52.15 x 38.5 mm",
     "weightGrams": 180,
-    "image_url": "/images/products/insta360/insta360-ace-pro.webp"
+    "image_url": "/images/products/insta360/insta360-ace-pro.webp",
+    "launchPrice": 15990
   },
   {
     "id": "insta360-ace",
@@ -56804,7 +56813,8 @@
     "cardSlots": "1x microSD (up to 1TB)",
     "hasWeatherSeal": true,
     "dimensions": "71.9 x 52.15 x 38.5 mm",
-    "weightGrams": 177
+    "weightGrams": 177,
+    "launchPrice": 13090
   },
   {
     "id": "insta360-x3",
@@ -56846,7 +56856,8 @@
     "batterySpec": "Built-in (up to 150 min with charge case)",
     "hasWeatherSeal": true,
     "dimensions": "52.9 x 23.6 x 20.7 mm",
-    "weightGrams": 27
+    "weightGrams": 27,
+    "launchPrice": 9669
   },
   {
     "id": "insta360-titan",
@@ -57019,7 +57030,8 @@
     "dimensions": "52.4 x 51.2 x 38 mm",
     "weightGrams": 133,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/gopro/gopro-hero11-black-mini.webp"
+    "image_url": "/images/products/gopro/gopro-hero11-black-mini.webp",
+    "launchPrice": 14900
   },
   {
     "id": "gopro-lit-hero",
@@ -57111,7 +57123,8 @@
     "dimensions": "66.3 x 48.6 x 28.4 mm",
     "weightGrams": 126,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/gopro/gopro-hero8-black.webp"
+    "image_url": "/images/products/gopro/gopro-hero8-black.webp",
+    "launchPrice": 15900
   },
   {
     "id": "gopro-max",
@@ -57205,7 +57218,8 @@
     "megapixels": "10MP",
     "videoResolution": "1440p 60p / Full HD 60p",
     "lcdSpec": "2.0-inch touch",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 8900
   },
   {
     "id": "gopro-hero6-black",
@@ -57415,7 +57429,9 @@
     "weightGrams": 277,
     "afPoints": "135 points",
     "hasWeatherSeal": false,
-    "launchPrice": 18900
+    "launchPrice": 18900,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-v1",
@@ -57449,7 +57465,8 @@
     "weightGrams": 383,
     "afPoints": "135 points",
     "hasWeatherSeal": false,
-    "launchPrice": 26900
+    "launchPrice": 26900,
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-j2",
@@ -57481,7 +57498,9 @@
     "dimensions": "106 x 61 x 29.8 mm",
     "weightGrams": 280,
     "afPoints": "135 points",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-v2",
@@ -57515,7 +57534,10 @@
     "weightGrams": 337,
     "afPoints": "135 points",
     "image_url": "/images/products/nikon/nikon-1-v2.webp",
-    "launchPrice": 28900
+    "launchPrice": 28900,
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-j3",
@@ -57549,7 +57571,9 @@
     "afPoints": "135 points",
     "hasWeatherSeal": false,
     "image_url": "/images/products/nikon/nikon-1-j3.webp",
-    "launchPrice": 18900
+    "launchPrice": 18900,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-s1",
@@ -57581,7 +57605,8 @@
     "dimensions": "102 x 60.5 x 29.7 mm",
     "afPoints": "135 points",
     "hasWeatherSeal": false,
-    "image_url": "/images/products/nikon/nikon-1-s1.webp"
+    "image_url": "/images/products/nikon/nikon-1-s1.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-1-aw1",
@@ -57613,7 +57638,11 @@
     "weightGrams": 356,
     "afPoints": "135 points",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-1-aw1.webp"
+    "image_url": "/images/products/nikon/nikon-1-aw1.webp",
+    "hasIBIS": false,
+    "evfMagnification": "None",
+    "processor": "EXPEED 3A",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-v3",
@@ -57645,7 +57674,10 @@
     "dimensions": "110.9 x 65 x 33.2 mm",
     "weightGrams": 324,
     "afPoints": "171 points",
-    "image_url": "/images/products/nikon/nikon-1-v3.webp"
+    "image_url": "/images/products/nikon/nikon-1-v3.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-j4",
@@ -57677,7 +57709,11 @@
     "dimensions": "99.5 x 60 x 28.5 mm",
     "weightGrams": 232,
     "afPoints": "171 points",
-    "image_url": "/images/products/nikon/nikon-1-j4.webp"
+    "image_url": "/images/products/nikon/nikon-1-j4.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-s2",
@@ -57709,7 +57745,11 @@
     "dimensions": "101 x 60.8 x 29.4 mm",
     "weightGrams": 230,
     "afPoints": "135 points",
-    "image_url": "/images/products/nikon/nikon-1-s2.webp"
+    "image_url": "/images/products/nikon/nikon-1-s2.webp",
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-j5",
@@ -57741,7 +57781,11 @@
     "dimensions": "98.3 x 59.7 x 31.5 mm",
     "weightGrams": 265,
     "afPoints": "171 points",
-    "launchPrice": 16900
+    "launchPrice": 16900,
+    "hasIBIS": false,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-vr-10-30mm-f-3-5-5-6",
@@ -57771,7 +57815,10 @@
     "specialElements": "3 Aspherical",
     "dimensions": "Ø57.5 x 42 mm",
     "weightGrams": 115,
-    "hasOIS": true
+    "hasOIS": true,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-vr-30-110mm-f-3-8-5-6",
@@ -57801,7 +57848,10 @@
     "specialElements": "2 ED",
     "dimensions": "Ø60 x 61 mm",
     "weightGrams": 180,
-    "hasOIS": true
+    "hasOIS": true,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "nikon-1-10mm-f-2-8",
@@ -57830,7 +57880,10 @@
     "opticalDesign": "6 elements in 5 groups",
     "specialElements": "2 Aspherical",
     "dimensions": "Ø55.5 x 22 mm",
-    "weightGrams": 77
+    "weightGrams": 77,
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "nikon-1-vr-10-100mm-f-4-5-5-6-pd-zoom",
@@ -57860,7 +57913,9 @@
     "specialElements": "3 ED, 2 Aspherical",
     "dimensions": "Ø77 x 95 mm",
     "weightGrams": 530,
-    "hasOIS": true
+    "hasOIS": true,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false
   },
   {
     "id": "nikon-1-11-27-5mm-f-3-5-5-6",
@@ -57890,7 +57945,11 @@
     "specialElements": "1 ED, 1 Aspherical",
     "dimensions": "Ø57.5 x 31 mm",
     "weightGrams": 83,
-    "image_url": "/images/products/nikon/nikon-1-11-27-5mm-f-3-5-5-6.webp"
+    "image_url": "/images/products/nikon/nikon-1-11-27-5mm-f-3-5-5-6.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-18-5mm-f-1-8",
@@ -57920,7 +57979,11 @@
     "specialElements": "1 Aspherical",
     "dimensions": "Ø56 x 36 mm",
     "weightGrams": 70,
-    "image_url": "/images/products/nikon/nikon-1-18-5mm-f-1-8.webp"
+    "image_url": "/images/products/nikon/nikon-1-18-5mm-f-1-8.webp",
+    "hasOIS": false,
+    "hasWeatherSeal": false,
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "nikon-1-vr-6-7-13mm-f-3-5-5-6",
@@ -57950,7 +58013,9 @@
     "specialElements": "3 ED, 3 Aspherical",
     "dimensions": "Ø56.5 x 46 mm",
     "weightGrams": 125,
-    "hasOIS": true
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-vr-10-100mm-f-4-5-6",
@@ -57981,7 +58046,9 @@
     "dimensions": "Ø60.5 x 70.5 mm",
     "weightGrams": 298,
     "hasOIS": true,
-    "image_url": "/images/products/nikon/nikon-1-vr-10-100mm-f-4-5-6.webp"
+    "image_url": "/images/products/nikon/nikon-1-vr-10-100mm-f-4-5-6.webp",
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-32mm-f-1-2",
@@ -58011,7 +58078,10 @@
     "coatings": "Nano Crystal Coat",
     "dimensions": "Ø65.5 x 47 mm",
     "weightGrams": 235,
-    "image_url": "/images/products/nikon/nikon-1-32mm-f-1-2.webp"
+    "image_url": "/images/products/nikon/nikon-1-32mm-f-1-2.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "motorType": "Ultrasonic"
   },
   {
     "id": "nikon-1-aw-10mm-f-2-8",
@@ -58042,7 +58112,10 @@
     "dimensions": "Ø61 x 30 mm",
     "weightGrams": 118,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-1-aw-10mm-f-2-8.webp"
+    "image_url": "/images/products/nikon/nikon-1-aw-10mm-f-2-8.webp",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "nikon-1-aw-11-27-5mm-f-3-5-5-6",
@@ -58073,7 +58146,9 @@
     "weightGrams": 182,
     "hasOIS": false,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-1-aw-11-27-5mm-f-3-5-5-6.webp"
+    "image_url": "/images/products/nikon/nikon-1-aw-11-27-5mm-f-3-5-5-6.webp",
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-vr-70-300mm-f-4-5-5-6",
@@ -58105,7 +58180,9 @@
     "dimensions": "Ø73 x 108 mm",
     "weightGrams": 550,
     "hasOIS": true,
-    "image_url": "/images/products/nikon/nikon-1-vr-70-300mm-f-4-5-5-6.webp"
+    "image_url": "/images/products/nikon/nikon-1-vr-70-300mm-f-4-5-5-6.webp",
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-1-vr-10-30mm-f-3-5-5-6-pd-zoom",
@@ -58136,7 +58213,9 @@
     "dimensions": "Ø58 x 28 mm",
     "weightGrams": 85,
     "hasOIS": true,
-    "image_url": "/images/products/nikon/nikon-1-vr-10-30mm-f-3-5-5-6-pd-zoom.webp"
+    "image_url": "/images/products/nikon/nikon-1-vr-10-30mm-f-3-5-5-6-pd-zoom.webp",
+    "hasApertureRing": false,
+    "motorType": "Stepping Motor"
   },
   {
     "id": "nikon-coolpix-p310",
@@ -58158,7 +58237,14 @@
     "weightGrams": 194,
     "burstSpeed": "7fps",
     "image_url": "/images/products/nikon/nikon-coolpix-p310.webp",
-    "launchPrice": 11900
+    "launchPrice": 11900,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-p510",
@@ -58180,7 +58266,15 @@
     "dimensions": "119.8 x 82.9 x 102.2 mm",
     "weightGrams": 555,
     "image_url": "/images/products/nikon/nikon-coolpix-p510.webp",
-    "launchPrice": 14900
+    "launchPrice": 14900,
+    "hasWeatherSeal": false,
+    "processor": "Expeed C2",
+    "isoRange": "100-3200 (Ext: 12800)",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "7fps"
   },
   {
     "id": "nikon-coolpix-s9300",
@@ -58200,7 +58294,15 @@
     "batterySpec": "EN-EL12 (200 shots CIPA)",
     "dimensions": "108.7 x 62.3 x 30.6 mm",
     "weightGrams": 215,
-    "image_url": "/images/products/nikon/nikon-coolpix-s9300.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s9300.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "6.9fps"
   },
   {
     "id": "nikon-coolpix-s9200",
@@ -58218,7 +58320,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot fixed",
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL12 (200 shots CIPA)",
-    "dimensions": "108.7 x 59.8 x 30.6 mm"
+    "dimensions": "108.7 x 59.8 x 30.6 mm",
+    "sensorType": "CMOS",
+    "isoRange": "125-3200",
+    "afPoints": "99 points",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, mini HDMI",
+    "weightGrams": 209
   },
   {
     "id": "nikon-coolpix-s6300",
@@ -58237,7 +58345,15 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL12 (230 shots CIPA)",
     "dimensions": "93.6 x 57.7 x 26.0 mm",
-    "weightGrams": 160
+    "weightGrams": 160,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "125-3200",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "6fps"
   },
   {
     "id": "nikon-coolpix-s4300",
@@ -58256,7 +58372,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (180 shots CIPA)",
     "dimensions": "95.5 x 58.9 x 20.8 mm",
-    "weightGrams": 139
+    "weightGrams": 139,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "burstSpeed": "1.3fps"
   },
   {
     "id": "nikon-coolpix-s3300",
@@ -58275,7 +58398,15 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "EN-EL19 (210 shots CIPA)",
     "dimensions": "94.8 x 57.8 x 19.5 mm",
-    "weightGrams": 128
+    "weightGrams": 128,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "100-3200",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "1.3fps"
   },
   {
     "id": "nikon-coolpix-s30",
@@ -58296,7 +58427,13 @@
     "dimensions": "101.9 x 64.8 x 39.4 mm",
     "weightGrams": 214,
     "hasWeatherSeal": true,
-    "launchPrice": 3990
+    "launchPrice": 3990,
+    "evfMagnification": "None",
+    "isoRange": "80-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "burstSpeed": "1.5fps"
   },
   {
     "id": "nikon-coolpix-l810",
@@ -58315,7 +58452,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "4x AA (300 shots CIPA, alkaline)",
     "dimensions": "111.1 x 76.3 x 83.1 mm",
-    "weightGrams": 430
+    "weightGrams": 430,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-1600",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "burstSpeed": "1.2fps"
   },
   {
     "id": "nikon-coolpix-l26",
@@ -58334,7 +58478,14 @@
     "videoResolution": "HD 720p 30p",
     "batterySpec": "2x AA (200 shots CIPA, alkaline)",
     "dimensions": "96.0 x 59.7 x 28.8 mm",
-    "weightGrams": 164
+    "weightGrams": 164,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-1600",
+    "ports": "USB 2.0",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "burstSpeed": "1.2fps"
   },
   {
     "id": "nikon-coolpix-p1000",
@@ -58355,7 +58506,14 @@
     "batterySpec": "EN-EL20a (250 shots CIPA)",
     "dimensions": "146.3 x 118.8 x 181.3 mm",
     "weightGrams": 1415,
-    "image_url": "/images/products/nikon/nikon-coolpix-p1000.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p1000.webp",
+    "hasWeatherSeal": false,
+    "processor": "Nikon Expeed",
+    "burstSpeed": "7fps",
+    "isoRange": "100-6400",
+    "ports": "USB 2.0, HDMI, mic",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "nikon-coolpix-p950",
@@ -58376,7 +58534,13 @@
     "batterySpec": "EN-EL20a (290 shots CIPA)",
     "dimensions": "140.2 x 109.6 x 149.8 mm",
     "weightGrams": 1005,
-    "image_url": "/images/products/nikon/nikon-coolpix-p950.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p950.webp",
+    "hasWeatherSeal": false,
+    "burstSpeed": "7fps",
+    "isoRange": "100-6400",
+    "ports": "USB 2.0, HDMI, mic",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "nikon-coolpix-l610",
@@ -58395,7 +58559,13 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "2x AA (120 shots CIPA, alkaline)",
     "dimensions": "108.0 x 68.4 x 34.1 mm",
-    "weightGrams": 240
+    "weightGrams": 240,
+    "evfMagnification": "None",
+    "isoRange": "125-3200",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "burstSpeed": "1.9fps",
+    "ports": "USB, mini HDMI"
   },
   {
     "id": "nikon-coolpix-p7700",
@@ -58416,7 +58586,14 @@
     "dimensions": "118.5 x 72.5 x 50.4 mm",
     "weightGrams": 392,
     "burstSpeed": "8fps",
-    "launchPrice": 17900
+    "launchPrice": 17900,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "isoRange": "80-1600 (Ext: 6400)",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "ports": "USB, mini HDMI, mic"
   },
   {
     "id": "nikon-coolpix-s6400",
@@ -58435,7 +58612,14 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL19 (160 shots CIPA)",
     "dimensions": "95.4 x 58.6 x 26.7 mm",
-    "weightGrams": 150
+    "weightGrams": 150,
+    "evfMagnification": "None",
+    "processor": "Expeed C2",
+    "isoRange": "125-1600",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "burstSpeed": "10fps"
   },
   {
     "id": "nikon-coolpix-s800c",
@@ -58455,7 +58639,14 @@
     "batterySpec": "EN-EL12 (140 shots CIPA)",
     "dimensions": "111.4 x 60.0 x 27.2 mm",
     "weightGrams": 184,
-    "image_url": "/images/products/nikon/nikon-coolpix-s800c.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s800c.webp",
+    "evfMagnification": "None",
+    "processor": "Expeed C2",
+    "burstSpeed": "8fps",
+    "isoRange": "125-3200",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC",
+    "ports": "USB, mini HDMI"
   },
   {
     "id": "nikon-coolpix-s01",
@@ -58475,7 +58666,12 @@
     "batterySpec": "Built-in Li-ion (190 shots CIPA)",
     "dimensions": "77.0 x 51.2 x 17.2 mm",
     "weightGrams": 96,
-    "launchPrice": 6590
+    "launchPrice": 6590,
+    "evfMagnification": "None",
+    "processor": "Expeed C2",
+    "isoRange": "80-1600",
+    "sensorType": "CCD",
+    "ports": "USB"
   },
   {
     "id": "nikon-coolpix-a",
@@ -58496,7 +58692,12 @@
     "weightGrams": 299,
     "burstSpeed": "4fps",
     "image_url": "/images/products/nikon/nikon-coolpix-a.webp",
-    "launchPrice": 34900
+    "launchPrice": 34900,
+    "hasIBIS": false,
+    "isoRange": "100-6400 (Ext: 25600)",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, mini HDMI"
   },
   {
     "id": "nikon-coolpix-p330",
@@ -58517,7 +58718,15 @@
     "dimensions": "103.0 x 58.3 x 32.0 mm",
     "weightGrams": 200,
     "image_url": "/images/products/nikon/nikon-coolpix-p330.webp",
-    "launchPrice": 12900
+    "launchPrice": 12900,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "isoRange": "100-6400",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-p520",
@@ -58538,7 +58747,13 @@
     "batterySpec": "EN-EL5 (200 shots CIPA)",
     "dimensions": "125.2 x 84.1 x 101.6 mm",
     "weightGrams": 550,
-    "image_url": "/images/products/nikon/nikon-coolpix-p520.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p520.webp",
+    "isoRange": "80-3200 (Ext: 6400)",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "7fps",
+    "ports": "USB, mini HDMI"
   },
   {
     "id": "nikon-coolpix-p7800",
@@ -58560,7 +58775,13 @@
     "dimensions": "118.5 x 77.5 x 50.4 mm",
     "weightGrams": 399,
     "burstSpeed": "8fps",
-    "image_url": "/images/products/nikon/nikon-coolpix-p7800.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-p7800.webp",
+    "hasWeatherSeal": false,
+    "isoRange": "80-1600 (Ext: 6400)",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "ports": "USB, mini HDMI, mic"
   },
   {
     "id": "nikon-coolpix-s02",
@@ -58580,7 +58801,11 @@
     "batterySpec": "Built-in Li-ion (210 shots CIPA)",
     "dimensions": "77.1 x 51.3 x 17.5 mm",
     "weightGrams": 100,
-    "image_url": "/images/products/nikon/nikon-coolpix-s02.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s02.webp",
+    "evfMagnification": "None",
+    "isoRange": "125-1600",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS"
   },
   {
     "id": "nikon-coolpix-s6600",
@@ -58598,7 +58823,13 @@
     "batterySpec": "EN-EL19 (150 shots CIPA)",
     "dimensions": "96.9 x 57.1 x 27.2 mm",
     "weightGrams": 165,
-    "image_url": "/images/products/nikon/nikon-coolpix-s6600.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s6600.webp",
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 6400)",
+    "burstSpeed": "10fps",
+    "afPoints": "99 points",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-s9500",
@@ -58618,7 +58849,14 @@
     "batterySpec": "EN-EL12 (230 shots CIPA)",
     "dimensions": "110.1 x 60.3 x 30.7 mm",
     "weightGrams": 205,
-    "image_url": "/images/products/nikon/nikon-coolpix-s9500.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s9500.webp",
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "99 points",
+    "burstSpeed": "7.5fps",
+    "isoRange": "125-1600 (Ext: 3200)",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-s9400",
@@ -58637,7 +58875,13 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "EN-EL12 (230 shots CIPA)",
     "dimensions": "110.1 x 60.3 x 30.7 mm",
-    "weightGrams": 200
+    "weightGrams": 200,
+    "sensorType": "CMOS",
+    "isoRange": "125-1600 (Ext: 3200)",
+    "burstSpeed": "7.5fps",
+    "afPoints": "99 points",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "nikon-coolpix-s31",
@@ -58658,7 +58902,13 @@
     "dimensions": "105.4 x 64.8 x 41.5 mm",
     "weightGrams": 185,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-coolpix-s31.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s31.webp",
+    "evfMagnification": "None",
+    "isoRange": "80-1600",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB",
+    "burstSpeed": "1.5fps"
   },
   {
     "id": "nikon-coolpix-s5200",
@@ -62469,7 +62719,8 @@
     "batterySpec": "BLS-5 (410 shots CIPA)",
     "isoRange": "100-12800",
     "burstSpeed": "7fps",
-    "image_url": "/images/products/om-system/olympus-stylus-1.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-1.webp",
+    "launchPrice": 19900
   },
   {
     "id": "fujifilm-finepix-xp140",
@@ -63158,7 +63409,8 @@
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-92B (340 shots CIPA)",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/om-system/olympus-tough-tg-5.webp"
+    "image_url": "/images/products/om-system/olympus-tough-tg-5.webp",
+    "launchPrice": 15990
   },
   {
     "id": "olympus-tough-tg-6",
@@ -63344,7 +63596,8 @@
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 1.04M-dot fixed touch",
     "batterySpec": "NP-95 (330 shots CIPA)",
-    "image_url": "/images/products/fujifilm/fujifilm-xf10.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-xf10.webp",
+    "launchPrice": 14990
   },
   {
     "id": "fujifilm-finepix-xp80",
@@ -65816,7 +66069,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "batterySpec": "BP-DC8 (450 shots CIPA)",
     "weightGrams": 680,
-    "image_url": "/images/products/leica/leica-x-vario-typ-107.webp"
+    "image_url": "/images/products/leica/leica-x-vario-typ-107.webp",
+    "launchPrice": 98000
   },
   {
     "id": "leica-x-typ-113",
@@ -65862,7 +66116,8 @@
     "batterySpec": "BP-DC8 (450 shots CIPA)",
     "hasWeatherSeal": true,
     "weightGrams": 635,
-    "image_url": "/images/products/leica/leica-x-u-typ-113.webp"
+    "image_url": "/images/products/leica/leica-x-u-typ-113.webp",
+    "launchPrice": 120000
   },
   {
     "id": "leica-d-lux-6",
@@ -65954,7 +66209,8 @@
     "evfResolution": "2.36M-dot",
     "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
     "weightGrams": 397,
-    "image_url": "/images/products/leica/leica-d-lux-8.webp"
+    "image_url": "/images/products/leica/leica-d-lux-8.webp",
+    "launchPrice": 58500
   },
   {
     "id": "leica-c-lux",
