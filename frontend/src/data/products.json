@@ -51103,7 +51103,9 @@
     "sensorFormat": "Four Thirds",
     "retailPrice": 13700,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/laowa/laowa-7-5mm-f2-mft.webp"
+    "image_url": "/images/products/laowa/laowa-7-5mm-f2-mft.webp",
+    "hasCustomButton": false,
+    "coatings": "Frog Eye Coating (FEC)"
   },
   {
     "id": "laowa-9mm-f2-8-zero-d",
@@ -51168,7 +51170,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/laowa/laowa-9mm-f2-8-zero-d.webp",
     "retailPrice": 14000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false,
+    "coatings": "Frog Eye Coating (FEC)"
   },
   {
     "id": "laowa-14mm-f4-ff-rl-zero-d",
@@ -51223,7 +51227,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-14mm-f4-ff-rl-zero-d.webp",
     "retailPrice": 15800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-12-24mm-f5-6-c-dreamer",
@@ -51276,7 +51281,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-c-dreamer.webp",
     "retailPrice": 22800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-argus-28mm-f1-2-ff",
@@ -51324,7 +51330,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-argus-28mm-f1-2-ff.webp",
     "retailPrice": 21000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-nanomorph-32mm-t2-9-1-5x-lf",
@@ -51368,7 +51375,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-nanomorph-32mm-t2-9-1-5x-lf.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-32mm-t2-9-1-5x-lf.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-nanomorph-42mm-t2-9-1-5x-lf",
@@ -51412,7 +51420,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-nanomorph-42mm-t2-9-1-5x-lf.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-42mm-t2-9-1-5x-lf.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-nanomorph-55mm-t2-9-1-5x-lf",
@@ -51456,7 +51465,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-nanomorph-55mm-t2-9-1-5x-lf.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-55mm-t2-9-1-5x-lf.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-nanomorph-85mm-t2-9-1-5x-lf",
@@ -51500,7 +51510,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-nanomorph-85mm-t2-9-1-5x-lf.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-85mm-t2-9-1-5x-lf.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-14mm-t2-6-zero-d-vv-cine",
@@ -51542,7 +51553,11 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-14mm-t2-6-zero-d-vv-cine.webp"
+    "image_url": "/images/products/laowa/laowa-14mm-t2-6-zero-d-vv-cine.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 77
   },
   {
     "id": "laowa-sword-25mm-t2-9-1x-macro",
@@ -55596,7 +55611,9 @@
     "batterySpec": "NP-130A (430 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 37.7 mm",
     "weightGrams": 249,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr4000.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr4000.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr3200",
@@ -55621,7 +55638,9 @@
     "batterySpec": "NP-130A (425 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 36.7 mm",
     "weightGrams": 249,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr3200.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3200.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr3100",
@@ -55646,7 +55665,9 @@
     "batterySpec": "NP-130A (425 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 36.7 mm",
     "weightGrams": 249,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr3100.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3100.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr3000",
@@ -55671,7 +55692,9 @@
     "dimensions": "108.3 x 61.5 x 36.7 mm",
     "weightGrams": 248,
     "launchPrice": 13490,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr3000.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr3000.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr1800",
@@ -55696,7 +55719,8 @@
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr1800.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1800.webp",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr1700",
@@ -55721,7 +55745,8 @@
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr1700.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1700.webp",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr1600",
@@ -55746,7 +55771,8 @@
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr1600.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1600.webp",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr70",
@@ -55771,7 +55797,9 @@
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
     "weightGrams": 202,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr70.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr70.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr60",
@@ -55796,7 +55824,9 @@
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
     "weightGrams": 202,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr60.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr60.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr50",
@@ -55821,7 +55851,9 @@
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
     "weightGrams": 202,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr50.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr50.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr850",
@@ -55846,7 +55878,8 @@
     "batterySpec": "NP-130A (455 shots CIPA)",
     "dimensions": "107.4 x 60.0 x 30.7 mm",
     "weightGrams": 225,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr850.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr850.webp",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr800",
@@ -55871,7 +55904,10 @@
     "batterySpec": "NP-130A (470 shots CIPA)",
     "dimensions": "107.4 x 60.0 x 30.7 mm",
     "weightGrams": 222,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr800.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr800.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "EXILIM Engine HS 3"
   },
   {
     "id": "casio-exilim-ex-zr1300",
@@ -55947,7 +55983,11 @@
     "dimensions": "119.9 x 67.9 x 48.6 mm",
     "weightGrams": 384,
     "image_url": "/images/products/casio/casio-exilim-ex-10.webp",
-    "launchPrice": 24990
+    "launchPrice": 24990,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Exilim Engine HS 3",
+    "ibisRating": "2.5 stops"
   },
   {
     "id": "casio-exilim-ex-100",
@@ -55973,7 +56013,10 @@
     "dimensions": "119.9 x 67.9 x 50.5 mm",
     "weightGrams": 389,
     "launchPrice": 26990,
-    "image_url": "/images/products/casio/casio-exilim-ex-100.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-100.webp",
+    "evfMagnification": "None",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3 ADVANCE"
   },
   {
     "id": "casio-exilim-ex-100f",
@@ -55998,7 +56041,9 @@
     "batterySpec": "NP-130A (390 shots CIPA)",
     "dimensions": "119.9 x 67.9 x 50.5 mm",
     "weightGrams": 390,
-    "image_url": "/images/products/casio/casio-exilim-ex-100f.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-100f.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3 ADVANCE"
   },
   {
     "id": "casio-exilim-ex-fr10",
@@ -56044,7 +56089,9 @@
     "batterySpec": "Built-in Li-ion (235 shots CIPA)",
     "dimensions": "60.9 x 154.8 x 38.7 mm",
     "weightGrams": 214,
-    "launchPrice": 14990
+    "launchPrice": 14990,
+    "hasWeatherSeal": true,
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-fr200",
@@ -56070,7 +56117,8 @@
     "dimensions": "60.9 x 154.8 x 46.2 mm",
     "weightGrams": 238,
     "launchPrice": 16990,
-    "image_url": "/images/products/casio/casio-exilim-ex-fr200.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-fr200.webp",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-g-z-eye-gze-1",
@@ -56091,7 +56139,8 @@
     "ports": "micro USB",
     "batterySpec": "NP-150 (approx. 355 shots)",
     "dimensions": "74.1 x 75.0 x 46.4 mm",
-    "weightGrams": 172
+    "weightGrams": 172,
+    "hasWeatherSeal": true
   },
   {
     "id": "casio-exilim-ex-fr110h",
@@ -56115,7 +56164,9 @@
     "ports": "micro USB",
     "batterySpec": "Built-in Li-ion (290 shots CIPA)",
     "dimensions": "60.9 x 154.8 x 38.7 mm",
-    "weightGrams": 214
+    "weightGrams": 214,
+    "hasWeatherSeal": true,
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-fc500s",
@@ -56140,7 +56191,9 @@
     "batterySpec": "NP-160 (280 shots CIPA)",
     "dimensions": "99.6 x 59.5 x 25.0 mm",
     "weightGrams": 202,
-    "image_url": "/images/products/casio/casio-exilim-ex-fc500s.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-fc500s.webp",
+    "afPoints": "25 areas",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-mr1",
@@ -56160,7 +56213,9 @@
     "ports": "micro USB",
     "batterySpec": "Li-ion (230 shots CIPA)",
     "dimensions": "104.2 x 60.8 x 21.1 mm",
-    "weightGrams": 133
+    "weightGrams": 133,
+    "sensorType": "CMOS",
+    "videoResolution": "Full HD"
   },
   {
     "id": "casio-exilim-ex-tr35",
@@ -56182,7 +56237,8 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "Built-in Li-ion (260 shots CIPA)",
     "dimensions": "128.9 x 61.6 x 14.9 mm",
-    "weightGrams": 170
+    "weightGrams": 170,
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-tr50",
@@ -56203,7 +56259,12 @@
     "batterySpec": "Built-in Li-ion (240 shots CIPA)",
     "dimensions": "126 x 64 x 14.6 mm",
     "weightGrams": 167,
-    "launchPrice": 29490
+    "launchPrice": 29490,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Exilim Engine HS v.3",
+    "hasIBIS": false,
+    "videoResolution": "Full HD"
   },
   {
     "id": "casio-exilim-ex-tr60",
@@ -56224,7 +56285,9 @@
     "ports": "micro USB, micro HDMI",
     "batterySpec": "Built-in Li-ion (240 shots CIPA)",
     "dimensions": "126 x 64 x 14.6 mm",
-    "weightGrams": 167
+    "weightGrams": 167,
+    "videoResolution": "Full HD",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-tr70",
@@ -56245,7 +56308,9 @@
     "batterySpec": "NP-150 (220 shots CIPA)",
     "dimensions": "128.5 x 60.9 x 16.3 mm",
     "weightGrams": 149,
-    "launchPrice": 30490
+    "launchPrice": 30490,
+    "videoResolution": "Full HD 30p",
+    "processor": "EXILIM Engine HS Ver.3"
   },
   {
     "id": "casio-exilim-ex-zr1000",
@@ -56267,7 +56332,12 @@
     "weightGrams": 255,
     "ports": "USB 2.0, HDMI",
     "launchPrice": 12990,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr1000.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr1000.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "EXILIM Engine HS 3",
+    "isoRange": "80-3200",
+    "cardSlots": "1x SD/SDHC/SDXC"
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -56305,7 +56375,14 @@
     "batterySpec": "470 shots",
     "dimensions": "107.4 x 60 x 30.7 mm",
     "weightGrams": 222,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr700.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr700.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "EXILIM Engine HS 3",
+    "isoRange": "80-3200",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "CMOS"
   },
   {
     "id": "casio-exilim-ex-zr400",
@@ -56324,7 +56401,14 @@
     "batterySpec": "515 shots",
     "dimensions": "104.8 x 59.1 x 28.6 mm",
     "weightGrams": 205,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr400.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr400.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Exilim Engine HS",
+    "isoRange": "80-3200 (Ext: 12800)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI",
+    "sensorType": "BSI CMOS"
   },
   {
     "id": "casio-exilim-ex-zr300",
@@ -56344,7 +56428,13 @@
     "batterySpec": "NP-130 (500 shots)",
     "dimensions": "104.8 x 59.1 x 28.6 mm",
     "weightGrams": 205,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr300.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr300.webp",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Exilim Engine HS",
+    "isoRange": "80-3200 (Ext: 12800)",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "casio-exilim-ex-zr20",
@@ -63431,7 +63521,8 @@
     "hasWeatherSeal": false,
     "processor": "DIGIC 7",
     "ports": "USB-C",
-    "cardSlots": "1x microSD/microSDHC/microSDXC"
+    "cardSlots": "1x microSD/microSDHC/microSDXC",
+    "image_url": "/images/products/canon/canon-powershot-pick.webp"
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -72271,7 +72362,8 @@
     "evfMagnification": "None",
     "isoRange": "100-32000 (Ext: 100-51200)",
     "ports": "USB 2.0, HDMI, mic, headphone",
-    "cardSlots": "1x SD (UHS-II)"
+    "cardSlots": "1x SD (UHS-II)",
+    "image_url": "/images/products/canon/canon-powershot-v1.webp"
   },
   {
     "id": "canon-powershot-sx520-hs",
