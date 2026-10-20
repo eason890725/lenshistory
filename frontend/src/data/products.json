@@ -4068,7 +4068,9 @@
     "hasIBIS": false,
     "releaseMonth": 6,
     "hasWeatherSeal": true,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 22900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -18518,7 +18520,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-20mm-f1-4-l-vcm.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 53900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-16-28mm-f2-8-is-stm",
@@ -18629,7 +18633,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-50mm-f1-4-l-vcm.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 42900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24mm-f1-4-l-vcm",
@@ -18772,7 +18778,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "releaseMonth": 6,
-    "specialElements": "2 UD"
+    "specialElements": "2 UD",
+    "retailPrice": 34900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-55-210mm-f5-7-1-is-stm",
@@ -19839,7 +19847,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-80mm-f2-8-r-lm-ois-wr-macro.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 37900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-200mm-f2-r-lm-ois-wr",
@@ -19951,7 +19961,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-xf-500mm-f5-6-r-lm-ois-wr.webp",
     "coatings": "Fluorine",
     "hasCustomButton": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 97900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-16-50mm-f2-8-4-8-r-lm-wr",
@@ -19985,7 +19997,9 @@
     "hasWeatherSeal": true,
     "hasApertureRing": true,
     "image_url": "/images/products/fujifilm/fujifilm-xf-16-50mm-f2-8-4-8-r-lm-wr.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 22900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-16-80mm-f4-r-ois-wr",
@@ -20057,7 +20071,9 @@
     "image_url": "/images/products/fujifilm/fujifilm-xf-18-120mm-f4-lm-pz-wr.webp",
     "motorType": "Linear Motor",
     "hasCustomButton": true,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 27600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr",
@@ -20128,7 +20144,9 @@
     "hasApertureRing": false,
     "image_url": "/images/products/fujifilm/fujifilm-xc-13-33mm-f3-5-6-3-ois.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 10900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-19-35mm-t3-5-pz-ois-wr",
@@ -25319,7 +25337,9 @@
     "hasWeatherSeal": true,
     "releaseMonth": 9,
     "afTargets": "Human, Dog, Cat, Bird, Car, Motorcycle, Bicycle, Train, Airplane, Fish",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 45900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z50-ii",
@@ -26663,7 +26683,9 @@
     "processor": "BIONZ XR",
     "burstSpeed": "10fps",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 79980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fx5",
@@ -36737,7 +36759,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-8mm-f1-8-fisheye-pro.webp",
     "coatings": "ZERO Coating",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 24990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-14-150mm-f4-0-5-6-ii",
@@ -37315,7 +37339,9 @@
     "releaseMonth": 2,
     "motorType": "MSC",
     "coatings": "ZERO Coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 45990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
@@ -37494,7 +37520,9 @@
     "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii.webp",
     "releaseMonth": 2,
     "motorType": "Linear Motor",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 44990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro",
@@ -37529,7 +37557,9 @@
     "image_url": "/images/products/om-system/om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro.webp",
     "releaseMonth": 9,
     "hasApertureRing": false,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "retailPrice": 104990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-m-zuiko-digital-14-42mm-f3-5-5-6-iii",
@@ -40162,7 +40192,9 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1iie.webp",
     "releaseMonth": 5,
-    "videoColorDepth": "10-bit 4:2:2"
+    "videoColorDepth": "10-bit 4:2:2",
+    "retailPrice": 74900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-24-105mm-f4-macro-o-i-s",
@@ -40197,7 +40229,9 @@
     "releaseMonth": 2,
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 34951,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
@@ -40407,7 +40441,9 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 20980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-85mm-f1-8",
@@ -40441,7 +40477,9 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 17460,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s",
@@ -40475,7 +40513,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s.webp",
     "releaseMonth": 2,
     "motorType": "Linear Motor",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 34610,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-50mm-f1-8",
@@ -40543,7 +40583,9 @@
     "releaseMonth": 8,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 24400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-35mm-f1-8",
@@ -40611,7 +40653,9 @@
     "releaseMonth": 9,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 27150,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-14-28mm-f4-5-6-macro",
@@ -40646,7 +40690,9 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 25880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s",
@@ -40819,7 +40865,9 @@
     "releaseMonth": 5,
     "motorType": "Dual Phase Linear Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 35900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
@@ -40854,7 +40902,9 @@
     "releaseMonth": 9,
     "motorType": "Dual Phase Linear Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 59900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-40mm-f2",
@@ -55368,7 +55418,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/canon/canon-ef-m-32mm-f1-4-stm.webp",
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 14800
   },
   {
     "id": "canon-eos-m",
@@ -63723,12 +63774,11 @@
     "batterySpec": "Built-in Li-ion (290 shots)",
     "videoResolution": "4K 30p / Full HD 60p",
     "hasIBIS": false,
-    "retailPrice": 13990,
-    "retailPriceDate": "2026-10",
     "releaseMonth": 5,
     "image_url": "/images/products/canon/canon-powershot-v10.webp",
     "isoRange": "125-12800",
-    "cardSlots": "1x microSD"
+    "cardSlots": "1x microSD",
+    "launchPrice": 13990
   },
   {
     "id": "canon-powershot-sx540-hs",
@@ -70085,7 +70135,8 @@
     "burstSpeed": "10fps",
     "isoRange": "80-12800",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "launchPrice": 14480
   },
   {
     "id": "sony-cyber-shot-dsc-hx60v",
@@ -70347,7 +70398,8 @@
     "videoResolution": "4K 30p / Full HD 120p",
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
-    "batterySpec": "NP-BX1 (370 shots CIPA)"
+    "batterySpec": "NP-BX1 (370 shots CIPA)",
+    "launchPrice": 12980
   },
   {
     "id": "sony-cyber-shot-dsc-w730",
@@ -70568,7 +70620,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "launchPrice": 9980
   },
   {
     "id": "sony-hdr-as100v",
@@ -70586,7 +70639,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "launchPrice": 10980
   },
   {
     "id": "sony-hdr-az1",
@@ -72360,14 +72414,13 @@
     "videoResolution": "4K 30p / Full HD 120p",
     "hasIBIS": true,
     "burstSpeed": "20fps (One-Shot AF) / 30fps (RAW burst)",
-    "retailPrice": 24990,
-    "retailPriceDate": "2026-10",
     "image_url": "/images/products/canon/canon-powershot-g7-x-mark-iii.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "isoRange": "125-12800",
     "ports": "USB 3.2 Gen 1, HDMI, mic",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "launchPrice": 19990
   },
   {
     "id": "canon-powershot-sx50-hs",
@@ -72901,7 +72954,8 @@
     "isoRange": "80-6400",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "launchPrice": 10990
   },
   {
     "id": "canon-powershot-d30",
@@ -73136,13 +73190,12 @@
     "videoColorDepth": "10-bit 4:2:2",
     "hasIBIS": true,
     "burstSpeed": "15fps (Mech) / 30fps (Elec)",
-    "retailPrice": 29900,
-    "retailPriceDate": "2026-10",
     "evfMagnification": "None",
     "isoRange": "100-32000 (Ext: 100-51200)",
     "ports": "USB 2.0, HDMI, mic, headphone",
     "cardSlots": "1x SD (UHS-II)",
-    "image_url": "/images/products/canon/canon-powershot-v1.webp"
+    "image_url": "/images/products/canon/canon-powershot-v1.webp",
+    "launchPrice": 29900
   },
   {
     "id": "canon-powershot-sx520-hs",
