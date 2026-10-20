@@ -14189,9 +14189,7 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "image_url": "/images/products/zeiss/25mm-f2-4.webp",
-    "retailPrice": 33000,
-    "retailPriceDate": "2026-10"
+    "image_url": "/images/products/zeiss/25mm-f2-4.webp"
   },
   {
     "brand": "Laowa",
@@ -14911,9 +14909,7 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 9,
-    "image_url": "/images/products/zeiss/85mm-f2-4.webp",
-    "retailPrice": 35600,
-    "retailPriceDate": "2026-10"
+    "image_url": "/images/products/zeiss/85mm-f2-4.webp"
   },
   {
     "brand": "Laowa",
@@ -29545,9 +29541,7 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "image_url": "/images/products/samyang/samyang-af-60-180mm-f2-8-fe.webp",
-    "releaseMonth": 6,
-    "retailPrice": 29800,
-    "retailPriceDate": "2026-10"
+    "releaseMonth": 6
   },
   {
     "id": "samyang-af-24-60mm-f2-8-fe",
@@ -40243,9 +40237,7 @@
     "releaseMonth": 2,
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
-    "hasWeatherSeal": true,
-    "retailPrice": 34951,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
@@ -40455,9 +40447,7 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true,
-    "retailPrice": 20980,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-85mm-f1-8",
@@ -40491,9 +40481,7 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true,
-    "retailPrice": 17460,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s",
@@ -40527,9 +40515,7 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s.webp",
     "releaseMonth": 2,
     "motorType": "Linear Motor",
-    "hasWeatherSeal": true,
-    "retailPrice": 34610,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-50mm-f1-8",
@@ -40633,9 +40619,7 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true,
-    "retailPrice": 17990,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-18mm-f1-8",
@@ -40706,9 +40690,7 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true,
-    "retailPrice": 25880,
-    "retailPriceDate": "2026-10"
+    "hasWeatherSeal": true
   },
   {
     "id": "panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s",
@@ -40881,9 +40863,7 @@
     "releaseMonth": 5,
     "motorType": "Dual Phase Linear Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false,
-    "retailPrice": 35900,
-    "retailPriceDate": "2026-10"
+    "hasApertureRing": false
   },
   {
     "id": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
@@ -46002,9 +45982,7 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-35mm-f-1-4-asph.webp",
-    "releaseMonth": 9,
-    "retailPrice": 21500,
-    "retailPriceDate": "2026-10"
+    "releaseMonth": 9
   },
   {
     "id": "thypoch-simera-50mm-f-1-4-asph",
@@ -46108,9 +46086,7 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-21mm-f-1-4-asph.webp",
-    "releaseMonth": 6,
-    "retailPrice": 29190,
-    "retailPriceDate": "2026-10"
+    "releaseMonth": 6
   },
   {
     "id": "thypoch-voyager-24-50mm-f-2-8",
@@ -57097,11 +57073,10 @@
     "hasWeatherSeal": true,
     "dimensions": "70.5 x 44.2 x 32.8 mm",
     "weightGrams": 146,
-    "retailPrice": 9690,
     "image_url": "/images/products/dji/dji-osmo-action-5-pro.webp",
-    "retailPriceDate": "2026-10",
     "sensorType": "CMOS",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "launchPrice": 13290
   },
   {
     "id": "dji-osmo-pocket-3",
@@ -57123,10 +57098,9 @@
     "cardSlots": "1x microSD (up to 1TB)",
     "dimensions": "139.7 x 42.2 x 33.5 mm",
     "weightGrams": 179,
-    "retailPrice": 10590,
     "image_url": "/images/products/dji/dji-osmo-pocket-3.webp",
-    "retailPriceDate": "2026-10",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "launchPrice": 17900
   },
   {
     "id": "dji-osmo-action-4",
@@ -57148,11 +57122,10 @@
     "cardSlots": "1x microSD (up to 512GB)",
     "hasWeatherSeal": true,
     "weightGrams": 145,
-    "retailPrice": 7090,
     "image_url": "/images/products/dji/dji-osmo-action-4.webp",
-    "retailPriceDate": "2026-10",
     "sensorType": "CMOS",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "launchPrice": 13290
   },
   {
     "id": "dji-osmo-action-3",
@@ -57828,11 +57801,10 @@
     "lcdSpec": "2.0-inch fixed touch",
     "weightGrams": 154,
     "hasWeatherSeal": true,
-    "retailPrice": 9990,
-    "retailPriceDate": "2026-10",
     "evfMagnification": "None",
     "burstSpeed": "30fps",
-    "ports": "USB 3.0"
+    "ports": "USB 3.0",
+    "launchPrice": 19600
   },
   {
     "id": "gopro-hero7-black",
@@ -67203,9 +67175,7 @@
     "ports": "USB-C",
     "dimensions": "109.4 x 61.1 x 32.7 mm",
     "weightGrams": 262,
-    "videoResolution": "Full HD 60p",
-    "retailPrice": 49800,
-    "retailPriceDate": "2026-10"
+    "videoResolution": "Full HD 60p"
   },
   {
     "id": "ricoh-gr-iv-monochrome",
@@ -69288,9 +69258,7 @@
     "burstSpeed": "6fps",
     "ports": "micro USB",
     "cardSlots": "1x microSD/SDHC",
-    "afPoints": "25 points",
-    "retailPrice": 7490,
-    "retailPriceDate": "2026-10"
+    "afPoints": "25 points"
   },
   {
     "id": "kodak-pixpro-az653",
