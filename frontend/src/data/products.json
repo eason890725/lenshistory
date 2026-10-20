@@ -51599,7 +51599,12 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-sword-25mm-t2-9-1x-macro.webp"
+    "image_url": "/images/products/laowa/laowa-sword-25mm-t2-9-1x-macro.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "minAperture": "T22",
+    "filterSizeMm": 77
   },
   {
     "id": "laowa-nanomorph-60mm-t2-9-1-5x-macro",
@@ -51641,7 +51646,11 @@
         }
       }
     ],
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 77
   },
   {
     "id": "laowa-nanomorph-zoom-28-55mm-t2-9-1-5x",
@@ -51684,7 +51693,15 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-28-55mm-t2-9-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-28-55mm-t2-9-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "minAperture": "T22",
+    "opticalDesign": "21 elements in 15 groups",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84.8 x 188.5 mm",
+    "weightGrams": 1513
   },
   {
     "id": "laowa-nanomorph-zoom-50-100mm-t2-9-1-5x",
@@ -51726,7 +51743,16 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-50-100mm-t2-9-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-zoom-50-100mm-t2-9-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "minAperture": "T22",
+    "opticalDesign": "20 elements in 14 groups",
+    "closeFocus": "0.8m",
+    "filterSizeMm": 77,
+    "dimensions": "Ø84.8 x 186.5 mm",
+    "weightGrams": 1500
   },
   {
     "id": "laowa-nanomorph-20mm-t2-2-1-5x-mft",
@@ -51752,7 +51778,12 @@
       }
     ],
     "sensorFormat": "Four Thirds",
-    "image_url": "/images/products/laowa/laowa-nanomorph-20mm-t2-2-1-5x-mft.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-20mm-t2-2-1-5x-mft.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "minAperture": "T16",
+    "opticalDesign": "15 elements in 13 groups"
   },
   {
     "id": "laowa-ooom-14-60mm-t2-9-mft-cine",
@@ -51778,7 +51809,12 @@
         }
       }
     ],
-    "sensorFormat": "Four Thirds"
+    "sensorFormat": "Four Thirds",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "maxMagnification": "0.14x",
+    "filterSizeMm": 77
   },
   {
     "id": "laowa-nanomorph-27mm-t2-8-1-5x",
@@ -51827,7 +51863,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-27mm-t2-8-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-27mm-t2-8-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 55,
+    "opticalDesign": "15 elements in 13 groups",
+    "dimensions": "Ø60 x 90 mm"
   },
   {
     "id": "laowa-nanomorph-35mm-t2-4-1-5x",
@@ -51876,7 +51918,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-35mm-t2-4-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-35mm-t2-4-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 55,
+    "opticalDesign": "15 elements in 13 groups",
+    "dimensions": "Ø60 x 90 mm"
   },
   {
     "id": "laowa-nanomorph-50mm-t2-4-1-5x",
@@ -51925,7 +51973,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-50mm-t2-4-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-50mm-t2-4-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 55,
+    "opticalDesign": "15 elements in 13 groups",
+    "dimensions": "Ø60 x 100 mm"
   },
   {
     "id": "laowa-nanomorph-65mm-t2-4-1-5x",
@@ -51975,7 +52029,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-65mm-t2-4-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-65mm-t2-4-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 62,
+    "opticalDesign": "15 elements in 13 groups",
+    "dimensions": "Ø67 x 132 mm"
   },
   {
     "id": "laowa-nanomorph-80mm-t2-4-1-5x",
@@ -52025,7 +52085,13 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-nanomorph-80mm-t2-4-1-5x.webp"
+    "image_url": "/images/products/laowa/laowa-nanomorph-80mm-t2-4-1-5x.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 62,
+    "opticalDesign": "14 elements in 13 groups",
+    "dimensions": "Ø67 x 141 mm"
   },
   {
     "id": "laowa-ranger-28-75mm-t2-9-ff",
@@ -52070,7 +52136,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-ranger-28-75mm-t2-9-ff.webp"
+    "image_url": "/images/products/laowa/laowa-ranger-28-75mm-t2-9-ff.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-ranger-75-180mm-t2-9-ff",
@@ -52115,7 +52182,8 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-ranger-75-180mm-t2-9-ff.webp"
+    "image_url": "/images/products/laowa/laowa-ranger-75-180mm-t2-9-ff.webp",
+    "hasApertureRing": true
   },
   {
     "id": "laowa-ranger-s35-11-18mm-t2-9",
@@ -52163,7 +52231,11 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-ranger-s35-11-18mm-t2-9.webp"
+    "image_url": "/images/products/laowa/laowa-ranger-s35-11-18mm-t2-9.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "maxMagnification": "0.08x"
   },
   {
     "id": "laowa-ranger-s35-17-50mm-t2-9",
@@ -52211,7 +52283,11 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-ranger-s35-17-50mm-t2-9.webp"
+    "image_url": "/images/products/laowa/laowa-ranger-s35-17-50mm-t2-9.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "maxMagnification": "0.22x"
   },
   {
     "id": "laowa-ranger-s35-50-130mm-t2-9",
@@ -52259,7 +52335,11 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-ranger-s35-50-130mm-t2-9.webp"
+    "image_url": "/images/products/laowa/laowa-ranger-s35-50-130mm-t2-9.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "maxMagnification": "0.18x"
   },
   {
     "id": "laowa-sunlight-40-80mm-t4-5-2x-ff-anamorphic-zoom",
@@ -52300,7 +52380,11 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-sunlight-40-80mm-t4-5-2x-ff-anamorphic-zoom.webp"
+    "image_url": "/images/products/laowa/laowa-sunlight-40-80mm-t4-5-2x-ff-anamorphic-zoom.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 95
   },
   {
     "id": "laowa-sunlight-70-135mm-t4-5-2x-ff-anamorphic-zoom",
@@ -52341,7 +52425,11 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-sunlight-70-135mm-t4-5-2x-ff-anamorphic-zoom.webp"
+    "image_url": "/images/products/laowa/laowa-sunlight-70-135mm-t4-5-2x-ff-anamorphic-zoom.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasApertureRing": true,
+    "filterSizeMm": 95
   },
   {
     "id": "laowa-probe-zoom-15-24mm-t8-1-6x",
@@ -52382,7 +52470,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-probe-zoom-15-24mm-t8-1-6x.webp"
+    "image_url": "/images/products/laowa/laowa-probe-zoom-15-24mm-t8-1-6x.webp",
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "laowa-probe-zoom-15-35mm-t12-2-3x",
@@ -52423,7 +52513,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-probe-zoom-15-35mm-t12-2-3x.webp"
+    "image_url": "/images/products/laowa/laowa-probe-zoom-15-35mm-t12-2-3x.webp",
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "laowa-7-5mm-t2-9-zero-d-s35-cine",
@@ -52460,7 +52552,17 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "image_url": "/images/products/laowa/laowa-7-5mm-t2-9-zero-d-s35-cine.webp"
+    "image_url": "/images/products/laowa/laowa-7-5mm-t2-9-zero-d-s35-cine.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "minAperture": "T22",
+    "opticalDesign": "16 elements in 10 groups",
+    "specialElements": "2 ED, 2 Aspherical",
+    "closeFocus": "0.25m",
+    "maxMagnification": "0.05x",
+    "filterSizeMm": 77,
+    "dimensions": "Ø80 x 80.7 mm",
+    "weightGrams": 610
   },
   {
     "id": "laowa-58mm-f2-8-2x-ultra-macro-apo",
@@ -52508,7 +52610,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-58mm-f2-8-2x-ultra-macro-apo.webp",
     "retailPrice": 17500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-24mm-f2-zero-d-tilt-shift",
@@ -52562,7 +52665,8 @@
         }
       }
     ],
-    "sensorFormat": "Medium Format"
+    "sensorFormat": "Medium Format",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-aurogon-ff-10-50x-na0-5-supermicro-apo",
@@ -52651,7 +52755,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/laowa-24mm-t14-2x-macro-periprobe.webp",
     "retailPrice": 53700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-24mm-t8-2x-macro-pro2be",
@@ -52694,7 +52799,9 @@
       }
     ],
     "sensorFormat": "Full Frame",
-    "image_url": "/images/products/laowa/laowa-24mm-t8-2x-macro-pro2be.webp"
+    "image_url": "/images/products/laowa/laowa-24mm-t8-2x-macro-pro2be.webp",
+    "hasCustomButton": false,
+    "hasApertureRing": true
   },
   {
     "id": "meike-50mm-t2-1-ff-prime-cine",
@@ -52854,7 +52961,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-24mm-t2-1-ff-prime-cine.webp"
+    "image_url": "/images/products/meike/meike-24mm-t2-1-ff-prime-cine.webp",
+    "releaseMonth": 9
   },
   {
     "id": "meike-105mm-t2-1-ff-prime-cine",
@@ -61650,7 +61758,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "releaseMonth": 2
   },
   {
     "id": "cooke-sp3-18mm-t2-4",
@@ -62121,7 +62230,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/blazar/blazar-mantis-25mm-t2-4-1-33x-full-frame-anamorphic.webp"
+    "image_url": "/images/products/blazar/blazar-mantis-25mm-t2-4-1-33x-full-frame-anamorphic.webp",
+    "releaseMonth": 4
   },
   {
     "id": "blazar-mantis-35mm-t2-0-1-33x-full-frame-anamorphic",
@@ -62160,7 +62270,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/blazar/blazar-mantis-35mm-t2-0-1-33x-full-frame-anamorphic.webp"
+    "image_url": "/images/products/blazar/blazar-mantis-35mm-t2-0-1-33x-full-frame-anamorphic.webp",
+    "releaseMonth": 4
   },
   {
     "id": "blazar-mantis-50mm-t2-0-1-33x-full-frame-anamorphic",
@@ -62199,7 +62310,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/blazar/blazar-mantis-50mm-t2-0-1-33x-full-frame-anamorphic.webp"
+    "image_url": "/images/products/blazar/blazar-mantis-50mm-t2-0-1-33x-full-frame-anamorphic.webp",
+    "releaseMonth": 4
   },
   {
     "id": "blazar-mantis-75mm-t2-0-1-33x-full-frame-anamorphic",
@@ -62238,7 +62350,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/blazar/blazar-mantis-75mm-t2-0-1-33x-full-frame-anamorphic.webp"
+    "image_url": "/images/products/blazar/blazar-mantis-75mm-t2-0-1-33x-full-frame-anamorphic.webp",
+    "releaseMonth": 4
   },
   {
     "id": "blazar-mantis-100mm-t2-4-1-33x-full-frame-anamorphic",
@@ -62277,7 +62390,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "image_url": "/images/products/blazar/blazar-mantis-100mm-t2-4-1-33x-full-frame-anamorphic.webp"
+    "image_url": "/images/products/blazar/blazar-mantis-100mm-t2-4-1-33x-full-frame-anamorphic.webp",
+    "releaseMonth": 4
   },
   {
     "id": "blazar-mantis-135mm-t3-2-1-33x-full-frame-anamorphic",
@@ -63543,7 +63657,12 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "LI-90B (310 shots CIPA)",
     "isoRange": "100-12800",
-    "burstSpeed": "15fps"
+    "burstSpeed": "15fps",
+    "hasWeatherSeal": false,
+    "sensorType": "CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD",
+    "processor": "TruePic VI"
   },
   {
     "id": "olympus-stylus-1",
@@ -63567,7 +63686,13 @@
     "isoRange": "100-12800",
     "burstSpeed": "7fps",
     "image_url": "/images/products/om-system/olympus-stylus-1.webp",
-    "launchPrice": 19900
+    "launchPrice": 19900,
+    "hasWeatherSeal": false,
+    "evfMagnification": "1.15x",
+    "processor": "TruePic VI",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "fujifilm-finepix-xp140",
@@ -63669,7 +63794,12 @@
     "lcdSpec": "3.0-inch 0.92M-dot touch",
     "batterySpec": "LI-50B (240 shots CIPA)",
     "isoRange": "100-6400",
-    "burstSpeed": "15fps"
+    "burstSpeed": "15fps",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-tg-2-tough",
@@ -63691,7 +63821,12 @@
     "batterySpec": "LI-90B",
     "isoRange": "100-6400",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/om-system/olympus-stylus-tg-2-tough.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-tg-2-tough.webp",
+    "evfMagnification": "None",
+    "burstSpeed": "5fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-tough-tg-1",
@@ -63712,7 +63847,13 @@
     "lcdSpec": "3.0-inch 0.61M-dot fixed OLED",
     "batterySpec": "LI-90B",
     "isoRange": "100-6400",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "TruePic VI",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "burstSpeed": "5fps",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-tg-830-tough",
@@ -63732,7 +63873,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD (UHS-I)",
+    "burstSpeed": "11.5fps"
   },
   {
     "id": "olympus-stylus-tg-630-tough",
@@ -63752,7 +63899,12 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-sh-50",
@@ -63772,7 +63924,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-90B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TruePic VI",
+    "burstSpeed": "11.5fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-sz-15",
@@ -63792,7 +63951,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-1600"
+    "isoRange": "100-1600",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "10fps",
+    "sensorType": "CCD",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-tough-tg-820",
@@ -63812,7 +63977,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 1.03M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "TruePic VI",
+    "burstSpeed": "5fps",
+    "sensorType": "CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-tough-tg-620",
@@ -63832,7 +64004,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD",
+    "ports": "USB (multi-connector), micro HDMI",
+    "hasWeatherSeal": true,
+    "processor": "TruePic VI",
+    "burstSpeed": "5fps"
   },
   {
     "id": "olympus-tough-tg-320",
@@ -63852,7 +64030,14 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "LI-42B",
-    "isoRange": "80-1600"
+    "isoRange": "80-1600",
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "TruePic III+",
+    "burstSpeed": "0.6fps",
+    "sensorType": "CCD",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-sp-620uz",
@@ -63871,7 +64056,14 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.23M-dot",
     "batterySpec": "4x AA",
-    "isoRange": "80-1600"
+    "isoRange": "80-1600",
+    "releaseMonth": 1,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TruePic III+",
+    "sensorType": "CCD",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-vg-170",
@@ -63891,7 +64083,10 @@
     "hasIBIS": false,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "80-1600"
+    "isoRange": "80-1600",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD",
+    "ports": "USB (multi-connector)"
   },
   {
     "id": "olympus-sz-14",
@@ -63911,7 +64106,10 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "80-1600"
+    "isoRange": "80-1600",
+    "sensorType": "CCD",
+    "cardSlots": "1x SD",
+    "ports": "USB (multi-connector), micro HDMI"
   },
   {
     "id": "olympus-stylus-tg-625-tough",
@@ -63931,7 +64129,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "hasWeatherSeal": true,
+    "sensorType": "BSI-CMOS",
+    "processor": "TruePic VI",
+    "burstSpeed": "5fps",
+    "cardSlots": "1x SD",
+    "ports": "USB (multi-connector), micro HDMI"
   },
   {
     "id": "olympus-stylus-sp-820uz",
@@ -63951,7 +64155,13 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "4x AA",
-    "isoRange": "80-6400"
+    "isoRange": "80-6400",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "burstSpeed": "1.5fps",
+    "sensorType": "CMOS",
+    "ports": "USB 2.0",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-sp-720uz",
@@ -63971,7 +64181,11 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-50B",
-    "isoRange": "100-3200"
+    "isoRange": "100-3200",
+    "sensorType": "CMOS",
+    "cardSlots": "1x SD",
+    "ports": "USB (multi-connector), micro HDMI, remote cable",
+    "burstSpeed": "5fps"
   },
   {
     "id": "olympus-sz-31mr",
@@ -63990,7 +64204,15 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot touch",
     "batterySpec": "LI-50B",
-    "isoRange": "80-6400"
+    "isoRange": "80-6400",
+    "releaseMonth": 2,
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "Dual TruePic V",
+    "burstSpeed": "7fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-sh-25mr",
@@ -64010,7 +64232,12 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot touch",
     "batterySpec": "LI-50B",
-    "isoRange": "80-6400"
+    "isoRange": "80-6400",
+    "sensorType": "BSI-CMOS",
+    "processor": "TruePic V",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD (UHS-I)",
+    "ports": "USB (multi-connector), micro HDMI, remote cable"
   },
   {
     "id": "olympus-stylus-sh-60",
@@ -64030,7 +64257,11 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-90B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "sensorType": "BSI-CMOS",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD",
+    "ports": "USB, HDMI"
   },
   {
     "id": "olympus-stylus-sp-100ee",
@@ -64050,7 +64281,15 @@
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-92B",
     "isoRange": "125-6400",
-    "image_url": "/images/products/om-system/olympus-stylus-sp-100ee.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-sp-100ee.webp",
+    "releaseMonth": 1,
+    "hasWeatherSeal": false,
+    "evfResolution": "0.92M-dot",
+    "burstSpeed": "7fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD",
+    "processor": "TruePic VII"
   },
   {
     "id": "olympus-stylus-tg-850-tough",
@@ -64069,7 +64308,15 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot tilting",
     "batterySpec": "LI-50B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "releaseMonth": 1,
+    "hasWeatherSeal": true,
+    "evfMagnification": "None",
+    "processor": "TruePic VII",
+    "burstSpeed": "7.1fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-sh-1",
@@ -64090,7 +64337,14 @@
     "ibisRating": "3.5 stops",
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-92B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "processor": "TruePic VII",
+    "burstSpeed": "11.5fps",
+    "sensorType": "BSI-CMOS",
+    "ports": "USB 2.0, HDMI",
+    "cardSlots": "1x SD"
   },
   {
     "id": "olympus-stylus-tg-3-tough",
@@ -64110,7 +64364,8 @@
     "lcdSpec": "3.0-inch 0.46M-dot",
     "batterySpec": "LI-92B",
     "isoRange": "100-6400",
-    "image_url": "/images/products/om-system/olympus-stylus-tg-3-tough.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-tg-3-tough.webp",
+    "releaseMonth": 3
   },
   {
     "id": "olympus-stylus-1s",
@@ -64171,7 +64426,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot tilting",
     "batterySpec": "LI-50B",
-    "isoRange": "125-6400"
+    "isoRange": "125-6400",
+    "releaseMonth": 2
   },
   {
     "id": "olympus-stylus-sh-2",
@@ -65159,7 +65415,8 @@
     "evfMagnification": "None",
     "processor": "Venus Engine",
     "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
-    "batterySpec": "DMW-BLG10 (360 shots CIPA)"
+    "batterySpec": "DMW-BLG10 (360 shots CIPA)",
+    "releaseMonth": 3
   },
   {
     "id": "panasonic-lumix-lx100",
@@ -65439,7 +65696,8 @@
     "weightGrams": 691,
     "image_url": "/images/products/panasonic/panasonic-lumix-fz300.webp",
     "processor": "Venus Engine",
-    "evfMagnification": "0.7x"
+    "evfMagnification": "0.7x",
+    "releaseMonth": 7
   },
   {
     "id": "panasonic-lumix-fz2500",
@@ -68828,7 +69086,8 @@
     "burstSpeed": "14fps",
     "isoRange": "100-12800 (Ext: 64-25600)",
     "ports": "USB 2.0, HDMI, microphone, headphone",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "releaseMonth": 3
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iv",
@@ -68962,7 +69221,8 @@
     "burstSpeed": "5fps",
     "isoRange": "100-25600 (Ext: 50-102400)",
     "ports": "USB 2.0, HDMI, microphone",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo",
+    "releaseMonth": 10
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-iii",
@@ -69728,7 +69988,8 @@
     "videoResolution": "720p 30p",
     "hasIBIS": false,
     "lcdSpec": "2.7-inch 0.23M-dot fixed",
-    "batterySpec": "NP-BN (200 shots CIPA)"
+    "batterySpec": "NP-BN (200 shots CIPA)",
+    "releaseMonth": 2
   },
   {
     "id": "sony-cyber-shot-dsc-h300",
@@ -69747,7 +70008,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.46M-dot fixed",
     "batterySpec": "AA batteries (350 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-h300.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-h300.webp",
+    "releaseMonth": 2
   },
   {
     "id": "sony-cyber-shot-dsc-h400",
@@ -69851,7 +70113,8 @@
     "dimensions": "24.2 x 46.5 x 81.5 mm",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "batterySpec": "NP-BX1"
+    "batterySpec": "NP-BX1",
+    "releaseMonth": 1
   },
   {
     "id": "sony-hdr-az1",
@@ -69869,7 +70132,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BY1",
-    "launchPrice": 9980
+    "launchPrice": 9980,
+    "releaseMonth": 10
   },
   {
     "id": "sony-fdr-x1000v",
@@ -69889,7 +70153,8 @@
     "sensorType": "Exmor R CMOS",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
-    "weightGrams": 114
+    "weightGrams": 114,
+    "releaseMonth": 1
   },
   {
     "id": "sony-hdr-as200v",
@@ -69910,7 +70175,8 @@
     "sensorType": "Exmor R CMOS",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
-    "weightGrams": 93
+    "weightGrams": 93,
+    "releaseMonth": 1
   },
   {
     "id": "sony-hdr-as50",
@@ -69929,7 +70195,8 @@
     "batterySpec": "NP-BX1",
     "launchPrice": 7980,
     "sensorType": "Exmor R CMOS",
-    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)"
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "releaseMonth": 1
   },
   {
     "id": "sony-fdr-x3000",
@@ -69954,7 +70221,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "releaseMonth": 6
   },
   {
     "id": "sony-hdr-as300",
@@ -69978,7 +70246,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "releaseMonth": 6
   },
   {
     "id": "voigtlander-ultron-vintage-line-35mm-f2-aspherical",
