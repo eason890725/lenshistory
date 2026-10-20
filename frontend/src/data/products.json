@@ -54345,7 +54345,8 @@
     "dimensions": "162 x 85 x 56 mm",
     "cardSlots": "1x microSD",
     "ports": "2x USB-C, headphone, mic, nano-SIM",
-    "batterySpec": "4400mAh (USB-C charging)"
+    "batterySpec": "4400mAh (USB-C charging)",
+    "weightGrams": 670
   },
   {
     "id": "viltrox-mf-23mm-t1-5-cine",
@@ -55050,7 +55051,11 @@
           "name": "L-Mount"
         }
       }
-    ]
+    ],
+    "specialElements": "3 ED",
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "sirui-night-walker-75mm-t1-2",
@@ -55883,7 +55888,8 @@
     "launchPrice": 13490,
     "image_url": "/images/products/casio/casio-exilim-ex-zr3000.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "releaseMonth": 7
   },
   {
     "id": "casio-exilim-ex-zr1800",
@@ -57492,7 +57498,8 @@
     "dimensions": "71.8 x 50.8 x 33.6 mm",
     "weightGrams": 154,
     "hasWeatherSeal": true,
-    "launchPrice": 14900
+    "launchPrice": 14900,
+    "logSupport": "GP-Log"
   },
   {
     "id": "gopro-hero11-black",
@@ -57516,7 +57523,9 @@
     "weightGrams": 154,
     "hasWeatherSeal": true,
     "image_url": "/images/products/gopro/gopro-hero11-black.webp",
-    "launchPrice": 17500
+    "launchPrice": 17500,
+    "ports": "USB-C",
+    "isoRange": "100-3200 (Photo) / 100-6400 (Video)"
   },
   {
     "id": "gopro-hero11-black-mini",
@@ -57541,7 +57550,8 @@
     "weightGrams": 133,
     "hasWeatherSeal": true,
     "image_url": "/images/products/gopro/gopro-hero11-black-mini.webp",
-    "launchPrice": 14900
+    "launchPrice": 14900,
+    "ports": "USB-C"
   },
   {
     "id": "gopro-lit-hero",
@@ -57597,7 +57607,8 @@
     "cardSlots": "1x microSD",
     "batterySpec": "1720mAh Li-ion",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/gopro/gopro-hero10-black.webp"
+    "image_url": "/images/products/gopro/gopro-hero10-black.webp",
+    "ports": "USB-C"
   },
   {
     "id": "gopro-hero9-black",
@@ -57850,7 +57861,12 @@
     "releaseMonth": 7,
     "megapixels": "8MP",
     "videoResolution": "1440p 30p / Full HD 60p",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false,
+    "weightGrams": 74,
+    "burstSpeed": "10fps",
+    "cardSlots": "1x microSD",
+    "ports": "Micro-USB"
   },
   {
     "id": "gopro-hero4-black",
@@ -61492,7 +61508,15 @@
     "gearType": "LENS",
     "releaseYear": 2015,
     "releaseMonth": 11,
-    "image_url": "/images/products/slr-magic/slr-magic-cine-50mm-f1-1.webp"
+    "image_url": "/images/products/slr-magic/slr-magic-cine-50mm-f1-1.webp",
+    "opticalDesign": "6 elements in 5 groups",
+    "closeFocus": "0.5m",
+    "minAperture": "16",
+    "filterSizeMm": 52,
+    "dimensions": "Ø63 x 54.8 mm",
+    "weightGrams": 400,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "slr-magic-cine-35mm-f1-2",
@@ -61502,7 +61526,13 @@
     "gearType": "LENS",
     "releaseYear": 2016,
     "releaseMonth": 6,
-    "image_url": "/images/products/slr-magic/slr-magic-cine-35mm-f1-2.webp"
+    "image_url": "/images/products/slr-magic/slr-magic-cine-35mm-f1-2.webp",
+    "opticalDesign": "9 elements in 8 groups",
+    "closeFocus": "0.3m",
+    "minAperture": "16",
+    "filterSizeMm": 52,
+    "dimensions": "Ø64.73 x 77.4 mm",
+    "weightGrams": 535
   },
   {
     "id": "slr-magic-cine-75mm-f1-4",
@@ -61511,7 +61541,13 @@
     "modelName": "SLR Magic CINE 75mm F1.4",
     "gearType": "LENS",
     "releaseYear": 2016,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "opticalDesign": "6 elements in 6 groups",
+    "closeFocus": "0.7m",
+    "minAperture": "16",
+    "filterSizeMm": 52,
+    "dimensions": "Ø64.67 x 78.68 mm",
+    "weightGrams": 455
   },
   {
     "id": "slr-magic-cine-50mm-f1-1-ii",
@@ -61650,7 +61686,13 @@
         }
       }
     ],
-    "image_url": "/images/products/slr-magic/slr-magic-hyperprime-cine-10mm-t2-1.webp"
+    "image_url": "/images/products/slr-magic/slr-magic-hyperprime-cine-10mm-t2-1.webp",
+    "closeFocus": "0.2m",
+    "dimensions": "Ø80 x 79.45 mm",
+    "weightGrams": 420,
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "slr-magic-2x-anamorphot-cine-35mm-t2-4",
@@ -67262,7 +67304,8 @@
     "ports": "micro USB 2.0, micro HDMI",
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
-    "weightGrams": 192
+    "weightGrams": 192,
+    "afPoints": "9 points"
   },
   {
     "id": "ricoh-wg-m2",
@@ -68433,7 +68476,9 @@
     "batterySpec": "LB-060 (200 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "112.7 x 81.6 x 76.7 mm"
+    "dimensions": "112.7 x 81.6 x 76.7 mm",
+    "afPoints": "9 points",
+    "weightGrams": 416
   },
   {
     "id": "kodak-pixpro-az251",
@@ -68455,7 +68500,9 @@
     "batterySpec": "4x AA (280 shots CIPA, alkaline)",
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "115.0 x 74.3 x 69.6 mm"
+    "dimensions": "115.0 x 74.3 x 69.6 mm",
+    "afPoints": "9 points",
+    "weightGrams": 354
   },
   {
     "id": "kodak-pixpro-az362",
@@ -68478,7 +68525,9 @@
     "batterySpec": "LB-060 (210 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "112.7 x 81.6 x 76.7 mm"
+    "dimensions": "112.7 x 81.6 x 76.7 mm",
+    "afPoints": "9 points",
+    "weightGrams": 416
   },
   {
     "id": "kodak-pixpro-az501",
@@ -68500,7 +68549,9 @@
     "batterySpec": "LB-060 (200 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "121.3 x 85.8 x 97.5 mm"
+    "dimensions": "121.3 x 85.8 x 97.5 mm",
+    "afPoints": "9 points",
+    "weightGrams": 503
   },
   {
     "id": "kodak-pixpro-az522",
@@ -68521,7 +68572,11 @@
     "batterySpec": "LB-060 (240 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "118.9 x 88.9 x 97.5 mm"
+    "dimensions": "118.9 x 88.9 x 97.5 mm",
+    "isoRange": "100-3200",
+    "afPoints": "25 points",
+    "weightGrams": 530,
+    "burstSpeed": "9fps"
   },
   {
     "id": "kodak-pixpro-fz41",
@@ -68541,7 +68596,11 @@
     "videoResolution": "720p 30p",
     "batterySpec": "2x AA (120 shots CIPA, alkaline)",
     "cardSlots": "1x SD/SDHC",
-    "dimensions": "93.3 x 60.4 x 26.6 mm"
+    "dimensions": "93.3 x 60.4 x 26.6 mm",
+    "isoRange": "80-1600",
+    "afPoints": "9 points",
+    "weightGrams": 116,
+    "ports": "Micro-USB (USB 2.0), AV-OUT"
   },
   {
     "id": "kodak-pixpro-fz51",
@@ -68561,7 +68620,11 @@
     "videoResolution": "720p 30p",
     "batterySpec": "LB-012 (200 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
-    "dimensions": "91.5 x 56.5 x 22.9 mm"
+    "dimensions": "91.5 x 56.5 x 22.9 mm",
+    "isoRange": "80-1600",
+    "afPoints": "9 points",
+    "weightGrams": 106,
+    "ports": "Micro-USB (USB 2.0), AV-OUT"
   },
   {
     "id": "kodak-pixpro-fz151",
@@ -68581,7 +68644,11 @@
     "videoResolution": "720p 30p",
     "batterySpec": "LB-050 (210 shots CIPA)",
     "cardSlots": "1x SD/SDHC",
-    "dimensions": "108.2 x 59.7 x 30.9 mm"
+    "dimensions": "108.2 x 59.7 x 30.9 mm",
+    "isoRange": "80-1600",
+    "afPoints": "9 points",
+    "weightGrams": 180,
+    "ports": "Micro-USB (USB 2.0), AV-OUT"
   },
   {
     "id": "kodak-pixpro-spz1",
@@ -68695,7 +68762,11 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "LB-060 (240 shots CIPA)",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "121.3 x 85.8 x 97.5 mm"
+    "dimensions": "121.3 x 85.8 x 97.5 mm",
+    "isoRange": "100-3200",
+    "afPoints": "25 points",
+    "weightGrams": 508,
+    "cardSlots": "1x SD/SDHC"
   },
   {
     "id": "kodak-pixpro-sl10-smart-lens",
@@ -68841,7 +68912,11 @@
     "videoResolution": "720p 30p",
     "batterySpec": "LB-060 (200 shots CIPA)",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "112.7 x 81.6 x 84.4 mm"
+    "dimensions": "112.7 x 81.6 x 84.4 mm",
+    "isoRange": "80-3200",
+    "afPoints": "9 points",
+    "weightGrams": 444,
+    "cardSlots": "1x SD/SDHC"
   },
   {
     "id": "kodak-pixpro-fz43",
@@ -68971,7 +69046,12 @@
     "lcdSpec": "3.0-inch 0.23M-dot",
     "videoResolution": "720p 30p",
     "batterySpec": "LB-052 (210 shots CIPA)",
-    "dimensions": "109.7 x 69.6 x 38.3 mm"
+    "dimensions": "109.7 x 69.6 x 38.3 mm",
+    "isoRange": "80-1600",
+    "afPoints": "9 points",
+    "weightGrams": 202,
+    "cardSlots": "1x SD/SDHC",
+    "ports": "Micro-USB (USB 2.0), AV-OUT"
   },
   {
     "id": "kodak-pixpro-orbit360-4k",
@@ -70470,7 +70550,8 @@
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
-    "lcdSpec": "None"
+    "lcdSpec": "None",
+    "releaseMonth": 8
   },
   {
     "id": "sony-hdr-as30v",
@@ -70486,7 +70567,8 @@
     "dimensions": "24.5 x 47.0 x 82.0 mm",
     "videoResolution": "Full HD 60p",
     "hasIBIS": false,
-    "batterySpec": "NP-BX1"
+    "batterySpec": "NP-BX1",
+    "releaseMonth": 9
   },
   {
     "id": "sony-hdr-as100v",
