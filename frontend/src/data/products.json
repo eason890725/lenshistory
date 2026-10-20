@@ -36251,7 +36251,8 @@
     "afPoints": "35 points",
     "afTargets": "Human (Face)",
     "batterySpec": "BLN-1 (330 shots CIPA)",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/om-system/olympus-pen-e-p5.webp"
   },
   {
     "id": "olympus-pen-e-pl6",
