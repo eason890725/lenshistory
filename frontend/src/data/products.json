@@ -61092,7 +61092,8 @@
     "isoRange": "125-1600 (Ext: 6400)",
     "ports": "USB (Hi-Speed), micro HDMI (Type D)",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/nikon/nikon-coolpix-l840.webp"
   },
   {
     "id": "nikon-coolpix-l340",
