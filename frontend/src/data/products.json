@@ -8965,7 +8965,10 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/yongnuo/50mm-f1-8-s-df-dsm.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "opticalDesign": "11 elements in 8 groups",
+    "specialElements": "4 High Refractive, 1 Low Dispersion, 1 Aspherical",
+    "closeFocus": "0.45m"
   },
   {
     "brand": "Sirui",
@@ -23307,7 +23310,8 @@
           "name": "Leica M"
         }
       }
-    ]
+    ],
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m10-r",
@@ -24452,7 +24456,8 @@
     "sensorType": "BSI CMOS",
     "processor": "Leica Maestro III",
     "releaseMonth": 9,
-    "batterySpec": "BP-SCL7 (700 shots CIPA)"
+    "batterySpec": "BP-SCL7 (700 shots CIPA)",
+    "evfMagnification": "0.73x"
   },
   {
     "id": "leica-m-d-typ-262",
@@ -24481,7 +24486,8 @@
     "dimensions": "138.6 x 80 x 42 mm",
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL2",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28674-Datenblatt_M-D-Typ-262_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-28674-Datenblatt_M-D-Typ-262_e.pdf",
+    "evfMagnification": "0.68x"
   },
   {
     "id": "leica-summicron-sl-50-f2-asph",
@@ -27499,7 +27505,8 @@
     "image_url": "/images/products/sony/sony-e-20mm-f2-8.webp",
     "releaseMonth": 1,
     "retailPrice": 10880,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Stepping Motor"
   },
   {
     "id": "sony-e-pz-18-200mm-f3-5-6-3-oss",
@@ -27672,7 +27679,8 @@
     ],
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-nex-3n.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "evfMagnification": "None"
   },
   {
     "id": "sony-nex-5t",
@@ -27877,7 +27885,9 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
     "releaseMonth": 3,
-    "dimensions": "128 x 91 x 85 mm"
+    "dimensions": "128 x 91 x 85 mm",
+    "isoRange": "100-3200 (Ext: 100-16000)",
+    "sensorType": "CMOS"
   },
   {
     "id": "sony-e-18-200mm-f3-5-6-3-oss-le",
@@ -28132,7 +28142,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-8mm-f2-8-fish-eye.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasCustomButton": false
   },
   {
     "id": "zeiss-otus-ml-1-4-50",
@@ -28487,7 +28498,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 5,
     "retailPrice": 30000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -28531,7 +28543,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 3,
     "retailPrice": 28000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-color-skopar-18mm-f2-8-aspherical",
@@ -28565,7 +28578,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 1,
     "retailPrice": 16000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-23mm-f1-2-aspherical",
@@ -28633,7 +28647,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-ultron-27mm-f2.webp",
     "launchPrice": 15500,
     "motorType": "Manual focus",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-35mm-f0-9-aspherical",
@@ -28701,7 +28716,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-x-mount.webp",
     "launchPrice": 18500,
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-macro-apo-ultron-35mm-f2",
@@ -28769,7 +28785,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 8,
     "retailPrice": 21500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-super-nokton-29mm-f0-8-aspherical",
@@ -28801,7 +28818,8 @@
     "launchPrice": 60000,
     "motorType": "Manual focus",
     "releaseMonth": 11,
-    "image_url": "/images/products/voigtlander/voigtlander-super-nokton-29mm-f0-8-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-super-nokton-29mm-f0-8-aspherical.webp",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-60mm-f0-95",
@@ -28833,7 +28851,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-nokton-60mm-f0-95.webp",
     "launchPrice": 38000,
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasCustomButton": false
   },
   {
     "id": "viltrox-af-13mm-f1-4",
@@ -30032,7 +30051,8 @@
     "image_url": "/images/products/tokina/tokina-sz-super-tele-500mm-f8-reflex-mf.webp",
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasCustomButton": false
   },
   {
     "id": "tokina-sz-300mmpro-reflex-f7-1-mf-cf",
@@ -30074,7 +30094,8 @@
     "filterSizeMm": 46,
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasCustomButton": false
   },
   {
     "id": "tokina-sz-600mmpro-reflex-f8-mf-cf",
@@ -30116,7 +30137,8 @@
     "filterSizeMm": 77,
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasCustomButton": false
   },
   {
     "id": "tokina-sz-900mmpro-reflex-f11-mf-cf",
@@ -30158,7 +30180,8 @@
     "filterSizeMm": 86,
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasCustomButton": false
   },
   {
     "id": "laowa-acris-35mm-f2-8-1x-af-macro-apo",
@@ -31694,7 +31717,8 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-33mm-f1-2-mf.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "hasCustomButton": false
   },
   {
     "id": "viltrox-mf-20mm-f1-8",
@@ -31731,7 +31755,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/viltrox-mf-20mm-f1-8.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "fujifilm-x-half",
@@ -31793,7 +31818,9 @@
     "releaseMonth": 2,
     "hasApertureRing": true,
     "hasOIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "fujifilm-mkx-50-135mm-t2-9",
@@ -32073,7 +32100,8 @@
     "hasApertureRing": true,
     "releaseMonth": 1,
     "launchPrice": 26000,
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-10-5mm-f0-95-aspherical",
@@ -32141,7 +32169,9 @@
     "image_url": "/images/products/voigtlander/voigtlander-nokton-17-5mm-f0-95-aspherical.webp",
     "retailPrice": 27000,
     "retailPriceDate": "2026-10",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-25mm-f0-95-type-ii",
@@ -32210,7 +32240,8 @@
     "retailPrice": 27000,
     "retailPriceDate": "2026-10",
     "hasOIS": false,
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "tokina-reflex-300mm-f6-3-mf-macro",
@@ -33118,7 +33149,9 @@
     "hasApertureRing": false,
     "image_url": "/images/products/7artisans/7artisans-af-27mm-f2-8.webp",
     "retailPrice": 4300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "opticalDesign": "6 elements in 5 groups",
+    "coatings": "Nano coating (纳米镀膜)"
   },
   {
     "id": "7artisans-af-35mm-f1-4",
@@ -33279,7 +33312,8 @@
     "opticalDesign": "11 elements in 10 groups",
     "hasWeatherSeal": true,
     "retailPrice": 5800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "specialElements": "3 ED, 2 HR, 2 Aspherical"
   },
   {
     "id": "7artisans-af-135mm-f1-8",
@@ -33673,7 +33707,8 @@
     "closeFocus": "0.15m",
     "opticalDesign": "11 elements in 8 groups",
     "retailPrice": 9400,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-10mm-f3-5",
@@ -33713,7 +33748,9 @@
     "closeFocus": "0.2m",
     "filterSizeMm": 37,
     "opticalDesign": "9 elements in 7 groups",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-14mm-f2-8",
@@ -33804,7 +33841,8 @@
     "closeFocus": "0.88m",
     "filterSizeMm": 58,
     "opticalDesign": "6 elements in 6 groups",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-6mm-f2-fisheye",
@@ -33854,7 +33892,9 @@
     "closeFocus": "0.1m",
     "filterSizeMm": 0,
     "opticalDesign": "10 elements in 8 groups",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false,
+    "specialElements": "2 ED, 2 HR"
   },
   {
     "id": "7artisans-dream-35mm-t1-5",
@@ -34028,7 +34068,8 @@
     "sensorFormat": "Medium Format",
     "motorType": "Manual focus",
     "releaseMonth": 7,
-    "image_url": "/images/products/mitakon/mitakon-speedmaster-80mm-f1-6.webp"
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-80mm-f1-6.webp",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-55mm-f2-8-1-5x-macro",
@@ -34096,7 +34137,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-zhongyi-pittura-30mm-f2-4",
@@ -34131,7 +34173,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "releaseMonth": 8,
-    "image_url": "/images/products/mitakon/mitakon-zhongyi-pittura-30mm-f2-4.webp"
+    "image_url": "/images/products/mitakon/mitakon-zhongyi-pittura-30mm-f2-4.webp",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-200mm-f4-1x-apo-macro",
@@ -34196,7 +34239,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 7,
-    "image_url": "/images/products/mitakon/mitakon-200mm-f4-1x-apo-macro.webp"
+    "image_url": "/images/products/mitakon/mitakon-200mm-f4-1x-apo-macro.webp",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-speedmaster-90mm-f1-5",
@@ -34242,7 +34286,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 11,
-    "image_url": "/images/products/mitakon/mitakon-speedmaster-90mm-f1-5.webp"
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-90mm-f1-5.webp",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-speedmaster-65mm-f1-4-gfx",
@@ -34398,7 +34443,8 @@
     "image_url": "/images/products/laowa/laowa-15mm-f5-cookie-ff.webp",
     "releaseMonth": 11,
     "retailPrice": 14000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-15mm-f4-5-0-5x-wide-angle-macro",
@@ -34456,7 +34502,8 @@
     "image_url": "/images/products/laowa/laowa-15mm-f4-5-0-5x-wide-angle-macro.webp",
     "releaseMonth": 5,
     "retailPrice": 14100,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-17mm-f4-zero-d-shift",
@@ -34993,7 +35040,8 @@
     "releaseMonth": 9,
     "maxMagnification": "0.045x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "sirui-saturn-v2-50mm-t2-9-1-6x",
@@ -35038,7 +35086,8 @@
     "releaseMonth": 9,
     "maxMagnification": "0.062x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "sirui-saturn-v2-75mm-t2-9-1-6x",
@@ -35083,7 +35132,8 @@
     "releaseMonth": 9,
     "maxMagnification": "0.09x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "sirui-50mm-f1-8-1-33x-anamorphic",
@@ -35135,7 +35185,8 @@
     "maxMagnification": "0.07x",
     "coatings": "Multilayer Nano coatings",
     "hasApertureRing": true,
-    "image_url": "/images/products/sirui/sirui-50mm-f1-8-1-33x-anamorphic.webp"
+    "image_url": "/images/products/sirui/sirui-50mm-f1-8-1-33x-anamorphic.webp",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-55mm-f2-8-tilt-shift-1x-macro",
@@ -35189,7 +35240,8 @@
     "image_url": "/images/products/laowa/laowa-55mm-f2-8-tilt-shift-1x-macro.webp",
     "releaseMonth": 10,
     "retailPrice": 44000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-100mm-f2-8-tilt-shift-1x-macro",
@@ -35243,7 +35295,8 @@
     "image_url": "/images/products/laowa/laowa-100mm-f2-8-tilt-shift-1x-macro.webp",
     "releaseMonth": 10,
     "retailPrice": 44000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-4-5-10mm-f2-8-cf-zoom-fisheye",
@@ -35305,7 +35358,8 @@
     "image_url": "/images/products/laowa/laowa-4-5-10mm-f2-8-cf-zoom-fisheye.webp",
     "launchPrice": 14100,
     "releaseMonth": 5,
-    "specialElements": "4 ED, 1 Ultra-High Refractive"
+    "specialElements": "4 ED, 1 Ultra-High Refractive",
+    "hasCustomButton": false
   },
   {
     "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
@@ -35371,7 +35425,8 @@
     "image_url": "/images/products/laowa/laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo.webp",
     "launchPrice": 24900,
     "releaseMonth": 7,
-    "filterSizeMm": 0
+    "filterSizeMm": 0,
+    "hasCustomButton": false
   },
   {
     "id": "om-system-pen",
@@ -36136,7 +36191,9 @@
     "weightGrams": 147,
     "releaseMonth": 2,
     "sensorType": "Live MOS",
-    "afTargets": "Human (Face)"
+    "afTargets": "Human (Face)",
+    "evfMagnification": "None",
+    "image_url": "/images/products/om-system/olympus-air-a01.webp"
   },
   {
     "id": "olympus-pen-e-pl7",
@@ -37637,7 +37694,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "logSupport": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-g5",
@@ -37745,7 +37803,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "logSupport": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-g6",
@@ -38177,7 +38236,9 @@
     "hasWeatherSeal": false,
     "launchPrice": 16900,
     "hasIBIS": false,
-    "image_url": "/images/products/panasonic/panasonic-lumix-gf8.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-gf8.webp",
+    "evfMagnification": "None",
+    "sensorType": "CMOS"
   },
   {
     "id": "panasonic-lumix-gf9",
@@ -40080,7 +40141,8 @@
     "releaseMonth": 5,
     "cardSlots": "1x SD (UHS-II)",
     "retailPrice": 43130,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-s1rii",
@@ -40793,7 +40855,8 @@
     "hasApertureRing": false,
     "hasWeatherSeal": false,
     "retailPrice": 7900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "minAperture": "8"
   },
   {
     "id": "panasonic-lumix-s-18-40mm-f4-5-6-3",
@@ -41006,7 +41069,8 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-g-20mm-f1-7-ii-asph.webp",
     "releaseMonth": 6,
-    "hasOIS": false
+    "hasOIS": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "panasonic-lumix-g-14mm-f2-5-ii-asph",
@@ -41038,7 +41102,8 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-g-14mm-f2-5-ii-asph.webp",
     "releaseMonth": 9,
-    "hasOIS": false
+    "hasOIS": false,
+    "motorType": "Micromotor"
   },
   {
     "id": "panasonic-lumix-s1",
@@ -41192,7 +41257,8 @@
     "launchPrice": 22000,
     "motorType": "Manual focus",
     "specialElements": "6 APD",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "hasCustomButton": false
   },
   {
     "id": "leica-noctilux-m-35-f1-2-asph",
@@ -41225,7 +41291,8 @@
     "launchPrice": 305000,
     "motorType": "Manual focus",
     "hasOIS": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasCustomButton": false
   },
   {
     "id": "leica-apo-summicron-m-50-f2-asph",
@@ -41290,7 +41357,8 @@
     "hasWeatherSeal": false,
     "hasApertureRing": true,
     "image_url": "/images/products/leica/leica-summarit-m-35-f2-4-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false
   },
   {
     "id": "leica-summarit-m-50-f2-4",
@@ -41321,7 +41389,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false,
+    "minAperture": "16",
+    "maxMagnification": "0.07x"
   },
   {
     "id": "leica-summarit-m-75-f2-4",
@@ -41352,7 +41423,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false,
+    "minAperture": "16",
+    "maxMagnification": "0.14x"
   },
   {
     "id": "leica-summarit-m-90-f2-4",
@@ -41383,7 +41457,10 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "hasApertureRing": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false,
+    "minAperture": "16",
+    "maxMagnification": "0.13x"
   },
   {
     "id": "leica-summilux-m-28-f1-4-asph",
@@ -41444,7 +41521,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "image_url": "/images/products/leica/leica-summaron-m-28-f5-6.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "leica-noctilux-m-75-f1-25-asph",
@@ -41543,7 +41621,9 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "image_url": "/images/products/leica/leica-summilux-m-90-f1-5-asph.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "hasCustomButton": false,
+    "minAperture": "16"
   },
   {
     "id": "leica-apo-summicron-m-35-f2-asph",
@@ -41575,7 +41655,10 @@
     "hasApertureRing": true,
     "dimensions": "Ø53 x 41 mm",
     "image_url": "/images/products/leica/leica-apo-summicron-m-35-f2-asph.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "hasCustomButton": false,
+    "minAperture": "16",
+    "maxMagnification": "0.18x"
   },
   {
     "id": "leica-noctilux-m-50-f1-2-asph",
@@ -41668,7 +41751,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "dimensions": "Ø67 x 26 mm",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "leica-summilux-m-50-f1-4-asph",
@@ -41701,7 +41785,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "image_url": "/images/products/leica/leica-summilux-m-50-f1-4-asph.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "leica-summicron-m-28-f2-asph",
@@ -41731,7 +41816,8 @@
     "launchPrice": 168000,
     "motorType": "Manual focus",
     "image_url": "/images/products/leica/leica-summicron-m-28-f2-asph.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "leica-summilux-m-50-f1-4",
@@ -41900,7 +41986,8 @@
     "processor": "DIGIC DV 7",
     "burstSpeed": "40fps (Elec)",
     "image_url": "/images/products/canon/canon-eos-c50.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "sensorType": "CMOS"
   },
   {
     "id": "astrhori-9mm-f2-8",
@@ -42327,7 +42414,9 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-28mm-f13-2x-macro-probe.webp"
+    "image_url": "/images/products/astrhori/astrhori-28mm-f13-2x-macro-probe.webp",
+    "hasCustomButton": false,
+    "coatings": "Sapphire coated front element"
   },
   {
     "id": "astrhori-28mm-f13-2x-macro-periprobe",
@@ -42513,7 +42602,8 @@
           "name": "Nikon Z"
         }
       }
-    ]
+    ],
+    "coatings": "Multi-layer coatings"
   },
   {
     "id": "astrhori-12mm-f2-8-fisheye",
@@ -42659,7 +42749,8 @@
     ],
     "image_url": "/images/products/astrhori/astrhori-85mm-f2-8-macro-tilt.webp",
     "retailPrice": 8500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "astrhori-40mm-f5-6",
@@ -42691,7 +42782,8 @@
       }
     ],
     "image_url": "/images/products/astrhori/astrhori-40mm-f5-6.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "astrhori-55mm-f5-6",
@@ -42884,7 +42976,8 @@
     ],
     "videoResolution": "Full HD 30p",
     "ports": "micro HDMI, 3.5mm mic/line in, headphone, LANC, DC 12V",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/blackmagic-design/blackmagic-pocket-cinema-camera.webp"
   },
   {
     "id": "blackmagic-cinema-camera-mft",
@@ -43086,7 +43179,10 @@
     "image_url": "/images/products/brightin-star/brightin-star-af-85mm-f1-8.webp",
     "hasWeatherSeal": true,
     "retailPrice": 11000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "specialElements": "2 ED, 3 HR",
+    "coatings": "OPTORUN coating",
+    "hasApertureRing": true
   },
   {
     "id": "brightin-star-mf-11mm-f2-8-ii",
@@ -43130,7 +43226,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-11mm-f2-8-ii.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-14mm-f2-8",
@@ -43225,7 +43322,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-7-5mm-f2-8-iv.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-9mm-f5-6",
@@ -43267,7 +43365,8 @@
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-9mm-f5-6.webp",
     "releaseMonth": 10,
-    "motorType": "Manual focus"
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-10mm-f5-6-ii",
@@ -43318,7 +43417,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-ii.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-10mm-f5-6-pro",
@@ -43367,7 +43467,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-10mm-f5-6-pro.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-12mm-f2-0-iii",
@@ -43420,7 +43521,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-0-iii.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-12mm-f2-8",
@@ -43464,7 +43566,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-12mm-f2-8.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-16mm-f2-8",
@@ -43508,7 +43611,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-16mm-f2-8.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-28mm-f2-8",
@@ -43539,7 +43643,10 @@
     "image_url": "/images/products/brightin-star/brightin-star-mf-28mm-f2-8.webp",
     "releaseMonth": 7,
     "retailPrice": 11000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false,
+    "specialElements": "1 ED, 3 HR",
+    "weightGrams": 125
   },
   {
     "id": "brightin-star-mf-35mm-f1-4",
@@ -43588,7 +43695,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f1-4.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-50mm-f0-95-ii",
@@ -43633,7 +43741,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-ii.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-50mm-f1-05",
@@ -43678,7 +43787,8 @@
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-05.webp",
     "releaseMonth": 1,
     "hasApertureRing": true,
-    "coatings": "Multi-layer coating"
+    "coatings": "Multi-layer coating",
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-60mm-f2-8-2x-macro",
@@ -43733,7 +43843,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-60mm-f2-8-2x-macro.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-35mm-f0-95",
@@ -43787,7 +43898,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f0-95.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f0-95.webp",
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-50mm-f0-95-aps-c",
@@ -43839,7 +43951,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-aps-c.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-aps-c.webp",
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-50mm-f1-4-iii",
@@ -43889,7 +44002,8 @@
         }
       }
     ],
-    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-4-iii.webp"
+    "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f1-4-iii.webp",
+    "hasCustomButton": false
   },
   {
     "id": "brightin-star-mf-50mm-f2-0-tri-sight",
@@ -43929,7 +44043,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f2-0-tri-sight.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false
   },
   {
     "id": "dzofilm-catta-zoom-35-80mm-t2-9",
@@ -43978,7 +44093,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasCustomButton": false
   },
   {
     "id": "dzofilm-catta-zoom-70-135mm-t2-9",
@@ -44027,7 +44143,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasCustomButton": false
   },
   {
     "id": "dzofilm-linglung-10-24mm-t2-9",
@@ -44174,7 +44291,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-45mm-f-1-4-gfx.webp"
+    "image_url": "/images/products/irix/irix-45mm-f-1-4-gfx.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-11mm-t4-3",
@@ -44232,7 +44350,8 @@
       }
     ],
     "image_url": "/images/products/irix/irix-cine-11mm-t4-3.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-15mm-t2-6",
@@ -44290,7 +44409,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-15mm-t2-6.webp"
+    "image_url": "/images/products/irix/irix-cine-15mm-t2-6.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-21mm-t1-5",
@@ -44348,7 +44468,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-21mm-t1-5.webp"
+    "image_url": "/images/products/irix/irix-cine-21mm-t1-5.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-30mm-t1-5",
@@ -44406,7 +44527,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-30mm-t1-5.webp"
+    "image_url": "/images/products/irix/irix-cine-30mm-t1-5.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-45mm-t1-5",
@@ -44464,7 +44586,8 @@
       }
     ],
     "image_url": "/images/products/irix/irix-cine-45mm-t1-5.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-65mm-t1-5",
@@ -44522,7 +44645,8 @@
       }
     ],
     "image_url": "/images/products/irix/irix-cine-65mm-t1-5.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-150mm-t3-0-macro-1-1",
@@ -44639,7 +44763,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-150mm-t3-0-tele.webp"
+    "image_url": "/images/products/irix/irix-cine-150mm-t3-0-tele.webp",
+    "hasCustomButton": false
   },
   {
     "id": "kase-reflex-lens-200mm-f5-6",
@@ -45930,7 +46055,8 @@
     "image_url": "/images/products/thypoch/thypoch-simera-28mm-f-1-4-asph.webp",
     "releaseMonth": 9,
     "retailPrice": 24900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-35mm-f-1-4-asph",
@@ -45982,7 +46108,8 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-35mm-f-1-4-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-50mm-f-1-4-asph",
@@ -46022,7 +46149,9 @@
     "image_url": "/images/products/thypoch/thypoch-simera-50mm-f-1-4-asph.webp",
     "releaseMonth": 8,
     "retailPrice": 26290,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false,
+    "coatings": "Multi-layer coating"
   },
   {
     "id": "thypoch-simera-75mm-f-1-4-asph",
@@ -46054,7 +46183,8 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-75mm-f-1-4-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-75mm-f-1-4-asph.webp",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-21mm-f-1-4-asph",
@@ -46086,7 +46216,8 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-21mm-f-1-4-asph.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-voyager-24-50mm-f-2-8",
@@ -46153,7 +46284,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-ksana-21mm-f-3-5.webp",
     "coatings": "Epoch Coating.73'",
-    "dimensions": "Ø42 x 27.29 mm"
+    "dimensions": "Ø42 x 27.29 mm",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-ksana-35mm-f-2-asph",
@@ -46186,7 +46318,8 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-ksana-35mm-f-2-asph.webp",
-    "dimensions": "Ø42 x 27 mm"
+    "dimensions": "Ø42 x 27 mm",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-eureka-28mm-f-2-8-asph",
@@ -46224,7 +46357,8 @@
     ],
     "releaseMonth": 11,
     "dimensions": "Ø28.3 x 19.5 mm",
-    "image_url": "/images/products/thypoch/thypoch-eureka-28mm-f-2-8-asph.webp"
+    "image_url": "/images/products/thypoch/thypoch-eureka-28mm-f-2-8-asph.webp",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-eureka-50mm-f-2",
@@ -46258,7 +46392,8 @@
     "dimensions": "Ø35.9 x 27 mm",
     "image_url": "/images/products/thypoch/thypoch-eureka-50mm-f-2.webp",
     "retailPrice": 21200,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-16mm-t1-9",
@@ -46291,7 +46426,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-16mm-t1-9.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-16mm-t1-9.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-21mm-t1-5",
@@ -46326,7 +46463,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-21mm-t1-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-21mm-t1-5.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-28mm-t1-5",
@@ -46359,7 +46498,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-28mm-t1-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-28mm-t1-5.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-35mm-t1-5",
@@ -46392,7 +46533,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-35mm-t1-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-35mm-t1-5.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-50mm-t1-5",
@@ -46425,7 +46568,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-50mm-t1-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-50mm-t1-5.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "thypoch-simera-c-75mm-t1-5",
@@ -46458,7 +46603,9 @@
         }
       }
     ],
-    "image_url": "/images/products/thypoch/thypoch-simera-c-75mm-t1-5.webp"
+    "image_url": "/images/products/thypoch/thypoch-simera-c-75mm-t1-5.webp",
+    "hasWeatherSeal": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-af-27mm-f2-8",
@@ -47034,7 +47181,8 @@
     "retailPrice": 2150,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-50mm-f1-2",
@@ -47096,7 +47244,8 @@
     "retailPrice": 2550,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-90mm-f1-25",
@@ -47203,7 +47352,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-14mm-f2-8-asph.webp",
     "releaseMonth": 8,
     "retailPrice": 5150,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-tilt-shift-17mm-f4-asph",
@@ -47253,7 +47403,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-tilt-shift-17mm-f4-asph.webp",
     "releaseMonth": 10,
     "retailPrice": 15700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-tilt-shift-100mm-f2-8-2x-macro",
@@ -47365,7 +47516,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-100mm-f2-8-2x-macro.webp",
     "retailPrice": 9300,
     "retailPriceDate": "2026-10",
-    "specialElements": "6 High Index"
+    "specialElements": "6 High Index",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-m-100mm-f2-8-bubble-bokeh",
@@ -47394,7 +47546,8 @@
     "weightGrams": 307,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-m-100mm-f2-8-bubble-bokeh.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-m-100mm-f2-8-bubble-bokeh.webp",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-500mm-f6-3",
@@ -47439,7 +47592,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-500mm-f6-3.webp",
     "coatings": "MC Multi-Layer Coatings",
-    "specialElements": "2 ED, 2 High Index"
+    "specialElements": "2 ED, 2 High Index",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-tilt-50mm-f1-4",
@@ -47497,7 +47651,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-tilt-50mm-f1-4.webp",
     "retailPrice": 5800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-50mm-f2",
@@ -47558,7 +47713,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-50mm-f2.webp",
     "retailPrice": 1800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-apo-m-35mm-f2-asph",
@@ -47590,7 +47746,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-apo-m-35mm-f2-asph.webp",
     "hasApertureRing": true,
     "retailPrice": 11899,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-50mm-f1-4-asph",
@@ -47638,7 +47795,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-50mm-f1-4-asph.webp",
     "retailPrice": 5500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-m-50mm-f0-95-asph",
@@ -47670,7 +47828,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-m-50mm-f0-95-asph.webp",
     "releaseMonth": 6,
-    "coatings": "Super-MC"
+    "coatings": "Super-MC",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-21mm-f1-5-asph",
@@ -47718,7 +47877,9 @@
     "weightGrams": 412,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-21mm-f1-5-asph.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-21mm-f1-5-asph.webp",
+    "hasCustomButton": false,
+    "closeFocus": "0.28m"
   },
   {
     "id": "ttartisans-m-28mm-f5-6",
@@ -47796,7 +47957,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-tilt-aps-c-35mm-f1-4.webp",
     "releaseMonth": 5,
     "retailPrice": 4500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-10mm-f2-asph",
@@ -47847,7 +48009,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-10mm-f2-asph.webp",
     "retailPrice": 3990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-25mm-f2",
@@ -47909,7 +48072,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-25mm-f2.webp",
     "retailPrice": 1800,
     "retailPriceDate": "2026-10",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-50mm-f0-95",
@@ -47970,7 +48134,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-50mm-f0-95.webp",
     "retailPrice": 5500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-23mm-f1-4",
@@ -48033,7 +48198,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-23mm-f1-4.webp",
     "retailPrice": 2600,
     "retailPriceDate": "2026-10",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-40mm-f2-8-macro",
@@ -48097,7 +48263,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-40mm-f2-8-macro.webp",
     "retailPrice": 2600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-17mm-f1-4",
@@ -48153,7 +48320,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-17mm-f1-4.webp",
     "retailPrice": 2980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-7-5mm-f2-fisheye",
@@ -48215,7 +48383,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-7-5mm-f2-fisheye.webp",
     "retailPrice": 3300,
     "retailPriceDate": "2026-10",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-aps-c-35mm-f0-95",
@@ -48272,7 +48441,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-35mm-f0-95.webp",
     "retailPrice": 4800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-35mm-t2-1-dual-bokeh-cine",
@@ -49087,7 +49257,8 @@
     "image_url": "/images/products/lensbaby/lensbaby-twist-60.webp",
     "motorType": "Manual focus",
     "coatings": "Broadband multi-coated anti-reflective",
-    "closeFocus": "0.46m"
+    "closeFocus": "0.46m",
+    "hasCustomButton": false
   },
   {
     "id": "lensbaby-trio-28",
@@ -49176,7 +49347,8 @@
     "motorType": "Manual focus",
     "coatings": "Broadband multi-coated anti-reflective",
     "minAperture": "16",
-    "closeFocus": "0.23m"
+    "closeFocus": "0.23m",
+    "hasCustomButton": false
   },
   {
     "id": "lensbaby-burnside-35",
@@ -49221,7 +49393,8 @@
     "hasApertureRing": true,
     "motorType": "Manual focus",
     "closeFocus": "0.15m",
-    "dimensions": "Ø70 x 70 mm"
+    "dimensions": "Ø70 x 70 mm",
+    "hasCustomButton": false
   },
   {
     "id": "lensbaby-sol-45",
@@ -49301,7 +49474,8 @@
     "hasWeatherSeal": false,
     "hasApertureRing": false,
     "motorType": "Manual focus",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "hasCustomButton": false
   },
   {
     "id": "lensbaby-velvet-28",
@@ -49350,7 +49524,8 @@
     "image_url": "/images/products/lensbaby/lensbaby-velvet-28.webp",
     "motorType": "Manual focus",
     "coatings": "Broadband multi-coated anti-reflective",
-    "closeFocus": "0.049m"
+    "closeFocus": "0.049m",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-7-5mm-f2-8-aps-c-fisheye",
@@ -57267,7 +57442,8 @@
     "weightGrams": 196,
     "cardSlots": "1x microSD (up to 1TB)",
     "isoRange": "100-6400",
-    "logSupport": "I-Log"
+    "logSupport": "I-Log",
+    "image_url": "/images/products/insta360/insta360-x6.webp"
   },
   {
     "id": "insta360-luna-pro",
@@ -57310,7 +57486,8 @@
     "lcdSpec": "2.0-inch OLED detachable touch",
     "batterySpec": "1550mAh (up to 4 h)",
     "cardSlots": "1x microSD (up to 1TB)",
-    "launchPrice": 22990
+    "launchPrice": 22990,
+    "image_url": "/images/products/insta360/insta360-luna-ultra.webp"
   },
   {
     "id": "insta360-x4-air",
@@ -57332,7 +57509,8 @@
     "cardSlots": "1x microSD (UHS-I V30)",
     "lcdSpec": "2.09-inch 404x550 LCD",
     "batterySpec": "2010mAh",
-    "isoRange": "100-3200"
+    "isoRange": "100-3200",
+    "image_url": "/images/products/insta360/insta360-x4-air.webp"
   },
   {
     "id": "insta360-go-ultra",
@@ -57352,7 +57530,8 @@
     "hasWeatherSeal": true,
     "dimensions": "46 x 45.7 x 18.3 mm",
     "weightGrams": 53,
-    "launchPrice": 13980
+    "launchPrice": 13980,
+    "image_url": "/images/products/insta360/insta360-go-ultra.webp"
   },
   {
     "id": "insta360-x5",
@@ -57374,7 +57553,8 @@
     "weightGrams": 200,
     "cardSlots": "1x microSD (UHS-I V30)",
     "lcdSpec": "2.5-inch 440x696 LCD",
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "image_url": "/images/products/insta360/insta360-x5.webp"
   },
   {
     "id": "insta360-ace-pro-2",
@@ -57394,7 +57574,8 @@
     "launchPrice": 14990,
     "ports": "USB-C",
     "cardSlots": "1x microSD (up to 1TB)",
-    "dimensions": "71.9 x 52.2 x 38 mm"
+    "dimensions": "71.9 x 52.2 x 38 mm",
+    "image_url": "/images/products/insta360/insta360-ace-pro-2.webp"
   },
   {
     "id": "insta360-x4",
@@ -57804,7 +57985,8 @@
     "evfMagnification": "None",
     "burstSpeed": "30fps",
     "ports": "USB 3.0",
-    "launchPrice": 19600
+    "launchPrice": 19600,
+    "image_url": "/images/products/gopro/gopro-max.webp"
   },
   {
     "id": "gopro-hero7-black",
@@ -57944,7 +58126,8 @@
     "hasWeatherSeal": true,
     "evfMagnification": "None",
     "burstSpeed": "30fps",
-    "ports": "USB 3.0, HDMI, mic"
+    "ports": "USB 3.0, HDMI, mic",
+    "image_url": "/images/products/gopro/gopro-hero5-black.webp"
   },
   {
     "id": "gopro-hero5-session",
@@ -57957,7 +58140,8 @@
     "releaseMonth": 9,
     "megapixels": "10MP",
     "videoResolution": "4K 30p",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/gopro/gopro-hero5-session.webp"
   },
   {
     "id": "gopro-hero-plus",
@@ -62070,7 +62254,8 @@
         }
       }
     ],
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "image_url": "/images/products/kamlan/kamlan-70mm-f1-1.webp"
   },
   {
     "id": "cooke-sp3-18mm-t2-4",
@@ -64729,7 +64914,8 @@
     "evfMagnification": "1.15x",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/om-system/olympus-stylus-1s.webp"
   },
   {
     "id": "olympus-stylus-tg-4-tough",
@@ -66731,7 +66917,8 @@
     "isoRange": "80-3200 (Ext: 6400)",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/panasonic/panasonic-lumix-ts7.webp"
   },
   {
     "id": "panasonic-lumix-sz7",
@@ -69282,7 +69469,8 @@
     "dimensions": "126.0 x 89.0 x 111.4 mm",
     "ports": "USB-C, micro HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "25 areas"
+    "afPoints": "25 areas",
+    "image_url": "/images/products/kodak/kodak-pixpro-az653.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100",
@@ -69402,7 +69590,8 @@
     "sensorType": "Exmor RS CMOS",
     "afPoints": "25 points",
     "ports": "micro USB (USB 2.0), micro HDMI",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iv.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-v",
@@ -69587,7 +69776,8 @@
     "burstSpeed": "14fps",
     "isoRange": "125-12800 (Ext: 64-25600)",
     "ports": "USB 2.0, HDMI, microphone, headphone",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-ii.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iii",
@@ -69888,7 +70078,8 @@
     "burstSpeed": "16fps",
     "isoRange": "125-12800",
     "ports": "USB 2.0, HDMI, microphone",
-    "cardSlots": "1x microSD/microSDHC/microSDXC"
+    "cardSlots": "1x microSD/microSDHC/microSDXC",
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx0.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0-ii",
@@ -70239,7 +70430,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BX1 (380 shots CIPA)",
-    "launchPrice": 14980
+    "launchPrice": 14980,
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx60v.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-wx50",
@@ -70462,7 +70654,8 @@
     "burstSpeed": "10fps",
     "isoRange": "80-12800",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx500.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-wx800",
@@ -70482,7 +70675,8 @@
     "hasIBIS": true,
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-BX1 (370 shots CIPA)",
-    "launchPrice": 12980
+    "launchPrice": 12980,
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx800.webp"
   },
   {
     "id": "sony-cyber-shot-dsc-w730",
@@ -70723,7 +70917,8 @@
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
     "releaseMonth": 1,
-    "launchPrice": 10980
+    "launchPrice": 10980,
+    "image_url": "/images/products/sony/sony-hdr-as100v.webp"
   },
   {
     "id": "sony-hdr-az1",
