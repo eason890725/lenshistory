@@ -40534,7 +40534,9 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 21900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-85mm-f1-8",
@@ -40852,7 +40854,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s-100mm-f2-8-macro.webp",
     "releaseMonth": 1,
     "motorType": "Dual Phase Linear Motor",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 32500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-26mm-f8",
@@ -40959,7 +40963,9 @@
     "releaseMonth": 5,
     "motorType": "Dual Phase Linear Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 32900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
@@ -57388,7 +57394,8 @@
     "hasWeatherSeal": true,
     "dimensions": "70.5 x 44.2 x 32.8 mm",
     "weightGrams": 145,
-    "image_url": "/images/products/dji/dji-osmo-action-3.webp"
+    "image_url": "/images/products/dji/dji-osmo-action-3.webp",
+    "launchPrice": 11770
   },
   {
     "id": "dji-action-2",
