@@ -58291,7 +58291,9 @@
     "releaseMonth": 9,
     "megapixels": "8MP",
     "videoResolution": "Full HD 60p",
-    "image_url": "/images/products/gopro/gopro-hero-plus.webp"
+    "image_url": "/images/products/gopro/gopro-hero-plus.webp",
+    "hasWeatherSeal": true,
+    "burstSpeed": "5fps"
   },
   {
     "id": "gopro-hero-plus-lcd",
@@ -58303,7 +58305,8 @@
     "releaseYear": 2015,
     "releaseMonth": 6,
     "megapixels": "8MP",
-    "videoResolution": "Full HD 60p"
+    "videoResolution": "Full HD 60p",
+    "hasWeatherSeal": true
   },
   {
     "id": "gopro-hero4-session",
@@ -60695,7 +60698,8 @@
     "sensorType": "CMOS",
     "isoRange": "125-1600",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "nikon-keymission-360",
@@ -61224,7 +61228,10 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB",
     "weightGrams": 118,
-    "image_url": "/images/products/nikon/nikon-coolpix-s3700.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-s3700.webp",
+    "hasWeatherSeal": false,
+    "processor": "Expeed C2",
+    "evfMagnification": "None"
   },
   {
     "id": "nikon-coolpix-l840",
@@ -64166,7 +64173,9 @@
     "evfMagnification": "None",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "afPoints": "9 points",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-sx70-hs",
@@ -67918,7 +67927,8 @@
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 193,
     "image_url": "/images/products/ricoh/ricoh-wg-60.webp",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "9 points"
   },
   {
     "id": "ricoh-wg-6",
@@ -68129,7 +68139,10 @@
     "launchPrice": 13900,
     "isoRange": "100-1600",
     "sensorType": "CMOS",
-    "ports": "micro USB, micro HDMI"
+    "ports": "micro USB, micro HDMI",
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "evfMagnification": "None"
   },
   {
     "id": "ricoh-theta-sc",
@@ -68173,7 +68186,11 @@
     "launchPrice": 15900,
     "isoRange": "64-3200",
     "sensorType": "CMOS",
-    "ports": "micro USB, mic"
+    "ports": "micro USB, mic",
+    "hasWeatherSeal": false,
+    "hasIBIS": false,
+    "evfMagnification": "None",
+    "processor": "Snapdragon 625"
   },
   {
     "id": "ricoh-theta-z1",
@@ -70901,7 +70918,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
     "batterySpec": "NP-BX1 (370 shots CIPA)",
     "launchPrice": 12980,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx800.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx800.webp",
+    "sensorType": "Exmor R CMOS",
+    "processor": "BIONZ X",
+    "isoRange": "80-3200 (Ext: 80-6400)",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x microSD / Memory Stick Micro",
+    "ports": "micro USB (Multi Terminal), micro HDMI"
   },
   {
     "id": "sony-cyber-shot-dsc-w730",
@@ -73658,7 +73681,17 @@
     "megapixels": "20MP",
     "sensorType": "CCD",
     "weightGrams": 126,
-    "dimensions": "95.2 x 54.3 x 22.1 mm"
+    "dimensions": "95.2 x 54.3 x 22.1 mm",
+    "processor": "DIGIC 4+",
+    "isoRange": "100-1600",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "lcdSpec": "2.7-inch 0.23M-dot fixed",
+    "burstSpeed": "0.8fps",
+    "videoResolution": "720p 25p",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0",
+    "batterySpec": "NB-11LH (220 shots CIPA)"
   },
   {
     "id": "canon-ixus-190",
@@ -73675,7 +73708,17 @@
     "weightGrams": 137,
     "dimensions": "95.3 x 56.8 x 23.6 mm",
     "hasIBIS": true,
-    "image_url": "/images/products/canon/canon-ixus-190.webp"
+    "image_url": "/images/products/canon/canon-ixus-190.webp",
+    "processor": "DIGIC 4+",
+    "isoRange": "100-1600",
+    "hasWeatherSeal": false,
+    "evfMagnification": "None",
+    "lcdSpec": "2.7-inch 0.23M-dot fixed",
+    "burstSpeed": "0.8fps",
+    "videoResolution": "720p 25p",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "USB 2.0",
+    "batterySpec": "NB-11LH (190 shots CIPA)"
   },
   {
     "id": "canon-powershot-sx430-is",
@@ -73690,7 +73733,16 @@
     "megapixels": "20MP",
     "sensorType": "CCD",
     "weightGrams": 323,
-    "dimensions": "104.4 x 69.1 x 85.1 mm"
+    "dimensions": "104.4 x 69.1 x 85.1 mm",
+    "processor": "DIGIC 4+",
+    "isoRange": "100-1600",
+    "afPoints": "9 points",
+    "lcdSpec": "3.0-inch 0.23M-dot",
+    "burstSpeed": "0.5fps",
+    "videoResolution": "720p",
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "ports": "Mini-USB, AV out",
+    "batterySpec": "NB-11LH (195 shots CIPA)"
   },
   {
     "id": "canon-powershot-v1",
