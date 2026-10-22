@@ -14913,7 +14913,9 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 9,
-    "image_url": "/images/products/zeiss/85mm-f2-4.webp"
+    "image_url": "/images/products/zeiss/85mm-f2-4.webp",
+    "retailPrice": 35600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -31962,7 +31964,9 @@
     "hasOIS": false,
     "image_url": "/images/products/zeiss/zeiss-touit-1-8-32.webp",
     "releaseMonth": 9,
-    "dimensions": "Ø65 x 60 mm"
+    "dimensions": "Ø65 x 60 mm",
+    "retailPrice": 18180,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "zeiss-touit-2-8-50m",
@@ -32754,7 +32758,9 @@
     "closeFocus": "0.55m",
     "filterSizeMm": 58,
     "opticalDesign": "11 elements in 8 groups",
-    "specialElements": "1 ED, 2 High Refractive Index"
+    "specialElements": "1 ED, 2 High Refractive Index",
+    "retailPrice": 9800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "meike-85mm-f1-8-pro",
@@ -35587,7 +35593,8 @@
     "hasIBIS": true,
     "image_url": "/images/products/om-system/om-system-om-3.webp",
     "releaseMonth": 2,
-    "processor": "TruePic X"
+    "processor": "TruePic X",
+    "launchPrice": 59990
   },
   {
     "id": "om-system-om-5",
@@ -35666,7 +35673,9 @@
     "releaseMonth": 6,
     "image_url": "/images/products/om-system/om-system-om-5-mark-ii.webp",
     "processor": "TruePic IX",
-    "videoColorDepth": "8-bit"
+    "videoColorDepth": "8-bit",
+    "retailPrice": 36990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-om-d-e-m1-mark-iii",
@@ -37152,7 +37161,9 @@
     "image_url": "/images/products/om-system/olympus-m-zuiko-digital-ed-12-45mm-f4-0-pro.webp",
     "releaseMonth": 2,
     "coatings": "ZERO Coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 19900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
@@ -37187,7 +37198,9 @@
     "releaseMonth": 11,
     "specialElements": "1 EDA, 4 Super ED, 2 ED, 2 HR, 1 HD",
     "coatings": "Z Coating Nano",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 235000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
@@ -40307,7 +40320,9 @@
     "releaseMonth": 2,
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 34951,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
@@ -40342,7 +40357,9 @@
     "releaseMonth": 2,
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 46900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-pro-50mm-f1-4",
@@ -40551,7 +40568,9 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 17460,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-70-300mm-f4-5-5-6-macro-o-i-s",
@@ -40689,7 +40708,9 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 17990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-18mm-f1-8",
@@ -40795,7 +40816,9 @@
     "releaseMonth": 2,
     "motorType": "Linear Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 32900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-100mm-f2-8-macro",
@@ -40899,7 +40922,9 @@
     "releaseMonth": 10,
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 21900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-24-60mm-f2-8",
@@ -41761,7 +41786,8 @@
     "hasWeatherSeal": false,
     "dimensions": "Ø67 x 26 mm",
     "releaseMonth": 10,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/leica/leica-summilux-m-35-f1-4.webp"
   },
   {
     "id": "leica-summilux-m-50-f1-4-asph",
@@ -42659,7 +42685,9 @@
       }
     ],
     "image_url": "/images/products/astrhori/astrhori-12mm-f2-8-fisheye.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 10480,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "astrhori-18mm-f8-shift",
@@ -46125,7 +46153,9 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-35mm-f-1-4-asph.webp",
     "releaseMonth": 9,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 21500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "thypoch-simera-50mm-f-1-4-asph",
@@ -46200,7 +46230,9 @@
       }
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-75mm-f-1-4-asph.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "thypoch-simera-21mm-f-1-4-asph",
@@ -46233,7 +46265,9 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-21mm-f-1-4-asph.webp",
     "releaseMonth": 6,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 29190,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "thypoch-voyager-24-50mm-f-2-8",
@@ -46481,7 +46515,9 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-21mm-t1-5.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 32400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "thypoch-simera-c-28mm-t1-5",
@@ -46914,7 +46950,8 @@
     "motorType": "Stepping Motor",
     "weightGrams": 199,
     "hasApertureRing": false,
-    "hasOIS": false
+    "hasOIS": false,
+    "image_url": "/images/products/ttartisans/ttartisans-af-35mm-f1-8.webp"
   },
   {
     "id": "ttartisans-af-14mm-f3-5",
@@ -53916,7 +53953,9 @@
     ],
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-8mm-f3-5-fisheye-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 5600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "meike-35mm-f1-7-apsc-mf",
@@ -54485,7 +54524,9 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "STM",
-    "image_url": "/images/products/meike/meike-50mm-f1-8-ff-af.webp"
+    "image_url": "/images/products/meike/meike-50mm-f1-8-ff-af.webp",
+    "retailPrice": 5800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "yongnuo-yn50mm-f1-8s-da-dsm",
@@ -54567,7 +54608,8 @@
       }
     ],
     "sensorFormat": "Four Thirds",
-    "motorType": "STM"
+    "motorType": "STM",
+    "image_url": "/images/products/yongnuo/yongnuo-yn17mm-f1-7m.webp"
   },
   {
     "id": "yongnuo-yn25mm-f1-7m",
@@ -55278,7 +55320,9 @@
         }
       }
     ],
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 13680,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sirui-night-walker-55mm-t1-2",
@@ -57663,7 +57707,8 @@
     "hasWeatherSeal": true,
     "dimensions": "71.9 x 52.15 x 38.5 mm",
     "weightGrams": 177,
-    "launchPrice": 13090
+    "launchPrice": 13090,
+    "image_url": "/images/products/insta360/insta360-ace.webp"
   },
   {
     "id": "insta360-x3",
@@ -57707,7 +57752,8 @@
     "hasWeatherSeal": true,
     "dimensions": "52.9 x 23.6 x 20.7 mm",
     "weightGrams": 27,
-    "launchPrice": 9669
+    "launchPrice": 9669,
+    "image_url": "/images/products/insta360/insta360-go-2.webp"
   },
   {
     "id": "insta360-titan",
@@ -58087,7 +58133,8 @@
     "videoResolution": "1440p 60p / Full HD 60p",
     "lcdSpec": "2.0-inch touch",
     "hasWeatherSeal": true,
-    "launchPrice": 8900
+    "launchPrice": 8900,
+    "image_url": "/images/products/gopro/gopro-hero-2018.webp"
   },
   {
     "id": "gopro-hero6-black",
@@ -67444,7 +67491,9 @@
     "ports": "USB-C",
     "dimensions": "109.4 x 61.1 x 32.7 mm",
     "weightGrams": 262,
-    "videoResolution": "Full HD 60p"
+    "videoResolution": "Full HD 60p",
+    "retailPrice": 49800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "ricoh-gr-iv-monochrome",
@@ -68065,7 +68114,9 @@
     "weightGrams": 182,
     "image_url": "/images/products/ricoh/ricoh-theta-z1.webp",
     "isoRange": "80-6400",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "ricoh-theta-sc2",
