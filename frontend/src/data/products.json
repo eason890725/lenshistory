@@ -45319,7 +45319,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 341,
     "hasIBIS": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/samsung/samsung-nx20.webp"
   },
   {
     "id": "samsung-nx210",
@@ -45348,7 +45349,8 @@
     "batterySpec": "BC1030 (330 shots CIPA)",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 222,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/samsung/samsung-nx210.webp"
   },
   {
     "id": "samsung-nx1000",
@@ -45378,7 +45380,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 222,
     "hasIBIS": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/samsung/samsung-nx1000.webp"
   },
   {
     "id": "samsung-nx300",
@@ -58703,7 +58706,8 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "hasApertureRing": false,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "image_url": "/images/products/nikon/nikon-1-vr-10-30mm-f-3-5-5-6.webp"
   },
   {
     "id": "nikon-1-vr-30-110mm-f-3-8-5-6",
@@ -58903,7 +58907,8 @@
     "weightGrams": 125,
     "hasOIS": true,
     "hasApertureRing": false,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "image_url": "/images/products/nikon/nikon-1-vr-6-7-13mm-f-3-5-5-6.webp"
   },
   {
     "id": "nikon-1-vr-10-100mm-f-4-5-6",
@@ -59564,7 +59569,8 @@
     "processor": "Expeed C2",
     "isoRange": "80-1600",
     "sensorType": "CCD",
-    "ports": "USB"
+    "ports": "USB",
+    "image_url": "/images/products/nikon/nikon-coolpix-s01.webp"
   },
   {
     "id": "nikon-coolpix-a",
@@ -63325,7 +63331,8 @@
     "burstSpeed": "2.1fps",
     "isoRange": "80-12800",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-powershot-s110.webp"
   },
   {
     "id": "canon-powershot-sx160-is",
@@ -63503,7 +63510,8 @@
     "videoResolution": "Full HD",
     "hasIBIS": true,
     "processor": "DIGIC 5",
-    "ports": "USB (Hi-Speed), HDMI, AV out"
+    "ports": "USB (Hi-Speed), HDMI, AV out",
+    "image_url": "/images/products/canon/canon-ixus-240-hs.webp"
   },
   {
     "id": "canon-powershot-a2300",
@@ -63528,7 +63536,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "videoResolution": "HD 720p 25p",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-powershot-a2300.webp"
   },
   {
     "id": "canon-powershot-a3400-is",
@@ -67033,7 +67042,8 @@
     "isoRange": "100-1600 (Ext: 6400)",
     "burstSpeed": "1.5fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz5.webp"
   },
   {
     "id": "panasonic-lumix-sz9",
@@ -67213,7 +67223,8 @@
     "processor": "Venus Engine",
     "burstSpeed": "10fps (H) / 50fps (SH)",
     "afPoints": "23 points",
-    "ports": "micro USB 2.0, 3.5mm headset (earphone/mic)"
+    "ports": "micro USB 2.0, 3.5mm headset (earphone/mic)",
+    "image_url": "/images/products/panasonic/panasonic-lumix-cm10.webp"
   },
   {
     "id": "ricoh-gr",
@@ -69518,7 +69529,8 @@
     "burstSpeed": "6fps",
     "ports": "micro USB",
     "cardSlots": "1x microSD/SDHC",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "image_url": "/images/products/kodak/kodak-pixpro-wpz2.webp"
   },
   {
     "id": "kodak-pixpro-az653",
@@ -70971,7 +70983,8 @@
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
     "releaseMonth": 9,
-    "launchPrice": 9980
+    "launchPrice": 9980,
+    "image_url": "/images/products/sony/sony-hdr-as30v.webp"
   },
   {
     "id": "sony-hdr-as100v",
@@ -71053,7 +71066,8 @@
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
     "weightGrams": 93,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/sony/sony-hdr-as200v.webp"
   },
   {
     "id": "sony-hdr-as50",
@@ -73366,7 +73380,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-ixus-145.webp"
   },
   {
     "id": "canon-ixus-155",
@@ -73507,7 +73522,8 @@
     "sensorType": "CCD",
     "weightGrams": 137,
     "dimensions": "95.3 x 56.8 x 23.6 mm",
-    "hasIBIS": true
+    "hasIBIS": true,
+    "image_url": "/images/products/canon/canon-ixus-190.webp"
   },
   {
     "id": "canon-powershot-sx430-is",
