@@ -63984,7 +63984,8 @@
     "burstSpeed": "0.8fps",
     "isoRange": "100-1600",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-ixus-180.webp"
   },
   {
     "id": "canon-powershot-sx730-hs",
@@ -64174,7 +64175,8 @@
     "launchPrice": 10990,
     "hasWeatherSeal": false,
     "isoRange": "100-3200",
-    "cardSlots": "1x microSD"
+    "cardSlots": "1x microSD",
+    "image_url": "/images/products/canon/canon-powershot-zoom.webp"
   },
   {
     "id": "canon-powershot-pick",
@@ -65469,7 +65471,8 @@
     "isoRange": "100-3200",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp90.webp"
   },
   {
     "id": "fujifilm-finepix-xp70",
@@ -66287,7 +66290,8 @@
     "weightGrams": 493,
     "hasWeatherSeal": false,
     "isoRange": "100-6400",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz60.webp"
   },
   {
     "id": "panasonic-lumix-fz70",
@@ -72892,7 +72896,8 @@
     "batterySpec": "NB-11L",
     "videoResolution": "Full HD",
     "processor": "DIGIC 5",
-    "isoRange": "100-3200"
+    "isoRange": "100-3200",
+    "image_url": "/images/products/canon/canon-ixus-125-hs.webp"
   },
   {
     "id": "canon-ixus-500-hs",
