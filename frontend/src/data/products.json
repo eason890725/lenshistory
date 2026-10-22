@@ -32537,7 +32537,8 @@
     "releaseMonth": 4,
     "specialElements": "4 ED, 3 HRI, 1 Aspherical",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/sirui/sirui-vision-prime-24mm-t1-4.webp"
   },
   {
     "id": "sirui-vision-prime-35mm-t1-4",
@@ -32584,7 +32585,8 @@
     "releaseMonth": 4,
     "specialElements": "4 ED, 3 HRI, 1 Aspherical",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/sirui/sirui-vision-prime-35mm-t1-4.webp"
   },
   {
     "id": "sirui-vision-prime-50mm-t1-4",
@@ -32631,7 +32633,8 @@
     "releaseMonth": 4,
     "specialElements": "4 ED, 3 HRI",
     "hasApertureRing": true,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/sirui/sirui-vision-prime-50mm-t1-4.webp"
   },
   {
     "id": "meike-55mm-f1-4-apsc-af",
@@ -34387,7 +34390,8 @@
     "officialUrl": "https://nikonrumors.com/2024/08/10/yongnuo-23mm-f-1-4-z-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced-and-available-for-sale.aspx/",
     "releaseYear": 2024,
     "releaseMonth": 8,
-    "weightGrams": 360
+    "weightGrams": 360,
+    "image_url": "/images/products/yongnuo/yongnuo-yn23mm-f1-4-da-dsm-wl-pro.webp"
   },
   {
     "id": "yongnuo-yn56mm-f1-4-da-dsm-wl-pro",
@@ -34398,7 +34402,8 @@
     "officialUrl": "https://nikonrumors.com/2024/06/08/yongnuo-yn-56mm-f-1-4-da-dsm-wl-pro-aps-c-lens-for-nikon-z-mount-officially-announced.aspx/",
     "releaseYear": 2024,
     "releaseMonth": 6,
-    "weightGrams": 368
+    "weightGrams": 368,
+    "image_url": "/images/products/yongnuo/yongnuo-yn56mm-f1-4-da-dsm-wl-pro.webp"
   },
   {
     "id": "laowa-15mm-f5-cookie-ff",
@@ -34807,7 +34812,8 @@
     "motorType": "STM",
     "releaseMonth": 2,
     "maxMagnification": "0.06x",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/sirui/sirui-20mm-t1-8-1-33x-s35-autofocus-anamorphic.webp"
   },
   {
     "id": "sirui-40mm-t1-8-1-33x-s35-autofocus-anamorphic",
@@ -35049,7 +35055,8 @@
     "maxMagnification": "0.045x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/sirui/sirui-saturn-v2-35mm-t2-9-1-6x.webp"
   },
   {
     "id": "sirui-saturn-v2-50mm-t2-9-1-6x",
@@ -35095,7 +35102,8 @@
     "maxMagnification": "0.062x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/sirui/sirui-saturn-v2-50mm-t2-9-1-6x.webp"
   },
   {
     "id": "sirui-saturn-v2-75mm-t2-9-1-6x",
@@ -35141,7 +35149,8 @@
     "maxMagnification": "0.09x",
     "specialElements": "5 Cylindrical, 1 Aspherical",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/sirui/sirui-saturn-v2-75mm-t2-9-1-6x.webp"
   },
   {
     "id": "sirui-50mm-f1-8-1-33x-anamorphic",
@@ -54591,7 +54600,8 @@
       }
     ],
     "sensorFormat": "APS-C",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/yongnuo/yongnuo-yn11mm-f1-8s-da-dsm-wl.webp"
   },
   {
     "id": "yongnuo-yn17mm-f1-7m",
@@ -54646,7 +54656,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "motorType": "STM",
-    "coatings": "Multi-layer coating"
+    "coatings": "Multi-layer coating",
+    "image_url": "/images/products/yongnuo/yongnuo-yn25mm-f1-7m.webp"
   },
   {
     "id": "yongnuo-yn12-35mm-f2-8-4m",
@@ -54709,7 +54720,8 @@
     "cardSlots": "1x microSD",
     "ports": "2x USB-C, headphone, mic, nano-SIM",
     "batterySpec": "4400mAh (USB-C charging)",
-    "weightGrams": 670
+    "weightGrams": 670,
+    "image_url": "/images/products/yongnuo/yongnuo-yn455.webp"
   },
   {
     "id": "viltrox-mf-23mm-t1-5-cine",
@@ -55131,7 +55143,8 @@
       }
     ],
     "hasCustomButton": false,
-    "maxMagnification": "0.12x"
+    "maxMagnification": "0.12x",
+    "image_url": "/images/products/sirui/sirui-venus-100mm-t2-9-1-6x.webp"
   },
   {
     "id": "sirui-venus-150mm-t2-9-1-6x",
@@ -55278,7 +55291,8 @@
     ],
     "hasApertureRing": true,
     "retailPrice": 11490,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/sirui/sirui-night-walker-24mm-t1-2.webp"
   },
   {
     "id": "sirui-night-walker-35mm-t1-2",
@@ -55328,7 +55342,8 @@
     ],
     "hasApertureRing": true,
     "retailPrice": 13680,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/sirui/sirui-night-walker-35mm-t1-2.webp"
   },
   {
     "id": "sirui-night-walker-55mm-t1-2",
@@ -55378,7 +55393,8 @@
     ],
     "hasApertureRing": true,
     "retailPrice": 11490,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/sirui/sirui-night-walker-55mm-t1-2.webp"
   },
   {
     "id": "sirui-night-walker-16mm-t1-2",
@@ -55432,7 +55448,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "retailPrice": 13680,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/sirui/sirui-night-walker-16mm-t1-2.webp"
   },
   {
     "id": "sirui-night-walker-75mm-t1-2",
