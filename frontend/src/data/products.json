@@ -14726,7 +14726,8 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "image_url": "/images/products/zeiss/50mm-f2.webp"
   },
   {
     "brand": "Voigtlander",
@@ -31886,7 +31887,8 @@
     "hasApertureRing": true,
     "specialElements": "1 APD",
     "retailPrice": 29280,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/zeiss/zeiss-loxia-2-35.webp"
   },
   {
     "id": "zeiss-touit-2-8-12",
@@ -37732,7 +37734,8 @@
     "hasWeatherSeal": false,
     "hasIBIS": false,
     "logSupport": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/panasonic/panasonic-lumix-g5.webp"
   },
   {
     "id": "panasonic-lumix-gh3",
@@ -37768,7 +37771,8 @@
     "releaseMonth": 9,
     "afTargets": "Face",
     "hasIBIS": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/panasonic/panasonic-lumix-gh3.webp"
   },
   {
     "id": "panasonic-lumix-gf6",
@@ -37876,7 +37880,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "logSupport": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/panasonic/panasonic-lumix-gx7.webp"
   },
   {
     "id": "panasonic-lumix-gm1",
@@ -38096,7 +38101,8 @@
     "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
     "ports": "USB 2.0, HDMI, mic",
     "hasWeatherSeal": true,
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/panasonic/panasonic-lumix-gx8.webp"
   },
   {
     "id": "panasonic-lumix-gx85",
@@ -38850,7 +38856,8 @@
       }
     ],
     "releaseMonth": 5,
-    "maxMagnification": "0.17x"
+    "maxMagnification": "0.17x",
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s.webp"
   },
   {
     "id": "panasonic-lumix-g-x-vario-35-100mm-f2-8-power-o-i-s",
@@ -38987,7 +38994,8 @@
     ],
     "releaseMonth": 10,
     "motorType": "Stepping Motor",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/panasonic/panasonic-lumix-g-vario-12-32mm-f3-5-5-6-asph-mega-o-i-s.webp"
   },
   {
     "id": "panasonic-leica-dg-nocticron-42-5mm-f1-2-asph-power-o-i-s",
@@ -41258,7 +41266,8 @@
     "motorType": "Manual focus",
     "specialElements": "6 APD",
     "releaseMonth": 7,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-90mm-f4-close-focus.webp"
   },
   {
     "id": "leica-noctilux-m-35-f1-2-asph",
@@ -42571,7 +42580,8 @@
         }
       }
     ],
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "image_url": "/images/products/astrhori/astrhori-18mm-f8-2x-periprobe.webp"
   },
   {
     "id": "astrhori-af-85mm-f1-8",
@@ -42603,7 +42613,8 @@
         }
       }
     ],
-    "coatings": "Multi-layer coatings"
+    "coatings": "Multi-layer coatings",
+    "image_url": "/images/products/astrhori/astrhori-af-85mm-f1-8.webp"
   },
   {
     "id": "astrhori-12mm-f2-8-fisheye",
@@ -42694,7 +42705,8 @@
         }
       }
     ],
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "image_url": "/images/products/astrhori/astrhori-18mm-f8-shift.webp"
   },
   {
     "id": "astrhori-85mm-f2-8-macro-tilt",
@@ -42812,7 +42824,8 @@
         }
       }
     ],
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "image_url": "/images/products/astrhori/astrhori-55mm-f5-6.webp"
   },
   {
     "id": "astrhori-75mm-f4",
@@ -50559,7 +50572,8 @@
     "hasApertureRing": true,
     "filterSizeMm": 82,
     "minAperture": "T16",
-    "closeFocus": "0.5m"
+    "closeFocus": "0.5m",
+    "image_url": "/images/products/7artisans/7artisans-vision-50mm-t1-05-cine.webp"
   },
   {
     "id": "7artisans-m-28mm-f5-6",
@@ -55479,7 +55493,8 @@
       }
     ],
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "image_url": "/images/products/canon/canon-ef-m-18-55mm-f3-5-5-6-is-stm.webp"
   },
   {
     "id": "canon-ef-m-11-22mm-f4-5-6-is-stm",
@@ -55716,7 +55731,8 @@
     ],
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "image_url": "/images/products/canon/canon-eos-m.webp"
   },
   {
     "id": "canon-eos-m2",
@@ -56573,7 +56589,8 @@
     "batterySpec": "Built-in Li-ion (255 shots CIPA)",
     "dimensions": "60.9 x 153.1 x 34.2 mm",
     "weightGrams": 175,
-    "launchPrice": 16490
+    "launchPrice": 16490,
+    "image_url": "/images/products/casio/casio-exilim-ex-fr10.webp"
   },
   {
     "id": "casio-exilim-ex-fr100",
@@ -57466,7 +57483,8 @@
     "cardSlots": "1x microSD (up to 2TB)",
     "weightGrams": 215,
     "retailPrice": 15400,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/insta360/insta360-luna-pro.webp"
   },
   {
     "id": "insta360-luna-ultra",
@@ -58294,7 +58312,8 @@
     "hasWeatherSeal": false,
     "launchPrice": 18900,
     "evfMagnification": "None",
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/nikon/nikon-1-j1.webp"
   },
   {
     "id": "nikon-1-v1",
@@ -58329,7 +58348,8 @@
     "afPoints": "135 points",
     "hasWeatherSeal": false,
     "launchPrice": 26900,
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/nikon/nikon-1-v1.webp"
   },
   {
     "id": "nikon-1-j2",
@@ -58363,7 +58383,8 @@
     "afPoints": "135 points",
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "logSupport": "None"
+    "logSupport": "None",
+    "image_url": "/images/products/nikon/nikon-1-j2.webp"
   },
   {
     "id": "nikon-1-v2",
@@ -58715,7 +58736,8 @@
     "hasOIS": true,
     "hasWeatherSeal": false,
     "hasApertureRing": false,
-    "motorType": "Micromotor"
+    "motorType": "Micromotor",
+    "image_url": "/images/products/nikon/nikon-1-vr-30-110mm-f-3-8-5-6.webp"
   },
   {
     "id": "nikon-1-10mm-f-2-8",
@@ -58747,7 +58769,8 @@
     "weightGrams": 77,
     "hasOIS": false,
     "hasApertureRing": false,
-    "motorType": "Micromotor"
+    "motorType": "Micromotor",
+    "image_url": "/images/products/nikon/nikon-1-10mm-f-2-8.webp"
   },
   {
     "id": "nikon-1-vr-10-100mm-f-4-5-5-6-pd-zoom",
@@ -58779,7 +58802,8 @@
     "weightGrams": 530,
     "hasOIS": true,
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "image_url": "/images/products/nikon/nikon-1-vr-10-100mm-f-4-5-5-6-pd-zoom.webp"
   },
   {
     "id": "nikon-1-11-27-5mm-f-3-5-5-6",
@@ -59297,7 +59321,8 @@
     "ports": "USB 2.0",
     "sensorType": "CCD",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "burstSpeed": "1.5fps"
+    "burstSpeed": "1.5fps",
+    "image_url": "/images/products/nikon/nikon-coolpix-s30.webp"
   },
   {
     "id": "nikon-coolpix-l810",
@@ -59323,7 +59348,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "CCD",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "burstSpeed": "1.2fps"
+    "burstSpeed": "1.2fps",
+    "image_url": "/images/products/nikon/nikon-coolpix-l810.webp"
   },
   {
     "id": "nikon-coolpix-l26",
@@ -59429,7 +59455,8 @@
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
     "burstSpeed": "1.9fps",
-    "ports": "USB, mini HDMI"
+    "ports": "USB, mini HDMI",
+    "image_url": "/images/products/nikon/nikon-coolpix-l610.webp"
   },
   {
     "id": "nikon-coolpix-p7700",
@@ -59457,7 +59484,8 @@
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "99 points",
-    "ports": "USB, mini HDMI, mic"
+    "ports": "USB, mini HDMI, mic",
+    "image_url": "/images/products/nikon/nikon-coolpix-p7700.webp"
   },
   {
     "id": "nikon-coolpix-s6400",
@@ -59483,7 +59511,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "burstSpeed": "10fps"
+    "burstSpeed": "10fps",
+    "image_url": "/images/products/nikon/nikon-coolpix-s6400.webp"
   },
   {
     "id": "nikon-coolpix-s800c",
@@ -59745,7 +59774,8 @@
     "burstSpeed": "7.5fps",
     "afPoints": "99 points",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB, micro HDMI"
+    "ports": "USB, micro HDMI",
+    "image_url": "/images/products/nikon/nikon-coolpix-s9400.webp"
   },
   {
     "id": "nikon-coolpix-s31",
@@ -59850,7 +59880,8 @@
     "ports": "USB, AV out, micro HDMI",
     "afPoints": "99 points",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/nikon/nikon-coolpix-s6500.webp"
   },
   {
     "id": "nikon-coolpix-aw110",
@@ -59876,7 +59907,8 @@
     "burstSpeed": "8fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "99 points",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/nikon/nikon-coolpix-aw110.webp"
   },
   {
     "id": "nikon-coolpix-l820",
@@ -59952,7 +59984,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "micro USB, micro HDMI",
     "afPoints": "99 points",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/nikon/nikon-coolpix-s6800.webp"
   },
   {
     "id": "nikon-coolpix-s3600",
@@ -59977,7 +60010,8 @@
     "burstSpeed": "1.1fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, AV out",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/nikon/nikon-coolpix-s3600.webp"
   },
   {
     "id": "nikon-coolpix-l30",
@@ -60920,7 +60954,8 @@
     "burstSpeed": "6.7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, AV out, micro HDMI",
-    "weightGrams": 508
+    "weightGrams": 508,
+    "image_url": "/images/products/nikon/nikon-coolpix-l830.webp"
   },
   {
     "id": "nikon-coolpix-l330",
@@ -61017,7 +61052,8 @@
     "burstSpeed": "7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "micro USB, mini HDMI",
-    "weightGrams": 494
+    "weightGrams": 494,
+    "image_url": "/images/products/nikon/nikon-coolpix-p530.webp"
   },
   {
     "id": "nikon-coolpix-s810c",
@@ -61065,7 +61101,8 @@
     "burstSpeed": "1.1fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB",
-    "weightGrams": 118
+    "weightGrams": 118,
+    "image_url": "/images/products/nikon/nikon-coolpix-s3700.webp"
   },
   {
     "id": "nikon-coolpix-l840",
@@ -64179,7 +64216,8 @@
     "sensorType": "CMOS",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "processor": "TruePic VI"
+    "processor": "TruePic VI",
+    "image_url": "/images/products/om-system/olympus-stylus-xz-2.webp"
   },
   {
     "id": "olympus-stylus-1",
@@ -64316,7 +64354,8 @@
     "evfMagnification": "None",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-xz-10.webp"
   },
   {
     "id": "olympus-stylus-tg-2-tough",
@@ -64370,7 +64409,8 @@
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
     "burstSpeed": "5fps",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-tough-tg-1.webp"
   },
   {
     "id": "olympus-stylus-tg-830-tough",
@@ -64396,7 +64436,8 @@
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD (UHS-I)",
-    "burstSpeed": "11.5fps"
+    "burstSpeed": "11.5fps",
+    "image_url": "/images/products/om-system/olympus-stylus-tg-830-tough.webp"
   },
   {
     "id": "olympus-stylus-tg-630-tough",
@@ -64448,7 +64489,8 @@
     "burstSpeed": "11.5fps",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-sh-50.webp"
   },
   {
     "id": "olympus-stylus-sz-15",
@@ -64474,7 +64516,8 @@
     "burstSpeed": "10fps",
     "sensorType": "CCD",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-sz-15.webp"
   },
   {
     "id": "olympus-tough-tg-820",
@@ -64554,7 +64597,8 @@
     "burstSpeed": "0.6fps",
     "sensorType": "CCD",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-tough-tg-320.webp"
   },
   {
     "id": "olympus-sp-620uz",
@@ -64580,7 +64624,8 @@
     "processor": "TruePic III+",
     "sensorType": "CCD",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-sp-620uz.webp"
   },
   {
     "id": "olympus-vg-170",
@@ -64603,7 +64648,8 @@
     "isoRange": "80-1600",
     "sensorType": "CCD",
     "cardSlots": "1x SD",
-    "ports": "USB (multi-connector)"
+    "ports": "USB (multi-connector)",
+    "image_url": "/images/products/om-system/olympus-vg-170.webp"
   },
   {
     "id": "olympus-sz-14",
@@ -64626,7 +64672,8 @@
     "isoRange": "80-1600",
     "sensorType": "CCD",
     "cardSlots": "1x SD",
-    "ports": "USB (multi-connector), micro HDMI"
+    "ports": "USB (multi-connector), micro HDMI",
+    "image_url": "/images/products/om-system/olympus-sz-14.webp"
   },
   {
     "id": "olympus-stylus-tg-625-tough",
@@ -64652,7 +64699,8 @@
     "processor": "TruePic VI",
     "burstSpeed": "5fps",
     "cardSlots": "1x SD",
-    "ports": "USB (multi-connector), micro HDMI"
+    "ports": "USB (multi-connector), micro HDMI",
+    "image_url": "/images/products/om-system/olympus-stylus-tg-625-tough.webp"
   },
   {
     "id": "olympus-stylus-sp-820uz",
@@ -64678,7 +64726,8 @@
     "burstSpeed": "1.5fps",
     "sensorType": "CMOS",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-sp-820uz.webp"
   },
   {
     "id": "olympus-sp-720uz",
@@ -64702,7 +64751,8 @@
     "sensorType": "CMOS",
     "cardSlots": "1x SD",
     "ports": "USB (multi-connector), micro HDMI, remote cable",
-    "burstSpeed": "5fps"
+    "burstSpeed": "5fps",
+    "image_url": "/images/products/om-system/olympus-sp-720uz.webp"
   },
   {
     "id": "olympus-sz-31mr",
@@ -64754,7 +64804,8 @@
     "processor": "TruePic V",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD (UHS-I)",
-    "ports": "USB (multi-connector), micro HDMI, remote cable"
+    "ports": "USB (multi-connector), micro HDMI, remote cable",
+    "image_url": "/images/products/om-system/olympus-sh-25mr.webp"
   },
   {
     "id": "olympus-stylus-sh-60",
@@ -64833,7 +64884,8 @@
     "burstSpeed": "7.1fps",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-tg-850-tough.webp"
   },
   {
     "id": "olympus-stylus-sh-1",
@@ -64861,7 +64913,8 @@
     "burstSpeed": "11.5fps",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "image_url": "/images/products/om-system/olympus-stylus-sh-1.webp"
   },
   {
     "id": "olympus-stylus-tg-3-tough",
@@ -64944,7 +64997,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": true,
-    "burstSpeed": "5fps"
+    "burstSpeed": "5fps",
+    "image_url": "/images/products/om-system/olympus-stylus-tg-4-tough.webp"
   },
   {
     "id": "olympus-stylus-tg-860-tough",
@@ -64999,7 +65053,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
-    "burstSpeed": "11.5fps"
+    "burstSpeed": "11.5fps",
+    "image_url": "/images/products/om-system/olympus-stylus-sh-2.webp"
   },
   {
     "id": "olympus-stylus-tg-870-tough",
@@ -65054,7 +65109,8 @@
     "sensorType": "BSI-CMOS",
     "burstSpeed": "11.5fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/om-system/olympus-stylus-sh-3.webp"
   },
   {
     "id": "olympus-stylus-tg-tracker",
@@ -65074,7 +65130,8 @@
     "hasIBIS": false,
     "lcdSpec": "1.5-inch 0.12M-dot",
     "batterySpec": "LI-92B",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/om-system/olympus-stylus-tg-tracker.webp"
   },
   {
     "id": "olympus-tough-tg-5",
@@ -65997,7 +66054,8 @@
     "dimensions": "110.5 x 67.1 x 45.6 mm",
     "weightGrams": 298,
     "hasWeatherSeal": false,
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "image_url": "/images/products/panasonic/panasonic-lumix-lx7.webp"
   },
   {
     "id": "panasonic-lumix-zs300",
@@ -66194,7 +66252,8 @@
     "dimensions": "125.1 x 86.6 x 110.2 mm",
     "weightGrams": 588,
     "hasWeatherSeal": false,
-    "processor": "Venus Engine VII FHD"
+    "processor": "Venus Engine VII FHD",
+    "image_url": "/images/products/panasonic/panasonic-lumix-fz200.webp"
   },
   {
     "id": "panasonic-lumix-fz60",
@@ -66449,7 +66508,8 @@
     "dimensions": "104.9 x 58.9 x 28.2 mm",
     "weightGrams": 206,
     "hasWeatherSeal": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/panasonic/panasonic-lumix-zs20.webp"
   },
   {
     "id": "panasonic-lumix-zs25",
@@ -66841,7 +66901,8 @@
     "isoRange": "100-1600 (Ext: 6400)",
     "burstSpeed": "1.3fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "image_url": "/images/products/panasonic/panasonic-lumix-ts20.webp"
   },
   {
     "id": "panasonic-lumix-ts5",
@@ -66945,7 +67006,8 @@
     "evfMagnification": "None",
     "isoRange": "100-1600 (Ext: 6400)",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz7.webp"
   },
   {
     "id": "panasonic-lumix-sz5",
@@ -66992,7 +67054,8 @@
     "batterySpec": "Li-ion (220 shots CIPA)",
     "dimensions": "96.5 x 56.8 x 21.2 mm",
     "weightGrams": 134,
-    "ports": "USB 2.0, micro HDMI, AV out"
+    "ports": "USB 2.0, micro HDMI, AV out",
+    "image_url": "/images/products/panasonic/panasonic-lumix-sz9.webp"
   },
   {
     "id": "panasonic-lumix-sz3",
@@ -67042,7 +67105,8 @@
     "isoRange": "100-6400",
     "burstSpeed": "1fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "image_url": "/images/products/panasonic/panasonic-lumix-xs1.webp"
   },
   {
     "id": "panasonic-lumix-sz8",
@@ -67123,7 +67187,8 @@
     "isoRange": "100-1600 (Ext: 6400)",
     "burstSpeed": "1.3fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "image_url": "/images/products/panasonic/panasonic-lumix-fh8.webp"
   },
   {
     "id": "panasonic-lumix-cm10",
@@ -67602,7 +67667,8 @@
     "hasWeatherSeal": true,
     "dimensions": "125 x 64.5 x 32 mm",
     "weightGrams": 236,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/ricoh/ricoh-wg-5-gps.webp"
   },
   {
     "id": "ricoh-wg-40",
@@ -67627,7 +67693,8 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 192,
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "image_url": "/images/products/ricoh/ricoh-wg-40.webp"
   },
   {
     "id": "ricoh-wg-m2",
@@ -67651,7 +67718,8 @@
     "hasWeatherSeal": true,
     "dimensions": "57.4 x 34.1 x 77.8 mm",
     "weightGrams": 136,
-    "isoRange": "200-6400"
+    "isoRange": "200-6400",
+    "image_url": "/images/products/ricoh/ricoh-wg-m2.webp"
   },
   {
     "id": "ricoh-wg-50",
@@ -67755,7 +67823,8 @@
     "hasWeatherSeal": true,
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 193,
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "image_url": "/images/products/ricoh/ricoh-wg-70.webp"
   },
   {
     "id": "ricoh-wg-7",
@@ -67780,7 +67849,8 @@
     "hasWeatherSeal": true,
     "dimensions": "118.2 x 65.5 x 33.1 mm",
     "weightGrams": 246,
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "image_url": "/images/products/ricoh/ricoh-wg-7.webp"
   },
   {
     "id": "ricoh-wg-80",
@@ -68776,7 +68846,8 @@
     "hasWeatherSeal": true,
     "dimensions": "118.2 x 65.5 x 33.1 mm",
     "weightGrams": 252,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "image_url": "/images/products/ricoh/ricoh-g900.webp"
   },
   {
     "id": "kodak-pixpro-az361",
@@ -71290,7 +71361,8 @@
     ],
     "launchPrice": 16000,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/voigtlander/voigtlander-heliar-40mm-f2-8-aspherical.webp"
   },
   {
     "id": "voigtlander-nokton-vintage-line-35mm-f1-5-aspherical",
@@ -71381,7 +71453,8 @@
     ],
     "launchPrice": 16000,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-28mm-f2-8-aspherical.webp"
   },
   {
     "id": "voigtlander-color-skopar-50mm-f2-2",
@@ -71412,7 +71485,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "3 Anomalous Partial Dispersion"
+    "specialElements": "3 Anomalous Partial Dispersion",
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-50mm-f2-2.webp"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f3-5",
@@ -71507,7 +71581,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "specialElements": "3 Anomalous Partial Dispersion, 1 Aspherical",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-35mm-f3-5-aspherical.webp"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iv",
@@ -71633,7 +71708,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "4 Anomalous Partial Dispersion"
+    "specialElements": "4 Anomalous Partial Dispersion",
+    "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-75mm-f2-8.webp"
   },
   {
     "id": "voigtlander-ultron-21mm-f1-8-aspherical",
