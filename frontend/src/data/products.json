@@ -44224,7 +44224,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "motorType": "Manual focus",
-    "opticalDesign": "17 elements in 14 groups"
+    "opticalDesign": "17 elements in 14 groups",
+    "releaseMonth": 9
   },
   {
     "id": "dzofilm-linglung-20-70mm-t2-9",
@@ -44248,7 +44249,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "motorType": "Manual focus",
-    "opticalDesign": "16 elements in 12 groups"
+    "opticalDesign": "16 elements in 12 groups",
+    "releaseMonth": 9
   },
   {
     "id": "irix-15mm-f-2-4-dragonfly",
@@ -48203,7 +48205,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-50mm-f0-95.webp",
     "retailPrice": 5500,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "releaseMonth": 5
   },
   {
     "id": "ttartisans-aps-c-23mm-f1-4",
@@ -48560,7 +48563,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-35mm-t2-1-dual-bokeh-cine.webp",
     "retailPrice": 9450,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 5
   },
   {
     "id": "ttartisans-50mm-t2-1-dual-bokeh-cine",
@@ -55292,7 +55296,8 @@
     "hasApertureRing": true,
     "retailPrice": 11490,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/sirui/sirui-night-walker-24mm-t1-2.webp"
+    "image_url": "/images/products/sirui/sirui-night-walker-24mm-t1-2.webp",
+    "releaseMonth": 7
   },
   {
     "id": "sirui-night-walker-35mm-t1-2",
@@ -55343,7 +55348,8 @@
     "hasApertureRing": true,
     "retailPrice": 13680,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/sirui/sirui-night-walker-35mm-t1-2.webp"
+    "image_url": "/images/products/sirui/sirui-night-walker-35mm-t1-2.webp",
+    "releaseMonth": 7
   },
   {
     "id": "sirui-night-walker-55mm-t1-2",
@@ -55394,7 +55400,8 @@
     "hasApertureRing": true,
     "retailPrice": 11490,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/sirui/sirui-night-walker-55mm-t1-2.webp"
+    "image_url": "/images/products/sirui/sirui-night-walker-55mm-t1-2.webp",
+    "releaseMonth": 7
   },
   {
     "id": "sirui-night-walker-16mm-t1-2",
@@ -57435,7 +57442,8 @@
     "dimensions": "39 x 39 x 22.3 mm",
     "weightGrams": 56,
     "image_url": "/images/products/dji/dji-action-2.webp",
-    "launchPrice": 13700
+    "launchPrice": 13700,
+    "releaseMonth": 10
   },
   {
     "id": "dji-pocket-2",
@@ -63073,7 +63081,8 @@
     "weightGrams": 717,
     "sensorFormat": "APS-C",
     "image_url": "/images/products/blazar/blazar-apex-50mm-t1-8-1-33x-s35-auto-focus-anamorphic.webp",
-    "minAperture": "T22"
+    "minAperture": "T22",
+    "releaseMonth": 11
   },
   {
     "id": "blazar-beetle-32mm-t3-2-1-33x-full-frame-anamorphic",
@@ -63115,7 +63124,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "image_url": "/images/products/blazar/blazar-beetle-32mm-t3-2-1-33x-full-frame-anamorphic.webp",
-    "minAperture": "T3.2"
+    "minAperture": "T3.2",
+    "releaseMonth": 9
   },
   {
     "id": "blazar-beetle-45mm-t3-2-1-33x-full-frame-anamorphic",
@@ -63157,7 +63167,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "image_url": "/images/products/blazar/blazar-beetle-45mm-t3-2-1-33x-full-frame-anamorphic.webp",
-    "minAperture": "T3.2"
+    "minAperture": "T3.2",
+    "releaseMonth": 9
   },
   {
     "id": "blazar-beetle-65mm-t3-2-1-33x-full-frame-anamorphic",
@@ -63199,7 +63210,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "image_url": "/images/products/blazar/blazar-beetle-65mm-t3-2-1-33x-full-frame-anamorphic.webp",
-    "minAperture": "T3.2"
+    "minAperture": "T3.2",
+    "releaseMonth": 9
   },
   {
     "id": "blazar-talon-35mm-t2-1-full-frame-1-5x-af-anamorphic",
@@ -63342,7 +63354,8 @@
           "name": "Canon RF"
         }
       }
-    ]
+    ],
+    "releaseMonth": 6
   },
   {
     "id": "vazen-65mm-t2-1-8x-anamorphic",
@@ -64272,7 +64285,8 @@
     "processor": "DIGIC 7",
     "ports": "USB-C",
     "cardSlots": "1x microSD/microSDHC/microSDXC",
-    "image_url": "/images/products/canon/canon-powershot-pick.webp"
+    "image_url": "/images/products/canon/canon-powershot-pick.webp",
+    "releaseMonth": 1
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -69817,7 +69831,8 @@
     "sensorType": "Exmor RS CMOS",
     "afPoints": "315 phase-detect points",
     "ports": "micro USB (USB 2.0), micro HDMI",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "releaseMonth": 7
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vi",
@@ -70893,7 +70908,8 @@
     "burstSpeed": "1fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "releaseMonth": 1
   },
   {
     "id": "sony-cyber-shot-dsc-w830",
@@ -70920,7 +70936,8 @@
     "burstSpeed": "1fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0",
-    "cardSlots": "1x Memory Stick Duo/Pro Duo/Pro-HG Duo, microSD/microSDHC"
+    "cardSlots": "1x Memory Stick Duo/Pro Duo/Pro-HG Duo, microSD/microSDHC",
+    "releaseMonth": 1
   },
   {
     "id": "sony-cyber-shot-dsc-w800",
@@ -71026,7 +71043,8 @@
     "burstSpeed": "10fps",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC / Memory Stick PRO Duo",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "releaseMonth": 12
   },
   {
     "id": "sony-hdr-as15",
