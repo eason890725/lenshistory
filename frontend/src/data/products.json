@@ -10029,7 +10029,12 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/yongnuo/85mm-f1-8-s-df-dsm.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "opticalDesign": "9 elements in 8 groups",
+    "coatings": "Nano multilayer coating",
+    "motorType": "Digital Stepper Motor",
+    "minAperture": "16",
+    "closeFocus": "0.8m"
   },
   {
     "brand": "Viltrox",
@@ -27089,7 +27094,8 @@
     "image_url": "/images/products/sony/sony-fx6.webp",
     "launchPrice": 239980,
     "releaseMonth": 11,
-    "lcdSpec": "3.5-inch 2.76M-dot"
+    "lcdSpec": "3.5-inch 2.76M-dot",
+    "processor": "BIONZ XR"
   },
   {
     "id": "sony-e-16-55mm-f2-8-g",
@@ -41898,7 +41904,9 @@
     "motorType": "Manual focus",
     "hasOIS": false,
     "image_url": "/images/products/leica/leica-summilux-m-50-f1-4.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "minAperture": "16",
+    "maxMagnification": "0.08x"
   },
   {
     "id": "canon-eos-c70",
@@ -46495,7 +46503,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-16mm-t1-9.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "thypoch-simera-c-21mm-t1-5",
@@ -46534,7 +46543,8 @@
     "hasWeatherSeal": true,
     "hasCustomButton": false,
     "retailPrice": 32400,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "thypoch-simera-c-28mm-t1-5",
@@ -46569,7 +46579,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-28mm-t1-5.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "thypoch-simera-c-35mm-t1-5",
@@ -46604,7 +46615,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-35mm-t1-5.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "thypoch-simera-c-50mm-t1-5",
@@ -46639,7 +46651,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-50mm-t1-5.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "thypoch-simera-c-75mm-t1-5",
@@ -46674,7 +46687,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-simera-c-75mm-t1-5.webp",
     "hasWeatherSeal": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi-layer anti-reflective coating"
   },
   {
     "id": "ttartisans-af-27mm-f2-8",
@@ -47375,7 +47389,8 @@
     "dimensions": "Ø82 x 97 mm",
     "image_url": "/images/products/ttartisans/ttartisans-90mm-f1-25.webp",
     "motorType": "Manual focus",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-14mm-f2-8-asph",
@@ -47529,7 +47544,8 @@
     "weightGrams": 695,
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "specialElements": "6 High Index"
+    "specialElements": "6 High Index",
+    "hasCustomButton": false
   },
   {
     "id": "ttartisans-100mm-f2-8-2x-macro",
@@ -50070,7 +50086,10 @@
     "weightGrams": 218,
     "hasApertureRing": true,
     "retailPrice": 3400,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "Multi-layer coating",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-35mm-f0-95-aps-c",
@@ -50431,7 +50450,9 @@
     "weightGrams": 420,
     "minAperture": "16",
     "retailPrice": 5700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-25mm-f0-95-aps-c",
@@ -50632,7 +50653,8 @@
     "filterSizeMm": 82,
     "minAperture": "T16",
     "closeFocus": "0.5m",
-    "image_url": "/images/products/7artisans/7artisans-vision-50mm-t1-05-cine.webp"
+    "image_url": "/images/products/7artisans/7artisans-vision-50mm-t1-05-cine.webp",
+    "coatings": "HD multi-layer coating"
   },
   {
     "id": "7artisans-m-28mm-f5-6",
@@ -50703,7 +50725,10 @@
     "filterSizeMm": 82,
     "image_url": "/images/products/7artisans/7artisans-spectrum-35mm-t2-0-cine.webp",
     "weightGrams": 675,
-    "closeFocus": "0.28m"
+    "closeFocus": "0.28m",
+    "coatings": "MC multilayer coating",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-spectrum-50mm-t2-0-cine",
@@ -50744,7 +50769,10 @@
     "filterSizeMm": 82,
     "image_url": "/images/products/7artisans/7artisans-spectrum-50mm-t2-0-cine.webp",
     "weightGrams": 793,
-    "closeFocus": "0.48m"
+    "closeFocus": "0.48m",
+    "coatings": "MC multilayer coating",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-spectrum-85mm-t2-0-cine",
@@ -50785,7 +50813,10 @@
     "filterSizeMm": 82,
     "image_url": "/images/products/7artisans/7artisans-spectrum-85mm-t2-0-cine.webp",
     "weightGrams": 832,
-    "closeFocus": "0.79m"
+    "closeFocus": "0.79m",
+    "coatings": "MC multilayer coating",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-m-35mm-f2-mark-ii",
@@ -50904,7 +50935,8 @@
     "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-mark-ii-aps-c.webp",
     "weightGrams": 58,
     "retailPrice": 1700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "minAperture": "6.3"
   },
   {
     "id": "7artisans-15mm-f4",
@@ -51384,7 +51416,10 @@
     "filterSizeMm": 82,
     "weightGrams": 1034,
     "hasApertureRing": true,
-    "image_url": "/images/products/7artisans/7artisans-120mm-t2-9-2x-macro.webp"
+    "image_url": "/images/products/7artisans/7artisans-120mm-t2-9-2x-macro.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false,
+    "hasWeatherSeal": true
   },
   {
     "id": "7artisans-50mm-f1-2-aps-c",
@@ -57244,7 +57279,8 @@
     "dimensions": "61 x 36.3 x 81 mm",
     "weightGrams": 183,
     "launchPrice": 15900,
-    "image_url": "/images/products/dji/dji-osmo-360-ii.webp"
+    "image_url": "/images/products/dji/dji-osmo-360-ii.webp",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-action-6",
@@ -60869,7 +60905,8 @@
     "burstSpeed": "7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB-C, micro HDMI, mic",
-    "processor": "EXPEED"
+    "processor": "EXPEED",
+    "hasWeatherSeal": false
   },
   {
     "id": "nikon-coolpix-l620",
@@ -61770,7 +61807,8 @@
       }
     ],
     "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-21mm-t1-6.webp",
-    "weightGrams": 750
+    "weightGrams": 750,
+    "hasApertureRing": true
   },
   {
     "id": "slr-magic-microprime-cine-50mm-t1-4",
@@ -61806,7 +61844,9 @@
         }
       }
     ],
-    "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-50mm-t1-4.webp"
+    "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-50mm-t1-4.webp",
+    "hasApertureRing": true,
+    "weightGrams": 700
   },
   {
     "id": "slr-magic-microprime-cine-17mm-t1-5",
@@ -65315,7 +65355,8 @@
     "evfMagnification": "None",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "processor": "TruePic VIII"
   },
   {
     "id": "fujifilm-x20",
@@ -66295,7 +66336,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-l10.webp",
     "retailPrice": 49900,
     "retailPriceDate": "2026-10",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-lf1",
@@ -67421,7 +67463,8 @@
     "retailPrice": 34900,
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/ricoh/ricoh-gr-iiix.webp",
-    "processor": "GR Engine 6"
+    "processor": "GR Engine 6",
+    "ibisRating": "4 stops"
   },
   {
     "id": "ricoh-gr-iii-hdf",
@@ -67448,7 +67491,8 @@
     "ports": "USB-C",
     "dimensions": "109.4 x 61.9 x 33.2 mm",
     "weightGrams": 257,
-    "videoResolution": "Full HD 60p"
+    "videoResolution": "Full HD 60p",
+    "burstSpeed": "4fps"
   },
   {
     "id": "ricoh-gr-iiix-hdf",
@@ -68563,7 +68607,9 @@
     "hasWeatherSeal": false,
     "evfMagnification": "0.74x",
     "ports": "USB 3.0, HDMI",
-    "cardSlots": "1x SD (UHS-II)"
+    "cardSlots": "1x SD (UHS-II)",
+    "afPoints": "49 points",
+    "batterySpec": "BP-DC15"
   },
   {
     "id": "leica-c-lux",
@@ -71293,7 +71339,8 @@
     "retailPrice": 19000,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi Coating (MC) / Single Coating (SC)"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iii",
@@ -71320,7 +71367,9 @@
         }
       }
     ],
-    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iii.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iii.webp",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-vintage-line-50mm-f1-5-aspherical-ii",
@@ -71351,7 +71400,8 @@
     "retailPrice": 26000,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi Coating (MC) / Single Coating (SC)"
   },
   {
     "id": "voigtlander-ultron-vintage-line-28mm-f2-aspherical",
@@ -71535,7 +71585,8 @@
     "launchPrice": 22000,
     "specialElements": "3 Anomalous Partial Dispersion",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Multi Coating (MC) / Single Coating (SC)"
   },
   {
     "id": "voigtlander-color-skopar-28mm-f2-8-aspherical",
@@ -71693,7 +71744,9 @@
     "hasCustomButton": false,
     "specialElements": "3 Anomalous Partial Dispersion, 1 Aspherical",
     "hasApertureRing": true,
-    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-35mm-f3-5-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-35mm-f3-5-aspherical.webp",
+    "hasWeatherSeal": false,
+    "hasOIS": false
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iv",
@@ -72428,7 +72481,8 @@
         }
       }
     ],
-    "image_url": "/images/products/mitakon/mitakon-speedmaster-20mm-t1-0-s35.webp"
+    "image_url": "/images/products/mitakon/mitakon-speedmaster-20mm-t1-0-s35.webp",
+    "hasCustomButton": false
   },
   {
     "id": "mitakon-speedmaster-35mm-t1-0-s35",
