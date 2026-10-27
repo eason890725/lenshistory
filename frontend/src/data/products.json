@@ -1914,7 +1914,8 @@
     "hasWeatherSeal": true,
     "afPoints": "325 points",
     "logSupport": "F-Log",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "processor": "X-Processor Pro"
   },
   {
     "brand": "Fujifilm",
@@ -2140,7 +2141,8 @@
     "ports": "micro USB (USB 2.0), micro HDMI, 2.5mm mic",
     "hasWeatherSeal": false,
     "releaseMonth": 1,
-    "logSupport": "None"
+    "logSupport": "None",
+    "processor": "X-Processor Pro"
   },
   {
     "brand": "Fujifilm",
@@ -15372,7 +15374,8 @@
     "ports": "USB-C, micro USB, HDMI Type A, mic, headphone",
     "image_url": "/images/products/sony/sony-fx30.webp",
     "releaseMonth": 9,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasWeatherSeal": true
   },
   {
     "brand": "Sony",
@@ -16190,7 +16193,8 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_mc105mmf28_vr_s/",
     "specialElements": "3 ED, 1 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-14-30mm-f-4-s",
@@ -20710,7 +20714,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 9,
     "retailPrice": 128000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "fujifilm-gf-110mm-f5-6-t-s-macro",
@@ -22557,7 +22562,8 @@
     "image_url": "/images/products/leica/leica-sl-typ-601.webp",
     "dimensions": "147 x 104 x 39 mm",
     "afPoints": "49 points",
-    "officialUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+    "officialUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
+    "logSupport": "L-Log"
   },
   {
     "id": "leica-sl2",
@@ -24843,7 +24849,8 @@
     "releaseMonth": 8,
     "hasApertureRing": false,
     "retailPrice": 81900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-70-200mm-f-2-8-vr-s-ii",
@@ -24880,7 +24887,8 @@
     "releaseMonth": 2,
     "hasApertureRing": false,
     "retailPrice": 98500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "nikon-z-35mm-f-1-4",
@@ -27111,7 +27119,8 @@
     "launchPrice": 239980,
     "releaseMonth": 11,
     "lcdSpec": "3.5-inch 2.76M-dot",
-    "processor": "BIONZ XR"
+    "processor": "BIONZ XR",
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-e-16-55mm-f2-8-g",
@@ -27537,7 +27546,8 @@
     "releaseMonth": 1,
     "retailPrice": 10880,
     "retailPriceDate": "2026-10",
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "hasOIS": false
   },
   {
     "id": "sony-e-pz-18-200mm-f3-5-6-3-oss",
@@ -27711,7 +27721,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-nex-3n.webp",
     "releaseMonth": 2,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasIBIS": false
   },
   {
     "id": "sony-nex-5t",
@@ -27856,7 +27867,8 @@
     "image_url": "/images/products/sony/sony-ilce-qx1.webp",
     "releaseMonth": 9,
     "launchPrice": 9980,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "lcdSpec": "Segment LCD"
   },
   {
     "id": "sony-a3000",
@@ -28220,7 +28232,8 @@
     "hasOIS": false,
     "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-50.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasCustomButton": false
   },
   {
     "id": "zeiss-otus-ml-1-4-85",
@@ -28265,7 +28278,8 @@
     "hasOIS": false,
     "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-85.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "hasCustomButton": false
   },
   {
     "id": "zeiss-otus-ml-1-4-35",
@@ -28312,7 +28326,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 2,
     "retailPrice": 62980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-28mm-f1-5-aspherical",
@@ -35527,7 +35542,8 @@
     "processor": "TruePic IX",
     "videoColorDepth": "8-bit",
     "retailPrice": 36990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "1.23x"
   },
   {
     "id": "om-system-om-1-mark-ii",
@@ -35566,7 +35582,8 @@
     "image_url": "/images/products/om-system/om-system-om-1-mark-ii.webp",
     "releaseMonth": 1,
     "processor": "TruePic X",
-    "videoColorDepth": "10-bit"
+    "videoColorDepth": "10-bit",
+    "evfMagnification": "1.65x"
   },
   {
     "id": "om-system-om-1",
@@ -35606,7 +35623,8 @@
     "releaseMonth": 2,
     "image_url": "/images/products/om-system/om-system-om-1.webp",
     "processor": "TruePic X",
-    "videoColorDepth": "10-bit (H.265)"
+    "videoColorDepth": "10-bit (H.265)",
+    "evfMagnification": "1.65x"
   },
   {
     "id": "om-system-om-3",
@@ -35646,7 +35664,8 @@
     "image_url": "/images/products/om-system/om-system-om-3.webp",
     "releaseMonth": 2,
     "processor": "TruePic X",
-    "launchPrice": 59990
+    "launchPrice": 59990,
+    "evfMagnification": "1.37x"
   },
   {
     "id": "om-system-om-5",
@@ -35686,7 +35705,8 @@
     "image_url": "/images/products/om-system/om-system-om-5.webp",
     "launchPrice": 37990,
     "processor": "TruePic IX",
-    "videoColorDepth": "8-bit"
+    "videoColorDepth": "8-bit",
+    "evfMagnification": "1.37x"
   },
   {
     "id": "om-system-om-5-mark-ii",
@@ -35727,7 +35747,8 @@
     "processor": "TruePic IX",
     "videoColorDepth": "8-bit",
     "retailPrice": 36990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "evfMagnification": "1.37x"
   },
   {
     "id": "olympus-om-d-e-m1-mark-iii",
@@ -35767,7 +35788,8 @@
     "releaseMonth": 2,
     "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-iii.webp",
     "processor": "TruePic IX",
-    "videoColorDepth": "8-bit"
+    "videoColorDepth": "8-bit",
+    "evfMagnification": "1.48x"
   },
   {
     "id": "olympus-om-d-e-m1x",
@@ -35807,7 +35829,8 @@
     "image_url": "/images/products/om-system/olympus-om-d-e-m1x.webp",
     "processor": "Dual TruePic VIII",
     "videoColorDepth": "8-bit",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "evfMagnification": "1.65x"
   },
   {
     "id": "olympus-om-d-e-m5-mark-iii",
@@ -35845,7 +35868,8 @@
     "image_url": "/images/products/om-system/olympus-om-d-e-m5-mark-iii.webp",
     "processor": "TruePic VIII",
     "hasWeatherSeal": true,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "1.37x"
   },
   {
     "id": "olympus-om-d-e-m10-mark-iv",
@@ -35884,7 +35908,8 @@
     "releaseMonth": 8,
     "processor": "TruePic VIII",
     "hasWeatherSeal": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "1.23x"
   },
   {
     "id": "olympus-pen-e-p7",
@@ -35922,7 +35947,8 @@
     "image_url": "/images/products/om-system/olympus-pen-e-p7.webp",
     "processor": "TruePic VIII",
     "hasWeatherSeal": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "None"
   },
   {
     "id": "olympus-pen-e-pl10",
@@ -35959,7 +35985,8 @@
     "image_url": "/images/products/om-system/olympus-pen-e-pl10.webp",
     "processor": "TruePic VIII",
     "hasWeatherSeal": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "None"
   },
   {
     "id": "olympus-om-d-e-m1-mark-ii",
@@ -35998,7 +36025,8 @@
     "dimensions": "134.1 x 90.9 x 68.9 mm",
     "afTargets": "Human (Face/Eye)",
     "logSupport": "OM-Log400",
-    "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-ii.webp"
+    "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-ii.webp",
+    "evfMagnification": "1.48x"
   },
   {
     "id": "olympus-pen-f",
@@ -36037,7 +36065,8 @@
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
     "ibisRating": "5 stops",
-    "image_url": "/images/products/om-system/olympus-pen-f.webp"
+    "image_url": "/images/products/om-system/olympus-pen-f.webp",
+    "evfMagnification": "1.23x"
   },
   {
     "id": "olympus-pen-e-pl8",
@@ -36113,7 +36142,8 @@
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
     "ibisRating": "4 stops",
-    "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-iii.webp"
+    "image_url": "/images/products/om-system/olympus-om-d-e-m10-mark-iii.webp",
+    "evfMagnification": "1.23x"
   },
   {
     "id": "olympus-pen-e-pl9",
@@ -36150,7 +36180,8 @@
     "afPoints": "121 points",
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
-    "image_url": "/images/products/om-system/olympus-pen-e-pl9.webp"
+    "image_url": "/images/products/om-system/olympus-pen-e-pl9.webp",
+    "evfMagnification": "None"
   },
   {
     "id": "olympus-om-d-e-m5-mark-ii",
@@ -37281,7 +37312,8 @@
     "coatings": "Z Coating Nano",
     "hasApertureRing": false,
     "retailPrice": 235000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
@@ -38120,7 +38152,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "hasIBIS": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-g7",
@@ -41059,7 +41092,8 @@
     "coatings": "Fluorine coating",
     "hasApertureRing": false,
     "retailPrice": 32900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s",
@@ -41096,7 +41130,8 @@
     "coatings": "Fluorine coating",
     "hasApertureRing": false,
     "retailPrice": 59900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": true
   },
   {
     "id": "panasonic-lumix-s-40mm-f2",
@@ -70335,7 +70370,14 @@
     "evfMagnification": "0.78x",
     "releaseMonth": 7,
     "launchPrice": 65980,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-v.webp",
+    "afPoints": "575 phase-detect points",
+    "ports": "USB-C (10Gbps), Multi/micro USB, micro HDMI, mic, headphone",
+    "burstSpeed": "30fps",
+    "cardSlots": "1x SD (UHS-I/II)",
+    "isoRange": "100-12800 (Ext: 64-12800)",
+    "processor": "BIONZ XR",
+    "sensorType": "Stacked CMOS"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1",
@@ -70361,7 +70403,10 @@
     "burstSpeed": "5fps",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "25 points",
+    "processor": "BIONZ",
+    "isoRange": "100-25600 (Ext: 50-25600)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r",
@@ -70451,7 +70496,8 @@
     "burstSpeed": "5fps",
     "isoRange": "100-32000 (Ext: 50-102800)",
     "ports": "USB 3.2 Gen 1, HDMI, microphone, headphone",
-    "cardSlots": "1x UHS-II SD"
+    "cardSlots": "1x UHS-II SD",
+    "afPoints": "693 phase-detect points"
   },
   {
     "id": "sony-zv-1",
@@ -70506,7 +70552,11 @@
     "sensorType": "BSI-CMOS",
     "burstSpeed": "16fps",
     "isoRange": "125-12800 (Ext: 80-12800)",
-    "cardSlots": "1x SDHC (UHS-I)"
+    "cardSlots": "1x SDHC (UHS-I)",
+    "logSupport": "S-Log2, S-Log3, HLG",
+    "afPoints": "425 points",
+    "processor": "BIONZ X",
+    "ports": "USB-C (USB 2.0), micro HDMI, mic"
   },
   {
     "id": "sony-zv-1-ii",
@@ -70529,7 +70579,10 @@
     "launchPrice": 24980,
     "sensorType": "Stacked CMOS",
     "isoRange": "125-12800",
-    "ports": "HDMI, microphone"
+    "ports": "HDMI, microphone",
+    "afPoints": "315 phase-detect points",
+    "burstSpeed": "24fps",
+    "cardSlots": "1x SD / Memory Stick Duo"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0",
@@ -70586,7 +70639,9 @@
     "sensorType": "BSI-CMOS",
     "burstSpeed": "16fps",
     "ports": "USB 2.0, HDMI, microphone",
-    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro"
+    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro",
+    "logSupport": "S-Log2",
+    "afPoints": "25 points"
   },
   {
     "id": "sony-cyber-shot-dsc-qx10",
@@ -70612,7 +70667,9 @@
     "sensorType": "BSI-CMOS",
     "isoRange": "100-3200 (Ext: 12800)",
     "ports": "USB 2.0",
-    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro"
+    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro",
+    "afPoints": "9 points",
+    "processor": "BIONZ"
   },
   {
     "id": "sony-cyber-shot-dsc-qx100",
@@ -70639,7 +70696,9 @@
     "sensorType": "BSI-CMOS",
     "isoRange": "160-6400 (Ext: 25600)",
     "ports": "USB 2.0",
-    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro"
+    "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro",
+    "afPoints": "25 points",
+    "processor": "BIONZ"
   },
   {
     "id": "sony-cyber-shot-dsc-qx30",
@@ -70757,7 +70816,8 @@
     "burstSpeed": "10fps",
     "isoRange": "100-12800",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points"
   },
   {
     "id": "sony-cyber-shot-dsc-hx300",
@@ -70780,7 +70840,12 @@
     "batterySpec": "NP-BX1 (310 shots CIPA)",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx300.webp",
     "sensorType": "BSI-CMOS",
-    "ports": "USB 2.0"
+    "ports": "USB 2.0",
+    "afPoints": "9 points",
+    "processor": "BIONZ",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "isoRange": "80-12800"
   },
   {
     "id": "sony-cyber-shot-dsc-hx50v",
@@ -70806,7 +70871,9 @@
     "burstSpeed": "10fps",
     "isoRange": "100-3200 (Ext: 12800)",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points",
+    "processor": "BIONZ"
   },
   {
     "id": "sony-cyber-shot-dsc-hx400v",
@@ -70834,7 +70901,8 @@
     "burstSpeed": "10fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points"
   },
   {
     "id": "sony-cyber-shot-dsc-hx90v",
@@ -70916,7 +70984,13 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "NP-BX1 (380 shots CIPA)",
     "launchPrice": 14980,
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx60v.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-hx60v.webp",
+    "afPoints": "9 points",
+    "processor": "BIONZ X",
+    "ports": "Multi/micro USB (USB 2.0), micro HDMI",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "sensorType": "Exmor R CMOS"
   },
   {
     "id": "sony-cyber-shot-dsc-wx50",
@@ -70994,7 +71068,14 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.46M-dot",
     "batterySpec": "NP-BN (240 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx100.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx100.webp",
+    "afPoints": "9 points",
+    "processor": "BIONZ",
+    "ports": "micro USB (USB 2.0), mini HDMI",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "isoRange": "100-12800",
+    "sensorType": "Exmor R CMOS"
   },
   {
     "id": "sony-cyber-shot-dsc-wx200",
@@ -71014,7 +71095,14 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.46M-dot",
     "batterySpec": "NP-BN (220 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx200.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx200.webp",
+    "afPoints": "9 points",
+    "processor": "BIONZ",
+    "ports": "Multi terminal (USB 2.0), micro HDMI",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "isoRange": "100-12800",
+    "sensorType": "Exmor R CMOS"
   },
   {
     "id": "sony-cyber-shot-dsc-wx60",
@@ -71034,7 +71122,14 @@
     "hasIBIS": true,
     "lcdSpec": "2.7-inch 0.23M-dot",
     "batterySpec": "NP-BN (230 shots CIPA)",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx60.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx60.webp",
+    "afPoints": "9 points",
+    "processor": "BIONZ",
+    "ports": "Multi terminal (USB 2.0), micro HDMI",
+    "burstSpeed": "10fps",
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
+    "isoRange": "100-12800",
+    "sensorType": "Exmor R CMOS"
   },
   {
     "id": "sony-cyber-shot-dsc-wx300",
@@ -71060,7 +71155,9 @@
     "burstSpeed": "10fps",
     "isoRange": "80-3200 (Ext: 12800)",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points",
+    "processor": "BIONZ"
   },
   {
     "id": "sony-cyber-shot-dsc-wx220",
@@ -71115,7 +71212,9 @@
     "burstSpeed": "10fps",
     "isoRange": "80-12800",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points",
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-cyber-shot-dsc-wx500",
@@ -71171,7 +71270,9 @@
     "isoRange": "80-3200 (Ext: 80-6400)",
     "burstSpeed": "10fps",
     "cardSlots": "1x microSD / Memory Stick Micro",
-    "ports": "micro USB (Multi Terminal), micro HDMI"
+    "ports": "micro USB (Multi Terminal), micro HDMI",
+    "afPoints": "25 points",
+    "hasWeatherSeal": false
   },
   {
     "id": "sony-cyber-shot-dsc-w730",
@@ -71198,7 +71299,9 @@
     "burstSpeed": "1fps",
     "isoRange": "100-3200",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
+    "afPoints": "9 points",
+    "processor": "BIONZ"
   },
   {
     "id": "sony-cyber-shot-dsc-w810",
@@ -71378,7 +71481,10 @@
     "hasIBIS": false,
     "batterySpec": "NP-BX1",
     "lcdSpec": "None",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "sensorType": "Exmor R CMOS",
+    "ports": "micro HDMI, mic",
+    "cardSlots": "1x microSD/SDHC / Memory Stick Micro (Mark2)"
   },
   {
     "id": "sony-hdr-as30v",
@@ -71397,7 +71503,11 @@
     "batterySpec": "NP-BX1",
     "releaseMonth": 9,
     "launchPrice": 9980,
-    "image_url": "/images/products/sony/sony-hdr-as30v.webp"
+    "image_url": "/images/products/sony/sony-hdr-as30v.webp",
+    "sensorType": "Exmor R CMOS",
+    "ports": "Multi/micro USB, micro HDMI, mic",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
+    "weightGrams": 90
   },
   {
     "id": "sony-hdr-as100v",
@@ -71417,7 +71527,11 @@
     "batterySpec": "NP-BX1",
     "releaseMonth": 1,
     "launchPrice": 10980,
-    "image_url": "/images/products/sony/sony-hdr-as100v.webp"
+    "image_url": "/images/products/sony/sony-hdr-as100v.webp",
+    "sensorType": "Exmor R CMOS",
+    "ports": "Multi/micro USB, micro HDMI, mic",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro",
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-hdr-az1",
@@ -71436,7 +71550,10 @@
     "hasIBIS": false,
     "batterySpec": "NP-BY1",
     "launchPrice": 9980,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "sensorType": "Exmor R CMOS",
+    "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro",
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-fdr-x1000v",
@@ -71457,7 +71574,9 @@
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
     "weightGrams": 114,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "ports": "Multi/micro USB, micro HDMI, mic",
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-hdr-as200v",
@@ -71480,7 +71599,9 @@
     "hasWeatherSeal": true,
     "weightGrams": 93,
     "releaseMonth": 1,
-    "image_url": "/images/products/sony/sony-hdr-as200v.webp"
+    "image_url": "/images/products/sony/sony-hdr-as200v.webp",
+    "ports": "Multi/micro USB, micro HDMI, mic",
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-hdr-as50",
@@ -71500,7 +71621,8 @@
     "launchPrice": 7980,
     "sensorType": "Exmor R CMOS",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "processor": "BIONZ X"
   },
   {
     "id": "sony-fdr-x3000",
@@ -71526,7 +71648,8 @@
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
     "evfMagnification": "None",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "ports": "Multi/micro USB, micro HDMI, mic"
   },
   {
     "id": "sony-hdr-as300",
@@ -71551,7 +71674,8 @@
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "hasWeatherSeal": true,
     "evfMagnification": "None",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "ports": "Multi/micro USB, micro HDMI, mic"
   },
   {
     "id": "voigtlander-ultron-vintage-line-35mm-f2-aspherical",
