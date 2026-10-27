@@ -13082,7 +13082,7 @@
     "modelName": "Sony FE 70-200mm F4 G OSS",
     "gearType": "LENS",
     "series": "G",
-    "releaseYear": 2016,
+    "releaseYear": 2013,
     "launchPrice": 42980,
     "apertureMax": 4.0,
     "filterSizeMm": 72,
@@ -13118,7 +13118,8 @@
     "minAperture": "22",
     "closeFocus": "1m (W) / 1.5m (T) (AF), 1m (W) / 1.35m (T) (MF)",
     "motorType": "Linear",
-    "image_url": "/images/products/sony/sony-70-200mm-f4-g-oss.webp"
+    "image_url": "/images/products/sony/sony-70-200mm-f4-g-oss.webp",
+    "releaseMonth": 10
   },
   {
     "brand": "Sony",
