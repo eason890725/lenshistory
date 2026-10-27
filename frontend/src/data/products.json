@@ -64038,7 +64038,8 @@
     "burstSpeed": "0.8fps",
     "isoRange": "100-1600",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "videoResolution": "HD 720p"
   },
   {
     "id": "canon-powershot-sx530-hs",
@@ -64538,7 +64539,8 @@
     "ports": "USB-C",
     "cardSlots": "1x microSD/microSDHC/microSDXC",
     "image_url": "/images/products/canon/canon-powershot-pick.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "isoRange": "100-6400"
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -73140,7 +73142,8 @@
     "isoRange": "100-12800",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afPoints": "31 points"
   },
   {
     "id": "canon-powershot-g7-x",
@@ -74157,7 +74160,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "batterySpec": "NB-11LH (220 shots CIPA)",
-    "image_url": "/images/products/canon/canon-ixus-185.webp"
+    "image_url": "/images/products/canon/canon-ixus-185.webp",
+    "afPoints": "9 points"
   },
   {
     "id": "canon-ixus-190",
