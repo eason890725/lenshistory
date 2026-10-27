@@ -63758,7 +63758,8 @@
     "ports": "USB 2.0",
     "videoResolution": "HD 720p 25p",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "image_url": "/images/products/canon/canon-powershot-a3400-is.webp"
   },
   {
     "id": "canon-powershot-a4000-is",
@@ -63784,7 +63785,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "image_url": "/images/products/canon/canon-powershot-a4000-is.webp"
   },
   {
     "id": "canon-ixus-132",
