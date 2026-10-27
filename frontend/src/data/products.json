@@ -28385,7 +28385,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 11,
     "retailPrice": 30000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -28425,7 +28426,8 @@
     "releaseMonth": 2,
     "hasApertureRing": true,
     "retailPrice": 16000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -28634,7 +28636,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 3,
     "retailPrice": 20000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-ultron-27mm-f2",
@@ -28703,7 +28706,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 7,
     "retailPrice": 47900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-x-mount",
@@ -30014,7 +30018,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 7,
     "hasWeatherSeal": false,
-    "hasOIS": false
+    "hasOIS": false,
+    "hasCustomButton": false
   },
   {
     "id": "tokina-sz-super-tele-500mm-f8-reflex-mf",
@@ -38750,7 +38755,8 @@
     "releaseMonth": 9,
     "hasWeatherSeal": true,
     "retailPrice": 49900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ibisRating": "8 stops"
   },
   {
     "id": "panasonic-lumix-g100d",
@@ -40118,7 +40124,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s5ii.webp",
     "releaseMonth": 1,
     "retailPrice": 48355,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ibisRating": "6.5 stops"
   },
   {
     "id": "panasonic-lumix-s5iix",
@@ -40496,7 +40503,8 @@
     "releaseMonth": 11,
     "motorType": "Linear Motor",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s.webp",
+    "hasCustomButton": true
   },
   {
     "id": "panasonic-lumix-s-pro-16-35mm-f4",
@@ -40922,7 +40930,9 @@
     "hasWeatherSeal": false,
     "retailPrice": 7900,
     "retailPriceDate": "2026-10",
-    "minAperture": "8"
+    "minAperture": "8",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "panasonic-lumix-s-18-40mm-f4-5-6-3",
@@ -41211,7 +41221,8 @@
       }
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "ibisRating": "6 stops"
   },
   {
     "id": "panasonic-lumix-s1r",
@@ -44307,7 +44318,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-15mm-f-2-4-dragonfly.webp"
+    "image_url": "/images/products/irix/irix-15mm-f-2-4-dragonfly.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-150mm-macro-1-1-f-2-8-dragonfly",
@@ -44341,7 +44353,9 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-150mm-macro-1-1-f-2-8-dragonfly.webp"
+    "image_url": "/images/products/irix/irix-150mm-macro-1-1-f-2-8-dragonfly.webp",
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "irix-45mm-f-1-4-gfx",
@@ -44374,7 +44388,8 @@
       }
     ],
     "image_url": "/images/products/irix/irix-45mm-f-1-4-gfx.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "irix-cine-11mm-t4-3",
@@ -44787,7 +44802,8 @@
         }
       }
     ],
-    "image_url": "/images/products/irix/irix-cine-150mm-t3-0-macro-1-1.webp"
+    "image_url": "/images/products/irix/irix-cine-150mm-t3-0-macro-1-1.webp",
+    "hasCustomButton": false
   },
   {
     "id": "irix-cine-150mm-t3-0-tele",
@@ -65413,7 +65429,8 @@
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "ports": "USB 2.0, HDMI",
-    "processor": "TruePic VIII"
+    "processor": "TruePic VIII",
+    "ibisRating": "2.5 stops"
   },
   {
     "id": "fujifilm-x20",
