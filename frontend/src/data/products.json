@@ -219,7 +219,8 @@
     "launchPrice": 134980,
     "afTargets": "Human, Animal",
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, LAN, flash sync",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "logSupport": "None"
   },
   {
     "brand": "Sony",
@@ -271,7 +272,8 @@
     "ports": "Micro USB, micro HDMI, mic, headphone, LAN, flash sync",
     "releaseMonth": 4,
     "processor": "BIONZ X",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "logSupport": "None"
   },
   {
     "brand": "Sony",
@@ -1439,7 +1441,8 @@
     "launchPrice": 22980,
     "afTargets": "Human, Animal",
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "logSupport": "None"
   },
   {
     "brand": "Sony",
