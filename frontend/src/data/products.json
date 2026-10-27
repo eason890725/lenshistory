@@ -42003,7 +42003,8 @@
     "ports": "USB-C, HDMI, SDI (BNC), monitor out (BNC), 2x mini XLR, mic, headphone, Ethernet, timecode, genlock, sync, RET, remote, 12V DC in (4-pin XLR)",
     "batterySpec": "BP-A30N / BP-A60N",
     "cardSlots": "1x CFexpress + 1x SD",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "image_url": "/images/products/canon/canon-eos-c400.webp"
   },
   {
     "id": "canon-eos-c80",
@@ -46981,7 +46982,8 @@
     "dimensions": "Ø65 x 49 mm",
     "releaseMonth": 12,
     "retailPrice": 3250,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-35mm-f1-8-ii.webp"
   },
   {
     "id": "ttartisans-af-35mm-f1-8",
@@ -47579,7 +47581,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "specialElements": "6 High Index",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/ttartisans/ttartisans-tilt-shift-100mm-f2-8-2x-macro.webp"
   },
   {
     "id": "ttartisans-100mm-f2-8-2x-macro",
@@ -54758,7 +54761,8 @@
     ],
     "sensorFormat": "Four Thirds",
     "motorType": "STM",
-    "coatings": "Nano Surface Coating"
+    "coatings": "Nano Surface Coating",
+    "image_url": "/images/products/yongnuo/yongnuo-yn12-35mm-f2-8-4m.webp"
   },
   {
     "id": "yongnuo-yn42-5mm-f1-7m",
@@ -63859,7 +63863,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-ixus-265-hs.webp"
   },
   {
     "id": "canon-powershot-sx600-hs",
@@ -64020,7 +64025,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-ixus-160.webp"
   },
   {
     "id": "canon-ixus-285-hs",
@@ -69456,7 +69462,8 @@
     "isoRange": "100-3200",
     "videoResolution": "Full HD 30p",
     "cardSlots": "1x microSD/microSDHC",
-    "ports": "Micro USB (USB 2.0)"
+    "ports": "Micro USB (USB 2.0)",
+    "image_url": "/images/products/kodak/kodak-pixpro-sl10-smart-lens.webp"
   },
   {
     "id": "kodak-pixpro-sl25-smart-lens",
@@ -73164,7 +73171,8 @@
     "burstSpeed": "2.4fps",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-powershot-sx240-hs.webp"
   },
   {
     "id": "canon-ixus-125-hs",
@@ -73297,7 +73305,8 @@
     "burstSpeed": "1.9fps",
     "isoRange": "80-6400",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-powershot-s200.webp"
   },
   {
     "id": "canon-powershot-n",
@@ -73431,7 +73440,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "image_url": "/images/products/canon/canon-powershot-a3500-is.webp"
   },
   {
     "id": "canon-ixus-135",
@@ -73454,7 +73464,8 @@
     "videoResolution": "HD 720p",
     "ports": "USB (Hi-Speed), AV out",
     "lcdSpec": "2.7-inch 0.23M-dot",
-    "batterySpec": "NB-11L (200 shots CIPA)"
+    "batterySpec": "NB-11L (200 shots CIPA)",
+    "image_url": "/images/products/canon/canon-ixus-135.webp"
   },
   {
     "id": "canon-powershot-a1400",
@@ -73505,7 +73516,8 @@
     "isoRange": "100-1600",
     "burstSpeed": "0.8fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "videoResolution": "HD 720p"
+    "videoResolution": "HD 720p",
+    "image_url": "/images/products/canon/canon-powershot-a2600.webp"
   },
   {
     "id": "canon-ixus-140",
@@ -73637,7 +73649,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "launchPrice": 10990
+    "launchPrice": 10990,
+    "image_url": "/images/products/canon/canon-powershot-n100.webp"
   },
   {
     "id": "canon-powershot-d30",
@@ -73828,7 +73841,8 @@
     "videoResolution": "720p 25p",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
-    "batterySpec": "NB-11LH (220 shots CIPA)"
+    "batterySpec": "NB-11LH (220 shots CIPA)",
+    "image_url": "/images/products/canon/canon-ixus-185.webp"
   },
   {
     "id": "canon-ixus-190",
