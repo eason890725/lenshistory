@@ -10322,7 +10322,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/100mm-t2-3-v-af.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 19980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -19946,8 +19948,7 @@
     "coatings": "Fluorine",
     "hasCustomButton": true,
     "releaseMonth": 9,
-    "retailPrice": 96800,
-    "retailPriceDate": "2026-10"
+    "launchPrice": 89900
   },
   {
     "id": "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
@@ -29595,7 +29596,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "image_url": "/images/products/samyang/samyang-af-60-180mm-f2-8-fe.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 29800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-af-24-60mm-f2-8-fe",
@@ -36595,7 +36598,9 @@
     "coatings": "ZERO Coating",
     "hasOIS": false,
     "hasApertureRing": false,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 23800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "olympus-m-zuiko-digital-ed-60mm-f2-8-macro",
@@ -40725,7 +40730,9 @@
     "releaseMonth": 6,
     "motorType": "Linear Motor",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 13300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "panasonic-lumix-s-24mm-f1-8",
@@ -57777,14 +57784,13 @@
     "videoResolution": "8K 30p (360°)",
     "batterySpec": "2400mAh removable (185 min, 5.7K endurance mode)",
     "hasWeatherSeal": true,
-    "retailPrice": 14900,
-    "retailPriceDate": "2026-10",
     "ports": "USB-C",
     "weightGrams": 200,
     "cardSlots": "1x microSD (UHS-I V30)",
     "lcdSpec": "2.5-inch 440x696 LCD",
     "isoRange": "100-6400",
-    "image_url": "/images/products/insta360/insta360-x5.webp"
+    "image_url": "/images/products/insta360/insta360-x5.webp",
+    "launchPrice": 19490
   },
   {
     "id": "insta360-ace-pro-2",
@@ -57894,10 +57900,9 @@
     "hasWeatherSeal": true,
     "dimensions": "114 x 46 x 33.1 mm",
     "weightGrams": 180,
-    "retailPrice": 10100,
-    "retailPriceDate": "2026-10",
     "image_url": "/images/products/insta360/insta360-x3.webp",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "launchPrice": 16999
   },
   {
     "id": "insta360-go-2",
@@ -69904,7 +69909,9 @@
     "ports": "micro USB",
     "cardSlots": "1x microSD/SDHC",
     "afPoints": "25 points",
-    "image_url": "/images/products/kodak/kodak-pixpro-wpz2.webp"
+    "image_url": "/images/products/kodak/kodak-pixpro-wpz2.webp",
+    "retailPrice": 7490,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "kodak-pixpro-az653",
