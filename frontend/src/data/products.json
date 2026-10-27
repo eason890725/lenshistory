@@ -46763,7 +46763,8 @@
     "dimensions": "Ø61 x 29 mm",
     "hasApertureRing": true,
     "retailPrice": 3380,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "image_url": "/images/products/ttartisans/ttartisans-af-27mm-f2-8.webp"
   },
   {
     "id": "ttartisans-af-56mm-f1-8",
@@ -58053,7 +58054,8 @@
     "hasWeatherSeal": true,
     "retailPrice": 8390,
     "retailPriceDate": "2026-10",
-    "batterySpec": "Built-in Enduro battery"
+    "batterySpec": "Built-in Enduro battery",
+    "image_url": "/images/products/gopro/gopro-lit-hero.webp"
   },
   {
     "id": "gopro-max2",
@@ -72357,7 +72359,8 @@
       }
     ],
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/mitakon/mitakon-creator-135mm-f2-5.webp"
   },
   {
     "id": "mitakon-creator-28mm-f5-6",
