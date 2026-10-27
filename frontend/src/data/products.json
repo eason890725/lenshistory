@@ -38409,7 +38409,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "hasIBIS": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-gh5",
@@ -38565,7 +38566,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "hasIBIS": false,
-    "logSupport": "None"
+    "logSupport": "None",
+    "evfMagnification": "None"
   },
   {
     "id": "panasonic-lumix-gx9",
@@ -38957,7 +38959,8 @@
     "releaseMonth": 6,
     "processor": "Venus Engine",
     "retailPrice": 73900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afPoints": "779 phase-detect points"
   },
   {
     "id": "panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s",
