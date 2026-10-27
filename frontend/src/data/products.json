@@ -36297,7 +36297,10 @@
     "sensorType": "Live MOS",
     "afTargets": "Human (Face)",
     "evfMagnification": "None",
-    "image_url": "/images/products/om-system/olympus-air-a01.webp"
+    "image_url": "/images/products/om-system/olympus-air-a01.webp",
+    "dimensions": "56.9 x 57.1 x 43.6 mm",
+    "afPoints": "81 points",
+    "logSupport": "None"
   },
   {
     "id": "olympus-pen-e-pl7",
@@ -64700,7 +64703,8 @@
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "image_url": "/images/products/om-system/olympus-stylus-xz-10.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-xz-10.webp",
+    "processor": "TruePic"
   },
   {
     "id": "olympus-stylus-tg-2-tough",
@@ -64727,7 +64731,8 @@
     "burstSpeed": "5fps",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "processor": "TruePic"
   },
   {
     "id": "olympus-tough-tg-1",
@@ -64808,7 +64813,8 @@
     "evfMagnification": "None",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "processor": "TruePic"
   },
   {
     "id": "olympus-stylus-sh-50",
@@ -65176,7 +65182,8 @@
     "sensorType": "BSI-CMOS",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD",
-    "ports": "USB, HDMI"
+    "ports": "USB, HDMI",
+    "processor": "TruePic"
   },
   {
     "id": "olympus-stylus-sp-100ee",
@@ -65480,7 +65487,12 @@
     "lcdSpec": "1.5-inch 0.12M-dot",
     "batterySpec": "LI-92B",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/om-system/olympus-stylus-tg-tracker.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-tg-tracker.webp",
+    "processor": "TruePic VII for 4K",
+    "sensorType": "BSI CMOS",
+    "isoRange": "100-1600",
+    "cardSlots": "1x microSD/microSDHC/microSDXC (UHS-I)",
+    "ports": "micro USB, HDMI"
   },
   {
     "id": "olympus-tough-tg-5",
