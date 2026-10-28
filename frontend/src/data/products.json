@@ -14590,7 +14590,7 @@
     "brand": "Laowa",
     "modelName": "Laowa FFⅡ Argus 35mm F0.95",
     "gearType": "LENS",
-    "releaseYear": 2024,
+    "releaseYear": 2021,
     "apertureMax": 0.95,
     "filterSizeMm": 72,
     "weightGrams": 755,
@@ -14636,7 +14636,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/35mm-f0-95-ff-ii-argus.webp",
     "retailPrice": 22600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 9
   },
   {
     "brand": "Voigtlander",
