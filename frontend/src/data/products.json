@@ -23073,7 +23073,8 @@
     "dimensions": "146 x 107 x 42 mm",
     "afPoints": "225 points",
     "officialUrl": "https://leica-camera.com/sites/default/files/pm-14762-Leica-SL2_Technical-Data_en.pdf",
-    "logSupport": "L-Log, HLG"
+    "logSupport": "L-Log, HLG",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "leica-sl2-s",
@@ -23112,7 +23113,8 @@
     "releaseMonth": 12,
     "afPoints": "225 points",
     "officialUrl": "https://leica-camera.com/sites/default/files/pm-14874-Leica-SL2-S_Technical-Data_en--1-.pdf",
-    "logSupport": "L-Log, HLG"
+    "logSupport": "L-Log, HLG",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "leica-sl3",
@@ -27661,7 +27663,8 @@
     "lcdSpec": "3.5-inch 2.76M-dot",
     "processor": "BIONZ XR",
     "hasWeatherSeal": true,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-e-16-55mm-f2-8-g",
@@ -40883,7 +40886,8 @@
     "cardSlots": "1x SD (UHS-II)",
     "retailPrice": 43130,
     "retailPriceDate": "2026-10",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "panasonic-lumix-s1rii",
@@ -42673,7 +42677,8 @@
     "batterySpec": "BP-A30 / BP-A60",
     "image_url": "/images/products/canon/canon-eos-c70.webp",
     "releaseMonth": 9,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-c400",
@@ -42709,7 +42714,8 @@
     "cardSlots": "1x CFexpress + 1x SD",
     "releaseMonth": 6,
     "image_url": "/images/products/canon/canon-eos-c400.webp",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Human, Animal"
   },
   {
     "id": "canon-eos-c80",
@@ -42745,7 +42751,8 @@
     "batterySpec": "BP-A30N / BP-A60N",
     "image_url": "/images/products/canon/canon-eos-c80.webp",
     "releaseMonth": 9,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Human, Animal"
   },
   {
     "id": "canon-eos-c50",
@@ -43677,7 +43684,8 @@
     "weightGrams": 1500,
     "afTargets": "Human",
     "retailPrice": 74600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "12-bit (Blackmagic RAW)"
   },
   {
     "id": "blackmagic-pyxis-12k",
@@ -43704,7 +43712,8 @@
     "dimensions": "106 x 119 x 151 mm",
     "weightGrams": 1590,
     "retailPrice": 193650,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "12-bit (Blackmagic RAW)"
   },
   {
     "id": "blackmagic-cinema-camera-6k",
@@ -43733,7 +43742,8 @@
     "afTargets": "Human",
     "image_url": "/images/products/blackmagic-design/blackmagic-cinema-camera-6k.webp",
     "retailPrice": 62300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "12-bit (Blackmagic RAW)"
   },
   {
     "id": "blackmagic-pocket-cinema-camera-4k",
@@ -43761,7 +43771,8 @@
     "weightGrams": 722,
     "image_url": "/images/products/blackmagic-design/blackmagic-pocket-cinema-camera-4k.webp",
     "retailPrice": 40450,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "megapixels": "8.8MP"
   },
   {
     "id": "blackmagic-pocket-cinema-camera",
@@ -46023,7 +46034,8 @@
     "ports": "12G-SDI, 9-pin EXT (genlock, timecode, RS-232), USB-C (Ethernet), 5-pin audio (mic/line/+48V), 3.5mm headphone, 6-pin DC-IN, Top Accessory Port, Wi-Fi",
     "dimensions": "101.26 x 95.26 x 129.37 mm",
     "weightGrams": 1188,
-    "image_url": "/images/products/red/red-komodo-x.webp"
+    "image_url": "/images/products/red/red-komodo-x.webp",
+    "afTargets": "Face"
   },
   {
     "id": "red-v-raptor-x-8k-vv",
@@ -46056,7 +46068,8 @@
     "ports": "2x 12G-SDI, 9-pin EXT (genlock, timecode, RS-232), USB-C / Ethernet, 5-pin audio (mic/line/+48V), 3.5mm headphone, 6-pin DC-IN, Top Accessory Port",
     "dimensions": "115.5 x 108 x 149.63 mm",
     "weightGrams": 1830,
-    "image_url": "/images/products/red/red-v-raptor-x-8k-vv.webp"
+    "image_url": "/images/products/red/red-v-raptor-x-8k-vv.webp",
+    "afTargets": "Face"
   },
   {
     "id": "red-v-raptor-xe",
@@ -46089,7 +46102,8 @@
     "ports": "2x 12G-SDI, 9-pin EXT (genlock, timecode, RS-232), USB-C / Ethernet, 5-pin audio (mic/line/+48V), 3.5mm headphone, 6-pin DC-IN, Top Accessory Port",
     "dimensions": "115.5 x 108 x 149.63 mm",
     "weightGrams": 1830,
-    "image_url": "/images/products/red/red-v-raptor-xe.webp"
+    "image_url": "/images/products/red/red-v-raptor-xe.webp",
+    "afTargets": "Face"
   },
   {
     "id": "samsung-nx20",
@@ -49487,7 +49501,8 @@
     "weightGrams": 668,
     "dimensions": "91.2 x 83.9 x 89.1 mm",
     "sensorType": "CMOS",
-    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet (PoE), LANC, 3.5mm mic, 3.5mm audio out"
+    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet (PoE), LANC, 3.5mm mic, 3.5mm audio out",
+    "videoColorDepth": "10-bit (H.265) / 8-bit (H.264)"
   },
   {
     "id": "z-cam-e2-m4",
@@ -49574,7 +49589,8 @@
     "image_url": "/images/products/z-cam/z-cam-e2n-mark-ii.webp",
     "sensorType": "CMOS",
     "logSupport": "None",
-    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet, 3.5mm mic, 3.5mm audio out"
+    "ports": "HDMI 2.0, USB-C, Gigabit Ethernet, 3.5mm mic, 3.5mm audio out",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "meyer-optik-goerlitz-trioplan-100-f2-8-ii",
@@ -56920,7 +56936,8 @@
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
     "afPoints": "5481 points",
-    "dimensions": "119.6 x 70.0 x 49.2 mm"
+    "dimensions": "119.6 x 70.0 x 49.2 mm",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "canon-eos-m200",
@@ -56955,7 +56972,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "sensorType": "CMOS",
-    "afPoints": "143 areas"
+    "afPoints": "143 areas",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "canon-eos-m50-mark-ii",
@@ -56991,7 +57009,8 @@
     ],
     "image_url": "/images/products/canon/canon-eos-m50-mark-ii.webp",
     "hasWeatherSeal": false,
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "casio-exilim-ex-zr4100",
@@ -58054,7 +58073,8 @@
     "image_url": "/images/products/dji/dji-osmo-pocket-4.webp",
     "sensorType": "CMOS",
     "retailPrice": 14690,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-osmo-pocket-4p",
@@ -58166,7 +58186,8 @@
     "image_url": "/images/products/dji/dji-osmo-nano.webp",
     "retailPrice": 8890,
     "retailPriceDate": "2026-10",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-osmo-360",
@@ -58222,7 +58243,8 @@
     "ports": "USB-C",
     "launchPrice": 13290,
     "retailPrice": 9690,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-osmo-pocket-3",
@@ -58248,7 +58270,8 @@
     "sensorType": "CMOS",
     "launchPrice": 17900,
     "retailPrice": 10590,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-osmo-action-4",
@@ -58275,7 +58298,8 @@
     "ports": "USB-C",
     "launchPrice": 13290,
     "retailPrice": 7090,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-osmo-action-3",
@@ -58300,7 +58324,8 @@
     "weightGrams": 145,
     "image_url": "/images/products/dji/dji-osmo-action-3.webp",
     "launchPrice": 11770,
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "videoColorDepth": "10-bit"
   },
   {
     "id": "dji-action-2",
@@ -58546,7 +58571,8 @@
     "launchPrice": 19490,
     "retailPrice": 14900,
     "retailPriceDate": "2026-10",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "megapixels": "72MP"
   },
   {
     "id": "insta360-ace-pro-2",
@@ -58570,7 +58596,8 @@
     "image_url": "/images/products/insta360/insta360-ace-pro-2.webp",
     "retailPrice": 11990,
     "retailPriceDate": "2026-10",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "megapixels": "50MP"
   },
   {
     "id": "insta360-x4",
@@ -58640,7 +58667,8 @@
     "weightGrams": 177,
     "launchPrice": 13090,
     "image_url": "/images/products/insta360/insta360-ace.webp",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "megapixels": "48MP"
   },
   {
     "id": "insta360-x3",
@@ -60443,7 +60471,8 @@
     "isoRange": "100-6400",
     "ports": "USB 2.0, HDMI, mic",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-l610",
@@ -61738,7 +61767,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "micro USB, micro HDMI",
     "afPoints": "99 points",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-b600",
@@ -61766,7 +61796,8 @@
     "afPoints": "99 points",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "burstSpeed": "7.7fps"
+    "burstSpeed": "7.7fps",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-w150",
@@ -61793,7 +61824,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "burstSpeed": "4.8fps"
+    "burstSpeed": "4.8fps",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-p1100",
@@ -61823,7 +61855,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB-C, micro HDMI, mic",
     "processor": "EXPEED",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-l620",
@@ -65198,7 +65231,8 @@
     "ports": "USB-C, micro HDMI, mic",
     "afPoints": "31 points",
     "retailPrice": 13990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx540-hs",
@@ -65311,7 +65345,8 @@
     "cardSlots": "1x microSD/microSDHC/microSDXC",
     "image_url": "/images/products/canon/canon-powershot-pick.webp",
     "releaseMonth": 1,
-    "isoRange": "100-6400"
+    "isoRange": "100-6400",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-xz-2",
@@ -65395,7 +65430,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
     "ports": "USB 2.0, HDMI",
-    "isoRange": "100-12800"
+    "isoRange": "100-12800",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-xp130",
@@ -66325,7 +66361,8 @@
     "burstSpeed": "20fps",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face"
   },
   {
     "id": "om-system-tough-tg-7",
@@ -66357,7 +66394,8 @@
     "ports": "USB 2.0, HDMI",
     "processor": "TruePic VIII",
     "ibisRating": "2.5 stops",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x20",
@@ -67249,7 +67287,8 @@
     "releaseMonth": 3,
     "hasIBIS": false,
     "afPoints": "49 points",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-lx100",
@@ -67372,7 +67411,9 @@
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
     "logSupport": "V-Log, HLG",
-    "afPoints": "779 phase-detect points"
+    "afPoints": "779 phase-detect points",
+    "afTargets": "Human, Animal, Car, Motorcycle, Bicycle, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "panasonic-lumix-lf1",
@@ -67635,7 +67676,8 @@
     "processor": "Venus Engine",
     "evfMagnification": "0.74x",
     "logSupport": "None",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-fz80d",
@@ -67667,7 +67709,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-fz80d.webp",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs20",
@@ -68020,7 +68063,8 @@
     "launchPrice": 13990,
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs99",
@@ -68052,7 +68096,8 @@
     "processor": "Venus Engine",
     "evfMagnification": "None",
     "afPoints": "49 points",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-ts4",
@@ -68534,7 +68579,8 @@
     "weightGrams": 257,
     "image_url": "/images/products/ricoh/ricoh-gr-iii.webp",
     "burstSpeed": "4fps",
-    "processor": "GR ENGINE 6"
+    "processor": "GR ENGINE 6",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iiix",
@@ -68562,7 +68608,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/ricoh/ricoh-gr-iiix.webp",
     "processor": "GR Engine 6",
-    "ibisRating": "4 stops"
+    "ibisRating": "4 stops",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iii-hdf",
@@ -68590,7 +68637,8 @@
     "dimensions": "109.4 x 61.9 x 33.2 mm",
     "weightGrams": 257,
     "videoResolution": "Full HD 60p",
-    "burstSpeed": "4fps"
+    "burstSpeed": "4fps",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iiix-hdf",
@@ -68617,7 +68665,8 @@
     "ports": "USB-C",
     "dimensions": "109.4 x 61.9 x 35.2 mm",
     "weightGrams": 262,
-    "videoResolution": "Full HD 60p"
+    "videoResolution": "Full HD 60p",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iv",
@@ -68645,7 +68694,8 @@
     "retailPrice": 45900,
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/ricoh/ricoh-gr-iv.webp",
-    "processor": "GR ENGINE 7"
+    "processor": "GR ENGINE 7",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iv-hdf",
@@ -68673,7 +68723,8 @@
     "weightGrams": 262,
     "videoResolution": "Full HD 60p",
     "retailPrice": 49800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "ricoh-gr-iv-monochrome",
@@ -68701,7 +68752,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/ricoh/ricoh-gr-iv-monochrome.webp",
     "processor": "GR ENGINE 7",
-    "ibisRating": "6 stops"
+    "ibisRating": "6 stops",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "pentax-optio-wg-2",
@@ -69220,7 +69272,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/pentax/pentax-wg-1000.webp",
     "weightGrams": 220,
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face"
   },
   {
     "id": "ricoh-theta-s",
@@ -69739,7 +69792,9 @@
     "afPoints": "49 points",
     "batterySpec": "BP-DC15",
     "retailPrice": 58500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human (Face/Eye)",
+    "videoColorDepth": "8-bit 4:2:0"
   },
   {
     "id": "leica-c-lux",
@@ -69900,7 +69955,8 @@
     "image_url": "/images/products/leica/leica-v-lux-5.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "0.74x",
-    "ports": "USB 2.0, HDMI, mic"
+    "ports": "USB 2.0, HDMI, mic",
+    "afTargets": "Face"
   },
   {
     "id": "zeiss-zx1",
@@ -70794,7 +70850,8 @@
     "dimensions": "121.3 x 85.8 x 97.5 mm",
     "image_url": "/images/products/kodak/kodak-pixpro-az528.webp",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-wpz2",
@@ -70822,7 +70879,8 @@
     "afPoints": "25 points",
     "image_url": "/images/products/kodak/kodak-pixpro-wpz2.webp",
     "retailPrice": 7490,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-az653",
@@ -70847,7 +70905,8 @@
     "ports": "USB-C, micro HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "25 areas",
-    "image_url": "/images/products/kodak/kodak-pixpro-az653.webp"
+    "image_url": "/images/products/kodak/kodak-pixpro-az653.webp",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100",
@@ -71097,7 +71156,8 @@
     "sensorType": "Exmor RS CMOS",
     "afPoints": "357 phase-detect points",
     "ports": "micro USB (USB 2.0), micro HDMI, mic",
-    "logSupport": "S-Log2, S-Log3, HLG"
+    "logSupport": "S-Log2, S-Log3, HLG",
+    "afTargets": "Human, Animal"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10",
@@ -71127,7 +71187,8 @@
     "isoRange": "125-12800 (Ext: 80-25600)",
     "ports": "USB 2.0, HDMI, microphone, headphone",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "megapixels": "20.2MP"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-ii",
@@ -71259,7 +71320,9 @@
     "processor": "BIONZ XR",
     "sensorType": "Stacked CMOS",
     "retailPrice": 65980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1",
@@ -71288,7 +71351,8 @@
     "evfMagnification": "None",
     "afPoints": "25 points",
     "processor": "BIONZ",
-    "isoRange": "100-25600 (Ext: 50-25600)"
+    "isoRange": "100-25600 (Ext: 50-25600)",
+    "megapixels": "24.3MP"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r",
@@ -71381,7 +71445,9 @@
     "cardSlots": "1x UHS-II SD",
     "afPoints": "693 phase-detect points",
     "retailPrice": 139000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "videoColorDepth": "10-bit 4:2:2"
   },
   {
     "id": "sony-zv-1",
@@ -71412,7 +71478,8 @@
     "ports": "USB 2.0, HDMI, microphone",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
     "retailPrice": 19980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal"
   },
   {
     "id": "sony-zv-1f",
@@ -71444,7 +71511,8 @@
     "processor": "BIONZ X",
     "ports": "USB-C (USB 2.0), micro HDMI, mic",
     "retailPrice": 14980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal"
   },
   {
     "id": "sony-zv-1-ii",
@@ -71472,7 +71540,9 @@
     "burstSpeed": "24fps",
     "cardSlots": "1x SD / Memory Stick Duo",
     "retailPrice": 24980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "8-bit 4:2:0 (internal) / 8-bit 4:2:2 (HDMI)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0",
@@ -71531,7 +71601,8 @@
     "ports": "USB 2.0, HDMI, microphone",
     "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro",
     "logSupport": "S-Log2",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-qx10",
@@ -71559,7 +71630,8 @@
     "ports": "USB 2.0",
     "cardSlots": "1x microSD/microSDHC/microSDXC, Memory Stick Micro",
     "afPoints": "9 points",
-    "processor": "BIONZ"
+    "processor": "BIONZ",
+    "megapixels": "18.2MP"
   },
   {
     "id": "sony-cyber-shot-dsc-qx100",
@@ -72374,7 +72446,8 @@
     "releaseMonth": 8,
     "sensorType": "Exmor R CMOS",
     "ports": "micro HDMI, mic",
-    "cardSlots": "1x microSD/SDHC / Memory Stick Micro (Mark2)"
+    "cardSlots": "1x microSD/SDHC / Memory Stick Micro (Mark2)",
+    "megapixels": "11.9MP"
   },
   {
     "id": "sony-hdr-as30v",
@@ -72466,7 +72539,8 @@
     "weightGrams": 114,
     "releaseMonth": 1,
     "ports": "Multi/micro USB, micro HDMI, mic",
-    "processor": "BIONZ X"
+    "processor": "BIONZ X",
+    "megapixels": "8.8MP"
   },
   {
     "id": "sony-hdr-as200v",
@@ -72512,7 +72586,8 @@
     "sensorType": "Exmor R CMOS",
     "cardSlots": "1x microSD/SDHC/SDXC / Memory Stick Micro (Mark2)",
     "releaseMonth": 1,
-    "processor": "BIONZ X"
+    "processor": "BIONZ X",
+    "megapixels": "11.1MP"
   },
   {
     "id": "sony-fdr-x3000",
@@ -74226,7 +74301,8 @@
     "ports": "USB 3.2 Gen 1, HDMI",
     "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g7-x-mark-iii",
@@ -74257,7 +74333,8 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "launchPrice": 19990,
     "retailPrice": 24990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx50-hs",
@@ -75113,7 +75190,8 @@
     "launchPrice": 29900,
     "processor": "DIGIC X",
     "retailPrice": 29900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human, Animal"
   },
   {
     "id": "canon-powershot-sx520-hs",
