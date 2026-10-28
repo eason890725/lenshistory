@@ -5168,7 +5168,8 @@
     "specialElements": "4 Aspherical, 4 ED",
     "releaseMonth": 10,
     "retailPrice": 28900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "APS-C"
   },
   {
     "brand": "Fujifilm",
@@ -5212,7 +5213,8 @@
     "weightGrams": 655,
     "dimensions": "Ø83.3 x 106 mm (W) / 129.5 mm (T)",
     "specialElements": "3 Aspherical, 3 ED",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "sensorFormat": "APS-C"
   },
   {
     "brand": "Fujifilm",
@@ -5256,7 +5258,8 @@
     "weightGrams": 310,
     "dimensions": "Ø65 x 70.4 mm (W) / 97.9 mm (T)",
     "specialElements": "3 Aspherical, 1 Anomalous Dispersion",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "sensorFormat": "APS-C"
   },
   {
     "brand": "Fujifilm",
@@ -5300,7 +5303,8 @@
     "weightGrams": 995,
     "dimensions": "Ø82.9 x 175.9 mm",
     "specialElements": "5 ED, 1 Super ED",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "sensorFormat": "APS-C"
   },
   {
     "brand": "Fujifilm",
@@ -27121,7 +27125,8 @@
     ],
     "image_url": "/images/products/tamron/tamron-14-150mm-f3-5-5-8-di-iii-c001.webp",
     "releaseMonth": 6,
-    "hasOIS": false
+    "hasOIS": false,
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "sony-a7-v",
@@ -29415,7 +29420,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 11,
     "image_url": "/images/products/voigtlander/voigtlander-super-nokton-29mm-f0-8-aspherical.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "voigtlander-nokton-60mm-f0-95",
@@ -29448,7 +29454,8 @@
     "launchPrice": 38000,
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "viltrox-af-13mm-f1-4",
@@ -31176,7 +31183,8 @@
     "image_url": "/images/products/laowa/laowa-6mm-f2-zero-d-mft.webp",
     "releaseMonth": 12,
     "retailPrice": 17500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "laowa-19mm-f2-8-zero-d-gfx",
@@ -31247,7 +31255,8 @@
     "image_url": "/images/products/laowa/laowa-argus-25mm-f0-95-mft-apo.webp",
     "releaseMonth": 3,
     "retailPrice": 14000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "laowa-10mm-f4-cookie",
@@ -31558,7 +31567,8 @@
     "image_url": "/images/products/laowa/laowa-10mm-f2-zero-d-mft.webp",
     "releaseMonth": 12,
     "retailPrice": 12200,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "zeiss-nano-prime-18mm-t1-5",
@@ -32048,7 +32058,8 @@
     "image_url": "/images/products/laowa/laowa-4mm-f2-8-fisheye-mft.webp",
     "releaseMonth": 4,
     "retailPrice": 7000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "APS-C"
   },
   {
     "id": "laowa-17mm-f1-8-mft",
@@ -32085,7 +32096,8 @@
     "image_url": "/images/products/laowa/laowa-17mm-f1-8-mft.webp",
     "retailPrice": 5200,
     "retailPriceDate": "2026-10",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "laowa-50mm-f2-8-2x-ultra-macro-apo",
@@ -32120,7 +32132,8 @@
     "image_url": "/images/products/laowa/laowa-50mm-f2-8-2x-ultra-macro-apo.webp",
     "releaseMonth": 8,
     "retailPrice": 14000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "laowa-65mm-f2-8-2x-ultra-macro-apo",
@@ -32299,7 +32312,8 @@
     "image_url": "/images/products/laowa/laowa-argus-18mm-f0-95-mft-apo.webp",
     "releaseMonth": 10,
     "retailPrice": 15800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorFormat": "Four Thirds"
   },
   {
     "id": "tokina-sz-33mm-f1-2-mf",
@@ -33426,7 +33440,8 @@
     "filterSizeMm": 62,
     "opticalDesign": "11 elements in 8 groups",
     "specialElements": "2 ED, 3 HR, 1 Aspherical",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "meike-35mm-f1-8-pro",
@@ -33552,7 +33567,8 @@
     "filterSizeMm": 58,
     "opticalDesign": "13 elements in 11 groups",
     "motorType": "STM",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "meike-56mm-f1-7-air",
@@ -33587,7 +33603,8 @@
     "filterSizeMm": 52,
     "opticalDesign": "11 elements in 7 groups",
     "motorType": "STM",
-    "image_url": "/images/products/meike/meike-56mm-f1-7-air.webp"
+    "image_url": "/images/products/meike/meike-56mm-f1-7-air.webp",
+    "sensorFormat": "APS-C"
   },
   {
     "id": "meike-85mm-f1-4-mix-ii",
@@ -34382,7 +34399,8 @@
     "opticalDesign": "9 elements in 7 groups",
     "hasApertureRing": true,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "7artisans-14mm-f2-8",
@@ -49610,7 +49628,8 @@
         }
       }
     ],
-    "opticalDesign": "3 elements"
+    "opticalDesign": "3 elements",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "meyer-optik-goerlitz-lydith-30-f3-5-ii",
@@ -49717,7 +49736,8 @@
         }
       }
     ],
-    "opticalDesign": "3 elements"
+    "opticalDesign": "3 elements",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "meyer-optik-goerlitz-primoplan-75-f1-9-ii",
@@ -50046,7 +50066,8 @@
     "motorType": "Manual focus",
     "dimensions": "Ø72 x 86 mm",
     "weightGrams": 400,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "lensbaby-twist-60",
@@ -50094,7 +50115,8 @@
     "motorType": "Manual focus",
     "coatings": "Broadband multi-coated anti-reflective",
     "closeFocus": "0.46m",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "lensbaby-trio-28",
@@ -50131,7 +50153,8 @@
     "minAperture": "3.5",
     "closeFocus": "0.2m",
     "filterSizeMm": 46,
-    "weightGrams": 139
+    "weightGrams": 139,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "lensbaby-velvet-85",
@@ -50230,7 +50253,8 @@
     "motorType": "Manual focus",
     "closeFocus": "0.15m",
     "dimensions": "Ø70 x 70 mm",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "lensbaby-sol-45",
@@ -50282,7 +50306,8 @@
     "opticalDesign": "3 elements in 2 groups",
     "dimensions": "Ø73 x 65 mm",
     "weightGrams": 272,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "lensbaby-sol-22",
@@ -54765,7 +54790,8 @@
     "hasCustomButton": false,
     "retailPrice": 5600,
     "retailPriceDate": "2026-10",
-    "coatings": "Nano-technology multi-layer coating"
+    "coatings": "Nano-technology multi-layer coating",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "meike-35mm-f1-7-apsc-mf",
@@ -56334,7 +56360,8 @@
     ],
     "image_url": "/images/products/canon/canon-ef-m-22mm-f2-stm.webp",
     "hasOIS": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "canon-ef-m-18-55mm-f3-5-5-6-is-stm",
@@ -56367,7 +56394,8 @@
     ],
     "hasWeatherSeal": false,
     "hasApertureRing": false,
-    "image_url": "/images/products/canon/canon-ef-m-18-55mm-f3-5-5-6-is-stm.webp"
+    "image_url": "/images/products/canon/canon-ef-m-18-55mm-f3-5-5-6-is-stm.webp",
+    "sensorFormat": "APS-C"
   },
   {
     "id": "canon-ef-m-11-22mm-f4-5-6-is-stm",
@@ -56400,7 +56428,8 @@
     "image_url": "/images/products/canon/canon-ef-m-11-22mm-f4-5-6-is-stm.webp",
     "hasOIS": true,
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "canon-ef-m-55-200mm-f4-5-6-3-is-stm",
@@ -56432,7 +56461,8 @@
       }
     ],
     "image_url": "/images/products/canon/canon-ef-m-55-200mm-f4-5-6-3-is-stm.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "canon-ef-m-15-45mm-f3-5-6-3-is-stm",
@@ -56465,7 +56495,8 @@
     ],
     "image_url": "/images/products/canon/canon-ef-m-15-45mm-f3-5-6-3-is-stm.webp",
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "sensorFormat": "APS-C"
   },
   {
     "id": "canon-ef-m-28mm-f3-5-macro-is-stm",
@@ -64906,7 +64937,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx620-hs",
@@ -64934,7 +64966,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx720-hs",
@@ -64962,7 +64995,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx420-is",
@@ -65016,7 +65050,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-180",
@@ -65044,7 +65079,8 @@
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
     "image_url": "/images/products/canon/canon-ixus-180.webp",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx730-hs",
@@ -72557,7 +72593,8 @@
       }
     ],
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-classic-35mm-f1-4-ii",
@@ -72588,7 +72625,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "Multi Coating (MC) / Single Coating (SC)"
+    "coatings": "Multi Coating (MC) / Single Coating (SC)",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iii",
@@ -72617,7 +72655,8 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iii.webp",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-vintage-line-50mm-f1-5-aspherical-ii",
@@ -72649,7 +72688,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "Multi Coating (MC) / Single Coating (SC)"
+    "coatings": "Multi Coating (MC) / Single Coating (SC)",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-ultron-vintage-line-28mm-f2-aspherical",
@@ -72679,7 +72719,8 @@
     "retailPrice": 25000,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-heliar-classic-50mm-f1-5",
@@ -72709,7 +72750,8 @@
     "launchPrice": 23000,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "SC (Single Coating)"
+    "coatings": "SC (Single Coating)",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-apo-skopar-90mm-f2-8",
@@ -72741,7 +72783,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "5 APD"
+    "specialElements": "5 APD",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-heliar-40mm-f2-8-aspherical",
@@ -72771,7 +72814,8 @@
     "launchPrice": 16000,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "image_url": "/images/products/voigtlander/voigtlander-heliar-40mm-f2-8-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-heliar-40mm-f2-8-aspherical.webp",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-vintage-line-35mm-f1-5-aspherical",
@@ -72802,7 +72846,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-ultron-75mm-f1-9",
@@ -72834,7 +72879,8 @@
     "specialElements": "3 Anomalous Partial Dispersion",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "Multi Coating (MC) / Single Coating (SC)"
+    "coatings": "Multi Coating (MC) / Single Coating (SC)",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-color-skopar-28mm-f2-8-aspherical",
@@ -72864,7 +72910,8 @@
     "launchPrice": 16000,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-28mm-f2-8-aspherical.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-28mm-f2-8-aspherical.webp",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-color-skopar-50mm-f2-2",
@@ -72896,7 +72943,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "specialElements": "3 Anomalous Partial Dispersion",
-    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-50mm-f2-2.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-color-skopar-50mm-f2-2.webp",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f3-5",
@@ -72927,7 +72975,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "4 Anomalous Partial Dispersion"
+    "specialElements": "4 Anomalous Partial Dispersion",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-apo-ultron-90mm-f2",
@@ -72959,7 +73008,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "6 Anomalous Partial Dispersion"
+    "specialElements": "6 Anomalous Partial Dispersion",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-color-skopar-35mm-f3-5-aspherical",
@@ -72994,7 +73044,8 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-color-skopar-35mm-f3-5-aspherical.webp",
     "hasWeatherSeal": false,
-    "hasOIS": false
+    "hasOIS": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-35mm-f1-2-aspherical-iv",
@@ -73025,7 +73076,8 @@
     "retailPrice": 29000,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-40mm-f1-2-aspherical-ii",
@@ -73057,7 +73109,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-aspherical-ii",
@@ -73089,7 +73142,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "specialElements": "2 Aspherical"
+    "specialElements": "2 Aspherical",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-apo-skopar-75mm-f2-8",
@@ -73121,7 +73175,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "specialElements": "4 Anomalous Partial Dispersion",
-    "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-75mm-f2-8.webp"
+    "image_url": "/images/products/voigtlander/voigtlander-apo-skopar-75mm-f2-8.webp",
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "voigtlander-ultron-21mm-f1-8-aspherical",
@@ -73150,7 +73205,8 @@
     ],
     "image_url": "/images/products/voigtlander/voigtlander-ultron-21mm-f1-8-aspherical.webp",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "sensorFormat": "Full Frame"
   },
   {
     "id": "mitakon-24mm-f1-7",
@@ -74285,7 +74341,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/canon/canon-powershot-sx240-hs.webp"
+    "image_url": "/images/products/canon/canon-powershot-sx240-hs.webp",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-125-hs",
@@ -74474,7 +74531,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx510-hs",
@@ -74501,7 +74559,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx280-hs",
@@ -74657,7 +74716,8 @@
     "burstSpeed": "0.8fps",
     "isoRange": "100-1600",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx60-hs",
@@ -74684,7 +74744,8 @@
     "hasWeatherSeal": false,
     "isoRange": "100-3200",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "Hi-Speed USB, HDMI, AV out"
+    "ports": "Hi-Speed USB, HDMI, AV out",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx400-is",
@@ -74711,7 +74772,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-150",
@@ -74738,7 +74800,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-n100",
@@ -74822,7 +74885,8 @@
     "ports": "USB 2.0",
     "sensorType": "CCD",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/canon/canon-ixus-145.webp"
+    "image_url": "/images/products/canon/canon-ixus-145.webp",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-155",
@@ -74850,7 +74914,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "sensorType": "CCD",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx700-hs",
@@ -74878,7 +74943,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-275-hs",
@@ -74932,7 +74998,8 @@
     "burstSpeed": "0.5fps",
     "isoRange": "100-1600",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-185",
@@ -74959,7 +75026,8 @@
     "ports": "USB 2.0",
     "batterySpec": "NB-11LH (220 shots CIPA)",
     "image_url": "/images/products/canon/canon-ixus-185.webp",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-ixus-190",
@@ -74986,7 +75054,8 @@
     "videoResolution": "720p 25p",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
-    "batterySpec": "NB-11LH (190 shots CIPA)"
+    "batterySpec": "NB-11LH (190 shots CIPA)",
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-sx430-is",
@@ -75011,7 +75080,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "Mini-USB, AV out",
     "batterySpec": "NB-11LH (195 shots CIPA)",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "sensorFormat": "1/2.3-inch"
   },
   {
     "id": "canon-powershot-v1",
@@ -75070,6 +75140,7 @@
     "burstSpeed": "1.6fps",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "sensorFormat": "1/2.3-inch"
   }
 ]
