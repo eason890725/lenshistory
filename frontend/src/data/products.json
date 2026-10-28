@@ -22166,7 +22166,8 @@
     "weightGrams": 348,
     "afPoints": "49 points",
     "afTargets": "Human (Face/Eye)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "hasIBIS": false
   },
   {
     "id": "hasselblad-xcd-25mm-f2-5-v",
@@ -27646,7 +27647,8 @@
     "releaseMonth": 11,
     "lcdSpec": "3.5-inch 2.76M-dot",
     "processor": "BIONZ XR",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false
   },
   {
     "id": "sony-e-16-55mm-f2-8-g",
@@ -38380,7 +38382,8 @@
     "hasWeatherSeal": false,
     "logSupport": "None",
     "ports": "USB 2.0, HDMI",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-g5",
@@ -38491,7 +38494,8 @@
     "hasWeatherSeal": false,
     "logSupport": "None",
     "ports": "USB 2.0, HDMI",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-g6",
@@ -38526,7 +38530,8 @@
     "afTargets": "Face",
     "hasWeatherSeal": false,
     "logSupport": "None",
-    "image_url": "/images/products/panasonic/panasonic-lumix-g6.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-g6.webp",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gx7",
@@ -38599,7 +38604,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "logSupport": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gh4",
@@ -38894,7 +38900,8 @@
     "afPoints": "23 points",
     "afTargets": "Face",
     "evfMagnification": "None",
-    "logSupport": "None"
+    "logSupport": "None",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-gf8",
@@ -39433,7 +39440,8 @@
     "weightGrams": 346,
     "image_url": "/images/products/panasonic/panasonic-lumix-g100d.webp",
     "releaseMonth": 12,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-g97",
@@ -41906,7 +41914,8 @@
     "releaseMonth": 2,
     "batterySpec": "360-380 shots CIPA (LCD)",
     "retailPrice": 60980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasIBIS": true
   },
   {
     "id": "tamron-16-50mm-f2-8-a-b091",
@@ -42668,7 +42677,8 @@
     "batterySpec": "BP-A30N / BP-A60N",
     "cardSlots": "1x CFexpress + 1x SD",
     "releaseMonth": 6,
-    "image_url": "/images/products/canon/canon-eos-c400.webp"
+    "image_url": "/images/products/canon/canon-eos-c400.webp",
+    "hasIBIS": false
   },
   {
     "id": "canon-eos-c80",
@@ -42703,7 +42713,8 @@
     "ports": "USB-C, HDMI, 12G-SDI (BNC), 2x mini XLR, mic, headphone, Ethernet, timecode (BNC), remote, 12V DC in",
     "batterySpec": "BP-A30N / BP-A60N",
     "image_url": "/images/products/canon/canon-eos-c80.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "hasIBIS": false
   },
   {
     "id": "canon-eos-c50",
@@ -42740,7 +42751,8 @@
     "releaseMonth": 9,
     "sensorType": "CMOS",
     "retailPrice": 98900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasIBIS": false
   },
   {
     "id": "astrhori-9mm-f2-8",
@@ -43604,7 +43616,8 @@
     ],
     "image_url": "/images/products/astrhori/astrhori-75mm-f4.webp",
     "retailPrice": 10400,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 8
   },
   {
     "id": "blackmagic-pyxis-6k",
@@ -46103,7 +46116,8 @@
     "ports": "USB 2.0, HDMI",
     "weightGrams": 222,
     "evfMagnification": "None",
-    "image_url": "/images/products/samsung/samsung-nx210.webp"
+    "image_url": "/images/products/samsung/samsung-nx210.webp",
+    "hasIBIS": false
   },
   {
     "id": "samsung-nx1000",
@@ -46226,7 +46240,8 @@
     "batterySpec": "BP1130",
     "ports": "USB 2.0, HDMI",
     "weightGrams": 228,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasIBIS": false
   },
   {
     "id": "samsung-galaxy-nx",
@@ -54636,7 +54651,8 @@
       }
     ],
     "image_url": "/images/products/meike/meike-60mm-f2-8-apsc-macro-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "releaseMonth": 2
   },
   {
     "id": "meike-12mm-f2-8-apsc-mf",
@@ -57663,7 +57679,8 @@
     "weightGrams": 149,
     "launchPrice": 30490,
     "videoResolution": "Full HD 30p",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "releaseMonth": 12
   },
   {
     "id": "casio-exilim-ex-zr1000",
@@ -57859,7 +57876,8 @@
     "megapixels": "12.1MP",
     "sensorType": "CMOS",
     "cardSlots": "1x microSD",
-    "launchPrice": 23990
+    "launchPrice": 23990,
+    "releaseMonth": 5
   },
   {
     "id": "casio-exilim-ex-je10",
@@ -58312,7 +58330,8 @@
     "logSupport": "I-Log",
     "image_url": "/images/products/insta360/insta360-x6.webp",
     "retailPrice": 21700,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasIBIS": false
   },
   {
     "id": "insta360-luna-pro",
@@ -58382,7 +58401,8 @@
     "lcdSpec": "2.09-inch 404x550 LCD",
     "batterySpec": "2010mAh",
     "isoRange": "100-3200",
-    "image_url": "/images/products/insta360/insta360-x4-air.webp"
+    "image_url": "/images/products/insta360/insta360-x4-air.webp",
+    "hasIBIS": false
   },
   {
     "id": "insta360-go-ultra",
@@ -58403,7 +58423,8 @@
     "dimensions": "46 x 45.7 x 18.3 mm",
     "weightGrams": 53,
     "launchPrice": 13980,
-    "image_url": "/images/products/insta360/insta360-go-ultra.webp"
+    "image_url": "/images/products/insta360/insta360-go-ultra.webp",
+    "hasIBIS": false
   },
   {
     "id": "insta360-x5",
@@ -58427,7 +58448,8 @@
     "image_url": "/images/products/insta360/insta360-x5.webp",
     "launchPrice": 19490,
     "retailPrice": 14900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasIBIS": false
   },
   {
     "id": "insta360-ace-pro-2",
@@ -58450,7 +58472,8 @@
     "dimensions": "71.9 x 52.2 x 38 mm",
     "image_url": "/images/products/insta360/insta360-ace-pro-2.webp",
     "retailPrice": 11990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasIBIS": false
   },
   {
     "id": "insta360-x4",
@@ -58474,7 +58497,8 @@
     "weightGrams": 203,
     "launchPrice": 18899,
     "image_url": "/images/products/insta360/insta360-x4.webp",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "hasIBIS": false
   },
   {
     "id": "insta360-ace-pro",
@@ -58496,7 +58520,8 @@
     "dimensions": "71.9 x 52.15 x 38.5 mm",
     "weightGrams": 180,
     "image_url": "/images/products/insta360/insta360-ace-pro.webp",
-    "launchPrice": 15990
+    "launchPrice": 15990,
+    "hasIBIS": false
   },
   {
     "id": "insta360-ace",
@@ -58517,7 +58542,8 @@
     "dimensions": "71.9 x 52.15 x 38.5 mm",
     "weightGrams": 177,
     "launchPrice": 13090,
-    "image_url": "/images/products/insta360/insta360-ace.webp"
+    "image_url": "/images/products/insta360/insta360-ace.webp",
+    "hasIBIS": false
   },
   {
     "id": "insta360-x3",
@@ -58541,7 +58567,8 @@
     "weightGrams": 180,
     "image_url": "/images/products/insta360/insta360-x3.webp",
     "ports": "USB-C",
-    "launchPrice": 16999
+    "launchPrice": 16999,
+    "hasIBIS": false
   },
   {
     "id": "insta360-go-2",
@@ -58561,7 +58588,8 @@
     "dimensions": "52.9 x 23.6 x 20.7 mm",
     "weightGrams": 27,
     "launchPrice": 9669,
-    "image_url": "/images/products/insta360/insta360-go-2.webp"
+    "image_url": "/images/products/insta360/insta360-go-2.webp",
+    "hasIBIS": false
   },
   {
     "id": "insta360-titan",
@@ -58576,7 +58604,8 @@
     "sensorFormat": "Four Thirds",
     "videoResolution": "11K 30p / 8K 60p",
     "videoColorDepth": "10-bit",
-    "image_url": "/images/products/insta360/insta360-titan.webp"
+    "image_url": "/images/products/insta360/insta360-titan.webp",
+    "hasIBIS": false
   },
   {
     "id": "gopro-mission-1-pro",
@@ -58666,7 +58695,8 @@
     "hasWeatherSeal": true,
     "launchPrice": 8800,
     "image_url": "/images/products/gopro/gopro-hero-2024.webp",
-    "batterySpec": "Built-in Enduro battery"
+    "batterySpec": "Built-in Enduro battery",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero12-black",
@@ -58692,7 +58722,8 @@
     "weightGrams": 154,
     "hasWeatherSeal": true,
     "launchPrice": 14900,
-    "logSupport": "GP-Log"
+    "logSupport": "GP-Log",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero11-black",
@@ -58763,7 +58794,8 @@
     "retailPrice": 8390,
     "retailPriceDate": "2026-10",
     "batterySpec": "Built-in Enduro battery",
-    "image_url": "/images/products/gopro/gopro-lit-hero.webp"
+    "image_url": "/images/products/gopro/gopro-lit-hero.webp",
+    "hasIBIS": false
   },
   {
     "id": "gopro-max2",
@@ -58843,7 +58875,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/gopro/gopro-hero8-black.webp",
     "launchPrice": 15900,
-    "ports": "USB 3.0, mic"
+    "ports": "USB 3.0, mic",
+    "hasIBIS": false
   },
   {
     "id": "gopro-max",
@@ -58886,7 +58919,8 @@
     "hasWeatherSeal": true,
     "launchPrice": 15900,
     "image_url": "/images/products/gopro/gopro-hero7-black.webp",
-    "ports": "USB 3.0, HDMI, mic"
+    "ports": "USB 3.0, HDMI, mic",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero7-silver",
@@ -58945,7 +58979,8 @@
     "lcdSpec": "2.0-inch touch",
     "hasWeatherSeal": true,
     "launchPrice": 8900,
-    "image_url": "/images/products/gopro/gopro-hero-2018.webp"
+    "image_url": "/images/products/gopro/gopro-hero-2018.webp",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero6-black",
@@ -58966,7 +59001,8 @@
     "image_url": "/images/products/gopro/gopro-hero6-black.webp",
     "evfMagnification": "None",
     "burstSpeed": "30fps",
-    "ports": "USB 3.0, HDMI, mic"
+    "ports": "USB 3.0, HDMI, mic",
+    "hasIBIS": false
   },
   {
     "id": "gopro-fusion",
@@ -58986,7 +59022,8 @@
     "image_url": "/images/products/gopro/gopro-fusion.webp",
     "evfMagnification": "None",
     "burstSpeed": "30fps",
-    "ports": "USB 3.0"
+    "ports": "USB 3.0",
+    "releaseMonth": 4
   },
   {
     "id": "gopro-hero5-black",
@@ -59021,7 +59058,8 @@
     "megapixels": "10MP",
     "videoResolution": "4K 30p",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/gopro/gopro-hero5-session.webp"
+    "image_url": "/images/products/gopro/gopro-hero5-session.webp",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero-plus",
@@ -59177,7 +59215,8 @@
     "launchPrice": 18900,
     "evfMagnification": "None",
     "logSupport": "None",
-    "image_url": "/images/products/nikon/nikon-1-j1.webp"
+    "image_url": "/images/products/nikon/nikon-1-j1.webp",
+    "hasIBIS": false
   },
   {
     "id": "nikon-1-v1",
@@ -59213,7 +59252,8 @@
     "hasWeatherSeal": false,
     "launchPrice": 26900,
     "logSupport": "None",
-    "image_url": "/images/products/nikon/nikon-1-v1.webp"
+    "image_url": "/images/products/nikon/nikon-1-v1.webp",
+    "hasIBIS": false
   },
   {
     "id": "nikon-1-j2",
@@ -59248,7 +59288,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "logSupport": "None",
-    "image_url": "/images/products/nikon/nikon-1-j2.webp"
+    "image_url": "/images/products/nikon/nikon-1-j2.webp",
+    "hasIBIS": false
   },
   {
     "id": "nikon-1-v2",
@@ -59321,7 +59362,8 @@
     "image_url": "/images/products/nikon/nikon-1-j3.webp",
     "launchPrice": 18900,
     "evfMagnification": "None",
-    "logSupport": "None"
+    "logSupport": "None",
+    "hasIBIS": false
   },
   {
     "id": "nikon-1-s1",
@@ -59354,7 +59396,8 @@
     "afPoints": "135 points",
     "hasWeatherSeal": false,
     "image_url": "/images/products/nikon/nikon-1-s1.webp",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "hasIBIS": false
   },
   {
     "id": "nikon-1-aw1",
@@ -61479,7 +61522,9 @@
     "sensorType": "CMOS",
     "isoRange": "100-1600",
     "cardSlots": "1x microSD/microSDHC/microSDXC",
-    "ports": "micro USB, micro HDMI"
+    "ports": "micro USB, micro HDMI",
+    "hasIBIS": false,
+    "releaseMonth": 1
   },
   {
     "id": "nikon-keymission-170",
@@ -63155,7 +63200,8 @@
       }
     ],
     "image_url": "/images/products/kamlan/kamlan-55mm-f1-4.webp",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "releaseMonth": 2
   },
   {
     "id": "kamlan-70mm-f1-1",
@@ -64341,7 +64387,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "processor": "DIGIC 4"
+    "processor": "DIGIC 4",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-a2400-is",
@@ -64525,7 +64572,8 @@
     "processor": "DIGIC 4",
     "isoRange": "100-1600",
     "burstSpeed": "0.8fps",
-    "videoResolution": "HD 720p"
+    "videoResolution": "HD 720p",
+    "hasIBIS": false
   },
   {
     "id": "canon-ixus-255-hs",
@@ -64937,7 +64985,8 @@
     "processor": "DIGIC 6",
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-sx740-hs",
@@ -66345,7 +66394,8 @@
     "sensorType": "CMOS",
     "burstSpeed": "8fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "hasIBIS": false
   },
   {
     "id": "fujifilm-xf10",
@@ -67070,7 +67120,8 @@
     "processor": "Venus Engine",
     "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
     "batterySpec": "DMW-BLG10 (360 shots CIPA)",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-lx100",
@@ -67970,7 +68021,8 @@
     "burstSpeed": "1.3fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "hasIBIS": false
   },
   {
     "id": "panasonic-lumix-ts7",
@@ -69395,7 +69447,8 @@
     "image_url": "/images/products/leica/leica-x-typ-113.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "hasIBIS": false
   },
   {
     "id": "leica-x-u-typ-113",
@@ -70307,7 +70360,8 @@
     "isoRange": "100-800",
     "ports": "micro USB, micro HDMI",
     "cardSlots": "1x microSD/SDHC",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false
   },
   {
     "id": "kodak-pixpro-az652",
@@ -70485,7 +70539,8 @@
     "videoResolution": "Full HD 30p",
     "isoRange": "100-3200",
     "batterySpec": "LB-012 (160 shots CIPA)",
-    "dimensions": "54.8 x 54.8 x 42.9 mm"
+    "dimensions": "54.8 x 54.8 x 42.9 mm",
+    "hasIBIS": false
   },
   {
     "id": "kodak-pixpro-sp360-4k",
@@ -70509,7 +70564,8 @@
     "burstSpeed": "10fps",
     "isoRange": "100-800",
     "ports": "micro USB, micro HDMI",
-    "cardSlots": "1x microSD/SDHC/SDXC"
+    "cardSlots": "1x microSD/SDHC/SDXC",
+    "hasIBIS": false
   },
   {
     "id": "kodak-pixpro-fz201",
@@ -70557,7 +70613,8 @@
     "isoRange": "100-800",
     "ports": "micro USB, micro HDMI, mic (2.5mm)",
     "cardSlots": "1x microSD/SDHC/SDXC",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "hasIBIS": false
   },
   {
     "id": "kodak-pixpro-az528",
@@ -73961,7 +74018,8 @@
     "isoRange": "100-25600",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-g5-x-mark-ii",
@@ -73989,7 +74047,8 @@
     "isoRange": "125-12800",
     "ports": "USB 3.2 Gen 1, HDMI",
     "lcdSpec": "3.0-inch 1.04M-dot tilting touch",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-g7-x-mark-iii",
@@ -74128,7 +74187,8 @@
     "image_url": "/images/products/canon/canon-ixus-125-hs.webp",
     "ports": "USB (Hi-Speed), HDMI, AV out",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "burstSpeed": "2.0fps"
+    "burstSpeed": "2.0fps",
+    "hasIBIS": false
   },
   {
     "id": "canon-ixus-500-hs",
@@ -74828,7 +74888,8 @@
     "videoResolution": "720p",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "Mini-USB, AV out",
-    "batterySpec": "NB-11LH (195 shots CIPA)"
+    "batterySpec": "NB-11LH (195 shots CIPA)",
+    "hasIBIS": false
   },
   {
     "id": "canon-powershot-v1",
