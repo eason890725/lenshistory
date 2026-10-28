@@ -54,7 +54,9 @@
     "image_url": "/images/products/sony/sony-a1-ii.webp",
     "officialUrl": "https://www.sony.jp/ichigan/products/ILCE-1M2/spec.html",
     "hasWeatherSeal": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 189980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -107,7 +109,9 @@
     "image_url": "/images/products/sony/sony-a1.webp",
     "launchPrice": 174980,
     "afTargets": "Human, Animal, Bird",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 159980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -164,7 +168,9 @@
     "batterySpec": "NP-FZ100 (520 shots CIPA)",
     "ports": "USB-C (10Gbps), micro USB, HDMI Type A, mic, headphone, LAN (1000BASE-T)",
     "hasWeatherSeal": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 184980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -330,7 +336,9 @@
     "officialUrl": "https://www.sony.jp/ichigan/products/ILCE-7RM5/spec.html",
     "burstSpeed": "10fps",
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 104980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -386,7 +394,9 @@
     "image_url": "/images/products/sony/sony-a7r-iv.webp",
     "afTargets": "Human, Animal",
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 79980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -605,7 +615,9 @@
     "hasWeatherSeal": true,
     "launchPrice": 94980,
     "afTargets": "Human, Animal",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 94980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -975,7 +987,9 @@
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-a7c-r.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 89980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1037,7 +1051,9 @@
     ],
     "officialUrl": "https://www.sony.jp/ichigan/products/ILCE-7CM2/spec.html",
     "image_url": "/images/products/sony/sony-a7c-ii.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 59980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1090,7 +1106,9 @@
     "hasWeatherSeal": true,
     "launchPrice": 50980,
     "afTargets": "Human, Animal",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 46980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1139,7 +1157,9 @@
     "image_url": "/images/products/sony/sony-zv-e1.webp",
     "launchPrice": 64980,
     "releaseMonth": 3,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 64980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1190,7 +1210,9 @@
     "ports": "USB-C (5Gbps), micro HDMI, mic, headphone",
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-a6700.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 41980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1241,7 +1263,9 @@
     "launchPrice": 41980,
     "afTargets": "Human, Animal",
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 34980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1342,7 +1366,9 @@
     "launchPrice": 26980,
     "afTargets": "Human, Animal",
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 26980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1545,7 +1571,9 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-zv-e10-ii.webp",
     "releaseMonth": 7,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 29980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -1593,7 +1621,9 @@
     "afTargets": "Human, Animal",
     "launchPrice": 17980,
     "releaseMonth": 7,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 18980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -1733,7 +1763,9 @@
     "ports": "micro USB (USB 3.0), micro HDMI, 3.5mm mic, 2.5mm remote, sync terminal",
     "hasWeatherSeal": true,
     "logSupport": "F-Log",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 56900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -1780,7 +1812,9 @@
     "batterySpec": "NP-W235 (580 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen2), micro HDMI, 3.5mm mic, 2.5mm remote, sync terminal",
     "hasWeatherSeal": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 53600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2007,7 +2041,9 @@
     "batterySpec": "NP-W126S (305 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen2), micro HDMI, 3.5mm mic",
     "hasWeatherSeal": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 48100,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2371,7 +2407,9 @@
     "ports": "USB-C (USB 3.2 Gen2), micro HDMI, 3.5mm mic, 3.5mm headphone",
     "hasWeatherSeal": false,
     "logSupport": "F-Log, F-Log2, HLG",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 44800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2504,7 +2542,9 @@
     "logSupport": "F-Log, F-Log2, HLG",
     "releaseMonth": 2,
     "fixedLens": "23mm F2 (35mm equiv.)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 57900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2732,7 +2772,9 @@
     "cardSlots": "1x CFexpress Type B + SD",
     "batterySpec": "NP-W235 (540 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen2), full-size HDMI, Ethernet (1000BASE-T), 3.5mm mic, 3.5mm headphone, sync terminal",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 266000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2779,7 +2821,9 @@
     "cardSlots": "2x SD",
     "batterySpec": "NP-W235 (530 shots CIPA)",
     "ports": "USB-C (USB 3.2 Gen2), micro HDMI, 3.5mm mic, 3.5mm headphone, 2.5mm remote, sync terminal",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 176900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -2963,7 +3007,9 @@
     "hasIBIS": true,
     "ports": "USB-C (USB 3.2 Gen 2), HDMI Type A, mic, headphone, N3 remote, PC terminal, Ethernet (RJ-45)",
     "hasWeatherSeal": true,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 191000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3010,7 +3056,9 @@
     "hasIBIS": true,
     "ports": "USB-C (USB 3.2 Gen 2), micro HDMI (Type D), mic, headphone, N3 remote, PC terminal, Ethernet (RJ-45)",
     "hasWeatherSeal": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 175100,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3058,7 +3106,9 @@
     "hasIBIS": true,
     "ports": "USB-C (USB 3.2 Gen 2), HDMI Type A, mic, headphone, N3 remote, PC terminal",
     "hasWeatherSeal": true,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 120000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3151,7 +3201,9 @@
     "hasIBIS": true,
     "ports": "USB-C (USB 3.2 Gen 2), micro HDMI (Type D), mic, headphone, E3 remote",
     "hasWeatherSeal": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 61000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3242,7 +3294,9 @@
     "hasIBIS": false,
     "ports": "USB-C (USB 3.2 Gen 2), micro HDMI (Type D), mic, headphone, E3 remote",
     "hasWeatherSeal": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 44200,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3383,7 +3437,9 @@
     "cardSlots": "2x SD (UHS-II)",
     "ports": "USB-C (USB 3.2 Gen 2), micro HDMI (Type D), mic, headphone, E3 remote",
     "hasWeatherSeal": true,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 40900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3434,7 +3490,9 @@
     "cardSlots": "1x SD (UHS-II)",
     "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote",
     "hasWeatherSeal": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 27000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3483,7 +3541,9 @@
     "evfMagnification": "0.95x",
     "cardSlots": "1x SD (UHS-I)",
     "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 21900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -3580,7 +3640,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_9/",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 179000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -3627,7 +3689,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 122500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -3673,7 +3737,9 @@
     "ports": "USB-C, mini HDMI (Type C), mic, headphone, accessory terminal",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 99980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -3766,7 +3832,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z6_3/",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 85880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -3951,7 +4019,9 @@
     "ports": "USB-C, micro HDMI (Type D), mic, headphone",
     "hasIBIS": true,
     "hasWeatherSeal": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 66880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -3994,7 +4064,9 @@
     "ports": "USB-C, micro HDMI (Type D), mic",
     "hasIBIS": false,
     "isoRange": "100-51200 (Ext: 100-204800)",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 33000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -4132,7 +4204,9 @@
     "minAperture": "22",
     "closeFocus": "0.28m",
     "specialElements": "3 XA, 1 Aspherical, 2 Super ED, 3 ED",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 85980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4181,7 +4255,9 @@
     "minAperture": "22",
     "closeFocus": "0.22m",
     "specialElements": "5 Aspherical (incl. 3 XA), 1 Super ED, 2 ED",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 67980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4230,7 +4306,9 @@
     "minAperture": "22",
     "closeFocus": "0.21m (W) / 0.3m (T)",
     "specialElements": "5 Aspherical (incl. 2 XA), 2 Super ED, 2 ED",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 55980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4279,7 +4357,9 @@
     "minAperture": "22",
     "closeFocus": "0.4m (W) / 0.82m (T)",
     "specialElements": "1 XA, 2 Super ED, 2 ED (plus ED Aspherical, count not stated)",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 76980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4327,7 +4407,9 @@
     "closeFocus": "2.4m",
     "specialElements": "5 ED, 1 Aspherical",
     "motorType": "DDSSM",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 57980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4375,7 +4457,9 @@
     "minAperture": "16",
     "closeFocus": "0.27m (AF) / 0.25m (MF)",
     "specialElements": "2 XA, 1 ED",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 44980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4423,7 +4507,9 @@
     "minAperture": "16",
     "closeFocus": "0.4m",
     "specialElements": "3 XA",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 59980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -4975,7 +5061,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/150-500mm-f5-6-7-di-iii-vc-vxd.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 36800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -5020,7 +5108,9 @@
     "filterSizeMm": 0,
     "specialElements": "4 Aspherical, 3 ED, 3 Super ED",
     "sensorFormat": "APS-C",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 60900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -5064,7 +5154,9 @@
     "weightGrams": 385,
     "dimensions": "Ø77.6 x 87 mm",
     "specialElements": "4 Aspherical, 4 ED",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 28900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -5241,7 +5333,9 @@
     "dimensions": "Ø67 x 73.5 mm",
     "specialElements": "2 Aspherical, 3 ED",
     "sensorFormat": "APS-C",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 23300,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -5286,7 +5380,9 @@
     "dimensions": "Ø79.4 x 76 mm",
     "specialElements": "2 Aspherical, 1 ED",
     "sensorFormat": "APS-C",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 30900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -5334,7 +5430,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf15-35mm-f-2-8l-is-usm/main/product",
     "minAperture": "22",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 69600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -5381,7 +5479,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf24-70mm-f-2-8l-is-usm/main/product",
     "minAperture": "22",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 69600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -5428,7 +5528,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf70-200mm-f-2-8l-is-usm/main/product",
     "minAperture": "32",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 81300,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -5475,7 +5577,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf28-70mm-f-2l-usm/main/product",
     "minAperture": "22",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 91900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Canon",
@@ -5522,7 +5626,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf50mm-f-1-2l-usm/main/product",
     "minAperture": "16",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 69300,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -5569,7 +5675,9 @@
     ],
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_14-24mmf28s/",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 75800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -5616,7 +5724,9 @@
     ],
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-70mmf28s/",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 72900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -5710,7 +5820,9 @@
     ],
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_135mmf18s/",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 85880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Nikon",
@@ -5757,7 +5869,9 @@
     ],
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf12s/",
     "sensorFormat": "Full Frame",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 75800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -6023,7 +6137,9 @@
     "minAperture": "16",
     "closeFocus": "0.25m",
     "specialElements": "2 XA, 1 Super ED, 2 ED",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 40980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -6170,7 +6286,9 @@
     "specialElements": "2 AA, 1 Super ED, 3 ED",
     "motorType": "2x XD Linear",
     "image_url": "/images/products/sony/sony-16mm-f1-8-g.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 25980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -6513,7 +6631,9 @@
     "closeFocus": "0.19m (AF) / 0.18m (MF)",
     "specialElements": "2 AA, 3 ED",
     "motorType": "XD Linear",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 27980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -6688,7 +6808,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/20mm-f2-8-di-iii-osd-f050.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 10800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -6892,7 +7014,9 @@
     "minAperture": "16",
     "closeFocus": "0.24m",
     "specialElements": "2 XA, 3 ED",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 40980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -7201,7 +7325,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/24mm-f2-8-di-iii-osd-f051.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 10800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -7975,7 +8101,9 @@
     "closeFocus": "0.22m",
     "specialElements": "1 Aspherical",
     "motorType": "Linear",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 18980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -8232,7 +8360,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/35mm-f2-8-di-iii-osd-f053.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 10800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -8379,7 +8509,9 @@
     "motorType": "2x Linear",
     "image_url": "/images/products/sony/sony-40mm-f2-5-g.webp",
     "specialElements": "3 Aspherical",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 18980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -8800,7 +8932,9 @@
     "officialUrl": "https://www.sony.jp/ichigan/products/SEL50F14GM/spec.html",
     "sensorFormat": "Full Frame",
     "minAperture": "16",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 41980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -9182,7 +9316,9 @@
     "specialElements": "2 Aspherical, ED (count not stated)",
     "motorType": "2x Linear",
     "image_url": "/images/products/sony/sony-50mm-f2-5-g.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 18980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -9225,7 +9361,9 @@
     "minAperture": "16",
     "closeFocus": "0.16m",
     "releaseMonth": 8,
-    "specialElements": "1 ED, 1 Aspherical"
+    "specialElements": "1 ED, 1 Aspherical",
+    "retailPrice": 14980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -10238,7 +10376,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/90mm-f2-8-di-iii-macro-vxd.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 23980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sirui",
@@ -10420,7 +10560,9 @@
     "closeFocus": "0.26m",
     "specialElements": "2 XA, 2 ED",
     "image_url": "/images/products/sony/sony-100mm-f2-8-gm-oss-marco.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 41980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tokina",
@@ -10714,7 +10856,9 @@
     "minAperture": "22",
     "closeFocus": "0.7m",
     "specialElements": "XA (count not stated), 1 Super ED, 1 ED",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 52980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -11023,7 +11167,9 @@
     "closeFocus": "2m",
     "specialElements": "3 Super ED, 1 ED",
     "image_url": "/images/products/sony/sony-300mm-f2-8-gm-oss.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 194980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11068,7 +11214,9 @@
     "minAperture": "22",
     "closeFocus": "2.7m",
     "specialElements": "3 Fluorite",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 359980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -11162,7 +11310,9 @@
     "minAperture": "22",
     "closeFocus": "4.5m",
     "specialElements": "3 Fluorite, XA (count not stated)",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 419980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11207,7 +11357,9 @@
     "specialElements": "4 Aspherical, 1 Super ED, 3 ED",
     "motorType": "DDSSM",
     "image_url": "/images/products/sony/sony-12-24mm-f4-g.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 46980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -11300,7 +11452,9 @@
     "specialElements": "4 Aspherical (incl. 1 ED Aspherical), 3 ED",
     "motorType": "2x Linear",
     "image_url": "/images/products/sony/sony-16-25mm-f2-8-g.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 38980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -11397,7 +11551,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/16-30mm-f2-8-di-iii-vxd-g2-a064.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11487,7 +11643,9 @@
     "specialElements": "2 XA, 3 Aspherical, 2 ED",
     "image_url": "/images/products/sony/sony-16-35mm-t3-1-g.webp",
     "motorType": "DDSSM",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 179980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11576,7 +11734,9 @@
     "closeFocus": "0.28m (W) / 0.24m (T)",
     "motorType": "XD Linear",
     "specialElements": "2 AA, 1 ED Aspherical, 1 Aspherical, 1 Super ED, 1 ED",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 33980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -11620,7 +11780,9 @@
     "sensorFormat": "Full Frame",
     "lensType": "ZOOM",
     "image_url": "/images/products/tamron/17-28mm-f2-8-di-iii-rxd-a046.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 29200,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -11663,7 +11825,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/17-50mm-f4-di-iii-rxd-a068.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 22500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -11711,7 +11875,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/20-40mm-f2-8-di-iii-vxd-a062.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 24800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11756,7 +11922,9 @@
     "specialElements": "2 AA, 1 Aspherical, 1 ED Aspherical, 3 ED",
     "motorType": "2x XD Linear",
     "image_url": "/images/products/sony/sony-20-70mm-f4-g.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 33980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -11850,7 +12018,9 @@
     "specialElements": "4 Aspherical, 2 ED",
     "motorType": "2x Linear",
     "image_url": "/images/products/sony/sony-24-50mm-f2-8-g.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 35980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -12076,7 +12246,9 @@
     "closeFocus": "0.38m",
     "specialElements": "4 Aspherical (incl. 2 AA), 3 ED",
     "motorType": "DDSSM",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 37980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -12163,7 +12335,9 @@
     "sensorFormat": "Full Frame",
     "launchPrice": 27500,
     "image_url": "/images/products/tamron/25-200mm-f2-8-5-6-g2-vxd-a075.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 27500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -12391,7 +12565,9 @@
     "sensorFormat": "Full Frame",
     "lensType": "ZOOM",
     "image_url": "/images/products/tamron/28-75mm-f2-8-di-iii-vxd-a063-g2.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 28200,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -12528,7 +12704,9 @@
     "sensorFormat": "Full Frame",
     "lensType": "ZOOM",
     "image_url": "/images/products/tamron/28-200mm-f2-8-5-6-di-iii-rxd-a071.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 21800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -12571,7 +12749,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/28-300mm-f4-0-7-1-di-iii-vxd-a074.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 29800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -12619,7 +12799,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/35-100mm-f2-8-di-iii-vxd-a078.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -12716,7 +12898,9 @@
     "sensorFormat": "Full Frame",
     "lensType": "ZOOM",
     "image_url": "/images/products/tamron/35-150mm-f2-0-2-8-di-iii-vxd-a058.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 49800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -12761,7 +12945,9 @@
     "closeFocus": "0.4m (W) / 0.74m (T)",
     "specialElements": "2 XA, 2 Super ED, 3 ED",
     "image_url": "/images/products/sony/sony-50-150mm-f2-0-gm.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 116980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -12804,7 +12990,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/50-300mm-f4-5-6-3-di-iii-vc-vxd-a069.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 26800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -12852,7 +13040,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/50-400mm-f4-5-6-3-di-iii-vc-vxd-a067.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 40800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -12944,7 +13134,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/70-180mm-f2-8-di-iii-vxd-a056.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 34200,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -12993,7 +13185,9 @@
     "sensorFormat": "Full Frame",
     "lensType": "ZOOM",
     "image_url": "/images/products/tamron/70-180mm-f2-8-di-iii-vxd-a065-g2.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 41000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -13177,7 +13371,9 @@
     "closeFocus": "0.26m (W) / 0.42m (T)",
     "specialElements": "1 AA, 1 Aspherical, 1 Super ED, 3 ED",
     "motorType": "XD Linear",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 47980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -13222,7 +13418,9 @@
     "specialElements": "4 Aspherical, 2 ED",
     "motorType": "Linear",
     "image_url": "/images/products/sony/sony-70-300mm-f4-5-5-6-g-oss.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 35980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -13270,7 +13468,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/70-300mm-f4-5-6-3-di-iii-rxd-a047.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 13600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -13512,7 +13712,9 @@
     "specialElements": "6 ED",
     "motorType": "Linear",
     "image_url": "/images/products/sony/sony-400-800mm-f6-3-8-0-g-oss.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 85980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -15329,7 +15531,9 @@
     "image_url": "/images/products/sony/sony-fx3.webp",
     "afTargets": "Human, Animal",
     "releaseMonth": 2,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 127980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -15426,7 +15630,9 @@
     "closeFocus": "0.38m",
     "specialElements": "3 XA, 3 Super ED, 1 ED",
     "launchPrice": 92980,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 92980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -15474,7 +15680,9 @@
     "minAperture": "16",
     "closeFocus": "0.85m (AF) / 0.8m (MF)",
     "specialElements": "2 XA, 2 ED",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 56980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -15522,7 +15730,9 @@
     "specialElements": "3 Aspherical, 3 ED",
     "motorType": "Linear",
     "image_url": "/images/products/sony/sony-e-11mm-f1-8.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 13980,
+    "retailPriceDate": "2026-10"
   },
   {
     "opticalDesign": "14 elements in 11 groups",
@@ -15612,7 +15822,9 @@
     "releaseYear": 2023,
     "hasOIS": false,
     "hasCustomButton": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 92900,
+    "retailPriceDate": "2026-10"
   },
   {
     "opticalDesign": "16 elements in 11 groups",
@@ -15657,7 +15869,9 @@
     "weightGrams": 410,
     "dimensions": "Ø78.3 x 95 mm (W) / 122 mm (T)",
     "sensorFormat": "APS-C",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 38900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -15749,7 +15963,9 @@
     "hasApertureRing": false,
     "hasOIS": false,
     "hasCustomButton": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 38000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-100-400mm-f-4-5-5-6-vr-s",
@@ -15790,7 +16006,9 @@
     "minAperture": "32-40",
     "hasOIS": true,
     "hasCustomButton": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 96000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-85mm-f1-2l-usm",
@@ -15831,7 +16049,9 @@
     "minAperture": "16",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 81300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-135mm-f1-8l-is-usm",
@@ -15872,7 +16092,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 63000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-100mm-f2-8l-macro-is-usm",
@@ -15912,7 +16134,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf100mm-f-2-8l-macro-is-usm/main/product",
     "minAperture": "32",
     "hasApertureRing": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 37900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-100-500mm-f4-5-7-1l-is-usm",
@@ -15952,7 +16176,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf100-500mm-f-4-5-7-1l-is-usm/main/product",
     "minAperture": "32-54",
     "hasApertureRing": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 83900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24-105mm-f4l-is-usm",
@@ -15993,7 +16219,9 @@
     "filterSizeMm": 77,
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 38300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24-105mm-f2-8l-is-usm-z",
@@ -16034,7 +16262,9 @@
     "filterSizeMm": 82,
     "hasApertureRing": true,
     "hasCustomButton": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 90900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-10-20mm-f4l-is-stm",
@@ -16075,7 +16305,9 @@
     "filterSizeMm": 0,
     "hasApertureRing": false,
     "hasCustomButton": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 69600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-50mm-f1-8-stm",
@@ -16116,7 +16348,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 5900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-58mm-f-0-95-s-noct",
@@ -16157,7 +16391,9 @@
     "hasApertureRing": false,
     "hasCustomButton": true,
     "motorType": "Manual focus",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 279800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-105mm-f-2-8-vr-s-micro",
@@ -16198,7 +16434,9 @@
     "specialElements": "3 ED, 1 Aspherical",
     "hasApertureRing": false,
     "releaseMonth": 6,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "retailPrice": 34400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-14-30mm-f-4-s",
@@ -16238,7 +16476,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_14-30mmf4s/",
     "specialElements": "4 ED, 4 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 41900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-200mm-f-4-6-3-vr",
@@ -16278,7 +16518,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-200mmf4-63_vr/",
     "specialElements": "2 ED, 1 Aspherical ED, 2 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 32000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-180-600mm-f-5-6-6-3-vr",
@@ -16319,7 +16561,9 @@
     "specialElements": "6 ED, 1 Aspherical",
     "hasCustomButton": true,
     "releaseMonth": 6,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 57880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-85mm-f-1-8-s",
@@ -16359,7 +16603,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_85mmf18s/",
     "specialElements": "2 ED",
     "hasApertureRing": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 31500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-50mm-f-1-8-s",
@@ -16399,7 +16645,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_50mmf18s/",
     "specialElements": "2 ED, 2 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 21900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-35mm-f-1-8-s",
@@ -16439,7 +16687,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_35mmf18s/",
     "specialElements": "2 ED, 3 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 30900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-35mm-f1-4-r",
@@ -16511,7 +16761,9 @@
     "dimensions": "Ø67 x 77.8 mm",
     "specialElements": "2 Aspherical, 3 ED",
     "hasApertureRing": true,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 27300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-18mm-f1-4-r-lm-wr",
@@ -16547,7 +16799,9 @@
     "dimensions": "Ø68.8 x 75.6 mm",
     "specialElements": "3 Aspherical, 1 ED",
     "hasApertureRing": true,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 29300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-90mm-f2-r-lm-wr",
@@ -16619,7 +16873,9 @@
     "dimensions": "Ø92.6 x 116 mm (W) / 145.5 mm (T)",
     "specialElements": "3 Aspherical, 1 ED, 1 Super ED",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 69000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-110mm-f2-r-lm-wr",
@@ -16655,7 +16911,9 @@
     "dimensions": "Ø94.3 x 125.5 mm",
     "specialElements": "4 ED",
     "releaseMonth": 4,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "retailPrice": 83900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-80mm-f1-7-r-wr",
@@ -16691,7 +16949,9 @@
     "dimensions": "Ø94.7 x 99.2 mm",
     "specialElements": "1 Aspherical, 2 Super ED",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 64600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gf-45-100mm-f4-r-lm-ois-wr",
@@ -16727,7 +16987,9 @@
     "dimensions": "Ø93 x 144.5 mm (W) / 174.5 mm (T)",
     "specialElements": "3 Aspherical, 1 ED, 1 Super ED",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 69900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-16mm-f2-8-stm",
@@ -16768,7 +17030,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 8990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24mm-f1-8-macro-is-stm",
@@ -16809,7 +17073,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 17800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-28mm-f2-8-stm",
@@ -16850,7 +17116,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 8900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-35mm-f1-8-macro-is-stm",
@@ -16891,7 +17159,9 @@
     "minAperture": "22",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 16500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-100-400mm-f5-6-8-is-usm",
@@ -16931,7 +17201,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf100-400mm-f-5-6-8-is-usm/main/product",
     "minAperture": "32-45",
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 21300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-600mm-f11-is-stm",
@@ -16971,7 +17243,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf600mm-f-11-is-stm/main/product",
     "minAperture": "11",
     "hasApertureRing": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 23600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-800mm-f11-is-stm",
@@ -17011,7 +17285,9 @@
     "officialUrl": "https://tw.canon/zh_TW/consumer/rf800mm-f-11-is-stm/main/product",
     "minAperture": "11",
     "hasApertureRing": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 29700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24-105mm-f4-7-1-is-stm",
@@ -17052,7 +17328,9 @@
     "minAperture": "22-40",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 12900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-18-45mm-f4-5-6-3-is-stm",
@@ -17093,7 +17371,9 @@
     "minAperture": "22-32",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 9300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-10-18mm-f4-5-6-3-is-stm",
@@ -17134,7 +17414,9 @@
     "minAperture": "22-32",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 10600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-18-150mm-f3-5-6-3-is-stm",
@@ -17175,7 +17457,9 @@
     "hasApertureRing": false,
     "minAperture": "22",
     "hasCustomButton": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 15100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-20mm-f-1-8-s",
@@ -17215,7 +17499,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_20mmf18s/",
     "specialElements": "3 ED, 3 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 36900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24mm-f-1-8-s",
@@ -17255,7 +17541,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24mmf18s/",
     "specialElements": "1 ED, 4 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 35900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-26mm-f-2-8",
@@ -17295,7 +17583,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_26mmf28/",
     "specialElements": "3 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-28mm-f-2-8",
@@ -17335,7 +17625,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_28mmf28/",
     "specialElements": "2 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 9900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-40mm-f-2",
@@ -17375,7 +17667,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2/",
     "specialElements": "2 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 9900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-70mm-f-4-s",
@@ -17455,7 +17749,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_dx_16-50mmf35-63_vr/",
     "specialElements": "1 ED, 4 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 11900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-50-250mm-f-4-5-6-3-vr",
@@ -17495,7 +17791,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_dx_50-250mmf45-63_vr/",
     "specialElements": "1 ED",
     "hasApertureRing": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 13900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-12-28mm-f-3-5-5-6-pz-vr",
@@ -17535,7 +17833,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_dx_12-28mmf35-56_pz_vr/",
     "specialElements": "1 ED, 1 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 12500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-dx-18-140mm-f-3-5-6-3-vr",
@@ -17575,7 +17875,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_dx_18-140mmf35-63_vr/",
     "specialElements": "2 ED, 2 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 21500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-24-50mm-f-4-6-3",
@@ -17615,7 +17917,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_24-50mmf4-63/",
     "specialElements": "2 ED, 3 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 14500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-z-28-75mm-f-2-8",
@@ -17655,7 +17959,9 @@
     "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_28-75mmf28/",
     "specialElements": "1 Super ED, 1 ED, 3 Aspherical",
     "hasApertureRing": false,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 36500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-23mm-f2-r-wr",
@@ -17691,7 +17997,9 @@
     "dimensions": "Ø60 x 51.9 mm",
     "specialElements": "2 Aspherical",
     "hasApertureRing": true,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 14500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-35mm-f2-r-wr",
@@ -17763,7 +18071,9 @@
     "dimensions": "Ø60 x 59.4 mm",
     "specialElements": "1 Aspherical ED",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 14900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-27mm-f2-8-r-wr",
@@ -17799,7 +18109,9 @@
     "dimensions": "Ø62 x 23 mm",
     "specialElements": "1 Aspherical",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 12800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-16mm-f2-8-r-wr",
@@ -17835,7 +18147,9 @@
     "dimensions": "Ø60 x 45.4 mm",
     "specialElements": "2 Aspherical",
     "hasApertureRing": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 12300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-18-135mm-f3-5-5-6-r-lm-ois-wr",
@@ -17907,7 +18221,9 @@
     "dimensions": "Ø75 x 132.5 mm (W) / 205.5 mm (T)",
     "specialElements": "1 Aspherical, 2 ED",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 24500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
@@ -18015,7 +18331,9 @@
     "dimensions": "Ø62.6 x 44.2 mm",
     "specialElements": "3 Aspherical, 2 ED",
     "hasApertureRing": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 8900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xc-35mm-f2",
@@ -18133,7 +18451,9 @@
     "batterySpec": "LP-E6P (approx. 620 shots)",
     "ports": "USB-C (USB 3.2 Gen 2), HDMI Type A, mic, headphone, E3 remote",
     "hasWeatherSeal": true,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 74900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "nikon-zr",
@@ -18215,7 +18535,9 @@
         }
       }
     ],
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 26300,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Fujifilm",
@@ -18255,7 +18577,9 @@
     "ports": "USB-C (10Gbps), micro HDMI, 3.5mm mic/remote",
     "hasWeatherSeal": false,
     "logSupport": "F-Log, F-Log2, HLG",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 48100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-45mm-f1-2-stm",
@@ -18443,7 +18767,9 @@
     "launchPrice": 42900,
     "image_url": "/images/products/canon/canon-rf-20-50mm-f4-l-is-usm-pz.webp",
     "hasApertureRing": false,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 42900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-75-300mm-f4-5-6",
@@ -18704,7 +19030,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/canon/canon-rf-24mm-f1-4-l-vcm.webp",
     "launchPrice": 46900,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 46900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-s-7-8mm-f4-stm-dual",
@@ -18886,7 +19214,9 @@
     "image_url": "/images/products/canon/canon-rf-100-300mm-f2-8-l-is-usm.webp",
     "hasApertureRing": false,
     "launchPrice": 289000,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 289000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-200-800mm-f6-3-9-is-usm",
@@ -18923,7 +19253,9 @@
     "image_url": "/images/products/canon/canon-rf-200-800mm-f6-3-9-is-usm.webp",
     "hasApertureRing": false,
     "launchPrice": 58900,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 58900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-24-50mm-f4-5-6-3-is-stm",
@@ -18959,7 +19291,9 @@
     "hasCustomButton": false,
     "launchPrice": 9400,
     "releaseMonth": 2,
-    "specialElements": "2 PMo Aspherical"
+    "specialElements": "2 PMo Aspherical",
+    "retailPrice": 9400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-15-30mm-f4-5-6-3-is-stm",
@@ -18996,7 +19330,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "launchPrice": 15900,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 16300,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-1200mm-f8-l-is-usm",
@@ -19109,7 +19445,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "launchPrice": 48900,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 43900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-600mm-f4-l-is-usm",
@@ -19145,7 +19483,9 @@
     "image_url": "/images/products/canon/canon-rf-600mm-f4-l-is-usm.webp",
     "launchPrice": 377000,
     "releaseMonth": 4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 383000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-400mm-f2-8-l-is-usm",
@@ -19181,7 +19521,9 @@
     "image_url": "/images/products/canon/canon-rf-400mm-f2-8-l-is-usm.webp",
     "launchPrice": 350000,
     "releaseMonth": 4,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 354000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-70-200mm-f4-l-is-usm",
@@ -19217,7 +19559,9 @@
     "image_url": "/images/products/canon/canon-rf-70-200mm-f4-l-is-usm.webp",
     "launchPrice": 47300,
     "releaseMonth": 11,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 47500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-85mm-f2-macro-is-stm",
@@ -19251,7 +19595,9 @@
     "image_url": "/images/products/canon/canon-rf-85mm-f2-macro-is-stm.webp",
     "launchPrice": 18900,
     "releaseMonth": 7,
-    "specialElements": "1 UD"
+    "specialElements": "1 UD",
+    "retailPrice": 18900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-85mm-f1-2-l-usm-ds",
@@ -19325,7 +19671,9 @@
     "hasApertureRing": false,
     "hasCustomButton": false,
     "launchPrice": 27900,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 28100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-rf-5-2mm-f2-8-l-dual-fisheye",
@@ -19399,7 +19747,9 @@
     "image_url": "/images/products/canon/canon-eos-r6-v.webp",
     "videoColorDepth": "10-bit 4:2:2",
     "releaseMonth": 5,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 64900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-r8-mark-ii",
@@ -19440,7 +19790,9 @@
     ],
     "image_url": "/images/products/canon/canon-eos-r8-mark-ii.webp",
     "videoColorDepth": "10-bit 4:2:2",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 49900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-r50-v",
@@ -19479,7 +19831,9 @@
     "image_url": "/images/products/canon/canon-eos-r50-v.webp",
     "releaseMonth": 3,
     "hasWeatherSeal": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "retailPrice": 19900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-r5-c",
@@ -19519,7 +19873,9 @@
     "hasIBIS": false,
     "evfMagnification": "0.76x",
     "launchPrice": 132900,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 86900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-ra",
@@ -19956,7 +20312,9 @@
     "coatings": "Fluorine",
     "hasCustomButton": true,
     "releaseMonth": 9,
-    "launchPrice": 89900
+    "launchPrice": 89900,
+    "retailPrice": 89900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
@@ -21105,7 +21463,9 @@
     "launchPrice": 162000,
     "releaseMonth": 3,
     "fixedLens": "35mm F4 (28mm equiv.)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 173900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "fujifilm-gfx-eterna-55",
@@ -25422,7 +25782,9 @@
     "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
     "hasWeatherSeal": true,
     "launchPrice": 29900,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-85mm-f1-2-dg-art",
@@ -26342,7 +26704,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/tamron/tamron-12-20mm-f2-8-a084.webp",
     "hasWeatherSeal": true,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 55900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "tamron-11-20mm-f2-8-di-iii-a-rxd-b060",
@@ -26645,7 +27009,9 @@
     "logSupport": "S-Log3, S-Cinetone",
     "hasWeatherSeal": true,
     "launchPrice": 78990,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 78990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-a7r-vi",
@@ -26686,7 +27052,9 @@
     "logSupport": "S-Log3, S-Cinetone",
     "hasWeatherSeal": true,
     "launchPrice": 129980,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 129980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fx2",
@@ -26838,7 +27206,9 @@
     "hasApertureRing": false,
     "launchPrice": 82980,
     "releaseMonth": 9,
-    "specialElements": "3 Super ED, 1 ED"
+    "specialElements": "3 Super ED, 1 ED",
+    "retailPrice": 82980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-600mm-f6-3-gm-oss",
@@ -26912,7 +27282,9 @@
     "hasApertureRing": true,
     "hasCustomButton": true,
     "launchPrice": 44980,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 44980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-100-400mm-f4-5-gm-oss",
@@ -26949,7 +27321,9 @@
     "specialElements": "2 Super ED, 3 ED, 1 ED XA, 1 XA",
     "hasApertureRing": false,
     "launchPrice": 129980,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 129980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-100-400mm-f5-6-8-oss",
@@ -26985,7 +27359,9 @@
     "hasApertureRing": false,
     "hasCustomButton": true,
     "launchPrice": 24980,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 24980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-fe-50mm-f1-8",
@@ -27056,7 +27432,9 @@
     "launchPrice": 18980,
     "releaseMonth": 2,
     "specialElements": "1 ED",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "retailPrice": 16980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-18-110mm-f4-g-oss",
@@ -27161,7 +27539,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "launchPrice": 34880,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 34880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-70-350mm-f4-5-6-3-g-oss",
@@ -27197,7 +27577,9 @@
     "hasApertureRing": false,
     "hasWeatherSeal": true,
     "launchPrice": 23880,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 23880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-15mm-f1-4-g",
@@ -27307,7 +27689,9 @@
     "hasCustomButton": false,
     "launchPrice": 18880,
     "releaseMonth": 1,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 18880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-pz-16-50mm-f3-5-5-6-oss-ii",
@@ -27343,7 +27727,9 @@
     "hasCustomButton": false,
     "launchPrice": 9680,
     "releaseMonth": 7,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 10880,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-e-10-18mm-f4-oss",
@@ -42176,7 +42562,9 @@
     "burstSpeed": "40fps (Elec)",
     "image_url": "/images/products/canon/canon-eos-c50.webp",
     "releaseMonth": 9,
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "retailPrice": 98900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "astrhori-9mm-f2-8",
@@ -57378,7 +57766,9 @@
     "weightGrams": 191,
     "launchPrice": 14690,
     "image_url": "/images/products/dji/dji-osmo-pocket-4.webp",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "retailPrice": 14690,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-pocket-4p",
@@ -57402,7 +57792,9 @@
     "weightGrams": 230,
     "launchPrice": 19290,
     "image_url": "/images/products/dji/dji-osmo-pocket-4p.webp",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "retailPrice": 19290,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-360-ii",
@@ -57428,7 +57820,9 @@
     "weightGrams": 183,
     "launchPrice": 15900,
     "image_url": "/images/products/dji/dji-osmo-360-ii.webp",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "retailPrice": 15900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-action-6",
@@ -57454,7 +57848,9 @@
     "launchPrice": 15290,
     "image_url": "/images/products/dji/dji-osmo-action-6.webp",
     "sensorType": "CMOS",
-    "logSupport": "D-Log M"
+    "logSupport": "D-Log M",
+    "retailPrice": 13290,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-nano",
@@ -57479,7 +57875,9 @@
     "dimensions": "57.3 x 29.5 x 28 mm",
     "weightGrams": 52,
     "launchPrice": 8890,
-    "image_url": "/images/products/dji/dji-osmo-nano.webp"
+    "image_url": "/images/products/dji/dji-osmo-nano.webp",
+    "retailPrice": 8890,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-360",
@@ -57504,7 +57902,9 @@
     "dimensions": "61 x 36.3 x 81 mm",
     "weightGrams": 183,
     "launchPrice": 13980,
-    "image_url": "/images/products/dji/dji-osmo-360.webp"
+    "image_url": "/images/products/dji/dji-osmo-360.webp",
+    "retailPrice": 13290,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-action-5-pro",
@@ -57530,7 +57930,9 @@
     "image_url": "/images/products/dji/dji-osmo-action-5-pro.webp",
     "sensorType": "CMOS",
     "ports": "USB-C",
-    "launchPrice": 13290
+    "launchPrice": 13290,
+    "retailPrice": 9690,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-pocket-3",
@@ -57554,7 +57956,9 @@
     "weightGrams": 179,
     "image_url": "/images/products/dji/dji-osmo-pocket-3.webp",
     "sensorType": "CMOS",
-    "launchPrice": 17900
+    "launchPrice": 17900,
+    "retailPrice": 10590,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-action-4",
@@ -57579,7 +57983,9 @@
     "image_url": "/images/products/dji/dji-osmo-action-4.webp",
     "sensorType": "CMOS",
     "ports": "USB-C",
-    "launchPrice": 13290
+    "launchPrice": 13290,
+    "retailPrice": 7090,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "dji-osmo-action-3",
@@ -64392,7 +64798,7 @@
     "lcdSpec": "3.0-inch 0.92M-dot",
     "batterySpec": "LP-E12 (325 shots CIPA)",
     "videoResolution": "4K 30p",
-    "hasIBIS": true,
+    "hasIBIS": false,
     "burstSpeed": "10fps",
     "releaseMonth": 9,
     "image_url": "/images/products/canon/canon-powershot-sx70-hs.webp",
@@ -64401,7 +64807,8 @@
     "processor": "DIGIC 8",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI, mic",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "ibisRating": "None"
   },
   {
     "id": "canon-powershot-v10",
@@ -64428,7 +64835,9 @@
     "launchPrice": 13990,
     "processor": "DIGIC X",
     "ports": "USB-C, micro HDMI, mic",
-    "afPoints": "31 points"
+    "afPoints": "31 points",
+    "retailPrice": 13990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-powershot-sx540-hs",
@@ -70379,7 +70788,9 @@
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
     "releaseMonth": 3,
     "afPoints": "25 points",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "retailPrice": 43980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iv",
@@ -70411,7 +70822,9 @@
     "ports": "USB 2.0, HDMI, microphone, headphone",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
     "afPoints": "315 phase-detect points / 25 contrast-detect points",
-    "logSupport": "S-Log2, S-Log3"
+    "logSupport": "S-Log2, S-Log3",
+    "retailPrice": 49980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-v",
@@ -70561,7 +70974,9 @@
     "isoRange": "100-32000 (Ext: 50-102800)",
     "ports": "USB 3.2 Gen 1, HDMI, microphone, headphone",
     "cardSlots": "1x UHS-II SD",
-    "afPoints": "693 phase-detect points"
+    "afPoints": "693 phase-detect points",
+    "retailPrice": 139000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-zv-1",
@@ -70590,7 +71005,9 @@
     "burstSpeed": "24fps",
     "isoRange": "125-12800 (Ext: 80-25600)",
     "ports": "USB 2.0, HDMI, microphone",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
+    "retailPrice": 19980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-zv-1f",
@@ -70620,7 +71037,9 @@
     "logSupport": "S-Log2, S-Log3, HLG",
     "afPoints": "425 points",
     "processor": "BIONZ X",
-    "ports": "USB-C (USB 2.0), micro HDMI, mic"
+    "ports": "USB-C (USB 2.0), micro HDMI, mic",
+    "retailPrice": 14980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-zv-1-ii",
@@ -70646,7 +71065,9 @@
     "ports": "HDMI, microphone",
     "afPoints": "315 phase-detect points",
     "burstSpeed": "24fps",
-    "cardSlots": "1x SD / Memory Stick Duo"
+    "cardSlots": "1x SD / Memory Stick Duo",
+    "retailPrice": 24980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0",
@@ -73404,7 +73825,9 @@
     "isoRange": "125-12800",
     "ports": "USB 3.2 Gen 1, HDMI, mic",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "launchPrice": 19990
+    "launchPrice": 19990,
+    "retailPrice": 24990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-powershot-sx50-hs",
@@ -74242,7 +74665,9 @@
     "cardSlots": "1x SD (UHS-II)",
     "image_url": "/images/products/canon/canon-powershot-v1.webp",
     "launchPrice": 29900,
-    "processor": "DIGIC X"
+    "processor": "DIGIC X",
+    "retailPrice": 29900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-powershot-sx520-hs",

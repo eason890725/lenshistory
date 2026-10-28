@@ -1,7 +1,7 @@
 import { Link } from '@/i18n/routing';
 import CompareTable from './CompareTable';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { NONE, focalLength, priceText, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
+import { NONE, focalLength, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
 import { gears as allGears } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
@@ -42,7 +42,8 @@ export default async function ComparePage({
 
   const rows: Row[] = [
     { section: t('releaseInfo'), label: t('releaseYear'), get: releaseLabel },
-    { section: t('releaseInfo'), label: t('launchPrice'), get: g => priceText(g, t('street')) },
+    { section: t('releaseInfo'), label: t('launchPrice'), get: g => (g.launchPrice ? `NT$${g.launchPrice.toLocaleString()}` : undefined) },
+    { section: t('releaseInfo'), label: t('retailPrice'), get: g => (g.retailPrice ? `NT$${g.retailPrice.toLocaleString()} (${g.retailPriceDate?.replace('-', '.')})` : undefined) },
 
     { section: t('optical'), label: t('focalLength'), type: L, get: g => focalLength(g) },
     { section: t('optical'), label: t('maxAperture'), type: L, get: g => (g.apertureMax ? `f/${g.apertureMax}` : undefined) },

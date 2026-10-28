@@ -18,7 +18,7 @@ export type Gear = {
   releaseYear?: number;   // year it was announced (kept separate so the year filter stays simple)
   releaseMonth?: number;  // 1-12, month it was announced, when known
   launchPrice?: number;     // Taiwan launch suggested price (NT$)
-  retailPrice?: number;     // current Taiwan street price for new stock, used only when the launch price can't be found
+  retailPrice?: number;     // current Taiwan street price for new stock; cards and sorting use it only when there is no launch price
   retailPriceDate?: string; // "2026-10", when retailPrice was checked
   weightGrams?: number | string;
   dimensions?: string;
