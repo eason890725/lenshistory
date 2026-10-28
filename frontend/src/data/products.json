@@ -25019,7 +25019,8 @@
     "cardSlots": "1x SD",
     "batterySpec": "BP-SCL2",
     "officialUrl": "https://leica-camera.com/sites/default/files/pm-28674-Datenblatt_M-D-Typ-262_e.pdf",
-    "evfMagnification": "0.68x"
+    "evfMagnification": "0.68x",
+    "hasIBIS": false
   },
   {
     "id": "leica-summicron-sl-50-f2-asph",
