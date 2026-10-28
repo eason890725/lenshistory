@@ -23751,7 +23751,8 @@
     "image_url": "/images/products/leica/leica-m10-d.webp",
     "releaseMonth": 10,
     "dimensions": "139 x 80 x 37.9 mm",
-    "evfMagnification": "0.73x"
+    "evfMagnification": "0.73x",
+    "lcdSpec": "None"
   },
   {
     "id": "leica-m-e-typ-240",
@@ -24265,7 +24266,8 @@
     "specialElements": "2 Aspherical",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/super-vario-elmar-sl-16-35mm-f3-5-4-5-asph-black",
     "image_url": "/images/products/leica/leica-super-vario-elmar-sl-16-35-f3-5-4-5-asph.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasWeatherSeal": true
   },
   {
     "id": "leica-apo-summicron-sl-75-f2-asph",
@@ -24518,7 +24520,8 @@
     "image_url": "/images/products/leica/leica-super-apo-summicron-sl-21-f2-asph.webp",
     "releaseMonth": 10,
     "retailPrice": 168800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasWeatherSeal": true
   },
   {
     "id": "leica-vario-elmar-sl-100-400-f5-6-3",
@@ -24626,7 +24629,9 @@
     "launchPrice": 70800,
     "releaseMonth": 2,
     "retailPrice": 77100,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "specialElements": "3 Aspherical, 3 Anomalous Partial Dispersion",
+    "motorType": "Linear direct drive"
   },
   {
     "id": "leica-vario-elmarit-sl-70-200-f2-8-asph",
@@ -24990,7 +24995,8 @@
     "processor": "Leica Maestro III",
     "releaseMonth": 9,
     "batterySpec": "BP-SCL7 (700 shots CIPA)",
-    "evfMagnification": "0.73x"
+    "evfMagnification": "0.73x",
+    "lcdSpec": "None"
   },
   {
     "id": "leica-m-d-typ-262",
@@ -29340,7 +29346,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-macro-apo-ultron-35mm-f2.webp",
     "launchPrice": 21500,
     "motorType": "Manual focus",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "hasCustomButton": false
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-x-mount",
@@ -29824,7 +29831,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 9,
     "retailPrice": 4990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "Multi-Layer Coating"
   },
   {
     "id": "viltrox-af-15mm-f1-7-air",
@@ -31942,7 +31950,9 @@
     "launchPrice": 7680,
     "releaseMonth": 6,
     "retailPrice": 7680,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "minAperture": "16",
+    "coatings": "Water and smudge-resistant coating"
   },
   {
     "id": "viltrox-af-90mm-f2-2-evo",
@@ -42644,7 +42654,8 @@
     "ports": "USB-C, HDMI, 2x mini XLR, headphone, timecode (BNC), DC in",
     "batterySpec": "BP-A30 / BP-A60",
     "image_url": "/images/products/canon/canon-eos-c70.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "evfMagnification": "None"
   },
   {
     "id": "canon-eos-c400",
@@ -43466,7 +43477,8 @@
       }
     ],
     "releaseMonth": 12,
-    "image_url": "/images/products/astrhori/astrhori-18mm-f8-shift.webp"
+    "image_url": "/images/products/astrhori/astrhori-18mm-f8-shift.webp",
+    "hasCustomButton": false
   },
   {
     "id": "astrhori-85mm-f2-8-macro-tilt",
@@ -45308,7 +45320,8 @@
       }
     ],
     "image_url": "/images/products/irix/irix-cine-30mm-t1-5.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Neutrino coating"
   },
   {
     "id": "irix-cine-45mm-t1-5",
@@ -45426,7 +45439,8 @@
     ],
     "image_url": "/images/products/irix/irix-cine-65mm-t1-5.webp",
     "releaseMonth": 4,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Neutrino coating"
   },
   {
     "id": "irix-cine-150mm-t3-0-macro-1-1",
@@ -45729,7 +45743,8 @@
     "maxMagnification": "0.13x",
     "opticalDesign": "12 elements in 10 groups",
     "dimensions": "Ø75.6 x 80.5 mm",
-    "weightGrams": 470
+    "weightGrams": 470,
+    "hasCustomButton": false
   },
   {
     "id": "nisi-9mm-f2-8",
@@ -47046,7 +47061,8 @@
     ],
     "image_url": "/images/products/thypoch/thypoch-voyager-24-50mm-f-2-8.webp",
     "hasOIS": false,
-    "motorType": "Stepping Motor"
+    "motorType": "Stepping Motor",
+    "coatings": "Multi-layer Nano Coating"
   },
   {
     "id": "thypoch-ksana-21mm-f-3-5",
@@ -49593,7 +49609,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "opticalDesign": "3 elements"
   },
   {
     "id": "meyer-optik-goerlitz-lydith-30-f3-5-ii",
@@ -49699,7 +49716,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "opticalDesign": "3 elements"
   },
   {
     "id": "meyer-optik-goerlitz-primoplan-75-f1-9-ii",
@@ -49860,7 +49878,8 @@
           "name": "Micro Four Thirds"
         }
       }
-    ]
+    ],
+    "opticalDesign": "5 elements"
   },
   {
     "id": "meyer-optik-goerlitz-biotar-58-f1-5-ii",
@@ -50963,7 +50982,9 @@
     "dimensions": "Ø60 x 21.75 mm",
     "image_url": "/images/products/7artisans/7artisans-35mm-f5-6.webp",
     "retailPrice": 3800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-10mm-f2-8-fisheye",
@@ -51862,7 +51883,9 @@
     "weightGrams": 620,
     "opticalDesign": "15 elements in 12 groups",
     "minAperture": "T22",
-    "closeFocus": "0.3m"
+    "closeFocus": "0.3m",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-hope-16mm-t2-1-cine",
@@ -51986,7 +52009,9 @@
     "minAperture": "T22",
     "closeFocus": "0.51m",
     "retailPrice": 8600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Manual focus",
+    "hasCustomButton": false
   },
   {
     "id": "7artisans-hope-50mm-t2-1-cine",
@@ -54739,7 +54764,8 @@
     "image_url": "/images/products/meike/meike-8mm-f3-5-fisheye-mf.webp",
     "hasCustomButton": false,
     "retailPrice": 5600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "coatings": "Nano-technology multi-layer coating"
   },
   {
     "id": "meike-35mm-f1-7-apsc-mf",
@@ -54867,7 +54893,8 @@
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-6-5mm-f2-fisheye-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "coatings": "Nano-technology multi-layer coating"
   },
   {
     "id": "meike-85mm-f2-8-macro-ff-mf",
@@ -55079,7 +55106,8 @@
     "sensorFormat": "Four Thirds",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-16mm-t2-2-mft-cine.webp"
+    "image_url": "/images/products/meike/meike-16mm-t2-2-mft-cine.webp",
+    "minAperture": "22"
   },
   {
     "id": "meike-12mm-t2-2-mft-cine",
@@ -55666,7 +55694,8 @@
     "image_url": "/images/products/sirui/sirui-24mm-f2-8-1-33x-anamorphic.webp",
     "hasCustomButton": false,
     "maxMagnification": "0.05x",
-    "closeFocus": "0.6m"
+    "closeFocus": "0.6m",
+    "coatings": "Nano-coating"
   },
   {
     "id": "sirui-75mm-f1-8-1-33x-anamorphic",
@@ -55868,7 +55897,8 @@
     ],
     "image_url": "/images/products/sirui/sirui-venus-75mm-t2-9-1-6x.webp",
     "hasCustomButton": false,
-    "maxMagnification": "0.10x"
+    "maxMagnification": "0.10x",
+    "hasApertureRing": true
   },
   {
     "id": "sirui-venus-100mm-t2-9-1-6x",
@@ -57711,7 +57741,8 @@
     "processor": "EXILIM Engine HS 3",
     "isoRange": "80-3200",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr1000/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr1000/",
+    "ibisRating": "1.5 stops"
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -57785,7 +57816,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI CMOS",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr400/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr400/",
+    "ibisRating": "1.5 stops"
   },
   {
     "id": "casio-exilim-ex-zr300",
@@ -57833,7 +57865,8 @@
     "dimensions": "99.9 x 59 x 25.7 mm",
     "weightGrams": 166,
     "image_url": "/images/products/casio/casio-exilim-ex-zr20.webp",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr20/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr20/",
+    "ports": "USB, AV out, mini HDMI"
   },
   {
     "id": "casio-exilim-ex-h50",
@@ -57873,7 +57906,8 @@
     "dimensions": "122.8 x 59 x 14.9 mm",
     "weightGrams": 157,
     "launchPrice": 10990,
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr150/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr150/",
+    "ports": "USB, micro HDMI"
   },
   {
     "id": "casio-exilim-ex-tr15",
@@ -57889,7 +57923,15 @@
     "cardSlots": "1x microSD",
     "launchPrice": 23990,
     "releaseMonth": 5,
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr15/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr15/",
+    "processor": "EXILIM Engine HS Ver. 3",
+    "ports": "micro USB, micro HDMI",
+    "isoRange": "100-3200",
+    "dimensions": "128.9 x 61.6 x 14.9 mm",
+    "weightGrams": 170,
+    "lcdSpec": "3.0-inch 0.92M-dot touch",
+    "batterySpec": "NP-150 (260 shots CIPA)",
+    "videoResolution": "Full HD 30p"
   },
   {
     "id": "casio-exilim-ex-je10",
@@ -58035,7 +58077,8 @@
     "image_url": "/images/products/dji/dji-osmo-360-ii.webp",
     "sensorType": "CMOS",
     "retailPrice": 15900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-action-6",
@@ -58063,7 +58106,8 @@
     "sensorType": "CMOS",
     "logSupport": "D-Log M",
     "retailPrice": 13290,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-nano",
@@ -58090,7 +58134,8 @@
     "launchPrice": 8890,
     "image_url": "/images/products/dji/dji-osmo-nano.webp",
     "retailPrice": 8890,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-360",
@@ -58117,7 +58162,8 @@
     "launchPrice": 13980,
     "image_url": "/images/products/dji/dji-osmo-360.webp",
     "retailPrice": 13290,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ports": "USB-C (USB 3.1)"
   },
   {
     "id": "dji-osmo-action-5-pro",
@@ -58222,7 +58268,8 @@
     "dimensions": "70.5 x 44.2 x 32.8 mm",
     "weightGrams": 145,
     "image_url": "/images/products/dji/dji-osmo-action-3.webp",
-    "launchPrice": 11770
+    "launchPrice": 11770,
+    "ports": "USB-C"
   },
   {
     "id": "dji-action-2",
@@ -58246,7 +58293,8 @@
     "weightGrams": 56,
     "image_url": "/images/products/dji/dji-action-2.webp",
     "launchPrice": 13700,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-pocket-2",
@@ -58268,7 +58316,8 @@
     "dimensions": "124.7 x 38.1 x 30 mm",
     "weightGrams": 117,
     "image_url": "/images/products/dji/dji-pocket-2.webp",
-    "launchPrice": 12000
+    "launchPrice": 12000,
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-action",
@@ -58292,7 +58341,9 @@
     "dimensions": "65 x 42 x 35 mm",
     "weightGrams": 124,
     "launchPrice": 12000,
-    "image_url": "/images/products/dji/dji-osmo-action.webp"
+    "image_url": "/images/products/dji/dji-osmo-action.webp",
+    "sensorType": "CMOS",
+    "ports": "USB-C"
   },
   {
     "id": "dji-osmo-pocket",
@@ -58604,7 +58655,8 @@
     "weightGrams": 27,
     "launchPrice": 9669,
     "image_url": "/images/products/insta360/insta360-go-2.webp",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "videoResolution": "3K"
   },
   {
     "id": "insta360-titan",
@@ -58645,7 +58697,8 @@
     "hasWeatherSeal": true,
     "retailPrice": 22390,
     "retailPriceDate": "2026-10",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "isoRange": "100-3200 (Photo) / 25-6400 (Video)"
   },
   {
     "id": "gopro-mission-1",
@@ -58692,7 +58745,8 @@
     "launchPrice": 15300,
     "image_url": "/images/products/gopro/gopro-hero13-black.webp",
     "retailPrice": 12290,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "ports": "USB-C"
   },
   {
     "id": "gopro-hero-2024",
@@ -58738,7 +58792,8 @@
     "hasWeatherSeal": true,
     "launchPrice": 14900,
     "logSupport": "GP-Log",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "burstSpeed": "30fps"
   },
   {
     "id": "gopro-hero11-black",
@@ -58764,7 +58819,8 @@
     "image_url": "/images/products/gopro/gopro-hero11-black.webp",
     "launchPrice": 17500,
     "ports": "USB-C",
-    "isoRange": "100-3200 (Photo) / 100-6400 (Video)"
+    "isoRange": "100-3200 (Photo) / 100-6400 (Video)",
+    "burstSpeed": "30fps"
   },
   {
     "id": "gopro-hero11-black-mini",
@@ -60138,7 +60194,8 @@
     "afPoints": "99 points",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, mini HDMI",
-    "weightGrams": 209
+    "weightGrams": 209,
+    "burstSpeed": "6.9fps"
   },
   {
     "id": "nikon-coolpix-s6300",
@@ -61243,7 +61300,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-s7000",
@@ -61270,7 +61328,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-aw130",
@@ -61297,7 +61356,8 @@
     "burstSpeed": "7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-s33",
@@ -61433,7 +61493,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-a900",
@@ -61460,7 +61521,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-a300",
@@ -61828,7 +61890,8 @@
     "burstSpeed": "1.1fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, AV out",
-    "weightGrams": 137
+    "weightGrams": 137,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-s5300",
@@ -61877,7 +61940,8 @@
     "burstSpeed": "1.1fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, AV out",
-    "weightGrams": 120
+    "weightGrams": 120,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-l830",
@@ -61904,7 +61968,8 @@
     "weightGrams": 508,
     "image_url": "/images/products/nikon/nikon-coolpix-l830.webp",
     "hasWeatherSeal": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-l330",
@@ -61976,7 +62041,8 @@
     "burstSpeed": "6.7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "micro USB, micro HDMI",
-    "weightGrams": 206
+    "weightGrams": 206,
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-p530",
@@ -62028,7 +62094,8 @@
     "ports": "USB, micro HDMI",
     "weightGrams": 216,
     "hasWeatherSeal": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "9 points"
   },
   {
     "id": "nikon-coolpix-s3700",
@@ -62056,7 +62123,8 @@
     "image_url": "/images/products/nikon/nikon-coolpix-s3700.webp",
     "hasWeatherSeal": false,
     "processor": "Expeed C2",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "99 points"
   },
   {
     "id": "nikon-coolpix-l840",
@@ -62817,7 +62885,8 @@
       }
     ],
     "image_url": "/images/products/slr-magic/slr-magic-cine-18mm-f2-8.webp",
-    "minAperture": "16"
+    "minAperture": "16",
+    "hasApertureRing": true
   },
   {
     "id": "slr-magic-cine-50mm-f1-1",
@@ -62948,7 +63017,8 @@
         }
       }
     ],
-    "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-25mm-t1-5.webp"
+    "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-25mm-t1-5.webp",
+    "hasApertureRing": true
   },
   {
     "id": "slr-magic-microprime-cine-75mm-t1-5",
@@ -63216,7 +63286,8 @@
     ],
     "image_url": "/images/products/kamlan/kamlan-55mm-f1-4.webp",
     "hasApertureRing": true,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "dimensions": "Ø76.5 x 60 mm"
   },
   {
     "id": "kamlan-70mm-f1-1",
@@ -64507,7 +64578,8 @@
     "ports": "USB 2.0",
     "videoResolution": "HD 720p 25p",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/canon/canon-powershot-a2300.webp"
+    "image_url": "/images/products/canon/canon-powershot-a2300.webp",
+    "processor": "DIGIC 4"
   },
   {
     "id": "canon-powershot-a3400-is",
@@ -65175,7 +65247,8 @@
     "image_url": "/images/products/canon/canon-powershot-zoom.webp",
     "processor": "DIGIC 8",
     "burstSpeed": "10fps",
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "afPoints": "1 point"
   },
   {
     "id": "canon-powershot-pick",
@@ -66215,7 +66288,8 @@
     "isoRange": "100-12800",
     "burstSpeed": "20fps",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afPoints": "25 points"
   },
   {
     "id": "om-system-tough-tg-7",
@@ -66246,7 +66320,8 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "ports": "USB 2.0, HDMI",
     "processor": "TruePic VIII",
-    "ibisRating": "2.5 stops"
+    "ibisRating": "2.5 stops",
+    "afPoints": "25 points"
   },
   {
     "id": "fujifilm-x20",
@@ -67136,7 +67211,9 @@
     "lcdSpec": "3.0-inch 1.84M-dot fixed touch",
     "batterySpec": "DMW-BLG10 (360 shots CIPA)",
     "releaseMonth": 3,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afPoints": "49 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-lx100",
@@ -67257,7 +67334,9 @@
     "retailPrice": 49900,
     "retailPriceDate": "2026-10",
     "hasWeatherSeal": false,
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "V-Log, HLG",
+    "afPoints": "779 phase-detect points"
   },
   {
     "id": "panasonic-lumix-lf1",
@@ -67284,7 +67363,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-lf1.webp",
     "hasWeatherSeal": false,
     "burstSpeed": "10fps",
-    "isoRange": "80-6400 (Ext: 12800)"
+    "isoRange": "80-6400 (Ext: 12800)",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-fz200",
@@ -67427,7 +67507,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-fz300.webp",
     "processor": "Venus Engine",
     "evfMagnification": "0.7x",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "afPoints": "23 points"
   },
   {
     "id": "panasonic-lumix-fz2500",
@@ -67516,7 +67597,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-fz1000-ii.webp",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "evfMagnification": "0.74x"
+    "evfMagnification": "0.74x",
+    "logSupport": "None",
+    "afPoints": "49 points"
   },
   {
     "id": "panasonic-lumix-fz80d",
@@ -67547,7 +67630,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/panasonic/panasonic-lumix-fz80d.webp",
     "hasWeatherSeal": false,
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "afPoints": "49 points"
   },
   {
     "id": "panasonic-lumix-zs20",
@@ -67576,7 +67660,8 @@
     "evfMagnification": "None",
     "image_url": "/images/products/panasonic/panasonic-lumix-zs20.webp",
     "afPoints": "23 points",
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-zs25",
@@ -67604,7 +67689,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-zs30",
@@ -67633,7 +67719,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "afPoints": "23 points",
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-zs35",
@@ -67896,7 +67983,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-zs80.webp",
     "launchPrice": 13990,
     "hasWeatherSeal": false,
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "afPoints": "49 points"
   },
   {
     "id": "panasonic-lumix-zs99",
@@ -67926,7 +68014,9 @@
     "retailPriceDate": "2026-10",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "49 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-ts4",
@@ -67954,7 +68044,8 @@
     "burstSpeed": "3.7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-ts20",
@@ -67982,7 +68073,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "image_url": "/images/products/panasonic/panasonic-lumix-ts20.webp",
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-ts5",
@@ -68010,7 +68102,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "afPoints": "23 points",
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-ts25",
@@ -68037,7 +68130,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "afPoints": "23 points",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-ts7",
@@ -68095,7 +68189,8 @@
     "ports": "USB 2.0, HDMI",
     "image_url": "/images/products/panasonic/panasonic-lumix-sz7.webp",
     "afPoints": "23 points",
-    "burstSpeed": "10fps"
+    "burstSpeed": "10fps",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-sz5",
@@ -68124,7 +68219,8 @@
     "ports": "USB 2.0",
     "image_url": "/images/products/panasonic/panasonic-lumix-sz5.webp",
     "afPoints": "23 points",
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-sz9",
@@ -68150,7 +68246,8 @@
     "isoRange": "100-3200",
     "afPoints": "23 points",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "burstSpeed": "5fps (Normal) / 10fps (High-speed, 3M)"
+    "burstSpeed": "5fps (Normal) / 10fps (High-speed, 3M)",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-sz3",
@@ -68177,7 +68274,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "afPoints": "23 points",
-    "isoRange": "100-1600"
+    "isoRange": "100-1600",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-xs1",
@@ -68204,7 +68302,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "image_url": "/images/products/panasonic/panasonic-lumix-xs1.webp",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-sz8",
@@ -68290,7 +68389,8 @@
     "ports": "USB 2.0",
     "image_url": "/images/products/panasonic/panasonic-lumix-fh8.webp",
     "afPoints": "23 points",
-    "processor": "Venus Engine"
+    "processor": "Venus Engine",
+    "logSupport": "None"
   },
   {
     "id": "panasonic-lumix-cm10",
@@ -68783,7 +68883,8 @@
     "dimensions": "125 x 64.5 x 32 mm",
     "weightGrams": 236,
     "evfMagnification": "None",
-    "image_url": "/images/products/ricoh/ricoh-wg-5-gps.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-5-gps.webp",
+    "burstSpeed": "1.5fps / 14fps (4M)"
   },
   {
     "id": "ricoh-wg-40",
@@ -68942,7 +69043,8 @@
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 193,
     "afPoints": "9 points",
-    "image_url": "/images/products/ricoh/ricoh-wg-70.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-70.webp",
+    "burstSpeed": "1.08fps / 10fps (5M)"
   },
   {
     "id": "ricoh-wg-7",
@@ -69024,7 +69126,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/pentax/pentax-wg-90.webp",
     "evfMagnification": "None",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "burstSpeed": "1.08fps / 10fps (5M)"
   },
   {
     "id": "pentax-wg-8",
@@ -69180,7 +69283,8 @@
     "isoRange": "80-6400",
     "ports": "USB-C",
     "retailPrice": 29900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "processor": "Qualcomm Snapdragon"
   },
   {
     "id": "ricoh-theta-sc2",
@@ -73084,7 +73188,8 @@
           "name": "Fujifilm X"
         }
       }
-    ]
+    ],
+    "hasApertureRing": true
   },
   {
     "id": "mitakon-42-5mm-f1-2",
@@ -73124,7 +73229,8 @@
       }
     ],
     "image_url": "/images/products/mitakon/mitakon-42-5mm-f1-2.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasApertureRing": true
   },
   {
     "id": "mitakon-speedmaster-85mm-f1-2",
@@ -73317,7 +73423,8 @@
     "closeFocus": "1.0m",
     "filterSizeMm": 67,
     "dimensions": "Ø75 x 88 mm",
-    "weightGrams": 675
+    "weightGrams": 675,
+    "hasApertureRing": true
   },
   {
     "id": "mitakon-creator-135mm-f2-5",
