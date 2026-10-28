@@ -46490,7 +46490,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "image_url": "/images/products/samsung/samsung-nx500.webp",
-    "dimensions": "120 x 64 x 43 mm"
+    "dimensions": "120 x 64 x 43 mm",
+    "afTargets": "Face"
   },
   {
     "id": "samsung-nx3300",
@@ -46519,7 +46520,8 @@
     "batterySpec": "B740 (2330mAh)",
     "ports": "micro USB (USB 2.0), HDMI",
     "dimensions": "117.4 x 65.9 x 39.0 mm",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Face"
   },
   {
     "id": "samsung-nx-12-24mm-f4-5-6-ed",
@@ -56719,7 +56721,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-m10",
@@ -56755,7 +56758,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-m5",
@@ -56792,7 +56796,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-m6",
@@ -56828,7 +56833,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-m100",
@@ -56864,7 +56870,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "sensorType": "CMOS",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Face"
   },
   {
     "id": "canon-eos-m50",
@@ -56901,7 +56908,8 @@
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
     "dimensions": "116.3 x 88.1 x 58.7 mm",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "canon-eos-m6-mark-ii",
@@ -59707,7 +59715,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "logSupport": "None",
-    "image_url": "/images/products/nikon/nikon-1-j5.webp"
+    "image_url": "/images/products/nikon/nikon-1-j5.webp",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-1-vr-10-30mm-f-3-5-5-6",
@@ -60444,7 +60453,8 @@
     "isoRange": "100-6400",
     "ports": "USB 2.0, HDMI, mic",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-p950",
@@ -61280,7 +61290,8 @@
     "evfMagnification": "None",
     "hasWeatherSeal": false,
     "afPoints": "99 points",
-    "burstSpeed": "1.1fps"
+    "burstSpeed": "1.1fps",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-l32",
@@ -61307,7 +61318,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB",
     "evfMagnification": "None",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-p610",
@@ -61333,7 +61345,8 @@
     "isoRange": "100-1600 (Ext: 100-12800)",
     "burstSpeed": "7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB, micro HDMI"
+    "ports": "USB, micro HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-s9900",
@@ -61361,7 +61374,8 @@
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-s7000",
@@ -61389,7 +61403,8 @@
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-aw130",
@@ -61417,7 +61432,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-s33",
@@ -61444,7 +61460,8 @@
     "burstSpeed": "4.7fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-p900",
@@ -61472,7 +61489,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "processor": "EXPEED C2",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-a100",
@@ -61499,7 +61517,8 @@
     "ports": "USB",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-b700",
@@ -61526,7 +61545,8 @@
     "burstSpeed": "5fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-b500",
@@ -61554,7 +61574,8 @@
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-a900",
@@ -61582,7 +61603,8 @@
     "ports": "USB, micro HDMI",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-a300",
@@ -61610,7 +61632,8 @@
     "ports": "USB",
     "evfMagnification": "None",
     "hasWeatherSeal": false,
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-w100",
@@ -61637,7 +61660,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "evfMagnification": "None",
     "ports": "USB 2.0, HDMI",
-    "burstSpeed": "4.7fps"
+    "burstSpeed": "4.7fps",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-keymission-360",
@@ -61739,7 +61763,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, micro HDMI",
     "afPoints": "99 points",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-a1000",
@@ -62188,7 +62213,8 @@
     "hasWeatherSeal": false,
     "processor": "Expeed C2",
     "evfMagnification": "None",
-    "afPoints": "99 points"
+    "afPoints": "99 points",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-l840",
@@ -62216,7 +62242,8 @@
     "ports": "USB (Hi-Speed), micro HDMI (Type D)",
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/nikon/nikon-coolpix-l840.webp"
+    "image_url": "/images/products/nikon/nikon-coolpix-l840.webp",
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-l340",
@@ -62240,7 +62267,8 @@
     "burstSpeed": "1fps",
     "ports": "USB (Hi-Speed)",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "weightGrams": 430
+    "weightGrams": 430,
+    "afTargets": "Face"
   },
   {
     "id": "nikon-coolpix-a10",
@@ -62267,7 +62295,8 @@
     "burstSpeed": "1.2fps",
     "afPoints": "9 areas",
     "ports": "USB (Hi-Speed), A/V out",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "pentax-q",
@@ -64834,7 +64863,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "videoResolution": "HD 720p"
+    "videoResolution": "HD 720p",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx530-hs",
@@ -64861,7 +64891,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx610-hs",
@@ -64888,7 +64919,8 @@
     "burstSpeed": "2.5fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx710-hs",
@@ -64915,7 +64947,8 @@
     "evfMagnification": "None",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-160",
@@ -64942,7 +64975,8 @@
     "ports": "USB 2.0",
     "sensorType": "CCD",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/canon/canon-ixus-160.webp"
+    "image_url": "/images/products/canon/canon-ixus-160.webp",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-285-hs",
@@ -64971,7 +65005,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx620-hs",
@@ -65000,7 +65035,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx720-hs",
@@ -65029,7 +65065,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx420-is",
@@ -65056,7 +65093,8 @@
     "burstSpeed": "0.5fps",
     "isoRange": "100-1600",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-175",
@@ -65084,7 +65122,8 @@
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-180",
@@ -65113,7 +65152,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "image_url": "/images/products/canon/canon-ixus-180.webp",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx730-hs",
@@ -65142,7 +65182,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx740-hs",
@@ -65173,7 +65214,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "afPoints": "9 points",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx70-hs",
@@ -65202,7 +65244,8 @@
     "processor": "DIGIC 8",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI, mic",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-v10",
@@ -65261,7 +65304,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx270-hs",
@@ -65458,7 +65502,8 @@
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
     "ports": "USB 2.0, HDMI",
     "isoRange": "100-3200 (Ext: 6400)",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-xp120",
@@ -65485,7 +65530,8 @@
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
     "ports": "USB 2.0, HDMI",
     "isoRange": "100-6400",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-xz-10",
@@ -66163,7 +66209,8 @@
     "hasWeatherSeal": true,
     "burstSpeed": "5fps",
     "image_url": "/images/products/om-system/olympus-stylus-tg-4-tough.webp",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-tg-860-tough",
@@ -66190,7 +66237,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": true,
-    "burstSpeed": "7fps"
+    "burstSpeed": "7fps",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-sh-2",
@@ -66219,7 +66267,8 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
     "burstSpeed": "11.5fps",
-    "image_url": "/images/products/om-system/olympus-stylus-sh-2.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-sh-2.webp",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-tg-870-tough",
@@ -66246,7 +66295,8 @@
     "sensorType": "BSI-CMOS",
     "burstSpeed": "7fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-sh-3",
@@ -66275,7 +66325,8 @@
     "burstSpeed": "11.5fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "image_url": "/images/products/om-system/olympus-stylus-sh-3.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-sh-3.webp",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-stylus-tg-tracker",
@@ -66331,7 +66382,8 @@
     "isoRange": "100-1600 (Ext: 100-12800)",
     "burstSpeed": "20fps",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "olympus-tough-tg-6",
@@ -66502,7 +66554,8 @@
     "isoRange": "100-12800",
     "burstSpeed": "12fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-x30",
@@ -66559,7 +66612,8 @@
     "burstSpeed": "8fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-xf10",
@@ -66587,7 +66641,8 @@
     "burstSpeed": "6fps",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "ports": "USB 2.0, HDMI, mic",
-    "dimensions": "112.5 x 64.4 x 41.0 mm"
+    "dimensions": "112.5 x 64.4 x 41.0 mm",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "fujifilm-finepix-xp80",
@@ -66613,7 +66668,8 @@
     "isoRange": "100-3200 (Ext: 6400)",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-xp90",
@@ -66639,7 +66695,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
     "ports": "USB 2.0, HDMI",
-    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp90.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-finepix-xp90.webp",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-xp70",
@@ -66745,7 +66802,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
     "ports": "USB 2.0, HDMI",
-    "dimensions": "122.6 x 86.9 x 116.2 mm"
+    "dimensions": "122.6 x 86.9 x 116.2 mm",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-s9900w",
@@ -66771,7 +66829,8 @@
     "isoRange": "100-12800",
     "burstSpeed": "10fps",
     "cardSlots": "1x SD/SDHC/SDXC + internal memory",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "fujifilm-finepix-s9200",
@@ -67347,7 +67406,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "isoRange": "125-12800 (Ext: 80-25600)",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-lx100-ii",
@@ -67378,7 +67438,8 @@
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
     "afPoints": "49 points",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-l10",
@@ -67585,7 +67646,8 @@
     "processor": "Venus Engine",
     "evfMagnification": "0.7x",
     "releaseMonth": 7,
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "afTargets": "Face"
   },
   {
     "id": "panasonic-lumix-fz2500",
@@ -67615,7 +67677,8 @@
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
     "isoRange": "125-12800 (Ext: 80-25600)",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-fz80",
@@ -67645,7 +67708,8 @@
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
     "evfMagnification": "0.46x",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-fz1000-ii",
@@ -67884,7 +67948,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-zs45.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "afPoints": "21 points"
+    "afPoints": "21 points",
+    "afTargets": "Face"
   },
   {
     "id": "panasonic-lumix-zs50",
@@ -67913,7 +67978,8 @@
     "hasWeatherSeal": false,
     "burstSpeed": "10fps",
     "evfMagnification": "0.46x",
-    "afPoints": "23 points"
+    "afPoints": "23 points",
+    "afTargets": "Face"
   },
   {
     "id": "panasonic-lumix-zs100",
@@ -67943,7 +68009,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-zs100.webp",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs60",
@@ -67972,7 +68039,8 @@
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
     "evfMagnification": "0.46x",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs70",
@@ -68002,7 +68070,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-zs70.webp",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs200",
@@ -68032,7 +68101,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-zs200.webp",
     "hasWeatherSeal": false,
     "processor": "Venus Engine",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "panasonic-lumix-zs80",
@@ -68242,7 +68312,8 @@
     "ports": "USB 2.0, HDMI",
     "image_url": "/images/products/panasonic/panasonic-lumix-ts7.webp",
     "afPoints": "49 points",
-    "evfMagnification": "0.45x"
+    "evfMagnification": "0.45x",
+    "afTargets": "Face"
   },
   {
     "id": "panasonic-lumix-sz7",
@@ -68441,7 +68512,8 @@
     "burstSpeed": "1.4fps",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "panasonic-lumix-fh8",
@@ -68497,7 +68569,8 @@
     "burstSpeed": "10fps (H) / 50fps (SH)",
     "afPoints": "23 points",
     "ports": "micro USB 2.0, 3.5mm headset (earphone/mic)",
-    "image_url": "/images/products/panasonic/panasonic-lumix-cm10.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-cm10.webp",
+    "afTargets": "Face"
   },
   {
     "id": "ricoh-gr",
@@ -68552,7 +68625,8 @@
     "image_url": "/images/products/ricoh/ricoh-gr-ii.webp",
     "hasIBIS": false,
     "hasWeatherSeal": false,
-    "processor": "GR Engine V"
+    "processor": "GR Engine V",
+    "afTargets": "Face"
   },
   {
     "id": "ricoh-gr-iii",
@@ -68972,7 +69046,8 @@
     "weightGrams": 236,
     "evfMagnification": "None",
     "image_url": "/images/products/ricoh/ricoh-wg-5-gps.webp",
-    "burstSpeed": "1.5fps / 14fps (4M)"
+    "burstSpeed": "1.5fps / 14fps (4M)",
+    "afTargets": "Face"
   },
   {
     "id": "ricoh-wg-40",
@@ -69761,7 +69836,8 @@
     "image_url": "/images/products/leica/leica-d-lux-7.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "0.7x",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "leica-d-lux-8",
@@ -69821,7 +69897,8 @@
     "image_url": "/images/products/leica/leica-c-lux.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "0.53x",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "afTargets": "Face"
   },
   {
     "id": "leica-c-typ-112",
@@ -69980,7 +70057,8 @@
     "cardSlots": "None",
     "weightGrams": 800,
     "image_url": "/images/products/zeiss/zeiss-zx1.webp",
-    "evfMagnification": "0.74x"
+    "evfMagnification": "0.74x",
+    "afTargets": "Face"
   },
   {
     "id": "sigma-dp1-merrill",
@@ -70082,7 +70160,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "processor": "TRUE III",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "sigma-dp1-quattro",
@@ -70596,7 +70675,8 @@
     "dimensions": "125.9 x 89.0 x 113.6 mm",
     "ports": "micro USB (AV out), micro HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "25 areas"
+    "afPoints": "25 areas",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-az527",
@@ -70616,7 +70696,8 @@
     "burstSpeed": "6fps",
     "batterySpec": "LB-060 (240 shots CIPA)",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
-    "dimensions": "121.3 x 85.8 x 97.5 mm"
+    "dimensions": "121.3 x 85.8 x 97.5 mm",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-az252",
@@ -70639,7 +70720,8 @@
     "cardSlots": "1x SD/SDHC",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
     "dimensions": "113.6 x 77.7 x 69.7 mm",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-az422",
@@ -70663,7 +70745,8 @@
     "isoRange": "80-3200",
     "afPoints": "9 points",
     "weightGrams": 444,
-    "cardSlots": "1x SD/SDHC"
+    "cardSlots": "1x SD/SDHC",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-fz43",
@@ -70686,7 +70769,8 @@
     "dimensions": "93.0 x 60.2 x 28.7 mm",
     "isoRange": "80-1600",
     "ports": "micro USB (AV out)",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-fz53",
@@ -70709,7 +70793,8 @@
     "isoRange": "80-1600",
     "ports": "micro USB (AV out)",
     "cardSlots": "1x SD/SDHC",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-fz152",
@@ -70732,7 +70817,8 @@
     "dimensions": "108.4 x 69.9 x 33.5 mm",
     "isoRange": "80-1600",
     "ports": "micro USB (AV out)",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-sl5-smart-lens",
@@ -70800,7 +70886,8 @@
     "afPoints": "9 points",
     "weightGrams": 202,
     "cardSlots": "1x SD/SDHC",
-    "ports": "Micro-USB (USB 2.0), AV-OUT"
+    "ports": "Micro-USB (USB 2.0), AV-OUT",
+    "afTargets": "Face"
   },
   {
     "id": "kodak-pixpro-orbit360-4k",
@@ -71028,7 +71115,8 @@
     "afPoints": "25 points",
     "ports": "micro USB (USB 2.0), micro HDMI",
     "logSupport": "S-Log2",
-    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iv.webp"
+    "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx100-iv.webp",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-v",
@@ -71060,7 +71148,8 @@
     "sensorType": "Exmor RS CMOS",
     "afPoints": "315 phase-detect points",
     "ports": "micro USB (USB 2.0), micro HDMI",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-va",
@@ -71091,7 +71180,8 @@
     "afPoints": "315 phase-detect points",
     "ports": "micro USB (USB 2.0), micro HDMI",
     "logSupport": "S-Log2",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vi",
@@ -71123,7 +71213,8 @@
     "processor": "BIONZ X",
     "sensorType": "Exmor RS CMOS",
     "afPoints": "315 phase-detect points",
-    "logSupport": "S-Log2, S-Log3, HLG"
+    "logSupport": "S-Log2, S-Log3, HLG",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx100-vii",
@@ -71220,7 +71311,8 @@
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx10-ii.webp",
     "afPoints": "25 points",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iii",
@@ -71254,7 +71346,8 @@
     "afPoints": "25 points",
     "logSupport": "S-Log2",
     "retailPrice": 43980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx10-iv",
@@ -71413,7 +71506,8 @@
     "ports": "USB 2.0, HDMI, microphone",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo",
     "releaseMonth": 10,
-    "afPoints": "399 phase-detect points / 25 contrast-detect points"
+    "afPoints": "399 phase-detect points / 25 contrast-detect points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1r-iii",
@@ -71572,7 +71666,8 @@
     "cardSlots": "1x microSD/microSDHC/microSDXC",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-rx0.webp",
     "afPoints": "25 points",
-    "logSupport": "S-Log2"
+    "logSupport": "S-Log2",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-rx0-ii",
@@ -71894,7 +71989,8 @@
     "isoRange": "80-12800",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-hx99",
@@ -71925,7 +72021,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
     "launchPrice": 14480,
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-hx60v",
@@ -72205,7 +72302,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx500.webp",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-wx800",
@@ -72234,7 +72332,8 @@
     "cardSlots": "1x microSD / Memory Stick Micro",
     "ports": "micro USB (Multi Terminal), micro HDMI",
     "afPoints": "25 points",
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "sony-cyber-shot-dsc-w730",
@@ -72425,7 +72524,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC / Memory Stick PRO Duo",
     "hasWeatherSeal": false,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "afTargets": "Face"
   },
   {
     "id": "sony-hdr-as15",
@@ -74125,7 +74225,8 @@
     "isoRange": "125-12800 (Ext: 125-25600)",
     "ports": "USB 2.0, HDMI, mic, headphone",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g5-x",
@@ -74154,7 +74255,8 @@
     "isoRange": "125-12800",
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g9-x",
@@ -74184,7 +74286,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afPoints": "31 points"
+    "afPoints": "31 points",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g7-x-mark-ii",
@@ -74214,7 +74317,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "afPoints": "31 points"
+    "afPoints": "31 points",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g9-x-mark-ii",
@@ -74243,7 +74347,8 @@
     "isoRange": "125-6400 (Ext: 125-12800)",
     "ports": "USB 2.0, HDMI",
     "sensorType": "BSI-CMOS",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g1-x-mark-iii",
@@ -74272,7 +74377,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-g5-x-mark-ii",
@@ -75048,7 +75154,8 @@
     "burstSpeed": "2.5fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx410-is",
@@ -75076,7 +75183,8 @@
     "isoRange": "100-1600",
     "ports": "USB 2.0",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-185",
@@ -75104,7 +75212,8 @@
     "batterySpec": "NB-11LH (220 shots CIPA)",
     "image_url": "/images/products/canon/canon-ixus-185.webp",
     "afPoints": "9 points",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-ixus-190",
@@ -75132,7 +75241,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0",
     "batterySpec": "NB-11LH (190 shots CIPA)",
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-sx430-is",
@@ -75158,7 +75268,8 @@
     "ports": "Mini-USB, AV out",
     "batterySpec": "NB-11LH (195 shots CIPA)",
     "hasIBIS": false,
-    "sensorFormat": "1/2.3-inch"
+    "sensorFormat": "1/2.3-inch",
+    "afTargets": "Face"
   },
   {
     "id": "canon-powershot-v1",
