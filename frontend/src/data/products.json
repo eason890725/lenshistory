@@ -4653,7 +4653,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/14-24mm-f2-8-dg-dn-art.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 43500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -4702,7 +4704,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/24-70mm-f2-8-dg-dn-art-ii.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 39880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -4752,7 +4756,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/28-70mm-f2-8-dg-dn-contemporary.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 21500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -4850,7 +4856,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/50mm-f1-4-dg-dn-art.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 27800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -4899,7 +4907,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/85mm-f1-4-dg-dn-art.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 22800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -4948,7 +4958,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/105mm-f2-8-dg-dn-macro-art.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 23900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -5928,7 +5940,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/10mm-f2-8-c-d-dreamer.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 28000,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -5985,7 +5999,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/12mm-f2-8-lite-zero-d-ff.webp",
     "coatings": "Frog Eye Coating (FEC)",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 24600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -6034,7 +6050,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/14mm-f1-4-dg-dn-art.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 47900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -6240,7 +6258,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/15mm-f1-4-dg-dn-fisheye-art.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 64880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -6390,7 +6410,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/17mm-f4-0-dg-dn-c.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 20680,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -6433,7 +6455,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/18mm-f2-8-af.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 10485,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Zeiss",
@@ -6478,7 +6502,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/18mm-f2-8.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 35900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -6527,7 +6553,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/20mm-f1-4-dg-dn-art.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 28900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -6722,7 +6750,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/20mm-f2-0-dg-dn-c.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 21280,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tokina",
@@ -6912,7 +6942,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/24mm-f1-4-dg-dn-art.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 24900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -7059,7 +7091,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/24mm-f1-8-af.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 13480,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -7145,7 +7179,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/24mm-t1-9-v-af.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 17880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -7194,7 +7230,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/24mm-f2-0-dg-dn-c.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 19980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -7727,7 +7765,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/35mm-f1-2-dg-dn-art-ii.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 49880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -7862,7 +7902,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/35mm-f1-4-af-ii.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 16480,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -7905,7 +7947,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/35mm-f1-4-af-p.webp",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 17950,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -8191,7 +8235,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/35mm-f2-0-dg-dn-c.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 19980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Yongnuo",
@@ -8463,7 +8509,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/40mm-f2-0-cf.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 33500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -8607,7 +8655,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/45mm-f1-8-af.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 10990,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -8656,7 +8706,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/45mm-f2-8-dg-dn-c.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 17900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -8695,7 +8747,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/45mm-t1-9-v-af.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 17880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -8744,7 +8798,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/50mm-f1-2-dg-dn-art.webp",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 46980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -8829,7 +8885,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/50mm-f1-4-af-ii.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 18480,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -9217,7 +9275,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/50mm-f2-0-dg-dn-c.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 21680,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Viltrox",
@@ -9270,7 +9330,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/50mm-f2-0-af-air.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 4990,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -9412,7 +9474,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/65mm-f2-0-dg-dn-c.webp",
     "motorType": "Stepping Motor",
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "retailPrice": 21280,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -9513,7 +9577,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/75mm-f1-8-af.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 10980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sirui",
@@ -9604,7 +9670,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/75mm-t1-9-v-af.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 17880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Meike",
@@ -9752,7 +9820,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/85mm-f1-4-af-ii.webp",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 19900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -10235,7 +10305,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/85mm-f2-0-evo.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 6950,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -10710,7 +10782,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/135mm-f1-4-dg-dn-art.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 64900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Samyang",
@@ -10753,7 +10827,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/135mm-f1-8-af.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 23500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -10950,7 +11026,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/135mm-f2-8-apo.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 40700,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -11021,7 +11099,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/180mm-f4-5-ca-dreamer-macro.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 17500,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Laowa",
@@ -11073,7 +11153,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/laowa/200mm-f2-0-c-dreamer.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 69900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -11265,7 +11347,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/500mm-f5-6-dg-dn-os-sport.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 97880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11407,7 +11491,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/14-24mm-f2-8-af.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 42900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -11503,7 +11589,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/16-28mm-f2-8-dg-dn-c.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 27800,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -11973,7 +12061,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/20-200mm-f3-5-6-3-dg-c.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 28180,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -12386,7 +12476,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/28-45mm-f1-8-dg-dn-art.webp",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 45880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -12616,7 +12708,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/28-105mm-f2-8-dg-dn-art.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 52600,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -12849,7 +12943,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/samyang/35-150mm-f2-0-2-8-af.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 36980,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Tamron",
@@ -13236,7 +13332,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/70-200mm-f2-8-dg-dn-sport.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "retailPrice": 49880,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sony",
@@ -13618,7 +13716,9 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/sigma/150-600mm-f5-6-3-dg-dn-os.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 39900,
+    "retailPriceDate": "2026-10"
   },
   {
     "brand": "Sigma",
@@ -23047,7 +23147,9 @@
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 226000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-sl3-s",
@@ -23088,7 +23190,9 @@
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 168500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-sl3-p",
@@ -23129,7 +23233,9 @@
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
     "releaseMonth": 6,
-    "launchPrice": 196620
+    "launchPrice": 196620,
+    "retailPrice": 196620,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-q-typ-116",
@@ -23282,7 +23388,9 @@
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
     "releaseMonth": 5,
-    "fixedLens": "28mm F1.7 (Summilux ASPH.)"
+    "fixedLens": "28mm F1.7 (Summilux ASPH.)",
+    "retailPrice": 239400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-q3-43",
@@ -23316,7 +23424,9 @@
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "L-Log, HLG",
     "releaseMonth": 9,
-    "fixedLens": "43mm F2 (APO-Summicron ASPH.)"
+    "fixedLens": "43mm F2 (APO-Summicron ASPH.)",
+    "retailPrice": 250000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-q3-monochrom",
@@ -23805,7 +23915,9 @@
     "dimensions": "139 x 80 x 38.5 mm",
     "lcdSpec": "2.95-inch 2.33M-dot fixed touch",
     "releaseMonth": 4,
-    "evfMagnification": "0.73x"
+    "evfMagnification": "0.73x",
+    "retailPrice": 339000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-m11-p",
@@ -23839,7 +23951,9 @@
     "launchPrice": 290000,
     "dimensions": "139 x 80 x 38.5 mm",
     "releaseMonth": 10,
-    "evfMagnification": "0.73x"
+    "evfMagnification": "0.73x",
+    "retailPrice": 298100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-m-ev1",
@@ -23874,7 +23988,9 @@
     "image_url": "/images/products/leica/leica-m-ev1.webp",
     "launchPrice": 259000,
     "releaseMonth": 10,
-    "dimensions": "138.8 x 80.3 x 38.45 mm"
+    "dimensions": "138.8 x 80.3 x 38.45 mm",
+    "retailPrice": 259000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-cl",
@@ -24181,7 +24297,9 @@
     "minAperture": "22",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-summicron-sl-75mm-f2-asph-black",
     "image_url": "/images/products/leica/leica-apo-summicron-sl-75-f2-asph.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 171900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-apo-summicron-sl-90-f2-asph",
@@ -24215,7 +24333,9 @@
     "dimensions": "Ø73 x 102 mm",
     "minAperture": "22",
     "image_url": "/images/products/leica/leica-apo-summicron-sl-90-f2-asph.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 186430,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-apo-summicron-sl-35-f2-asph",
@@ -24250,7 +24370,9 @@
     "dimensions": "Ø73 x 102 mm",
     "minAperture": "22",
     "image_url": "/images/products/leica/leica-apo-summicron-sl-35-f2-asph.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 171710,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-apo-summicron-sl-50-f2-asph",
@@ -24285,7 +24407,9 @@
     "dimensions": "Ø73 x 102 mm",
     "minAperture": "22",
     "image_url": "/images/products/leica/leica-apo-summicron-sl-50-f2-asph.webp",
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "retailPrice": 170060,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-apo-summicron-sl-28-f2-asph",
@@ -24319,7 +24443,9 @@
     "dimensions": "Ø73 x 102 mm",
     "minAperture": "22",
     "image_url": "/images/products/leica/leica-apo-summicron-sl-28-f2-asph.webp",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 174790,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-vario-elmarit-sl-24-70-f2-8-asph",
@@ -24354,7 +24480,9 @@
     "minAperture": "22",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmarit-sl-24-70-f2-8-asph-black-finish",
     "image_url": "/images/products/leica/leica-vario-elmarit-sl-24-70-f2-8-asph.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 93900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-super-apo-summicron-sl-21-f2-asph",
@@ -24386,7 +24514,9 @@
     "launchPrice": 163000,
     "minAperture": "22",
     "image_url": "/images/products/leica/leica-super-apo-summicron-sl-21-f2-asph.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 168800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-vario-elmar-sl-100-400-f5-6-3",
@@ -24421,7 +24551,9 @@
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/vario-elmar-sl-100-400-f5-6-3",
     "image_url": "/images/products/leica/leica-vario-elmar-sl-100-400-f5-6-3.webp",
     "launchPrice": 68800,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "retailPrice": 74700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-super-vario-elmarit-sl-14-24-f2-8-asph",
@@ -24455,7 +24587,9 @@
     "coatings": "Aqua-Dura",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/leica-super-vario-elmarit-sl-14-24-f28-asph-black-anodized-finish",
     "image_url": "/images/products/leica/leica-super-vario-elmarit-sl-14-24-f2-8-asph.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 89230,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-summicron-sl-35-f2-asph",
@@ -24488,7 +24622,9 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/leica/leica-summicron-sl-35-f2-asph.webp",
     "launchPrice": 70800,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 77100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-vario-elmarit-sl-70-200-f2-8-asph",
@@ -24592,7 +24728,9 @@
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-macro-elmarit-sl-100mm-f2-8-black",
     "image_url": "/images/products/leica/leica-apo-macro-elmarit-sl-100-f2-8.webp",
     "releaseMonth": 6,
-    "launchPrice": 89082
+    "launchPrice": 89082,
+    "retailPrice": 89082,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-summicron-tl-23-f2-asph",
@@ -24914,7 +25052,9 @@
     "coatings": "Aqua-Dura",
     "image_url": "/images/products/leica/leica-summicron-sl-50-f2-asph.webp",
     "launchPrice": 61000,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "retailPrice": 65400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-vario-elmarit-sl-28-70-f2-8-asph",
@@ -26043,7 +26183,9 @@
     "hasApertureRing": false,
     "hasWeatherSeal": false,
     "hasCustomButton": false,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-30mm-f1-4-dc-dn-contemporary",
@@ -26383,7 +26525,9 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/sigma/sigma-17-40mm-f1-8-dc-art.webp",
     "launchPrice": 28980,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 28980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sigma-50-120mm-f2-8-dc-os-contemporary",
@@ -29922,7 +30066,9 @@
     "minAperture": "16",
     "maxMagnification": "0.2x",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 6950,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-55mm-f1-8-evo",
@@ -29960,7 +30106,9 @@
     "hasApertureRing": true,
     "hasCustomButton": true,
     "launchPrice": 8690,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 8690,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "samyang-af-60-180mm-f2-8-fe",
@@ -30679,7 +30827,9 @@
     "specialElements": "1 ED, 1 HR",
     "image_url": "/images/products/laowa/laowa-acris-35mm-f2-8-1x-af-macro-apo.webp",
     "launchPrice": 15800,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-17mm-f4-zero-d-tilt-shift",
@@ -30977,7 +31127,9 @@
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-aksen-45mm-f2-8-1-5x-ultra-macro-apo.webp",
     "launchPrice": 24900,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 24900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-6mm-f2-zero-d-mft",
@@ -31143,7 +31295,9 @@
     "hasCustomButton": false,
     "image_url": "/images/products/laowa/laowa-10mm-f4-cookie.webp",
     "launchPrice": 10800,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "retailPrice": 10500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-argus-45mm-f0-95-ff",
@@ -31736,7 +31890,9 @@
     "hasApertureRing": true,
     "hasCustomButton": true,
     "launchPrice": 9150,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "retailPrice": 9150,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-75mm-f1-8-evo",
@@ -31780,7 +31936,9 @@
     "hasApertureRing": true,
     "hasCustomButton": true,
     "launchPrice": 7680,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 7680,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "viltrox-af-90mm-f2-2-evo",
@@ -31824,7 +31982,9 @@
     "hasApertureRing": true,
     "hasCustomButton": true,
     "launchPrice": 8600,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "retailPrice": 8600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-4mm-f2-8-fisheye-mft",
@@ -35824,7 +35984,9 @@
     "launchPrice": 14100,
     "releaseMonth": 5,
     "specialElements": "4 ED, 1 Ultra-High Refractive",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 14100,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo",
@@ -35891,7 +36053,9 @@
     "launchPrice": 24900,
     "releaseMonth": 7,
     "filterSizeMm": 0,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 24900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "om-system-pen",
@@ -42090,7 +42254,9 @@
     "image_url": "/images/products/leica/leica-summaron-m-28-f5-6.webp",
     "releaseMonth": 10,
     "hasCustomButton": false,
-    "minAperture": "22"
+    "minAperture": "22",
+    "retailPrice": 108400,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-noctilux-m-75-f1-25-asph",
@@ -42229,7 +42395,9 @@
     "releaseMonth": 3,
     "hasCustomButton": false,
     "minAperture": "16",
-    "maxMagnification": "0.18x"
+    "maxMagnification": "0.18x",
+    "retailPrice": 290000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-noctilux-m-50-f1-2-asph",
@@ -42290,7 +42458,9 @@
     "weightGrams": 338,
     "launchPrice": 185600,
     "image_url": "/images/products/leica/leica-summilux-m-35-f1-4-asph.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 205600,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-summilux-m-35-f1-4",
@@ -42358,7 +42528,9 @@
     "hasApertureRing": true,
     "image_url": "/images/products/leica/leica-summilux-m-50-f1-4-asph.webp",
     "releaseMonth": 4,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 163000,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-summicron-m-28-f2-asph",
@@ -42389,7 +42561,9 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/leica/leica-summicron-m-28-f2-asph.webp",
     "releaseMonth": 10,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 178200,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-summilux-m-50-f1-4",
@@ -42422,7 +42596,9 @@
     "image_url": "/images/products/leica/leica-summilux-m-50-f1-4.webp",
     "releaseMonth": 2,
     "minAperture": "16",
-    "maxMagnification": "0.08x"
+    "maxMagnification": "0.08x",
+    "retailPrice": 135500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "canon-eos-c70",
@@ -47672,7 +47848,9 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "dimensions": "Ø70 x 90.5 mm",
-    "image_url": "/images/products/ttartisans/ttartisans-af-85mm-f1-8-neo.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-af-85mm-f1-8-neo.webp",
+    "retailPrice": 2850,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "ttartisans-af-24mm-f3-8-mini",
@@ -48163,7 +48341,9 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "image_url": "/images/products/ttartisans/ttartisans-m-100mm-f2-8-bubble-bokeh.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 5800,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "ttartisans-500mm-f6-3",
@@ -58130,7 +58310,9 @@
     "cardSlots": "1x microSD (up to 1TB)",
     "isoRange": "100-6400",
     "logSupport": "I-Log",
-    "image_url": "/images/products/insta360/insta360-x6.webp"
+    "image_url": "/images/products/insta360/insta360-x6.webp",
+    "retailPrice": 21700,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "insta360-luna-pro",
@@ -58175,7 +58357,9 @@
     "batterySpec": "1550mAh (up to 4 h)",
     "cardSlots": "1x microSD (up to 1TB)",
     "launchPrice": 22990,
-    "image_url": "/images/products/insta360/insta360-luna-ultra.webp"
+    "image_url": "/images/products/insta360/insta360-luna-ultra.webp",
+    "retailPrice": 22990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "insta360-x4-air",
@@ -58241,7 +58425,9 @@
     "lcdSpec": "2.5-inch 440x696 LCD",
     "isoRange": "100-6400",
     "image_url": "/images/products/insta360/insta360-x5.webp",
-    "launchPrice": 19490
+    "launchPrice": 19490,
+    "retailPrice": 14900,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "insta360-ace-pro-2",
@@ -58262,7 +58448,9 @@
     "ports": "USB-C",
     "cardSlots": "1x microSD (up to 1TB)",
     "dimensions": "71.9 x 52.2 x 38 mm",
-    "image_url": "/images/products/insta360/insta360-ace-pro-2.webp"
+    "image_url": "/images/products/insta360/insta360-ace-pro-2.webp",
+    "retailPrice": 11990,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "insta360-x4",
@@ -58458,7 +58646,9 @@
     "batterySpec": "Enduro 1900mAh",
     "hasWeatherSeal": true,
     "launchPrice": 15300,
-    "image_url": "/images/products/gopro/gopro-hero13-black.webp"
+    "image_url": "/images/products/gopro/gopro-hero13-black.webp",
+    "retailPrice": 12290,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "gopro-hero-2024",
@@ -64807,8 +64997,7 @@
     "processor": "DIGIC 8",
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI, mic",
-    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "ibisRating": "None"
+    "cardSlots": "1x SD/SDHC/SDXC (UHS-I)"
   },
   {
     "id": "canon-powershot-v10",
@@ -69340,7 +69529,9 @@
     "ports": "USB 3.0, HDMI",
     "cardSlots": "1x SD (UHS-II)",
     "afPoints": "49 points",
-    "batterySpec": "BP-DC15"
+    "batterySpec": "BP-DC15",
+    "retailPrice": 58500,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "leica-c-lux",
@@ -70854,7 +71045,9 @@
     "cardSlots": "1x SD (UHS-I/II)",
     "isoRange": "100-12800 (Ext: 64-12800)",
     "processor": "BIONZ XR",
-    "sensorType": "Stacked CMOS"
+    "sensorType": "Stacked CMOS",
+    "retailPrice": 65980,
+    "retailPriceDate": "2026-10"
   },
   {
     "id": "sony-cyber-shot-dsc-rx1",
