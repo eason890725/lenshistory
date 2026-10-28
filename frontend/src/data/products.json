@@ -57727,7 +57727,8 @@
     "videoResolution": "Full HD 30p",
     "batterySpec": "NP-130 (470 shots)",
     "dimensions": "107.5 x 61.5 x 36.7 mm",
-    "weightGrams": 255
+    "weightGrams": 255,
+    "officialUrl": "http://arch.casio.jp/dc/products/ex_fc300s/"
   },
   {
     "id": "casio-exilim-ex-zr700",
@@ -57807,7 +57808,8 @@
     "processor": "Exilim Engine HS",
     "isoRange": "80-3200 (Ext: 12800)",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "ports": "USB 2.0, HDMI"
+    "ports": "USB 2.0, HDMI",
+    "officialUrl": "http://arch.casio.jp/dc/products/ex_zr300/"
   },
   {
     "id": "casio-exilim-ex-zr20",
