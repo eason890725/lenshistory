@@ -57707,7 +57707,8 @@
     "evfMagnification": "None",
     "processor": "EXILIM Engine HS 3",
     "isoRange": "80-3200",
-    "cardSlots": "1x SD/SDHC/SDXC"
+    "cardSlots": "1x SD/SDHC/SDXC",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr1000/"
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -57752,7 +57753,8 @@
     "isoRange": "80-3200",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr700/"
   },
   {
     "id": "casio-exilim-ex-zr400",
@@ -57778,7 +57780,8 @@
     "isoRange": "80-3200 (Ext: 12800)",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "sensorType": "BSI CMOS"
+    "sensorType": "BSI CMOS",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr400/"
   },
   {
     "id": "casio-exilim-ex-zr300",
@@ -57824,7 +57827,8 @@
     "batterySpec": "NP-110 (335 shots)",
     "dimensions": "99.9 x 59 x 25.7 mm",
     "weightGrams": 166,
-    "image_url": "/images/products/casio/casio-exilim-ex-zr20.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-zr20.webp",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr20/"
   },
   {
     "id": "casio-exilim-ex-h50",
@@ -57844,7 +57848,8 @@
     "batterySpec": "NP-80 (145 shots)",
     "dimensions": "106.9 x 68.6 x 39 mm",
     "weightGrams": 238,
-    "image_url": "/images/products/casio/casio-exilim-ex-h50.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-h50.webp",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_h50/"
   },
   {
     "id": "casio-exilim-ex-tr150",
@@ -57862,7 +57867,8 @@
     "batterySpec": "Built-in Li-ion (220 shots)",
     "dimensions": "122.8 x 59 x 14.9 mm",
     "weightGrams": 157,
-    "launchPrice": 10990
+    "launchPrice": 10990,
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr150/"
   },
   {
     "id": "casio-exilim-ex-tr15",
@@ -57877,7 +57883,8 @@
     "sensorType": "CMOS",
     "cardSlots": "1x microSD",
     "launchPrice": 23990,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr15/"
   },
   {
     "id": "casio-exilim-ex-je10",
@@ -57898,7 +57905,8 @@
     "weightGrams": 127,
     "isoRange": "64-1600",
     "cardSlots": "1x microSD/SDHC/SDXC",
-    "image_url": "/images/products/casio/casio-exilim-ex-je10.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-je10.webp",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_je10/"
   },
   {
     "id": "casio-exilim-ex-n10",
@@ -57919,7 +57927,8 @@
     "weightGrams": 132,
     "isoRange": "64-1600",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/casio/casio-exilim-ex-n10.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-n10.webp",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_n10/"
   },
   {
     "id": "casio-exilim-ex-n1",
@@ -57940,7 +57949,8 @@
     "weightGrams": 128,
     "isoRange": "64-1600",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "image_url": "/images/products/casio/casio-exilim-ex-n1.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-n1.webp",
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_n1/"
   },
   {
     "id": "dji-osmo-pocket-4",
