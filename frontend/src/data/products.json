@@ -47926,7 +47926,8 @@
     "filterSizeMm": 27,
     "opticalDesign": "9 elements in 6 groups",
     "specialElements": "1 LD, 3 High Index, 2 Aspherical",
-    "motorType": "STM lead screw type stepping motor"
+    "motorType": "STM lead screw type stepping motor",
+    "releaseMonth": 3
   },
   {
     "id": "ttartisans-aps-c-35mm-f1-4",
