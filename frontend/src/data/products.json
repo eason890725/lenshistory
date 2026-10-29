@@ -39171,8 +39171,8 @@
     "launchPrice": 54900,
     "releaseMonth": 11,
     "image_url": "/images/products/panasonic/panasonic-lumix-g9.webp",
-    "afTargets": "Face/Eye",
-    "videoColorDepth": "8-bit 4:2:0",
+    "afTargets": "Human, Animal",
+    "videoColorDepth": "8-bit 4:2:0 / 10-bit 4:2:2 (firmware 2.0)",
     "hasWeatherSeal": true,
     "processor": "Venus Engine 10",
     "logSupport": "V-Log L, HLG"
@@ -39213,7 +39213,7 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-gh5s.webp",
     "releaseMonth": 1,
     "processor": "Venus Engine 10",
-    "afTargets": "Face/Eye",
+    "afTargets": "Human, Animal",
     "hasWeatherSeal": true,
     "hasIBIS": false
   },
