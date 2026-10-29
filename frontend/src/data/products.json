@@ -67811,7 +67811,8 @@
     "processor": "Venus Engine",
     "isoRange": "125-12800 (Ext: 80-25600)",
     "afPoints": "49 points",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "videoColorDepth": "8-bit 4:2:0 (internal) / 10-bit 4:2:2 (HDMI)"
   },
   {
     "id": "panasonic-lumix-fz80",
