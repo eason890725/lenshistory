@@ -111,7 +111,8 @@
     "afTargets": "Human, Animal, Bird",
     "releaseMonth": 1,
     "retailPrice": 159980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -170,7 +171,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 11,
     "retailPrice": 184980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -5 to 20"
   },
   {
     "brand": "Sony",
@@ -226,7 +228,8 @@
     "afTargets": "Human, Animal",
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, LAN, flash sync",
     "releaseMonth": 10,
-    "logSupport": "None"
+    "logSupport": "None",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -279,7 +282,8 @@
     "releaseMonth": 4,
     "processor": "BIONZ X",
     "hasWeatherSeal": true,
-    "logSupport": "None"
+    "logSupport": "None",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -396,7 +400,8 @@
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
     "releaseMonth": 7,
     "retailPrice": 79980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -452,7 +457,8 @@
     "launchPrice": 99980,
     "afTargets": "Human, Animal",
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -508,7 +514,8 @@
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
     "releaseMonth": 6,
     "processor": "BIONZ X",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afRange": "EV -2 to 20"
   },
   {
     "brand": "Sony",
@@ -559,7 +566,8 @@
     "image_url": "/images/products/sony/sony-a7r.webp",
     "launchPrice": 64980,
     "afTargets": "Human",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "afRange": "EV 0 to 20"
   },
   {
     "brand": "Sony",
@@ -617,7 +625,8 @@
     "afTargets": "Human, Animal",
     "releaseMonth": 7,
     "retailPrice": 94980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 20"
   },
   {
     "brand": "Sony",
@@ -673,7 +682,8 @@
     "image_url": "/images/products/sony/sony-a7s-ii.webp",
     "launchPrice": 89980,
     "afTargets": "Human",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -724,7 +734,8 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sony/sony-a7s.webp",
     "afTargets": "Human",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -770,7 +781,8 @@
     "batterySpec": "NP-FZ100 (580 shots CIPA)",
     "ports": "USB-C (10Gbps), micro USB, HDMI Type A, mic, headphone",
     "hasWeatherSeal": true,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -827,7 +839,8 @@
     "afTargets": "Human, Animal",
     "cardSlots": "1x SD (UHS-II) + 1x SD (UHS-I) / Memory Stick PRO Duo",
     "releaseMonth": 2,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -934,7 +947,8 @@
     "image_url": "/images/products/sony/sony-a7.webp",
     "launchPrice": 44980,
     "afTargets": "Human",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "afRange": "EV 0 to 20"
   },
   {
     "brand": "Sony",
@@ -989,7 +1003,8 @@
     "image_url": "/images/products/sony/sony-a7c-r.webp",
     "releaseMonth": 8,
     "retailPrice": 89980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -1108,7 +1123,8 @@
     "afTargets": "Human, Animal",
     "releaseMonth": 9,
     "retailPrice": 46980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Sony",
@@ -1159,7 +1175,8 @@
     "releaseMonth": 3,
     "evfMagnification": "None",
     "retailPrice": 64980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 20"
   },
   {
     "brand": "Sony",
@@ -1212,7 +1229,8 @@
     "image_url": "/images/products/sony/sony-a6700.webp",
     "releaseMonth": 7,
     "retailPrice": 41980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -1265,7 +1283,8 @@
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
     "releaseMonth": 8,
     "retailPrice": 34980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -2 to 20"
   },
   {
     "brand": "Sony",
@@ -1368,7 +1387,8 @@
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
     "releaseMonth": 1,
     "retailPrice": 26980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -2 to 20"
   },
   {
     "brand": "Sony",
@@ -1468,7 +1488,8 @@
     "afTargets": "Human, Animal",
     "cardSlots": "1x SD (UHS-I) / Memory Stick PRO Duo",
     "releaseMonth": 8,
-    "logSupport": "None"
+    "logSupport": "None",
+    "afRange": "EV -2 to 20"
   },
   {
     "brand": "Sony",
@@ -1517,7 +1538,8 @@
     "launchPrice": 21980,
     "afTargets": "Human",
     "cardSlots": "1x SD / Memory Stick PRO Duo",
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "afRange": "EV 0 to 20"
   },
   {
     "brand": "Sony",
@@ -1573,7 +1595,8 @@
     "releaseMonth": 7,
     "evfMagnification": "None",
     "retailPrice": 29980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -1623,7 +1646,8 @@
     "releaseMonth": 7,
     "evfMagnification": "None",
     "retailPrice": 18980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Fujifilm",
@@ -3058,7 +3082,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 9,
     "retailPrice": 175100,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -7.5 to 20"
   },
   {
     "brand": "Canon",
@@ -3108,7 +3133,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 7,
     "retailPrice": 120000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6.5 to 21"
   },
   {
     "brand": "Canon",
@@ -3154,7 +3180,8 @@
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "ports": "USB-C, micro HDMI (Type D), mic, headphone, remote, PC terminal",
     "hasWeatherSeal": true,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "afRange": "EV -6 to 20"
   },
   {
     "brand": "Canon",
@@ -3203,7 +3230,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 11,
     "retailPrice": 61000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6.5 to 21"
   },
   {
     "brand": "Canon",
@@ -3249,7 +3277,8 @@
     "ports": "USB-C (USB 3.2 Gen 2), HDMI, mic, headphone, remote",
     "hasWeatherSeal": true,
     "logSupport": "Canon Log",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "afRange": "EV -6.5 to 20"
   },
   {
     "brand": "Canon",
@@ -3296,7 +3325,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 2,
     "retailPrice": 44200,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6.5 to 21"
   },
   {
     "brand": "Canon",
@@ -3341,7 +3371,8 @@
     "ports": "USB (USB 3.2 Gen 1), HDMI, mic, headphone, remote",
     "hasWeatherSeal": true,
     "logSupport": "Canon Log",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afRange": "EV -6 to 18"
   },
   {
     "brand": "Canon",
@@ -3385,7 +3416,8 @@
     "ports": "USB-C, mini HDMI (Type C), mic, headphone, remote",
     "hasWeatherSeal": false,
     "releaseMonth": 2,
-    "videoColorDepth": "8-bit 4:2:0 (Internal) / 8-bit 4:2:2 (HDMI)"
+    "videoColorDepth": "8-bit 4:2:0 (Internal) / 8-bit 4:2:2 (HDMI)",
+    "afRange": "EV -5 to 18"
   },
   {
     "brand": "Canon",
@@ -3439,7 +3471,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 5,
     "retailPrice": 40900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -5 to 20"
   },
   {
     "brand": "Canon",
@@ -3492,7 +3525,8 @@
     "hasWeatherSeal": false,
     "releaseMonth": 5,
     "retailPrice": 27000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Canon",
@@ -3543,7 +3577,8 @@
     "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote",
     "releaseMonth": 2,
     "retailPrice": 21900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Canon",
@@ -3592,7 +3627,8 @@
     "ports": "USB-C (USB 2.0), micro HDMI (Type D), mic, E3 remote",
     "evfMagnification": "0.95x",
     "releaseMonth": 5,
-    "videoColorDepth": "8-bit 4:2:0"
+    "videoColorDepth": "8-bit 4:2:0",
+    "afRange": "EV -4 to 20"
   },
   {
     "brand": "Nikon",
@@ -15638,7 +15674,8 @@
     "releaseMonth": 2,
     "evfMagnification": "None",
     "retailPrice": 127980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 20"
   },
   {
     "brand": "Sony",
@@ -15688,7 +15725,8 @@
     "image_url": "/images/products/sony/sony-fx30.webp",
     "releaseMonth": 9,
     "evfMagnification": "None",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afRange": "EV -3 to 20"
   },
   {
     "brand": "Sony",
@@ -18558,7 +18596,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 11,
     "retailPrice": 74900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6.5 to 21"
   },
   {
     "id": "nikon-zr",
@@ -18602,7 +18641,8 @@
     "releaseMonth": 9,
     "retailPrice": 64880,
     "retailPriceDate": "2026-10",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afRange": "EV -10 to 19"
   },
   {
     "brand": "Fujifilm",
@@ -19854,7 +19894,8 @@
     "releaseMonth": 5,
     "evfMagnification": "None",
     "retailPrice": 64900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6.5 to 21"
   },
   {
     "id": "canon-eos-r8-mark-ii",
@@ -19897,7 +19938,8 @@
     "videoColorDepth": "10-bit 4:2:2",
     "releaseMonth": 9,
     "retailPrice": 49900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -7.5 to 21"
   },
   {
     "id": "canon-eos-r50-v",
@@ -19938,7 +19980,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "retailPrice": 19900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -5 to 20"
   },
   {
     "id": "canon-eos-r5-c",
@@ -20019,7 +20062,8 @@
     "afTargets": "Humans (Face/Eye)",
     "hasIBIS": false,
     "videoColorDepth": "8-bit (Internal) / 10-bit (HDMI)",
-    "logSupport": "Canon Log"
+    "logSupport": "Canon Log",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "fujifilm-xf-14mm-f2-8-r",
@@ -25856,7 +25900,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 4,
     "retailPrice": 52900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -10 to 19"
   },
   {
     "id": "nikon-z5-iic",
@@ -25897,7 +25942,8 @@
     "afTargets": "Human, Dog, Cat, Bird, Car, Motorcycle, Bicycle, Train, Airplane, Fish",
     "evfMagnification": "None",
     "retailPrice": 45900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -10 to 19"
   },
   {
     "id": "nikon-z50-ii",
@@ -25939,7 +25985,8 @@
     "launchPrice": 29900,
     "releaseMonth": 11,
     "retailPrice": 29900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -9 to 19"
   },
   {
     "id": "sigma-85mm-f1-2-dg-art",
@@ -26748,7 +26795,8 @@
     "videoColorDepth": "12-bit (CinemaDNG RAW)",
     "releaseMonth": 7,
     "evfMagnification": "None",
-    "logSupport": "None"
+    "logSupport": "None",
+    "afRange": "EV -5 to 18"
   },
   {
     "id": "sigma-fp-l",
@@ -26784,7 +26832,8 @@
     "image_url": "/images/products/sigma/sigma-fp-l.webp",
     "videoColorDepth": "12-bit (CinemaDNG RAW)",
     "releaseMonth": 3,
-    "logSupport": "None"
+    "logSupport": "None",
+    "afRange": "EV -5 to 18"
   },
   {
     "id": "sigma-bf",
@@ -26821,7 +26870,8 @@
     "releaseMonth": 2,
     "retailPrice": 61850,
     "retailPriceDate": "2026-10",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afRange": "EV -5 to 18"
   },
   {
     "id": "tamron-12-20mm-f2-8-a084",
@@ -27171,7 +27221,8 @@
     "launchPrice": 78990,
     "releaseMonth": 12,
     "retailPrice": 78990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "id": "sony-a7r-vi",
@@ -27256,7 +27307,8 @@
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
     "hasWeatherSeal": true,
     "retailPrice": 79980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4 to 20"
   },
   {
     "id": "sony-fx5",
@@ -28170,7 +28222,8 @@
     "afTargets": "Human",
     "hasWeatherSeal": false,
     "launchPrice": 24980,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afRange": "EV 0 to 20"
   },
   {
     "id": "sony-nex-5r",
@@ -28206,7 +28259,9 @@
     "hasWeatherSeal": false,
     "launchPrice": 19980,
     "releaseMonth": 8,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "evfMagnification": "None"
   },
   {
     "id": "sony-nex-f3",
@@ -28241,7 +28296,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-nex-f3.webp",
     "releaseMonth": 5,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "evfMagnification": "None"
   },
   {
     "id": "sony-nex-3n",
@@ -28277,7 +28334,8 @@
     "releaseMonth": 2,
     "evfMagnification": "None",
     "hasIBIS": false,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20"
   },
   {
     "id": "sony-nex-5t",
@@ -28313,7 +28371,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-nex-5t.webp",
     "launchPrice": 17980,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "afRange": "EV 0 to 20",
+    "evfMagnification": "None"
   },
   {
     "id": "sony-a5100",
@@ -28350,7 +28410,8 @@
     "image_url": "/images/products/sony/sony-a5100.webp",
     "launchPrice": 14980,
     "releaseMonth": 8,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afRange": "EV -1 to 20"
   },
   {
     "id": "sony-a5000",
@@ -28386,7 +28447,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/sony/sony-a5000.webp",
     "releaseMonth": 1,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afRange": "EV 0 to 20"
   },
   {
     "id": "sony-ilce-qx1",
@@ -28423,7 +28485,8 @@
     "releaseMonth": 9,
     "launchPrice": 9980,
     "evfMagnification": "None",
-    "lcdSpec": "Segment LCD"
+    "lcdSpec": "Segment LCD",
+    "afRange": "EV -1 to 20"
   },
   {
     "id": "sony-a3000",
@@ -36135,7 +36198,8 @@
     "videoColorDepth": "8-bit",
     "retailPrice": 36990,
     "retailPriceDate": "2026-10",
-    "evfMagnification": "1.23x"
+    "evfMagnification": "1.23x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "om-system-om-1-mark-ii",
@@ -36175,7 +36239,8 @@
     "releaseMonth": 1,
     "processor": "TruePic X",
     "videoColorDepth": "10-bit",
-    "evfMagnification": "1.65x"
+    "evfMagnification": "1.65x",
+    "afRange": "EV -5.5 to 19"
   },
   {
     "id": "om-system-om-1",
@@ -36216,7 +36281,8 @@
     "image_url": "/images/products/om-system/om-system-om-1.webp",
     "processor": "TruePic X",
     "videoColorDepth": "10-bit (H.265)",
-    "evfMagnification": "1.65x"
+    "evfMagnification": "1.65x",
+    "afRange": "EV -5.5 to 19"
   },
   {
     "id": "om-system-om-3",
@@ -36257,7 +36323,8 @@
     "releaseMonth": 2,
     "processor": "TruePic X",
     "launchPrice": 59990,
-    "evfMagnification": "1.37x"
+    "evfMagnification": "1.37x",
+    "afRange": "EV -5.5 to 19"
   },
   {
     "id": "om-system-om-5",
@@ -36298,7 +36365,8 @@
     "launchPrice": 37990,
     "processor": "TruePic IX",
     "videoColorDepth": "8-bit",
-    "evfMagnification": "1.37x"
+    "evfMagnification": "1.37x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "om-system-om-5-mark-ii",
@@ -36340,7 +36408,8 @@
     "videoColorDepth": "8-bit",
     "retailPrice": 36990,
     "retailPriceDate": "2026-10",
-    "evfMagnification": "1.37x"
+    "evfMagnification": "1.37x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "olympus-om-d-e-m1-mark-iii",
@@ -36381,7 +36450,8 @@
     "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-iii.webp",
     "processor": "TruePic IX",
     "videoColorDepth": "8-bit",
-    "evfMagnification": "1.48x"
+    "evfMagnification": "1.48x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "olympus-om-d-e-m1x",
@@ -36422,7 +36492,8 @@
     "processor": "Dual TruePic VIII",
     "videoColorDepth": "8-bit",
     "hasWeatherSeal": true,
-    "evfMagnification": "1.65x"
+    "evfMagnification": "1.65x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "olympus-om-d-e-m5-mark-iii",
@@ -36618,7 +36689,8 @@
     "afTargets": "Human (Face/Eye)",
     "logSupport": "OM-Log400",
     "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-ii.webp",
-    "evfMagnification": "1.48x"
+    "evfMagnification": "1.48x",
+    "afRange": "EV -3.5 to 20"
   },
   {
     "id": "olympus-pen-f",
@@ -39360,7 +39432,8 @@
     "hasWeatherSeal": true,
     "retailPrice": 43980,
     "retailPriceDate": "2026-10",
-    "ibisRating": "6.5 stops"
+    "ibisRating": "6.5 stops",
+    "afRange": "EV -4 to 18"
   },
   {
     "id": "panasonic-lumix-gh6",
@@ -39477,7 +39550,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-g100d.webp",
     "releaseMonth": 12,
     "hasWeatherSeal": false,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afRange": "EV -4 to 20"
   },
   {
     "id": "panasonic-lumix-g97",
@@ -39558,7 +39632,8 @@
     "processor": "Venus Engine",
     "retailPrice": 73900,
     "retailPriceDate": "2026-10",
-    "afPoints": "779 phase-detect points"
+    "afPoints": "779 phase-detect points",
+    "afRange": "EV -4 to 18"
   },
   {
     "id": "panasonic-lumix-g-x-vario-12-35mm-f2-8-asph-power-o-i-s",
@@ -40890,7 +40965,8 @@
     "retailPrice": 43130,
     "retailPriceDate": "2026-10",
     "evfMagnification": "None",
-    "videoColorDepth": "10-bit 4:2:2"
+    "videoColorDepth": "10-bit 4:2:2",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "panasonic-lumix-s1rii",
@@ -40930,7 +41006,8 @@
     "releaseMonth": 2,
     "videoColorDepth": "10-bit",
     "retailPrice": 109900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "panasonic-lumix-s1ii",
@@ -40971,7 +41048,8 @@
     "videoResolution": "6K 30p / 5.9K 60p / 4K 120p / Full HD 240p",
     "videoColorDepth": "10-bit 4:2:2",
     "retailPrice": 98900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "panasonic-lumix-s1iie",
@@ -41012,7 +41090,8 @@
     "releaseMonth": 5,
     "videoColorDepth": "10-bit 4:2:2",
     "retailPrice": 74900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "panasonic-lumix-s-24-105mm-f4-macro-o-i-s",
@@ -41915,7 +41994,8 @@
     ],
     "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp",
     "releaseMonth": 2,
-    "ibisRating": "6 stops"
+    "ibisRating": "6 stops",
+    "afRange": "EV -6 to 18"
   },
   {
     "id": "panasonic-lumix-s1r",
@@ -56669,7 +56749,8 @@
     "evfMagnification": "None",
     "sensorType": "CMOS",
     "image_url": "/images/products/canon/canon-eos-m.webp",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 1 to 18"
   },
   {
     "id": "canon-eos-m2",
@@ -56702,7 +56783,8 @@
     "image_url": "/images/products/canon/canon-eos-m2.webp",
     "sensorType": "CMOS",
     "videoResolution": "Full HD 30p",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 1 to 18"
   },
   {
     "id": "canon-eos-m3",
@@ -56738,7 +56820,8 @@
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 2 to 18"
   },
   {
     "id": "canon-eos-m10",
@@ -56775,7 +56858,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "sensorType": "CMOS",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 1 to 18"
   },
   {
     "id": "canon-eos-m5",
@@ -56813,7 +56897,8 @@
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV -1 to 18"
   },
   {
     "id": "canon-eos-m6",
@@ -56850,7 +56935,8 @@
     "hasWeatherSeal": false,
     "sensorType": "CMOS",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV -1 to 18"
   },
   {
     "id": "canon-eos-m100",
@@ -56887,7 +56973,8 @@
     "evfMagnification": "None",
     "sensorType": "CMOS",
     "afPoints": "49 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV -1 to 18"
   },
   {
     "id": "canon-eos-m50",
@@ -56925,7 +57012,8 @@
     "sensorType": "CMOS",
     "dimensions": "116.3 x 88.1 x 58.7 mm",
     "logSupport": "None",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "afRange": "EV -2 to 18"
   },
   {
     "id": "canon-eos-m6-mark-ii",
@@ -56961,7 +57049,8 @@
     "sensorType": "CMOS",
     "afPoints": "5481 points",
     "dimensions": "119.6 x 70.0 x 49.2 mm",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "afRange": "EV -5 to 18"
   },
   {
     "id": "canon-eos-m200",
@@ -56997,7 +57086,8 @@
     "evfMagnification": "None",
     "sensorType": "CMOS",
     "afPoints": "143 areas",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "afRange": "EV -4 to 18"
   },
   {
     "id": "canon-eos-m50-mark-ii",
@@ -62409,7 +62499,8 @@
     "evfMagnification": "None",
     "afPoints": "25 points",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 1 to 18"
   },
   {
     "id": "pentax-q10",
@@ -62443,7 +62534,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/pentax/pentax-q10.webp",
     "afPoints": "25 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 1 to 18"
   },
   {
     "id": "pentax-01-standard-prime-8-5mm-f1-9",
@@ -62673,7 +62765,8 @@
     "hasIBIS": true,
     "image_url": "/images/products/pentax/pentax-q7.webp",
     "processor": "Q Engine",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 0 to 18"
   },
   {
     "id": "pentax-07-mount-shield-lens-11-5mm-f9",
@@ -62773,7 +62866,8 @@
     "evfMagnification": "None",
     "processor": "Q Engine",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afRange": "EV 0 to 18"
   },
   {
     "id": "yi-m1",
