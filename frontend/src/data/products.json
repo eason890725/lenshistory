@@ -1569,7 +1569,7 @@
       "zv-e10ii"
     ],
     "processor": "BIONZ XR",
-    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afTargets": "Human, Animal, Bird",
     "videoColorDepth": "10-bit 4:2:2",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "mounts": [
@@ -15708,7 +15708,7 @@
       "sonyafx30"
     ],
     "processor": "BIONZ XR",
-    "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
+    "afTargets": "Human, Animal, Bird",
     "videoColorDepth": "10-bit 4:2:2",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "mounts": [
