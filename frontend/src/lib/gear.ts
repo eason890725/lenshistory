@@ -100,7 +100,7 @@ const AF_TARGET_ZH: Record<string, string> = {
   Bird: '鳥類', Birds: '鳥類', Horse: '馬', Horses: '馬', Insect: '昆蟲', Fish: '魚',
   Vehicle: '交通工具', Vehicles: '交通工具', Car: '汽車', Cars: '汽車', Automobile: '汽車',
   Motorcycle: '機車', Motorcycles: '機車', Bicycle: '自行車', Bicycles: '自行車', Bike: '兩輪車',
-  Train: '火車', Trains: '火車', Airplane: '飛機', Airplanes: '飛機', Plane: '飛機', Aircraft: '飛機', Helicopter: '直升機',
+  Train: '火車', Trains: '火車', Airplane: '飛機', Airplanes: '飛機', Plane: '飛機', Aircraft: '飛機', Helicopter: '直升機', Drone: '無人機',
 };
 const AF_TARGET_WORD = new RegExp(`\\b(${Object.keys(AF_TARGET_ZH).sort((a, b) => b.length - a.length).join('|')})\\b`, 'g');
 

@@ -3012,7 +3012,7 @@
     "afRange": "EV -7.5 to 21",
     "evfMagnification": "0.90x",
     "dimensions": "157.6 x 149.5 x 87.3 mm",
-    "afTargets": "Human, Animal, Bird, Vehicle, Horse, Plane, Train",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane, Helicopter",
     "videoColorDepth": "10-bit 4:2:2 (HEVC/RAW)",
     "isoRange": "100-102400 (Ext: 50-409600)",
     "lcdSpec": "3.2-inch 2.1M-dot vari-angle touch LCD",
@@ -3058,7 +3058,7 @@
       "EOSR3"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Human, Animal, Bird, Vehicle (Eye Control AF)",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-204800)",
     "ibisRating": "8.0 stops",
@@ -3109,7 +3109,7 @@
       "R52"
     ],
     "processor": "DIGIC X + DIGIC Accelerator",
-    "afTargets": "Human, Animal, Bird, Vehicle (Action Priority)",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane, Helicopter",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-51200 (Ext: 50-102400)",
     "ibisRating": "8.5 stops",
@@ -3154,7 +3154,7 @@
       "EOSR5"
     ],
     "processor": "DIGIC X",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Human, Animal, Bird",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-51200 (Ext: 50-102400)",
     "batterySpec": "LP-E6NH (490 shots CIPA)",
@@ -3203,7 +3203,7 @@
       "EOSR6II"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Human, Animal, Bird, Vehicle, Insect, Plane, Train",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-204800)",
     "ibisRating": "8.0 stops",
@@ -3251,7 +3251,7 @@
       "EOSR6"
     ],
     "processor": "DIGIC X",
-    "afTargets": "People, Animals, Vehicles",
+    "afTargets": "Human, Animal, Bird",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-204800)",
     "batterySpec": "LP-E6NH (510 shots CIPA)",
@@ -3299,7 +3299,7 @@
       "EOSR8"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Humans, Animals (Cats/Dogs/Birds/Horses), Vehicles",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-102400 (Ext: 50-204800)",
     "evfMagnification": "0.70x",
@@ -3444,7 +3444,7 @@
       "r7"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Humans, Animals, Vehicles",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-32000 (Ext: 51200)",
     "batterySpec": "LP-E6NH (660 shots CIPA)",
@@ -3502,7 +3502,7 @@
       "r10"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Humans, Animals, Vehicles",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-32000 (Ext: 51200)",
     "batterySpec": "LP-E17 (430 shots CIPA)",
@@ -3553,7 +3553,7 @@
       "r50"
     ],
     "processor": "DIGIC X",
-    "afTargets": "Humans, Animals, Vehicles (Aircraft/Trains)",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle",
     "videoColorDepth": "10-bit 4:2:2 (HEVC)",
     "isoRange": "100-32000 (Ext: 51200)",
     "batterySpec": "LP-E17 (370 shots CIPA)",
@@ -3656,7 +3656,7 @@
     "processor": "EXPEED 7",
     "ibisRating": "6.0 stops",
     "dimensions": "149.0 x 149.5 x 90.5 mm",
-    "afTargets": "Human, Animal (Dog, Cat, Bird), Vehicle (Car, Bike, Plane, Train)",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "videoColorDepth": "12-bit (N-RAW/ProRes RAW) / 10-bit (H.265)",
     "batterySpec": "EN-EL18d (740 shots CIPA)",
     "afRange": "EV -6.5 to 19 (Starlight: -9 to 19)",
@@ -3705,7 +3705,7 @@
     "processor": "EXPEED 7",
     "ibisRating": "6.0 stops",
     "afRange": "EV -7 to 19 (Starlight: -9 to 19)",
-    "afTargets": "Human, Animal, Bird, Vehicle, Plane",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "evfMagnification": "0.8x",
     "batterySpec": "EN-EL15c (340 shots CIPA)",
     "isoRange": "64-25600 (Ext: 32-102400)",
@@ -3749,7 +3749,7 @@
       "z7ii"
     ],
     "processor": "Dual EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2 (via HDMI)",
     "ibisRating": "5.0 stops",
     "weightGrams": 705,
@@ -3797,7 +3797,7 @@
       "z7"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.8x",
@@ -3846,7 +3846,7 @@
       "Z6III"
     ],
     "processor": "EXPEED 7",
-    "afTargets": "Human, Animal, Bird, Vehicle, Plane",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "videoColorDepth": "12-bit (N-RAW) / 10-bit (H.265)",
     "ibisRating": "8.0 stops",
     "dimensions": "138.5 x 101.5 x 74.0 mm",
@@ -3892,7 +3892,7 @@
       "z6ii"
     ],
     "processor": "Dual EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2 (via HDMI)",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "ibisRating": "5.0 stops",
@@ -3938,7 +3938,7 @@
       "z6"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit (via HDMI)",
     "afRange": "EV -2 to 19",
     "evfMagnification": "0.8x",
@@ -3984,7 +3984,7 @@
       "z5"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "8-bit",
     "ibisRating": "5.0 stops",
     "weightGrams": 675,
@@ -4033,7 +4033,7 @@
       "NikonZf"
     ],
     "processor": "EXPEED 7",
-    "afTargets": "Humans, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "videoColorDepth": "10-bit 4:2:2 (Internal)",
     "ibisRating": "8.0 stops (Focus Point VR)",
     "dimensions": "144.0 x 103.0 x 49.0 mm",
@@ -4081,7 +4081,7 @@
       "zfc"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "dimensions": "134.5 x 93.5 x 43.5 mm",
     "image_url": "/images/products/nikon/nikon-zfc.webp",
@@ -4102,7 +4102,8 @@
     "isoRange": "100-51200 (Ext: 100-204800)",
     "releaseMonth": 6,
     "retailPrice": 33000,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -4.5 to 19 (without low-light AF: -3 to 19)"
   },
   {
     "brand": "Nikon",
@@ -4124,7 +4125,7 @@
       "z50"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "Humans, Animals (Eye)",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "8-bit",
     "afRange": "EV -2 to 19",
     "evfMagnification": "1.02x",
@@ -4167,7 +4168,7 @@
       "z30"
     ],
     "processor": "EXPEED 6",
-    "afTargets": "People, Animals, Birds, Vehicles",
+    "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit 4:2:2 (N-Log)",
     "afRange": "EV -2 to 19",
     "lcdSpec": "3.0-inch 1.04M-dot vari-angle touch",
@@ -18568,7 +18569,7 @@
       "R63"
     ],
     "sensorType": "32.5MP BSI Stacked CMOS",
-    "afTargets": "People, Animal, Vehicle, Sport Mode",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane, Helicopter",
     "ibisRating": "8.5 stops",
     "burstSpeed": "40fps (Electronic), 12fps (Mechanical)",
     "category": "Professional",
@@ -18611,7 +18612,7 @@
     "hasIBIS": true,
     "image_url": "/images/products/nikon/nikon-zr.webp",
     "sensorType": "24.5MP BSI CMOS (Cinema Optimized)",
-    "afTargets": "Humans, Animals, Vehicles",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "ibisRating": "8.0 stops",
     "videoResolution": "6K 60p (R3D NE / N-RAW) / 4K 120p",
     "aliases": [
@@ -18657,7 +18658,7 @@
     "sensorType": "X-Trans CMOS 4",
     "hasIBIS": false,
     "videoResolution": "6.2K 30p / 4K 60p",
-    "afTargets": "Human, Animal, Bird, Vehicle",
+    "afTargets": "Human, Animal, Bird, Insect, Car, Motorcycle, Bicycle, Train, Airplane, Drone",
     "officialUrl": "https://www.fujifilm-x.com/global/products/cameras/x-m5/specifications/",
     "weightGrams": 355,
     "dimensions": "111.9 x 66.6 x 38.0 mm",
@@ -18699,7 +18700,7 @@
     "hasIBIS": true,
     "ibisRating": "7.0 stops",
     "videoResolution": "6.2K 30p / 4K 60p",
-    "afTargets": "Human, Animal, Bird, Vehicle, Airplane, Train",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "weightGrams": 445,
     "mounts": [
       {
@@ -19874,7 +19875,7 @@
     "hasIBIS": true,
     "ibisRating": "7.5 stops",
     "afPoints": "1053 points",
-    "afTargets": "Human, Animal, Vehicle",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane, Helicopter",
     "lcdSpec": "3.0-inch 1.62M-dot vari-angle touch",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
     "batterySpec": "LP-E6P",
@@ -19917,7 +19918,7 @@
     "hasIBIS": true,
     "ibisRating": "7.5 stops",
     "afPoints": "1053 points",
-    "afTargets": "Human, Animal, Vehicle",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane, Helicopter",
     "evfResolution": "2.36M-dot OLED",
     "evfMagnification": "0.7x",
     "lcdSpec": "3.0-inch 1.62M-dot",
@@ -19961,7 +19962,7 @@
     "logSupport": "Canon Log 3",
     "hasIBIS": false,
     "afPoints": "651 points",
-    "afTargets": "Human, Animal, Vehicle",
+    "afTargets": "Human, Animal, Bird, Horse, Car, Motorcycle, Train, Airplane",
     "lcdSpec": "3.0-inch 1.04M-dot touch",
     "cardSlots": "1x SD (UHS-II)",
     "batterySpec": "LP-E17",
@@ -20000,7 +20001,7 @@
     "videoColorDepth": "10-bit 4:2:2",
     "logSupport": "Canon Log 2, Canon Log 3",
     "afPoints": "1053 points",
-    "afTargets": "Human, Animal",
+    "afTargets": "Human, Animal, Bird",
     "evfResolution": "5.76M-dot OLED",
     "lcdSpec": "3.2-inch 2.1M-dot vari-angle touch",
     "cardSlots": "1x CFexpress Type B + 1x SD (UHS-II)",
@@ -25896,7 +25897,7 @@
     "dimensions": "134 x 100.5 x 72 mm",
     "weightGrams": 700,
     "image_url": "/images/products/nikon/nikon-z5-ii.webp",
-    "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "hasWeatherSeal": true,
     "releaseMonth": 4,
     "retailPrice": 52900,
@@ -25980,7 +25981,7 @@
       }
     ],
     "image_url": "/images/products/nikon/nikon-z50-ii.webp",
-    "afTargets": "People, Dogs, Cats, Birds, Airplanes, Cars, Motorcycles, Bicycles, Trains",
+    "afTargets": "Human, Animal, Bird, Car, Motorcycle, Bicycle, Train, Airplane",
     "hasWeatherSeal": true,
     "launchPrice": 29900,
     "releaseMonth": 11,
@@ -27265,7 +27266,8 @@
     "launchPrice": 129980,
     "releaseMonth": 5,
     "retailPrice": 129980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "afRange": "EV -6 to 20"
   },
   {
     "id": "sony-fx2",
