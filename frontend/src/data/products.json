@@ -2018,7 +2018,8 @@
     "hasWeatherSeal": true,
     "releaseMonth": 1,
     "sensorType": "CMOS",
-    "evfMagnification": "1.16x"
+    "evfMagnification": "1.16x",
+    "afPoints": "49 points"
   },
   {
     "brand": "Fujifilm",
@@ -2384,7 +2385,8 @@
     "hasWeatherSeal": false,
     "launchPrice": 52900,
     "releaseMonth": 1,
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "afPoints": "49 points"
   },
   {
     "brand": "Fujifilm",
@@ -22152,7 +22154,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-m1.webp",
     "afTargets": "Face",
     "releaseMonth": 6,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afPoints": "49 points"
   },
   {
     "id": "fujifilm-x-e1",
@@ -22185,7 +22188,8 @@
     "weightGrams": 350,
     "hasWeatherSeal": false,
     "image_url": "/images/products/fujifilm/fujifilm-x-e1.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afPoints": "49 points"
   },
   {
     "id": "fujifilm-x-a20",
@@ -23078,7 +23082,8 @@
     "dimensions": "147 x 104 x 39 mm",
     "afPoints": "49 points",
     "officialUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
-    "logSupport": "L-Log"
+    "logSupport": "L-Log",
+    "videoColorDepth": "8-bit 4:2:0 (internal) / 10-bit 4:2:2 (HDMI)"
   },
   {
     "id": "leica-sl2",
@@ -28413,7 +28418,8 @@
     "launchPrice": 14980,
     "releaseMonth": 8,
     "evfMagnification": "None",
-    "afRange": "EV -1 to 20"
+    "afRange": "EV -1 to 20",
+    "logSupport": "None"
   },
   {
     "id": "sony-a5000",
@@ -28606,7 +28612,8 @@
       }
     ],
     "image_url": "/images/products/sony/sony-fx9.webp",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afTargets": "Human (Face/Eye)"
   },
   {
     "id": "tokina-atx-m-11-18mm-f2-8-e",
@@ -36534,7 +36541,8 @@
     "processor": "TruePic VIII",
     "hasWeatherSeal": true,
     "logSupport": "None",
-    "evfMagnification": "1.37x"
+    "evfMagnification": "1.37x",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)"
   },
   {
     "id": "olympus-om-d-e-m10-mark-iv",
@@ -36692,7 +36700,8 @@
     "logSupport": "OM-Log400",
     "image_url": "/images/products/om-system/olympus-om-d-e-m1-mark-ii.webp",
     "evfMagnification": "1.48x",
-    "afRange": "EV -3.5 to 20"
+    "afRange": "EV -3.5 to 20",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)"
   },
   {
     "id": "olympus-pen-f",
@@ -38752,7 +38761,9 @@
     "processor": "Venus Engine IX",
     "afTargets": "Face/Eye",
     "hasWeatherSeal": true,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "logSupport": "V-Log L",
+    "videoColorDepth": "10-bit 4:2:2 (HDMI)"
   },
   {
     "id": "panasonic-lumix-gm5",
@@ -38978,7 +38989,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-g85.webp",
     "afTargets": "Face/Eye",
     "hasWeatherSeal": true,
-    "logSupport": "None"
+    "logSupport": "None",
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-gm1s",
@@ -39162,7 +39174,8 @@
     "afTargets": "Face/Eye",
     "videoColorDepth": "8-bit 4:2:0",
     "hasWeatherSeal": true,
-    "processor": "Venus Engine 10"
+    "processor": "Venus Engine 10",
+    "logSupport": "V-Log L, HLG"
   },
   {
     "id": "panasonic-lumix-gh5s",
@@ -39515,7 +39528,9 @@
     "hasWeatherSeal": true,
     "retailPrice": 49900,
     "retailPriceDate": "2026-10",
-    "ibisRating": "8 stops"
+    "ibisRating": "8 stops",
+    "processor": "Venus Engine",
+    "afPoints": "779 phase-detect points + 315 contrast-detect points"
   },
   {
     "id": "panasonic-lumix-g100d",
@@ -39553,7 +39568,8 @@
     "releaseMonth": 12,
     "hasWeatherSeal": false,
     "hasIBIS": false,
-    "afRange": "EV -4 to 20"
+    "afRange": "EV -4 to 20",
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-g97",
@@ -40890,7 +40906,9 @@
     "releaseMonth": 1,
     "retailPrice": 48355,
     "retailPriceDate": "2026-10",
-    "ibisRating": "6.5 stops"
+    "ibisRating": "6.5 stops",
+    "processor": "Venus Engine",
+    "afPoints": "779 phase-detect points"
   },
   {
     "id": "panasonic-lumix-s5iix",
@@ -40929,7 +40947,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s5iix.webp",
     "releaseMonth": 1,
     "retailPrice": 62900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "processor": "Venus Engine",
+    "afPoints": "779 phase-detect points"
   },
   {
     "id": "panasonic-lumix-s9",
@@ -40968,7 +40988,9 @@
     "retailPriceDate": "2026-10",
     "evfMagnification": "None",
     "videoColorDepth": "10-bit 4:2:2",
-    "afRange": "EV -6 to 18"
+    "afRange": "EV -6 to 18",
+    "processor": "Venus Engine",
+    "afPoints": "779 phase-detect points"
   },
   {
     "id": "panasonic-lumix-s1rii",
@@ -41009,7 +41031,8 @@
     "videoColorDepth": "10-bit",
     "retailPrice": 109900,
     "retailPriceDate": "2026-10",
-    "afRange": "EV -6 to 18"
+    "afRange": "EV -6 to 18",
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-s1ii",
@@ -41051,7 +41074,8 @@
     "videoColorDepth": "10-bit 4:2:2",
     "retailPrice": 98900,
     "retailPriceDate": "2026-10",
-    "afRange": "EV -6 to 18"
+    "afRange": "EV -6 to 18",
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-s1iie",
@@ -41093,7 +41117,8 @@
     "videoColorDepth": "10-bit 4:2:2",
     "retailPrice": 74900,
     "retailPriceDate": "2026-10",
-    "afRange": "EV -6 to 18"
+    "afRange": "EV -6 to 18",
+    "processor": "Venus Engine"
   },
   {
     "id": "panasonic-lumix-s-24-105mm-f4-macro-o-i-s",
@@ -41997,7 +42022,8 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-s1.webp",
     "releaseMonth": 2,
     "ibisRating": "6 stops",
-    "afRange": "EV -6 to 18"
+    "afRange": "EV -6 to 18",
+    "logSupport": "V-Log, HLG"
   },
   {
     "id": "panasonic-lumix-s1r",
@@ -42034,7 +42060,9 @@
     "batterySpec": "360-380 shots CIPA (LCD)",
     "retailPrice": 60980,
     "retailPriceDate": "2026-10",
-    "hasIBIS": true
+    "hasIBIS": true,
+    "processor": "Venus Engine",
+    "hasWeatherSeal": true
   },
   {
     "id": "tamron-16-50mm-f2-8-a-b091",
@@ -42875,7 +42903,8 @@
     "sensorType": "CMOS",
     "retailPrice": 98900,
     "retailPriceDate": "2026-10",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "afTargets": "Human, Bird"
   },
   {
     "id": "astrhori-9mm-f2-8",
