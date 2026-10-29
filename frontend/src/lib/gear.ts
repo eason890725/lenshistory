@@ -92,6 +92,23 @@ export function priceText(g: Gear, streetLabel: string) {
 // Stored in a spec field when the official spec confirms the feature doesn't exist (no EVF, no Log); shown as 無 / None
 export const NONE = 'None';
 
+// afTargets is stored in English; the zh pages swap each known word for its Chinese name
+const AF_TARGET_ZH: Record<string, string> = {
+  'Eye Control AF': '眼控對焦', 'Action Priority': '動作優先', 'Sport Mode': '運動模式',
+  Human: '人物', Humans: '人物', People: '人物', Face: '臉部', Eye: '眼睛',
+  Animal: '動物', Animals: '動物', Pet: '寵物', Dog: '狗', Dogs: '狗', Cat: '貓', Cats: '貓',
+  Bird: '鳥類', Birds: '鳥類', Horse: '馬', Horses: '馬', Insect: '昆蟲', Fish: '魚',
+  Vehicle: '交通工具', Vehicles: '交通工具', Car: '汽車', Cars: '汽車', Automobile: '汽車',
+  Motorcycle: '機車', Motorcycles: '機車', Bicycle: '自行車', Bicycles: '自行車', Bike: '兩輪車',
+  Train: '火車', Trains: '火車', Airplane: '飛機', Airplanes: '飛機', Plane: '飛機', Aircraft: '飛機', Helicopter: '直升機',
+};
+const AF_TARGET_WORD = new RegExp(`\\b(${Object.keys(AF_TARGET_ZH).sort((a, b) => b.length - a.length).join('|')})\\b`, 'g');
+
+export function afTargetsLabel(value: string | undefined, locale: string) {
+  if (!value || value === NONE || locale !== 'zh') return value;
+  return value.replace(AF_TARGET_WORD, w => AF_TARGET_ZH[w]).replace(/, /g, '、').replace(/ ?\(/g, '（').replace(/\)/g, '）').replace(/\//g, '／');
+}
+
 // "2026.09", or just "2026" when the month isn't known
 export function releaseLabel(g: Gear) {
   if (!g.releaseYear) return undefined;

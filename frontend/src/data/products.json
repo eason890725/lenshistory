@@ -65688,7 +65688,8 @@
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "processor": "TruePic"
+    "processor": "TruePic",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-tough-tg-1",
@@ -65716,7 +65717,8 @@
     "ports": "USB 2.0, HDMI",
     "burstSpeed": "5fps",
     "cardSlots": "1x SD",
-    "image_url": "/images/products/om-system/olympus-tough-tg-1.webp"
+    "image_url": "/images/products/om-system/olympus-tough-tg-1.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-tg-830-tough",
@@ -65744,7 +65746,8 @@
     "cardSlots": "1x SD (UHS-I)",
     "burstSpeed": "11.5fps",
     "image_url": "/images/products/om-system/olympus-stylus-tg-830-tough.webp",
-    "processor": "TruePic"
+    "processor": "TruePic",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-tg-630-tough",
@@ -65770,7 +65773,8 @@
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "processor": "TruePic"
+    "processor": "TruePic",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-sh-50",
@@ -65854,7 +65858,8 @@
     "burstSpeed": "5fps",
     "sensorType": "CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-tough-tg-620",
@@ -65880,7 +65885,8 @@
     "ports": "USB (multi-connector), micro HDMI",
     "hasWeatherSeal": true,
     "processor": "TruePic VI",
-    "burstSpeed": "5fps"
+    "burstSpeed": "5fps",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-tough-tg-320",
@@ -65908,7 +65914,8 @@
     "sensorType": "CCD",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "image_url": "/images/products/om-system/olympus-tough-tg-320.webp"
+    "image_url": "/images/products/om-system/olympus-tough-tg-320.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-sp-620uz",
@@ -65935,7 +65942,8 @@
     "sensorType": "CCD",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD",
-    "image_url": "/images/products/om-system/olympus-sp-620uz.webp"
+    "image_url": "/images/products/om-system/olympus-sp-620uz.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-vg-170",
@@ -65984,7 +65992,8 @@
     "sensorType": "CCD",
     "cardSlots": "1x SD",
     "ports": "USB (multi-connector), micro HDMI",
-    "image_url": "/images/products/om-system/olympus-sz-14.webp"
+    "image_url": "/images/products/om-system/olympus-sz-14.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-tg-625-tough",
@@ -66011,7 +66020,8 @@
     "burstSpeed": "5fps",
     "cardSlots": "1x SD",
     "ports": "USB (multi-connector), micro HDMI",
-    "image_url": "/images/products/om-system/olympus-stylus-tg-625-tough.webp"
+    "image_url": "/images/products/om-system/olympus-stylus-tg-625-tough.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-sp-820uz",
@@ -66039,7 +66049,8 @@
     "ports": "USB 2.0",
     "cardSlots": "1x SD",
     "image_url": "/images/products/om-system/olympus-stylus-sp-820uz.webp",
-    "processor": "TruePic V"
+    "processor": "TruePic V",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-sp-720uz",
@@ -66064,7 +66075,8 @@
     "cardSlots": "1x SD",
     "ports": "USB (multi-connector), micro HDMI, remote cable",
     "burstSpeed": "5fps",
-    "image_url": "/images/products/om-system/olympus-sp-720uz.webp"
+    "image_url": "/images/products/om-system/olympus-sp-720uz.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-sz-31mr",
@@ -66091,7 +66103,8 @@
     "burstSpeed": "7fps",
     "sensorType": "BSI-CMOS",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD"
+    "cardSlots": "1x SD",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-sh-25mr",
@@ -66117,7 +66130,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD (UHS-I)",
     "ports": "USB (multi-connector), micro HDMI, remote cable",
-    "image_url": "/images/products/om-system/olympus-sh-25mr.webp"
+    "image_url": "/images/products/om-system/olympus-sh-25mr.webp",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-sh-60",
@@ -69008,7 +69022,8 @@
     "evfMagnification": "None",
     "burstSpeed": "1fps",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-wg-10",
@@ -69035,7 +69050,8 @@
     "image_url": "/images/products/pentax/pentax-wg-10.webp",
     "evfMagnification": "None",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-wg-3",
@@ -69062,7 +69078,8 @@
     "image_url": "/images/products/pentax/pentax-wg-3.webp",
     "evfMagnification": "None",
     "ports": "USB 2.0, HDMI",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-4",
@@ -69090,7 +69107,8 @@
     "image_url": "/images/products/ricoh/ricoh-wg-4.webp",
     "evfMagnification": "None",
     "burstSpeed": "1.5fps",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-20",
@@ -69118,7 +69136,8 @@
     "image_url": "/images/products/ricoh/ricoh-wg-20.webp",
     "evfMagnification": "None",
     "burstSpeed": "0.7fps",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-m1",
@@ -69172,7 +69191,8 @@
     "image_url": "/images/products/ricoh/ricoh-wg-30.webp",
     "evfMagnification": "None",
     "afPoints": "9 points",
-    "burstSpeed": "1.08fps / 10fps (5M)"
+    "burstSpeed": "1.08fps / 10fps (5M)",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-5-gps",
@@ -69226,7 +69246,8 @@
     "dimensions": "122.5 x 61.5 x 29.5 mm",
     "weightGrams": 192,
     "afPoints": "9 points",
-    "image_url": "/images/products/ricoh/ricoh-wg-40.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-40.webp",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-m2",
@@ -69279,7 +69300,8 @@
     "image_url": "/images/products/ricoh/ricoh-wg-50.webp",
     "evfMagnification": "None",
     "burstSpeed": "8fps",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-60",
@@ -69306,7 +69328,8 @@
     "weightGrams": 193,
     "image_url": "/images/products/ricoh/ricoh-wg-60.webp",
     "evfMagnification": "None",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-6",
@@ -69333,7 +69356,8 @@
     "weightGrams": 246,
     "image_url": "/images/products/ricoh/ricoh-wg-6.webp",
     "evfMagnification": "None",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-70",
@@ -69360,7 +69384,8 @@
     "weightGrams": 193,
     "afPoints": "9 points",
     "image_url": "/images/products/ricoh/ricoh-wg-70.webp",
-    "burstSpeed": "1.08fps / 10fps (5M)"
+    "burstSpeed": "1.08fps / 10fps (5M)",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-7",
@@ -69386,7 +69411,8 @@
     "dimensions": "118.2 x 65.5 x 33.1 mm",
     "weightGrams": 246,
     "afPoints": "9 points",
-    "image_url": "/images/products/ricoh/ricoh-wg-7.webp"
+    "image_url": "/images/products/ricoh/ricoh-wg-7.webp",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "ricoh-wg-80",
@@ -69413,7 +69439,8 @@
     "weightGrams": 194,
     "image_url": "/images/products/ricoh/ricoh-wg-80.webp",
     "evfMagnification": "None",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-wg-90",
@@ -69443,7 +69470,8 @@
     "image_url": "/images/products/pentax/pentax-wg-90.webp",
     "evfMagnification": "None",
     "afPoints": "9 points",
-    "burstSpeed": "1.08fps / 10fps (5M)"
+    "burstSpeed": "1.08fps / 10fps (5M)",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-wg-8",
@@ -69472,7 +69500,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/pentax/pentax-wg-8.webp",
     "evfMagnification": "None",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-wg-1000",
@@ -69675,7 +69704,8 @@
     "evfMagnification": "None",
     "hasWeatherSeal": false,
     "burstSpeed": "1fps",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-optio-vs20",
@@ -69757,7 +69787,8 @@
     "image_url": "/images/products/pentax/pentax-x-5.webp",
     "hasWeatherSeal": false,
     "burstSpeed": "10fps",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-xg-1",
@@ -69785,7 +69816,8 @@
     "image_url": "/images/products/pentax/pentax-xg-1.webp",
     "hasWeatherSeal": false,
     "burstSpeed": "9fps",
-    "afPoints": "25 points"
+    "afPoints": "25 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "pentax-efina",
@@ -70431,7 +70463,8 @@
     "weightGrams": 252,
     "evfMagnification": "None",
     "image_url": "/images/products/ricoh/ricoh-g900.webp",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face, Animal (Pet)"
   },
   {
     "id": "kodak-pixpro-az361",

@@ -1,7 +1,7 @@
 import { Link } from '@/i18n/routing';
 import CompareTable from './CompareTable';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { NONE, focalLength, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
+import { NONE, afTargetsLabel, focalLength, releaseLabel, weightLabel, type Gear } from '@/lib/gear';
 import { gears as allGears } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
@@ -64,7 +64,7 @@ export default async function ComparePage({
     { section: t('imaging'), label: t('isoRange'), type: B, get: g => g.isoRange },
     { section: t('imaging'), label: t('video'), type: B, get: g => g.videoResolution },
     { section: t('performance'), label: t('continuousShooting'), type: B, get: g => g.burstSpeed },
-    { section: t('performance'), label: t('afTargets'), type: B, get: g => g.afTargets },
+    { section: t('performance'), label: t('afTargets'), type: B, get: g => afTargetsLabel(g.afTargets, locale) },
     { section: t('performance'), label: t('ibis'), type: B, get: g => yesNo(g.hasIBIS) },
     { section: t('hardware'), label: t('evfResolution'), type: B, get: g => g.evfResolution },
     { section: t('hardware'), label: t('lcdSpec'), type: B, get: g => g.lcdSpec },

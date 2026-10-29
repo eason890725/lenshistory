@@ -2,7 +2,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import BackButton from '../BackButton';
 import CompareButton from '../CompareButton';
-import { NONE, focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
+import { NONE, afTargetsLabel, focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
 import { findGear } from '@/lib/gear-data';
 import { shortName } from '@/components/gear/ProductCard';
 
@@ -90,7 +90,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
         ] },
         { title: t('performance'), rows: [
           [t('afPoints'), gear.afPoints],
-          [t('afTargets'), gear.afTargets],
+          [t('afTargets'), afTargetsLabel(gear.afTargets, locale)],
           [t('afRange'), gear.afRange],
           [t('continuousShooting'), gear.burstSpeed],
           [t('ibis'), yesNo(gear.hasIBIS)],
