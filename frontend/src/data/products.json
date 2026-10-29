@@ -62702,7 +62702,8 @@
     "motorType": "Fixed focus",
     "dimensions": "Ø40.8 x 6.9 mm",
     "weightGrams": 8,
-    "image_url": "/images/products/pentax/pentax-07-mount-shield-lens-11-5mm-f9.webp"
+    "image_url": "/images/products/pentax/pentax-07-mount-shield-lens-11-5mm-f9.webp",
+    "hasOIS": false
   },
   {
     "id": "pentax-08-wide-zoom-3-8-5-9mm-f3-7-4",
@@ -62735,7 +62736,8 @@
     "weightGrams": 75,
     "image_url": "/images/products/pentax/pentax-08-wide-zoom-3-8-5-9mm-f3-7-4.webp",
     "hasApertureRing": false,
-    "motorType": "Micromotor"
+    "motorType": "Micromotor",
+    "hasOIS": false
   },
   {
     "id": "pentax-q-s1",
@@ -73587,7 +73589,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-ultron-21mm-f1-8-aspherical.webp",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "hasApertureRing": true
   },
   {
     "id": "mitakon-24mm-f1-7",
