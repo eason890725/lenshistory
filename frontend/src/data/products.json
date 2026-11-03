@@ -76314,5 +76314,500 @@
     "dimensions": "147 x 95.1 x 90.8 mm",
     "hasWeatherSeal": true,
     "sensorFormat": "APS-H"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony NEX-5",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-nex-5",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2010,
+    "releaseMonth": 5,
+    "megapixels": "14.2MP",
+    "sensorType": "Exmor APS HD CMOS",
+    "processor": "BIONZ",
+    "isoRange": "200-12800",
+    "burstSpeed": "7fps",
+    "afPoints": "25 points",
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "hasIBIS": false,
+    "evfMagnification": "None",
+    "lcdSpec": "3.0-inch 0.92M-dot tilting",
+    "cardSlots": "1x SD / Memory Stick PRO Duo",
+    "batterySpec": "NP-FW50 (330 shots CIPA)",
+    "ports": "mini USB, mini HDMI",
+    "hasWeatherSeal": false,
+    "videoResolution": "Full HD 60i",
+    "dimensions": "110.8 x 58.8 x 38.2 mm",
+    "weightGrams": 287
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony NEX-3",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-nex-3",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2010,
+    "releaseMonth": 5,
+    "megapixels": "14.2MP",
+    "sensorType": "Exmor APS HD CMOS",
+    "processor": "BIONZ",
+    "isoRange": "200-12800",
+    "burstSpeed": "7fps",
+    "afPoints": "25 points",
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "hasIBIS": false,
+    "evfMagnification": "None",
+    "lcdSpec": "3.0-inch 0.92M-dot tilting",
+    "cardSlots": "1x SD / Memory Stick PRO Duo",
+    "batterySpec": "NP-FW50 (330 shots CIPA)",
+    "ports": "mini USB, mini HDMI",
+    "hasWeatherSeal": false,
+    "videoResolution": "720p 30p",
+    "dimensions": "117.2 x 62.6 x 33.4 mm",
+    "weightGrams": 297
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 16mm F2.8",
+    "gearType": "LENS",
+    "id": "sony-e-16mm-f2-8",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2010,
+    "releaseMonth": 5,
+    "focalLengthMinMm": 16,
+    "focalLengthMaxMm": 16,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "maxMagnification": "0.078x",
+    "closeFocus": "0.24m",
+    "filterSizeMm": 49,
+    "opticalDesign": "5 elements in 5 groups",
+    "specialElements": "1 Aspherical",
+    "motorType": "Micromotor",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "dimensions": "Ø62 x 22.5 mm",
+    "weightGrams": 67
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 18-55mm F3.5-5.6 OSS",
+    "gearType": "LENS",
+    "id": "sony-e-18-55mm-f3-5-5-6-oss",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2010,
+    "releaseMonth": 5,
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 55,
+    "apertureMax": "3.5-5.6",
+    "minAperture": "22-32",
+    "maxMagnification": "0.3x",
+    "closeFocus": "0.25m",
+    "filterSizeMm": 49,
+    "opticalDesign": "11 elements in 9 groups",
+    "specialElements": "4 Aspherical",
+    "motorType": "Stepping Motor",
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "dimensions": "Ø62 x 60 mm",
+    "weightGrams": 194
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 18-200mm F3.5-6.3 OSS",
+    "gearType": "LENS",
+    "id": "sony-e-18-200mm-f3-5-6-3-oss",
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL18200/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2010,
+    "releaseMonth": 5,
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "3.5-6.3",
+    "minAperture": "22-40",
+    "maxMagnification": "0.35x",
+    "closeFocus": "0.3m (W) / 0.5m (T)",
+    "filterSizeMm": 67,
+    "opticalDesign": "17 elements in 12 groups",
+    "motorType": "Micromotor",
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "dimensions": "Ø75.5 x 99 mm",
+    "weightGrams": 524,
+    "hasWeatherSeal": false
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony NEX-C3",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-nex-c3",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 6,
+    "megapixels": "16.2MP",
+    "sensorType": "Exmor APS HD CMOS",
+    "processor": "BIONZ",
+    "isoRange": "200-12800",
+    "burstSpeed": "5.5fps",
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "hasIBIS": false,
+    "videoResolution": "720p 30p",
+    "evfMagnification": "None",
+    "lcdSpec": "3.0-inch 0.92M-dot tilting",
+    "cardSlots": "1x SD / Memory Stick PRO Duo",
+    "batterySpec": "NP-FW50 (400 shots CIPA)",
+    "ports": "mini USB, mini HDMI",
+    "dimensions": "109.6 x 60 x 33 mm",
+    "weightGrams": 283,
+    "hasWeatherSeal": false
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 30mm F3.5 Macro",
+    "gearType": "LENS",
+    "id": "sony-e-30mm-f3-5-macro",
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL30M35/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 6,
+    "focalLengthMinMm": 30,
+    "focalLengthMaxMm": 30,
+    "apertureMax": 3.5,
+    "minAperture": "22",
+    "maxMagnification": "1x",
+    "closeFocus": "0.095m",
+    "filterSizeMm": 49,
+    "opticalDesign": "7 elements in 6 groups",
+    "specialElements": "1 ED, 3 Aspherical",
+    "motorType": "Stepping Motor",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "dimensions": "Ø62 x 55.5 mm",
+    "weightGrams": 138
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony NEX-5N",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-nex-5n",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 8,
+    "megapixels": "16.1MP",
+    "sensorType": "Exmor APS HD CMOS",
+    "processor": "BIONZ",
+    "isoRange": "100-25600",
+    "burstSpeed": "10fps",
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "hasIBIS": false,
+    "videoResolution": "Full HD 60p",
+    "lcdSpec": "3.0-inch 0.92M-dot tilting touch",
+    "cardSlots": "1x SD / Memory Stick PRO Duo",
+    "batterySpec": "NP-FW50 (430 shots CIPA)",
+    "ports": "mini USB, mini HDMI",
+    "dimensions": "110.8 x 58.8 x 38.2 mm",
+    "weightGrams": 269,
+    "hasWeatherSeal": false
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony NEX-7",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-nex-7",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 8,
+    "megapixels": "24.3MP",
+    "sensorType": "Exmor APS HD CMOS",
+    "processor": "BIONZ",
+    "isoRange": "100-16000",
+    "burstSpeed": "10fps",
+    "afPoints": "25 points",
+    "afTargets": "Face",
+    "afRange": "EV 0 to 20",
+    "hasIBIS": false,
+    "videoResolution": "Full HD 60p",
+    "evfResolution": "2.36M-dot OLED",
+    "evfMagnification": "1.09x",
+    "lcdSpec": "3.0-inch 0.92M-dot tilting",
+    "cardSlots": "1x SD / Memory Stick PRO Duo",
+    "batterySpec": "NP-FW50 (430 shots CIPA)",
+    "ports": "mini USB, mini HDMI",
+    "dimensions": "119.9 x 66.9 x 42.6 mm",
+    "weightGrams": 350,
+    "hasWeatherSeal": false
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Sonnar T* E 24mm F1.8 ZA",
+    "gearType": "LENS",
+    "id": "sony-e-24mm-f1-8-za",
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL24F18Z/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 8,
+    "focalLengthMinMm": 24,
+    "focalLengthMaxMm": 24,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "maxMagnification": "0.25x",
+    "closeFocus": "0.16m",
+    "filterSizeMm": 49,
+    "opticalDesign": "8 elements in 7 groups",
+    "motorType": "Micromotor",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "dimensions": "Ø63 x 65.5 mm",
+    "weightGrams": 225
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 50mm F1.8 OSS",
+    "gearType": "LENS",
+    "id": "sony-e-50mm-f1-8-oss",
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL50F18/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 8,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "minAperture": "22",
+    "maxMagnification": "0.16x",
+    "closeFocus": "0.39m",
+    "filterSizeMm": 49,
+    "opticalDesign": "9 elements in 8 groups",
+    "motorType": "Stepping Motor",
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "dimensions": "Ø62 x 62 mm",
+    "weightGrams": 202,
+    "hasWeatherSeal": false
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony E 55-210mm F4.5-6.3 OSS",
+    "gearType": "LENS",
+    "id": "sony-e-55-210mm-f4-5-6-3-oss",
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL55210/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2011,
+    "releaseMonth": 8,
+    "focalLengthMinMm": 55,
+    "focalLengthMaxMm": 210,
+    "apertureMax": "4.5-6.3",
+    "minAperture": "22-32",
+    "maxMagnification": "0.225x",
+    "closeFocus": "1m",
+    "filterSizeMm": 49,
+    "opticalDesign": "13 elements in 9 groups",
+    "motorType": "Stepping Motor",
+    "hasOIS": true,
+    "hasApertureRing": false,
+    "dimensions": "Ø63.8 x 108 mm",
+    "weightGrams": 345
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Alpha 7R IIIA",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-a7r-iiia",
+    "officialUrl": "https://www.sony.jp/ichigan/products/ILCE-7RM3A/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "releaseYear": 2021,
+    "releaseMonth": 4,
+    "megapixels": "42.4MP",
+    "sensorType": "BSI CMOS (Exmor R)",
+    "processor": "BIONZ X",
+    "isoRange": "100-32000 (Ext: 50-102400)",
+    "burstSpeed": "10fps",
+    "afPoints": "399 phase-detect points",
+    "afTargets": "Human, Animal",
+    "afRange": "EV -3 to 20",
+    "hasIBIS": true,
+    "ibisRating": "5.5 stops",
+    "videoResolution": "4K 30p / Full HD 120p",
+    "videoColorDepth": "8-bit 4:2:0",
+    "logSupport": "S-Log2, S-Log3, HLG",
+    "evfResolution": "3.69M-dot OLED",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 2.36M-dot tilting touch",
+    "cardSlots": "2x SD (1x UHS-II)",
+    "batterySpec": "NP-FZ100 (640 shots CIPA)",
+    "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
+    "dimensions": "126.9 x 95.6 x 73.7 mm",
+    "weightGrams": 657,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Alpha 7R IVA",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-a7r-iva",
+    "officialUrl": "https://www.sony.jp/ichigan/products/ILCE-7RM4A/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "releaseYear": 2021,
+    "releaseMonth": 4,
+    "megapixels": "61.0MP",
+    "sensorType": "BSI CMOS (Exmor R)",
+    "processor": "BIONZ X",
+    "isoRange": "100-32000 (Ext: 50-102400)",
+    "burstSpeed": "10fps",
+    "afPoints": "567 phase-detect points",
+    "afTargets": "Human, Animal",
+    "afRange": "EV -3 to 20",
+    "hasIBIS": true,
+    "ibisRating": "5.5 stops",
+    "videoResolution": "4K 30p / Full HD 120p",
+    "videoColorDepth": "8-bit 4:2:0",
+    "logSupport": "S-Log2, S-Log3, HLG",
+    "evfResolution": "5.76M-dot",
+    "evfMagnification": "0.78x",
+    "lcdSpec": "3.0-inch 2.36M-dot tilting touch",
+    "cardSlots": "2x SD (UHS-II)",
+    "batterySpec": "NP-FZ100 (660 shots CIPA)",
+    "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
+    "dimensions": "128.9 x 96.4 x 77.5 mm",
+    "weightGrams": 665,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony FX3A",
+    "gearType": "CAMERA_BODY",
+    "id": "sony-fx3a",
+    "officialUrl": "https://www.sony.jp/pro-cam/products/ILME-FX3A/spec.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "releaseYear": 2025,
+    "releaseMonth": 5,
+    "megapixels": "12.1MP",
+    "sensorType": "BSI CMOS",
+    "processor": "BIONZ XR",
+    "isoRange": "80-102400 (Ext: 40-409600)",
+    "burstSpeed": "10fps",
+    "afPoints": "759 phase-detect points",
+    "afTargets": "Human, Animal",
+    "afRange": "EV -6 to 20",
+    "hasIBIS": true,
+    "ibisRating": "5.5 stops",
+    "videoResolution": "4K 120p",
+    "videoColorDepth": "10-bit 4:2:2",
+    "logSupport": "S-Log3, HLG, S-Cinetone",
+    "lcdSpec": "3.0-inch 2.36M-dot touch",
+    "cardSlots": "2x CFexpress Type A / SD",
+    "batterySpec": "NP-FZ100 (570 shots CIPA)",
+    "ports": "USB-C (5Gbps), micro USB, HDMI Type A, mic, headphone",
+    "dimensions": "129.7 x 77.8 x 84.5 mm",
+    "weightGrams": 715
   }
 ]
