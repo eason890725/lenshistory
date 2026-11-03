@@ -35,9 +35,14 @@
 
 ## 待辦（雲端 session 會持續更新這一段）
 - G9、GH5S afTargets 目前是 "Face/Eye"；韌體公告其實有動物辨識，使用者若要「Human, Animal」就改回去。
-- **Sony 機身 videoColorDepth 疑似大量寫錯**：2021 年前 19 台寫 "10-bit 4:2:2"（a6000、a7 III、a9 等），官方多半只有 8-bit 4:2:0 內錄。
-  a7R III／IV 已由查核 agent 對 sony.jp 確認應為 "8-bit 4:2:0"。改既有值要使用者同意。
-- **副廠鏡頭漏列卡口版本 12 支**（Viltrox Air 系列、Yongnuo DF／DA 系列等，證據在雲端 missing_c.json，未帶回）：補卡口算改既有值，等使用者決定。
+- **Sony a7、a7R、a6000 的 videoColorDepth 仍是錯的 "10-bit 4:2:2"**：使用者要求找正確資料。sony.jp 規格頁、DPReview 評測、
+  helpguide（ilc/13xx 都 404）都沒寫取樣／位元；可試舊版英文說明書 PDF 或 Sony 2013–2014 新聞稿（sony.com 雲端抓不到）。
+  其他 14 台已改成 "8-bit 4:2:2 (HDMI)"（sony.jp HDMI 映像出力）。
+- 副廠鏡頭卡口已補 6 個（使用者同意）。未補（官方頁沒光學規格可比對）：YN35 F2 DF +Z、YN50 F1.8S DA +Z +X、YN50 DF +Z、YN85 DF +RF。
+  YN85 F1.8 DF DSM 官方重量 405g，資料庫 346g，待確認。
+- 4 支 Yongnuo 新鏡頭找不到正式發表日沒收：YN42.5 F1.7M II、YN85 F1.8R DF DSM II、YN33 F1.4 DA DSM WL Pro、YN35 F1.8S DA DSM WL。
+  7Artisans AF 10mm F4、Meike 58mm F1.2、YN16mm、YN50 F1.8S II 已收但 releaseMonth 空著（只有預告／開賣報導）。
+- Sirui、Laowa、Tokina 的漏收稽核在雲端做不了（網站擋或空白）。
 - **台灣價格**：雲端連不到 Mobile01、cool3c（403），WebSearch 額度用完，剩約 470 筆。本機有網路時優先做。
   已查過但沒收：Zeiss Otus ML 50（77,980）、Lumix S1（79,990）、RX100 VA（26,980）、HERO5 Black（15,500）只看到搜尋摘要，需開 Mobile01 原文核對。
 - **圖片**：剩約 170 筆缺圖。官方多半只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）或多色合照、黑底橫幅（Cooke、Cosina）。
