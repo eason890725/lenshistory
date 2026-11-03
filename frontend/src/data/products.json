@@ -24603,7 +24603,9 @@
     "releaseMonth": 10,
     "retailPrice": 168800,
     "retailPriceDate": "2026-10",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "specialElements": "3 Aspherical",
+    "motorType": "Dual Synchro Drive"
   },
   {
     "id": "leica-vario-elmar-sl-100-400-f5-6-3",
@@ -51048,7 +51050,8 @@
     "retailPriceDate": "2026-10",
     "specialElements": "2 HR",
     "hasApertureRing": true,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "motorType": "Manual focus"
   },
   {
     "id": "7artisans-35mm-f1-2-mark-ii-aps-c",
@@ -51253,7 +51256,8 @@
     "retailPrice": 3800,
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "7artisans-10mm-f2-8-fisheye",
@@ -55734,7 +55738,8 @@
     ],
     "sensorFormat": "APS-C",
     "hasApertureRing": true,
-    "image_url": "/images/products/yongnuo/yongnuo-yn11mm-f1-8s-da-dsm-wl.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn11mm-f1-8s-da-dsm-wl.webp",
+    "motorType": "DSM (Digital Stepping Motor)"
   },
   {
     "id": "yongnuo-yn17mm-f1-7m",
@@ -57354,7 +57359,8 @@
     "dimensions": "108.3 x 61.5 x 37.7 mm",
     "weightGrams": 249,
     "image_url": "/images/products/casio/casio-exilim-ex-zr4100.webp",
-    "afPoints": "25 areas"
+    "afPoints": "25 areas",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr4000",
@@ -57381,7 +57387,8 @@
     "weightGrams": 249,
     "image_url": "/images/products/casio/casio-exilim-ex-zr4000.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr3200",
@@ -57408,7 +57415,8 @@
     "weightGrams": 249,
     "image_url": "/images/products/casio/casio-exilim-ex-zr3200.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr3100",
@@ -57435,7 +57443,8 @@
     "weightGrams": 249,
     "image_url": "/images/products/casio/casio-exilim-ex-zr3100.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr3000",
@@ -57463,7 +57472,8 @@
     "image_url": "/images/products/casio/casio-exilim-ex-zr3000.webp",
     "afPoints": "25 areas",
     "processor": "EXILIM Engine HS Ver.3",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr1800",
@@ -57489,7 +57499,8 @@
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
     "image_url": "/images/products/casio/casio-exilim-ex-zr1800.webp",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr1700",
@@ -57515,7 +57526,8 @@
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
     "image_url": "/images/products/casio/casio-exilim-ex-zr1700.webp",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr1600",
@@ -57541,7 +57553,8 @@
     "dimensions": "108.3 x 61.5 x 33.6 mm",
     "weightGrams": 242,
     "image_url": "/images/products/casio/casio-exilim-ex-zr1600.webp",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr70",
@@ -57568,7 +57581,8 @@
     "weightGrams": 202,
     "image_url": "/images/products/casio/casio-exilim-ex-zr70.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr60",
@@ -57595,7 +57609,8 @@
     "weightGrams": 202,
     "image_url": "/images/products/casio/casio-exilim-ex-zr60.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr50",
@@ -57622,7 +57637,8 @@
     "weightGrams": 202,
     "image_url": "/images/products/casio/casio-exilim-ex-zr50.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr850",
@@ -57648,7 +57664,8 @@
     "dimensions": "107.4 x 60.0 x 30.7 mm",
     "weightGrams": 225,
     "image_url": "/images/products/casio/casio-exilim-ex-zr850.webp",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr800",
@@ -57676,7 +57693,8 @@
     "image_url": "/images/products/casio/casio-exilim-ex-zr800.webp",
     "hasWeatherSeal": false,
     "evfMagnification": "None",
-    "processor": "EXILIM Engine HS 3"
+    "processor": "EXILIM Engine HS 3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr1300",
@@ -57756,7 +57774,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "processor": "Exilim Engine HS 3",
-    "ibisRating": "2.5 stops"
+    "ibisRating": "2.5 stops",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-100",
@@ -57785,7 +57804,8 @@
     "image_url": "/images/products/casio/casio-exilim-ex-100.webp",
     "evfMagnification": "None",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3 ADVANCE"
+    "processor": "EXILIM Engine HS Ver.3 ADVANCE",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-100f",
@@ -57812,7 +57832,8 @@
     "weightGrams": 390,
     "image_url": "/images/products/casio/casio-exilim-ex-100f.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3 ADVANCE"
+    "processor": "EXILIM Engine HS Ver.3 ADVANCE",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fr10",
@@ -57835,7 +57856,8 @@
     "dimensions": "60.9 x 153.1 x 34.2 mm",
     "weightGrams": 175,
     "launchPrice": 16490,
-    "image_url": "/images/products/casio/casio-exilim-ex-fr10.webp"
+    "image_url": "/images/products/casio/casio-exilim-ex-fr10.webp",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fr100",
@@ -57861,7 +57883,8 @@
     "weightGrams": 214,
     "launchPrice": 14990,
     "hasWeatherSeal": true,
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fr200",
@@ -57910,7 +57933,8 @@
     "batterySpec": "NP-150 (approx. 355 shots)",
     "dimensions": "74.1 x 75.0 x 46.4 mm",
     "weightGrams": 172,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fr110h",
@@ -57936,7 +57960,8 @@
     "dimensions": "60.9 x 154.8 x 38.7 mm",
     "weightGrams": 214,
     "hasWeatherSeal": true,
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fc500s",
@@ -57963,7 +57988,8 @@
     "weightGrams": 202,
     "image_url": "/images/products/casio/casio-exilim-ex-fc500s.webp",
     "afPoints": "25 areas",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-mr1",
@@ -57985,7 +58011,8 @@
     "dimensions": "104.2 x 60.8 x 21.1 mm",
     "weightGrams": 133,
     "sensorType": "CMOS",
-    "videoResolution": "Full HD"
+    "videoResolution": "Full HD",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-tr35",
@@ -58009,7 +58036,8 @@
     "dimensions": "128.9 x 61.6 x 14.9 mm",
     "weightGrams": 170,
     "processor": "EXILIM Engine HS Ver.3",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-tr50",
@@ -58036,7 +58064,8 @@
     "processor": "Exilim Engine HS v.3",
     "hasIBIS": false,
     "videoResolution": "Full HD",
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-tr60",
@@ -58060,7 +58089,8 @@
     "weightGrams": 167,
     "videoResolution": "Full HD",
     "processor": "EXILIM Engine HS Ver.3",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-tr70",
@@ -58113,7 +58143,8 @@
     "isoRange": "80-3200",
     "cardSlots": "1x SD/SDHC/SDXC",
     "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr1000/",
-    "ibisRating": "1.5 stops"
+    "ibisRating": "1.5 stops",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-fc300s",
@@ -58160,7 +58191,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr700/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr700/",
+    "afTargets": "Face"
   },
   {
     "id": "casio-exilim-ex-zr400",
@@ -58537,7 +58569,8 @@
     "image_url": "/images/products/dji/dji-osmo-360.webp",
     "retailPrice": 13290,
     "retailPriceDate": "2026-10",
-    "ports": "USB-C (USB 3.1)"
+    "ports": "USB-C (USB 3.1)",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-action-5-pro",
@@ -58621,7 +58654,8 @@
     "launchPrice": 13290,
     "retailPrice": 7090,
     "retailPriceDate": "2026-10",
-    "videoColorDepth": "10-bit"
+    "videoColorDepth": "10-bit",
+    "dimensions": "70.5 x 44.2 x 32.8 mm"
   },
   {
     "id": "dji-osmo-action-3",
@@ -58647,7 +58681,8 @@
     "image_url": "/images/products/dji/dji-osmo-action-3.webp",
     "launchPrice": 11770,
     "ports": "USB-C",
-    "videoColorDepth": "10-bit"
+    "videoColorDepth": "10-bit",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-action-2",
@@ -58672,7 +58707,8 @@
     "image_url": "/images/products/dji/dji-action-2.webp",
     "launchPrice": 13700,
     "releaseMonth": 10,
-    "sensorType": "CMOS"
+    "sensorType": "CMOS",
+    "ports": "USB-C"
   },
   {
     "id": "dji-pocket-2",
@@ -58695,7 +58731,8 @@
     "weightGrams": 117,
     "image_url": "/images/products/dji/dji-pocket-2.webp",
     "launchPrice": 12000,
-    "ports": "USB-C"
+    "ports": "USB-C",
+    "sensorType": "CMOS"
   },
   {
     "id": "dji-osmo-action",
@@ -58775,7 +58812,8 @@
     "image_url": "/images/products/insta360/insta360-x6.webp",
     "retailPrice": 21700,
     "retailPriceDate": "2026-10",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "processor": "4nm 8-core processor + 2 imaging chips"
   },
   {
     "id": "insta360-luna-pro",
@@ -58798,7 +58836,9 @@
     "weightGrams": 215,
     "retailPrice": 15400,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/insta360/insta360-luna-pro.webp"
+    "image_url": "/images/products/insta360/insta360-luna-pro.webp",
+    "batterySpec": "Up to 4 h",
+    "processor": "Dual AI chip (dedicated imaging chip + 4nm flagship chip)"
   },
   {
     "id": "insta360-luna-ultra",
@@ -58822,7 +58862,8 @@
     "launchPrice": 22990,
     "image_url": "/images/products/insta360/insta360-luna-ultra.webp",
     "retailPrice": 22990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "processor": "Triple AI Chip"
   },
   {
     "id": "insta360-x4-air",
@@ -58868,7 +58909,8 @@
     "weightGrams": 53,
     "launchPrice": 13980,
     "image_url": "/images/products/insta360/insta360-go-ultra.webp",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "processor": "5nm AI Chip"
   },
   {
     "id": "insta360-x5",
@@ -58894,7 +58936,8 @@
     "retailPrice": 14900,
     "retailPriceDate": "2026-10",
     "hasIBIS": false,
-    "megapixels": "72MP"
+    "megapixels": "72MP",
+    "processor": "5nm AI Chip + 2 Pro Imaging Chips"
   },
   {
     "id": "insta360-ace-pro-2",
@@ -58919,7 +58962,8 @@
     "retailPrice": 11990,
     "retailPriceDate": "2026-10",
     "hasIBIS": false,
-    "megapixels": "50MP"
+    "megapixels": "50MP",
+    "processor": "Dual AI chip (professional imaging chip + 5nm AI chip)"
   },
   {
     "id": "insta360-x4",
@@ -58944,7 +58988,8 @@
     "launchPrice": 18899,
     "image_url": "/images/products/insta360/insta360-x4.webp",
     "ports": "USB-C",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "processor": "5nm AI Chip"
   },
   {
     "id": "insta360-ace-pro",
@@ -58967,7 +59012,8 @@
     "weightGrams": 180,
     "image_url": "/images/products/insta360/insta360-ace-pro.webp",
     "launchPrice": 15990,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "processor": "5nm AI Chip"
   },
   {
     "id": "insta360-ace",
@@ -59080,7 +59126,9 @@
     "retailPriceDate": "2026-10",
     "ports": "USB-C",
     "isoRange": "100-3200 (Photo) / 25-6400 (Video)",
-    "image_url": "/images/products/gopro/gopro-mission-1-pro.webp"
+    "image_url": "/images/products/gopro/gopro-mission-1-pro.webp",
+    "fixedLens": "F2.8 (15-27mm equiv.)",
+    "cardSlots": "1x microSD"
   },
   {
     "id": "gopro-mission-1",
@@ -59352,7 +59400,8 @@
     "burstSpeed": "30fps",
     "ports": "USB 3.0",
     "launchPrice": 19600,
-    "image_url": "/images/products/gopro/gopro-max.webp"
+    "image_url": "/images/products/gopro/gopro-max.webp",
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero7-black",
@@ -59456,7 +59505,8 @@
     "evfMagnification": "None",
     "burstSpeed": "30fps",
     "ports": "USB 3.0, HDMI, mic",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "cardSlots": "1x microSD"
   },
   {
     "id": "gopro-fusion",
@@ -59477,7 +59527,8 @@
     "evfMagnification": "None",
     "burstSpeed": "30fps",
     "ports": "USB 3.0",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "hasIBIS": false
   },
   {
     "id": "gopro-hero5-black",
@@ -59541,7 +59592,8 @@
     "releaseMonth": 6,
     "megapixels": "8MP",
     "videoResolution": "Full HD 60p",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "cardSlots": "1x microSD (up to 64GB)"
   },
   {
     "id": "gopro-hero4-session",
@@ -62066,7 +62118,8 @@
     "cardSlots": "1x microSD/microSDHC/microSDXC",
     "ports": "micro USB, micro HDMI",
     "hasIBIS": false,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "afTargets": "None"
   },
   {
     "id": "nikon-keymission-170",
@@ -65715,7 +65768,8 @@
     "afPoints": "31 points",
     "retailPrice": 13990,
     "retailPriceDate": "2026-10",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "burstSpeed": "None"
   },
   {
     "id": "canon-powershot-sx540-hs",
@@ -66499,7 +66553,8 @@
     "burstSpeed": "10fps",
     "cardSlots": "1x SD",
     "ports": "USB, HDMI",
-    "processor": "TruePic"
+    "processor": "TruePic",
+    "afTargets": "Face, Animal (Dog, Cat)"
   },
   {
     "id": "olympus-stylus-sp-100ee",
@@ -67510,7 +67565,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "evfMagnification": "None",
     "processor": "EXR II",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-s8200",
@@ -67641,7 +67697,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "evfMagnification": "None",
     "processor": "EXR",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-f660exr",
@@ -67667,7 +67724,8 @@
     "isoRange": "100-3200 (Ext: 12800)",
     "burstSpeed": "11fps",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "ports": "USB 2.0, HDMI"
   },
   {
     "id": "fujifilm-finepix-sl300",
@@ -69900,7 +69958,8 @@
     "ports": "micro USB, micro HDMI",
     "hasWeatherSeal": false,
     "hasIBIS": false,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "lcdSpec": "None"
   },
   {
     "id": "ricoh-theta-sc",
@@ -70373,7 +70432,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "0.7x",
     "ports": "USB 2.0, HDMI",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "fixedLens": "F1.7-2.8 (24-75mm equiv.)"
   },
   {
     "id": "leica-d-lux-8",
@@ -70599,7 +70659,8 @@
     "weightGrams": 800,
     "image_url": "/images/products/zeiss/zeiss-zx1.webp",
     "evfMagnification": "0.74x",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "ports": "USB 3.2 Gen 1, HDMI"
   },
   {
     "id": "sigma-dp1-merrill",
@@ -71256,7 +71317,8 @@
     "batterySpec": "LB-060 (240 shots CIPA)",
     "ports": "micro USB (AV-OUT/USB 2.0), micro HDMI",
     "dimensions": "121.3 x 85.8 x 97.5 mm",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "lcdSpec": "3.0-inch"
   },
   {
     "id": "kodak-pixpro-az252",
@@ -72106,7 +72168,8 @@
     "retailPrice": 139000,
     "retailPriceDate": "2026-10",
     "afTargets": "Human, Animal, Bird, Insect, Car, Train, Airplane",
-    "videoColorDepth": "10-bit 4:2:2"
+    "videoColorDepth": "10-bit 4:2:2",
+    "hasWeatherSeal": true
   },
   {
     "id": "sony-zv-1",
@@ -72382,7 +72445,8 @@
     "isoRange": "100-12800",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-hx30v",
@@ -72443,7 +72507,8 @@
     "isoRange": "100-12800",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo",
-    "afPoints": "9 points"
+    "afPoints": "9 points",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-hx300",
@@ -73054,7 +73119,8 @@
     "burstSpeed": "0.8fps",
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
-    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick PRO Duo/Pro-HG Duo"
+    "cardSlots": "1x SD/SDHC/SDXC, Memory Stick PRO Duo/Pro-HG Duo",
+    "afTargets": "Face"
   },
   {
     "id": "sony-cyber-shot-dsc-h400",
