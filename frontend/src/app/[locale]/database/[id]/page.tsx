@@ -42,6 +42,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
   const yesNo = (v?: boolean) => (v === undefined ? undefined : v ? tc('yes') : tc('no'));
   const launchPrice = gear.launchPrice ? `NT$${gear.launchPrice.toLocaleString()}` : undefined;
   // Street price with the month it was checked
+  const kitPrice = gear.launchKitPrice ? t('kitPriceValue', { price: gear.launchKitPrice.toLocaleString(), kit: gear.launchKitLens ?? '' }) : undefined;
   const retailPrice = gear.retailPrice ? `NT$${gear.retailPrice.toLocaleString()} (${gear.retailPriceDate?.replace('-', '.')})` : undefined;
   const mounts = gear.mounts?.map(m => m.mount.name).join(', ');
   const kind = isAccessory
@@ -52,6 +53,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
   const purchaseRows: Row[] = [
     [t('releaseYear'), releaseLabel(gear)],
     [t('launchPrice'), launchPrice],
+    [t('launchKitPrice'), kitPrice],
     [t('retailPrice'), retailPrice],
   ];
 
@@ -152,6 +154,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('dimensions'), gear.dimensions],
           [t('releaseYear'), releaseLabel(gear)],
           [t('launchPrice'), launchPrice],
+          [t('launchKitPrice'), kitPrice],
           [t('retailPrice'), retailPrice],
         ] },
       ];

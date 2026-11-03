@@ -114,7 +114,9 @@
     "compatLenses": "{mount} 接環鏡頭 {count} 支",
     "compatBodies": "{mount} 接環機身 {count} 台",
     "compatItems": "對應器材",
-    "accessorySpecs": "配件規格"
+    "accessorySpecs": "配件規格",
+    "launchKitPrice": "上市套組價",
+    "kitPriceValue": "NT${price}（附 {kit}）"
   },
   "Common": {
     "back": "返回",

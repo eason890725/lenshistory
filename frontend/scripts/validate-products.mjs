@@ -7,7 +7,7 @@ const root = new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1');
 const items = JSON.parse(readFileSync(process.argv[2] ?? join(root, 'src/data/products.json'), 'utf8'));
 
 const SHARED = ['id', 'slug', 'brand', 'modelName', 'gearType', 'aliases', 'image_url', 'officialUrl', 'mounts', 'sensorFormat', 'series',
-  'category', 'releaseYear', 'releaseMonth', 'launchPrice', 'retailPrice', 'retailPriceDate', 'weightGrams', 'dimensions', 'hasWeatherSeal'];
+  'category', 'releaseYear', 'releaseMonth', 'launchPrice', 'launchKitPrice', 'launchKitLens', 'retailPrice', 'retailPriceDate', 'weightGrams', 'dimensions', 'hasWeatherSeal'];
 const LENS = ['lensType', 'focalLengthMinMm', 'focalLengthMaxMm', 'apertureMax', 'minAperture', 'maxMagnification', 'closeFocus',
   'filterSizeMm', 'motorType', 'opticalDesign', 'specialElements', 'coatings', 'hasOIS', 'hasApertureRing', 'hasCustomButton'];
 const BODY = ['fixedLens', 'megapixels', 'sensorType', 'processor', 'isoRange', 'burstSpeed', 'afPoints', 'afTargets', 'afRange', 'hasIBIS',
@@ -20,7 +20,7 @@ const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...
 const ACCESSORY_TYPES = new Set(['TELECONVERTER', 'MOUNT_ADAPTER', 'FLASH', 'BATTERY_GRIP', 'FILTER', 'TRIPOD', 'CAGE']);
 // Lens-side mounts an adapter may take: the mirrorless mounts plus SLR / cine / legacy ones
 const LENS_SIDE_MOUNTS = ['Canon EF', 'Canon EF-S', 'Canon FD', 'Nikon F', 'Sony A', 'Pentax K', 'Leica R', 'Leica M', 'M42', 'Contax/Yashica', 'Olympus OM', 'Four Thirds', 'PL', 'Hasselblad V', 'Pentax 645', 'Mamiya 645', 'Hasselblad H'];
-const NUMBER = ['legSections', 'releaseYear', 'releaseMonth', 'launchPrice', 'retailPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
+const NUMBER = ['launchKitPrice', 'legSections', 'releaseYear', 'releaseMonth', 'launchPrice', 'retailPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds', 'Samsung NX', 'Samsung NX-M', 'Canon EF-M', 'Nikon 1', 'Pentax Q', 'Sigma SA']);
 const FORMATS = new Set(['Full Frame', 'APS-H', 'APS-C', 'Medium Format', 'Four Thirds', '1-inch', '1/1.7-inch', '1/2.3-inch']);
@@ -80,6 +80,7 @@ for (const g of items) {
   if (g.launchPrice !== undefined && !(g.launchPrice > 0)) err('launchPrice must be > 0 (leave it out when unknown)');
   if (g.retailPrice !== undefined && !(g.retailPrice > 0)) err('retailPrice must be > 0 (leave it out when unknown)');
   if ((g.retailPrice === undefined) !== (g.retailPriceDate === undefined)) err('retailPrice and retailPriceDate go together');
+  if ((g.launchKitPrice === undefined) !== (g.launchKitLens === undefined)) err('launchKitPrice and launchKitLens go together');
   if (g.retailPriceDate !== undefined && !/^\d{4}-(0[1-9]|1[0-2])$/.test(g.retailPriceDate)) err(`retailPriceDate must look like 2026-10, got "${g.retailPriceDate}"`);
   if (g.releaseMonth !== undefined && !(Number.isInteger(g.releaseMonth) && g.releaseMonth >= 1 && g.releaseMonth <= 12)) err('releaseMonth must be an integer 1-12');
   if (g.releaseMonth !== undefined && !g.releaseYear) err('releaseMonth needs releaseYear');

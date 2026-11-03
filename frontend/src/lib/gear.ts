@@ -20,6 +20,8 @@ export type Gear = {
   launchPrice?: number;     // Taiwan launch suggested price (NT$)
   retailPrice?: number;     // current Taiwan street price for new stock; cards and sorting use it only when there is no launch price
   retailPriceDate?: string; // "2026-10", when retailPrice was checked
+  launchKitPrice?: number;  // Taiwan launch price of the kit, for bodies launched only as a kit (NT$); not used for sorting
+  launchKitLens?: string;   // what the kit adds, e.g. "EF-M 15-45mm F3.5-6.3 IS STM"
   weightGrams?: number | string;
   dimensions?: string;
   hasWeatherSeal?: boolean;

@@ -114,7 +114,9 @@
     "compatLenses": "{count} {mount} lenses",
     "compatBodies": "{count} {mount} bodies",
     "compatItems": "Made for",
-    "accessorySpecs": "Accessory specs"
+    "accessorySpecs": "Accessory specs",
+    "launchKitPrice": "Launch kit price",
+    "kitPriceValue": "NT${price} (with {kit})"
   },
   "Common": {
     "back": "Back",
