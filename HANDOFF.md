@@ -68,7 +68,7 @@
 - 2026-11-03 雲端接手：1996 筆、0 errors；缺圖 175、缺月份 20。
 - 圖片：剩下缺圖的多半官方只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）、多色合照或黑底橫幅（Cooke、Cosina）；prepare_product_image.py 會拒收小圖。
 - 雲端 2026-11-03 成果：新增 27 筆（Sony NEX／E 鏡、Nikon Z 120-300 TC、SE 鏡、sd Quattro、GH4R 等），補圖 6、規格約 180 欄、台灣價格 11、月份 11。
-- 雲端 session 收尾（2026-11-03 17:00，額度剩 US$18 停止）：2202 筆（含配件 202）；新增套組價欄位 launchKitPrice／launchKitLens。
+- 雲端 session 收尾（2026-11-03 17:00，額度剩 US$18 停止）：2202 筆（含配件 172）；新增套組價欄位 launchKitPrice／launchKitLens。
   未完成：主要品牌缺圖約 165 筆（找大圖的 agent 已中止，沒有產出）；價格仍缺約 850 筆。
 - 雲端 WebSearch 額度（整個 session 200 次）很快用完，之後只能 WebFetch。
 - 月份查核退回：預購上架、Amazon 開賣、單一地區發表都不算正式發表月份。7Artisans 7.5/25/35 F2 應為 2017-06、M75 為 2019-08、AstrHori Periprobe 2023-12（officialUrl 指到直桿版，要再查）。
