@@ -7509,7 +7509,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/25mm-f2-0.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "motorType": "Linear Motor"
   },
   {
     "brand": "Sigma",
@@ -8414,7 +8415,8 @@
     "minAperture": "22",
     "closeFocus": "0.35m",
     "specialElements": "3 Aspherical",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "motorType": "Stepping Motor"
   },
   {
     "brand": "Tamron",
@@ -10133,7 +10135,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/85mm-f1-8.webp",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "motorType": "Linear Motor"
   },
   {
     "brand": "Tokina",
@@ -10265,7 +10268,8 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/85mm-f1-8-af-stm-ii.webp",
     "closeFocus": "0.8m",
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "minAperture": "16"
   },
   {
     "brand": "Yongnuo",
@@ -10593,7 +10597,9 @@
     "image_url": "/images/products/samyang/100mm-t2-3-v-af.webp",
     "releaseMonth": 12,
     "retailPrice": 19980,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "opticalDesign": "9 elements in 8 groups",
+    "specialElements": "2 ED, 2 HR"
   },
   {
     "brand": "Sony",
@@ -28211,7 +28217,8 @@
     "releaseMonth": 9,
     "specialElements": "1 ED, 5 Aspherical",
     "retailPrice": 36880,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "motorType": "Linear"
   },
   {
     "id": "sony-nex-6",
@@ -28839,7 +28846,8 @@
     "image_url": "/images/products/tokina/tokina-sz-8mm-f2-8-fish-eye.webp",
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "zeiss-otus-ml-1-4-50",
@@ -29942,7 +29950,9 @@
     "releaseMonth": 9,
     "retailPrice": 4990,
     "retailPriceDate": "2026-10",
-    "coatings": "Multi-Layer Coating"
+    "coatings": "Multi-Layer Coating",
+    "hasOIS": false,
+    "minAperture": "16"
   },
   {
     "id": "viltrox-af-15mm-f1-7-air",
@@ -32662,7 +32672,8 @@
     "releaseMonth": 9,
     "retailPrice": 26010,
     "retailPriceDate": "2026-10",
-    "dimensions": "Ø88 x 68 mm"
+    "dimensions": "Ø88 x 68 mm",
+    "specialElements": "Aspherical, Anomalous Partial Dispersion (APD) glass"
   },
   {
     "id": "zeiss-touit-1-8-32",
@@ -33501,7 +33512,8 @@
     "opticalDesign": "11 elements in 8 groups",
     "specialElements": "1 ED, 2 High Refractive Index",
     "retailPrice": 9800,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false
   },
   {
     "id": "meike-85mm-f1-8-pro",
@@ -34460,7 +34472,10 @@
     "opticalDesign": "11 elements in 8 groups",
     "retailPrice": 9400,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false,
+    "specialElements": "2 ED, 1 Aspherical",
+    "hasApertureRing": true
   },
   {
     "id": "7artisans-10mm-f3-5",
@@ -34503,7 +34518,8 @@
     "hasApertureRing": true,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "hasOIS": false
   },
   {
     "id": "7artisans-14mm-f2-8",
@@ -34595,7 +34611,9 @@
     "filterSizeMm": 58,
     "opticalDesign": "6 elements in 6 groups",
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false,
+    "specialElements": "3 HR"
   },
   {
     "id": "7artisans-6mm-f2-fisheye",
@@ -34822,7 +34840,8 @@
     "motorType": "Manual focus",
     "releaseMonth": 7,
     "image_url": "/images/products/mitakon/mitakon-speedmaster-80mm-f1-6.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "mitakon-55mm-f2-8-1-5x-macro",
@@ -35124,7 +35143,8 @@
     "hasApertureRing": true,
     "hasWeatherSeal": true,
     "image_url": "/images/products/mitakon/mitakon-speedmaster-35mm-f0-95-ii.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "yongnuo-yn23mm-f1-4-da-dsm-wl-pro",
@@ -35457,7 +35477,8 @@
     "image_url": "/images/products/sirui/sirui-aurora-85mm-f1-4.webp",
     "retailPrice": 16980,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "hasOIS": false
   },
   {
     "id": "sirui-aurora-35mm-f1-4",
@@ -43209,7 +43230,8 @@
       }
     ],
     "image_url": "/images/products/astrhori/astrhori-af-27mm-f2-8.webp",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "hasOIS": false
   },
   {
     "id": "astrhori-120mm-f2-8-macro-2x",
@@ -49227,7 +49249,8 @@
     "retailPrice": 2600,
     "retailPriceDate": "2026-10",
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "ttartisans-aps-c-40mm-f2-8-macro",
@@ -49292,7 +49315,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-40mm-f2-8-macro.webp",
     "retailPrice": 2600,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "ttartisans-aps-c-17mm-f1-4",
@@ -49349,7 +49373,8 @@
     "image_url": "/images/products/ttartisans/ttartisans-aps-c-17mm-f1-4.webp",
     "retailPrice": 2980,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "ttartisans-aps-c-7-5mm-f2-fisheye",
@@ -50391,7 +50416,8 @@
     "minAperture": "16",
     "closeFocus": "0.23m",
     "hasCustomButton": false,
-    "maxMagnification": "0.5x"
+    "maxMagnification": "0.5x",
+    "hasOIS": false
   },
   {
     "id": "lensbaby-burnside-35",
@@ -50616,7 +50642,8 @@
     "hasWeatherSeal": false,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "UMC multi-layer coating"
+    "coatings": "UMC multi-layer coating",
+    "closeFocus": "0.12m"
   },
   {
     "id": "7artisans-25mm-f1-8-aps-c",
@@ -50743,7 +50770,8 @@
     "hasCustomButton": false,
     "retailPrice": 9300,
     "retailPriceDate": "2026-10",
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "specialElements": "2 HR"
   },
   {
     "id": "7artisans-55mm-f1-4-aps-c",
@@ -50836,7 +50864,9 @@
     "hasWeatherSeal": false,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "coatings": "Multi-layer coating"
+    "coatings": "Multi-layer coating",
+    "minAperture": "16",
+    "dimensions": "Ø63 x 62 mm"
   },
   {
     "id": "7artisans-35mm-f1-2-aps-c",
@@ -50966,7 +50996,10 @@
     "weightGrams": 550,
     "hasApertureRing": true,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false,
+    "dimensions": "Ø66 x 100 mm",
+    "maxMagnification": "1x"
   },
   {
     "id": "7artisans-m-75mm-f1-25",
@@ -51049,7 +51082,8 @@
     "retailPriceDate": "2026-10",
     "coatings": "Multi-layer coating",
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "7artisans-35mm-f0-95-aps-c",
@@ -51105,7 +51139,9 @@
     "filterSizeMm": 52,
     "specialElements": "2 Ultra-low dispersion",
     "retailPrice": 6500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "7artisans-18mm-f6-3-aps-c",
@@ -51144,7 +51180,9 @@
     "opticalDesign": "6 elements in 4 groups",
     "closeFocus": "0.35m",
     "weightGrams": 51,
-    "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-aps-c.webp"
+    "image_url": "/images/products/7artisans/7artisans-18mm-f6-3-aps-c.webp",
+    "hasOIS": false,
+    "minAperture": "6.3"
   },
   {
     "id": "7artisans-35mm-f5-6",
@@ -51619,7 +51657,11 @@
     "minAperture": "T16",
     "closeFocus": "0.5m",
     "image_url": "/images/products/7artisans/7artisans-vision-50mm-t1-05-cine.webp",
-    "coatings": "HD multi-layer coating"
+    "coatings": "HD multi-layer coating",
+    "hasOIS": false,
+    "dimensions": "Ø90 x 85 mm",
+    "weightGrams": 679,
+    "motorType": "Manual focus"
   },
   {
     "id": "7artisans-m-28mm-f5-6",
@@ -51977,7 +52019,11 @@
     "closeFocus": "0.2m",
     "retailPrice": 12000,
     "retailPriceDate": "2026-10",
-    "specialElements": "2 Aspherical, 2 ED"
+    "specialElements": "2 Aspherical, 2 ED",
+    "hasOIS": false,
+    "dimensions": "Ø70 x 86 mm",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "7artisans-spectrum-14mm-t2-9-cine",
@@ -52019,7 +52065,8 @@
     "minAperture": "T16",
     "closeFocus": "0.4m",
     "weightGrams": 660,
-    "specialElements": "2 Aspherical, 3 ED, 5 HR"
+    "specialElements": "2 Aspherical, 3 ED, 5 HR",
+    "opticalDesign": "13 elements in 9 groups"
   },
   {
     "id": "7artisans-50mm-f1-4-aps-c-tilt",
@@ -52711,7 +52758,8 @@
     "image_url": "/images/products/laowa/laowa-12-24mm-f5-6-c-dreamer.webp",
     "retailPrice": 22800,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "laowa-argus-28mm-f1-2-ff",
@@ -52761,7 +52809,8 @@
     "retailPrice": 21000,
     "retailPriceDate": "2026-10",
     "hasCustomButton": false,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasOIS": false
   },
   {
     "id": "laowa-nanomorph-32mm-t2-9-1-5x-lf",
@@ -54053,7 +54102,8 @@
     "image_url": "/images/products/laowa/laowa-58mm-f2-8-2x-ultra-macro-apo.webp",
     "retailPrice": 17500,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "laowa-24mm-f2-zero-d-tilt-shift",
@@ -54615,7 +54665,8 @@
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-12mm-f2-apsc-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "meike-8mm-f2-8-mft-mf",
@@ -54645,7 +54696,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "image_url": "/images/products/meike/meike-8mm-f2-8-mft-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "meike-7-5mm-f2-8-apsc-fisheye-mf",
@@ -55085,7 +55137,10 @@
     "minAperture": "22",
     "filterSizeMm": 49,
     "opticalDesign": "6 elements in 5 groups",
-    "weightGrams": 188
+    "weightGrams": 188,
+    "hasOIS": false,
+    "dimensions": "Ø60.5 x 41 mm",
+    "closeFocus": "0.65m"
   },
   {
     "id": "meike-6-5mm-f2-fisheye-mf",
@@ -55129,7 +55184,8 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-6-5mm-f2-fisheye-mf.webp",
     "hasCustomButton": false,
-    "coatings": "Nano-technology multi-layer coating"
+    "coatings": "Nano-technology multi-layer coating",
+    "hasOIS": false
   },
   {
     "id": "meike-85mm-f2-8-macro-ff-mf",
@@ -55236,7 +55292,9 @@
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-50mm-f1-7-ff-mf.webp",
     "hasCustomButton": false,
-    "coatings": "multi-layer coatings"
+    "coatings": "multi-layer coatings",
+    "minAperture": "22",
+    "hasOIS": false
   },
   {
     "id": "meike-6-11mm-f3-5-fisheye-zoom-mf",
@@ -55873,7 +55931,8 @@
     "hasCustomButton": false,
     "coatings": "HD multi-layer nano coating",
     "retailPrice": 12900,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "specialElements": "ED, HR"
   },
   {
     "id": "sirui-24mm-f2-8-1-33x-anamorphic",
@@ -73341,7 +73400,8 @@
     "hasCustomButton": false,
     "coatings": "Multi Coating (MC) / Single Coating (SC)",
     "sensorFormat": "Full Frame",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "specialElements": "1 double-sided Aspherical"
   },
   {
     "id": "voigtlander-ultron-vintage-line-28mm-f2-aspherical",
@@ -74036,7 +74096,8 @@
       }
     ],
     "image_url": "/images/products/mitakon/mitakon-creator-20mm-f2-4-5x-super-macro.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "mitakon-creator-85mm-f2-8-1-5x-super-macro",
@@ -74272,7 +74333,8 @@
       }
     ],
     "image_url": "/images/products/mitakon/mitakon-speedmaster-20mm-f0-95.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "mitakon-speedmaster-cinema-17mm-t1-0",
