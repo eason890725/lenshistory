@@ -33622,7 +33622,24 @@
     "specialElements": "3 Low Dispersion, 2 High Refractive Index, 3 Aspherical",
     "motorType": "STM",
     "hasApertureRing": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ]
   },
   {
     "id": "meike-85mm-f1-8-se-mark-ii",
@@ -33688,7 +33705,24 @@
     "opticalDesign": "13 elements in 11 groups",
     "motorType": "STM",
     "hasApertureRing": true,
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "meike-56mm-f1-7-air",
@@ -35162,7 +35196,19 @@
     "releaseYear": 2024,
     "releaseMonth": 8,
     "weightGrams": 360,
-    "image_url": "/images/products/yongnuo/yongnuo-yn23mm-f1-4-da-dsm-wl-pro.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn23mm-f1-4-da-dsm-wl-pro.webp",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "yongnuo-yn56mm-f1-4-da-dsm-wl-pro",
@@ -35174,7 +35220,19 @@
     "releaseYear": 2024,
     "releaseMonth": 6,
     "weightGrams": 368,
-    "image_url": "/images/products/yongnuo/yongnuo-yn56mm-f1-4-da-dsm-wl-pro.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn56mm-f1-4-da-dsm-wl-pro.webp",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "laowa-15mm-f5-cookie-ff",
@@ -35431,7 +35489,14 @@
     "focalLengthMaxMm": 50,
     "apertureMax": "4-5.6",
     "hasOIS": false,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "id": "sirui-aurora-85mm-f1-4",
@@ -51870,7 +51935,14 @@
     "closeFocus": "0.7m",
     "weightGrams": 232,
     "retailPrice": 7500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Leica M"
+        }
+      }
+    ]
   },
   {
     "id": "7artisans-12mm-f2-8-mark-ii-aps-c",
@@ -51992,7 +52064,29 @@
     "closeFocus": "0.4m",
     "specialElements": "2 Aspherical",
     "retailPrice": 8500,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ]
   },
   {
     "id": "7artisans-24mm-f1-4-aps-c",
@@ -52005,7 +52099,39 @@
     "image_url": "/images/products/7artisans/7artisans-24mm-f1-4-aps-c.webp",
     "weightGrams": 344,
     "minAperture": "16",
-    "closeFocus": "0.3m"
+    "closeFocus": "0.3m",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
+      },
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
   },
   {
     "id": "7artisans-9mm-f5-6",
@@ -55833,7 +55959,14 @@
     "modelName": "Yongnuo YN42.5mm F1.7M",
     "gearType": "LENS",
     "releaseYear": 2019,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ]
   },
   {
     "id": "yongnuo-yn455",
@@ -63463,7 +63596,14 @@
     "dimensions": "Ø63 x 54.8 mm",
     "weightGrams": 400,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "id": "slr-magic-cine-35mm-f1-2",
@@ -63479,7 +63619,14 @@
     "minAperture": "16",
     "filterSizeMm": 52,
     "dimensions": "Ø64.73 x 77.4 mm",
-    "weightGrams": 535
+    "weightGrams": 535,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "id": "slr-magic-cine-75mm-f1-4",
@@ -63494,7 +63641,14 @@
     "minAperture": "16",
     "filterSizeMm": 52,
     "dimensions": "Ø64.67 x 78.68 mm",
-    "weightGrams": 455
+    "weightGrams": 455,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "id": "slr-magic-cine-50mm-f1-1-ii",
@@ -63536,7 +63690,24 @@
     "modelName": "SLR Magic CINE 35mm T1.4",
     "gearType": "LENS",
     "releaseYear": 2012,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ]
   },
   {
     "id": "slr-magic-toy-lens-11mm-f1-4",
@@ -63545,7 +63716,14 @@
     "modelName": "SLR Magic Toy Lens 11mm F1.4",
     "gearType": "LENS",
     "releaseYear": 2012,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Pentax Q"
+        }
+      }
+    ]
   },
   {
     "id": "slr-magic-microprime-cine-25mm-t1-5",
@@ -64596,7 +64774,14 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/blazar/blazar-apex-50mm-t1-8-1-33x-s35-auto-focus-anamorphic.webp",
     "minAperture": "T22",
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ]
   },
   {
     "id": "blazar-beetle-32mm-t3-2-1-33x-full-frame-anamorphic",
@@ -76875,5 +77060,209 @@
     "ports": "USB-C (5Gbps), micro USB, HDMI Type A, mic, headphone",
     "dimensions": "129.7 x 77.8 x 84.5 mm",
     "weightGrams": 715
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox AF 35mm F1.4 Pro",
+    "gearType": "LENS",
+    "id": "viltrox-af-35mm-f1-4-pro",
+    "slug": "viltrox-af-35mm-f1-4-pro",
+    "officialUrl": "https://viltrox.com/products/af-35mm-f1-4-fe",
+    "series": "Pro",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "releaseYear": 2026,
+    "releaseMonth": 10,
+    "focalLengthMinMm": 35,
+    "focalLengthMaxMm": 35,
+    "apertureMax": 1.4,
+    "opticalDesign": "16 elements in 11 groups",
+    "specialElements": "2 UA, 3 ED, 4 HR",
+    "closeFocus": "0.3m",
+    "motorType": "HyperVCM",
+    "hasWeatherSeal": true,
+    "coatings": "Water- and smudge-resistant front coating"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma 50mm F1.4 CL DG | Contemporary",
+    "gearType": "LENS",
+    "id": "sigma-50mm-f1-4-cl-dg-contemporary",
+    "slug": "sigma-50mm-f1-4-cl-dg-contemporary",
+    "officialUrl": "https://www.sigma-global.com/en/lenses/c027_50_14/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "Full Frame",
+    "releaseYear": 2026,
+    "releaseMonth": 10,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.4,
+    "minAperture": "16",
+    "closeFocus": "0.45m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 52,
+    "opticalDesign": "9 elements in 6 groups",
+    "specialElements": "1 FLD, 3 Aspherical",
+    "dimensions": "Ø64.7 x 54 mm",
+    "weightGrams": 375,
+    "motorType": "RDD (Rotary Direct Drive)",
+    "hasWeatherSeal": true,
+    "hasApertureRing": true,
+    "coatings": "Water and Oil-Repellent Coating"
+  },
+  {
+    "brand": "7Artisans",
+    "modelName": "7Artisans AF 10mm F4 APS-C",
+    "gearType": "LENS",
+    "id": "7artisans-af-10mm-f4",
+    "slug": "7artisans-af-10mm-f4",
+    "officialUrl": "https://www.7artisans.com/prod_view.aspx?nid=3&typeid=126&id=634",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 10,
+    "focalLengthMaxMm": 10,
+    "apertureMax": 4,
+    "weightGrams": 71,
+    "closeFocus": "0.2m",
+    "motorType": "STM"
+  },
+  {
+    "brand": "Meike",
+    "modelName": "Meike 58mm F1.2 MIX APS-C Auto Focus",
+    "gearType": "LENS",
+    "id": "meike-58mm-f1-2-mix",
+    "slug": "meike-58mm-f1-2-mix",
+    "officialUrl": "https://meikeglobal.com/products/5812e",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2026,
+    "focalLengthMinMm": 58,
+    "focalLengthMaxMm": 58,
+    "apertureMax": 1.2
+  },
+  {
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN16mm F1.8S DA DSM",
+    "gearType": "LENS",
+    "id": "yongnuo-yn16mm-f1-8s-da-dsm",
+    "slug": "yongnuo-yn16mm-f1-8s-da-dsm",
+    "officialUrl": "https://yongnuo.eu/lenses/sony-e/yn16mm-f1-8s-da-dsm",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2022,
+    "focalLengthMinMm": 16,
+    "focalLengthMaxMm": 16,
+    "apertureMax": 1.8,
+    "minAperture": "16",
+    "opticalDesign": "10 elements in 8 groups",
+    "closeFocus": "0.17m",
+    "maxMagnification": "0.15x",
+    "filterSizeMm": 58,
+    "dimensions": "Ø64 x 69 mm",
+    "weightGrams": 273,
+    "motorType": "DSM (Digital Stepping Motor)",
+    "hasWeatherSeal": true,
+    "hasCustomButton": true
+  },
+  {
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN50mm F1.8S DA DSM II",
+    "gearType": "LENS",
+    "id": "yongnuo-yn50mm-f1-8s-da-dsm-ii",
+    "slug": "yongnuo-yn50mm-f1-8s-da-dsm-ii",
+    "officialUrl": "https://yongnuo.eu/lenses/sony-e/yn50mm-f1-8s-da-dsm-ii",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2023,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "weightGrams": 134,
+    "motorType": "DSM (Digital Stepping Motor)"
+  },
+  {
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN50mm F1.8X DA DSM Pro",
+    "gearType": "LENS",
+    "id": "yongnuo-yn50mm-f1-8x-da-dsm-pro",
+    "slug": "yongnuo-yn50mm-f1-8x-da-dsm-pro",
+    "officialUrl": "https://yongnuo.eu/lenses/fujifilm-x/yn50mm-f1-8x-da-dsm-pro/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "sensorFormat": "APS-C",
+    "releaseYear": 2023,
+    "releaseMonth": 7,
+    "focalLengthMinMm": 50,
+    "focalLengthMaxMm": 50,
+    "apertureMax": 1.8,
+    "opticalDesign": "14 elements in 11 groups",
+    "motorType": "DSM (Digital Stepping Motor)"
   }
 ]
