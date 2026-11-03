@@ -62,6 +62,8 @@
 - 已收：增距鏡 19、轉接環 22、閃光燈 18、手把 30、濾鏡 25、腳架 13、兔籠 44。
 - 未收：Sony LA-EA 系列（sony.com 抓不到）、Panasonic 閃光燈、Profoto（403）、Gitzo／Manfrotto（429）、Godox V860III／TT685II（說明書 >10MB）、
   Fujifilm H Mount Adapter G（鏡頭端卡口來源不足）、VG-XT1（官方頁下架）。
+- 省錢做法（主 session 直接跑腳本，不派 agent）：PChome 搜尋 API https://ecshweb.pchome.com.tw/search/v4.3/all/results?q=<關鍵字>&page=1 批次查現價，人工比對品名（公司貨、單品、無 II／組合）；
+  各產品 officialUrl 的 og:image 批次抓圖，跑 prepare_product_image.py 後做縮圖總表逐張看。這兩招在雲端一次補了約 25 筆價格、66 張圖。
 - 舊上市價好用來源：T客邦／DIGIPHOTO 網站地圖（sitemap）列出全部文章網址，用型號 grep slug 找上市文；Yahoo 購物中心自營、PChome、各品牌台灣官方商店可查現價。
 
 ## 進度紀錄
