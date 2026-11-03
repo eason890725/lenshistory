@@ -50648,7 +50648,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "coatings": "UMC multi-layer coating",
-    "closeFocus": "0.12m"
+    "closeFocus": "0.12m",
+    "releaseMonth": 6
   },
   {
     "id": "7artisans-25mm-f1-8-aps-c",
@@ -50702,7 +50703,8 @@
     "hasWeatherSeal": false,
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "closeFocus": "0.18m"
+    "closeFocus": "0.18m",
+    "releaseMonth": 6
   },
   {
     "id": "7artisans-35mm-f2-aps-c",
@@ -50742,7 +50744,8 @@
     "image_url": "/images/products/7artisans/7artisans-35mm-f2-aps-c.webp",
     "hasWeatherSeal": false,
     "motorType": "Manual focus",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "releaseMonth": 6
   },
   {
     "id": "7artisans-m-50mm-f1-1",
@@ -51034,7 +51037,8 @@
     "retailPrice": 13800,
     "retailPriceDate": "2026-10",
     "specialElements": "2 HR",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "releaseMonth": 8
   },
   {
     "id": "7artisans-35mm-f1-2-mark-ii-aps-c",
