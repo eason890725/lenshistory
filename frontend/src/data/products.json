@@ -3942,7 +3942,7 @@
     "processor": "EXPEED 6",
     "afTargets": "Human, Animal",
     "videoColorDepth": "10-bit (via HDMI)",
-    "afRange": "EV -2 to 19",
+    "afRange": "EV -4 to 19 (without low-light AF: -2 to 19)",
     "evfMagnification": "0.8x",
     "lcdSpec": "3.2-inch 2.1M-dot tilting touch",
     "cardSlots": "1x XQD / CFexpress Type B",
@@ -45800,7 +45800,8 @@
     ],
     "image_url": "/images/products/kase/kase-af-85mm-f1-4.webp",
     "retailPrice": 16300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 5
   },
   {
     "id": "kase-150mm-f5-6-af-reflex-lens",
@@ -50357,7 +50358,8 @@
     "coatings": "Broadband multi-coated anti-reflective",
     "minAperture": "16",
     "closeFocus": "0.23m",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "maxMagnification": "0.5x"
   },
   {
     "id": "lensbaby-burnside-35",
@@ -50708,7 +50710,8 @@
     "motorType": "Manual focus",
     "hasCustomButton": false,
     "retailPrice": 9300,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 6
   },
   {
     "id": "7artisans-55mm-f1-4-aps-c",
@@ -52461,7 +52464,8 @@
     "hasCustomButton": false,
     "specialElements": "4 high-index glass elements",
     "retailPrice": 13600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "releaseMonth": 4
   },
   {
     "id": "laowa-7-5mm-f2-mft",
@@ -57870,7 +57874,8 @@
     "batterySpec": "Built-in Li-ion (260 shots CIPA)",
     "dimensions": "128.9 x 61.6 x 14.9 mm",
     "weightGrams": 170,
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "releaseMonth": 4
   },
   {
     "id": "casio-exilim-ex-tr50",
@@ -57896,7 +57901,8 @@
     "evfMagnification": "None",
     "processor": "Exilim Engine HS v.3",
     "hasIBIS": false,
-    "videoResolution": "Full HD"
+    "videoResolution": "Full HD",
+    "releaseMonth": 9
   },
   {
     "id": "casio-exilim-ex-tr60",
@@ -57919,7 +57925,8 @@
     "dimensions": "126 x 64 x 14.6 mm",
     "weightGrams": 167,
     "videoResolution": "Full HD",
-    "processor": "EXILIM Engine HS Ver.3"
+    "processor": "EXILIM Engine HS Ver.3",
+    "releaseMonth": 4
   },
   {
     "id": "casio-exilim-ex-tr70",
@@ -58137,7 +58144,8 @@
     "weightGrams": 157,
     "launchPrice": 10990,
     "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_tr150/",
-    "ports": "USB, micro HDMI"
+    "ports": "USB, micro HDMI",
+    "releaseMonth": 3
   },
   {
     "id": "casio-exilim-ex-tr15",
