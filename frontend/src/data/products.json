@@ -78351,7 +78351,9 @@
       "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
       "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
       "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
-    ]
+    ],
+    "retailPrice": 8540,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "OM System",
@@ -78383,7 +78385,9 @@
       "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
       "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
       "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
-    ]
+    ],
+    "retailPrice": 14990,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Panasonic",
@@ -78624,7 +78628,9 @@
     "weightGrams": 125,
     "dimensions": "Ø70 x 70 mm",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-mount-adapter-ftz-ii.webp"
+    "image_url": "/images/products/nikon/nikon-mount-adapter-ftz-ii.webp",
+    "retailPrice": 7980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78646,7 +78652,9 @@
     "releaseMonth": 9,
     "weightGrams": 110,
     "dimensions": "Ø71.2 x 24 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 3990,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -79362,7 +79370,9 @@
     "maxLoad": "20kg",
     "legSections": 4,
     "weightGrams": 1940,
-    "image_url": "/images/products/fotopro/fotopro-t1-plus.webp"
+    "image_url": "/images/products/fotopro/fotopro-t1-plus.webp",
+    "retailPrice": 14800,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "SmallRig",
@@ -79730,7 +79740,9 @@
       "sony-a1-ii"
     ],
     "dimensions": "136.1 x 52.7 x 68.3 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 11682,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -80456,6 +80468,8 @@
     "hasHSS": true,
     "wirelessSystem": "Radio",
     "recycleTime": "1.3s",
-    "batterySpec": "7.2V 2980mAh Li-ion"
+    "batterySpec": "7.2V 2980mAh Li-ion",
+    "retailPrice": 7390,
+    "retailPriceDate": "2026-11"
   }
 ]
