@@ -77306,5 +77306,586 @@
     "opticalDesign": "14 elements in 11 groups",
     "motorType": "DSM (Digital Stepping Motor)",
     "image_url": "/images/products/yongnuo/yongnuo-yn50mm-f1-8x-da-dsm-pro.webp"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi True Color Variable ND 1-5 stops",
+    "gearType": "ACCESSORY",
+    "id": "nisi-true-color-nd-vario-1-5",
+    "accessoryType": "FILTER",
+    "releaseYear": 2022,
+    "officialUrl": "https://www.nisioptics.com/true-color-variable-nd-1-5-stops",
+    "filterKind": "Variable ND 1-5 stops",
+    "releaseMonth": 1,
+    "filterSizes": "40.5-95mm",
+    "material": "Optical glass (nano coating)",
+    "image_url": "/images/products/nisi/nisi-true-color-nd-vario-1-5.webp"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi Black Mist",
+    "gearType": "ACCESSORY",
+    "id": "nisi-black-mist",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/nisi-black-mist",
+    "filterKind": "Black mist 1/2, 1/4, 1/8",
+    "filterSizes": "49-95mm",
+    "material": "Copper frame"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya UX II CIR-PL",
+    "gearType": "ACCESSORY",
+    "id": "hoya-ux-ii-cir-pl",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://hoyafilter.com/product/ux_ii_cir_pl/",
+    "filterKind": "Circular polarizer",
+    "releaseMonth": 6,
+    "filterSizes": "37-82mm",
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-ux-ii-cir-pl.webp"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya HD nano Mk II CIR-PL",
+    "gearType": "ACCESSORY",
+    "id": "hoya-hd-nano-mk-ii-cir-pl",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://hoyafilter.com/product/hd_nano_mk_ii_cir_pl/",
+    "filterKind": "Circular polarizer",
+    "releaseMonth": 7,
+    "filterSizes": "49-82mm",
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-hd-nano-mk-ii-cir-pl.webp"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya FUSION ONE NEXT CIR-PL",
+    "gearType": "ACCESSORY",
+    "id": "hoya-fusion-one-next-cir-pl",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://hoyafilter.com/product/fusion_one_next_cir_pl/",
+    "filterKind": "Circular polarizer",
+    "releaseMonth": 8,
+    "filterSizes": "37-82mm",
+    "material": "Optical glass, aluminum frame",
+    "image_url": "/images/products/hoya/hoya-fusion-one-next-cir-pl.webp"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya PROND EX",
+    "gearType": "ACCESSORY",
+    "id": "hoya-prond-ex",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://hoyafilter.com/product/prond_ex_1000_nd_3_0/",
+    "filterKind": "ND8 / ND64 / ND500 / ND1000 (3-10 stops)",
+    "releaseMonth": 9,
+    "filterSizes": "49-82mm",
+    "material": "Optical glass, aluminum frame",
+    "image_url": "/images/products/hoya/hoya-prond-ex.webp"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya ND Essentials Filter Kit",
+    "gearType": "ACCESSORY",
+    "id": "hoya-nd-essentials-filter-kit",
+    "accessoryType": "FILTER",
+    "releaseYear": 2025,
+    "officialUrl": "https://hoyafilter.com/product/nd_essentials_filter_kit/",
+    "filterKind": "ND8 / ND64 / ND1000 kit (3, 6, 10 stops)",
+    "releaseMonth": 10
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya CinePro HD Black Mist",
+    "gearType": "ACCESSORY",
+    "id": "hoya-cinepro-hd-black-mist",
+    "accessoryType": "FILTER",
+    "releaseYear": 2026,
+    "officialUrl": "https://hoyafilter.com/product/cinepro_hd_black_mist_1_4/",
+    "filterKind": "Black mist 1/8, 1/4",
+    "releaseMonth": 2,
+    "filterSizes": "49-95mm",
+    "material": "Optical glass",
+    "image_url": "/images/products/hoya/hoya-cinepro-hd-black-mist.webp"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya HD Antistatic CIR-PL",
+    "gearType": "ACCESSORY",
+    "id": "hoya-hd-antistatic-cir-pl",
+    "accessoryType": "FILTER",
+    "releaseYear": 2026,
+    "officialUrl": "https://hoyafilter.com/product/hd_antistatic_cir_pl/",
+    "filterKind": "Circular polarizer",
+    "releaseMonth": 7,
+    "filterSizes": "49-82mm",
+    "material": "Chemically reinforced optical glass, aluminum frame",
+    "image_url": "/images/products/hoya/hoya-hd-antistatic-cir-pl.webp"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W MASTER HTC Käsemann Circular Polarizer MRC nano",
+    "gearType": "ACCESSORY",
+    "id": "bw-master-htc-kasemann-cpl",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/polarizer",
+    "filterKind": "Circular polarizer (High Transmission, Käsemann)",
+    "releaseMonth": 10,
+    "filterSizes": "37-95mm, 112mm",
+    "material": "Brass frame",
+    "image_url": "/images/products/bww/bw-master-htc-kasemann-cpl.webp"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W BASIC Circular Polarizer S03 MRC",
+    "gearType": "ACCESSORY",
+    "id": "bw-basic-cpl-s03",
+    "accessoryType": "FILTER",
+    "releaseYear": 2021,
+    "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/polarizer",
+    "filterKind": "Circular polarizer",
+    "releaseMonth": 4,
+    "filterSizes": "37-105mm",
+    "material": "Brass frame",
+    "image_url": "/images/products/bww/bw-basic-cpl-s03.webp"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W T-Pro MRC nano",
+    "gearType": "ACCESSORY",
+    "id": "bw-t-pro",
+    "accessoryType": "FILTER",
+    "releaseYear": 2020,
+    "officialUrl": "https://schneiderkreuznach.com/en/company/news/newsroom/t-pro-new-filter-line",
+    "filterKind": "Clear / UV protection (007 Clear, 010 UV Haze)",
+    "releaseMonth": 1,
+    "material": "Brass frame"
+  },
+  {
+    "brand": "Schneider-Kreuznach",
+    "modelName": "Schneider-Kreuznach True-Match Vari-ND MKII",
+    "gearType": "ACCESSORY",
+    "id": "schneider-true-match-vari-nd-mkii",
+    "accessoryType": "FILTER",
+    "releaseYear": 2020,
+    "officialUrl": "https://schneiderkreuznach.com/en/company/news/newsroom/true-match-vari-nd-mkii",
+    "filterKind": "Variable ND 1.5-11.5 stops",
+    "releaseMonth": 5,
+    "filterSizes": "77mm, 82mm"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W 820 ND 6.0",
+    "gearType": "ACCESSORY",
+    "id": "bw-820-nd-6-0",
+    "accessoryType": "FILTER",
+    "releaseYear": 2026,
+    "officialUrl": "https://schneiderkreuznach.com/en/company/news/newsroom/bwfilter-innovations",
+    "filterKind": "ND 6.0 (20 stops)",
+    "releaseMonth": 5
+  },
+  {
+    "brand": "Peak Design",
+    "modelName": "Peak Design Travel Tripod (Carbon Fiber)",
+    "gearType": "ACCESSORY",
+    "id": "peak-design-travel-tripod-carbon",
+    "accessoryType": "TRIPOD",
+    "releaseYear": 2019,
+    "releaseMonth": 5,
+    "officialUrl": "https://www.peakdesign.com/products/travel-tripod",
+    "maxHeight": "152.4cm",
+    "maxLoad": "9.1kg",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Peak Design",
+    "modelName": "Peak Design Travel Tripod (Aluminum)",
+    "gearType": "ACCESSORY",
+    "id": "peak-design-travel-tripod-aluminum",
+    "accessoryType": "TRIPOD",
+    "releaseYear": 2019,
+    "releaseMonth": 5,
+    "officialUrl": "https://www.peakdesign.com/products/travel-tripod",
+    "maxHeight": "152.4cm",
+    "maxLoad": "9.1kg",
+    "material": "Aluminum",
+    "minHeight": "14.2cm",
+    "image_url": "/images/products/peak-design/peak-design-travel-tripod-aluminum.webp"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Sony Alpha 1 II / Alpha 9 III (5187)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5187",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Sony-Alpha-1-II-Alpha-9-III-5187.html",
+    "releaseYear": 2025,
+    "releaseMonth": 1,
+    "compatibleWith": [
+      "sony-a1-ii",
+      "sony-a9-iii"
+    ],
+    "material": "Aluminum alloy, Silicone",
+    "weightGrams": 166.5,
+    "dimensions": "147.5 x 70.0 x 112.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage for Canon EOS R5 Mark II (4975)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4975",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Black-Mamba-Cage-for-Canon-EOS-R5-Mark-II-4975.html",
+    "releaseYear": 2024,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 183.6,
+    "dimensions": "153.0 x 73.9 x 115.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage for Canon EOS R5 Mark II (4977)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4977",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/HawkLock-Quick-Release-Cage-for-Canon-EOS-R5-Mark-II-4977.html",
+    "releaseYear": 2024,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 211.7,
+    "dimensions": "156.5 x 118.5 x 64.0 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z 8 (3940)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3940",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Nikon-Z-8-3940.html",
+    "releaseYear": 2023,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 203,
+    "dimensions": "159.1 x 56.8 x 131 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z 8 with MB-N12 Battery Grip (3982)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3982",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Nikon-Z-8-with-MB-N12-Battery-Grip-3982.html",
+    "releaseYear": 2023,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 266,
+    "dimensions": "183.5 x 160.1 x 70.3 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Panasonic LUMIX G9 II / S5 II / S5 IIX (4022)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4022",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Panasonic-LUMIX-S5-II-4022.html",
+    "releaseYear": 2023,
+    "releaseMonth": 1,
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-g9ii"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "weightGrams": 161,
+    "dimensions": "147.5 x 62 x 118.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage for Panasonic LUMIX G9 II / S5 II / S5 IIX (4023)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4023",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Black-Mamba-Cage-for-Panasonic-LUMIX-S5-II-4023.html",
+    "releaseYear": 2023,
+    "releaseMonth": 1,
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-g9ii"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 157,
+    "dimensions": "147.5 x 72.8 x 117.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Panasonic LUMIX S1 II / S1 IIE / S1R II / S5 II / S5 IIX / G9 II (4902)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4902",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Panasonic-LUMIX-S1R-II-S5-II-S5-IIX-G9-II-4902.html",
+    "releaseYear": 2025,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "panasonic-lumix-s1rii",
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-g9ii",
+      "panasonic-lumix-s1ii",
+      "panasonic-lumix-s1iie"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Panasonic LUMIX S1 II / S1 IIE / S1R II / S5 II / S5 IIX / G9 II with DMW-BG1 / DMW-BG2 Battery Grip (5147)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5147",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Panasonic-LUMIX-S1R-II-S5-II-S5-IIX-G9-II-with-DMW-BG1-DMW-BG2-Battery-Grip-5147.html",
+    "releaseYear": 2025,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "panasonic-lumix-s1rii",
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-g9ii",
+      "panasonic-lumix-s1ii",
+      "panasonic-lumix-s1iie"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for Sony Alpha 7S III (2999)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-2999",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-sony-alpha-7s-iii-a7s-iii-a7s3-2999.html",
+    "releaseYear": 2020,
+    "releaseMonth": 7,
+    "compatibleWith": [
+      "sony-a7s-iii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for Panasonic S5/S5D (2983)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-2983",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-panasonic-s5-camera-2983.html",
+    "releaseYear": 2020,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "panasonic-lumix-s5",
+      "panasonic-lumix-s5d"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Retro\" Cage for FUJIFILM X100VI (4557)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4557",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Retro-Cage-for-FUJIFILM-X100VI-4557.html",
+    "releaseYear": 2024,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "fujifilm-x100vi"
+    ],
+    "material": "Aluminum alloy, Wood",
+    "weightGrams": 133,
+    "dimensions": "137.2 x 53.6 x 92.3 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R50 V (5427)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5427",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Canon-EOS-R50-V.html",
+    "releaseYear": 2025,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "canon-eos-r50-v"
+    ],
+    "material": "Aluminum alloy, Silicone, Stainless steel",
+    "weightGrams": 175.0,
+    "dimensions": "136.8 x 53.0 x 96.0 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Sony FX2 (5587)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5587",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-and-Cage-Kit-for-Sony-FX2.html",
+    "releaseYear": 2025,
+    "releaseMonth": 6,
+    "compatibleWith": [
+      "sony-fx2"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "weightGrams": 206.0,
+    "dimensions": "159.9 x 65.8 x 100.4 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Half Cage for Sony FX2 (5591)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5591",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Half-Cage-for-Sony-FX2-5591.html",
+    "releaseYear": 2025,
+    "releaseMonth": 6,
+    "compatibleWith": [
+      "sony-fx2"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 98.0,
+    "dimensions": "100.5 x 101.0 x 64.3 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for Canon EOS C80 (5136)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5136",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-Kit-for-Canon-EOS-C80-5136.html",
+    "releaseYear": 2025,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "canon-eos-c80"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "weightGrams": 457.0,
+    "dimensions": "189.9 x 132.0 x 167.7 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for FUJIFILM GFX100S II (4715)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4715",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-Kit-for-FUJIFILM-GFX100SII-4715.html",
+    "releaseYear": 2024,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "fujifilm-gfx-100s-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Advanced Cage Kit for Nikon ZR (5468)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5468",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-cage-kit-for-nikon-zr-5468.html",
+    "releaseYear": 2025,
+    "releaseMonth": 10,
+    "compatibleWith": [
+      "nikon-zr"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for SIGMA fp (CCM2518)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-ccm2518",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-sigma-fp-ccm2518.html",
+    "releaseYear": 2019,
+    "releaseMonth": 12,
+    "compatibleWith": [
+      "sigma-fp"
+    ]
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Panasonic S5 II/IIX (TA-T50-FCC)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t50-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-panasonic-s5-ii-iix/",
+    "releaseYear": 2023,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Half Camera Cage for Panasonic S5 II/IIX (TA-T50-HCC)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t50-hcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/half-camera-cage-for-panasonic-s5-ii-iix/",
+    "releaseYear": 2023,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Canon R6 V (TA-T102-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t102-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-canon-r6-v-black/",
+    "releaseYear": 2026,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "canon-eos-r6-v"
+    ],
+    "material": "Aluminum alloy"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Half Camera Cage for Canon R6 V (TA-T102-HCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t102-hcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/half-camera-cage-for-canon-r6-v-black/",
+    "releaseYear": 2026,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "canon-eos-r6-v"
+    ],
+    "material": "Aluminum alloy"
+  },
+  {
+    "brand": "Kondor Blue",
+    "modelName": "Kondor Blue Canon C70 Cage",
+    "gearType": "ACCESSORY",
+    "id": "kondor-blue-cage-canon-c70",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://kondorblue.com/products/canon-c70-cage",
+    "releaseYear": 2021,
+    "releaseMonth": 2,
+    "compatibleWith": [
+      "canon-eos-c70"
+    ]
   }
 ]
