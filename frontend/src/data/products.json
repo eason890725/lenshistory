@@ -35008,7 +35008,8 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "releaseMonth": 8,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "image_url": "/images/products/mitakon/mitakon-55mm-f2-8-1-5x-macro.webp"
   },
   {
     "id": "mitakon-zhongyi-pittura-30mm-f2-4",
@@ -78194,7 +78195,8 @@
       "nikon-z-800mm-f-6-3-vr-s"
     ],
     "retailPrice": 18144,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/nikon/nikon-z-teleconverter-tc-1-4x.webp"
   },
   {
     "brand": "Nikon",
@@ -78228,7 +78230,8 @@
       "nikon-z-800mm-f-6-3-vr-s"
     ],
     "retailPrice": 19570,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/nikon/nikon-z-teleconverter-tc-2-0x.webp"
   },
   {
     "brand": "Fujifilm",
@@ -78597,7 +78600,8 @@
     "releaseMonth": 8,
     "weightGrams": 135,
     "dimensions": "Ø70 x 80 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/nikon/nikon-mount-adapter-ftz.webp"
   },
   {
     "brand": "Nikon",
@@ -78619,7 +78623,8 @@
     "releaseMonth": 10,
     "weightGrams": 125,
     "dimensions": "Ø70 x 70 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/nikon/nikon-mount-adapter-ftz-ii.webp"
   },
   {
     "brand": "Canon",
@@ -79743,7 +79748,8 @@
     "batterySpec": "2x EN-EL15b",
     "dimensions": "135.5 x 106.5 x 68 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 460
+    "weightGrams": 460,
+    "image_url": "/images/products/nikon/nikon-mb-n10.webp"
   },
   {
     "brand": "Nikon",
@@ -79761,7 +79767,8 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 450
+    "weightGrams": 450,
+    "image_url": "/images/products/nikon/nikon-mb-n11.webp"
   },
   {
     "brand": "Nikon",
@@ -79778,7 +79785,8 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 455
+    "weightGrams": 455,
+    "image_url": "/images/products/nikon/nikon-mb-n12.webp"
   },
   {
     "brand": "Nikon",
@@ -79797,7 +79805,8 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 455
+    "weightGrams": 455,
+    "image_url": "/images/products/nikon/nikon-mb-n14.webp"
   },
   {
     "brand": "Fujifilm",
@@ -80094,7 +80103,8 @@
     "batterySpec": "2x LP-E6P",
     "dimensions": "143.2 x 109.4 x 80.3 mm",
     "weightGrams": 354,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/canon/canon-bg-r20.webp"
   },
   {
     "brand": "Nikon",
@@ -80138,7 +80148,8 @@
     "recycleTime": "2.5s",
     "batterySpec": "4x AA",
     "weightGrams": 360,
-    "dimensions": "71 x 126 x 104.5 mm"
+    "dimensions": "71 x 126 x 104.5 mm",
+    "image_url": "/images/products/nikon/nikon-sb-700.webp"
   },
   {
     "brand": "Nikon",
@@ -80158,7 +80169,8 @@
     "recycleTime": "3.5s",
     "batterySpec": "2x AA",
     "weightGrams": 226,
-    "dimensions": "67 x 114.5 x 70.8 mm"
+    "dimensions": "67 x 114.5 x 70.8 mm",
+    "image_url": "/images/products/nikon/nikon-sb-500.webp"
   },
   {
     "brand": "Nikon",
@@ -80177,7 +80189,8 @@
     "recycleTime": "3.5s",
     "batterySpec": "2x AAA",
     "weightGrams": 97,
-    "dimensions": "57.4 x 65.4 x 62.3 mm"
+    "dimensions": "57.4 x 65.4 x 62.3 mm",
+    "image_url": "/images/products/nikon/nikon-sb-300.webp"
   },
   {
     "brand": "Sony",
