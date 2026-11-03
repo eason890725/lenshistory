@@ -32926,7 +32926,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasOIS": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "specialElements": "1 Aspherical"
   },
   {
     "id": "voigtlander-nokton-25mm-f0-95-type-ii",
@@ -34079,7 +34080,8 @@
     "hasWeatherSeal": true,
     "retailPrice": 5800,
     "retailPriceDate": "2026-10",
-    "specialElements": "3 ED, 2 HR, 2 Aspherical"
+    "specialElements": "3 ED, 2 HR, 2 Aspherical",
+    "dimensions": "Ø69 x 72 mm"
   },
   {
     "id": "7artisans-af-135mm-f1-8",
@@ -35824,7 +35826,8 @@
     "specialElements": "5 Cylindrical, 1 Aspherical",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "image_url": "/images/products/sirui/sirui-saturn-v2-35mm-t2-9-1-6x.webp"
+    "image_url": "/images/products/sirui/sirui-saturn-v2-35mm-t2-9-1-6x.webp",
+    "hasOIS": false
   },
   {
     "id": "sirui-saturn-v2-50mm-t2-9-1-6x",
@@ -43387,7 +43390,8 @@
     ],
     "image_url": "/images/products/astrhori/astrhori-28mm-f13-2x-macro-probe.webp",
     "hasCustomButton": false,
-    "coatings": "Sapphire coated front element"
+    "coatings": "Sapphire coated front element",
+    "hasOIS": false
   },
   {
     "id": "astrhori-28mm-f13-2x-macro-periprobe",
@@ -47780,7 +47784,9 @@
     "hasApertureRing": true,
     "retailPrice": 5880,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/ttartisans/ttartisans-af-75mm-f2.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-af-75mm-f2.webp",
+    "hasOIS": false,
+    "dimensions": "Ø67 x 72 mm"
   },
   {
     "id": "ttartisans-af-23mm-f1-8",
@@ -47980,7 +47986,8 @@
     "retailPrice": 3500,
     "retailPriceDate": "2026-10",
     "hasApertureRing": true,
-    "image_url": "/images/products/ttartisans/ttartisans-af-14mm-f3-5.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-af-14mm-f3-5.webp",
+    "hasOIS": false
   },
   {
     "id": "ttartisans-af-17mm-f1-8-air",
@@ -48294,7 +48301,8 @@
     "retailPriceDate": "2026-10",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false
   },
   {
     "id": "ttartisans-90mm-f1-25",
@@ -48961,7 +48969,9 @@
     "weightGrams": 151,
     "dimensions": "Ø51 x 19 mm",
     "motorType": "Manual focus",
-    "image_url": "/images/products/ttartisans/ttartisans-m-28mm-f5-6.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-m-28mm-f5-6.webp",
+    "minAperture": "22",
+    "hasApertureRing": true
   },
   {
     "id": "ttartisans-tilt-aps-c-35mm-f1-4",
@@ -51523,7 +51533,9 @@
     "minAperture": "16",
     "retailPrice": 10000,
     "retailPriceDate": "2026-10",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "hasOIS": false,
+    "motorType": "Manual focus"
   },
   {
     "id": "7artisans-vision-25mm-t1-05-cine",
@@ -51570,7 +51582,11 @@
     "image_url": "/images/products/7artisans/7artisans-vision-25mm-t1-05-cine.webp",
     "filterSizeMm": 82,
     "closeFocus": "0.23m",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasOIS": false,
+    "dimensions": "Ø90 x 106 mm",
+    "opticalDesign": "11 elements in 9 groups",
+    "weightGrams": 956
   },
   {
     "id": "7artisans-vision-35mm-t1-05-cine",
@@ -52408,7 +52424,13 @@
     "maxMagnification": "2x",
     "image_url": "/images/products/7artisans/7artisans-60mm-f2-8-2x-macro.webp",
     "retailPrice": 8600,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "hasOIS": false,
+    "dimensions": "Ø70 x 109 mm",
+    "motorType": "Manual focus",
+    "minAperture": "22",
+    "filterSizeMm": 67,
+    "weightGrams": 550
   },
   {
     "id": "7artisans-120mm-t2-9-2x-macro",
@@ -54569,7 +54591,12 @@
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "image_url": "/images/products/meike/meike-135mm-t2-4-ff-prime-cine.webp"
+    "image_url": "/images/products/meike/meike-135mm-t2-4-ff-prime-cine.webp",
+    "minAperture": "T22",
+    "opticalDesign": "12 elements in 8 groups",
+    "closeFocus": "1m",
+    "filterSizeMm": 82,
+    "weightGrams": 1202
   },
   {
     "id": "meike-35mm-f0-95-apsc-mf",
@@ -55345,7 +55372,8 @@
     "sensorFormat": "APS-C",
     "motorType": "Manual focus",
     "image_url": "/images/products/meike/meike-6-11mm-f3-5-fisheye-zoom-mf.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "hasApertureRing": true
   },
   {
     "id": "meike-25mm-t2-2-mft-cine",
@@ -55384,7 +55412,8 @@
     "motorType": "Manual focus",
     "hasApertureRing": true,
     "image_url": "/images/products/meike/meike-25mm-t2-2-mft-cine.webp",
-    "coatings": "Multi-layer coating"
+    "coatings": "Multi-layer coating",
+    "minAperture": "T22"
   },
   {
     "id": "meike-16mm-t2-2-mft-cine",
@@ -56003,7 +56032,8 @@
     "hasCustomButton": false,
     "maxMagnification": "0.05x",
     "closeFocus": "0.6m",
-    "coatings": "Nano-coating"
+    "coatings": "Nano-coating",
+    "weightGrams": 780
   },
   {
     "id": "sirui-75mm-f1-8-1-33x-anamorphic",
@@ -56063,7 +56093,8 @@
     "image_url": "/images/products/sirui/sirui-75mm-f1-8-1-33x-anamorphic.webp",
     "hasCustomButton": false,
     "maxMagnification": "0.07x",
-    "closeFocus": "1.2m"
+    "closeFocus": "1.2m",
+    "weightGrams": 800
   },
   {
     "id": "sirui-venus-35mm-t2-9-1-6x",
@@ -64695,7 +64726,8 @@
     ],
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/blazar/blazar-talon-50mm-t2-1-full-frame-1-5x-af-anamorphic.webp",
-    "minAperture": "T22"
+    "minAperture": "T22",
+    "hasOIS": false
   },
   {
     "id": "blazar-sentinel-35-60mm-t2-2-t2-8-full-frame-1-33x-anamorphic-zoom",
@@ -64785,7 +64817,13 @@
         }
       }
     ],
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "dimensions": "Ø110 x 175 mm",
+    "weightGrams": 1800,
+    "minAperture": "T16",
+    "closeFocus": "0.82m",
+    "motorType": "Manual focus",
+    "hasApertureRing": true
   },
   {
     "id": "vazen-65mm-t2-1-8x-anamorphic",
