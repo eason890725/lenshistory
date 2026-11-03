@@ -58937,7 +58937,8 @@
     "retailPrice": 22390,
     "retailPriceDate": "2026-10",
     "ports": "USB-C",
-    "isoRange": "100-3200 (Photo) / 25-6400 (Video)"
+    "isoRange": "100-3200 (Photo) / 25-6400 (Video)",
+    "image_url": "/images/products/gopro/gopro-mission-1-pro.webp"
   },
   {
     "id": "gopro-mission-1",
@@ -75735,7 +75736,8 @@
     "batterySpec": "NB-11LH (195 shots CIPA)",
     "hasIBIS": false,
     "sensorFormat": "1/2.3-inch",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/canon/canon-powershot-sx430-is.webp"
   },
   {
     "id": "canon-powershot-v1",
