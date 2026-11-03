@@ -948,7 +948,8 @@
     "launchPrice": 44980,
     "afTargets": "Human",
     "releaseMonth": 10,
-    "afRange": "EV 0 to 20"
+    "afRange": "EV 0 to 20",
+    "logSupport": "None"
   },
   {
     "brand": "Sony",
@@ -1539,7 +1540,8 @@
     "afTargets": "Human",
     "cardSlots": "1x SD / Memory Stick PRO Duo",
     "releaseMonth": 2,
-    "afRange": "EV 0 to 20"
+    "afRange": "EV 0 to 20",
+    "logSupport": "None"
   },
   {
     "brand": "Sony",
@@ -2019,7 +2021,9 @@
     "releaseMonth": 1,
     "sensorType": "CMOS",
     "evfMagnification": "1.16x",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "dimensions": "129 x 89.8 x 46.7 mm",
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2250,7 +2254,8 @@
     "ports": "USB 2.0, HDMI",
     "hasWeatherSeal": false,
     "launchPrice": 23900,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2344,7 +2349,8 @@
     "ports": "USB 2.0, HDMI, mic",
     "hasWeatherSeal": true,
     "afPoints": "325 points",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -2386,7 +2392,9 @@
     "launchPrice": 52900,
     "releaseMonth": 1,
     "sensorType": "CMOS",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "dimensions": "139.5 x 81.8 x 42.5 mm",
+    "logSupport": "None"
   },
   {
     "brand": "Fujifilm",
@@ -21840,7 +21848,8 @@
     "afPoints": "425 points",
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 9,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-t100",
@@ -21948,7 +21957,8 @@
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 8,
     "afPoints": "7x7 grid (Single Point AF) / 77 areas on 11x7 grid (Zone AF)",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-a10",
@@ -21983,7 +21993,8 @@
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 12,
     "afPoints": "49 points (7x7 grid)",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-e2s",
@@ -22018,7 +22029,8 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-e2s.webp",
     "dimensions": "129.0 x 74.9 x 37.2 mm",
     "afTargets": "Human (Face/Eye)",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-a2",
@@ -22121,7 +22133,10 @@
     "image_url": "/images/products/fujifilm/fujifilm-x-a1.webp",
     "afTargets": "Face",
     "releaseMonth": 9,
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "dimensions": "116.9 x 66.5 x 39 mm",
+    "afPoints": "49 points",
+    "logSupport": "None"
   },
   {
     "id": "fujifilm-x-m1",
@@ -22155,7 +22170,9 @@
     "afTargets": "Face",
     "releaseMonth": 6,
     "evfMagnification": "None",
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "logSupport": "None",
+    "dimensions": "116.9 x 66.5 x 39.0 mm"
   },
   {
     "id": "fujifilm-x-e1",
@@ -22189,7 +22206,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/fujifilm/fujifilm-x-e1.webp",
     "releaseMonth": 9,
-    "afPoints": "49 points"
+    "afPoints": "49 points",
+    "logSupport": "None",
+    "dimensions": "129.0 x 74.9 x 38.3 mm"
   },
   {
     "id": "fujifilm-x-a20",
@@ -22221,7 +22240,8 @@
     "afPoints": "49 points",
     "afTargets": "Human (Face/Eye)",
     "releaseMonth": 1,
-    "hasIBIS": false
+    "hasIBIS": false,
+    "logSupport": "None"
   },
   {
     "id": "hasselblad-xcd-25mm-f2-5-v",
@@ -28456,7 +28476,8 @@
     "image_url": "/images/products/sony/sony-a5000.webp",
     "releaseMonth": 1,
     "evfMagnification": "None",
-    "afRange": "EV 0 to 20"
+    "afRange": "EV 0 to 20",
+    "logSupport": "None"
   },
   {
     "id": "sony-ilce-qx1",
@@ -28613,7 +28634,11 @@
     ],
     "image_url": "/images/products/sony/sony-fx9.webp",
     "releaseMonth": 9,
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "dimensions": "146 x 142.5 x 229 mm",
+    "lcdSpec": "3.5-inch 2.76M-dot",
+    "videoResolution": "4K 60p",
+    "ports": "HDMI (Type A), 12G-SDI, 3G-SDI, 2x XLR, USB (micro-B), headphone, remote, timecode (BNC), genlock (BNC), DC in"
   },
   {
     "id": "tokina-atx-m-11-18mm-f2-8-e",
@@ -46121,7 +46146,8 @@
     "lcdSpec": "2.4-inch control LCD (no preview video)",
     "ports": "2x 12G-SDI, 9-pin EXT (genlock, timecode, GPIO, RS-232), USB-C / Gigabit Ethernet, 5-pin audio (mic/line/+48V), 6-pin DC-IN",
     "weightGrams": 1814,
-    "image_url": "/images/products/red/red-v-raptor-8k-s35.webp"
+    "image_url": "/images/products/red/red-v-raptor-8k-s35.webp",
+    "dimensions": "108 x 108 x 152.4 mm"
   },
   {
     "id": "red-komodo-x",
@@ -46155,7 +46181,9 @@
     "dimensions": "101.26 x 95.26 x 129.37 mm",
     "weightGrams": 1188,
     "image_url": "/images/products/red/red-komodo-x.webp",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "isoRange": "250-12800",
+    "logSupport": "Log3G10"
   },
   {
     "id": "red-v-raptor-x-8k-vv",
@@ -46189,7 +46217,8 @@
     "dimensions": "115.5 x 108 x 149.63 mm",
     "weightGrams": 1830,
     "image_url": "/images/products/red/red-v-raptor-x-8k-vv.webp",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "isoRange": "250-12800"
   },
   {
     "id": "red-v-raptor-xe",
@@ -46483,7 +46512,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/samsung/samsung-nx30.webp",
     "weightGrams": 375,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "afPoints": "105 phase-detect points + 247 contrast-detect points",
+    "logSupport": "None"
   },
   {
     "id": "samsung-nx-mini",
@@ -46652,7 +46683,8 @@
     "ports": "micro USB (USB 2.0), HDMI",
     "dimensions": "117.4 x 65.9 x 39.0 mm",
     "hasIBIS": false,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "logSupport": "None"
   },
   {
     "id": "samsung-nx-12-24mm-f4-5-6-ed",
@@ -57120,7 +57152,8 @@
     "afPoints": "5481 points",
     "dimensions": "119.6 x 70.0 x 49.2 mm",
     "afTargets": "Human (Face/Eye)",
-    "afRange": "EV -5 to 18"
+    "afRange": "EV -5 to 18",
+    "logSupport": "None"
   },
   {
     "id": "canon-eos-m200",
@@ -57157,7 +57190,8 @@
     "sensorType": "CMOS",
     "afPoints": "143 areas",
     "afTargets": "Human (Face/Eye)",
-    "afRange": "EV -4 to 18"
+    "afRange": "EV -4 to 18",
+    "logSupport": "None"
   },
   {
     "id": "canon-eos-m50-mark-ii",
@@ -59723,7 +59757,9 @@
     "image_url": "/images/products/nikon/nikon-1-s1.webp",
     "evfMagnification": "None",
     "hasIBIS": false,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "weightGrams": 277,
+    "logSupport": "None"
   },
   {
     "id": "nikon-1-aw1",
@@ -62628,7 +62664,8 @@
     "image_url": "/images/products/pentax/pentax-q10.webp",
     "afPoints": "25 points",
     "afTargets": "Face",
-    "afRange": "EV 1 to 18"
+    "afRange": "EV 1 to 18",
+    "logSupport": "None"
   },
   {
     "id": "pentax-01-standard-prime-8-5mm-f1-9",
@@ -62859,7 +62896,8 @@
     "image_url": "/images/products/pentax/pentax-q7.webp",
     "processor": "Q Engine",
     "afTargets": "Face",
-    "afRange": "EV 0 to 18"
+    "afRange": "EV 0 to 18",
+    "logSupport": "None"
   },
   {
     "id": "pentax-07-mount-shield-lens-11-5mm-f9",
@@ -62960,7 +62998,8 @@
     "processor": "Q Engine",
     "logSupport": "None",
     "afTargets": "Face",
-    "afRange": "EV 0 to 18"
+    "afRange": "EV 0 to 18",
+    "afPoints": "25 points (49 areas)"
   },
   {
     "id": "yi-m1",
@@ -62992,7 +63031,8 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "image_url": "/images/products/yi/yi-m1.webp",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "afTargets": "Face"
   },
   {
     "id": "yi-12-40mm-f3-5-5-6",
