@@ -39663,7 +39663,9 @@
     "image_url": "/images/products/panasonic/panasonic-lumix-gh6.webp",
     "releaseMonth": 2,
     "ibisRating": "7.5 stops",
-    "afPoints": "315 points"
+    "afPoints": "315 points",
+    "retailPrice": 37980,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "panasonic-lumix-g9ii",
@@ -76411,7 +76413,9 @@
     "dimensions": "Ø71.5 x 45.5 mm",
     "weightGrams": 170,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-z-40mm-f-2-se.webp"
+    "image_url": "/images/products/nikon/nikon-z-40mm-f-2-se.webp",
+    "retailPrice": 9504,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "OM System",
