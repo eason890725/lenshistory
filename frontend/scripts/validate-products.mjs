@@ -19,7 +19,7 @@ const ACCESSORY = ['accessoryType', 'compatibleWith', 'magnification', 'lensMoun
 const ALLOWED = { LENS: new Set([...SHARED, ...LENS]), CAMERA_BODY: new Set([...SHARED, ...BODY]), ACCESSORY: new Set([...SHARED, ...ACCESSORY]) };
 const ACCESSORY_TYPES = new Set(['TELECONVERTER', 'MOUNT_ADAPTER', 'FLASH', 'BATTERY_GRIP', 'FILTER', 'TRIPOD', 'CAGE']);
 // Lens-side mounts an adapter may take: the mirrorless mounts plus SLR / cine / legacy ones
-const LENS_SIDE_MOUNTS = ['Canon EF', 'Canon EF-S', 'Canon FD', 'Nikon F', 'Sony A', 'Pentax K', 'Leica R', 'Leica M', 'M42', 'Contax/Yashica', 'Olympus OM', 'Four Thirds', 'PL', 'Hasselblad V', 'Pentax 645', 'Mamiya 645'];
+const LENS_SIDE_MOUNTS = ['Canon EF', 'Canon EF-S', 'Canon FD', 'Nikon F', 'Sony A', 'Pentax K', 'Leica R', 'Leica M', 'M42', 'Contax/Yashica', 'Olympus OM', 'Four Thirds', 'PL', 'Hasselblad V', 'Pentax 645', 'Mamiya 645', 'Hasselblad H'];
 const NUMBER = ['legSections', 'releaseYear', 'releaseMonth', 'launchPrice', 'retailPrice', 'focalLengthMinMm', 'focalLengthMaxMm', 'filterSizeMm'];
 const JUNK = new Set(['', '--', 'N/A', 'TBD', 'TBD / Professional Standard']);
 const MOUNTS = new Set(['Sony E', 'Canon RF', 'Nikon Z', 'Fujifilm X', 'Fujifilm G', 'L-Mount', 'Leica M', 'Hasselblad X', 'Canon EF', 'Nikon F', 'Micro Four Thirds', 'Samsung NX', 'Samsung NX-M', 'Canon EF-M', 'Nikon 1', 'Pentax Q', 'Sigma SA']);
