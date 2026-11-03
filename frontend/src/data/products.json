@@ -198,7 +198,7 @@
       "a9ii",
       "sonya9ii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "mounts": [
       {
@@ -252,7 +252,7 @@
       "a9",
       "sonya9"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "mounts": [
       {
@@ -368,7 +368,7 @@
       "a7riv",
       "sonya7riv"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "mounts": [
       {
@@ -427,7 +427,7 @@
       "a7riii",
       "sonya7riii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "mounts": [
       {
@@ -484,7 +484,7 @@
       "a7rii",
       "sonya7rii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-25600 (Ext: 50-102400)",
     "mounts": [
       {
@@ -652,7 +652,7 @@
       "a7sii",
       "sonya7sii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-102400 (Ext: 50-409600)",
     "mounts": [
       {
@@ -706,7 +706,7 @@
       "a7s",
       "sonya7s"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-102400 (Ext: 50-409600)",
     "mounts": [
       {
@@ -809,7 +809,7 @@
       "a7iii",
       "sonya7iii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-51200 (Ext: 50-204800)",
     "mounts": [
       {
@@ -866,7 +866,7 @@
       "a7ii",
       "sonya7ii"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-25600 (Ext: 50)",
     "mounts": [
       {
@@ -1252,7 +1252,7 @@
       "a6600",
       "sonya6600"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-32000 (Ext: 50-102400)",
     "mounts": [
       {
@@ -1306,7 +1306,7 @@
       "a6500",
       "sonya6500"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-25600 (Ext: 51200)",
     "mounts": [
       {
@@ -1357,7 +1357,7 @@
       "a6400",
       "sonya6400"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-32000 (Ext: 102400)",
     "mounts": [
       {
@@ -1410,7 +1410,7 @@
       "a6300",
       "sonya6300"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-25600 (Ext: 51200)",
     "mounts": [
       {
@@ -1460,7 +1460,7 @@
       "a6100",
       "sonya6100"
     ],
-    "videoColorDepth": "10-bit 4:2:2",
+    "videoColorDepth": "8-bit 4:2:2 (HDMI)",
     "isoRange": "100-32000 (Ext: 51200)",
     "mounts": [
       {
