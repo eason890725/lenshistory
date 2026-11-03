@@ -26413,7 +26413,9 @@
     "specialElements": "1 SLD, 2 Aspherical",
     "hasApertureRing": false,
     "hasCustomButton": false,
-    "releaseMonth": 9
+    "releaseMonth": 9,
+    "retailPrice": 12000,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "sigma-20-60mm-f2-8-4-dg-contemporary",
@@ -42159,7 +42161,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "image_url": "/images/products/tamron/tamron-16-50mm-f2-8-a-b091.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 14200,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "voigtlander-apo-lanthar-90mm-f4-close-focus",
@@ -42631,7 +42635,8 @@
     "dimensions": "Ø61 x 52 mm",
     "weightGrams": 405,
     "image_url": "/images/products/leica/leica-noctilux-m-50-f1-2-asph.webp",
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "launchPrice": 230000
   },
   {
     "id": "leica-summilux-m-35-f1-4-asph",
@@ -56803,7 +56808,8 @@
     ],
     "sensorFormat": "APS-C",
     "image_url": "/images/products/canon/canon-ef-m-28mm-f3-5-macro-is-stm.webp",
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 9990
   },
   {
     "id": "canon-ef-m-18-150mm-f3-5-6-3-is-stm",
@@ -60751,7 +60757,8 @@
     "ports": "USB 2.0, HDMI, mic",
     "sensorType": "BSI-CMOS",
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 34900
   },
   {
     "id": "nikon-coolpix-p950",
@@ -60780,7 +60787,8 @@
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
     "afTargets": "Face",
-    "processor": "EXPEED"
+    "processor": "EXPEED",
+    "launchPrice": 28500
   },
   {
     "id": "nikon-coolpix-l610",
@@ -61998,7 +62006,8 @@
     "evfMagnification": "None",
     "ports": "USB 2.0, HDMI",
     "burstSpeed": "4.7fps",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 5990
   },
   {
     "id": "nikon-keymission-360",
@@ -69113,7 +69122,8 @@
     "image_url": "/images/products/ricoh/ricoh-gr-iii.webp",
     "burstSpeed": "4fps",
     "processor": "GR ENGINE 6",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "launchPrice": 29900
   },
   {
     "id": "ricoh-gr-iiix",
@@ -70521,7 +70531,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "0.74x",
     "ports": "USB 2.0, HDMI, mic",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 42000
   },
   {
     "id": "zeiss-zx1",
@@ -73366,7 +73377,8 @@
     "image_url": "/images/products/voigtlander/voigtlander-nokton-35mm-f1-2-aspherical-iii.webp",
     "motorType": "Manual focus",
     "hasCustomButton": false,
-    "sensorFormat": "Full Frame"
+    "sensorFormat": "Full Frame",
+    "launchPrice": 35000
   },
   {
     "id": "voigtlander-nokton-vintage-line-50mm-f1-5-aspherical-ii",
