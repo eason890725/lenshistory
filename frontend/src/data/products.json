@@ -28861,7 +28861,9 @@
     "motorType": "Manual focus",
     "releaseMonth": 2,
     "hasCustomButton": false,
-    "hasOIS": false
+    "hasOIS": false,
+    "retailPrice": 9990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "zeiss-otus-ml-1-4-50",
@@ -30853,7 +30855,9 @@
     "hasApertureRing": false,
     "motorType": "Manual focus",
     "releaseMonth": 11,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 11990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "tokina-sz-600mmpro-reflex-f8-mf-cf",
@@ -30896,7 +30900,9 @@
     "hasApertureRing": false,
     "motorType": "Manual focus",
     "releaseMonth": 11,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 17990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "tokina-sz-900mmpro-reflex-f11-mf-cf",
@@ -30939,7 +30945,9 @@
     "hasApertureRing": false,
     "motorType": "Manual focus",
     "releaseMonth": 11,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 20990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "laowa-acris-35mm-f2-8-1x-af-macro-apo",
@@ -32497,7 +32505,9 @@
     "image_url": "/images/products/tokina/tokina-sz-33mm-f1-2-mf.webp",
     "motorType": "Manual focus",
     "releaseMonth": 5,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 12990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "viltrox-mf-20mm-f1-8",
@@ -46972,7 +46982,8 @@
     "hasOIS": true,
     "hasWeatherSeal": true,
     "hasApertureRing": false,
-    "image_url": "/images/products/samsung/samsung-nx-16-50mm-f2-2-8-s-ed-ois.webp"
+    "image_url": "/images/products/samsung/samsung-nx-16-50mm-f2-2-8-s-ed-ois.webp",
+    "launchPrice": 42990
   },
   {
     "id": "samsung-nx-16-50mm-f3-5-5-6-power-zoom-ed-ois",
@@ -47003,7 +47014,8 @@
     "weightGrams": 111,
     "hasOIS": true,
     "hasWeatherSeal": false,
-    "hasApertureRing": false
+    "hasApertureRing": false,
+    "launchPrice": 10990
   },
   {
     "id": "samsung-nx-50-150mm-f2-8-s-ed-ois",
@@ -47069,7 +47081,8 @@
     "dimensions": "Ø50 x 12.5 mm",
     "weightGrams": 31,
     "hasOIS": false,
-    "image_url": "/images/products/samsung/samsung-nx-m-9mm-f3-5-ed.webp"
+    "image_url": "/images/products/samsung/samsung-nx-m-9mm-f3-5-ed.webp",
+    "launchPrice": 5290
   },
   {
     "id": "samsung-nx-m-9-27mm-f3-5-5-6-ed-ois",
@@ -47100,7 +47113,8 @@
     "dimensions": "Ø50 x 29.5 mm",
     "weightGrams": 73,
     "hasOIS": true,
-    "image_url": "/images/products/samsung/samsung-nx-m-9-27mm-f3-5-5-6-ed-ois.webp"
+    "image_url": "/images/products/samsung/samsung-nx-m-9-27mm-f3-5-5-6-ed-ois.webp",
+    "launchPrice": 8490
   },
   {
     "id": "samsung-nx-m-17mm-f1-8-ois",
@@ -47130,7 +47144,8 @@
     "motorType": "Stepping Motor",
     "dimensions": "Ø50 x 27.5 mm",
     "hasOIS": true,
-    "image_url": "/images/products/samsung/samsung-nx-m-17mm-f1-8-ois.webp"
+    "image_url": "/images/products/samsung/samsung-nx-m-17mm-f1-8-ois.webp",
+    "launchPrice": 7990
   },
   {
     "id": "thypoch-simera-28mm-f-1-4-asph",
@@ -57857,7 +57872,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "processor": "EXILIM Engine HS 3",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 10990
   },
   {
     "id": "casio-exilim-ex-zr1300",
@@ -58355,7 +58371,8 @@
     "ports": "USB 2.0, HDMI",
     "sensorType": "CMOS",
     "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_zr700/",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 11990
   },
   {
     "id": "casio-exilim-ex-zr400",
@@ -58520,7 +58537,8 @@
     "isoRange": "64-1600",
     "cardSlots": "1x microSD/SDHC/SDXC",
     "image_url": "/images/products/casio/casio-exilim-ex-je10.webp",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_je10/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_je10/",
+    "launchPrice": 5990
   },
   {
     "id": "casio-exilim-ex-n10",
@@ -58542,7 +58560,8 @@
     "isoRange": "64-1600",
     "cardSlots": "1x SD/SDHC/SDXC",
     "image_url": "/images/products/casio/casio-exilim-ex-n10.webp",
-    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_n10/"
+    "officialUrl": "http://arch.casio-intl.com/asia-mea/en/dc/ex_n10/",
+    "launchPrice": 4990
   },
   {
     "id": "casio-exilim-ex-n1",
@@ -59800,7 +59819,8 @@
     "releaseMonth": 9,
     "megapixels": "12MP",
     "burstSpeed": "30fps",
-    "videoResolution": "2.7K 30p / Full HD 60p"
+    "videoResolution": "2.7K 30p / Full HD 60p",
+    "launchPrice": 14900
   },
   {
     "id": "gopro-hero-2014",
@@ -62282,7 +62302,8 @@
     "ports": "micro USB, micro HDMI",
     "hasIBIS": false,
     "releaseMonth": 1,
-    "afTargets": "None"
+    "afTargets": "None",
+    "launchPrice": 18000
   },
   {
     "id": "nikon-keymission-170",
@@ -76824,7 +76845,9 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "dimensions": "Ø62 x 55.5 mm",
-    "weightGrams": 138
+    "weightGrams": 138,
+    "retailPrice": 8880,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -76952,7 +76975,9 @@
     "hasApertureRing": false,
     "dimensions": "Ø62 x 62 mm",
     "weightGrams": 202,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "retailPrice": 9880,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -76982,7 +77007,9 @@
     "hasOIS": true,
     "hasApertureRing": false,
     "dimensions": "Ø63.8 x 108 mm",
-    "weightGrams": 345
+    "weightGrams": 345,
+    "retailPrice": 11880,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -77096,7 +77123,9 @@
     "batterySpec": "NP-FZ100 (570 shots CIPA)",
     "ports": "USB-C (5Gbps), micro USB, HDMI Type A, mic, headphone",
     "dimensions": "129.7 x 77.8 x 84.5 mm",
-    "weightGrams": 715
+    "weightGrams": 715,
+    "retailPrice": 127980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Viltrox",
@@ -77130,7 +77159,8 @@
     "motorType": "HyperVCM",
     "hasWeatherSeal": true,
     "coatings": "Water- and smudge-resistant front coating",
-    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-4-pro.webp"
+    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-4-pro.webp",
+    "launchPrice": 19900
   },
   {
     "brand": "Sigma",
