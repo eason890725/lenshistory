@@ -26,6 +26,7 @@
 - Sony 用 helpguide.sony.net；sony.jp 是 Shift_JIS，WebFetch 會亂碼。
 - 403：panasonic.com、canon-europe.com、usa.canon.com。
 - 429：Shopify 系鏡頭店（7artisans.store、store.sirui、ttartisan.store、brightinstar、astrhori、lensbaby.com）。
+- sony.com／electronics.sony.com 抓不到；pro.sony 403；PetaPixel 403；vazen.cn、wap.dzofilm.com 不在網路白名單。
 - imaging-resource 的 robots.txt 擋 anthropic-ai，不准批次抓。
 - Fujifilm 鍍膜查 dl.fujifilm-x.com 說明書 PDF；Leica 規格表 JS 載入讀不到。
 - Fujifilm、Leica、Hasselblad、Nikon 1、舊 Panasonic 官方沒有 AF 測距範圍，別再派。
@@ -33,5 +34,13 @@
 ## 待辦（雲端 session 會持續更新這一段）
 - G9、GH5S afTargets 目前是 "Face/Eye"；韌體公告其實有動物辨識，使用者若要「Human, Animal」就改回去。
 
+## 使用者決定（2026-11-03）
+- 收 Sigma sd Quattro／sd Quattro H（MOUNTS 已加 'Sigma SA'）。
+- Panasonic 2026-08 的「A」型號改款鏡頭（S-R70200A、H-ES12060A、H-XA025A、H-HS043A，只加氟鍍膜）暫不分開收；之後若有官方產品頁再議。
+- afRange 統一：最佳值在前，括號寫 "(without low-light AF: …)" 或 "(without Starlight View: …)"。
+- 收錄範圍擴到 Sony E 卡口起點（2010 NEX）。小改款／SE 版（a7R IIIA、FX3A、Z 28mm SE 等）分開收。
+
 ## 進度紀錄
 - 2026-11-03 雲端接手：1996 筆、0 errors；缺圖 175、缺月份 20。
+- 圖片：剩下缺圖的多半官方只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）、多色合照或黑底橫幅（Cooke、Cosina）；prepare_product_image.py 會拒收小圖。
+- 月份查核退回：預購上架、Amazon 開賣、單一地區發表都不算正式發表月份。7Artisans 7.5/25/35 F2 應為 2017-06、M75 為 2019-08、AstrHori Periprobe 2023-12（officialUrl 指到直桿版，要再查）。
