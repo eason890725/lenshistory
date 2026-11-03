@@ -75848,5 +75848,355 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "sensorFormat": "1/2.3-inch",
     "afTargets": "Face"
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon NIKKOR Z 120-300mm f/2.8 TC VR S",
+    "gearType": "LENS",
+    "id": "nikon-z-120-300mm-f-2-8-tc-vr-s",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_120-300mmf28_tc_vr_s/",
+    "releaseYear": 2026,
+    "releaseMonth": 10,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 120,
+    "focalLengthMaxMm": 300,
+    "apertureMax": 2.8,
+    "minAperture": "22",
+    "maxMagnification": "0.18x",
+    "closeFocus": "0.98m (W) / 2m (T)",
+    "filterSizeMm": 112,
+    "motorType": "Silky Swift VCM (SSVCM)",
+    "opticalDesign": "30 elements in 24 groups",
+    "specialElements": "1 ED, 1 Super ED, 1 Aspherical, 1 Fluorite, 1 SR",
+    "coatings": "Meso Amorphous Coat, ARNEO Coat, Fluorine Coat",
+    "hasOIS": true,
+    "dimensions": "Ø128 x 353.5 mm",
+    "weightGrams": 2735,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon NIKKOR Z 28mm f/2.8 (SE)",
+    "gearType": "LENS",
+    "id": "nikon-z-28mm-f-2-8-se",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_28mmf28_se/",
+    "releaseYear": 2021,
+    "releaseMonth": 6,
+    "sensorFormat": "Full Frame",
+    "focalLengthMinMm": 28,
+    "focalLengthMaxMm": 28,
+    "apertureMax": 2.8,
+    "minAperture": "16",
+    "maxMagnification": "0.2x",
+    "closeFocus": "0.19m",
+    "filterSizeMm": 52,
+    "motorType": "Multi-focusing System (STM)",
+    "opticalDesign": "9 elements in 8 groups",
+    "specialElements": "2 Aspherical",
+    "dimensions": "Ø71.5 x 43 mm",
+    "weightGrams": 160,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon NIKKOR Z 40mm f/2 (SE)",
+    "gearType": "LENS",
+    "id": "nikon-z-40mm-f-2-se",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_40mmf2_se/",
+    "releaseYear": 2022,
+    "releaseMonth": 12,
+    "focalLengthMinMm": 40,
+    "focalLengthMaxMm": 40,
+    "apertureMax": 2.0,
+    "minAperture": "16",
+    "maxMagnification": "0.17x",
+    "closeFocus": "0.29m",
+    "filterSizeMm": 52,
+    "motorType": "STM",
+    "opticalDesign": "6 elements in 4 groups",
+    "specialElements": "2 Aspherical",
+    "dimensions": "Ø71.5 x 45.5 mm",
+    "weightGrams": 170,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital ED 12-50mm F3.5-6.3 EZ",
+    "gearType": "LENS",
+    "id": "olympus-m-zuiko-digital-ed-12-50mm-f3-5-6-3-ez",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "releaseYear": 2011,
+    "releaseMonth": 12,
+    "sensorFormat": "Four Thirds",
+    "focalLengthMinMm": 12,
+    "focalLengthMaxMm": 50,
+    "apertureMax": "3.5-6.3",
+    "minAperture": "22",
+    "filterSizeMm": 52,
+    "motorType": "MSC",
+    "opticalDesign": "10 elements in 9 groups",
+    "specialElements": "1 DSA, 2 Aspherical, 1 HR, 1 ED",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "hasCustomButton": true,
+    "dimensions": "Ø57 x 83 mm",
+    "weightGrams": 212,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "OM System",
+    "modelName": "Olympus Body Cap Lens 15mm F8.0",
+    "gearType": "LENS",
+    "id": "olympus-body-cap-lens-15mm-f8-0",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "releaseYear": 2012,
+    "releaseMonth": 9,
+    "sensorFormat": "Four Thirds",
+    "focalLengthMinMm": 15,
+    "focalLengthMaxMm": 15,
+    "apertureMax": 8,
+    "maxMagnification": "0.06x",
+    "closeFocus": "0.3m",
+    "motorType": "Manual focus",
+    "opticalDesign": "3 elements in 3 groups",
+    "hasOIS": false,
+    "hasApertureRing": false,
+    "dimensions": "Ø56 x 9 mm",
+    "weightGrams": 22
+  },
+  {
+    "brand": "OM System",
+    "modelName": "Olympus Body Cap Lens 9mm F8.0 Fisheye",
+    "gearType": "LENS",
+    "id": "olympus-body-cap-lens-9mm-f8-0-fisheye",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "officialUrl": "https://explore.omsystem.com/us/en/bcl-0980-9mm-f8-0-body-cap-lens-black",
+    "releaseYear": 2014,
+    "releaseMonth": 1,
+    "sensorFormat": "Four Thirds",
+    "focalLengthMinMm": 9,
+    "focalLengthMaxMm": 9,
+    "apertureMax": 8,
+    "maxMagnification": "0.046x",
+    "closeFocus": "0.2m",
+    "motorType": "Manual focus",
+    "opticalDesign": "5 elements in 4 groups",
+    "specialElements": "2 Aspherical",
+    "coatings": "Multi-coated",
+    "dimensions": "Ø56 x 12.8 mm",
+    "weightGrams": 30
+  },
+  {
+    "brand": "Tamron",
+    "modelName": "Tamron 18-200mm F/3.5-6.3 Di III VC (Model B011)",
+    "gearType": "LENS",
+    "id": "tamron-18-200mm-f3-5-6-3-di-iii-vc-b011",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
+      }
+    ],
+    "officialUrl": "https://www.tamron.com/global/consumer/lenses/b011/",
+    "releaseYear": 2011,
+    "releaseMonth": 12,
+    "sensorFormat": "APS-C",
+    "focalLengthMinMm": 18,
+    "focalLengthMaxMm": 200,
+    "apertureMax": "3.5-6.3",
+    "minAperture": "22-40",
+    "maxMagnification": "0.27x",
+    "closeFocus": "0.5m",
+    "filterSizeMm": 62,
+    "motorType": "Stepping Motor",
+    "opticalDesign": "17 elements in 13 groups",
+    "specialElements": "2 LD, 3 GM Aspherical, 1 XR, 1 Hybrid Aspherical",
+    "hasOIS": true,
+    "dimensions": "Ø68 x 96.7 mm",
+    "weightGrams": 460
+  },
+  {
+    "brand": "OM System",
+    "modelName": "OM System OM-3 ASTRO",
+    "gearType": "CAMERA_BODY",
+    "id": "om-system-om-3-astro",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "officialUrl": "https://jp.omsystem.com/product/dslr/om-omd/om/om3_astro/index.html",
+    "releaseYear": 2026,
+    "releaseMonth": 2,
+    "megapixels": "20.4MP",
+    "sensorType": "Stacked BSI Live MOS",
+    "processor": "TruePic X",
+    "isoRange": "200-102400 (Ext: 80-102400)",
+    "burstSpeed": "6fps (Mech) / 120fps (Elec)",
+    "afPoints": "1053 phase-detect points",
+    "hasIBIS": true,
+    "videoResolution": "C4K 60p / 4K 60p",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.62M-dot vari-angle touch",
+    "dimensions": "139.3 x 88.9 x 45.8 mm",
+    "weightGrams": 496,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX GH4R",
+    "gearType": "CAMERA_BODY",
+    "id": "panasonic-lumix-gh4r",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "releaseYear": 2015,
+    "releaseMonth": 9,
+    "sensorFormat": "Four Thirds",
+    "megapixels": "16.05MP",
+    "sensorType": "Live MOS",
+    "isoRange": "200-25600 (Ext: 100-25600)",
+    "burstSpeed": "40fps (Elec)",
+    "videoResolution": "C4K 24p / 4K 30p",
+    "videoColorDepth": "10-bit 4:2:2 (HDMI)",
+    "logSupport": "V-Log L",
+    "evfResolution": "2.36M-dot OLED",
+    "lcdSpec": "3.0-inch 1.04M-dot OLED touch",
+    "cardSlots": "1x SD (UHS-I)",
+    "batterySpec": "530 shots CIPA",
+    "ports": "USB 2.0, micro HDMI",
+    "dimensions": "132.9 x 93.4 x 83.9 mm",
+    "weightGrams": 560
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S5D",
+    "gearType": "CAMERA_BODY",
+    "id": "panasonic-lumix-s5d",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "releaseYear": 2024,
+    "releaseMonth": 10,
+    "hasIBIS": true
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma sd Quattro",
+    "gearType": "CAMERA_BODY",
+    "id": "sigma-sd-quattro",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sigma SA"
+        }
+      }
+    ],
+    "officialUrl": "https://www.sigma-global.com/en/cameras/sd-quattro/",
+    "releaseYear": 2016,
+    "releaseMonth": 2,
+    "megapixels": "29.5MP",
+    "sensorType": "Foveon X3 Direct Image Sensor (CMOS)",
+    "processor": "Dual TRUE III",
+    "isoRange": "100-6400",
+    "burstSpeed": "3.6fps",
+    "afPoints": "9 points",
+    "hasIBIS": false,
+    "evfResolution": "2.36M-dot LCD",
+    "evfMagnification": "1.10x",
+    "lcdSpec": "3.0-inch 1.62M-dot",
+    "cardSlots": "1x SD (SDHC/SDXC)",
+    "batterySpec": "BP-61",
+    "ports": "USB 3.0 (micro-B), mini HDMI, remote",
+    "dimensions": "147 x 95.1 x 90.8 mm",
+    "hasWeatherSeal": true,
+    "sensorFormat": "APS-C"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma sd Quattro H",
+    "gearType": "CAMERA_BODY",
+    "id": "sigma-sd-quattro-h",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sigma SA"
+        }
+      }
+    ],
+    "officialUrl": "https://www.sigma-global.com/en/cameras/sd-quattro-h/",
+    "releaseYear": 2016,
+    "releaseMonth": 2,
+    "megapixels": "38.6MP",
+    "sensorType": "Foveon X3 Direct Image Sensor (CMOS)",
+    "processor": "Dual TRUE III",
+    "isoRange": "100-6400",
+    "burstSpeed": "3.8fps",
+    "afPoints": "9 points",
+    "hasIBIS": false,
+    "evfResolution": "2.36M-dot LCD",
+    "evfMagnification": "0.96x",
+    "lcdSpec": "3.0-inch 1.62M-dot",
+    "cardSlots": "1x SD (SDHC/SDXC)",
+    "batterySpec": "BP-61",
+    "ports": "USB 3.0 (micro-B), mini HDMI, remote",
+    "dimensions": "147 x 95.1 x 90.8 mm",
+    "hasWeatherSeal": true,
+    "sensorFormat": "APS-H"
   }
 ]
