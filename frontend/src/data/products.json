@@ -7510,7 +7510,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/25mm-f2-0.webp",
     "releaseMonth": 4,
-    "motorType": "Linear Motor"
+    "motorType": "Linear Motor",
+    "retailPrice": 33500,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sigma",
@@ -10141,7 +10143,9 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/zeiss/85mm-f1-8.webp",
     "releaseMonth": 4,
-    "motorType": "Linear Motor"
+    "motorType": "Linear Motor",
+    "retailPrice": 31100,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Tokina",
@@ -16895,7 +16899,9 @@
     "dimensions": "Ø65 x 50.4 mm",
     "specialElements": "1 Aspherical",
     "hasApertureRing": true,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "retailPrice": 18900,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "fujifilm-xf-23mm-f1-4-r-lm-wr",
@@ -17007,7 +17013,9 @@
     "dimensions": "Ø75 x 105 mm",
     "specialElements": "3 ED",
     "hasApertureRing": true,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 29800,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "fujifilm-gf-32-64mm-f4-r-lm-wr",
@@ -78088,7 +78096,9 @@
       "canon-rf-100-400mm-f5-6-8-is-usm",
       "canon-rf-100-500mm-f4-5-7-1l-is-usm",
       "canon-rf-200-800mm-f6-3-9-is-usm"
-    ]
+    ],
+    "retailPrice": 14900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78153,7 +78163,9 @@
       "nikon-z-400mm-f-4-5-vr-s",
       "nikon-z-600mm-f-4-tc-vr-s",
       "nikon-z-800mm-f-6-3-vr-s"
-    ]
+    ],
+    "retailPrice": 18144,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -78185,7 +78197,9 @@
       "nikon-z-400mm-f-4-5-vr-s",
       "nikon-z-600mm-f-4-tc-vr-s",
       "nikon-z-800mm-f-6-3-vr-s"
-    ]
+    ],
+    "retailPrice": 19570,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Fujifilm",
@@ -78868,7 +78882,9 @@
     "lensMount": "Sigma SA",
     "hasElectronicContacts": true,
     "weightGrams": 145,
-    "dimensions": "Ø69.6 x 24 mm"
+    "dimensions": "Ø69.6 x 24 mm",
+    "retailPrice": 5980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sigma",
@@ -80132,7 +80148,9 @@
     "weightGrams": 439,
     "dimensions": "78.1 x 143.1 x 104.6 mm",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-hvl-f60rm2.webp"
+    "image_url": "/images/products/sony/sony-hvl-f60rm2.webp",
+    "retailPrice": 14382,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -80207,7 +80225,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "4x AA",
     "weightGrams": 287,
-    "dimensions": "70.6 x 116.3 x 98.3 mm"
+    "dimensions": "70.6 x 116.3 x 98.3 mm",
+    "retailPrice": 7900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -80280,7 +80300,9 @@
     "recycleTime": "3s",
     "batterySpec": "4x AA",
     "weightGrams": 300,
-    "dimensions": "73 x 97 x 113 mm"
+    "dimensions": "73 x 97 x 113 mm",
+    "retailPrice": 11210,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Fujifilm",
