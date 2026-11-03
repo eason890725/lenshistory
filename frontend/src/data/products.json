@@ -76276,7 +76276,8 @@
     "hasOIS": true,
     "dimensions": "Ø128 x 353.5 mm",
     "weightGrams": 2735,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/nikon/nikon-z-120-300mm-f-2-8-tc-vr-s.webp"
   },
   {
     "brand": "Nikon",
@@ -76306,7 +76307,8 @@
     "specialElements": "2 Aspherical",
     "dimensions": "Ø71.5 x 43 mm",
     "weightGrams": 160,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8-se.webp"
   },
   {
     "brand": "Nikon",
@@ -76335,7 +76337,8 @@
     "specialElements": "2 Aspherical",
     "dimensions": "Ø71.5 x 45.5 mm",
     "weightGrams": 170,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/nikon/nikon-z-40mm-f-2-se.webp"
   },
   {
     "brand": "OM System",
@@ -76420,7 +76423,8 @@
     "specialElements": "2 Aspherical",
     "coatings": "Multi-coated",
     "dimensions": "Ø56 x 12.8 mm",
-    "weightGrams": 30
+    "weightGrams": 30,
+    "image_url": "/images/products/om-system/olympus-body-cap-lens-9mm-f8-0-fisheye.webp"
   },
   {
     "brand": "Tamron",
@@ -76455,7 +76459,8 @@
     "specialElements": "2 LD, 3 GM Aspherical, 1 XR, 1 Hybrid Aspherical",
     "hasOIS": true,
     "dimensions": "Ø68 x 96.7 mm",
-    "weightGrams": 460
+    "weightGrams": 460,
+    "image_url": "/images/products/tamron/tamron-18-200mm-f3-5-6-3-di-iii-vc-b011.webp"
   },
   {
     "brand": "OM System",
@@ -76562,7 +76567,8 @@
     "ports": "USB 3.0 (micro-B), mini HDMI, remote",
     "dimensions": "147 x 95.1 x 90.8 mm",
     "hasWeatherSeal": true,
-    "sensorFormat": "APS-C"
+    "sensorFormat": "APS-C",
+    "image_url": "/images/products/sigma/sigma-sd-quattro.webp"
   },
   {
     "brand": "Sigma",
@@ -76594,7 +76600,8 @@
     "ports": "USB 3.0 (micro-B), mini HDMI, remote",
     "dimensions": "147 x 95.1 x 90.8 mm",
     "hasWeatherSeal": true,
-    "sensorFormat": "APS-H"
+    "sensorFormat": "APS-H",
+    "image_url": "/images/products/sigma/sigma-sd-quattro-h.webp"
   },
   {
     "brand": "Sony",
@@ -77122,7 +77129,8 @@
     "closeFocus": "0.3m",
     "motorType": "HyperVCM",
     "hasWeatherSeal": true,
-    "coatings": "Water- and smudge-resistant front coating"
+    "coatings": "Water- and smudge-resistant front coating",
+    "image_url": "/images/products/viltrox/viltrox-af-35mm-f1-4-pro.webp"
   },
   {
     "brand": "Sigma",
@@ -77218,7 +77226,8 @@
     "releaseYear": 2026,
     "focalLengthMinMm": 58,
     "focalLengthMaxMm": 58,
-    "apertureMax": 1.2
+    "apertureMax": 1.2,
+    "image_url": "/images/products/meike/meike-58mm-f1-2-mix.webp"
   },
   {
     "brand": "Yongnuo",
@@ -77248,7 +77257,8 @@
     "weightGrams": 273,
     "motorType": "DSM (Digital Stepping Motor)",
     "hasWeatherSeal": true,
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "image_url": "/images/products/yongnuo/yongnuo-yn16mm-f1-8s-da-dsm.webp"
   },
   {
     "brand": "Yongnuo",
@@ -77270,7 +77280,8 @@
     "focalLengthMaxMm": 50,
     "apertureMax": 1.8,
     "weightGrams": 134,
-    "motorType": "DSM (Digital Stepping Motor)"
+    "motorType": "DSM (Digital Stepping Motor)",
+    "image_url": "/images/products/yongnuo/yongnuo-yn50mm-f1-8s-da-dsm-ii.webp"
   },
   {
     "brand": "Yongnuo",
@@ -77293,6 +77304,7 @@
     "focalLengthMaxMm": 50,
     "apertureMax": 1.8,
     "opticalDesign": "14 elements in 11 groups",
-    "motorType": "DSM (Digital Stepping Motor)"
+    "motorType": "DSM (Digital Stepping Motor)",
+    "image_url": "/images/products/yongnuo/yongnuo-yn50mm-f1-8x-da-dsm-pro.webp"
   }
 ]
