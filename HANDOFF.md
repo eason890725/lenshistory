@@ -24,7 +24,9 @@
 
 ## 來源
 - Sony 用 helpguide.sony.net；sony.jp 是 Shift_JIS，WebFetch 會亂碼。
-- 403：panasonic.com、canon-europe.com、usa.canon.com。
+- 403：panasonic.com、canon-europe.com、usa.canon.com、B&H、mobile01、cool3c、respond.tw、tamron.com.tw、insta360.com、canon.com.au。
+- 503／空白：laowacine、zyoptics、venuslens、irixlens、mkgrip、yongnuo.com.cn、arch.casio；blazarlens 有機器人驗證；7artisans.com 規格是圖片。
+- 可用：Adorama 規格表、DPReview 規格頁（舊機欄位少）、PChome 搜尋 API、Panasonic 台灣官方商城、sony.jp 英文說明書 PDF、helpguide.sony.net。
 - 429：Shopify 系鏡頭店（7artisans.store、store.sirui、ttartisan.store、brightinstar、astrhori、lensbaby.com）。
 - sony.com／electronics.sony.com 抓不到；pro.sony 403；PetaPixel 403；vazen.cn、wap.dzofilm.com 不在網路白名單。
 - imaging-resource 的 robots.txt 擋 anthropic-ai，不准批次抓。
@@ -33,6 +35,15 @@
 
 ## 待辦（雲端 session 會持續更新這一段）
 - G9、GH5S afTargets 目前是 "Face/Eye"；韌體公告其實有動物辨識，使用者若要「Human, Animal」就改回去。
+- **Sony 機身 videoColorDepth 疑似大量寫錯**：2021 年前 19 台寫 "10-bit 4:2:2"（a6000、a7 III、a9 等），官方多半只有 8-bit 4:2:0 內錄。
+  a7R III／IV 已由查核 agent 對 sony.jp 確認應為 "8-bit 4:2:0"。改既有值要使用者同意。
+- **副廠鏡頭漏列卡口版本 12 支**（Viltrox Air 系列、Yongnuo DF／DA 系列等，證據在雲端 missing_c.json，未帶回）：補卡口算改既有值，等使用者決定。
+- **台灣價格**：雲端連不到 Mobile01、cool3c（403），WebSearch 額度用完，剩約 470 筆。本機有網路時優先做。
+  已查過但沒收：Zeiss Otus ML 50（77,980）、Lumix S1（79,990）、RX100 VA（26,980）、HERO5 Black（15,500）只看到搜尋摘要，需開 Mobile01 原文核對。
+- **圖片**：剩約 170 筆缺圖。官方多半只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）或多色合照、黑底橫幅（Cooke、Cosina）。
+- **鏡頭規格**：hasOIS／hasWeatherSeal／maxMagnification 等，副廠官網多半不寫、規格是圖片；B&H 在雲端 403。Adorama 規格表明寫 "Image Stabilization: No" 可用。
+- AstrHori 28mm Periprobe：資料庫規格像 2024-06 的 360° 版，與 2023-11 版混在一起，要確認是哪一版再填月份。
+- Sony a7R III／IV 的原機條目若改色深，a7R IIIA／IVA 新條目已是 8-bit 4:2:0。
 
 ## 使用者決定（2026-11-03）
 - 收 Sigma sd Quattro／sd Quattro H（MOUNTS 已加 'Sigma SA'）。
@@ -43,4 +54,6 @@
 ## 進度紀錄
 - 2026-11-03 雲端接手：1996 筆、0 errors；缺圖 175、缺月份 20。
 - 圖片：剩下缺圖的多半官方只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）、多色合照或黑底橫幅（Cooke、Cosina）；prepare_product_image.py 會拒收小圖。
+- 雲端 2026-11-03 成果：新增 27 筆（Sony NEX／E 鏡、Nikon Z 120-300 TC、SE 鏡、sd Quattro、GH4R 等），補圖 6、規格約 180 欄、台灣價格 11、月份 11。
+- 雲端 WebSearch 額度（整個 session 200 次）很快用完，之後只能 WebFetch。
 - 月份查核退回：預購上架、Amazon 開賣、單一地區發表都不算正式發表月份。7Artisans 7.5/25/35 F2 應為 2017-06、M75 為 2019-08、AstrHori Periprobe 2023-12（officialUrl 指到直桿版，要再查）。
