@@ -56,6 +56,14 @@
 - afRange 統一：最佳值在前，括號寫 "(without low-light AF: …)" 或 "(without Starlight View: …)"。
 - 收錄範圍擴到 Sony E 卡口起點（2010 NEX）。小改款／SE 版（a7R IIIA、FX3A、Z 28mm SE 等）分開收。
 
+## 配件與相容器材（2026-11-03 新增）
+- gearType ACCESSORY + accessoryType（7 類），寫法見 design.md「配件」。配件可以沒有 releaseYear（使用者同意擴大收錄）。
+- 詳細頁「相容器材」由 frontend/src/lib/gear-data.ts 的 compatibleFor() 算：同卡口機身／鏡頭數量、compatibleWith 雙向、轉接環。
+- 已收：增距鏡 19、轉接環 22、閃光燈 18、手把 30、濾鏡 25、腳架 13、兔籠 44。
+- 未收：Sony LA-EA 系列（sony.com 抓不到）、Panasonic 閃光燈、Profoto（403）、Gitzo／Manfrotto（429）、Godox V860III／TT685II（說明書 >10MB）、
+  Fujifilm H Mount Adapter G（鏡頭端卡口來源不足）、VG-XT1（官方頁下架）。
+- 舊上市價好用來源：T客邦／DIGIPHOTO 網站地圖（sitemap）列出全部文章網址，用型號 grep slug 找上市文；Yahoo 購物中心自營、PChome、各品牌台灣官方商店可查現價。
+
 ## 進度紀錄
 - 2026-11-03 雲端接手：1996 筆、0 errors；缺圖 175、缺月份 20。
 - 圖片：剩下缺圖的多半官方只有 <500px 小圖（Kodak、Casio、舊 Sony／Nikon 卡片機）、多色合照或黑底橫幅（Cooke、Cosina）；prepare_product_image.py 會拒收小圖。
