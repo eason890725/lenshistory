@@ -60881,7 +60881,8 @@
     "ports": "USB, mini HDMI",
     "weightGrams": 209,
     "burstSpeed": "6.9fps",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/nikon/nikon-coolpix-s9200.webp"
   },
   {
     "id": "nikon-coolpix-s6300",
@@ -62658,7 +62659,8 @@
     "ports": "USB, AV out",
     "weightGrams": 137,
     "afPoints": "99 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/nikon/nikon-coolpix-s6700.webp"
   },
   {
     "id": "nikon-coolpix-s5300",
@@ -62710,7 +62712,8 @@
     "ports": "USB, AV out",
     "weightGrams": 120,
     "afPoints": "99 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/nikon/nikon-coolpix-s2800.webp"
   },
   {
     "id": "nikon-coolpix-l830",
@@ -62764,7 +62767,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB, AV out",
     "weightGrams": 430,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/nikon/nikon-coolpix-l330.webp"
   },
   {
     "id": "nikon-coolpix-l29",
@@ -62815,7 +62819,8 @@
     "ports": "micro USB, micro HDMI",
     "weightGrams": 206,
     "afPoints": "99 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "image_url": "/images/products/nikon/nikon-coolpix-s9600.webp"
   },
   {
     "id": "nikon-coolpix-p530",
@@ -73502,7 +73507,8 @@
     "ports": "micro HDMI, mic",
     "cardSlots": "1x microSD/SDHC / Memory Stick Micro (Mark2)",
     "megapixels": "11.9MP",
-    "launchPrice": 9980
+    "launchPrice": 9980,
+    "image_url": "/images/products/sony/sony-hdr-as15.webp"
   },
   {
     "id": "sony-hdr-as30v",
@@ -76854,7 +76860,8 @@
     "hasApertureRing": false,
     "dimensions": "Ø75.5 x 99 mm",
     "weightGrams": 524,
-    "hasWeatherSeal": false
+    "hasWeatherSeal": false,
+    "image_url": "/images/products/sony/sony-e-18-200mm-f3-5-6-3-oss.webp"
   },
   {
     "brand": "Sony",
@@ -77017,7 +77024,8 @@
     "hasOIS": false,
     "hasApertureRing": false,
     "dimensions": "Ø63 x 65.5 mm",
-    "weightGrams": 225
+    "weightGrams": 225,
+    "image_url": "/images/products/sony/sony-e-24mm-f1-8-za.webp"
   },
   {
     "brand": "Sony",
@@ -77121,7 +77129,8 @@
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
     "dimensions": "126.9 x 95.6 x 73.7 mm",
     "weightGrams": 657,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/sony/sony-a7r-iiia.webp"
   },
   {
     "brand": "Sony",
@@ -77160,7 +77169,8 @@
     "ports": "USB-C, Micro USB, micro HDMI, mic, headphone, flash sync",
     "dimensions": "128.9 x 96.4 x 77.5 mm",
     "weightGrams": 665,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/sony/sony-a7r-iva.webp"
   },
   {
     "brand": "Sony",
@@ -77636,7 +77646,8 @@
     ],
     "material": "Aluminum alloy, Silicone",
     "weightGrams": 166.5,
-    "dimensions": "147.5 x 70.0 x 112.5 mm"
+    "dimensions": "147.5 x 70.0 x 112.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-5187.webp"
   },
   {
     "brand": "SmallRig",
@@ -77652,7 +77663,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 183.6,
-    "dimensions": "153.0 x 73.9 x 115.5 mm"
+    "dimensions": "153.0 x 73.9 x 115.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4975.webp"
   },
   {
     "brand": "SmallRig",
@@ -77668,7 +77680,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 211.7,
-    "dimensions": "156.5 x 118.5 x 64.0 mm"
+    "dimensions": "156.5 x 118.5 x 64.0 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4977.webp"
   },
   {
     "brand": "SmallRig",
@@ -77684,7 +77697,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 203,
-    "dimensions": "159.1 x 56.8 x 131 mm"
+    "dimensions": "159.1 x 56.8 x 131 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-3940.webp"
   },
   {
     "brand": "SmallRig",
@@ -77700,7 +77714,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 266,
-    "dimensions": "183.5 x 160.1 x 70.3 mm"
+    "dimensions": "183.5 x 160.1 x 70.3 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-3982.webp"
   },
   {
     "brand": "SmallRig",
@@ -77718,7 +77733,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "weightGrams": 161,
-    "dimensions": "147.5 x 62 x 118.5 mm"
+    "dimensions": "147.5 x 62 x 118.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4022.webp"
   },
   {
     "brand": "SmallRig",
@@ -77736,7 +77752,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 157,
-    "dimensions": "147.5 x 72.8 x 117.5 mm"
+    "dimensions": "147.5 x 72.8 x 117.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4023.webp"
   },
   {
     "brand": "SmallRig",
@@ -77754,7 +77771,8 @@
       "panasonic-lumix-g9ii",
       "panasonic-lumix-s1ii",
       "panasonic-lumix-s1iie"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4902.webp"
   },
   {
     "brand": "SmallRig",
@@ -77772,7 +77790,8 @@
       "panasonic-lumix-g9ii",
       "panasonic-lumix-s1ii",
       "panasonic-lumix-s1iie"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5147.webp"
   },
   {
     "brand": "SmallRig",
@@ -77785,7 +77804,8 @@
     "releaseMonth": 7,
     "compatibleWith": [
       "sony-a7s-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2999.webp"
   },
   {
     "brand": "SmallRig",
@@ -77799,7 +77819,8 @@
     "compatibleWith": [
       "panasonic-lumix-s5",
       "panasonic-lumix-s5d"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2983.webp"
   },
   {
     "brand": "SmallRig",
@@ -77815,7 +77836,8 @@
     ],
     "material": "Aluminum alloy, Wood",
     "weightGrams": 133,
-    "dimensions": "137.2 x 53.6 x 92.3 mm"
+    "dimensions": "137.2 x 53.6 x 92.3 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4557.webp"
   },
   {
     "brand": "SmallRig",
@@ -77831,7 +77853,8 @@
     ],
     "material": "Aluminum alloy, Silicone, Stainless steel",
     "weightGrams": 175.0,
-    "dimensions": "136.8 x 53.0 x 96.0 mm"
+    "dimensions": "136.8 x 53.0 x 96.0 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-5427.webp"
   },
   {
     "brand": "SmallRig",
@@ -77847,7 +77870,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "weightGrams": 206.0,
-    "dimensions": "159.9 x 65.8 x 100.4 mm"
+    "dimensions": "159.9 x 65.8 x 100.4 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-5587.webp"
   },
   {
     "brand": "SmallRig",
@@ -77863,7 +77887,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 98.0,
-    "dimensions": "100.5 x 101.0 x 64.3 mm"
+    "dimensions": "100.5 x 101.0 x 64.3 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-5591.webp"
   },
   {
     "brand": "SmallRig",
@@ -77879,7 +77904,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "weightGrams": 457.0,
-    "dimensions": "189.9 x 132.0 x 167.7 mm"
+    "dimensions": "189.9 x 132.0 x 167.7 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-5136.webp"
   },
   {
     "brand": "SmallRig",
@@ -77892,7 +77918,8 @@
     "releaseMonth": 5,
     "compatibleWith": [
       "fujifilm-gfx-100s-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4715.webp"
   },
   {
     "brand": "SmallRig",
@@ -77905,7 +77932,8 @@
     "releaseMonth": 10,
     "compatibleWith": [
       "nikon-zr"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5468.webp"
   },
   {
     "brand": "SmallRig",
@@ -77918,7 +77946,8 @@
     "releaseMonth": 12,
     "compatibleWith": [
       "sigma-fp"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccm2518.webp"
   },
   {
     "brand": "Tilta",
@@ -78425,7 +78454,8 @@
       "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
       "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
       "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s"
-    ]
+    ],
+    "image_url": "/images/products/panasonic/panasonic-dmw-tc14.webp"
   },
   {
     "brand": "Panasonic",
@@ -78451,7 +78481,8 @@
       "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
       "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
       "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s"
-    ]
+    ],
+    "image_url": "/images/products/panasonic/panasonic-dmw-tc20.webp"
   },
   {
     "brand": "Sigma",
@@ -79028,7 +79059,8 @@
       "nikon-zfc",
       "nikon-z30",
       "nikon-zf"
-    ]
+    ],
+    "image_url": "/images/products/megadap/megadap-etz21-pro.webp"
   },
   {
     "brand": "Breakthrough Photography",
@@ -79344,7 +79376,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 188.0,
-    "dimensions": "146.0 x 108.0 x 64.5 mm"
+    "dimensions": "146.0 x 108.0 x 64.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-3667c.webp"
   },
   {
     "brand": "SmallRig",
@@ -79356,7 +79389,8 @@
     "compatibleWith": [
       "sony-fx3",
       "sony-fx30"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4183.webp"
   },
   {
     "brand": "SmallRig",
@@ -79372,7 +79406,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel, Silicone",
     "weightGrams": 102.0,
-    "dimensions": "102.6 x 75.6 x 44.8 mm"
+    "dimensions": "102.6 x 75.6 x 44.8 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4772.webp"
   },
   {
     "brand": "SmallRig",
@@ -79386,7 +79421,8 @@
       "sony-a7c-r"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "dimensions": "142 x 93 x 56.4 mm"
+    "dimensions": "142 x 93 x 56.4 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4422.webp"
   },
   {
     "brand": "SmallRig",
@@ -79399,7 +79435,8 @@
       "sony-zv-e10-ii"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "dimensions": "150.0 x 85.7 x 57.3 mm"
+    "dimensions": "150.0 x 85.7 x 57.3 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4867.webp"
   },
   {
     "brand": "SmallRig",
@@ -79412,7 +79449,8 @@
       "sony-a6700"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "dimensions": "139.5 x 91.0 x 62.2 mm"
+    "dimensions": "139.5 x 91.0 x 62.2 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4336.webp"
   },
   {
     "brand": "SmallRig",
@@ -79426,7 +79464,8 @@
       "sony-a6600",
       "sony-a6500",
       "sony-a6400"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4337.webp"
   },
   {
     "brand": "SmallRig",
@@ -79440,7 +79479,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 172.0,
-    "dimensions": "152.5 x 64.0 x 116.5 mm"
+    "dimensions": "152.5 x 64.0 x 116.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4159.webp"
   },
   {
     "brand": "SmallRig",
@@ -79454,7 +79494,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 140,
-    "dimensions": "148.1 x 60.3 x 103 mm"
+    "dimensions": "148.1 x 60.3 x 103 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4212.webp"
   },
   {
     "brand": "SmallRig",
@@ -79468,7 +79509,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 160.0,
-    "dimensions": "154.6 x 107.7 x 78 mm"
+    "dimensions": "154.6 x 107.7 x 78 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4003b.webp"
   },
   {
     "brand": "SmallRig",
@@ -79482,7 +79524,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "weightGrams": 170,
-    "dimensions": "152.2 x 113 x 62.7 mm"
+    "dimensions": "152.2 x 113 x 62.7 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4519.webp"
   },
   {
     "brand": "SmallRig",
@@ -79493,7 +79536,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-nikon-z-9-3195.html",
     "compatibleWith": [
       "nikon-z9"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3195.webp"
   },
   {
     "brand": "SmallRig",
@@ -79504,7 +79548,8 @@
     "officialUrl": "https://www.smallrig.com/SmallRig-Retro-Cage-for-FUJIFILM-X-T5-3870.html",
     "compatibleWith": [
       "fujifilm-x-t5"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3870.webp"
   },
   {
     "brand": "SmallRig",
@@ -79515,7 +79560,8 @@
     "officialUrl": "https://www.smallrig.com/SmallRig-Multifunctional-Cage-for-FUJIFILM-X-T5-4135.html",
     "compatibleWith": [
       "fujifilm-x-t5"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4135.webp"
   },
   {
     "brand": "SmallRig",
@@ -79527,7 +79573,8 @@
     "compatibleWith": [
       "fujifilm-x-h2s",
       "fujifilm-x-h2"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3934.webp"
   },
   {
     "brand": "SmallRig",
@@ -79541,7 +79588,8 @@
     ],
     "material": "Aluminum alloy",
     "weightGrams": 140,
-    "dimensions": "142.3 x 58.3 x 99 mm"
+    "dimensions": "142.3 x 58.3 x 99 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4230.webp"
   },
   {
     "brand": "SmallRig",
@@ -79554,7 +79602,8 @@
       "fujifilm-gfx-100-ii"
     ],
     "material": "Aluminum alloy",
-    "dimensions": "167.5 x 64.1 x 130.5 mm"
+    "dimensions": "167.5 x 64.1 x 130.5 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4201.webp"
   },
   {
     "brand": "SmallRig",
@@ -79566,7 +79615,8 @@
     "compatibleWith": [
       "panasonic-lumix-gh6",
       "panasonic-lumix-gh7"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3784.webp"
   },
   {
     "brand": "SmallRig",
@@ -79581,7 +79631,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel, Silicone",
     "weightGrams": 192.5,
-    "dimensions": "160.3 x 114.0 x 62.0 mm"
+    "dimensions": "160.3 x 114.0 x 62.0 mm",
+    "image_url": "/images/products/smallrig/smallrig-cage-4824.webp"
   },
   {
     "brand": "SmallRig",
@@ -79592,7 +79643,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-panasonic-s1h-ccp2488.html",
     "compatibleWith": [
       "panasonic-lumix-s1h"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccp2488.webp"
   },
   {
     "brand": "Sony",
@@ -79607,7 +79659,8 @@
       "sony-a7",
       "sony-a7r"
     ],
-    "batterySpec": "2x NP-FW50"
+    "batterySpec": "2x NP-FW50",
+    "image_url": "/images/products/sony/sony-vg-c1em.webp"
   },
   {
     "brand": "Sony",
