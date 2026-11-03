@@ -7,7 +7,7 @@ export type Gear = {
   slug?: string;
   brand: string;
   modelName: string;
-  gearType: 'LENS' | 'CAMERA_BODY';
+  gearType: 'LENS' | 'CAMERA_BODY' | 'ACCESSORY';
   aliases?: string[];
   image_url?: string;
   officialUrl?: string;
@@ -62,7 +62,33 @@ export type Gear = {
   cardSlots?: string;
   batterySpec?: string;
   ports?: string;
+
+  // accessory (gearType ACCESSORY); mounts = the camera-side mount for teleconverters and adapters
+  accessoryType?: AccessoryType;
+  compatibleWith?: string[];       // ids of the bodies / lenses it is made for (grips, cages, teleconverters)
+  magnification?: string;          // teleconverter, "1.4x"
+  lensMount?: string;              // mount adapter: the lens side, e.g. "Canon EF" (mounts holds the camera side)
+  hasElectronicContacts?: boolean; // mount adapter: passes AF / aperture control
+  compatibleSystems?: string;      // flash: camera systems / hot shoe, e.g. "Sony (Multi Interface Shoe)"
+  guideNumber?: string;            // flash, "60 (ISO 100, m, 200mm)"
+  zoomRange?: string;              // flash head zoom, "20-200mm"
+  hasTTL?: boolean;
+  hasHSS?: boolean;
+  wirelessSystem?: string;         // flash, "Radio 2.4GHz / Optical"
+  recycleTime?: string;            // flash, "1.7s"
+  filterKind?: string;             // filter, "Circular polarizer", "Variable ND 1.5-5 stops"
+  filterSizes?: string;            // filter, "49-82mm" or "100x100mm"
+  material?: string;               // tripod / cage / filter
+  maxHeight?: string;              // tripod, "152cm"
+  minHeight?: string;
+  foldedLength?: string;
+  maxLoad?: string;                // tripod, "9kg"
+  legSections?: number;
+  headType?: string;               // tripod, "Ball head"
 };
+
+export const ACCESSORY_TYPES = ['TELECONVERTER', 'MOUNT_ADAPTER', 'FLASH', 'BATTERY_GRIP', 'FILTER', 'TRIPOD', 'CAGE'] as const;
+export type AccessoryType = (typeof ACCESSORY_TYPES)[number];
 
 // weightGrams is a number, or free text like "Approx. 630 g (including battery and card)"
 export function weightLabel(g: Gear) {
@@ -75,7 +101,21 @@ export function weightValue(g: Gear) {
 
 // Filter category: a body with no mount is a fixed-lens camera (action cams often publish no lens spec, so fixedLens can be empty)
 export function gearKind(g: Gear) {
-  return g.gearType === 'LENS' ? 'LENS' : g.mounts?.length ? 'CAMERA_BODY' : 'FIXED_LENS';
+  if (g.gearType === 'LENS' || g.gearType === 'ACCESSORY') return g.gearType;
+  return g.mounts?.length ? 'CAMERA_BODY' : 'FIXED_LENS';
+}
+
+// One short line for cards: "1.4x", "Canon EF → Canon RF", "GN 60", "Max 152cm · 9kg"
+export function accessorySpec(g: Gear) {
+  const mount = g.mounts?.map(m => m.mount.name).join(' / ');
+  switch (g.accessoryType) {
+    case 'TELECONVERTER': return [g.magnification, mount].filter(Boolean).join(' · ');
+    case 'MOUNT_ADAPTER': return g.lensMount && mount ? `${g.lensMount} → ${mount}` : mount;
+    case 'FLASH': return g.guideNumber ? `GN ${g.guideNumber.split(' ')[0]}` : undefined;
+    case 'FILTER': return [g.filterKind, g.filterSizes].filter(Boolean).join(' · ');
+    case 'TRIPOD': return [g.maxHeight, g.maxLoad].filter(Boolean).join(' · ');
+    default: return undefined;
+  }
 }
 
 // Launch price when known, else the street price

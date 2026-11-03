@@ -47,6 +47,14 @@ editorial — 器材型錄 / 檔案館。
 - `weightGrams`：機身含電池與記憶卡，鏡頭用官方值。外接電池的電影機（RED、Blackmagic 盒式機、Z CAM）用官方公布的機身淨重（body only）。
 - `sensorFormat` 只能用 Full Frame、APS-H（Sigma sd Quattro H）、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
 
+## 配件（gearType ACCESSORY）
+- `accessoryType`：TELECONVERTER 增距鏡、MOUNT_ADAPTER 轉接環、FLASH 閃光燈、BATTERY_GRIP 電池手把、FILTER 濾鏡、TRIPOD 腳架、CAGE 兔籠。
+- 增距鏡、轉接環的 `mounts` 是機身端卡口；轉接環另填 `lensMount`（鏡頭端，可用單眼／電影卡口，清單見 validate 的 LENS_SIDE_MOUNTS）與 `hasElectronicContacts`。
+- `compatibleWith`：官方列出的適用機身／鏡頭 id（手把、兔籠、增距鏡）。詳細頁的「相容器材」會雙向顯示，並依卡口列出可用機身／鏡頭數量。
+- 其他欄位：magnification "1.4x"、guideNumber "60 (ISO 100, m, 200mm)"、zoomRange "20-200mm"、recycleTime "1.7s"、
+  filterKind、filterSizes "49-82mm"、maxHeight "152cm"、minHeight、foldedLength、maxLoad "9kg"、legSections（數字）、headType、material。
+- 收錄原則同上：官方規格為準，查不到留白。
+
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。
 

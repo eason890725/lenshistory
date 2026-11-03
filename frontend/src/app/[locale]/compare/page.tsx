@@ -39,6 +39,7 @@ export default async function ComparePage({
   const noneLabel = (v: string) => (v === NONE ? tc('none') : v);
   const L = 'LENS' as const;
   const B = 'CAMERA_BODY' as const;
+  const A = 'ACCESSORY' as const;
 
   const rows: Row[] = [
     { section: t('releaseInfo'), label: t('releaseYear'), get: releaseLabel },
@@ -70,6 +71,28 @@ export default async function ComparePage({
     { section: t('hardware'), label: t('lcdSpec'), type: B, get: g => g.lcdSpec },
     { section: t('hardware'), label: t('cardSlots'), type: B, get: g => g.cardSlots },
     { section: t('hardware'), label: t('batterySpec'), type: B, get: g => g.batterySpec },
+
+    { section: t('accessorySpecs'), label: t('accessoryType'), type: A, get: g => (g.accessoryType ? t(g.accessoryType) : undefined) },
+    { section: t('accessorySpecs'), label: t('magnification'), type: A, get: g => g.magnification },
+    { section: t('accessorySpecs'), label: t('lensMount'), type: A, get: g => g.lensMount },
+    { section: t('accessorySpecs'), label: t('electronicContacts'), type: A, get: g => yesNo(g.hasElectronicContacts) },
+    { section: t('accessorySpecs'), label: t('compatibleSystems'), type: A, get: g => g.compatibleSystems },
+    { section: t('accessorySpecs'), label: t('guideNumber'), type: A, get: g => g.guideNumber },
+    { section: t('accessorySpecs'), label: t('zoomRange'), type: A, get: g => g.zoomRange },
+    { section: t('accessorySpecs'), label: t('ttl'), type: A, get: g => yesNo(g.hasTTL) },
+    { section: t('accessorySpecs'), label: t('hss'), type: A, get: g => yesNo(g.hasHSS) },
+    { section: t('accessorySpecs'), label: t('wireless'), type: A, get: g => g.wirelessSystem },
+    { section: t('accessorySpecs'), label: t('recycleTime'), type: A, get: g => g.recycleTime },
+    { section: t('accessorySpecs'), label: t('filterKind'), type: A, get: g => g.filterKind },
+    { section: t('accessorySpecs'), label: t('filterSizes'), type: A, get: g => g.filterSizes },
+    { section: t('accessorySpecs'), label: t('maxHeight'), type: A, get: g => g.maxHeight },
+    { section: t('accessorySpecs'), label: t('minHeight'), type: A, get: g => g.minHeight },
+    { section: t('accessorySpecs'), label: t('foldedLength'), type: A, get: g => g.foldedLength },
+    { section: t('accessorySpecs'), label: t('maxLoad'), type: A, get: g => g.maxLoad },
+    { section: t('accessorySpecs'), label: t('legSections'), type: A, get: g => g.legSections },
+    { section: t('accessorySpecs'), label: t('headType'), type: A, get: g => g.headType },
+    { section: t('accessorySpecs'), label: t('batterySpec'), type: A, get: g => g.batterySpec },
+    { section: t('accessorySpecs'), label: t('material'), type: A, get: g => g.material },
 
     { section: t('physical'), label: t('mount'), get: g => g.mounts?.map(m => m.mount.name).join(', ') },
     { section: t('physical'), label: t('sensorFormat'), get: g => g.sensorFormat },

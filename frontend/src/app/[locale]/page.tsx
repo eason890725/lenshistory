@@ -11,16 +11,17 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const ts = await getTranslations('GearSpecs');
 
   const brands = Object.values(
-    gears.reduce<Record<string, { brand: string; bodies: number; lenses: number }>>((acc, g) => {
-      const row = (acc[g.brand] ??= { brand: g.brand, bodies: 0, lenses: 0 });
+    gears.reduce<Record<string, { brand: string; bodies: number; lenses: number; accessories: number }>>((acc, g) => {
+      const row = (acc[g.brand] ??= { brand: g.brand, bodies: 0, lenses: 0, accessories: 0 });
       if (g.gearType === 'LENS') row.lenses++;
+      else if (g.gearType === 'ACCESSORY') row.accessories++;
       else row.bodies++;
       return acc;
     }, {})
-  ).sort((a, b) => b.bodies + b.lenses - (a.bodies + a.lenses));
+  ).sort((a, b) => b.bodies + b.lenses + b.accessories - (a.bodies + a.lenses + a.accessories));
 
   const latest = [...gears]
-    .filter(g => g.image_url)
+    .filter(g => g.image_url && g.gearType !== 'ACCESSORY')
     .sort((a, b) => releaseKey(b) - releaseKey(a) || a.modelName.localeCompare(b.modelName))
     .slice(0, 8);
 
@@ -42,7 +43,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <Link href={`/database?brands=${encodeURIComponent(b.brand)}`} className="group flex min-h-14 items-baseline justify-between gap-[var(--space-md)] py-[var(--space-sm)]">
                 <span className="font-display text-lg font-bold text-ink group-hover:text-accent">{b.brand}</span>
                 <span className="font-mono text-xs text-muted tnum">
-                  {[b.bodies && `${b.bodies} ${t('bodies')}`, b.lenses && `${b.lenses} ${t('lenses')}`].filter(Boolean).join(' · ')}
+                  {[b.bodies && `${b.bodies} ${t('bodies')}`, b.lenses && `${b.lenses} ${t('lenses')}`, b.accessories && `${b.accessories} ${t('accessories')}`].filter(Boolean).join(' · ')}
                 </span>
               </Link>
             </li>
