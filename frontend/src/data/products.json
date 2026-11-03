@@ -8325,6 +8325,11 @@
         "mount": {
           "name": "Sony E"
         }
+      },
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
       }
     ],
     "sensorFormat": "Full Frame",
@@ -10301,6 +10306,11 @@
       {
         "mount": {
           "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
         }
       }
     ],
@@ -30026,6 +30036,11 @@
         "mount": {
           "name": "Sony E"
         }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
       }
     ],
     "sensorFormat": "APS-C",
@@ -30063,6 +30078,16 @@
       {
         "mount": {
           "name": "Fujifilm X"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      },
+      {
+        "mount": {
+          "name": "Nikon Z"
         }
       }
     ],
@@ -30107,6 +30132,11 @@
       {
         "mount": {
           "name": "Nikon Z"
+        }
+      },
+      {
+        "mount": {
+          "name": "Sony E"
         }
       }
     ],
