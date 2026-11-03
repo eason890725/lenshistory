@@ -28914,7 +28914,9 @@
     "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-50.webp",
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 59800,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "zeiss-otus-ml-1-4-85",
@@ -28960,7 +28962,9 @@
     "image_url": "/images/products/zeiss/zeiss-otus-ml-1-4-85.webp",
     "motorType": "Manual focus",
     "releaseMonth": 2,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "retailPrice": 69300,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "zeiss-otus-ml-1-4-35",
@@ -41476,7 +41480,9 @@
     "motorType": "Linear Motor",
     "hasWeatherSeal": true,
     "image_url": "/images/products/panasonic/panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s.webp",
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "retailPrice": 67500,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "panasonic-lumix-s-pro-16-35mm-f4",
@@ -41796,7 +41802,9 @@
     "motorType": "Stepping Motor",
     "coatings": "Fluorine coating",
     "hasOIS": false,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 22160,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "panasonic-lumix-s-28-200mm-f4-7-1-macro-o-i-s",
