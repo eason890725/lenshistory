@@ -23618,7 +23618,8 @@
     "releaseMonth": 9,
     "ports": "USB 2.0",
     "evfMagnification": "0.68x",
-    "image_url": "/images/products/leica/leica-m-e-typ-220.webp"
+    "image_url": "/images/products/leica/leica-m-e-typ-220.webp",
+    "launchPrice": 192000
   },
   {
     "id": "leica-m-monochrom",
@@ -33075,7 +33076,8 @@
     "hasApertureRing": false,
     "hasWeatherSeal": false,
     "hasOIS": false,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "launchPrice": 12000
   },
   {
     "id": "sirui-sniper-16mm-f1-2",
@@ -36409,7 +36411,9 @@
     "processor": "TruePic X",
     "videoColorDepth": "10-bit",
     "evfMagnification": "1.65x",
-    "afRange": "EV -5.5 to 19"
+    "afRange": "EV -5.5 to 19",
+    "retailPrice": 64990,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "om-system-om-1",
@@ -62412,7 +62416,8 @@
     "afPoints": "99 points",
     "hasWeatherSeal": false,
     "afTargets": "Face",
-    "processor": "EXPEED"
+    "processor": "EXPEED",
+    "launchPrice": 15900
   },
   {
     "id": "nikon-coolpix-b600",
@@ -62442,7 +62447,8 @@
     "hasWeatherSeal": false,
     "burstSpeed": "7.7fps",
     "afTargets": "Face",
-    "processor": "EXPEED"
+    "processor": "EXPEED",
+    "launchPrice": 12900
   },
   {
     "id": "nikon-coolpix-w150",
@@ -65342,7 +65348,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x microSD/microSDHC/microSDXC",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 11990
   },
   {
     "id": "canon-ixus-240-hs",
@@ -66967,7 +66974,8 @@
     "burstSpeed": "5fps",
     "image_url": "/images/products/om-system/olympus-stylus-tg-4-tough.webp",
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 13990
   },
   {
     "id": "olympus-stylus-tg-860-tough",
@@ -67232,7 +67240,8 @@
     "sensorType": "CMOS",
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "USB 2.0, HDMI",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 19800
   },
   {
     "id": "fujifilm-xf1",
@@ -68096,7 +68105,8 @@
     "processor": "Venus Engine",
     "image_url": "/images/products/panasonic/panasonic-lumix-lx7.webp",
     "afPoints": "23 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 16900
   },
   {
     "id": "panasonic-lumix-zs300",
@@ -69801,7 +69811,8 @@
     "weightGrams": 190,
     "image_url": "/images/products/ricoh/ricoh-wg-m1.webp",
     "evfMagnification": "None",
-    "isoRange": "100-800"
+    "isoRange": "100-800",
+    "launchPrice": 12900
   },
   {
     "id": "ricoh-wg-30",
@@ -70344,7 +70355,8 @@
     "hasWeatherSeal": false,
     "burstSpeed": "1fps",
     "afPoints": "25 points",
-    "afTargets": "Face, Animal (Pet)"
+    "afTargets": "Face, Animal (Pet)",
+    "launchPrice": 16800
   },
   {
     "id": "pentax-optio-vs20",
@@ -70841,7 +70853,8 @@
     "hasWeatherSeal": false,
     "evfMagnification": "0.7x",
     "ports": "USB 2.0, HDMI, mic",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 44000
   },
   {
     "id": "leica-v-lux-5",
@@ -73435,7 +73448,8 @@
     "sensorType": "Exmor R CMOS",
     "ports": "micro HDMI, mic",
     "cardSlots": "1x microSD/SDHC / Memory Stick Micro (Mark2)",
-    "megapixels": "11.9MP"
+    "megapixels": "11.9MP",
+    "launchPrice": 9980
   },
   {
     "id": "sony-hdr-as30v",
@@ -75855,7 +75869,8 @@
     "cardSlots": "1x SD/SDHC/SDXC",
     "ports": "Hi-Speed USB, HDMI, AV out",
     "sensorFormat": "1/2.3-inch",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 15990
   },
   {
     "id": "canon-powershot-sx400-is",
@@ -75884,7 +75899,8 @@
     "sensorType": "CCD",
     "cardSlots": "1x SD/SDHC/SDXC",
     "sensorFormat": "1/2.3-inch",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 5990
   },
   {
     "id": "canon-ixus-150",
@@ -76265,7 +76281,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
     "sensorFormat": "1/2.3-inch",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 8990
   },
   {
     "brand": "Nikon",
@@ -76481,7 +76498,8 @@
     "hasOIS": true,
     "dimensions": "Ø68 x 96.7 mm",
     "weightGrams": 460,
-    "image_url": "/images/products/tamron/tamron-18-200mm-f3-5-6-3-di-iii-vc-b011.webp"
+    "image_url": "/images/products/tamron/tamron-18-200mm-f3-5-6-3-di-iii-vc-b011.webp",
+    "launchPrice": 23800
   },
   {
     "brand": "OM System",
