@@ -22224,7 +22224,9 @@
     "releaseMonth": 9,
     "afPoints": "49 points",
     "logSupport": "None",
-    "dimensions": "129.0 x 74.9 x 38.3 mm"
+    "dimensions": "129.0 x 74.9 x 38.3 mm",
+    "launchKitPrice": 39888,
+    "launchKitLens": "35mm F1.4"
   },
   {
     "id": "fujifilm-x-a20",
@@ -28347,7 +28349,9 @@
     "releaseMonth": 5,
     "afTargets": "Face",
     "afRange": "EV 0 to 20",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "launchKitPrice": 18980,
+    "launchKitLens": "SEL1855"
   },
   {
     "id": "sony-nex-3n",
@@ -37020,7 +37024,9 @@
     "afTargets": "Human (Face/Eye)",
     "logSupport": "None",
     "image_url": "/images/products/om-system/olympus-pen-e-pl9.webp",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "launchKitPrice": 23490,
+    "launchKitLens": "M.ZUIKO 14-42mm F3.5-5.6 EZ"
   },
   {
     "id": "olympus-om-d-e-m5-mark-ii",
@@ -38778,7 +38784,9 @@
     "logSupport": "None",
     "ports": "USB 2.0, HDMI",
     "evfMagnification": "None",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "launchKitPrice": 27900,
+    "launchKitLens": "LUMIX G X VARIO PZ 14-42mm F3.5-5.6 ASPH"
   },
   {
     "id": "panasonic-lumix-g6",
@@ -38888,7 +38896,9 @@
     "evfMagnification": "None",
     "logSupport": "None",
     "ports": "USB 2.0, HDMI",
-    "hasIBIS": false
+    "hasIBIS": false,
+    "launchKitPrice": 24900,
+    "launchKitLens": "LUMIX G VARIO 12-32mm"
   },
   {
     "id": "panasonic-lumix-gh4",
@@ -39077,7 +39087,8 @@
     "ports": "USB 2.0, HDMI, mic",
     "hasWeatherSeal": true,
     "logSupport": "None",
-    "image_url": "/images/products/panasonic/panasonic-lumix-gx8.webp"
+    "image_url": "/images/products/panasonic/panasonic-lumix-gx8.webp",
+    "launchPrice": 36900
   },
   {
     "id": "panasonic-lumix-gx85",
@@ -46525,7 +46536,9 @@
     "hasWeatherSeal": false,
     "evfMagnification": "None",
     "dimensions": "122 x 64 x 41 mm",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 25990,
+    "launchKitLens": "NX 20-50mm"
   },
   {
     "id": "samsung-nx1100",
@@ -46656,7 +46669,9 @@
     "weightGrams": 375,
     "afTargets": "Face",
     "afPoints": "105 phase-detect points + 247 contrast-detect points",
-    "logSupport": "None"
+    "logSupport": "None",
+    "launchKitPrice": 32990,
+    "launchKitLens": "NX 18-55mm"
   },
   {
     "id": "samsung-nx-mini",
@@ -46690,7 +46705,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/samsung/samsung-nx-mini.webp",
     "evfMagnification": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 12490,
+    "launchKitLens": "NX-M 9mm F3.5 ED"
   },
   {
     "id": "samsung-nx3000",
@@ -46722,7 +46739,9 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/samsung/samsung-nx3000.webp",
     "evfMagnification": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 15990,
+    "launchKitLens": "NX 16-50mm F3.5-5.6 Power Zoom ED OIS"
   },
   {
     "id": "samsung-nx1",
@@ -46795,7 +46814,9 @@
     "evfMagnification": "None",
     "image_url": "/images/products/samsung/samsung-nx500.webp",
     "dimensions": "120 x 64 x 43 mm",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 24990,
+    "launchKitLens": "NX 16-50mm F3.5-5.6 Power Zoom ED OIS"
   },
   {
     "id": "samsung-nx3300",
@@ -57173,7 +57194,9 @@
     "sensorType": "CMOS",
     "videoResolution": "Full HD 30p",
     "afTargets": "Face",
-    "afRange": "EV 1 to 18"
+    "afRange": "EV 1 to 18",
+    "launchKitPrice": 14900,
+    "launchKitLens": "EF-M 18-55mm F3.5-5.6 IS STM + 90EX 閃光燈"
   },
   {
     "id": "canon-eos-m3",
@@ -57210,7 +57233,9 @@
     "sensorType": "CMOS",
     "logSupport": "None",
     "afTargets": "Face",
-    "afRange": "EV 2 to 18"
+    "afRange": "EV 2 to 18",
+    "launchKitPrice": 20900,
+    "launchKitLens": "EF-M 18-55mm F3.5-5.6 IS STM"
   },
   {
     "id": "canon-eos-m10",
@@ -57478,7 +57503,9 @@
     "afPoints": "143 areas",
     "afTargets": "Human (Face/Eye)",
     "afRange": "EV -4 to 18",
-    "logSupport": "None"
+    "logSupport": "None",
+    "launchKitPrice": 18900,
+    "launchKitLens": "EF-M 15-45mm F3.5-6.3 IS STM"
   },
   {
     "id": "canon-eos-m50-mark-ii",
@@ -60171,7 +60198,9 @@
     "hasIBIS": false,
     "hasWeatherSeal": false,
     "logSupport": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 28900,
+    "launchKitLens": "1 NIKKOR VR 10-30mm f/3.5-5.6 PD-ZOOM"
   },
   {
     "id": "nikon-1-j4",
@@ -68230,7 +68259,8 @@
     "processor": "Venus Engine",
     "afPoints": "49 points",
     "logSupport": "None",
-    "afTargets": "Human (Face/Eye)"
+    "afTargets": "Human (Face/Eye)",
+    "launchPrice": 29900
   },
   {
     "id": "panasonic-lumix-l10",
@@ -70520,7 +70550,8 @@
     "hasWeatherSeal": false,
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 74000
   },
   {
     "id": "leica-x-vario-typ-107",
@@ -70653,7 +70684,8 @@
     "image_url": "/images/products/leica/leica-d-lux-typ-109.webp",
     "hasWeatherSeal": false,
     "ports": "USB 2.0, HDMI",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 40000
   },
   {
     "id": "leica-d-lux-7",
@@ -70797,7 +70829,8 @@
     "burstSpeed": "10fps",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 28000
   },
   {
     "id": "leica-v-lux-4",
@@ -73024,7 +73057,8 @@
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
     "isoRange": "100-12800",
     "sensorType": "Exmor R CMOS",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 9980
   },
   {
     "id": "sony-cyber-shot-dsc-wx200",
@@ -73109,7 +73143,8 @@
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Pro Duo/Pro-HG Duo",
     "afPoints": "9 points",
     "processor": "BIONZ",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 10980
   },
   {
     "id": "sony-cyber-shot-dsc-wx220",
