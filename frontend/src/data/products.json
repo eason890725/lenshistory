@@ -77887,5 +77887,2049 @@
     "compatibleWith": [
       "canon-eos-c70"
     ]
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony FE 1.4x Teleconverter (SEL14TC)",
+    "gearType": "ACCESSORY",
+    "id": "sony-sel14tc",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2016,
+    "releaseMonth": 2,
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL14TC/spec.html",
+    "opticalDesign": "6 elements in 5 groups",
+    "weightGrams": 167,
+    "dimensions": "Ø62.4 x 33.6 mm",
+    "compatibleWith": [
+      "sony-100-400mm-f4-5-5-6-gm-oss",
+      "sony-100mm-f2-8-gm-oss-marco",
+      "sony-300mm-f2-8-gm-oss",
+      "sony-400-800mm-f6-3-8-0-g-oss",
+      "sony-400mm-f2-8-gm-oss",
+      "sony-600mm-f4-0-gm-oss",
+      "sony-70-200mm-f2-8-gm-oss",
+      "sony-70-200mm-f4-g-oss-ii",
+      "sony-fe-100-400mm-f4-5-gm-oss",
+      "sony-fe-100-400mm-f5-6-8-oss",
+      "sony-fe-200-600mm-f5-6-6-3-g-oss",
+      "sony-fe-400mm-f4-5-gm-oss",
+      "sony-fe-600mm-f6-3-gm-oss",
+      "sony-fe-70-200mm-f2-8-gm-oss-ii"
+    ]
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony FE 2.0x Teleconverter (SEL20TC)",
+    "gearType": "ACCESSORY",
+    "id": "sony-sel20tc",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2016,
+    "releaseMonth": 2,
+    "officialUrl": "https://www.sony.jp/ichigan/products/SEL20TC/spec.html",
+    "opticalDesign": "8 elements in 5 groups",
+    "weightGrams": 207,
+    "dimensions": "Ø62.4 x 42.7 mm",
+    "compatibleWith": [
+      "sony-100-400mm-f4-5-5-6-gm-oss",
+      "sony-100mm-f2-8-gm-oss-marco",
+      "sony-300mm-f2-8-gm-oss",
+      "sony-400-800mm-f6-3-8-0-g-oss",
+      "sony-400mm-f2-8-gm-oss",
+      "sony-600mm-f4-0-gm-oss",
+      "sony-70-200mm-f2-8-gm-oss",
+      "sony-70-200mm-f4-g-oss-ii",
+      "sony-fe-100-400mm-f4-5-gm-oss",
+      "sony-fe-100-400mm-f5-6-8-oss",
+      "sony-fe-200-600mm-f5-6-6-3-g-oss",
+      "sony-fe-400mm-f4-5-gm-oss",
+      "sony-fe-600mm-f6-3-gm-oss",
+      "sony-fe-70-200mm-f2-8-gm-oss-ii"
+    ]
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Extender RF1.4x",
+    "gearType": "ACCESSORY",
+    "id": "canon-extender-rf-1-4x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2020,
+    "officialUrl": "https://tw.canon/zh_TW/consumer/extender-rf-1-4x/main/product",
+    "opticalDesign": "7 elements in 4 groups",
+    "weightGrams": 225,
+    "dimensions": "Ø71.2 x 20.3 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "canon-rf-400mm-f2-8-l-is-usm",
+      "canon-rf-600mm-f4-l-is-usm",
+      "canon-rf-600mm-f11-is-stm",
+      "canon-rf-800mm-f5-6-l-is-usm",
+      "canon-rf-800mm-f11-is-stm",
+      "canon-rf-1200mm-f8-l-is-usm",
+      "canon-rf-100-300mm-f2-8-l-is-usm",
+      "canon-rf-100-400mm-f5-6-8-is-usm",
+      "canon-rf-100-500mm-f4-5-7-1l-is-usm",
+      "canon-rf-200-800mm-f6-3-9-is-usm"
+    ]
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Extender RF2x",
+    "gearType": "ACCESSORY",
+    "id": "canon-extender-rf-2x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2020,
+    "officialUrl": "https://tw.canon/zh_TW/consumer/extender-rf-2x/main/product",
+    "opticalDesign": "9 elements in 5 groups",
+    "weightGrams": 340,
+    "dimensions": "Ø71.2 x 39.3 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "canon-rf-400mm-f2-8-l-is-usm",
+      "canon-rf-600mm-f4-l-is-usm",
+      "canon-rf-600mm-f11-is-stm",
+      "canon-rf-800mm-f5-6-l-is-usm",
+      "canon-rf-800mm-f11-is-stm",
+      "canon-rf-1200mm-f8-l-is-usm",
+      "canon-rf-100-300mm-f2-8-l-is-usm",
+      "canon-rf-100-400mm-f5-6-8-is-usm",
+      "canon-rf-100-500mm-f4-5-7-1l-is-usm",
+      "canon-rf-200-800mm-f6-3-9-is-usm"
+    ]
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Z TELECONVERTER TC-1.4x",
+    "gearType": "ACCESSORY",
+    "id": "nikon-z-teleconverter-tc-1-4x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2020,
+    "releaseMonth": 7,
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_tc_14x/",
+    "opticalDesign": "6 elements in 4 groups",
+    "weightGrams": 220,
+    "dimensions": "Ø72 x 18.5 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "nikon-z-70-180mm-f-2-8",
+      "nikon-z-70-200mm-f-2-8-vr-s",
+      "nikon-z-100-400mm-f-4-5-5-6-vr-s",
+      "nikon-z-180-600mm-f-5-6-6-3-vr",
+      "nikon-z-400mm-f-2-8-tc-vr-s",
+      "nikon-z-400mm-f-4-5-vr-s",
+      "nikon-z-600mm-f-4-tc-vr-s",
+      "nikon-z-800mm-f-6-3-vr-s"
+    ]
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Z TELECONVERTER TC-2.0x",
+    "gearType": "ACCESSORY",
+    "id": "nikon-z-teleconverter-tc-2-0x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2020,
+    "releaseMonth": 7,
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/z-mount/z_tc_2x/",
+    "opticalDesign": "8 elements in 5 groups",
+    "weightGrams": 270,
+    "dimensions": "Ø72 x 32.5 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "nikon-z-70-180mm-f-2-8",
+      "nikon-z-70-200mm-f-2-8-vr-s",
+      "nikon-z-100-400mm-f-4-5-5-6-vr-s",
+      "nikon-z-180-600mm-f-5-6-6-3-vr",
+      "nikon-z-400mm-f-2-8-tc-vr-s",
+      "nikon-z-400mm-f-4-5-vr-s",
+      "nikon-z-600mm-f-4-tc-vr-s",
+      "nikon-z-800mm-f-6-3-vr-s"
+    ]
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm FUJINON XF1.4X TC WR",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-xf1-4x-tc-wr",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2015,
+    "releaseMonth": 11,
+    "officialUrl": "https://www.fujifilm-x.com/global/products/lenses/xf14x-tc-wr/",
+    "opticalDesign": "7 elements in 3 groups",
+    "weightGrams": 130,
+    "dimensions": "Ø58 x 15 mm",
+    "compatibleWith": [
+      "fujifilm-xf-80mm-f2-8-r-lm-ois-wr-macro",
+      "fujifilm-xf-400mm-f4-5-r-lm-ois-wr",
+      "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
+      "fujifilm-xf-50-140mm-f2-8-r-lm-ois-wr",
+      "fujifilm-xf-70-300mm-f4-5-6-r-lm-ois-wr",
+      "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
+      "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr"
+    ],
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm FUJINON XF2X TC WR",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-xf2x-tc-wr",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2016,
+    "releaseMonth": 6,
+    "officialUrl": "https://www.fujifilm-x.com/global/products/lenses/xf2x-tc-wr/",
+    "opticalDesign": "9 elements in 5 groups",
+    "weightGrams": 170,
+    "dimensions": "Ø58 x 30.2 mm",
+    "compatibleWith": [
+      "fujifilm-xf-80mm-f2-8-r-lm-ois-wr-macro",
+      "fujifilm-xf-400mm-f4-5-r-lm-ois-wr",
+      "fujifilm-xf-500mm-f5-6-r-lm-ois-wr",
+      "fujifilm-xf-50-140mm-f2-8-r-lm-ois-wr",
+      "fujifilm-xf-70-300mm-f4-5-6-r-lm-ois-wr",
+      "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
+      "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr"
+    ],
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm FUJINON GF1.4X TC WR",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-gf1-4x-tc-wr",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm G"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2018,
+    "releaseMonth": 5,
+    "officialUrl": "https://www.fujifilm-x.com/global/products/lenses/gf14x-tc-wr/",
+    "opticalDesign": "7 elements in 3 groups",
+    "weightGrams": 400,
+    "dimensions": "Ø82 x 26.7 mm",
+    "compatibleWith": [
+      "fujifilm-gf-250mm-f4-r-lm-ois-wr",
+      "fujifilm-gf-500mm-f5-6-r-lm-ois-wr",
+      "fujifilm-gf-100-200mm-f5-6-r-lm-ois-wr"
+    ]
+  },
+  {
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital 1.4x Teleconverter MC-14",
+    "gearType": "ACCESSORY",
+    "id": "olympus-mc14",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2014,
+    "releaseMonth": 11,
+    "officialUrl": "https://jp.omsystem.com/product/lens/mc14/index.html",
+    "opticalDesign": "6 elements in 3 groups",
+    "weightGrams": 105,
+    "dimensions": "Ø59.8 x 14.7 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro",
+      "olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro",
+      "om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro",
+      "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
+      "om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii",
+      "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
+      "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
+      "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
+    ]
+  },
+  {
+    "brand": "OM System",
+    "modelName": "Olympus M.Zuiko Digital 2x Teleconverter MC-20",
+    "gearType": "ACCESSORY",
+    "id": "olympus-mc20",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2019,
+    "releaseMonth": 6,
+    "officialUrl": "https://jp.omsystem.com/product/lens/mc20/index.html",
+    "opticalDesign": "9 elements in 4 groups",
+    "weightGrams": 150,
+    "dimensions": "Ø59.8 x 25.9 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "olympus-m-zuiko-digital-ed-40-150mm-f2-8-pro",
+      "olympus-m-zuiko-digital-ed-300mm-f4-0-is-pro",
+      "om-system-m-zuiko-digital-ed-50-200mm-f2-8-is-pro",
+      "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
+      "om-system-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is-ii",
+      "olympus-m-zuiko-digital-ed-150-400mm-f4-5-tc1-25x-is-pro",
+      "om-system-m-zuiko-digital-ed-150-600mm-f5-0-6-3-is",
+      "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
+    ]
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 1.4x Teleconverter (DMW-STC14)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-stc14",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMW-STC14_spec.html",
+    "opticalDesign": "7 elements in 4 groups",
+    "weightGrams": 180,
+    "dimensions": "Ø65.3 x 27.6 mm",
+    "compatibleWith": [
+      "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
+      "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
+      "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s"
+    ]
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX S 2x Teleconverter (DMW-STC20)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-stc20",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMW-STC20_spec.html",
+    "opticalDesign": "8 elements in 4 groups",
+    "weightGrams": 230,
+    "dimensions": "Ø65.3 x 41.6 mm",
+    "compatibleWith": [
+      "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
+      "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
+      "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s"
+    ]
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 1.4x Teleconverter (DMW-TC14)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-tc14",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2017,
+    "releaseMonth": 11,
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMW-TC14_spec.html",
+    "opticalDesign": "6 elements in 4 groups",
+    "weightGrams": 120,
+    "dimensions": "Ø58 x 22 mm",
+    "compatibleWith": [
+      "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
+      "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
+      "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s"
+    ]
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX G 2x Teleconverter (DMW-TC20)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-tc20",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2017,
+    "releaseMonth": 11,
+    "officialUrl": "https://panasonic.jp/dc/p-db/DMW-TC20_spec.html",
+    "opticalDesign": "8 elements in 5 groups",
+    "weightGrams": 160,
+    "dimensions": "Ø58 x 34 mm",
+    "compatibleWith": [
+      "panasonic-leica-dg-elmarit-200mm-f2-8-power-o-i-s",
+      "panasonic-leica-dg-vario-elmarit-50-200mm-f2-8-4-0-asph-power-o-i-s",
+      "panasonic-leica-dg-vario-elmar-100-400mm-f4-0-6-3-ii-asph-power-o-i-s"
+    ]
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma TELE CONVERTER TC-1411",
+    "gearType": "ACCESSORY",
+    "id": "sigma-tc-1411",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "releaseYear": 2020,
+    "releaseMonth": 6,
+    "officialUrl": "https://www.sigma-global.com/en/accessories/tc-1411-2011/",
+    "opticalDesign": "7 elements in 4 groups",
+    "weightGrams": 175,
+    "dimensions": "Ø65.2 x 33.1 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "105mm-f2-8-dg-dn-macro-art",
+      "500mm-f5-6-dg-dn-os-sport",
+      "60-600mm-f4-5-6-3-dg-dn-os-sport",
+      "70-200mm-f2-8-dg-dn-sport",
+      "100-400mm-f5-6-3-dg-dn-os-c",
+      "150-600mm-f5-6-3-dg-dn-os",
+      "300-600mm-f4-0-dg-dn-os-sport"
+    ],
+    "image_url": "/images/products/sigma/sigma-tc-1411.webp"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma TELE CONVERTER TC-2011",
+    "gearType": "ACCESSORY",
+    "id": "sigma-tc-2011",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "releaseYear": 2020,
+    "releaseMonth": 6,
+    "officialUrl": "https://www.sigma-global.com/en/accessories/tc-1411-2011/",
+    "opticalDesign": "8 elements in 4 groups",
+    "weightGrams": 205,
+    "dimensions": "Ø65.2 x 46.9 mm",
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "105mm-f2-8-dg-dn-macro-art",
+      "500mm-f5-6-dg-dn-os-sport",
+      "60-600mm-f4-5-6-3-dg-dn-os-sport",
+      "70-200mm-f2-8-dg-dn-sport",
+      "100-400mm-f5-6-3-dg-dn-os-c",
+      "150-600mm-f5-6-3-dg-dn-os",
+      "300-600mm-f4-0-dg-dn-os-sport"
+    ]
+  },
+  {
+    "brand": "Leica",
+    "modelName": "Leica Extender L 1.4x",
+    "gearType": "ACCESSORY",
+    "id": "leica-extender-l-1-4x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "1.4x"
+  },
+  {
+    "brand": "Leica",
+    "modelName": "Leica Extender L 2.0x",
+    "gearType": "ACCESSORY",
+    "id": "leica-extender-l-2-0x",
+    "accessoryType": "TELECONVERTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "magnification": "2.0x"
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Mount Adapter FTZ",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mount-adapter-ftz",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/ftz/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Nikon F",
+    "hasElectronicContacts": true,
+    "releaseYear": 2018,
+    "releaseMonth": 8,
+    "weightGrams": 135,
+    "dimensions": "Ø70 x 80 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Mount Adapter FTZ II",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mount-adapter-ftz-ii",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/ftz_2/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Nikon F",
+    "hasElectronicContacts": true,
+    "releaseYear": 2021,
+    "releaseMonth": 10,
+    "weightGrams": 125,
+    "dimensions": "Ø70 x 70 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Mount Adapter EF-EOS R",
+    "gearType": "ACCESSORY",
+    "id": "canon-mount-adapter-ef-eos-r",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://tw.canon/taiwan/zh_TW/consumer/mount-adapter-ef-eos-r/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "weightGrams": 110,
+    "dimensions": "Ø71.2 x 24 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Control Ring Mount Adapter EF-EOS R",
+    "gearType": "ACCESSORY",
+    "id": "canon-control-ring-mount-adapter-ef-eos-r",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://tw.canon/taiwan/zh_TW/consumer/control-ring-mount-adapter-ef-eos-r/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "weightGrams": 130,
+    "dimensions": "Ø74.4 x 24 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Drop-In Filter Mount Adapter EF-EOS R (with Drop-in Circular Polarizing Filter A)",
+    "gearType": "ACCESSORY",
+    "id": "canon-drop-in-filter-mount-adapter-ef-eos-r-cpl",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://asia.canon/en/consumer/drop-in-filter-mount-adapter-ef-eos-r-with-drop-in-circular-polarizing-filter/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "weightGrams": 121,
+    "dimensions": "Ø73.2 x 24 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Drop-In Filter Mount Adapter EF-EOS R (with Drop-in Variable ND Filter A)",
+    "gearType": "ACCESSORY",
+    "id": "canon-drop-in-filter-mount-adapter-ef-eos-r-vnd",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://asia.canon/en/consumer/drop-in-filter-mount-adapter-ef-eos-r-with-drop-in-variable-neutral-density-filter/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "weightGrams": 121,
+    "dimensions": "Ø73.2 x 24 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Mount Adapter EF-EOS M",
+    "gearType": "ACCESSORY",
+    "id": "canon-mount-adapter-ef-eos-m",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://asia.canon/en/consumer/mount-adapter-ef-eos-m/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF-M"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "weightGrams": 110,
+    "dimensions": "Ø66.6 x 26 mm"
+  },
+  {
+    "brand": "Hasselblad",
+    "modelName": "Hasselblad XH Converter 0,8",
+    "gearType": "ACCESSORY",
+    "id": "hasselblad-xh-converter-0-8",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.hasselblad.com/x-system/accessories/xh-converter-0-8",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "lensMount": "Hasselblad H",
+    "hasElectronicContacts": true,
+    "magnification": "0.8x",
+    "opticalDesign": "5 elements in 3 groups",
+    "weightGrams": 430,
+    "dimensions": "Ø84.6 x 51.5 mm",
+    "releaseYear": 2020,
+    "releaseMonth": 11,
+    "compatibleWith": [
+      "hasselblad-x1d-50c",
+      "hasselblad-x1d-ii-50c",
+      "hasselblad-907x-50c"
+    ]
+  },
+  {
+    "brand": "Hasselblad",
+    "modelName": "Hasselblad XV Lens Adapter",
+    "gearType": "ACCESSORY",
+    "id": "hasselblad-xv-lens-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.hasselblad.com/x-system/accessories/xv-lens-adapter/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "lensMount": "Hasselblad V",
+    "releaseYear": 2018
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to Sony E Mount T Smart Adapter G6 (MB_EF-E-BT8)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-e-smart-adapter-g6",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_EF-E-BT8",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "releaseYear": 2026,
+    "releaseMonth": 10,
+    "weightGrams": 144,
+    "dimensions": "72.2 x 76.1 x 32 mm",
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/metabones/metabones-ef-e-smart-adapter-g6.webp"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to Sony E-mount T Speed Booster ULTRA 0.71x G6 (MB_SPEF-E-BT5)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-e-speed-booster-ultra-0-71x-g6",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPEF-E-BT5",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "magnification": "0.71x",
+    "opticalDesign": "5 elements in 4 groups",
+    "releaseYear": 2026,
+    "releaseMonth": 10,
+    "weightGrams": 190,
+    "dimensions": "72.3 x 75.9 x 27.9 mm",
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/metabones/metabones-ef-e-speed-booster-ultra-0-71x-g6.webp"
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Mount Adapter EF-EOS R 0.71x",
+    "gearType": "ACCESSORY",
+    "id": "canon-mount-adapter-ef-eos-r-0-71x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://asia.canon/en/consumer/mount-adapter-ef-eos-r-0-71x/main/product",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "magnification": "0.71x",
+    "releaseYear": 2020,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "canon-eos-c70"
+    ]
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm M Mount Adapter",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-m-mount-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/m-mount-adapter/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "weightGrams": 65,
+    "dimensions": "Ø59 x 14.7 mm",
+    "image_url": "/images/products/fujifilm/fujifilm-m-mount-adapter.webp"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma Mount Converter MC-11 SA-E",
+    "gearType": "ACCESSORY",
+    "id": "sigma-mc-11-sa-e",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sigma-global.com/en/accessories/mc-11/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sigma SA",
+    "hasElectronicContacts": true,
+    "weightGrams": 125,
+    "dimensions": "Ø69.4 x 26 mm"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma Mount Converter MC-11 EF-E",
+    "gearType": "ACCESSORY",
+    "id": "sigma-mc-11-ef-e",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sigma-global.com/en/accessories/mc-11/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma Mount Converter MC-21 SA-L",
+    "gearType": "ACCESSORY",
+    "id": "sigma-mc-21-sa-l",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sigma-global.com/en/accessories/mc-21/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "Sigma SA",
+    "hasElectronicContacts": true,
+    "weightGrams": 145,
+    "dimensions": "Ø69.6 x 24 mm"
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma Mount Converter MC-21 EF-L",
+    "gearType": "ACCESSORY",
+    "id": "sigma-mc-21-ef-l",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sigma-global.com/en/accessories/mc-21/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox EF-L Pro AF Mount Adapter",
+    "gearType": "ACCESSORY",
+    "id": "viltrox-ef-l-pro",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://viltrox.com/products/viltrox-ef-l-mount-adapter-with-positive-lock-for-ef-ef-s-lens-to-l-mount-cameras",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "weightGrams": 138,
+    "dimensions": "72 x 82 x 30 mm",
+    "image_url": "/images/products/viltrox/viltrox-ef-l-pro.webp"
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox NF-E1 AF Lens Mount Adapter",
+    "gearType": "ACCESSORY",
+    "id": "viltrox-nf-e1",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://viltrox.com/products/viltrox-nf-e1-auto-focus-af-electronic-lens-mount-adapter-with-aperture-control-exif-transmitting-vr-for-nikon-f-lens-to-sony-e-mount-camera",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Nikon F",
+    "weightGrams": 92,
+    "dimensions": "Ø61 x 29 mm",
+    "image_url": "/images/products/viltrox/viltrox-nf-e1.webp"
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox EF-Z2 0.71x Speed Booster",
+    "gearType": "ACCESSORY",
+    "id": "viltrox-ef-z2",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://viltrox.com/products/viltrox-ef-z2-speed-booster",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "magnification": "0.71x",
+    "compatibleWith": [
+      "nikon-z50",
+      "nikon-z6",
+      "nikon-z7"
+    ],
+    "image_url": "/images/products/viltrox/viltrox-ef-z2.webp"
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox EF-E II AF 0.71x Booster Lens Adapter",
+    "gearType": "ACCESSORY",
+    "id": "viltrox-ef-e-ii",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://viltrox.com/products/viltrox-ef-e-ii-auto-focus-0-71x-focal-reducer-speed-booster-lens-adapter-with-cdaf-pdaf-switch-for-canon-ef-lens-to-sony-e-mount-camera-a9-a7riii-a7rii-a7iii-a6500-a6300-a6400-a7sii-a7r",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "magnification": "0.71x",
+    "opticalDesign": "4 elements in 4 groups",
+    "image_url": "/images/products/viltrox/viltrox-ef-e-ii.webp"
+  },
+  {
+    "brand": "Viltrox",
+    "modelName": "Viltrox E-Z AF Lens Mount Adapter",
+    "gearType": "ACCESSORY",
+    "id": "viltrox-e-z",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://viltrox.com/products/viltrox-e-z-af-lens-adapter",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Sony E",
+    "hasElectronicContacts": true,
+    "image_url": "/images/products/viltrox/viltrox-e-z.webp"
+  },
+  {
+    "brand": "Megadap",
+    "modelName": "Megadap ETZ21 Pro",
+    "gearType": "ACCESSORY",
+    "id": "megadap-etz21-pro",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.megadap.com/cpbjd/etz21-pro/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Sony E",
+    "material": "Brass, stainless steel",
+    "weightGrams": 44,
+    "compatibleWith": [
+      "nikon-z5",
+      "nikon-z6",
+      "nikon-z7",
+      "nikon-z8",
+      "nikon-z9",
+      "nikon-z50",
+      "nikon-zfc",
+      "nikon-z30",
+      "nikon-zf"
+    ]
+  },
+  {
+    "brand": "Breakthrough Photography",
+    "modelName": "Breakthrough Photography X4 CPL",
+    "gearType": "ACCESSORY",
+    "id": "breakthrough-x4-cpl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://breakthrough.photography/products/x4-cpl",
+    "filterKind": "CPL",
+    "filterSizes": "39-112mm",
+    "material": "Brass frame, SCHOTT B270 glass",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Breakthrough Photography",
+    "modelName": "Breakthrough Photography X4 ND",
+    "gearType": "ACCESSORY",
+    "id": "breakthrough-x4-nd",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://breakthrough.photography/products/x4-neutral-density",
+    "filterKind": "ND (3, 6, 10, 15 stops)",
+    "filterSizes": "39-112mm",
+    "material": "Brass frame",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "PolarPro",
+    "modelName": "PolarPro Peter McKinnon VND Edition II",
+    "gearType": "ACCESSORY",
+    "id": "polarpro-pmvnd-edition-ii",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.polarpro.com/products/pmvnd-edii",
+    "filterKind": "Variable ND (2-5 / 6-9 stops)",
+    "filterSizes": "49-95mm",
+    "image_url": "/images/products/polarpro/polarpro-pmvnd-edition-ii.webp"
+  },
+  {
+    "brand": "Freewell",
+    "modelName": "Freewell V2 Magnetic Hybrid VND/CPL 3-7 Stops",
+    "gearType": "ACCESSORY",
+    "id": "freewell-v2-magnetic-hybrid-vnd-cpl-3-7",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://freewellgear.com/products/v2-magnetic-hybrid-vnd-cpl-3-7-stops-filter",
+    "filterKind": "Variable ND / CPL (3-7 stops, magnetic)",
+    "filterSizes": "55-82mm",
+    "weightGrams": 56,
+    "dimensions": "Ø94.5 x 8.75 mm"
+  },
+  {
+    "brand": "Tiffen",
+    "modelName": "Tiffen Black Pro-Mist",
+    "gearType": "ACCESSORY",
+    "id": "tiffen-black-pro-mist",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://tiffen.com/products/black-pro-mist-filter",
+    "filterKind": "Diffusion (Black Pro-Mist)",
+    "filterSizes": "37-95mm",
+    "image_url": "/images/products/tiffen/tiffen-black-pro-mist.webp"
+  },
+  {
+    "brand": "Kase",
+    "modelName": "Kase Revolution Plus Pro Kit",
+    "gearType": "ACCESSORY",
+    "id": "kase-revolution-plus-pro-kit",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://kasefilters.com/product/kase-revolution-plus-pro-kit",
+    "filterKind": "Magnetic CPL + ND8/ND64/ND1000 kit",
+    "filterSizes": "46-112mm",
+    "material": "KW optical glass",
+    "image_url": "/images/products/kase/kase-revolution-plus-pro-kit.webp"
+  },
+  {
+    "brand": "Kase",
+    "modelName": "Kase Wolverine 150mm ND16 (4 stop)",
+    "gearType": "ACCESSORY",
+    "id": "kase-wolverine-150mm-nd16",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://kasefilters.com/product/wolverine-150mm-nd-filter-nd16-4-stop",
+    "filterKind": "Square ND16 (4 stops)",
+    "filterSizes": "150mm square",
+    "material": "Toughened glass"
+  },
+  {
+    "brand": "Haida",
+    "modelName": "Haida NanoPro U-LR C-POL",
+    "gearType": "ACCESSORY",
+    "id": "haida-nanopro-u-lr-cpl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.haidaphoto.com/en/product-show/NanoPro%20Series",
+    "filterKind": "CPL",
+    "filterSizes": "37-105mm"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi V7 100mm Filter Holder",
+    "gearType": "ACCESSORY",
+    "id": "nisi-v7",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/nisi-v7",
+    "filterKind": "100mm square filter holder (with True Color CPL)",
+    "filterSizes": "100mm square"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi Swift ND-VARIO 1-5 Stops",
+    "gearType": "ACCESSORY",
+    "id": "nisi-swift-nd-vario-1-5",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/nisi-swift",
+    "filterKind": "Variable ND (1-5 stops)",
+    "filterSizes": "67-95mm",
+    "image_url": "/images/products/nisi/nisi-swift-nd-vario-1-5.webp"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi Natural Night",
+    "gearType": "ACCESSORY",
+    "id": "nisi-natural-night",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/nisi-natural-night-filter",
+    "filterKind": "Light pollution",
+    "filterSizes": "40.5-95mm"
+  },
+  {
+    "brand": "Really Right Stuff",
+    "modelName": "Really Right Stuff Ascend-14-BH",
+    "gearType": "ACCESSORY",
+    "id": "rrs-ascend-14-bh",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://reallyrightstuff.com/Ascend-14-BH-Compact-Carbon-Fiber-Travel-Tripod-with-Built-In-Ball-Head/",
+    "maxHeight": "152cm",
+    "minHeight": "13cm",
+    "foldedLength": "47cm",
+    "maxLoad": "14kg",
+    "legSections": 4,
+    "weightGrams": 1450,
+    "headType": "Integrated ball head",
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-bh.webp"
+  },
+  {
+    "brand": "Really Right Stuff",
+    "modelName": "Really Right Stuff Ascend-14L-BH",
+    "gearType": "ACCESSORY",
+    "id": "rrs-ascend-14l-bh",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://reallyrightstuff.com/Ascend-14L-BH-Tall-Carbon-Fiber-Travel-Tripod-Built-In-Ball-Head/",
+    "maxHeight": "175cm",
+    "minHeight": "13cm",
+    "foldedLength": "54cm",
+    "maxLoad": "14kg",
+    "legSections": 4,
+    "weightGrams": 1530,
+    "headType": "Integrated ball head",
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14l-bh.webp"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto AZ-235C+LH-30R",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-az-235c-lh-30r",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-az-235c-azure-series-ultra-compact-tripod/",
+    "maxHeight": "161.2cm",
+    "minHeight": "17.1cm",
+    "foldedLength": "48.6cm",
+    "maxLoad": "10kg",
+    "legSections": 5,
+    "weightGrams": 1500,
+    "headType": "Ball head"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto AZ-204C+LH-25R",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-az-204c-lh-25r",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-az-204c-azure-series-ultra-compact-tripod-2/",
+    "maxHeight": "140.5cm",
+    "minHeight": "16.5cm",
+    "foldedLength": "48cm",
+    "maxLoad": "7kg",
+    "legSections": 4,
+    "weightGrams": 1200,
+    "headType": "Ball head"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro CyanBird CF 2 Series (TCBC25G36PT)",
+    "gearType": "ACCESSORY",
+    "id": "benro-cyanbird-cf-tcbc25g36pt",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-cyanbird-cf-2-series-5-section-tripod-w-g36pt-low-profile-inverted-ball-head/",
+    "maxHeight": "156cm",
+    "minHeight": "17.5cm",
+    "foldedLength": "47.3cm",
+    "maxLoad": "20kg",
+    "legSections": 5,
+    "weightGrams": 1163,
+    "material": "Carbon fiber",
+    "headType": "Ball head (G36PT)"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro CyanBird AL 2 Series (TCBA25G36PT)",
+    "gearType": "ACCESSORY",
+    "id": "benro-cyanbird-al-tcba25g36pt",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-cyanbird-al-2-series-5-section-tripod-w-g36pt-low-profile-inverted-ball-head/",
+    "maxHeight": "159.4cm",
+    "minHeight": "17.5cm",
+    "foldedLength": "47.3cm",
+    "maxLoad": "20kg",
+    "legSections": 5,
+    "weightGrams": 1375,
+    "material": "Aluminium",
+    "headType": "Ball head (G36PT)",
+    "image_url": "/images/products/benro/benro-cyanbird-al-tcba25g36pt.webp"
+  },
+  {
+    "brand": "Ulanzi",
+    "modelName": "Ulanzi TT09 Carbon Fiber Travel Tripod",
+    "gearType": "ACCESSORY",
+    "id": "ulanzi-tt09",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.ulanzi.com/products/ulanzi-tt09-videogo-carbon-fiber-travel-tripod-t033gbb1",
+    "maxHeight": "142cm",
+    "minHeight": "14cm",
+    "foldedLength": "45cm",
+    "legSections": 5,
+    "weightGrams": 1500,
+    "material": "Carbon fiber",
+    "headType": "Ball head (Arca-Swiss/F38)",
+    "image_url": "/images/products/ulanzi/ulanzi-tt09.webp"
+  },
+  {
+    "brand": "Ulanzi",
+    "modelName": "Ulanzi Zero F38 Quick Release Travel Tripod (3131)",
+    "gearType": "ACCESSORY",
+    "id": "ulanzi-zero-f38",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.ulanzi.com/products/ulanzi-f38-quick-release-travel-tripod-3131",
+    "maxHeight": "159cm",
+    "minHeight": "15cm",
+    "foldedLength": "42.3cm",
+    "maxLoad": "18kg",
+    "legSections": 5,
+    "weightGrams": 1100,
+    "material": "Carbon fiber",
+    "headType": "Ball head"
+  },
+  {
+    "brand": "Ulanzi",
+    "modelName": "Ulanzi Zero Y Lightweight Travel Tripod (3028)",
+    "gearType": "ACCESSORY",
+    "id": "ulanzi-zero-y",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.ulanzi.com/products/ulanzi-coman-lightweight-travel-tripod",
+    "maxHeight": "156.7cm",
+    "minHeight": "39.7cm",
+    "maxLoad": "18kg",
+    "material": "Carbon fiber",
+    "headType": "Ball head (Arca-Swiss)",
+    "image_url": "/images/products/ulanzi/ulanzi-zero-y.webp"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-Aircross 4",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-aircross-4",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/x-aircross-4-carbon-fiber-travel-tripod/",
+    "maxHeight": "148cm",
+    "minHeight": "13.5cm",
+    "foldedLength": "49cm",
+    "maxLoad": "4kg",
+    "legSections": 4,
+    "weightGrams": 1230,
+    "material": "Carbon fiber",
+    "headType": "Ball head (32QR)",
+    "image_url": "/images/products/fotopro/fotopro-x-aircross-4.webp"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro T1 Plus",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-t1-plus",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/t1-plus/",
+    "maxHeight": "149.1cm",
+    "minHeight": "19.6cm",
+    "foldedLength": "60.6cm",
+    "maxLoad": "20kg",
+    "legSections": 4,
+    "weightGrams": 1940,
+    "image_url": "/images/products/fotopro/fotopro-t1-plus.webp"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Sony Alpha 7 V / 7R V / 7 IV / 7S III / 1 / 7R IV (3667C)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3667c",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Sony-Alpha-7R-V-7-IV-7S-III-1-7R-IV-3667C.html",
+    "compatibleWith": [
+      "sony-a7-v",
+      "sony-a7r-v",
+      "sony-a7-iv",
+      "sony-a7s-iii",
+      "sony-a1",
+      "sony-a7r-iv"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 188.0,
+    "dimensions": "146.0 x 108.0 x 64.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Sony FX30 / FX3 (4183B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4183",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Sony-FX30-FX3-4183.html",
+    "compatibleWith": [
+      "sony-fx3",
+      "sony-fx30"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Half Cage for Sony FX3 / FX30 (4772)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4772",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/HawkLock-Quick-Release-Half-Cage-for-Sony-FX3-FX30-4772.html",
+    "compatibleWith": [
+      "sony-fx30",
+      "sony-fx3",
+      "sony-fx3a"
+    ],
+    "material": "Aluminum alloy, Stainless steel, Silicone",
+    "weightGrams": 102.0,
+    "dimensions": "102.6 x 75.6 x 44.8 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for Sony Alpha 7C II / Alpha 7CR (4422)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4422",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-Kit-for-Sony-Alpha7C2-Alpha7CR4422.html",
+    "compatibleWith": [
+      "sony-a7c-ii",
+      "sony-a7c-r"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "dimensions": "142 x 93 x 56.4 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for Sony ZV-E10 II (4867)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4867",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-Kit-for-Sony-ZV-E10-II-4867.html",
+    "compatibleWith": [
+      "sony-zv-e10-ii"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "dimensions": "150.0 x 85.7 x 57.3 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for Sony Alpha 6700 (4336)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4336",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-Kit-for-Sony-Alpha-6700-4336.html",
+    "compatibleWith": [
+      "sony-a6700"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "dimensions": "139.5 x 91.0 x 62.2 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Half Cage for Sony Alpha 6700 / 6600 / 6500 / 6400 (4337)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4337",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Half-Cage-for-Sony-Alpha-6700-6600-6500-6400-4337.html",
+    "compatibleWith": [
+      "sony-a6700",
+      "sony-a6600",
+      "sony-a6500",
+      "sony-a6400"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R6 Mark II (4159B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4159",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Canon-EOS-R6-Mark-II-4159.html",
+    "compatibleWith": [
+      "canon-eos-r6-ii"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 172.0,
+    "dimensions": "152.5 x 64.0 x 116.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R8 (4212)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4212",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Canon-EOS-R8-4212.html",
+    "compatibleWith": [
+      "canon-eos-r8"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 140,
+    "dimensions": "148.1 x 60.3 x 103 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage for Canon EOS R7 (4003B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4003b",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Black-Mamba-Cage-for-Canon-EOS-R7-4003B.html",
+    "compatibleWith": [
+      "canon-eos-r7"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 160.0,
+    "dimensions": "154.6 x 107.7 x 78 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for Nikon Z 6III (4519)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4519",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Camera-Cage-for-Nikon-Z6III-4519.html",
+    "compatibleWith": [
+      "nikon-z6-iii"
+    ],
+    "material": "Aluminum alloy, Stainless steel",
+    "weightGrams": 170,
+    "dimensions": "152.2 x 113 x 62.7 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for Nikon Z 9 (3195)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3195",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-nikon-z-9-3195.html",
+    "compatibleWith": [
+      "nikon-z9"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Retro Cage for FUJIFILM X-T5 (3870)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3870",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Retro-Cage-for-FUJIFILM-X-T5-3870.html",
+    "compatibleWith": [
+      "fujifilm-x-t5"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Multifunctional Cage for FUJIFILM X-T5 (4135)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4135",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Multifunctional-Cage-for-FUJIFILM-X-T5-4135.html",
+    "compatibleWith": [
+      "fujifilm-x-t5"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for FUJIFILM X-H2 / X-H2S (3934B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3934",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-FUJIFILM-X-H2S-3934.html",
+    "compatibleWith": [
+      "fujifilm-x-h2s",
+      "fujifilm-x-h2"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for FUJIFILM X-S20 (4230)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4230",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-FUJIFILM-X-S20-4230.html",
+    "compatibleWith": [
+      "fujifilm-x-s20"
+    ],
+    "material": "Aluminum alloy",
+    "weightGrams": 140,
+    "dimensions": "142.3 x 58.3 x 99 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for FUJIFILM GFX100 II (4201)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4201",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-Kit-for-FUJIFILM-GFX100-II-4201.html",
+    "compatibleWith": [
+      "fujifilm-gfx-100-ii"
+    ],
+    "material": "Aluminum alloy",
+    "dimensions": "167.5 x 64.1 x 130.5 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Full Cage for Panasonic LUMIX GH7 / GH6 (3784)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3784",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/full-camera-cage-for-panasonic-lumix-gh6-gh7-3784.html",
+    "compatibleWith": [
+      "panasonic-lumix-gh6",
+      "panasonic-lumix-gh7"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage for Panasonic LUMIX GH7 / GH6 (4824)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4824",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/HawkLock-Quick-Release-Cage-for-Panasonic-LUMIX-GH7-GH6-4824.html",
+    "compatibleWith": [
+      "panasonic-lumix-gh6",
+      "panasonic-lumix-gh7"
+    ],
+    "material": "Aluminum alloy, Stainless steel, Silicone",
+    "weightGrams": 192.5,
+    "dimensions": "160.3 x 114.0 x 62.0 mm"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Camera Cage for Panasonic S1H (CCP2488)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-ccp2488",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-panasonic-s1h-ccp2488.html",
+    "compatibleWith": [
+      "panasonic-lumix-s1h"
+    ]
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Vertical Grip (VG-C1EM)",
+    "gearType": "ACCESSORY",
+    "id": "sony-vg-c1em",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.sony.jp/ichigan/products/VG-C1EM/",
+    "releaseYear": 2013,
+    "releaseMonth": 11,
+    "compatibleWith": [
+      "sony-a7",
+      "sony-a7r"
+    ],
+    "batterySpec": "2x NP-FW50"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Vertical Grip (VG-C2EM)",
+    "gearType": "ACCESSORY",
+    "id": "sony-vg-c2em",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.sony.jp/ichigan/products/VG-C2EM/",
+    "releaseYear": 2014,
+    "releaseMonth": 12,
+    "compatibleWith": [
+      "sony-a7-ii",
+      "sony-a7r-ii",
+      "sony-a7s-ii"
+    ],
+    "batterySpec": "2x NP-FW50"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Vertical Grip (VG-C3EM)",
+    "gearType": "ACCESSORY",
+    "id": "sony-vg-c3em",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.sony.jp/ichigan/products/VG-C3EM/",
+    "releaseYear": 2017,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "sony-a9",
+      "sony-a7r-iii",
+      "sony-a7-iii"
+    ],
+    "batterySpec": "2x NP-FZ100",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Vertical Grip (VG-C4EM)",
+    "gearType": "ACCESSORY",
+    "id": "sony-vg-c4em",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.sony.jp/ichigan/products/VG-C4EM/",
+    "releaseYear": 2019,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "sony-a7r-iv"
+    ],
+    "dimensions": "128.9 x 52.7 x 67 mm",
+    "weightGrams": 290,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Vertical Grip (VG-C5)",
+    "gearType": "ACCESSORY",
+    "id": "sony-vg-c5",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.sony.jp/ichigan/products/VG-C5/",
+    "releaseYear": 2023,
+    "releaseMonth": 11,
+    "compatibleWith": [
+      "sony-a9-iii",
+      "sony-a1-ii"
+    ],
+    "dimensions": "136.1 x 52.7 x 68.3 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon MB-N10 Battery Pack",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mb-n10",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/mb-n10/",
+    "releaseYear": 2019,
+    "releaseMonth": 10,
+    "compatibleWith": [
+      "nikon-z7",
+      "nikon-z6"
+    ],
+    "batterySpec": "2x EN-EL15b",
+    "dimensions": "135.5 x 106.5 x 68 mm",
+    "hasWeatherSeal": true,
+    "weightGrams": 460
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon MB-N11 Power Battery Pack",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mb-n11",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/mb-n11/",
+    "releaseYear": 2020,
+    "releaseMonth": 10,
+    "compatibleWith": [
+      "nikon-z7-ii",
+      "nikon-z6-ii"
+    ],
+    "batterySpec": "2x EN-EL15c",
+    "dimensions": "138.5 x 113.5 x 76 mm",
+    "hasWeatherSeal": true,
+    "weightGrams": 450
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon MB-N12 Power Battery Pack",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mb-n12",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/mb-n12/",
+    "releaseYear": 2023,
+    "releaseMonth": 5,
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "batterySpec": "2x EN-EL15c",
+    "dimensions": "138.5 x 113.5 x 76 mm",
+    "hasWeatherSeal": true,
+    "weightGrams": 455
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon MB-N14 Power Battery Pack",
+    "gearType": "ACCESSORY",
+    "id": "nikon-mb-n14",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/accessory/camera/mb-n14/",
+    "releaseYear": 2024,
+    "releaseMonth": 6,
+    "compatibleWith": [
+      "nikon-z6-iii",
+      "nikon-z7-ii",
+      "nikon-z6-ii"
+    ],
+    "batterySpec": "2x EN-EL15c",
+    "dimensions": "138.5 x 113.5 x 76 mm",
+    "hasWeatherSeal": true,
+    "weightGrams": 455
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Battery Grip (VG-XH)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vg-xh",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vg-xh/",
+    "releaseYear": 2022,
+    "releaseMonth": 7,
+    "compatibleWith": [
+      "fujifilm-x-h2s",
+      "fujifilm-x-h2"
+    ],
+    "batterySpec": "2x NP-W235",
+    "dimensions": "136.3 x 51.0 x 69.3 mm",
+    "weightGrams": 314,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Battery Grip (VG-GFX100 II)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vg-gfx100-ii",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vg-gfx100ii/",
+    "releaseYear": 2023,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "fujifilm-gfx-100-ii"
+    ],
+    "batterySpec": "2x NP-W235",
+    "dimensions": "152.5 x 52.8 x 71.0 mm",
+    "weightGrams": 358,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Battery Grip (VG-XT4)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vg-xt4",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vg-xt4/",
+    "compatibleWith": [
+      "fujifilm-x-t4"
+    ],
+    "dimensions": "138.5 x 105.7 x 60.9 mm",
+    "weightGrams": 306,
+    "batterySpec": "2x NP-W235",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Battery Grip (VG-XT3)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vg-xt3",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vg-xt3/",
+    "dimensions": "140.9 x 96.0 x 57.4 mm",
+    "weightGrams": 282,
+    "batterySpec": "2x NP-W126S",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Power Booster Grip (VPB-XT2)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vpb-xt2",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vpb-xt2/",
+    "compatibleWith": [
+      "fujifilm-x-t2"
+    ],
+    "dimensions": "140.9 x 94.0 x 53.0 mm",
+    "weightGrams": 275,
+    "batterySpec": "2x NP-W126S",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Power Booster Grip (VPB-XH1)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vpb-xh1",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vpb-xh1/",
+    "compatibleWith": [
+      "fujifilm-x-h1"
+    ],
+    "dimensions": "141.2 x 56.6 x 65.8 mm",
+    "weightGrams": 300,
+    "batterySpec": "2x NP-W126S",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Vertical Battery Grip (VG-GFX1)",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-vg-gfx1",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/vg-gfx1/",
+    "compatibleWith": [
+      "fujifilm-gfx-50s"
+    ],
+    "dimensions": "147.5 x 52.1 x 67.9 mm",
+    "weightGrams": 310,
+    "batterySpec": "1x NP-T125"
+  },
+  {
+    "brand": "OM System",
+    "modelName": "OM System Power Battery Holder (HLD-10)",
+    "gearType": "ACCESSORY",
+    "id": "om-system-hld-10",
+    "accessoryType": "BATTERY_GRIP",
+    "batterySpec": "1x BLX-1",
+    "dimensions": "132.6 x 57.9 x 69.9 mm",
+    "weightGrams": 242,
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "om-system-om-1",
+      "om-system-om-1-mark-ii"
+    ]
+  },
+  {
+    "brand": "Olympus",
+    "modelName": "Olympus Power Battery Holder (HLD-9)",
+    "gearType": "ACCESSORY",
+    "id": "olympus-hld-9",
+    "accessoryType": "BATTERY_GRIP",
+    "batterySpec": "1x BLH-1",
+    "dimensions": "132.7 x 55.8 x 66.0 mm",
+    "weightGrams": 255,
+    "hasWeatherSeal": true,
+    "compatibleWith": [
+      "olympus-om-d-e-m1-mark-ii",
+      "olympus-om-d-e-m1-mark-iii"
+    ]
+  },
+  {
+    "brand": "Olympus",
+    "modelName": "Olympus Power Battery Holder (HLD-7)",
+    "gearType": "ACCESSORY",
+    "id": "olympus-hld-7",
+    "accessoryType": "BATTERY_GRIP",
+    "batterySpec": "1x BLN-1",
+    "dimensions": "128.5 x 48.2 x 57.3 mm",
+    "weightGrams": 235,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Olympus",
+    "modelName": "Olympus Power Battery Holder (HLD-8: HLD-8G + HLD-6P)",
+    "gearType": "ACCESSORY",
+    "id": "olympus-hld-8",
+    "accessoryType": "BATTERY_GRIP",
+    "batterySpec": "1x BLN-1",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Olympus",
+    "modelName": "Olympus Power Battery Holder (HLD-6: HLD-6G + HLD-6P)",
+    "gearType": "ACCESSORY",
+    "id": "olympus-hld-6",
+    "accessoryType": "BATTERY_GRIP",
+    "batterySpec": "1x BLN-1"
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BG1)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bg1",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-g9ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5"
+    ],
+    "batterySpec": "1x DMW-BLK22",
+    "hasWeatherSeal": true,
+    "dimensions": "132.4 x 45.2 x 67.6 mm",
+    "weightGrams": 322
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BG2)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bg2",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-s1rii"
+    ],
+    "batterySpec": "1x DMW-BLK22",
+    "hasWeatherSeal": true,
+    "dimensions": "134.2 x 44.7 x 70.9 mm",
+    "weightGrams": 316
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGG1)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bgg1",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-g85"
+    ],
+    "batterySpec": "1x DMW-BLC12",
+    "hasWeatherSeal": true,
+    "dimensions": "127.4 x 40.4 x 65.1 mm",
+    "weightGrams": 291
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGG9)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bgg9",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-g9"
+    ],
+    "batterySpec": "1x DMW-BLF19",
+    "hasWeatherSeal": true,
+    "dimensions": "136.1 x 46.3 x 75.5 mm",
+    "weightGrams": 332
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGGH3)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bggh3",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-gh3"
+    ],
+    "batterySpec": "1x DMW-BLF19",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGGH5)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bggh5",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-gh5"
+    ],
+    "batterySpec": "1x DMW-BLF19",
+    "hasWeatherSeal": true,
+    "dimensions": "135.5 x 41.0 x 70.7 mm",
+    "weightGrams": 319
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGS1)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bgs1",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-s1r",
+      "panasonic-lumix-s1"
+    ],
+    "batterySpec": "1x DMW-BLJ31",
+    "hasWeatherSeal": true,
+    "dimensions": "148.7 x 49.5 x 80.3 mm",
+    "weightGrams": 406
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX Battery Grip (DMW-BGS5)",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-bgs5",
+    "accessoryType": "BATTERY_GRIP",
+    "compatibleWith": [
+      "panasonic-lumix-s5"
+    ],
+    "batterySpec": "1x DMW-BLK22",
+    "hasWeatherSeal": true,
+    "dimensions": "132.4 x 45.2 x 67.6 mm",
+    "weightGrams": 321
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Battery Grip BG-R20",
+    "gearType": "ACCESSORY",
+    "id": "canon-bg-r20",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://personal.canon.jp/product/camera/accessory/6762c001",
+    "compatibleWith": [
+      "canon-eos-r5-ii",
+      "canon-eos-r5",
+      "canon-eos-r6-mark-iii",
+      "canon-eos-r6-ii",
+      "canon-eos-r6"
+    ],
+    "batterySpec": "2x LP-E6P",
+    "dimensions": "143.2 x 109.4 x 80.3 mm",
+    "weightGrams": 354,
+    "hasWeatherSeal": true
   }
 ]
