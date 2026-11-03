@@ -45,7 +45,7 @@ editorial — 器材型錄 / 檔案館。
 - 沒有 `mounts` 的機身就是「固定鏡頭相機」，所以可換鏡頭機身一定要填卡口。`fixedLens` 是它的內建鏡頭，例如 "23mm F2 (35mm equiv.)"；運動相機官方常不公布，可以留空。收錄範圍含 1 吋以上的高階隨身機、小感光元件卡片機與運動相機（2012 年以後）。
 - 「無」：官方規格（或 DPReview 規格頁）明確寫出沒有這項功能時，是非欄位填 `false`，文字欄位填 `"None"`（頁面顯示「無」，可用欄位見 validate 的 NONE_OK）。手動對焦鏡頭的 motorType 用 `"Manual focus"`。沒寫就留空，不推論。
 - `weightGrams`：機身含電池與記憶卡，鏡頭用官方值。外接電池的電影機（RED、Blackmagic 盒式機、Z CAM）用官方公布的機身淨重（body only）。
-- `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
+- `sensorFormat` 只能用 Full Frame、APS-H（Sigma sd Quattro H）、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
 
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。

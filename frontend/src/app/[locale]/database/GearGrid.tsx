@@ -27,7 +27,7 @@ function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
 }
 
 // Sensor size for ordering the format chips, largest first: named formats, then type sizes ("1-inch" > "2/3-inch" > "1/2.3-inch")
-const NAMED_FORMATS: Record<string, number> = { 'Medium Format': 100, 'Full Frame': 50, 'APS-C': 20, 'Four Thirds': 10 };
+const NAMED_FORMATS: Record<string, number> = { 'Medium Format': 100, 'Full Frame': 50, 'APS-H': 30, 'APS-C': 20, 'Four Thirds': 10 };
 function formatSize(f: string) {
   if (f in NAMED_FORMATS) return NAMED_FORMATS[f];
   const m = f.match(/^(?:(\d)\/)?(\d+(?:\.\d+)?)-inch$/);
