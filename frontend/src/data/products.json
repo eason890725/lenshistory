@@ -77635,7 +77635,8 @@
     "officialUrl": "https://www.peakdesign.com/products/travel-tripod",
     "maxHeight": "152.4cm",
     "maxLoad": "9.1kg",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/peak-design/peak-design-travel-tripod-carbon.webp"
   },
   {
     "brand": "Peak Design",
@@ -77983,7 +77984,8 @@
       "panasonic-lumix-s5ii",
       "panasonic-lumix-s5iix"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t50-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -77998,7 +78000,8 @@
       "panasonic-lumix-s5ii",
       "panasonic-lumix-s5iix"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t50-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -78012,7 +78015,8 @@
     "compatibleWith": [
       "canon-eos-r6-v"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t102-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -78026,7 +78030,8 @@
     "compatibleWith": [
       "canon-eos-r6-v"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t102-hcc.webp"
   },
   {
     "brand": "Kondor Blue",
@@ -78039,7 +78044,8 @@
     "releaseMonth": 2,
     "compatibleWith": [
       "canon-eos-c70"
-    ]
+    ],
+    "image_url": "/images/products/kondor-blue/kondor-blue-cage-canon-c70.webp"
   },
   {
     "brand": "Sony",
@@ -79296,7 +79302,8 @@
     "maxLoad": "10kg",
     "legSections": 5,
     "weightGrams": 1500,
-    "headType": "Ball head"
+    "headType": "Ball head",
+    "image_url": "/images/products/leofoto/leofoto-az-235c-lh-30r.webp"
   },
   {
     "brand": "Leofoto",
@@ -79311,7 +79318,8 @@
     "maxLoad": "7kg",
     "legSections": 4,
     "weightGrams": 1200,
-    "headType": "Ball head"
+    "headType": "Ball head",
+    "image_url": "/images/products/leofoto/leofoto-az-204c-lh-25r.webp"
   },
   {
     "brand": "Benro",
@@ -81499,7 +81507,8 @@
       "sony-a7c",
       "sony-a6600",
       "sony-zv-e10"
-    ]
+    ],
+    "image_url": "/images/products/techart/techart-lm-ea9.webp"
   },
   {
     "brand": "Techart",
@@ -81528,7 +81537,8 @@
       "nikon-z50",
       "nikon-zfc",
       "nikon-z30"
-    ]
+    ],
+    "image_url": "/images/products/techart/techart-tzm-02.webp"
   },
   {
     "brand": "Techart",
@@ -81549,7 +81559,8 @@
     "compatibleWith": [
       "nikon-z6",
       "nikon-z7"
-    ]
+    ],
+    "image_url": "/images/products/techart/techart-tzc-01.webp"
   },
   {
     "brand": "Techart",
@@ -81569,7 +81580,8 @@
     "hasElectronicContacts": true,
     "compatibleWith": [
       "hasselblad-x1d-50c"
-    ]
+    ],
+    "image_url": "/images/products/techart/techart-tcx-01.webp"
   },
   {
     "brand": "Fringer",
@@ -81635,7 +81647,8 @@
     "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Sony-ZV-E1-4256.html",
     "compatibleWith": [
       "sony-zv-e1"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4256.webp"
   },
   {
     "brand": "SmallRig",
@@ -81646,7 +81659,8 @@
     "officialUrl": "https://www.smallrig.com/de/smallrig-camera-accessories-for-nikon-zf.html",
     "compatibleWith": [
       "nikon-zf"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4261.webp"
   },
   {
     "brand": "SmallRig",
@@ -81657,7 +81671,8 @@
     "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Canon-EOS-R50-4214.html",
     "compatibleWith": [
       "canon-eos-r50"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4214.webp"
   },
   {
     "brand": "SmallRig",
@@ -81670,7 +81685,8 @@
       "canon-eos-r5",
       "canon-eos-r6",
       "canon-eos-r5-c"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2982b.webp"
   },
   {
     "brand": "SmallRig",
@@ -81683,7 +81699,8 @@
       "canon-eos-r5",
       "canon-eos-r6",
       "canon-eos-r5-c"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3233b.webp"
   },
   {
     "brand": "SmallRig",
@@ -81698,7 +81715,8 @@
       "canon-eos-r5-c",
       "canon-eos-r6-ii",
       "canon-eos-r6-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3464b.webp"
   },
   {
     "brand": "SmallRig",
@@ -81714,7 +81732,8 @@
       "nikon-z6-ii",
       "nikon-z7",
       "nikon-z7-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5257.webp"
   },
   {
     "brand": "SmallRig",
@@ -81725,7 +81744,8 @@
     "officialUrl": "https://www.smallrig.com/Cage-for-Nikon-Z50-II-4980.html",
     "compatibleWith": [
       "nikon-z50-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4980.webp"
   },
   {
     "brand": "SmallRig",
@@ -81737,7 +81757,8 @@
     "compatibleWith": [
       "fujifilm-x-t50"
     ],
-    "material": "Aluminum alloy, Wood"
+    "material": "Aluminum alloy, Wood",
+    "image_url": "/images/products/smallrig/smallrig-cage-4714.webp"
   },
   {
     "brand": "SmallRig",
@@ -81749,7 +81770,8 @@
     "compatibleWith": [
       "fujifilm-x-m5"
     ],
-    "material": "Aluminum alloy, Wood"
+    "material": "Aluminum alloy, Wood",
+    "image_url": "/images/products/smallrig/smallrig-cage-4892.webp"
   },
   {
     "brand": "Tilta",
@@ -81761,7 +81783,8 @@
     "compatibleWith": [
       "nikon-z8"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-nikon-z8-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81774,7 +81797,8 @@
       "sony-fx3",
       "sony-fx30"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t16-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81788,7 +81812,8 @@
       "sony-a7-iv",
       "sony-a7r-v"
     ],
-    "material": "Aluminum alloy, SUS304, Silicone"
+    "material": "Aluminum alloy, SUS304, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t100-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81807,7 +81832,8 @@
       "sony-a7r-iii",
       "sony-a9"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t30-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81819,7 +81845,8 @@
     "compatibleWith": [
       "canon-eos-r5-ii"
     ],
-    "material": "Aluminum alloy, SUS304, Silicone"
+    "material": "Aluminum alloy, SUS304, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t68-fcc2.webp"
   },
   {
     "brand": "Tilta",
@@ -81831,7 +81858,8 @@
     "compatibleWith": [
       "canon-eos-r5-ii"
     ],
-    "material": "Aluminum alloy, SUS304, Silicone"
+    "material": "Aluminum alloy, SUS304, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t68-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81844,7 +81872,8 @@
       "canon-eos-r6-mark-iii",
       "canon-eos-r5-ii"
     ],
-    "material": "Aluminum alloy, SUS304, Silicone"
+    "material": "Aluminum alloy, SUS304, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t99-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81856,7 +81885,8 @@
     "compatibleWith": [
       "sony-fx2"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t88-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -81869,7 +81899,8 @@
       "panasonic-lumix-gh7",
       "panasonic-lumix-gh6"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t15-fcc.webp"
   },
   {
     "brand": "8Sinn",
@@ -82785,7 +82816,8 @@
     "recycleTime": "3s",
     "batterySpec": "4x AA",
     "weightGrams": 426,
-    "dimensions": "67 x 77 x 210 mm"
+    "dimensions": "67 x 77 x 210 mm",
+    "image_url": "/images/products/yongnuo/yongnuo-yn685ii-c.webp"
   },
   {
     "brand": "Nissin",
@@ -82936,7 +82968,8 @@
     "accessoryType": "FLASH",
     "officialUrl": "https://explore.omsystem.com/us/en/fl-900r-electronic-flash",
     "guideNumber": "58",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/olympus/olympus-fl-900r.webp"
   },
   {
     "brand": "SmallRig",
@@ -82993,7 +83026,8 @@
     "officialUrl": "https://www.smallrig.com/Cage-for-Canon-EOS-R5-Mark-II-4978.html",
     "compatibleWith": [
       "canon-eos-r5-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4978.webp"
   },
   {
     "brand": "SmallRig",
@@ -83004,7 +83038,8 @@
     "officialUrl": "https://www.smallrig.com/SmallRig-Black-Mamba-Cage-for-Canon-EOS-R10-4004.html",
     "compatibleWith": [
       "canon-eos-r10"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4004.webp"
   },
   {
     "brand": "SmallRig",
@@ -83015,7 +83050,8 @@
     "officialUrl": "https://smallrig.com/SmallRig-Cage-for-Nikon-Z-30-3858.html",
     "compatibleWith": [
       "nikon-z30"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3858.webp"
   },
   {
     "brand": "SmallRig",
@@ -83027,7 +83063,8 @@
     "compatibleWith": [
       "fujifilm-x-h2s",
       "fujifilm-x-h2"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3933.webp"
   },
   {
     "brand": "SmallRig",
@@ -83074,7 +83111,8 @@
     "officialUrl": "https://www.smallrig.com/au/SmallRig-Cage-Kit-for-Sony-ZV-E1-Limited-Edition-4320.html",
     "compatibleWith": [
       "sony-zv-e1"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4320.webp"
   },
   {
     "brand": "SmallRig",
@@ -83097,7 +83135,8 @@
     "compatibleWith": [
       "nikon-z8"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-z8.webp"
   },
   {
     "brand": "Leofoto",
@@ -83109,7 +83148,8 @@
     "compatibleWith": [
       "nikon-z8"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-z8b.webp"
   },
   {
     "brand": "Leofoto",
@@ -83121,7 +83161,8 @@
     "compatibleWith": [
       "nikon-z9"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-z9.webp"
   },
   {
     "brand": "Leofoto",
@@ -83134,7 +83175,8 @@
       "sony-fx3",
       "sony-fx30"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-fx3.webp"
   },
   {
     "brand": "Leofoto",
@@ -83146,7 +83188,8 @@
     "compatibleWith": [
       "nikon-zf"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-zf.webp"
   },
   {
     "brand": "Leofoto",
@@ -83160,7 +83203,8 @@
     ],
     "material": "6061-T6 aluminum alloy",
     "weightGrams": 190,
-    "dimensions": "155 x 63 x 110 mm"
+    "dimensions": "155 x 63 x 110 mm",
+    "image_url": "/images/products/leofoto/leofoto-cage-z6iii.webp"
   },
   {
     "brand": "Leofoto",
@@ -83174,7 +83218,8 @@
     ],
     "material": "6061-T6 aluminum alloy",
     "weightGrams": 185,
-    "dimensions": "154 x 50 x 117 mm"
+    "dimensions": "154 x 50 x 117 mm",
+    "image_url": "/images/products/leofoto/leofoto-cage-a1ii.webp"
   },
   {
     "brand": "Leofoto",
@@ -83188,7 +83233,8 @@
     ],
     "material": "6061-T6 aluminum alloy",
     "weightGrams": 165,
-    "dimensions": "139 x 44 x 90 mm"
+    "dimensions": "139 x 44 x 90 mm",
+    "image_url": "/images/products/leofoto/leofoto-cage-a7c.webp"
   },
   {
     "brand": "Leofoto",
@@ -83199,7 +83245,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-zv-e1-custom-cage-for-sony-zv-e1-camera/",
     "compatibleWith": [
       "sony-zv-e1"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-zv-e1.webp"
   },
   {
     "brand": "Leofoto",
@@ -83211,7 +83258,8 @@
     "compatibleWith": [
       "canon-eos-r5",
       "canon-eos-r5-ii"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r5.webp"
   },
   {
     "brand": "Leofoto",
@@ -83223,7 +83271,8 @@
     "compatibleWith": [
       "canon-eos-r6-ii",
       "canon-eos-r6-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r6ii.webp"
   },
   {
     "brand": "Leofoto",
@@ -83235,7 +83284,8 @@
     "compatibleWith": [
       "panasonic-lumix-s5ii",
       "panasonic-lumix-s5iix"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-s5ii.webp"
   },
   {
     "brand": "Leofoto",
@@ -83247,7 +83297,8 @@
     "compatibleWith": [
       "sony-a7-iv"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-a7iv.webp"
   },
   {
     "brand": "Leofoto",
@@ -83264,7 +83315,8 @@
       "sony-a7r-v",
       "sony-a7-v"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-a7r5.webp"
   },
   {
     "brand": "Leofoto",
@@ -83275,7 +83327,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r10-custom-cage-for-canon-eos-r10-camera/",
     "compatibleWith": [
       "canon-eos-r10"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r10.webp"
   },
   {
     "brand": "Leofoto",
@@ -83289,7 +83342,8 @@
       "panasonic-lumix-s1h",
       "panasonic-lumix-s1r"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-s1-s1h-s1r.webp"
   },
   {
     "brand": "Leofoto",
@@ -83300,7 +83354,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-zv-e10-custom-cage-for-sony-zv-e10-camera/",
     "compatibleWith": [
       "sony-zv-e10"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-zv-e10.webp"
   },
   {
     "brand": "Leofoto",
@@ -83314,7 +83369,8 @@
       "sony-a7-iii",
       "sony-a9"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-a7r3.webp"
   },
   {
     "brand": "Leofoto",
@@ -83326,7 +83382,8 @@
     "compatibleWith": [
       "fujifilm-gfx-100-ii"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-gfx100-ii.webp"
   },
   {
     "brand": "Leofoto",
@@ -83338,7 +83395,8 @@
     "compatibleWith": [
       "fujifilm-x-t5"
     ],
-    "material": "Anodized aircraft-grade aluminum"
+    "material": "Anodized aircraft-grade aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-x-t5.webp"
   },
   {
     "brand": "Leofoto",
@@ -83349,7 +83407,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r8-custom-cage-for-canon-eos-r8-camera/",
     "compatibleWith": [
       "canon-eos-r8"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r8.webp"
   },
   {
     "brand": "Leofoto",
@@ -83391,7 +83450,8 @@
     "accessoryType": "TRIPOD",
     "officialUrl": "https://www.leofoto.com/product/leofoto-lm-404c-professional-carbon-fiber-tripod/",
     "legSections": 4,
-    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts"
+    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts",
+    "image_url": "/images/products/leofoto/leofoto-lm-404c.webp"
   },
   {
     "brand": "Leofoto",
@@ -83401,7 +83461,8 @@
     "accessoryType": "TRIPOD",
     "officialUrl": "https://www.leofoto.com/product/leofoto-lm-364c-professional-carbon-fiber-tripod/",
     "legSections": 4,
-    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts"
+    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts",
+    "image_url": "/images/products/leofoto/leofoto-lm-364c.webp"
   },
   {
     "brand": "Leofoto",
@@ -83410,7 +83471,8 @@
     "id": "leofoto-ls-284c-lh-30",
     "accessoryType": "TRIPOD",
     "officialUrl": "https://www.leofoto.com/product/leofoto-ls-284clh-30-professional-carbon-fiber-tripod/",
-    "material": "Toray 10-layer carbon fiber"
+    "material": "Toray 10-layer carbon fiber",
+    "image_url": "/images/products/leofoto/leofoto-ls-284c-lh-30.webp"
   },
   {
     "brand": "Leofoto",
@@ -83574,7 +83636,8 @@
     "legSections": 4,
     "weightGrams": 1610,
     "headType": "Dual action ball head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/fotopro/fotopro-x-go-max.webp"
   },
   {
     "brand": "Fotopro",
@@ -83590,7 +83653,8 @@
     "legSections": 4,
     "weightGrams": 1350,
     "headType": "Dual action ball head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/fotopro/fotopro-x-go-plus.webp"
   },
   {
     "brand": "Fotopro",
@@ -83621,7 +83685,8 @@
     "maxLoad": "10kg",
     "weightGrams": 1300,
     "headType": "Dual 360° panorama ball head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/fotopro/fotopro-x-go-plus-e-2.webp"
   },
   {
     "brand": "Fotopro",
@@ -83636,7 +83701,8 @@
     "maxLoad": "12kg",
     "weightGrams": 1500,
     "headType": "Dual 360° panorama ball head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/fotopro/fotopro-x-go-max-e-2.webp"
   },
   {
     "brand": "B+W",
@@ -84330,7 +84396,8 @@
       "leica-q-typ-116",
       "leica-cl",
       "leica-m-typ-240"
-    ]
+    ],
+    "image_url": "/images/products/leica/leica-sf-60.webp"
   },
   {
     "brand": "Leica",
@@ -84350,7 +84417,8 @@
     "recycleTime": "0.1-4s",
     "batterySpec": "4x AA",
     "weightGrams": 203,
-    "dimensions": "85 x 61 x 85 mm"
+    "dimensions": "85 x 61 x 85 mm",
+    "image_url": "/images/products/leica/leica-sf-40.webp"
   },
   {
     "brand": "Nissin",
@@ -84441,7 +84509,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t4-camera-ccf2761.html",
     "compatibleWith": [
       "fujifilm-x-t4"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2761.webp"
   },
   {
     "brand": "SmallRig",
@@ -84452,7 +84521,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t4-camera-ccf2808.html",
     "compatibleWith": [
       "fujifilm-x-t4"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2808.webp"
   },
   {
     "brand": "SmallRig",
@@ -84463,7 +84533,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-t4-with-vg-xt4-vertical-battery-grip-ccf2810.html",
     "compatibleWith": [
       "fujifilm-x-t4"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2810.webp"
   },
   {
     "brand": "SmallRig",
@@ -84474,7 +84545,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-fujifilm-x-s10-3087.html",
     "compatibleWith": [
       "fujifilm-x-s10"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3087.webp"
   },
   {
     "brand": "SmallRig",
@@ -84485,7 +84557,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-canon-eos-rp-ccc2332.html",
     "compatibleWith": [
       "canon-eos-rp"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccc2332.webp"
   },
   {
     "brand": "SmallRig",
@@ -84496,7 +84569,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-canon-eos-r-ccc2803.html",
     "compatibleWith": [
       "canon-eos-r"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccc2803.webp"
   },
   {
     "brand": "SmallRig",
@@ -84507,7 +84581,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-sony-a6600-ccs2493.html",
     "compatibleWith": [
       "sony-a6600"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2493.webp"
   },
   {
     "brand": "SmallRig",
@@ -84521,7 +84596,8 @@
       "sony-a6300",
       "sony-a6400",
       "sony-a6500"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2310c.webp"
   },
   {
     "brand": "SmallRig",
@@ -84534,7 +84610,8 @@
       "sony-a6100",
       "sony-a6300",
       "sony-a6400"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3164b.webp"
   },
   {
     "brand": "SmallRig",
@@ -84546,7 +84623,8 @@
     "compatibleWith": [
       "sony-a7-iii",
       "sony-a7r-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2087d.webp"
   },
   {
     "brand": "SmallRig",
@@ -84559,7 +84637,8 @@
       "sony-a7-iii",
       "sony-a7r-iii",
       "sony-a9"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2918.webp"
   },
   {
     "brand": "SmallRig",
@@ -84570,7 +84649,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-camera-cage-for-sony-a7r-iv-ccs2416.html",
     "compatibleWith": [
       "sony-a7r-iv"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2416.webp"
   },
   {
     "brand": "SmallRig",
@@ -84583,7 +84663,8 @@
       "sony-zv-1",
       "sony-zv-1f",
       "sony-zv-1-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2938.webp"
   },
   {
     "brand": "SmallRig",
@@ -84595,7 +84676,8 @@
     "compatibleWith": [
       "sony-zv-1",
       "sony-zv-1f"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2937.webp"
   },
   {
     "brand": "SmallRig",
@@ -84610,7 +84692,8 @@
       "nikon-z7",
       "nikon-z6-ii",
       "nikon-z7-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2926b.webp"
   },
   {
     "brand": "SmallRig",
@@ -84625,7 +84708,8 @@
       "nikon-z7",
       "nikon-z6-ii",
       "nikon-z7-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccn2262.webp"
   },
   {
     "brand": "SmallRig",
@@ -84642,7 +84726,8 @@
       "sony-a7r-v",
       "sony-a7-v",
       "sony-a7r-vi"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3639.webp"
   },
   {
     "brand": "SmallRig",
@@ -84654,7 +84739,8 @@
     "compatibleWith": [
       "sony-a7-iii",
       "sony-a7r-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2236.webp"
   },
   {
     "brand": "Tilta",
@@ -84667,7 +84753,8 @@
       "sony-a1-ii",
       "sony-a9-iii"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t66-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84679,7 +84766,8 @@
     "compatibleWith": [
       "nikon-zr"
     ],
-    "material": "Aluminum alloy, Stainless steel, Wood"
+    "material": "Aluminum alloy, Stainless steel, Wood",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t98-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84691,7 +84779,8 @@
     "compatibleWith": [
       "sony-a6700"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-a6700-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84703,7 +84792,8 @@
     "compatibleWith": [
       "sony-zv-e1"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-zv-e1-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84715,7 +84805,8 @@
     "compatibleWith": [
       "sony-zv-e1"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-zv-e1-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84728,7 +84819,8 @@
       "sony-a7c-ii",
       "sony-a7c-r"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-a7c-ii-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84741,7 +84833,8 @@
       "sony-a7c-ii",
       "sony-a7c-r"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-a7c-ii-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84753,7 +84846,8 @@
     "compatibleWith": [
       "sony-zv-e10-ii"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t69-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84765,7 +84859,8 @@
     "compatibleWith": [
       "canon-eos-r1"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t78-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84777,7 +84872,8 @@
     "compatibleWith": [
       "canon-eos-r6-ii"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-r6-mark-ii-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84789,7 +84885,8 @@
     "compatibleWith": [
       "canon-eos-r6-ii"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-r6-mark-ii-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84802,7 +84899,8 @@
       "fujifilm-x-h2",
       "fujifilm-x-h2s"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t36-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84819,7 +84917,8 @@
       "panasonic-lumix-s5iix",
       "panasonic-lumix-g9ii"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t80-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84831,7 +84930,8 @@
     "compatibleWith": [
       "canon-eos-r5-c"
     ],
-    "material": "Aluminum alloy, Stainless steel"
+    "material": "Aluminum alloy, Stainless steel",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t32-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84844,7 +84944,8 @@
       "canon-eos-r6-mark-iii",
       "canon-eos-r5-ii"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t99-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84858,7 +84959,8 @@
       "sony-a7-iv",
       "sony-a7r-v"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t100-hcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84870,7 +84972,8 @@
     "compatibleWith": [
       "canon-eos-c50"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t93-fcc.webp"
   },
   {
     "brand": "Tilta",
@@ -84882,7 +84985,8 @@
     "compatibleWith": [
       "canon-eos-c80"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "image_url": "/images/products/tilta/tilta-cage-es-t25-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84894,7 +84998,8 @@
     "compatibleWith": [
       "fujifilm-x-t50"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t71-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84906,7 +85011,8 @@
     "compatibleWith": [
       "sigma-bf"
     ],
-    "material": "Aluminum alloy, Walnut wood"
+    "material": "Aluminum alloy, Walnut wood",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t85-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84930,7 +85036,8 @@
     "compatibleWith": [
       "fujifilm-x100vi"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t70-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84942,7 +85049,8 @@
     "compatibleWith": [
       "fujifilm-x-e5"
     ],
-    "material": "Aluminum alloy, Walnut wood"
+    "material": "Aluminum alloy, Walnut wood",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t91-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84954,7 +85062,8 @@
     "compatibleWith": [
       "leica-q3"
     ],
-    "material": "Aluminum alloy, Leather"
+    "material": "Aluminum alloy, Leather",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t76-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84966,7 +85075,8 @@
     "compatibleWith": [
       "panasonic-lumix-l10"
     ],
-    "material": "Aluminum alloy, Dark walnut wood"
+    "material": "Aluminum alloy, Dark walnut wood",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t107-a.webp"
   },
   {
     "brand": "Tilta",
@@ -84978,7 +85088,8 @@
     "compatibleWith": [
       "fujifilm-gfx-100rf"
     ],
-    "material": "Leather, Aluminum alloy"
+    "material": "Leather, Aluminum alloy",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t81-a.webp"
   },
   {
     "brand": "Sirui",
@@ -85563,7 +85674,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://kasefilters.eu/kw-revolution-magnetic-cpl-polarising-filter",
     "filterKind": "Magnetic circular polarizer",
-    "filterSizes": "40.5-112mm"
+    "filterSizes": "40.5-112mm",
+    "image_url": "/images/products/kase/kase-kw-revolution-magnetic-cpl.webp"
   },
   {
     "brand": "Kase",
@@ -85573,7 +85685,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://kasefilters.com/product/kase-wolverine-mag-circular-nd1000-adaptor-ring-72mm",
     "filterKind": "Magnetic circular ND1000 (10 stops)",
-    "filterSizes": "72mm"
+    "filterSizes": "72mm",
+    "image_url": "/images/products/kase/kase-wolverine-magnetic-circular-nd1000.webp"
   },
   {
     "brand": "Kenko",
@@ -85831,7 +85944,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Aluminium, brass bayonets"
+    "material": "Aluminium, brass bayonets",
+    "image_url": "/images/products/techart/techart-ef-gfx.webp"
   },
   {
     "brand": "Metabones",
@@ -85968,7 +86082,8 @@
     "hasElectronicContacts": true,
     "weightGrams": 155,
     "dimensions": "65 x 70 x 33 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leica/leica-r-adapter-l.webp"
   },
   {
     "brand": "Leica",
@@ -85987,7 +86102,8 @@
     "lensMount": "Leica M",
     "hasElectronicContacts": true,
     "weightGrams": 70,
-    "dimensions": "Ø61 x 13.3 mm"
+    "dimensions": "Ø61 x 13.3 mm",
+    "image_url": "/images/products/leica/leica-m-adapter-l.webp"
   },
   {
     "brand": "Novoflex",
@@ -86004,7 +86120,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86021,7 +86138,8 @@
       }
     ],
     "lensMount": "M42",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-co.webp"
   },
   {
     "brand": "Novoflex",
@@ -86038,7 +86156,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-let-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86072,7 +86191,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-can.webp"
   },
   {
     "brand": "Novoflex",
@@ -86089,7 +86209,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-cont.webp"
   },
   {
     "brand": "Novoflex",
@@ -86106,7 +86227,8 @@
       }
     ],
     "lensMount": "Hasselblad V",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-hax-ha.webp"
   },
   {
     "brand": "Novoflex",
@@ -86123,7 +86245,8 @@
       }
     ],
     "lensMount": "Hasselblad V",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-ha.webp"
   },
   {
     "brand": "Novoflex",
@@ -86140,7 +86263,8 @@
       }
     ],
     "lensMount": "Mamiya 645",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-mam.webp"
   },
   {
     "brand": "Novoflex",
@@ -86157,7 +86281,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-nik.webp"
   },
   {
     "brand": "Novoflex",
@@ -86174,7 +86299,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-hax-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86191,7 +86317,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86208,7 +86335,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-hax-nik.webp"
   },
   {
     "brand": "Novoflex",
@@ -86225,7 +86353,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-hax-cont.webp"
   },
   {
     "brand": "Novoflex",
@@ -86242,7 +86371,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-hax-ler.webp"
   },
   {
     "brand": "Novoflex",
@@ -86259,7 +86389,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-ler.webp"
   },
   {
     "brand": "Novoflex",
@@ -86276,7 +86407,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-nik.webp"
   },
   {
     "brand": "Novoflex",
@@ -86293,7 +86425,8 @@
       }
     ],
     "lensMount": "Olympus OM",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-om.webp"
   },
   {
     "brand": "Novoflex",
@@ -86310,7 +86443,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fux-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86327,7 +86461,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86344,7 +86479,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-eosr-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86361,7 +86497,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-mft-lem.webp"
   },
   {
     "brand": "Novoflex",
@@ -86378,7 +86515,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fux-nik.webp"
   },
   {
     "brand": "Novoflex",
@@ -86395,7 +86533,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-eosr-nik.webp"
   },
   {
     "brand": "Novoflex",
@@ -86429,7 +86568,8 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-eos.webp"
   },
   {
     "brand": "Novoflex",
@@ -86446,7 +86586,8 @@
       }
     ],
     "lensMount": "Olympus OM",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nex-om.webp"
   },
   {
     "brand": "Novoflex",
@@ -86463,7 +86604,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fux-can.webp"
   },
   {
     "brand": "Novoflex",
@@ -86480,7 +86622,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fux-cont.webp"
   },
   {
     "brand": "Novoflex",
@@ -86497,7 +86640,8 @@
       }
     ],
     "lensMount": "Pentax K",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-pent.webp"
   },
   {
     "brand": "Novoflex",
@@ -86514,7 +86658,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-let-can.webp"
   },
   {
     "brand": "Novoflex",
@@ -86531,7 +86676,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-can.webp"
   },
   {
     "brand": "Novoflex",
@@ -86548,7 +86694,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-eosr-cont.webp"
   },
   {
     "brand": "Novoflex",
@@ -86565,7 +86712,8 @@
       }
     ],
     "lensMount": "Olympus OM",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-om.webp"
   },
   {
     "brand": "Novoflex",
@@ -86616,7 +86764,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-mft-cont.webp"
   },
   {
     "brand": "Novoflex",
@@ -86650,7 +86799,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-eosr-ler.webp"
   },
   {
     "brand": "Novoflex",
@@ -86667,7 +86817,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-nikz-ler.webp"
   },
   {
     "brand": "Novoflex",
@@ -86684,7 +86835,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fux-ler.webp"
   },
   {
     "brand": "Novoflex",
@@ -86701,7 +86853,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "hasElectronicContacts": false
+    "hasElectronicContacts": false,
+    "image_url": "/images/products/novoflex/novoflex-fug-can.webp"
   },
   {
     "brand": "Nikon",
@@ -86722,7 +86875,8 @@
     "officialUrl": "https://nikonusa.com/p/af-s-teleconverter-tc800-125e-ed/2206/overview",
     "opticalDesign": "5 elements in 3 groups",
     "weightGrams": 135,
-    "dimensions": "Ø63 x 16 mm"
+    "dimensions": "Ø63 x 16 mm",
+    "image_url": "/images/products/nikon/nikon-af-s-teleconverter-tc800-1-25e-ed.webp"
   },
   {
     "brand": "Sigma",
@@ -86807,7 +86961,8 @@
       "sony-a7c",
       "sony-a7c-ii"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-a7cr.webp"
   },
   {
     "brand": "Leofoto",
@@ -86819,7 +86974,8 @@
     "compatibleWith": [
       "nikon-zr"
     ],
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-zr.webp"
   },
   {
     "brand": "Leofoto",
@@ -86830,7 +86986,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r50-custom-cage-for-canon-eos-r50-camera/",
     "compatibleWith": [
       "canon-eos-r50"
-    ]
+    ],
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r50.webp"
   },
   {
     "brand": "Leofoto",
@@ -86842,7 +86999,8 @@
     "compatibleWith": [
       "fujifilm-x-s20"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-x-s20.webp"
   },
   {
     "brand": "Leofoto",
@@ -86854,7 +87012,8 @@
     "compatibleWith": [
       "fujifilm-x-h2"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-x-h2.webp"
   },
   {
     "brand": "Leofoto",
@@ -86867,7 +87026,8 @@
       "fujifilm-x-h2",
       "fujifilm-x-h2s"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-x-h2b.webp"
   },
   {
     "brand": "Leofoto",
@@ -86880,7 +87040,8 @@
       "fujifilm-gfx-100s",
       "fujifilm-gfx-50s-ii"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-gfx100s.webp"
   },
   {
     "brand": "Leofoto",
@@ -86893,7 +87054,8 @@
       "nikon-z6",
       "nikon-z7"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-z6-z7.webp"
   },
   {
     "brand": "Leofoto",
@@ -86905,7 +87067,8 @@
     "compatibleWith": [
       "fujifilm-x-t4"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-x-t4.webp"
   },
   {
     "brand": "Leofoto",
@@ -86917,7 +87080,8 @@
     "compatibleWith": [
       "canon-eos-r"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r.webp"
   },
   {
     "brand": "Leofoto",
@@ -86929,7 +87093,8 @@
     "compatibleWith": [
       "canon-eos-m50"
     ],
-    "material": "6061-T6 aluminum"
+    "material": "6061-T6 aluminum",
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-m50.webp"
   },
   {
     "brand": "SmallRig",
@@ -86940,7 +87105,8 @@
     "officialUrl": "https://www.smallrig.com/Cage-for-Canon-EOS-R1-5413.html",
     "compatibleWith": [
       "canon-eos-r1"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5413.webp"
   },
   {
     "brand": "SmallRig",
@@ -86952,7 +87118,8 @@
     "compatibleWith": [
       "panasonic-lumix-s9"
     ],
-    "material": "Aluminum alloy"
+    "material": "Aluminum alloy",
+    "image_url": "/images/products/smallrig/smallrig-cage-4515.webp"
   },
   {
     "brand": "SmallRig",
@@ -86963,7 +87130,8 @@
     "officialUrl": "https://www.smallrig.com/au/smallrig-camera-cage-for-sony-zv-e10-3531.html",
     "compatibleWith": [
       "sony-zv-e10"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3531.webp"
   },
   {
     "brand": "Fujifilm",
@@ -87275,7 +87443,8 @@
     "compatibleWith": [
       "leica-sl2",
       "leica-sl2-s"
-    ]
+    ],
+    "image_url": "/images/products/leica/leica-hg-scl6.webp"
   },
   {
     "brand": "Leica",
