@@ -27,6 +27,11 @@ function SpecGroup({ title, rows, none }: { title: string; rows: Row[]; none: st
   );
 }
 
+// Empty list: each detail page is rendered on its first visit, then cached (keeps builds short with thousands of items)
+export function generateStaticParams() {
+  return [];
+}
+
 export default async function GearDetailPage({ params }: { params: Promise<{ id: string, locale: string }> }) {
   const { id, locale } = await params;
   setRequestLocale(locale);

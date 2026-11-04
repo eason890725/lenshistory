@@ -1,7 +1,7 @@
 import { Suspense } from 'react';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import GearGrid from './GearGrid';
-import { gears } from '@/lib/gear-data';
+import { listGears } from '@/lib/gear-data';
 
 export default async function DatabasePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -14,7 +14,7 @@ export default async function DatabasePage({ params }: { params: Promise<{ local
         {tn('database')}
       </h1>
       <Suspense>
-        <GearGrid gears={gears} />
+        <GearGrid gears={listGears} />
       </Suspense>
     </main>
   );

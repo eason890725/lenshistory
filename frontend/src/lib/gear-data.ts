@@ -4,6 +4,19 @@ import type { Gear } from './gear';
 
 export const gears = products as Gear[];
 
+// The database grid gets every item, so send only what its cards, filters and sorting read (the full records are ~5 MB).
+// The JSON round trip drops empty fields; React would otherwise send each one as "$undefined".
+export const listGears: Gear[] = JSON.parse(JSON.stringify(gears.map((g): Gear => ({
+  id: g.id, slug: g.slug, brand: g.brand, modelName: g.modelName, aliases: g.aliases, gearType: g.gearType,
+  image_url: g.image_url, releaseYear: g.releaseYear, releaseMonth: g.releaseMonth,
+  launchPrice: g.launchPrice, retailPrice: g.retailPrice, weightGrams: g.weightGrams,
+  mounts: g.mounts?.map(m => ({ mount: { name: m.mount.name } })), lensMount: g.lensMount,
+  sensorFormat: g.sensorFormat, megapixels: g.megapixels,
+  focalLengthMinMm: g.focalLengthMinMm, focalLengthMaxMm: g.focalLengthMaxMm, apertureMax: g.apertureMax,
+  accessoryType: g.accessoryType, magnification: g.magnification, guideNumber: g.guideNumber,
+  filterKind: g.filterKind, filterSizes: g.filterSizes, maxHeight: g.maxHeight, maxLoad: g.maxLoad,
+}))));
+
 export function findGear(idOrSlug: string) {
   return gears.find(g => g.id === idOrSlug || g.slug === idOrSlug);
 }

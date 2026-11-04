@@ -32,6 +32,11 @@ export const metadata: Metadata = {
   description: "無反光鏡時代的相機與鏡頭規格總目",
 };
 
+// Build every locale ahead of time so pages are served from the CDN instead of rendered per request
+export function generateStaticParams() {
+  return routing.locales.map(locale => ({locale}));
+}
+
 type Props = {
   children: React.ReactNode;
   params: Promise<{locale: string}>;
