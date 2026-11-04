@@ -76406,7 +76406,9 @@
     "dimensions": "Ø71.5 x 43 mm",
     "weightGrams": 160,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8-se.webp"
+    "image_url": "/images/products/nikon/nikon-z-28mm-f-2-8-se.webp",
+    "retailPrice": 11040,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
