@@ -82693,5 +82693,1489 @@
     "compatibleWith": [
       "sony-14mm-f1-8-gm"
     ]
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox Lux Master",
+    "gearType": "ACCESSORY",
+    "id": "godox-lux-master",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-a/Flash/Lux-Master.html",
+    "guideNumber": "25 (ISO 100, m)",
+    "batterySpec": "Lithium battery (DC7.2V 2980mAh)",
+    "recycleTime": "1.8s",
+    "weightGrams": 470,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4G Wireless X (built-in receiver)"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox Lux Senior",
+    "gearType": "ACCESSORY",
+    "id": "godox-lux-senior",
+    "accessoryType": "FLASH",
+    "officialUrl": "http://www.godox.com/product-a/Lux-Senior.html",
+    "guideNumber": "14 (ISO 100, m)",
+    "batterySpec": "Lithium battery (3.7V 1700mAh)",
+    "recycleTime": "<3s",
+    "weightGrams": 227,
+    "dimensions": "84 x 114 x 176 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox Lux Cadet",
+    "gearType": "ACCESSORY",
+    "id": "godox-lux-cadet",
+    "accessoryType": "FLASH",
+    "officialUrl": "http://www.godox.com/product-a/Lux-Cadet.html",
+    "guideNumber": "10 (ISO 100, m)",
+    "batterySpec": "Lithium battery (3.7V 1700mAh)",
+    "recycleTime": "2.5s",
+    "weightGrams": 171
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox Lux Junior",
+    "gearType": "ACCESSORY",
+    "id": "godox-lux-junior",
+    "accessoryType": "FLASH",
+    "officialUrl": "http://www.godox.com/product-a/Lux-Junior.html",
+    "guideNumber": "12 (ISO 100, m)",
+    "weightGrams": 130,
+    "dimensions": "73.8 x 50.2 x 71.8 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT32 + X5",
+    "gearType": "ACCESSORY",
+    "id": "godox-it32-x5",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-e/iT32-X5.html",
+    "compatibleSystems": [
+      "Canon",
+      "Nikon",
+      "Sony",
+      "Fujifilm",
+      "OM System",
+      "Leica"
+    ],
+    "guideNumber": "18 (ISO 100, m)",
+    "batterySpec": "Lithium battery (7.4V 900mAh)",
+    "recycleTime": "1.5s",
+    "weightGrams": 169,
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4G (X5 transmitter, max. 80m)"
+  },
+  {
+    "brand": "Yongnuo",
+    "modelName": "Yongnuo YN685II (Canon)",
+    "gearType": "ACCESSORY",
+    "id": "yongnuo-yn685ii-c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.th.hkyongnuo.com/products/yn685-ii",
+    "compatibleSystems": [
+      "Canon (E-TTL hot shoe)"
+    ],
+    "guideNumber": "60 (ISO 100, m, 200mm)",
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Radio (YONGNUO YN622C / RF603 compatible)",
+    "recycleTime": "3s",
+    "batterySpec": "4x AA",
+    "weightGrams": 426,
+    "dimensions": "67 x 77 x 210 mm"
+  },
+  {
+    "brand": "Nissin",
+    "modelName": "Nissin i60A",
+    "gearType": "ACCESSORY",
+    "id": "nissin-i60a",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.nissindigital.com/i60a",
+    "compatibleSystems": [
+      "Canon",
+      "Nikon",
+      "Sony",
+      "Fujifilm",
+      "Micro Four Thirds"
+    ],
+    "guideNumber": "60 (ISO 100, 200mm)",
+    "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio",
+    "weightGrams": 300
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Speedlite EL-100",
+    "gearType": "ACCESSORY",
+    "id": "canon-speedlite-el-100",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://canon.jp/corporate/newsrelease/2018/2018-09/pr-el100",
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "guideNumber": "26 (ISO 100, m, 50mm)",
+    "zoomRange": "24-50mm",
+    "wirelessSystem": "Optical",
+    "batterySpec": "2x AA",
+    "weightGrams": 190,
+    "dimensions": "64.6 x 91.7 x 71.0 mm"
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Macro Twin Lite MT-26EX-RT",
+    "gearType": "ACCESSORY",
+    "id": "canon-macro-twin-lite-mt-26ex-rt",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://personal.canon.jp/product/camera/accessory/macrotwin-26exrt/spec",
+    "releaseYear": 2017,
+    "releaseMonth": 8,
+    "guideNumber": "26 (ISO 100, m)",
+    "hasHSS": true,
+    "wirelessSystem": "Radio",
+    "recycleTime": "0.1-5.5s",
+    "batterySpec": "4x AA",
+    "weightGrams": 570
+  },
+  {
+    "brand": "Pentax",
+    "modelName": "Pentax AF540FGZ II",
+    "gearType": "ACCESSORY",
+    "id": "pentax-af540fgz-ii",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.ricoh-imaging.co.jp/english/products/accessory/flash/af540fgz2/index.html",
+    "releaseYear": 2013,
+    "releaseMonth": 8,
+    "compatibleSystems": [
+      "Pentax (P-TTL)"
+    ],
+    "guideNumber": "54 (ISO 100, m, 58mm)",
+    "zoomRange": "16-58mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Wireless P-TTL",
+    "batterySpec": "4x AA",
+    "weightGrams": 350,
+    "dimensions": "76 x 113 x 108 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Pentax",
+    "modelName": "Pentax AF360FGZ II",
+    "gearType": "ACCESSORY",
+    "id": "pentax-af360fgz-ii",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.ricoh-imaging.co.jp/english/products/accessory/flash/af360fgz2/index.html",
+    "releaseYear": 2013,
+    "releaseMonth": 8,
+    "compatibleSystems": [
+      "Pentax (P-TTL)"
+    ],
+    "guideNumber": "36 (ISO 100, m, 58mm)",
+    "zoomRange": "16-58mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Wireless P-TTL",
+    "batterySpec": "4x AA",
+    "weightGrams": 290,
+    "dimensions": "68 x 111 x 106 mm",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fujifilm",
+    "modelName": "Fujifilm Wireless Commander EF-W1",
+    "gearType": "ACCESSORY",
+    "id": "fujifilm-ef-w1",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.fujifilm-x.com/global/products/accessories/ef-w1/",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Radio (Nissin Air System)",
+    "batterySpec": "2x AAA",
+    "weightGrams": 73,
+    "dimensions": "62 x 61 x 68 mm",
+    "compatibleWith": [
+      "fujifilm-gfx-100-ii",
+      "fujifilm-gfx-100",
+      "fujifilm-gfx-100s-ii",
+      "fujifilm-gfx-100s",
+      "fujifilm-gfx-50s-ii",
+      "fujifilm-gfx-50s",
+      "fujifilm-gfx-50r",
+      "fujifilm-gfx-100rf",
+      "fujifilm-x-h2s",
+      "fujifilm-x-h2",
+      "fujifilm-x-h1",
+      "fujifilm-x-pro3",
+      "fujifilm-x-pro2",
+      "fujifilm-x-t5",
+      "fujifilm-x-t4",
+      "fujifilm-x-t3",
+      "fujifilm-x-t2",
+      "fujifilm-x-t1",
+      "fujifilm-x-s20",
+      "fujifilm-x-s10",
+      "fujifilm-x-t50",
+      "fujifilm-x-t30-iii",
+      "fujifilm-x-t30-ii",
+      "fujifilm-x-t20",
+      "fujifilm-x-e5",
+      "fujifilm-x-e4",
+      "fujifilm-x-e3",
+      "fujifilm-x-m5",
+      "fujifilm-x100vi",
+      "fujifilm-x100-v",
+      "fujifilm-x100f"
+    ]
+  },
+  {
+    "brand": "Olympus",
+    "modelName": "Olympus FL-900R",
+    "gearType": "ACCESSORY",
+    "id": "olympus-fl-900r",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://explore.omsystem.com/us/en/fl-900r-electronic-flash",
+    "guideNumber": "58",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage for Canon EOS R6 Mark III / R6 Mark II (5954)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5954",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
+    "compatibleWith": [
+      "canon-eos-r6-mark-iii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Basic Cage Kit for Canon EOS R6 Mark III / R6 Mark II (5955)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5955",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
+    "compatibleWith": [
+      "canon-eos-r6-mark-iii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage Kit for Canon EOS R6 Mark III / R6 Mark II (5960)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5960",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
+    "compatibleWith": [
+      "canon-eos-r6-mark-iii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Half Cage for Canon EOS R6 Mark III / R6 Mark II / R5 Mark II (5953)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5953",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
+    "compatibleWith": [
+      "canon-eos-r6-mark-iii",
+      "canon-eos-r6-ii",
+      "canon-eos-r5-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R5 Mark II (4978B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4978",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Canon-EOS-R5-Mark-II-4978.html",
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage for Canon EOS R10 (4004)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4004",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Black-Mamba-Cage-for-Canon-EOS-R10-4004.html",
+    "compatibleWith": [
+      "canon-eos-r10"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z 30 (3858)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3858",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://smallrig.com/SmallRig-Cage-for-Nikon-Z-30-3858.html",
+    "compatibleWith": [
+      "nikon-z30"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Multifunctional Cage for FUJIFILM X-H2 / X-H2S with FT-XH / VG-XH Battery Grip (3933)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3933",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Multifunctional-Cage-for-FUJIFILM-X-H2S-with-FT-XH-VG-XH-Battery-Grip-3933.html",
+    "compatibleWith": [
+      "fujifilm-x-h2s",
+      "fujifilm-x-h2"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage Kit for Sony ZV-E10 II (4949)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4949",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://smallrig.com/HawkLock-Quick-Release-Cage-Kit-for-Sony-ZV-E10-II-4949.html",
+    "compatibleWith": [
+      "sony-zv-e10-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage Kit with Silicone Handle for Sony Alpha 7C II / 7CR (5198)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5198",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/au/HawkLock-Quick-Release-Cage-Kit-with-Silicone-Handle-for-Sony-Alpha-7C-II-7CR-5198.html",
+    "compatibleWith": [
+      "sony-a7c-ii",
+      "sony-a7c-r"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Advanced Cage Kit for Sony FX3 / FX30 (4771)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4771",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/HawkLock-Quick-Release-Advanced-Cage-Kit-for-Sony-FX3-FX30-4771.html",
+    "compatibleWith": [
+      "sony-fx3",
+      "sony-fx30",
+      "sony-fx3a"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage Kit for Sony ZV-E1 (Limited Edition) (4320)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4320",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/au/SmallRig-Cage-Kit-for-Sony-ZV-E1-Limited-Edition-4320.html",
+    "compatibleWith": [
+      "sony-zv-e1"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig HawkLock Quick Release Cage Kit for Sony Alpha 6700",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-hawklock-a6700",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://smallrig.com/global/HawkLock-Quick-Release-Cage-Kit-for-Sony-Alpha-6700.html",
+    "compatibleWith": [
+      "sony-a6700"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto Z8 Camera Cage for Nikon Z8 (without Battery Grip)",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-z8",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-z8-camera-cage-for-nikon-z8-camera-without-battery-grip/",
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto Z8B Camera Cage for Nikon Z8 with MB-N12 Battery Grip",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-z8b",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-z8b-camera-cage-for-nikon-z8-mb-n12-battery-grip/",
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto Z9 Camera Cage for Nikon Z9",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-z9",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-z9-camera-cage-for-nikon-z9-camera/",
+    "compatibleWith": [
+      "nikon-z9"
+    ],
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto FX3 Camera Cage for Sony FX3 / FX30",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-fx3",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-fx3-camera-cage-for-sony-fx3-fx30-fx3/",
+    "compatibleWith": [
+      "sony-fx3",
+      "sony-fx30"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto Zf Camera Cage for Nikon Zf",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-zf",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-zf-camera-cage-for-nikon-zf-camera/",
+    "compatibleWith": [
+      "nikon-zf"
+    ],
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto Z6III Custom Cage for Nikon Z6III",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-z6iii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-z6iii-custom-cage-for-nikon-camera/",
+    "compatibleWith": [
+      "nikon-z6-iii"
+    ],
+    "material": "6061-T6 aluminum alloy",
+    "weightGrams": 190,
+    "dimensions": "155 x 63 x 110 mm"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto A1II Custom Cage for Sony Alpha 1 II",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-a1ii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-a1ii-custom-cage-for-sony-camera/",
+    "compatibleWith": [
+      "sony-a1-ii"
+    ],
+    "material": "6061-T6 aluminum alloy",
+    "weightGrams": 185,
+    "dimensions": "154 x 50 x 117 mm"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto A7C Custom Cage for Sony A7C",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-a7c",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-a7c-custom-cage-for-sony-camera/",
+    "compatibleWith": [
+      "sony-a7c"
+    ],
+    "material": "6061-T6 aluminum alloy",
+    "weightGrams": 165,
+    "dimensions": "139 x 44 x 90 mm"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto ZV-E1 Custom Cage for Sony ZV-E1",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-zv-e1",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-zv-e1-custom-cage-for-sony-zv-e1-camera/",
+    "compatibleWith": [
+      "sony-zv-e1"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto EOS-R5 Custom Cage for Canon EOS R5 / EOS R5 Mark II",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-eos-r5",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r5-custom-cage-for-canon-eos-r5-eos-r5-mark-ii-camera/",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r5-ii"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto EOS-R6II Custom Cage for Canon EOS R6 Mark II / R6 Mark III",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-eos-r6ii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r6ii-custom-cage-for-canon-eos-r6-mark-ii-r6-mark-iii-camera/",
+    "compatibleWith": [
+      "canon-eos-r6-ii",
+      "canon-eos-r6-mark-iii"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LUMIX S5II Custom Cage for Panasonic LUMIX S5 II / S5 IIX",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-s5ii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lumix-s5ii-custom-cage-for-panasonic-lumix-s5-ii-s5-iix-mirrorless-camera/",
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto A7IV Camera Cage for Sony Alpha 7 IV",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-a7iv",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-a7iv-camera-cage-for-sony-alpha-7-iv-a7iv/",
+    "compatibleWith": [
+      "sony-a7-iv"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto A7R5 Camera Cage for Sony A1 / A7 IV / A7S III / A7R IV / A7R V / A7 V",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-a7r5",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-a7r4-camera-cage-for-sony-a7r4/",
+    "compatibleWith": [
+      "sony-a1",
+      "sony-a7-iv",
+      "sony-a7s-iii",
+      "sony-a7r-iv",
+      "sony-a7r-v",
+      "sony-a7-v"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto EOS-R10 Custom Cage for Canon EOS R10",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-eos-r10",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r10-custom-cage-for-canon-eos-r10-camera/",
+    "compatibleWith": [
+      "canon-eos-r10"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto S1/S1H/S1R Camera Cage for Panasonic LUMIX S1 / S1H / S1R",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-s1-s1h-s1r",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-s1-s1h-s1r-camera-cage-for-panasonic-lumix-s1-s1h-s1r/",
+    "compatibleWith": [
+      "panasonic-lumix-s1",
+      "panasonic-lumix-s1h",
+      "panasonic-lumix-s1r"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto ZV-E10 Custom Cage for Sony ZV-E10",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-zv-e10",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-zv-e10-custom-cage-for-sony-zv-e10-camera/",
+    "compatibleWith": [
+      "sony-zv-e10"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto A7R3 Camera Cage for Sony A7R III / A7 III / A9",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-a7r3",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-a7r3-camera-cage-for-sony-a7r3-a7m3-a9/",
+    "compatibleWith": [
+      "sony-a7r-iii",
+      "sony-a7-iii",
+      "sony-a9"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto GFX100 II Camera Cage for Fujifilm GFX100 II",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-gfx100-ii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-gfx100-ii-camera-cage-for-fujifilm-gfx100-ii/",
+    "compatibleWith": [
+      "fujifilm-gfx-100-ii"
+    ],
+    "material": "6061-T6 aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto X-T5 Camera Cage for Fujifilm X-T5",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-x-t5",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-x-t5-camera-cage-for-fujifilm-x-t5/",
+    "compatibleWith": [
+      "fujifilm-x-t5"
+    ],
+    "material": "Anodized aircraft-grade aluminum"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto EOS-R8 Custom Cage for Canon EOS R8",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-cage-eos-r8",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-eos-r8-custom-cage-for-canon-eos-r8-camera/",
+    "compatibleWith": [
+      "canon-eos-r8"
+    ]
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LP-324C+LH-40 Poseidon",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lp-324c-lh-40",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lp-324clh-40-poseidon-ocean-tripodballhead-set-water-corrosion-resistant-with-titanium-foot-spike/",
+    "maxHeight": "139.5cm",
+    "minHeight": "16.5cm",
+    "foldedLength": "58cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 1950,
+    "headType": "Ball head (LH-40)",
+    "material": "10-layer carbon fiber, titanium components"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LP-284C+LH-30 Poseidon",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lp-284c-lh-30",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lp-324clh-40-poseidon-ocean-tripodballhead-set-water-corrosion-resistant-with-titanium-foot-spike/",
+    "maxHeight": "129cm",
+    "minHeight": "16cm",
+    "foldedLength": "54cm",
+    "maxLoad": "10kg",
+    "legSections": 4,
+    "weightGrams": 1550,
+    "headType": "Ball head (LH-30)",
+    "material": "10-layer carbon fiber, titanium components"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LM-404C Summit",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lm-404c",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lm-404c-professional-carbon-fiber-tripod/",
+    "legSections": 4,
+    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LM-364C Summit",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lm-364c",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lm-364c-professional-carbon-fiber-tripod/",
+    "legSections": 4,
+    "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LS-284C+LH-30 Ranger",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-ls-284c-lh-30",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-ls-284clh-30-professional-carbon-fiber-tripod/",
+    "material": "Toray 10-layer carbon fiber"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LS-324C+LH-40 Ranger",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-ls-324c-lh-40",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-ls-324clh-40-professional-carbon-fiber-tripod/",
+    "material": "Toray 10-layer carbon fiber"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LX-284CT+XB-38 Urban",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lx-284ct-xb-38",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lx-284ctxb-38-professional-carbon-fiber-tripod/"
+  },
+  {
+    "brand": "Leofoto",
+    "modelName": "Leofoto LX-324CT+XB-38 Urban",
+    "gearType": "ACCESSORY",
+    "id": "leofoto-lx-324ct-xb-38",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.leofoto.com/product/leofoto-lx-324ctxb-38-professional-carbon-fiber-tripod/"
+  },
+  {
+    "brand": "Really Right Stuff",
+    "modelName": "Really Right Stuff Ascend-14 Compact Carbon Fiber Travel Tripod: 3/8-16 Base (RRS-9000429)",
+    "gearType": "ACCESSORY",
+    "id": "rrs-ascend-14-pf",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://reallyrightstuff.com/Ascend-14-Compact-Carbon-Fiber-Travel-Tripod-3-8-16-Base/",
+    "maxHeight": "148cm",
+    "minHeight": "9.4cm",
+    "foldedLength": "43cm",
+    "maxLoad": "14kg",
+    "legSections": 4,
+    "weightGrams": 1360,
+    "headType": "Platform only (3/8\"-16 thread)",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Really Right Stuff",
+    "modelName": "Really Right Stuff Ascend-14L Tall Carbon Fiber Travel Tripod: 3/8-16 Base (RRS-9000440)",
+    "gearType": "ACCESSORY",
+    "id": "rrs-ascend-14l-pf",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://reallyrightstuff.com/Ascend-14L-Tall-Carbon-Fiber-Travel-Tripod-3-8-16-Base/",
+    "maxHeight": "169cm",
+    "minHeight": "9.4cm",
+    "foldedLength": "50cm",
+    "maxLoad": "14kg",
+    "legSections": 4,
+    "weightGrams": 1450,
+    "headType": "Platform only (3/8\"-16 thread)",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro Theta Smart Travel Tripod",
+    "gearType": "ACCESSORY",
+    "id": "benro-theta",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.benro.com/en/campaign/theta.html",
+    "maxHeight": "155cm",
+    "foldedLength": "44cm",
+    "maxLoad": "11kg",
+    "legSections": 5,
+    "headType": "Dual panoramic ball head",
+    "material": "Carbon fiber legs, aluminum alloy ball head"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro Theta MAX Smart Travel Tripod",
+    "gearType": "ACCESSORY",
+    "id": "benro-theta-max",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.benro.com/en/campaign/theta.html",
+    "maxHeight": "170cm",
+    "foldedLength": "53cm",
+    "maxLoad": "20kg",
+    "legSections": 5,
+    "headType": "Dual panoramic ball head",
+    "material": "Carbon fiber legs, aluminum alloy ball head"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro Kingpod CF 2 Series with FS36PRO Head (TKPD24CFS36PRO)",
+    "gearType": "ACCESSORY",
+    "id": "benro-kingpod-cf-2-tkpd24cfs36pro",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-kingpod-cf-2-series-4-section-tripod-with-fs36pro-hybrid-head/",
+    "maxHeight": "175cm",
+    "minHeight": "24cm",
+    "foldedLength": "65.5cm",
+    "maxLoad": "6kg",
+    "legSections": 4,
+    "weightGrams": 2550,
+    "headType": "Video head (FS36PRO)",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro SuperSlim CF 1.5 Series with H0P Ballhead (TSSL18CH0P)",
+    "gearType": "ACCESSORY",
+    "id": "benro-superslim-cf-1-5-tssl18ch0p",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-superslim-cf-1-5-series-4-section-tripod-with-h0p-ballhead/",
+    "maxHeight": "163cm",
+    "minHeight": "18.5cm",
+    "foldedLength": "56.2cm",
+    "maxLoad": "6kg",
+    "legSections": 4,
+    "weightGrams": 1350,
+    "headType": "Ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro SuperSlim AL 1.5 Series with H0P Ballhead (TSSL18AH0P)",
+    "gearType": "ACCESSORY",
+    "id": "benro-superslim-al-1-5-tssl18ah0p",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-superslim-al-1-5-series-4-section-tripod-with-h0p-ballhead/",
+    "maxHeight": "163cm",
+    "foldedLength": "56.2cm",
+    "maxLoad": "6kg",
+    "legSections": 4,
+    "weightGrams": 1637,
+    "headType": "Ball head",
+    "material": "Aluminium"
+  },
+  {
+    "brand": "Benro",
+    "modelName": "Benro SuperSlim CF 0 Series with PHVF2 Flip Head (TSSL08CPHVF2)",
+    "gearType": "ACCESSORY",
+    "id": "benro-superslim-cf-0-tssl08cphvf2",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://benrousa.com/benro-superslim-cf-0-series-4-section-tripod-with-phvf2-flip-head/",
+    "maxHeight": "156cm",
+    "minHeight": "18cm",
+    "foldedLength": "52.5cm",
+    "maxLoad": "4kg",
+    "legSections": 4,
+    "weightGrams": 1210,
+    "headType": "Two way head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-go Max",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-go-max",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/x-go-max/",
+    "maxHeight": "171.8cm",
+    "minHeight": "46.7cm",
+    "foldedLength": "47.5cm",
+    "maxLoad": "12kg",
+    "legSections": 4,
+    "weightGrams": 1610,
+    "headType": "Dual action ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-go Plus",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-go-plus",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://fotopro.com/x-go-plus",
+    "maxHeight": "157.5cm",
+    "minHeight": "43.2cm",
+    "foldedLength": "43cm",
+    "maxLoad": "8kg",
+    "legSections": 4,
+    "weightGrams": 1350,
+    "headType": "Dual action ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-go Carbon E 2",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-go-carbon-e-2",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/x-go-carbon-e-2/",
+    "maxHeight": "152.1cm",
+    "minHeight": "34.6cm",
+    "foldedLength": "36cm",
+    "maxLoad": "8kg",
+    "legSections": 5,
+    "weightGrams": 980,
+    "headType": "Dual 360° panorama ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-go Plus E 2",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-go-plus-e-2",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/x-go-plus-e-2/",
+    "maxHeight": "185cm",
+    "minHeight": "43.6cm",
+    "foldedLength": "44cm",
+    "maxLoad": "10kg",
+    "weightGrams": 1300,
+    "headType": "Dual 360° panorama ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Fotopro",
+    "modelName": "Fotopro X-go Max E 2",
+    "gearType": "ACCESSORY",
+    "id": "fotopro-x-go-max-e-2",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://www.fotopro.com/product/x-go-max-e-2/",
+    "maxHeight": "170.5cm",
+    "minHeight": "47.5cm",
+    "foldedLength": "47.5cm",
+    "maxLoad": "12kg",
+    "weightGrams": 1500,
+    "headType": "Dual 360° panorama ball head",
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W 010 MASTER UV-Haze MRC nano",
+    "gearType": "ACCESSORY",
+    "id": "bw-master-010-uv-haze",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
+    "filterKind": "UV-Haze",
+    "filterSizes": "37-112mm",
+    "material": "Color-neutral filter glass (MRC nano coating), brass mount"
+  },
+  {
+    "brand": "B+W",
+    "modelName": "B+W 007 MASTER Clear MRC nano",
+    "gearType": "ACCESSORY",
+    "id": "bw-master-007-clear",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
+    "filterKind": "Clear (protection)",
+    "filterSizes": "37-112mm",
+    "material": "Highly transparent protective glass (MRC nano coating), brass mount"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya Variable Density II",
+    "gearType": "ACCESSORY",
+    "id": "hoya-variable-density-ii",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://hoyafilter.com/product/variable_density_ii/",
+    "releaseYear": 2021,
+    "releaseMonth": 5,
+    "filterKind": "Variable ND 1.5-9 stops (ND3-400)",
+    "filterSizes": "52-82mm",
+    "material": "Aluminum frame"
+  },
+  {
+    "brand": "Megadap",
+    "modelName": "Megadap EFTZ21",
+    "gearType": "ACCESSORY",
+    "id": "megadap-eftz21",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.megadap.com/cpbjd/megadap-etz21-%e8%87%aa%e5%8a%a8%e8%bd%ac%e6%8e%a5%e7%8e%af/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "material": "Brass, aluminum"
+  },
+  {
+    "brand": "Megadap",
+    "modelName": "Megadap ETZ21 Pro+",
+    "gearType": "ACCESSORY",
+    "id": "megadap-etz21-pro-plus",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.megadap.com/cpbjd/etz21-pro%e8%87%aa%e5%8a%a8%e8%bd%ac%e6%8e%a5%e7%8e%af/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "hasElectronicContacts": true,
+    "weightGrams": 44,
+    "material": "Brass, stainless steel",
+    "lensMount": "Sony E"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones ARRI PL Lens to Nikon Z-mount T CINE Adapter S (MB_PL-NZ-BT2)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-pl-nz-cine-adapter-s",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_PL-NZ-BT2",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "PL",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "red-komodo-x",
+      "nikon-z9",
+      "nikon-z8",
+      "nikon-z7",
+      "nikon-z6",
+      "nikon-zf",
+      "nikon-zr"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon FD Lens to Nikon Z-mount T Adapter (MB_FD-NZ-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-fd-nz-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_FD-NZ-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Canon FD",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Leica M Lens to Nikon Z-mount T Adapter (MB_LM-NZ-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-lm-nz-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_LM-NZ-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Leica R Lens to Nikon Z-mount T Adapter (MB_LR-NZ-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-lr-nz-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_LR-NZ-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Leica R",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Contax Yashica CY Lens to Nikon Z-mount T CINE Adapter (MB_CY-NZ-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-cy-nz-cine-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_CY-NZ-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Contax/Yashica",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Nikon G to Nikon Z-mount Speed Booster ULTRA 0.71x (MB_SPNFG-NZ-BM1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-nfg-nz-speed-booster-ultra-0-71x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPNFG-NZ-BM1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Nikon F",
+    "opticalDesign": "5 elements in 4 groups",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "nikon-z50",
+      "nikon-zfc"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to RF-mount T CINE Adapter Mark II (MB_EF-EFR-BT2)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-rf-cine-adapter-ii",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_EF-EFR-BT2",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-r",
+      "canon-eos-rp",
+      "canon-eos-r1",
+      "canon-eos-r3",
+      "canon-eos-r5",
+      "canon-eos-r5-ii",
+      "canon-eos-r6",
+      "canon-eos-r6-ii",
+      "canon-eos-r7",
+      "canon-eos-r8",
+      "canon-eos-r10",
+      "canon-eos-r50",
+      "canon-eos-c50",
+      "canon-eos-c70",
+      "canon-eos-c80",
+      "red-komodo-6k",
+      "red-komodo-x"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to RF-mount T Speed Booster ULTRA 0.71x (MB_SPEF-EFR-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-rf-speed-booster-ultra-0-71x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPEF-EFR-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "opticalDesign": "5 elements in 4 groups",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-c70",
+      "canon-eos-r7",
+      "canon-eos-r10",
+      "canon-eos-r50",
+      "canon-eos-r",
+      "canon-eos-rp",
+      "canon-eos-r3",
+      "canon-eos-r5",
+      "canon-eos-r5-c",
+      "canon-eos-r6",
+      "canon-eos-r6-ii",
+      "canon-eos-r8",
+      "red-komodo-6k",
+      "red-komodo-x"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to RF-mount T CINE Speed Booster ULTRA 0.71x (MB_SPEF-EFR-BT2)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-rf-cine-speed-booster-ultra-0-71x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPEF-EFR-BT2",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "opticalDesign": "5 elements in 4 groups",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-c70",
+      "canon-eos-r7",
+      "canon-eos-r10",
+      "canon-eos-r",
+      "canon-eos-rp",
+      "canon-eos-r3",
+      "canon-eos-r5",
+      "canon-eos-r5-c",
+      "canon-eos-r6",
+      "canon-eos-r6-ii",
+      "canon-eos-r8",
+      "red-komodo-6k",
+      "red-komodo-x"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Leica M Lens to Canon RF-mount T Adapter (MB_LM-EFR-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-lm-rf-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_LM-EFR-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r",
+      "canon-eos-rp",
+      "canon-eos-c70",
+      "red-komodo-6k"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon FD Lens to Canon RF-mount T Adapter (MB_FD-EFR-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-fd-rf-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_FD-EFR-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "Canon FD",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r",
+      "canon-eos-rp",
+      "canon-eos-c70",
+      "red-komodo-6k"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones ARRI PL Lens to Canon RF-mount T CINE Adapter S (MB_PL-EFR-BT2)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-pl-rf-cine-adapter-s",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_PL-EFR-BT2",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon RF"
+        }
+      }
+    ],
+    "lensMount": "PL",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "canon-eos-c70",
+      "red-komodo-x"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Leica M Lens to L-mount T Adapter (MB_LM-L-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-lm-l-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_LM-L-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Nikon G Lens to L-mount Adapter (MB_NFG-L-BM1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-nfg-l-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_NFG-L-BM1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "Nikon F",
+    "material": "Aluminum alloy, brass (chromium plated)"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones ARRI PL Lens to L-mount T CINE Adapter S (MB_PL-L-BT2)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-pl-l-cine-adapter-s",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_PL-L-BT2",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "PL",
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s1r"
+    ]
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Mount Adapter LA-EA2",
+    "gearType": "ACCESSORY",
+    "id": "sony-la-ea2",
+    "accessoryType": "MOUNT_ADAPTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sony A",
+    "weightGrams": 200,
+    "dimensions": "78.5 x 86.5 x 44 mm",
+    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA2/feature_1.html"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Mount Adapter LA-EA1",
+    "gearType": "ACCESSORY",
+    "id": "sony-la-ea1",
+    "accessoryType": "MOUNT_ADAPTER",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sony A",
+    "weightGrams": 110,
+    "dimensions": "Ø65 x 26.6 mm",
+    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA1/feature_1.html"
+  },
+  {
+    "brand": "Tamron",
+    "modelName": "Tamron TELE CONVERTER 1.4x (TC-X14) for Canon",
+    "gearType": "ACCESSORY",
+    "id": "tamron-tc-x14-canon-ef",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://tamron.in/news/newsdescription?key=109",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "opticalDesign": "6 elements in 3 groups",
+    "weightGrams": 205,
+    "dimensions": "Ø70 x 21.4 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2016
+  },
+  {
+    "brand": "Tamron",
+    "modelName": "Tamron TELE CONVERTER 1.4x (TC-X14) for Nikon",
+    "gearType": "ACCESSORY",
+    "id": "tamron-tc-x14-nikon-f",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://tamron.in/news/newsdescription?key=109",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "opticalDesign": "6 elements in 3 groups",
+    "weightGrams": 180,
+    "dimensions": "Ø62.6 x 21.4 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2016
+  },
+  {
+    "brand": "Tamron",
+    "modelName": "Tamron TELE CONVERTER 2.0x (TC-X20) for Canon",
+    "gearType": "ACCESSORY",
+    "id": "tamron-tc-x20-canon-ef",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://tamron.in/news/newsdescription?key=109",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "opticalDesign": "9 elements in 5 groups",
+    "weightGrams": 360,
+    "dimensions": "Ø69.8 x 53.6 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2016
+  },
+  {
+    "brand": "Tamron",
+    "modelName": "Tamron TELE CONVERTER 2.0x (TC-X20) for Nikon",
+    "gearType": "ACCESSORY",
+    "id": "tamron-tc-x20-nikon-f",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://tamron.in/news/newsdescription?key=109",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "magnification": "2.0x",
+    "opticalDesign": "9 elements in 5 groups",
+    "weightGrams": 305,
+    "dimensions": "Ø62.3 x 53.6 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2016
   }
 ]
