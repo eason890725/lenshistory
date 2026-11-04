@@ -77622,7 +77622,8 @@
     "releaseYear": 2026,
     "officialUrl": "https://schneiderkreuznach.com/en/company/news/newsroom/bwfilter-innovations",
     "filterKind": "ND 6.0 (20 stops)",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "image_url": "/images/products/bww/bw-820-nd-6-0.webp"
   },
   {
     "brand": "Peak Design",
@@ -78084,7 +78085,8 @@
       "sony-fe-70-200mm-f2-8-gm-oss-ii"
     ],
     "retailPrice": 17980,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sony/sony-sel14tc.webp"
   },
   {
     "brand": "Sony",
@@ -78123,7 +78125,8 @@
       "sony-fe-70-200mm-f2-8-gm-oss-ii"
     ],
     "retailPrice": 17980,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sony/sony-sel20tc.webp"
   },
   {
     "brand": "Canon",
@@ -78158,7 +78161,8 @@
       "canon-rf-200-800mm-f6-3-9-is-usm"
     ],
     "retailPrice": 14900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/canon/canon-extender-rf-1-4x.webp"
   },
   {
     "brand": "Canon",
@@ -78193,7 +78197,8 @@
       "canon-rf-200-800mm-f6-3-9-is-usm"
     ],
     "retailPrice": 18200,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/canon/canon-extender-rf-2x.webp"
   },
   {
     "brand": "Nikon",
@@ -78296,7 +78301,8 @@
     ],
     "hasWeatherSeal": true,
     "retailPrice": 15800,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/fujifilm/fujifilm-xf1-4x-tc-wr.webp"
   },
   {
     "brand": "Fujifilm",
@@ -78329,7 +78335,8 @@
     ],
     "hasWeatherSeal": true,
     "retailPrice": 13900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/fujifilm/fujifilm-xf2x-tc-wr.webp"
   },
   {
     "brand": "Fujifilm",
@@ -78391,7 +78398,8 @@
       "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
     ],
     "retailPrice": 8540,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/om-system/olympus-mc14.webp"
   },
   {
     "brand": "OM System",
@@ -78425,7 +78433,8 @@
       "om-system-m-zuiko-digital-ed-90mm-f3-5-macro-is-pro"
     ],
     "retailPrice": 14990,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/om-system/olympus-mc20.webp"
   },
   {
     "brand": "Panasonic",
@@ -78590,7 +78599,8 @@
       "100-400mm-f5-6-3-dg-dn-os-c",
       "150-600mm-f5-6-3-dg-dn-os",
       "300-600mm-f4-0-dg-dn-os-sport"
-    ]
+    ],
+    "image_url": "/images/products/sigma/sigma-tc-2011.webp"
   },
   {
     "brand": "Leica",
@@ -78810,7 +78820,8 @@
       "hasselblad-x1d-50c",
       "hasselblad-x1d-ii-50c",
       "hasselblad-907x-50c"
-    ]
+    ],
+    "image_url": "/images/products/hasselblad/hasselblad-xh-converter-0-8.webp"
   },
   {
     "brand": "Hasselblad",
@@ -78827,7 +78838,8 @@
       }
     ],
     "lensMount": "Hasselblad V",
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "image_url": "/images/products/hasselblad/hasselblad-xv-lens-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -78898,7 +78910,8 @@
     "releaseMonth": 9,
     "compatibleWith": [
       "canon-eos-c70"
-    ]
+    ],
+    "image_url": "/images/products/canon/canon-mount-adapter-ef-eos-r-0-71x.webp"
   },
   {
     "brand": "Fujifilm",
@@ -78936,7 +78949,8 @@
     "lensMount": "Sigma SA",
     "hasElectronicContacts": true,
     "weightGrams": 125,
-    "dimensions": "Ø69.4 x 26 mm"
+    "dimensions": "Ø69.4 x 26 mm",
+    "image_url": "/images/products/sigma/sigma-mc-11-sa-e.webp"
   },
   {
     "brand": "Sigma",
@@ -78974,7 +78988,8 @@
     "weightGrams": 145,
     "dimensions": "Ø69.6 x 24 mm",
     "retailPrice": 5980,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sigma/sigma-mc-21-sa-l.webp"
   },
   {
     "brand": "Sigma",
@@ -79232,7 +79247,8 @@
     "filterKind": "100mm square filter holder (with True Color CPL)",
     "filterSizes": "100mm square",
     "retailPrice": 5800,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/nisi/nisi-v7.webp"
   },
   {
     "brand": "NiSi",
@@ -79335,7 +79351,8 @@
     "legSections": 5,
     "weightGrams": 1163,
     "material": "Carbon fiber",
-    "headType": "Ball head (G36PT)"
+    "headType": "Ball head (G36PT)",
+    "image_url": "/images/products/benro/benro-cyanbird-cf-tcbc25g36pt.webp"
   },
   {
     "brand": "Benro",
@@ -79918,7 +79935,8 @@
     "batterySpec": "2x NP-W235",
     "dimensions": "152.5 x 52.8 x 71.0 mm",
     "weightGrams": 358,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-vg-gfx100-ii.webp"
   },
   {
     "brand": "Fujifilm",
@@ -79935,7 +79953,8 @@
     "batterySpec": "2x NP-W235",
     "hasWeatherSeal": true,
     "retailPrice": 9900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/fujifilm/fujifilm-vg-xt4.webp"
   },
   {
     "brand": "Fujifilm",
@@ -79947,7 +79966,8 @@
     "dimensions": "140.9 x 96.0 x 57.4 mm",
     "weightGrams": 282,
     "batterySpec": "2x NP-W126S",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-vg-xt3.webp"
   },
   {
     "brand": "Fujifilm",
@@ -79962,7 +79982,8 @@
     "dimensions": "140.9 x 94.0 x 53.0 mm",
     "weightGrams": 275,
     "batterySpec": "2x NP-W126S",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-vpb-xt2.webp"
   },
   {
     "brand": "Fujifilm",
@@ -79977,7 +79998,8 @@
     "dimensions": "141.2 x 56.6 x 65.8 mm",
     "weightGrams": 300,
     "batterySpec": "2x NP-W126S",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-vpb-xh1.webp"
   },
   {
     "brand": "Fujifilm",
@@ -79993,7 +80015,8 @@
     "weightGrams": 310,
     "batterySpec": "1x NP-T125",
     "retailPrice": 19900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/fujifilm/fujifilm-vg-gfx1.webp"
   },
   {
     "brand": "OM System",
@@ -80008,7 +80031,8 @@
     "compatibleWith": [
       "om-system-om-1",
       "om-system-om-1-mark-ii"
-    ]
+    ],
+    "image_url": "/images/products/om-system/om-system-hld-10.webp"
   },
   {
     "brand": "Olympus",
@@ -80023,7 +80047,8 @@
     "compatibleWith": [
       "olympus-om-d-e-m1-mark-ii",
       "olympus-om-d-e-m1-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/olympus/olympus-hld-9.webp"
   },
   {
     "brand": "Olympus",
@@ -80034,7 +80059,8 @@
     "batterySpec": "1x BLN-1",
     "dimensions": "128.5 x 48.2 x 57.3 mm",
     "weightGrams": 235,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/olympus/olympus-hld-7.webp"
   },
   {
     "brand": "Olympus",
@@ -80151,7 +80177,8 @@
     "batterySpec": "1x DMW-BLJ31",
     "hasWeatherSeal": true,
     "dimensions": "148.7 x 49.5 x 80.3 mm",
-    "weightGrams": 406
+    "weightGrams": 406,
+    "image_url": "/images/products/panasonic/panasonic-dmw-bgs1.webp"
   },
   {
     "brand": "Panasonic",
@@ -80165,7 +80192,8 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
-    "weightGrams": 321
+    "weightGrams": 321,
+    "image_url": "/images/products/panasonic/panasonic-dmw-bgs5.webp"
   },
   {
     "brand": "Canon",
@@ -80351,7 +80379,8 @@
     "dimensions": "65.1 x 83.5 x 91.4 mm",
     "hasWeatherSeal": true,
     "retailPrice": 8180,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sony/sony-hvl-f28rm.webp"
   },
   {
     "brand": "Sony",
@@ -80484,7 +80513,8 @@
     "batterySpec": "4x AA",
     "weightGrams": 380,
     "dimensions": "67.2 x 124 x 107.3 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-ef-x500.webp"
   },
   {
     "brand": "Olympus",
@@ -80526,7 +80556,8 @@
     "recycleTime": "1.5s",
     "batterySpec": "7.2V 2980mAh Li-ion",
     "weightGrams": 530,
-    "dimensions": "76 x 93 x 197 mm"
+    "dimensions": "76 x 93 x 197 mm",
+    "image_url": "/images/products/godox/godox-v1.webp"
   },
   {
     "brand": "Godox",
@@ -80551,7 +80582,8 @@
     "recycleTime": "1.3s",
     "batterySpec": "7.2V 2980mAh Li-ion",
     "retailPrice": 7390,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/godox/godox-v1-pro.webp"
   },
   {
     "brand": "Godox",
@@ -80569,7 +80601,8 @@
     "recycleTime": "1.5s",
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
-    "dimensions": "75 x 59 x 195 mm"
+    "dimensions": "75 x 59 x 195 mm",
+    "image_url": "/images/products/godox/godox-v860iii-c.webp"
   },
   {
     "brand": "Godox",
@@ -80641,7 +80674,8 @@
     "recycleTime": "1.5s",
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
-    "dimensions": "75 x 59 x 195 mm"
+    "dimensions": "75 x 59 x 195 mm",
+    "image_url": "/images/products/godox/godox-v860iii-o.webp"
   },
   {
     "brand": "Godox",
@@ -80713,7 +80747,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
-    "dimensions": "65 x 46 x 47 mm"
+    "dimensions": "65 x 46 x 47 mm",
+    "image_url": "/images/products/godox/godox-it30pro-s.webp"
   },
   {
     "brand": "Godox",
@@ -80769,7 +80804,8 @@
     "recycleTime": "0.1-2.2s",
     "batterySpec": "2x AA",
     "weightGrams": 200,
-    "dimensions": "140 x 62 x 38 mm"
+    "dimensions": "140 x 62 x 38 mm",
+    "image_url": "/images/products/godox/godox-tt350c.webp"
   },
   {
     "brand": "Godox",
@@ -80789,7 +80825,8 @@
     "recycleTime": "0.1-2.2s",
     "batterySpec": "2x AA",
     "weightGrams": 200,
-    "dimensions": "140 x 62 x 38 mm"
+    "dimensions": "140 x 62 x 38 mm",
+    "image_url": "/images/products/godox/godox-tt350n.webp"
   },
   {
     "brand": "Godox",
@@ -80847,7 +80884,8 @@
     "recycleTime": "0.1-1.7s",
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
-    "dimensions": "150 x 62 x 38 mm"
+    "dimensions": "150 x 62 x 38 mm",
+    "image_url": "/images/products/godox/godox-v350c.webp"
   },
   {
     "brand": "Godox",
@@ -80883,7 +80921,8 @@
     "recycleTime": "0.1-1.7s",
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
-    "dimensions": "150 x 62 x 38 mm"
+    "dimensions": "150 x 62 x 38 mm",
+    "image_url": "/images/products/godox/godox-v350s.webp"
   },
   {
     "brand": "Godox",
@@ -80937,7 +80976,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
-    "dimensions": "71 x 49 x 166 mm"
+    "dimensions": "71 x 49 x 166 mm",
+    "image_url": "/images/products/godox/godox-v480c.webp"
   },
   {
     "brand": "Godox",
@@ -81027,7 +81067,8 @@
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
-    "dimensions": "71.5 x 76 x 206 mm"
+    "dimensions": "71.5 x 76 x 206 mm",
+    "image_url": "/images/products/godox/godox-v100c.webp"
   },
   {
     "brand": "Godox",
@@ -81126,7 +81167,8 @@
       "panasonic-lumix-gx7",
       "panasonic-lumix-g6",
       "panasonic-lumix-gf6"
-    ]
+    ],
+    "image_url": "/images/products/panasonic/panasonic-dmw-fl580l.webp"
   },
   {
     "brand": "Panasonic",
@@ -81155,7 +81197,8 @@
       "panasonic-lumix-g7",
       "panasonic-lumix-g6",
       "panasonic-lumix-gf6"
-    ]
+    ],
+    "image_url": "/images/products/panasonic/panasonic-dmw-fl200l.webp"
   },
   {
     "brand": "Nikon",
@@ -81205,7 +81248,8 @@
     ],
     "dimensions": "143.2 x 109.4 x 81.0 mm",
     "weightGrams": 351,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/canon/canon-bg-r10.webp"
   },
   {
     "brand": "Canon",
@@ -81242,7 +81286,8 @@
     "releaseYear": 2020,
     "releaseMonth": 9,
     "weightGrams": 88,
-    "dimensions": "Ø66.0 x 31.7 mm"
+    "dimensions": "Ø66.0 x 31.7 mm",
+    "image_url": "/images/products/sony/sony-la-ea5.webp"
   },
   {
     "brand": "Sony",
@@ -81341,7 +81386,8 @@
     "weightGrams": 190,
     "dimensions": "Ø64 x 24.5 mm",
     "releaseYear": 2014,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "image_url": "/images/products/nikon/nikon-af-s-teleconverter-tc-14e-iii.webp"
   },
   {
     "brand": "Nikon",
@@ -81380,7 +81426,8 @@
     ],
     "lensMount": "PL",
     "weightGrams": 330,
-    "dimensions": "Ø84.4 x 42 mm"
+    "dimensions": "Ø84.4 x 42 mm",
+    "image_url": "/images/products/sigma/sigma-mc-31-pl-l.webp"
   },
   {
     "brand": "Metabones",
@@ -81480,7 +81527,8 @@
       "panasonic-lumix-gx9",
       "olympus-pen-e-pl7",
       "olympus-pen-f"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-ef-m43-cine-speed-booster-xl-0-64x.webp"
   },
   {
     "brand": "Techart",
@@ -81600,7 +81648,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Brass lens and camera mounts, alloy body",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fringer/fringer-ef-nz-ii.webp"
   },
   {
     "brand": "Fringer",
@@ -81619,7 +81668,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Brass bayonets",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fringer/fringer-ef-fx-pro-iii.webp"
   },
   {
     "brand": "Fringer",
@@ -81636,7 +81686,8 @@
       }
     ],
     "lensMount": "Canon EF",
-    "opticalDesign": "5 elements in 2 groups"
+    "opticalDesign": "5 elements in 2 groups",
+    "image_url": "/images/products/fringer/fringer-ef-fx-ultra.webp"
   },
   {
     "brand": "SmallRig",
@@ -81915,7 +81966,8 @@
       "sony-a7r-v"
     ],
     "weightGrams": 165,
-    "dimensions": "148 x 104 x 68 mm"
+    "dimensions": "148 x 104 x 68 mm",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-a7siii.webp"
   },
   {
     "brand": "8Sinn",
@@ -81930,7 +81982,8 @@
     ],
     "weightGrams": 220,
     "dimensions": "147 x 94 x 62 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-fx3.webp"
   },
   {
     "brand": "8Sinn",
@@ -81944,7 +81997,8 @@
     ],
     "weightGrams": 211,
     "dimensions": "157 x 109 x 66 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-r5mii.webp"
   },
   {
     "brand": "8Sinn",
@@ -81959,7 +82013,8 @@
     ],
     "weightGrams": 167,
     "dimensions": "153 x 102 x 62 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-fx-h2s.webp"
   },
   {
     "brand": "8Sinn",
@@ -81976,7 +82031,8 @@
     ],
     "weightGrams": 207,
     "dimensions": "155 x 107 x 67 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-cr-5-6.webp"
   },
   {
     "brand": "8Sinn",
@@ -81990,7 +82046,8 @@
     ],
     "weightGrams": 162,
     "dimensions": "148 x 99 x 53 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-cr8c.webp"
   },
   {
     "brand": "8Sinn",
@@ -82004,7 +82061,8 @@
     ],
     "weightGrams": 183,
     "dimensions": "148 x 103 x 67 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-cr7c.webp"
   },
   {
     "brand": "8Sinn",
@@ -82019,7 +82077,8 @@
     ],
     "weightGrams": 186,
     "dimensions": "151 x 114 x 66 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-gh6.webp"
   },
   {
     "brand": "8Sinn",
@@ -82035,7 +82094,8 @@
     ],
     "weightGrams": 224,
     "dimensions": "154 x 114 x 70 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-ps5ii.webp"
   },
   {
     "brand": "8Sinn",
@@ -82049,7 +82109,8 @@
     ],
     "weightGrams": 210,
     "dimensions": "142 x 44.3 x 91.39 mm",
-    "material": "Anodized aluminum"
+    "material": "Anodized aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-ls9.webp"
   },
   {
     "brand": "8Sinn",
@@ -82063,7 +82124,8 @@
     ],
     "weightGrams": 206.17,
     "dimensions": "152 x 60.3 x 97 mm",
-    "material": "Anodized aluminum (cage), Composite material (side grip)"
+    "material": "Anodized aluminum (cage), Composite material (side grip)",
+    "image_url": "/images/products/8sinn/8sinn-cage-cnzr.webp"
   },
   {
     "brand": "8Sinn",
@@ -82077,7 +82139,8 @@
     ],
     "weightGrams": 168.8,
     "dimensions": "158 x 100.3 x 64.8 mm",
-    "material": "CNC-machined aluminum (black anodized)"
+    "material": "CNC-machined aluminum (black anodized)",
+    "image_url": "/images/products/8sinn/8sinn-cage-ccr6v.webp"
   },
   {
     "brand": "8Sinn",
@@ -82094,7 +82157,8 @@
     ],
     "weightGrams": 192,
     "dimensions": "153 x 114 x 63 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-nz6z7-v2.webp"
   },
   {
     "brand": "8Sinn",
@@ -82108,7 +82172,8 @@
     ],
     "weightGrams": 169,
     "dimensions": "148 x 105 x 67 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-sa1-no-hdmi.webp"
   },
   {
     "brand": "8Sinn",
@@ -82122,7 +82187,8 @@
       "sigma-fp-l"
     ],
     "weightGrams": 269,
-    "dimensions": "140 x 91 x 54 mm"
+    "dimensions": "140 x 91 x 54 mm",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-sfpl.webp"
   },
   {
     "brand": "8Sinn",
@@ -82137,7 +82203,8 @@
       "panasonic-lumix-gh5s"
     ],
     "weightGrams": 200,
-    "dimensions": "156 x 106 x 67 mm"
+    "dimensions": "156 x 106 x 67 mm",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-gh5-v2.webp"
   },
   {
     "brand": "8Sinn",
@@ -82151,7 +82218,8 @@
     ],
     "weightGrams": 227,
     "dimensions": "159 x 107 x 77 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-cr5c-v2.webp"
   },
   {
     "brand": "8Sinn",
@@ -82165,7 +82233,8 @@
     ],
     "weightGrams": 307,
     "dimensions": "118 x 160 x 101 mm",
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-c80.webp"
   },
   {
     "brand": "8Sinn",
@@ -82178,7 +82247,8 @@
       "canon-eos-c50"
     ],
     "weightGrams": 164.2,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/8sinn/8sinn-cage-8-c50.webp"
   },
   {
     "brand": "Sirui",
@@ -82251,7 +82321,8 @@
     "maxLoad": "12kg",
     "legSections": 4,
     "weightGrams": 1500,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-t-1004sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82266,7 +82337,8 @@
     "maxLoad": "12kg",
     "legSections": 4,
     "weightGrams": 1200,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-t-1204sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82281,7 +82353,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 2000,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-t-2004sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82296,7 +82369,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 1600,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-t-2204sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82311,7 +82385,8 @@
     "maxLoad": "5kg",
     "legSections": 5,
     "weightGrams": 900,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-t-005sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82326,7 +82401,8 @@
     "maxLoad": "6kg",
     "legSections": 5,
     "weightGrams": 800,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-t-025sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82341,7 +82417,8 @@
     "maxLoad": "25kg",
     "legSections": 3,
     "weightGrams": 2000,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-sr-3203.webp"
   },
   {
     "brand": "Sirui",
@@ -82356,7 +82433,8 @@
     "maxLoad": "25kg",
     "legSections": 4,
     "weightGrams": 2000,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-sr-3204.webp"
   },
   {
     "brand": "Sirui",
@@ -82371,7 +82449,8 @@
     "maxLoad": "25kg",
     "legSections": 4,
     "weightGrams": 2500,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-sr-3004.webp"
   },
   {
     "brand": "Sirui",
@@ -82386,7 +82465,8 @@
     "maxLoad": "12kg",
     "legSections": 4,
     "weightGrams": 1700,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-n-1004sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82401,7 +82481,8 @@
     "maxLoad": "12kg",
     "legSections": 4,
     "weightGrams": 1400,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-n-1204sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82416,7 +82497,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 2100,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-n-2004sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82431,7 +82513,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 1700,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-n-2204sk.webp"
   },
   {
     "brand": "Sirui",
@@ -82446,7 +82529,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 1700,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-w-1004.webp"
   },
   {
     "brand": "Sirui",
@@ -82461,7 +82545,8 @@
     "maxLoad": "15kg",
     "legSections": 4,
     "weightGrams": 1400,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-w-1204.webp"
   },
   {
     "brand": "Sirui",
@@ -82476,7 +82561,8 @@
     "maxLoad": "18kg",
     "legSections": 4,
     "weightGrams": 2100,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "image_url": "/images/products/sirui/sirui-w-2004.webp"
   },
   {
     "brand": "Sirui",
@@ -82491,7 +82577,8 @@
     "maxLoad": "18kg",
     "legSections": 4,
     "weightGrams": 1700,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-w-2204.webp"
   },
   {
     "brand": "Kenko",
@@ -82595,7 +82682,8 @@
     "releaseMonth": 8,
     "filterKind": "Circular Polarizer",
     "filterSizes": "49-82mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-fusion-antistatic-next-cir-pl.webp"
   },
   {
     "brand": "NiSi",
@@ -82605,7 +82693,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/true-color-cpl",
     "filterKind": "Circular Polarizer (CPL)",
-    "filterSizes": "40.5-95mm"
+    "filterSizes": "40.5-95mm",
+    "image_url": "/images/products/nisi/nisi-true-color-cpl.webp"
   },
   {
     "brand": "NiSi",
@@ -82646,7 +82735,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/circular-nd-filters",
     "filterKind": "Solar ND 100000 (5.0) 16.6 stops",
-    "filterSizes": "77-95mm"
+    "filterSizes": "77-95mm",
+    "image_url": "/images/products/nisi/nisi-solar-filter-nd100000.webp"
   },
   {
     "brand": "Haida",
@@ -82750,7 +82840,8 @@
     "batterySpec": "Lithium battery (3.7V 1700mAh)",
     "recycleTime": "<3s",
     "weightGrams": 227,
-    "dimensions": "84 x 114 x 176 mm"
+    "dimensions": "84 x 114 x 176 mm",
+    "image_url": "/images/products/godox/godox-lux-senior.webp"
   },
   {
     "brand": "Godox",
@@ -82773,7 +82864,8 @@
     "officialUrl": "http://www.godox.com/product-a/Lux-Junior.html",
     "guideNumber": "12 (ISO 100, m)",
     "weightGrams": 130,
-    "dimensions": "73.8 x 50.2 x 71.8 mm"
+    "dimensions": "73.8 x 50.2 x 71.8 mm",
+    "image_url": "/images/products/godox/godox-lux-junior.webp"
   },
   {
     "brand": "Godox",
@@ -82796,7 +82888,8 @@
     "weightGrams": 169,
     "hasTTL": true,
     "hasHSS": true,
-    "wirelessSystem": "Godox 2.4G (X5 transmitter, max. 80m)"
+    "wirelessSystem": "Godox 2.4G (X5 transmitter, max. 80m)",
+    "image_url": "/images/products/godox/godox-it32-x5.webp"
   },
   {
     "brand": "Yongnuo",
@@ -82835,7 +82928,8 @@
     ],
     "guideNumber": "60 (ISO 100, 200mm)",
     "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio",
-    "weightGrams": 300
+    "weightGrams": 300,
+    "image_url": "/images/products/nissin/nissin-i60a.webp"
   },
   {
     "brand": "Canon",
@@ -82889,7 +82983,8 @@
     "batterySpec": "4x AA",
     "weightGrams": 350,
     "dimensions": "76 x 113 x 108 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/pentax/pentax-af540fgz-ii.webp"
   },
   {
     "brand": "Pentax",
@@ -82911,7 +83006,8 @@
     "batterySpec": "4x AA",
     "weightGrams": 290,
     "dimensions": "68 x 111 x 106 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/pentax/pentax-af360fgz-ii.webp"
   },
   {
     "brand": "Fujifilm",
@@ -83424,7 +83520,8 @@
     "legSections": 4,
     "weightGrams": 1950,
     "headType": "Ball head (LH-40)",
-    "material": "10-layer carbon fiber, titanium components"
+    "material": "10-layer carbon fiber, titanium components",
+    "image_url": "/images/products/leofoto/leofoto-lp-324c-lh-40.webp"
   },
   {
     "brand": "Leofoto",
@@ -83440,7 +83537,8 @@
     "legSections": 4,
     "weightGrams": 1550,
     "headType": "Ball head (LH-30)",
-    "material": "10-layer carbon fiber, titanium components"
+    "material": "10-layer carbon fiber, titanium components",
+    "image_url": "/images/products/leofoto/leofoto-lp-284c-lh-30.webp"
   },
   {
     "brand": "Leofoto",
@@ -83513,7 +83611,8 @@
     "legSections": 4,
     "weightGrams": 1360,
     "headType": "Platform only (3/8\"-16 thread)",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-pf.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -83529,7 +83628,8 @@
     "legSections": 4,
     "weightGrams": 1450,
     "headType": "Platform only (3/8\"-16 thread)",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14l-pf.webp"
   },
   {
     "brand": "Benro",
@@ -83573,7 +83673,8 @@
     "legSections": 4,
     "weightGrams": 2550,
     "headType": "Video head (FS36PRO)",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/benro/benro-kingpod-cf-2-tkpd24cfs36pro.webp"
   },
   {
     "brand": "Benro",
@@ -83589,7 +83690,8 @@
     "legSections": 4,
     "weightGrams": 1350,
     "headType": "Ball head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/benro/benro-superslim-cf-1-5-tssl18ch0p.webp"
   },
   {
     "brand": "Benro",
@@ -83604,7 +83706,8 @@
     "legSections": 4,
     "weightGrams": 1637,
     "headType": "Ball head",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/benro/benro-superslim-al-1-5-tssl18ah0p.webp"
   },
   {
     "brand": "Benro",
@@ -83620,7 +83723,8 @@
     "legSections": 4,
     "weightGrams": 1210,
     "headType": "Two way head",
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/benro/benro-superslim-cf-0-tssl08cphvf2.webp"
   },
   {
     "brand": "Fotopro",
@@ -83737,7 +83841,8 @@
     "releaseMonth": 5,
     "filterKind": "Variable ND 1.5-9 stops (ND3-400)",
     "filterSizes": "52-82mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-variable-density-ii.webp"
   },
   {
     "brand": "Megadap",
@@ -83800,7 +83905,8 @@
       "nikon-z6",
       "nikon-zf",
       "nikon-zr"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-pl-nz-cine-adapter-s.webp"
   },
   {
     "brand": "Metabones",
@@ -83817,7 +83923,8 @@
       }
     ],
     "lensMount": "Canon FD",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-fd-nz-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -83834,7 +83941,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-lm-nz-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -83851,7 +83959,8 @@
       }
     ],
     "lensMount": "Leica R",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-lr-nz-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -83868,7 +83977,8 @@
       }
     ],
     "lensMount": "Contax/Yashica",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-cy-nz-cine-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -83890,7 +84000,8 @@
     "compatibleWith": [
       "nikon-z50",
       "nikon-zfc"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-nfg-nz-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Metabones",
@@ -83927,7 +84038,8 @@
       "canon-eos-c80",
       "red-komodo-6k",
       "red-komodo-x"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-ef-rf-cine-adapter-ii.webp"
   },
   {
     "brand": "Metabones",
@@ -83962,7 +84074,8 @@
       "canon-eos-r8",
       "red-komodo-6k",
       "red-komodo-x"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-ef-rf-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Metabones",
@@ -83996,7 +84109,8 @@
       "canon-eos-r8",
       "red-komodo-6k",
       "red-komodo-x"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-ef-rf-cine-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Metabones",
@@ -84021,7 +84135,8 @@
       "canon-eos-rp",
       "canon-eos-c70",
       "red-komodo-6k"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-lm-rf-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -84046,7 +84161,8 @@
       "canon-eos-rp",
       "canon-eos-c70",
       "red-komodo-6k"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-fd-rf-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -84067,7 +84183,8 @@
     "compatibleWith": [
       "canon-eos-c70",
       "red-komodo-x"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-pl-rf-cine-adapter-s.webp"
   },
   {
     "brand": "Metabones",
@@ -84084,7 +84201,8 @@
       }
     ],
     "lensMount": "Leica M",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-lm-l-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -84101,7 +84219,8 @@
       }
     ],
     "lensMount": "Nikon F",
-    "material": "Aluminum alloy, brass (chromium plated)"
+    "material": "Aluminum alloy, brass (chromium plated)",
+    "image_url": "/images/products/metabones/metabones-nfg-l-adapter.webp"
   },
   {
     "brand": "Metabones",
@@ -84122,7 +84241,8 @@
     "compatibleWith": [
       "panasonic-lumix-s5ii",
       "panasonic-lumix-s1r"
-    ]
+    ],
+    "image_url": "/images/products/metabones/metabones-pl-l-cine-adapter-s.webp"
   },
   {
     "brand": "Sony",
@@ -84200,7 +84320,8 @@
     "weightGrams": 180,
     "dimensions": "Ø62.6 x 21.4 mm",
     "hasWeatherSeal": true,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "image_url": "/images/products/tamron/tamron-tc-x14-nikon-f.webp"
   },
   {
     "brand": "Tamron",
@@ -84242,7 +84363,8 @@
     "weightGrams": 305,
     "dimensions": "Ø62.3 x 53.6 mm",
     "hasWeatherSeal": true,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "image_url": "/images/products/tamron/tamron-tc-x20-nikon-f.webp"
   },
   {
     "brand": "Godox",
@@ -84288,7 +84410,8 @@
     "hasHSS": true,
     "wirelessSystem": "Radio (Godox 2.4G X)",
     "recycleTime": "0.01-1.8s",
-    "batterySpec": "Li-ion 14.4V 2980mAh"
+    "batterySpec": "Li-ion 14.4V 2980mAh",
+    "image_url": "/images/products/godox/godox-ad200pro-ii.webp"
   },
   {
     "brand": "Godox",
@@ -84312,7 +84435,8 @@
     "wirelessSystem": "Radio (Godox 2.4G X)",
     "recycleTime": "0.01-1.5s",
     "batterySpec": "Li-ion 14.4V 2600mAh (37.44Wh)",
-    "weightGrams": 1200
+    "weightGrams": 1200,
+    "image_url": "/images/products/godox/godox-ad300pro-ii.webp"
   },
   {
     "brand": "Godox",
@@ -84338,7 +84462,8 @@
     "recycleTime": "0.01-1s",
     "batterySpec": "Li-ion 21.6V 2600mAh",
     "weightGrams": 2000,
-    "dimensions": "211 x 129 x 90 mm"
+    "dimensions": "211 x 129 x 90 mm",
+    "image_url": "/images/products/godox/godox-ad400pro-ii.webp"
   },
   {
     "brand": "Nikon",
@@ -84358,7 +84483,8 @@
     "recycleTime": "6s",
     "batterySpec": "1x CR123A",
     "weightGrams": 120,
-    "dimensions": "80 x 75 x 55 mm"
+    "dimensions": "80 x 75 x 55 mm",
+    "image_url": "/images/products/nikon/nikon-sb-r200.webp"
   },
   {
     "brand": "Nikon",
@@ -84438,7 +84564,8 @@
     "zoomRange": "24-105mm",
     "hasTTL": true,
     "hasHSS": true,
-    "weightGrams": 203
+    "weightGrams": 203,
+    "image_url": "/images/products/nissin/nissin-i400.webp"
   },
   {
     "brand": "Nissin",
@@ -84458,7 +84585,8 @@
     "zoomRange": "24-105mm",
     "hasTTL": true,
     "hasHSS": true,
-    "wirelessSystem": "Optical slave (SD/SF)"
+    "wirelessSystem": "Optical slave (SD/SF)",
+    "image_url": "/images/products/nissin/nissin-i40.webp"
   },
   {
     "brand": "Nissin",
@@ -84488,7 +84616,8 @@
       "Nikon",
       "Sony"
     ],
-    "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio, built-in commander"
+    "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio, built-in commander",
+    "image_url": "/images/products/nissin/nissin-mg80-pro.webp"
   },
   {
     "brand": "Nissin",
@@ -84498,7 +84627,8 @@
     "accessoryType": "FLASH",
     "officialUrl": "https://www.nissindigital.com/mg10-details",
     "guideNumber": "80",
-    "wirelessSystem": "Nissin Air System (NAS) radio (Air 10s / Air 1 commander)"
+    "wirelessSystem": "Nissin Air System (NAS) radio (Air 10s / Air 1 commander)",
+    "image_url": "/images/products/nissin/nissin-mg10.webp"
   },
   {
     "brand": "SmallRig",
@@ -85024,7 +85154,8 @@
     "compatibleWith": [
       "canon-powershot-v1"
     ],
-    "material": "Aluminum alloy, Walnut wood"
+    "material": "Aluminum alloy, Walnut wood",
+    "image_url": "/images/products/tilta/tilta-cage-ta-t82-a.webp"
   },
   {
     "brand": "Tilta",
@@ -85104,7 +85235,8 @@
     "maxLoad": "18kg",
     "legSections": 4,
     "weightGrams": 1600,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-r-2214x.webp"
   },
   {
     "brand": "Sirui",
@@ -85119,7 +85251,8 @@
     "maxLoad": "22kg",
     "legSections": 3,
     "weightGrams": 1800,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-r-3213x.webp"
   },
   {
     "brand": "Sirui",
@@ -85149,7 +85282,8 @@
     "maxLoad": "25kg",
     "legSections": 4,
     "weightGrams": 2200,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-r-4214x.webp"
   },
   {
     "brand": "Sirui",
@@ -85164,7 +85298,8 @@
     "maxLoad": "30kg",
     "legSections": 4,
     "weightGrams": 2500,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-r-5214x.webp"
   },
   {
     "brand": "Sirui",
@@ -85179,7 +85314,8 @@
     "maxLoad": "30kg",
     "legSections": 4,
     "weightGrams": 2800,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-r-5214xl.webp"
   },
   {
     "brand": "Slik",
@@ -85193,7 +85329,8 @@
     "foldedLength": "76cm",
     "weightGrams": 3670,
     "legSections": 3,
-    "headType": "4-way pan head"
+    "headType": "4-way pan head",
+    "image_url": "/images/products/slik/slik-pro-700-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85207,7 +85344,8 @@
     "foldedLength": "69.5cm",
     "weightGrams": 2730,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-500-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85221,7 +85359,8 @@
     "foldedLength": "49cm",
     "weightGrams": 1610,
     "legSections": 4,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-340-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85234,7 +85373,8 @@
     "minHeight": "42.5cm",
     "foldedLength": "81.5cm",
     "weightGrams": 3670,
-    "legSections": 3
+    "legSections": 3,
+    "image_url": "/images/products/slik/slik-pro-780-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85247,7 +85387,8 @@
     "minHeight": "29.4cm",
     "foldedLength": "60cm",
     "weightGrams": 1690,
-    "legSections": 3
+    "legSections": 3,
+    "image_url": "/images/products/slik/slik-pro-330-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85261,7 +85402,8 @@
     "foldedLength": "65cm",
     "weightGrams": 2520,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-400-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85275,7 +85417,8 @@
     "foldedLength": "73cm",
     "weightGrams": 2780,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-580-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85289,7 +85432,8 @@
     "foldedLength": "54.5cm",
     "weightGrams": 1870,
     "legSections": 4,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-724-ex-ii.webp"
   },
   {
     "brand": "Slik",
@@ -85303,7 +85447,8 @@
     "foldedLength": "64.5cm",
     "weightGrams": 1820,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-723-ex-ii.webp"
   },
   {
     "brand": "Slik",
@@ -85316,7 +85461,8 @@
     "minHeight": "19.4cm",
     "foldedLength": "47.8cm",
     "weightGrams": 1585,
-    "legSections": 4
+    "legSections": 4,
+    "image_url": "/images/products/slik/slik-pro-824-cf.webp"
   },
   {
     "brand": "Slik",
@@ -85329,7 +85475,8 @@
     "minHeight": "9.4cm",
     "foldedLength": "45.7cm",
     "weightGrams": 930,
-    "legSections": 4
+    "legSections": 4,
+    "image_url": "/images/products/slik/slik-pro-634-cf.webp"
   },
   {
     "brand": "Slik",
@@ -85343,7 +85490,8 @@
     "foldedLength": "55.4cm",
     "weightGrams": 2310,
     "legSections": 4,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/slik/slik-pro-924-cf.webp"
   },
   {
     "brand": "Slik",
@@ -85357,7 +85505,8 @@
     "foldedLength": "82.5cm",
     "weightGrams": 3800,
     "legSections": 4,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/slik/slik-grand-pro-cf-4.webp"
   },
   {
     "brand": "Slik",
@@ -85370,7 +85519,8 @@
     "minHeight": "26.7cm",
     "foldedLength": "56cm",
     "weightGrams": 1755,
-    "legSections": 4
+    "legSections": 4,
+    "image_url": "/images/products/slik/slik-pro-724-fa.webp"
   },
   {
     "brand": "Slik",
@@ -85383,7 +85533,8 @@
     "minHeight": "29.2cm",
     "foldedLength": "65.8cm",
     "weightGrams": 1755,
-    "legSections": 3
+    "legSections": 3,
+    "image_url": "/images/products/slik/slik-pro-723-fa.webp"
   },
   {
     "brand": "Slik",
@@ -85397,7 +85548,8 @@
     "foldedLength": "93.5cm",
     "weightGrams": 6810,
     "legSections": 4,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-the-professional-4.webp"
   },
   {
     "brand": "Slik",
@@ -85411,7 +85563,8 @@
     "foldedLength": "49cm",
     "weightGrams": 1280,
     "legSections": 3,
-    "headType": "Multi-action head"
+    "headType": "Multi-action head",
+    "image_url": "/images/products/slik/slik-sprint-pro-ez.webp"
   },
   {
     "brand": "Slik",
@@ -85425,7 +85578,8 @@
     "foldedLength": "69cm",
     "weightGrams": 2550,
     "legSections": 3,
-    "headType": "Multi-action head"
+    "headType": "Multi-action head",
+    "image_url": "/images/products/slik/slik-pro-500-ez.webp"
   },
   {
     "brand": "Slik",
@@ -85439,7 +85593,8 @@
     "foldedLength": "60cm",
     "weightGrams": 1710,
     "legSections": 3,
-    "headType": "Multi-action head"
+    "headType": "Multi-action head",
+    "image_url": "/images/products/slik/slik-pro-330-ez.webp"
   },
   {
     "brand": "Slik",
@@ -85452,7 +85607,8 @@
     "foldedLength": "65cm",
     "weightGrams": 2550,
     "legSections": 3,
-    "headType": "Multi-action head"
+    "headType": "Multi-action head",
+    "image_url": "/images/products/slik/slik-master-classic.webp"
   },
   {
     "brand": "Slik",
@@ -85466,7 +85622,8 @@
     "foldedLength": "65.5cm",
     "weightGrams": 2600,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-able-300-dx.webp"
   },
   {
     "brand": "Slik",
@@ -85480,7 +85637,8 @@
     "foldedLength": "71cm",
     "weightGrams": 2680,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-pro-500-hd.webp"
   },
   {
     "brand": "Slik",
@@ -85494,7 +85652,8 @@
     "foldedLength": "53cm",
     "weightGrams": 1460,
     "legSections": 4,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-f-740.webp"
   },
   {
     "brand": "Slik",
@@ -85508,7 +85667,8 @@
     "foldedLength": "64cm",
     "weightGrams": 1590,
     "legSections": 3,
-    "headType": "3-way fluid effect pan head"
+    "headType": "3-way fluid effect pan head",
+    "image_url": "/images/products/slik/slik-f-730.webp"
   },
   {
     "brand": "Slik",
@@ -85522,7 +85682,8 @@
     "foldedLength": "56cm",
     "weightGrams": 1320,
     "legSections": 3,
-    "headType": "3-way pan head"
+    "headType": "3-way pan head",
+    "image_url": "/images/products/slik/slik-f-630.webp"
   },
   {
     "brand": "Slik",
@@ -85536,7 +85697,8 @@
     "foldedLength": "36cm",
     "weightGrams": 570,
     "legSections": 4,
-    "headType": "2-way pan head"
+    "headType": "2-way pan head",
+    "image_url": "/images/products/slik/slik-compact-ii.webp"
   },
   {
     "brand": "Velbon",
@@ -85552,7 +85714,8 @@
     "maxLoad": "6kg",
     "legSections": 6,
     "headType": "QHD-63D",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/velbon/velbon-ut-63d.webp"
   },
   {
     "brand": "Velbon",
@@ -85568,7 +85731,8 @@
     "maxLoad": "3kg",
     "legSections": 5,
     "headType": "Ball head",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/velbon/velbon-ut-3ar.webp"
   },
   {
     "brand": "Velbon",
@@ -85600,7 +85764,8 @@
     "maxLoad": "4kg",
     "legSections": 3,
     "headType": "PH-157Q",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/velbon/velbon-sherpa-200r.webp"
   },
   {
     "brand": "Velbon",
@@ -85615,7 +85780,8 @@
     "maxLoad": "5kg",
     "legSections": 4,
     "headType": "3-way pan head",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/velbon/velbon-ex-640.webp"
   },
   {
     "brand": "Velbon",
@@ -85630,7 +85796,8 @@
     "maxLoad": "2kg",
     "legSections": 4,
     "headType": "3-way pan head",
-    "material": "Aluminium"
+    "material": "Aluminium",
+    "image_url": "/images/products/velbon/velbon-ex-440.webp"
   },
   {
     "brand": "Velbon",
@@ -85645,7 +85812,8 @@
     "weightGrams": 2670,
     "maxLoad": "12kg",
     "legSections": 4,
-    "material": "Carbon fiber legs, magnesium alloy body"
+    "material": "Carbon fiber legs, magnesium alloy body",
+    "image_url": "/images/products/velbon/velbon-pro-geo-v840bw.webp"
   },
   {
     "brand": "NiSi",
@@ -85725,7 +85893,8 @@
     "releaseMonth": 7,
     "filterKind": "UV",
     "filterSizes": "49-82mm",
-    "material": "Hardened glass, aluminum frame"
+    "material": "Hardened glass, aluminum frame",
+    "image_url": "/images/products/hoya/hoya-hd-mk-ii-uv.webp"
   },
   {
     "brand": "Hoya",
@@ -85738,7 +85907,8 @@
     "releaseMonth": 11,
     "filterKind": "Light pollution (astro)",
     "filterSizes": "49-82mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-starscape.webp"
   },
   {
     "brand": "Hoya",
@@ -85751,7 +85921,8 @@
     "releaseMonth": 3,
     "filterKind": "Polarizer (Sq100 filter system)",
     "filterSizes": "86mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/hoya/hoya-sq100-polarizer.webp"
   },
   {
     "brand": "Hoya",
@@ -85762,7 +85933,8 @@
     "officialUrl": "https://hoyafilter.com/product/prond100000/",
     "filterKind": "ND100000 (ND 5.0)",
     "filterSizes": "58mm, 67mm, 72mm, 77mm, 82mm, 95mm",
-    "material": "Optical glass, aluminum frame"
+    "material": "Optical glass, aluminum frame",
+    "image_url": "/images/products/hoya/hoya-prond100000.webp"
   },
   {
     "brand": "Zeiss",
@@ -85773,7 +85945,8 @@
     "officialUrl": "https://photo-shop.zeiss.com/UV-Filter-95mm/",
     "filterKind": "UV",
     "filterSizes": "43-95mm",
-    "material": "Glass (ZEISS T* anti-reflective coating)"
+    "material": "Glass (ZEISS T* anti-reflective coating)",
+    "image_url": "/images/products/zeiss/zeiss-t-uv-filter.webp"
   },
   {
     "brand": "Zeiss",
@@ -85783,7 +85956,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://photo-shop.zeiss.com/POL-Filter-72mm/",
     "filterKind": "Circular polarizer",
-    "material": "Glass (ZEISS T* anti-reflective coating)"
+    "material": "Glass (ZEISS T* anti-reflective coating)",
+    "image_url": "/images/products/zeiss/zeiss-t-pol-filter-circular.webp"
   },
   {
     "brand": "Marumi",
@@ -85821,7 +85995,8 @@
       "fujifilm-gfx-50s",
       "fujifilm-gfx-50r",
       "fujifilm-gfx-50s-ii"
-    ]
+    ],
+    "image_url": "/images/products/fringer/fringer-ef-gfx-pro.webp"
   },
   {
     "brand": "Fringer",
@@ -85839,7 +86014,8 @@
     ],
     "lensMount": "Nikon F",
     "hasElectronicContacts": true,
-    "material": "Full metal body, brass mounts"
+    "material": "Full metal body, brass mounts",
+    "image_url": "/images/products/fringer/fringer-nf-gfx.webp"
   },
   {
     "brand": "Fringer",
@@ -85857,7 +86033,8 @@
     ],
     "lensMount": "Pentax 645",
     "hasElectronicContacts": true,
-    "material": "Full metal body, brass/alloy mounts"
+    "material": "Full metal body, brass/alloy mounts",
+    "image_url": "/images/products/fringer/fringer-p645-gfx.webp"
   },
   {
     "brand": "Fringer",
@@ -85875,7 +86052,8 @@
     ],
     "lensMount": "Nikon F",
     "hasElectronicContacts": true,
-    "material": "Full metal body, brass mounts"
+    "material": "Full metal body, brass mounts",
+    "image_url": "/images/products/fringer/fringer-nf-fx-ii.webp"
   },
   {
     "brand": "Fringer",
@@ -85963,7 +86141,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Aluminum alloy and brass with chromium plating"
+    "material": "Aluminum alloy and brass with chromium plating",
+    "image_url": "/images/products/metabones/metabones-ef-efm-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Metabones",
@@ -85981,7 +86160,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Aluminum alloy and brass with chromium plating"
+    "material": "Aluminum alloy and brass with chromium plating",
+    "image_url": "/images/products/metabones/metabones-ef-x-speed-booster-ultra-0-71x-ii-plus.webp"
   },
   {
     "brand": "Metabones",
@@ -85999,7 +86179,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Aluminum alloy and brass with chromium plating"
+    "material": "Aluminum alloy and brass with chromium plating",
+    "image_url": "/images/products/metabones/metabones-ef-x-cine-speed-booster-ultra-0-71x-ii-plus.webp"
   },
   {
     "brand": "Metabones",
@@ -86017,7 +86198,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Aluminum alloy and brass with chromium plating"
+    "material": "Aluminum alloy and brass with chromium plating",
+    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Metabones",
@@ -86035,7 +86217,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Brass with chromium plating"
+    "material": "Brass with chromium plating",
+    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x.webp"
   },
   {
     "brand": "Fujifilm",
@@ -86062,7 +86245,8 @@
       "fujifilm-gfx-50s",
       "fujifilm-gfx-50r",
       "fujifilm-gfx-eterna-55"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/fujifilm-h-mount-adapter-g.webp"
   },
   {
     "brand": "Leica",
@@ -87196,7 +87380,8 @@
       "fujifilm-finepix-hs50exr",
       "fujifilm-finepix-s1",
       "fujifilm-finepix-sl240"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/fujifilm-ef-x20.webp"
   },
   {
     "brand": "Canon",
@@ -87224,7 +87409,8 @@
     "hasTTL": true,
     "batterySpec": "2x AAA",
     "weightGrams": 141,
-    "dimensions": "65 x 72.5 x 31 mm"
+    "dimensions": "65 x 72.5 x 31 mm",
+    "image_url": "/images/products/pentax/pentax-af201fg.webp"
   },
   {
     "brand": "Pentax",
@@ -87241,7 +87427,8 @@
     "guideNumber": "16 (ISO 100, m)",
     "hasTTL": true,
     "batterySpec": "4x AA",
-    "weightGrams": 405
+    "weightGrams": 405,
+    "image_url": "/images/products/pentax/pentax-af160fc.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87256,7 +87443,8 @@
     "maxLoad": "39kg",
     "legSections": 4,
     "weightGrams": 1600,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-24.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87271,7 +87459,8 @@
     "maxLoad": "32kg",
     "legSections": 4,
     "weightGrams": 1700,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-24l.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87286,7 +87475,8 @@
     "maxLoad": "39kg",
     "legSections": 3,
     "weightGrams": 1800,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-33.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87301,7 +87491,8 @@
     "maxLoad": "39kg",
     "legSections": 4,
     "weightGrams": 1900,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-34.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87316,7 +87507,8 @@
     "maxLoad": "36kg",
     "legSections": 4,
     "weightGrams": 2100,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-34l.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87331,7 +87523,8 @@
     "maxLoad": "43kg",
     "legSections": 2,
     "weightGrams": 1940,
-    "material": "Carbon fiber legs, 6061-T6 aluminum"
+    "material": "Carbon fiber legs, 6061-T6 aluminum",
+    "image_url": "/images/products/really-right-stuff/rrs-versa-22i.webp"
   },
   {
     "brand": "Really Right Stuff",
@@ -87345,7 +87538,8 @@
     "foldedLength": "76cm",
     "maxLoad": "36kg",
     "legSections": 4,
-    "weightGrams": 1590
+    "weightGrams": 1590,
+    "image_url": "/images/products/really-right-stuff/rrs-versa-22ic.webp"
   },
   {
     "brand": "B+W",
@@ -87356,7 +87550,8 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/neutral-density/nd-filters",
     "filterKind": "ND (ND 0.6 / 0.9 / 1.8 / 3.0)",
     "filterSizes": "37-95mm",
-    "material": "Brass mount, specialty glass (MRC nano coating)"
+    "material": "Brass mount, specialty glass (MRC nano coating)",
+    "image_url": "/images/products/bww/bw-master-nd-mrc-nano.webp"
   },
   {
     "brand": "B+W",
@@ -87376,7 +87571,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/black-white-filter",
     "filterKind": "Black & white contrast (Yellow Y475 / Orange O550 / Red R610)",
-    "filterSizes": "37-95mm"
+    "filterSizes": "37-95mm",
+    "image_url": "/images/products/bww/bw-master-black-white.webp"
   },
   {
     "brand": "B+W",
@@ -87386,7 +87582,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/infrared-filter",
     "filterKind": "Infrared (IR 830)",
-    "filterSizes": "37-86mm"
+    "filterSizes": "37-86mm",
+    "image_url": "/images/products/bww/bw-master-ir-830.webp"
   },
   {
     "brand": "B+W",
@@ -87396,7 +87593,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/mistfilter",
     "filterKind": "Mist diffusion (White Mist / Black Mist, 1/8, 1/4, 1/2, 1)",
-    "filterSizes": "39-95mm"
+    "filterSizes": "39-95mm",
+    "image_url": "/images/products/bww/bw-mist.webp"
   },
   {
     "brand": "B+W",
@@ -87416,7 +87614,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
     "filterKind": "UV-Haze",
-    "filterSizes": "37-105mm"
+    "filterSizes": "37-105mm",
+    "image_url": "/images/products/bww/bw-basic-010-uv-haze.webp"
   },
   {
     "brand": "Leica",
