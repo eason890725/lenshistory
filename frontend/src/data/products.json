@@ -28511,7 +28511,9 @@
     "releaseMonth": 1,
     "evfMagnification": "None",
     "afRange": "EV 0 to 20",
-    "logSupport": "None"
+    "logSupport": "None",
+    "launchKitPrice": 16980,
+    "launchKitLens": "E PZ 16-50mm F3.5-5.6 OSS"
   },
   {
     "id": "sony-ilce-qx1",
@@ -38174,7 +38176,8 @@
     "hasApertureRing": false,
     "retailPrice": 235000,
     "retailPriceDate": "2026-10",
-    "hasCustomButton": true
+    "hasCustomButton": true,
+    "launchPrice": 235000
   },
   {
     "id": "olympus-m-zuiko-digital-ed-100-400mm-f5-0-6-3-is",
@@ -39439,7 +39442,9 @@
     "hasWeatherSeal": false,
     "hasIBIS": false,
     "logSupport": "None",
-    "evfMagnification": "None"
+    "evfMagnification": "None",
+    "launchKitPrice": 19900,
+    "launchKitLens": "LUMIX G VARIO 12-32mm F3.5-5.6 ASPH. MEGA O.I.S."
   },
   {
     "id": "panasonic-lumix-gx9",
@@ -40259,7 +40264,8 @@
     "hasOIS": false,
     "hasWeatherSeal": false,
     "retailPrice": 5990,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "launchPrice": 5990
   },
   {
     "id": "panasonic-lumix-g-vario-12-60mm-f3-5-5-6-asph-power-o-i-s",
@@ -46521,7 +46527,9 @@
     "hasIBIS": false,
     "evfMagnification": "None",
     "image_url": "/images/products/samsung/samsung-nx1000.webp",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchKitPrice": 19990,
+    "launchKitLens": "Samsung NX 20-50mm F3.5-5.6 ED"
   },
   {
     "id": "samsung-nx300",
@@ -59781,7 +59789,8 @@
     "evfMagnification": "None",
     "burstSpeed": "30fps",
     "ports": "USB 3.0, HDMI, mic",
-    "image_url": "/images/products/gopro/gopro-hero5-black.webp"
+    "image_url": "/images/products/gopro/gopro-hero5-black.webp",
+    "launchPrice": 15500
   },
   {
     "id": "gopro-hero5-session",
@@ -65709,7 +65718,8 @@
     "isoRange": "80-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 7990
   },
   {
     "id": "canon-powershot-sx710-hs",
@@ -65737,7 +65747,8 @@
     "isoRange": "100-3200",
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 10990
   },
   {
     "id": "canon-ixus-160",
@@ -66004,7 +66015,8 @@
     "cardSlots": "1x SD/SDHC/SDXC (UHS-I)",
     "afPoints": "9 points",
     "hasIBIS": false,
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 11990
   },
   {
     "id": "canon-powershot-sx70-hs",
@@ -72933,7 +72945,8 @@
     "ports": "USB 2.0, HDMI",
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
     "afPoints": "9 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 13980
   },
   {
     "id": "sony-cyber-shot-dsc-hx99",
@@ -73257,7 +73270,8 @@
     "cardSlots": "1x SD/SDHC/SDXC, Memory Stick Duo",
     "image_url": "/images/products/sony/sony-cyber-shot-dsc-wx500.webp",
     "afPoints": "9 points",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "launchPrice": 11980
   },
   {
     "id": "sony-cyber-shot-dsc-wx800",
@@ -78058,7 +78072,9 @@
       "sony-fe-400mm-f4-5-gm-oss",
       "sony-fe-600mm-f6-3-gm-oss",
       "sony-fe-70-200mm-f2-8-gm-oss-ii"
-    ]
+    ],
+    "retailPrice": 17980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -78095,7 +78111,9 @@
       "sony-fe-400mm-f4-5-gm-oss",
       "sony-fe-600mm-f6-3-gm-oss",
       "sony-fe-70-200mm-f2-8-gm-oss-ii"
-    ]
+    ],
+    "retailPrice": 17980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78163,7 +78181,9 @@
       "canon-rf-100-400mm-f5-6-8-is-usm",
       "canon-rf-100-500mm-f4-5-7-1l-is-usm",
       "canon-rf-200-800mm-f6-3-9-is-usm"
-    ]
+    ],
+    "retailPrice": 18200,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -78264,7 +78284,9 @@
       "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
       "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr"
     ],
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 15800,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Fujifilm",
@@ -78295,7 +78317,9 @@
       "fujifilm-xf-100-400mm-f4-5-5-6-r-lm-ois-wr",
       "fujifilm-xf-150-600mm-f5-6-8-r-lm-ois-wr"
     ],
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 13900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Fujifilm",
@@ -78321,7 +78345,9 @@
       "fujifilm-gf-250mm-f4-r-lm-ois-wr",
       "fujifilm-gf-500mm-f5-6-r-lm-ois-wr",
       "fujifilm-gf-100-200mm-f5-6-r-lm-ois-wr"
-    ]
+    ],
+    "retailPrice": 26900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "OM System",
@@ -78569,7 +78595,9 @@
         }
       }
     ],
-    "magnification": "1.4x"
+    "magnification": "1.4x",
+    "retailPrice": 30400,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Leica",
@@ -78677,7 +78705,9 @@
     "releaseMonth": 9,
     "weightGrams": 130,
     "dimensions": "Ø74.4 x 24 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 6900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78698,7 +78728,9 @@
     "releaseMonth": 9,
     "weightGrams": 121,
     "dimensions": "Ø73.2 x 24 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 10300,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78719,7 +78751,9 @@
     "releaseMonth": 9,
     "weightGrams": 121,
     "dimensions": "Ø73.2 x 24 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 13800,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -78966,7 +79000,9 @@
     "lensMount": "Canon EF",
     "weightGrams": 138,
     "dimensions": "72 x 82 x 30 mm",
-    "image_url": "/images/products/viltrox/viltrox-ef-l-pro.webp"
+    "image_url": "/images/products/viltrox/viltrox-ef-l-pro.webp",
+    "retailPrice": 4900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Viltrox",
@@ -78985,7 +79021,9 @@
     "lensMount": "Nikon F",
     "weightGrams": 92,
     "dimensions": "Ø61 x 29 mm",
-    "image_url": "/images/products/viltrox/viltrox-nf-e1.webp"
+    "image_url": "/images/products/viltrox/viltrox-nf-e1.webp",
+    "retailPrice": 5500,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Viltrox",
@@ -79008,7 +79046,9 @@
       "nikon-z6",
       "nikon-z7"
     ],
-    "image_url": "/images/products/viltrox/viltrox-ef-z2.webp"
+    "image_url": "/images/products/viltrox/viltrox-ef-z2.webp",
+    "retailPrice": 5900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Viltrox",
@@ -79027,7 +79067,9 @@
     "lensMount": "Canon EF",
     "magnification": "0.71x",
     "opticalDesign": "4 elements in 4 groups",
-    "image_url": "/images/products/viltrox/viltrox-ef-e-ii.webp"
+    "image_url": "/images/products/viltrox/viltrox-ef-e-ii.webp",
+    "retailPrice": 4999,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Viltrox",
@@ -79045,7 +79087,9 @@
     ],
     "lensMount": "Sony E",
     "hasElectronicContacts": true,
-    "image_url": "/images/products/viltrox/viltrox-e-z.webp"
+    "image_url": "/images/products/viltrox/viltrox-e-z.webp",
+    "retailPrice": 4590,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Megadap",
@@ -79726,7 +79770,10 @@
     ],
     "dimensions": "128.9 x 52.7 x 67 mm",
     "weightGrams": 290,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "launchPrice": 11980,
+    "retailPrice": 11980,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -79800,7 +79847,9 @@
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
     "weightGrams": 455,
-    "image_url": "/images/products/nikon/nikon-mb-n12.webp"
+    "image_url": "/images/products/nikon/nikon-mb-n12.webp",
+    "retailPrice": 15500,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -79870,7 +79919,9 @@
     "dimensions": "138.5 x 105.7 x 60.9 mm",
     "weightGrams": 306,
     "batterySpec": "2x NP-W235",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 9900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Fujifilm",
@@ -79926,7 +79977,9 @@
     ],
     "dimensions": "147.5 x 52.1 x 67.9 mm",
     "weightGrams": 310,
-    "batterySpec": "1x NP-T125"
+    "batterySpec": "1x NP-T125",
+    "retailPrice": 19900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "OM System",
@@ -80118,7 +80171,9 @@
     "dimensions": "143.2 x 109.4 x 80.3 mm",
     "weightGrams": 354,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/canon/canon-bg-r20.webp"
+    "image_url": "/images/products/canon/canon-bg-r20.webp",
+    "retailPrice": 10200,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -80141,7 +80196,9 @@
     "batterySpec": "4x AA",
     "weightGrams": 420,
     "dimensions": "73 x 137 x 103.5 mm",
-    "image_url": "/images/products/nikon/nikon-sb-5000.webp"
+    "image_url": "/images/products/nikon/nikon-sb-5000.webp",
+    "retailPrice": 16390,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Nikon",
@@ -80254,7 +80311,9 @@
     "weightGrams": 308,
     "dimensions": "69.4 x 114.7 x 88.9 mm",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sony/sony-hvl-f46rm.webp"
+    "image_url": "/images/products/sony/sony-hvl-f46rm.webp",
+    "retailPrice": 11480,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -80276,7 +80335,9 @@
     "batterySpec": "2x AA",
     "weightGrams": 219,
     "dimensions": "65.1 x 83.5 x 91.4 mm",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 8180,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Sony",
@@ -80323,7 +80384,9 @@
     "recycleTime": "1.2s",
     "batterySpec": "LP-EL",
     "weightGrams": 491,
-    "dimensions": "80.2 x 139.9 x 123.3 mm"
+    "dimensions": "80.2 x 139.9 x 123.3 mm",
+    "retailPrice": 12900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
