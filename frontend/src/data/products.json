@@ -24303,7 +24303,9 @@
     "opticalDesign": "23 elements in 17 groups",
     "officialUrl": "https://leica-camera.com/en-int/photography/lenses/sl/apo-vario-elmarit-sl-90-280mm-f2-8-4-black",
     "image_url": "/images/products/leica/leica-apo-vario-elmarit-sl-90-280-f2-8-4.webp",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "retailPrice": 233500,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "leica-summilux-sl-50-f1-4-asph",
@@ -42578,7 +42580,9 @@
     "filterSizeMm": 49,
     "weightGrams": 440,
     "image_url": "/images/products/leica/leica-summilux-m-28-f1-4-asph.webp",
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "retailPrice": 258100,
+    "retailPriceDate": "2026-11"
   },
   {
     "id": "leica-summaron-m-28-f5-6",
@@ -79220,7 +79224,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/nisi-v7",
     "filterKind": "100mm square filter holder (with True Color CPL)",
-    "filterSizes": "100mm square"
+    "filterSizes": "100mm square",
+    "retailPrice": 5800,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "NiSi",
@@ -80401,7 +80407,9 @@
     "wirelessSystem": "Radio / Optical",
     "recycleTime": "0.9s",
     "batterySpec": "LP-EL",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "retailPrice": 33900,
+    "retailPriceDate": "2026-11"
   },
   {
     "brand": "Canon",
@@ -80536,5 +80544,2154 @@
     "batterySpec": "7.2V 2980mAh Li-ion",
     "retailPrice": 7390,
     "retailPriceDate": "2026-11"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-C",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-N",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-S",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-F",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm",
+    "zoomRange": "20-200mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-O",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-o",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Olympus / Panasonic"
+    ],
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V860III-P",
+    "gearType": "ACCESSORY",
+    "id": "godox-v860iii-p",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.godox.com/product-d/V860III.html",
+    "compatibleSystems": [
+      "Pentax"
+    ],
+    "zoomRange": "20-200mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.5s",
+    "batterySpec": "Li-ion 7.2V/2600mAh",
+    "weightGrams": 410,
+    "dimensions": "75 x 59 x 195 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT30Pro-C",
+    "gearType": "ACCESSORY",
+    "id": "godox-it30pro-c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlit30pro.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "guideNumber": "15 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Built-in Li-ion 7.4V/900mAh",
+    "weightGrams": 120,
+    "dimensions": "65 x 46 x 47 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT30Pro-N",
+    "gearType": "ACCESSORY",
+    "id": "godox-it30pro-n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlit30pro.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "guideNumber": "15 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Built-in Li-ion 7.4V/900mAh",
+    "weightGrams": 120,
+    "dimensions": "65 x 46 x 47 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT30Pro-S",
+    "gearType": "ACCESSORY",
+    "id": "godox-it30pro-s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlit30pro.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "guideNumber": "15 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Built-in Li-ion 7.4V/900mAh",
+    "weightGrams": 120,
+    "dimensions": "65 x 46 x 47 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT30Pro-F",
+    "gearType": "ACCESSORY",
+    "id": "godox-it30pro-f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlit30pro.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "guideNumber": "15 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Built-in Li-ion 7.4V/900mAh",
+    "weightGrams": 120,
+    "dimensions": "65 x 46 x 47 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox iT30Pro-O",
+    "gearType": "ACCESSORY",
+    "id": "godox-it30pro-o",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlit30pro.html",
+    "compatibleSystems": [
+      "OM / Panasonic"
+    ],
+    "guideNumber": "15 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Built-in Li-ion 7.4V/900mAh",
+    "weightGrams": 120,
+    "dimensions": "65 x 46 x 47 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox TT350C",
+    "gearType": "ACCESSORY",
+    "id": "godox-tt350c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godoxtt350.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "guideNumber": "36 (1/1, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "2.4GHz Radio",
+    "recycleTime": "0.1-2.2s",
+    "batterySpec": "2x AA",
+    "weightGrams": 200,
+    "dimensions": "140 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox TT350N",
+    "gearType": "ACCESSORY",
+    "id": "godox-tt350n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godoxtt350.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "guideNumber": "36 (1/1, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "2.4GHz Radio",
+    "recycleTime": "0.1-2.2s",
+    "batterySpec": "2x AA",
+    "weightGrams": 200,
+    "dimensions": "140 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox TT350S",
+    "gearType": "ACCESSORY",
+    "id": "godox-tt350s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godoxtt350.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "guideNumber": "36 (1/1, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "2.4GHz Radio",
+    "recycleTime": "0.1-2.2s",
+    "batterySpec": "2x AA",
+    "weightGrams": 200,
+    "dimensions": "140 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox TT350F",
+    "gearType": "ACCESSORY",
+    "id": "godox-tt350f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godoxtt350.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "guideNumber": "36 (1/1, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "2.4GHz Radio",
+    "recycleTime": "0.1-2.2s",
+    "batterySpec": "2x AA",
+    "weightGrams": 200,
+    "dimensions": "140 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V350C",
+    "gearType": "ACCESSORY",
+    "id": "godox-v350c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-v350.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "guideNumber": "36 (ISO 100, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasHSS": true,
+    "recycleTime": "0.1-1.7s",
+    "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
+    "weightGrams": 290,
+    "dimensions": "150 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V350N",
+    "gearType": "ACCESSORY",
+    "id": "godox-v350n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-v350.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "guideNumber": "36 (ISO 100, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasHSS": true,
+    "recycleTime": "0.1-1.7s",
+    "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
+    "weightGrams": 290,
+    "dimensions": "150 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V350S",
+    "gearType": "ACCESSORY",
+    "id": "godox-v350s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-v350.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "guideNumber": "36 (ISO 100, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasHSS": true,
+    "recycleTime": "0.1-1.7s",
+    "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
+    "weightGrams": 290,
+    "dimensions": "150 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V350F",
+    "gearType": "ACCESSORY",
+    "id": "godox-v350f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-v350.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "guideNumber": "36 (ISO 100, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasHSS": true,
+    "recycleTime": "0.1-1.7s",
+    "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
+    "weightGrams": 290,
+    "dimensions": "150 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V350O",
+    "gearType": "ACCESSORY",
+    "id": "godox-v350o",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-v350.html",
+    "compatibleSystems": [
+      "Olympus / Panasonic"
+    ],
+    "guideNumber": "36 (ISO 100, 105mm)",
+    "zoomRange": "24-105mm",
+    "hasHSS": true,
+    "recycleTime": "0.1-1.7s",
+    "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
+    "weightGrams": 290,
+    "dimensions": "150 x 62 x 38 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V480C",
+    "gearType": "ACCESSORY",
+    "id": "godox-v480c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlv480.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "guideNumber": "50 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Li-ion VB22",
+    "weightGrams": 361,
+    "dimensions": "71 x 49 x 166 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V480N",
+    "gearType": "ACCESSORY",
+    "id": "godox-v480n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlv480.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "guideNumber": "50 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Li-ion VB22",
+    "weightGrams": 361,
+    "dimensions": "71 x 49 x 166 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V480S",
+    "gearType": "ACCESSORY",
+    "id": "godox-v480s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlv480.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "guideNumber": "50 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Li-ion VB22",
+    "weightGrams": 361,
+    "dimensions": "71 x 49 x 166 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V480F",
+    "gearType": "ACCESSORY",
+    "id": "godox-v480f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlv480.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "guideNumber": "50 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Li-ion VB22",
+    "weightGrams": 361,
+    "dimensions": "71 x 49 x 166 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V480O",
+    "gearType": "ACCESSORY",
+    "id": "godox-v480o",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-ttlv480.html",
+    "compatibleSystems": [
+      "OM / Panasonic"
+    ],
+    "guideNumber": "50 (ISO 100, m)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Godox 2.4GHz X",
+    "batterySpec": "Li-ion VB22",
+    "weightGrams": 361,
+    "dimensions": "71 x 49 x 166 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V100C",
+    "gearType": "ACCESSORY",
+    "id": "godox-v100c",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-100wsv100.html",
+    "compatibleSystems": [
+      "Canon"
+    ],
+    "zoomRange": "28-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.7s",
+    "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
+    "weightGrams": 616,
+    "dimensions": "71.5 x 76 x 206 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V100N",
+    "gearType": "ACCESSORY",
+    "id": "godox-v100n",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-100wsv100.html",
+    "compatibleSystems": [
+      "Nikon"
+    ],
+    "zoomRange": "28-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.7s",
+    "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
+    "weightGrams": 616,
+    "dimensions": "71.5 x 76 x 206 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V100S",
+    "gearType": "ACCESSORY",
+    "id": "godox-v100s",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-100wsv100.html",
+    "compatibleSystems": [
+      "Sony"
+    ],
+    "zoomRange": "28-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.7s",
+    "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
+    "weightGrams": 616,
+    "dimensions": "71.5 x 76 x 206 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V100F",
+    "gearType": "ACCESSORY",
+    "id": "godox-v100f",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-100wsv100.html",
+    "compatibleSystems": [
+      "Fujifilm"
+    ],
+    "zoomRange": "28-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.7s",
+    "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
+    "weightGrams": 616,
+    "dimensions": "71.5 x 76 x 206 mm"
+  },
+  {
+    "brand": "Godox",
+    "modelName": "Godox V100O",
+    "gearType": "ACCESSORY",
+    "id": "godox-v100o",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.kenko-pi.co.jp/brands/godox/godox-100wsv100.html",
+    "compatibleSystems": [
+      "OM / Olympus / Panasonic"
+    ],
+    "zoomRange": "28-105mm",
+    "hasTTL": true,
+    "hasHSS": true,
+    "recycleTime": "1.7s",
+    "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
+    "weightGrams": 616,
+    "dimensions": "71.5 x 76 x 206 mm"
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX DMW-FL580L",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-fl580l",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://latam.connect.panasonic.com/mx/en/products/lumix/dmw-fl580lpp",
+    "compatibleSystems": [
+      "Panasonic LUMIX"
+    ],
+    "guideNumber": "58 (ISO 100, m)",
+    "zoomRange": "24-200mm (35mm equiv.; 12-100mm)",
+    "hasTTL": true,
+    "hasHSS": true,
+    "wirelessSystem": "Wireless (RC), 4 channels, 3 groups",
+    "recycleTime": "1.7s",
+    "batterySpec": "4x AA",
+    "weightGrams": 340,
+    "dimensions": "72.0 x 112.5 x 112.5 mm",
+    "compatibleWith": [
+      "panasonic-lumix-gh4",
+      "panasonic-lumix-gh3",
+      "panasonic-lumix-gx7",
+      "panasonic-lumix-g6",
+      "panasonic-lumix-gf6"
+    ]
+  },
+  {
+    "brand": "Panasonic",
+    "modelName": "Panasonic LUMIX DMW-FL200L",
+    "gearType": "ACCESSORY",
+    "id": "panasonic-dmw-fl200l",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://latam.connect.panasonic.com/mx/en/products/lumix/dmw-fl200lpp",
+    "compatibleSystems": [
+      "Panasonic LUMIX"
+    ],
+    "guideNumber": "20 (ISO 100, m)",
+    "hasTTL": true,
+    "wirelessSystem": "Wireless (RC), 4 channels, 3 groups",
+    "recycleTime": "3.0s (Ni-MH) / 4.0s (alkaline)",
+    "batterySpec": "2x AA",
+    "weightGrams": 180,
+    "dimensions": "61.0 x 52.5 x 82.0 mm",
+    "compatibleWith": [
+      "panasonic-lumix-gh4",
+      "panasonic-lumix-gh4r",
+      "panasonic-lumix-gh3",
+      "panasonic-lumix-gx8",
+      "panasonic-lumix-gx7",
+      "panasonic-lumix-gm5",
+      "panasonic-lumix-g7",
+      "panasonic-lumix-g6",
+      "panasonic-lumix-gf6"
+    ]
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Speedlight SB-910",
+    "gearType": "ACCESSORY",
+    "id": "nikon-sb-910",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.nikon.com/company/news/2011/1130_speedlight_01/",
+    "releaseYear": 2011,
+    "releaseMonth": 11,
+    "compatibleSystems": [
+      "Nikon Creative Lighting System"
+    ],
+    "guideNumber": "34 (ISO 100, m, 35mm, FX)",
+    "zoomRange": "17-200mm"
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon Speedlight SB-N7",
+    "gearType": "ACCESSORY",
+    "id": "nikon-sb-n7",
+    "accessoryType": "FLASH",
+    "officialUrl": "https://www.nikc.nikon.com/product/speedlight/Speedlight_SB-N7",
+    "compatibleSystems": [
+      "Nikon 1 (Multi Accessory Port)"
+    ],
+    "guideNumber": "18 (ISO 100, m)",
+    "hasTTL": true,
+    "batterySpec": "2x AAA",
+    "weightGrams": 92,
+    "dimensions": "57.4 x 68.4 x 62.3 mm"
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Battery Grip BG-R10",
+    "gearType": "ACCESSORY",
+    "id": "canon-bg-r10",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://faq.canon.jp/app/answers/detail/a_id/101683/",
+    "releaseYear": 2020,
+    "releaseMonth": 7,
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r5-c",
+      "canon-eos-r6-mark-iii"
+    ],
+    "dimensions": "143.2 x 109.4 x 81.0 mm",
+    "weightGrams": 351,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Battery Grip BG-E22",
+    "gearType": "ACCESSORY",
+    "id": "canon-bg-e22",
+    "accessoryType": "BATTERY_GRIP",
+    "officialUrl": "https://faq.canon.jp/app/answers/detail/a_id/94859/",
+    "releaseYear": 2018,
+    "releaseMonth": 9,
+    "compatibleWith": [
+      "canon-eos-r"
+    ],
+    "batterySpec": "1-2x LP-E6 / LP-E6N / LP-E6NH",
+    "dimensions": "143.2 x 109.9 x 80.1 mm",
+    "weightGrams": 330,
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Mount Adapter LA-EA5",
+    "gearType": "ACCESSORY",
+    "id": "sony-la-ea5",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sony.jp/ichigan/products/LA-EA5/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sony A",
+    "releaseYear": 2020,
+    "releaseMonth": 9,
+    "weightGrams": 88,
+    "dimensions": "Ø66.0 x 31.7 mm"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Mount Adapter LA-EA4",
+    "gearType": "ACCESSORY",
+    "id": "sony-la-ea4",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sony.jp/ichigan/products/LA-EA4/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sony A",
+    "weightGrams": 160,
+    "dimensions": "78.5 x 86.5 x 44.5 mm"
+  },
+  {
+    "brand": "Sony",
+    "modelName": "Sony Mount Adapter LA-EA3",
+    "gearType": "ACCESSORY",
+    "id": "sony-la-ea3",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sony.jp/ichigan/products/LA-EA3/index.html",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Sony A",
+    "weightGrams": 105,
+    "dimensions": "76 x 69 x 35 mm"
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Extender EF1.4x III",
+    "gearType": "ACCESSORY",
+    "id": "canon-extender-ef-1-4x-iii",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://asia.canon/en/consumer/extender-ef-1-4x-iii/main/specification",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "opticalDesign": "7 elements in 3 groups",
+    "weightGrams": 225,
+    "dimensions": "Ø72.0 x 27.2 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2010
+  },
+  {
+    "brand": "Canon",
+    "modelName": "Canon Extender EF2x III",
+    "gearType": "ACCESSORY",
+    "id": "canon-extender-ef-2x-iii",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://asia.canon/en/consumer/extender-ef-2x-iii/main/specification",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Canon EF"
+        }
+      }
+    ],
+    "magnification": "2x",
+    "opticalDesign": "9 elements in 5 groups",
+    "weightGrams": 325,
+    "dimensions": "Ø72.0 x 52.7 mm",
+    "hasWeatherSeal": true,
+    "releaseYear": 2010
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon AF-S TELECONVERTER TC-14E III",
+    "gearType": "ACCESSORY",
+    "id": "nikon-af-s-teleconverter-tc-14e-iii",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/f-mount/teleconverters/af-s_tc-14e_3/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "magnification": "1.4x",
+    "opticalDesign": "7 elements in 4 groups",
+    "weightGrams": 190,
+    "dimensions": "Ø64 x 24.5 mm",
+    "releaseYear": 2014,
+    "releaseMonth": 5
+  },
+  {
+    "brand": "Nikon",
+    "modelName": "Nikon AF-S TELECONVERTER TC-20E III",
+    "gearType": "ACCESSORY",
+    "id": "nikon-af-s-teleconverter-tc-20e-iii",
+    "accessoryType": "TELECONVERTER",
+    "officialUrl": "https://imaging.nikon.com/imaging/lineup/lens/f-mount/teleconverters/af-s_tc-20e_3/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon F"
+        }
+      }
+    ],
+    "magnification": "2x",
+    "opticalDesign": "7 elements in 5 groups",
+    "weightGrams": 330,
+    "dimensions": "Ø66 x 48 mm",
+    "releaseYear": 2009,
+    "releaseMonth": 12
+  },
+  {
+    "brand": "Sigma",
+    "modelName": "Sigma Mount Converter MC-31",
+    "gearType": "ACCESSORY",
+    "id": "sigma-mc-31-pl-l",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.sigma-global.com/en/accessories/mc-31/",
+    "mounts": [
+      {
+        "mount": {
+          "name": "L-Mount"
+        }
+      }
+    ],
+    "lensMount": "PL",
+    "weightGrams": 330,
+    "dimensions": "Ø84.4 x 42 mm"
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to Fuji X mount T Speed Booster ULTRA 0.71x (MB_SPEF-X-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-x-speed-booster-ultra-0-71x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPEF-X-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "magnification": "0.71x",
+    "compatibleWith": [
+      "fujifilm-x-a1",
+      "fujifilm-x-h1",
+      "fujifilm-x-h2",
+      "fujifilm-x-h2s",
+      "fujifilm-x-pro1",
+      "fujifilm-x-pro2",
+      "fujifilm-x-pro3",
+      "fujifilm-x-t3",
+      "fujifilm-x-t4",
+      "fujifilm-x-t30",
+      "fujifilm-x-t100"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to Fuji X mount T Smart Adapter (MB_EF-X-BT1)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-x-smart-adapter",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_EF-X-BT1",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "compatibleWith": [
+      "fujifilm-x-a1",
+      "fujifilm-x-h1",
+      "fujifilm-x-h2",
+      "fujifilm-x-h2s",
+      "fujifilm-x-pro1",
+      "fujifilm-x-pro2",
+      "fujifilm-x-pro3",
+      "fujifilm-x-t3",
+      "fujifilm-x-t4",
+      "fujifilm-x-t30",
+      "fujifilm-x-t100"
+    ]
+  },
+  {
+    "brand": "Metabones",
+    "modelName": "Metabones Canon EF Lens to Micro Four Thirds T CINE Speed Booster XL 0.64x (MB_SPEF-M43-BT6)",
+    "gearType": "ACCESSORY",
+    "id": "metabones-ef-m43-cine-speed-booster-xl-0-64x",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://www.metabones.com/products/details/MB_SPEF-M43-BT6",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Micro Four Thirds"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "magnification": "0.64x",
+    "compatibleWith": [
+      "panasonic-lumix-gh7",
+      "panasonic-lumix-gh6",
+      "panasonic-lumix-gh5ii",
+      "panasonic-lumix-gh5s",
+      "panasonic-lumix-gh5",
+      "panasonic-lumix-gh4",
+      "panasonic-lumix-gh3",
+      "panasonic-lumix-g5",
+      "panasonic-lumix-g6",
+      "panasonic-lumix-g7",
+      "panasonic-lumix-g9",
+      "panasonic-lumix-g9ii",
+      "panasonic-lumix-gf5",
+      "panasonic-lumix-gf6",
+      "panasonic-lumix-gx8",
+      "panasonic-lumix-gx85",
+      "panasonic-lumix-gx9",
+      "olympus-pen-e-pl7",
+      "olympus-pen-f"
+    ]
+  },
+  {
+    "brand": "Techart",
+    "modelName": "Techart PRO Leica M - Sony E Autofocus Adapter ver II (LM-EA9)",
+    "gearType": "ACCESSORY",
+    "id": "techart-lm-ea9",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://techartpro.com/?product=lmea9",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Sony E"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "compatibleWith": [
+      "sony-a7r-vi",
+      "sony-a7r-v",
+      "sony-a7r-iv",
+      "sony-a7r",
+      "sony-a1",
+      "sony-a9-ii",
+      "sony-a7c",
+      "sony-a6600",
+      "sony-zv-e10"
+    ]
+  },
+  {
+    "brand": "Techart",
+    "modelName": "Techart PRO Leica M - Nikon Z Autofocus Adapter ver II (TZM-02)",
+    "gearType": "ACCESSORY",
+    "id": "techart-tzm-02",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://techartpro.com/?product=techart-pro-leica-m-nikon-z-autofocus-adapter-ver-ii-tzm02",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Leica M",
+    "compatibleWith": [
+      "nikon-zf",
+      "nikon-z8",
+      "nikon-z9",
+      "nikon-z7-ii",
+      "nikon-z7",
+      "nikon-z6-ii",
+      "nikon-z6",
+      "nikon-z5",
+      "nikon-z50",
+      "nikon-zfc",
+      "nikon-z30"
+    ]
+  },
+  {
+    "brand": "Techart",
+    "modelName": "Techart Canon EF - Nikon Z Autofocus Adapter (TZC-01)",
+    "gearType": "ACCESSORY",
+    "id": "techart-tzc-01",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "http://techartpro.com/?product=techart-canon-ef-nikon-z-autofocus-adapter-tzc-01",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "compatibleWith": [
+      "nikon-z6",
+      "nikon-z7"
+    ]
+  },
+  {
+    "brand": "Techart",
+    "modelName": "Techart Canon EF Lens to Hasselblad X1D Autofocus Adapter TCX-01 (EF-X1D)",
+    "gearType": "ACCESSORY",
+    "id": "techart-tcx-01",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "http://techartpro.com/?product=techart-canon-ef-lens-to-hasselblad-x1d-autofocus-adapter-ef-x1d",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Hasselblad X"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "compatibleWith": [
+      "hasselblad-x1d-50c"
+    ]
+  },
+  {
+    "brand": "Fringer",
+    "modelName": "Fringer EF-NZ II (FR-NZ2)",
+    "gearType": "ACCESSORY",
+    "id": "fringer-ef-nz-ii",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://fringeradapter.com/canon-ef-to-nikon-z",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Nikon Z"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "material": "Brass lens and camera mounts, alloy body",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fringer",
+    "modelName": "Fringer EF-FX Pro III (FR-FX3)",
+    "gearType": "ACCESSORY",
+    "id": "fringer-ef-fx-pro-iii",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://fringeradapter.com/canon-ef-to-fujifilm-x",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "hasElectronicContacts": true,
+    "material": "Brass bayonets",
+    "hasWeatherSeal": true
+  },
+  {
+    "brand": "Fringer",
+    "modelName": "Fringer EF-FX Ultra (FR-FX071)",
+    "gearType": "ACCESSORY",
+    "id": "fringer-ef-fx-ultra",
+    "accessoryType": "MOUNT_ADAPTER",
+    "officialUrl": "https://fringeradapter.com/canon-ef-to-fujifilm-x",
+    "mounts": [
+      {
+        "mount": {
+          "name": "Fujifilm X"
+        }
+      }
+    ],
+    "lensMount": "Canon EF",
+    "opticalDesign": "5 elements in 2 groups"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Sony ZV-E1 (4256)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4256",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Sony-ZV-E1-4256.html",
+    "compatibleWith": [
+      "sony-zv-e1"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z f (4261)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4261",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/de/smallrig-camera-accessories-for-nikon-zf.html",
+    "compatibleWith": [
+      "nikon-zf"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R50 (4214)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4214",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Canon-EOS-R50-4214.html",
+    "compatibleWith": [
+      "canon-eos-r50"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Full Cage for Canon EOS R5 / R6 / R5 C (2982B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-2982b",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/smallrig-full-camera-cage-for-r5-r6-r5-c-2982b-new-version.html",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r5-c"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Black Mamba\" Cage for Canon EOS R5 C / R5 / R6 (3233B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3233b",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/de/smallrig-eos-r5-r5c-r6-black-mamba-camera-cage-3233b.html",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r5-c"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Canon EOS R5 / R6 / R5 C / R6 Mark II / R6 Mark III with BG-R10 Battery Grip (3464B)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-3464b",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/SmallRig-Cage-for-Canon-EOS-R5--R6--R5C--R6-Mark-II-with-BG-R10-Battery-Grip-3464B.html",
+    "compatibleWith": [
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r5-c",
+      "canon-eos-r6-ii",
+      "canon-eos-r6-mark-iii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z 5 / Z 5II / Z 6 / Z 6II / Z 7 / Z 7II (5257)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-5257",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Nikon-Z5II-5257.html",
+    "compatibleWith": [
+      "nikon-z5",
+      "nikon-z5-ii",
+      "nikon-z6",
+      "nikon-z6-ii",
+      "nikon-z7",
+      "nikon-z7-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig Cage for Nikon Z50 II (4980)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4980",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-Nikon-Z50-II-4980.html",
+    "compatibleWith": [
+      "nikon-z50-ii"
+    ]
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Retro\" Cage for FUJIFILM X-T50 (4714)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4714",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Cage-for-FUJIFILM-X-T50.html",
+    "compatibleWith": [
+      "fujifilm-x-t50"
+    ],
+    "material": "Aluminum alloy, Wood"
+  },
+  {
+    "brand": "SmallRig",
+    "modelName": "SmallRig \"Retro\" Cage for FUJIFILM X-M5 (4892)",
+    "gearType": "ACCESSORY",
+    "id": "smallrig-cage-4892",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.smallrig.com/Retro-Cage-for-FUJIFILM-X-M5-4892.html",
+    "compatibleWith": [
+      "fujifilm-x-m5"
+    ],
+    "material": "Aluminum alloy, Wood"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Nikon Z8",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-nikon-z8-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-nikon-z8/",
+    "compatibleWith": [
+      "nikon-z8"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Sony FX3/FX30 V2 (TA-T16-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t16-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-sony-fx3-fx30-v2/",
+    "compatibleWith": [
+      "sony-fx3",
+      "sony-fx30"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Sony Alpha 7 V (TA-T100-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t100-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-sony-alpha-7-v-black/",
+    "compatibleWith": [
+      "sony-a7-v",
+      "sony-a7-iv",
+      "sony-a7r-v"
+    ],
+    "material": "Aluminum alloy, SUS304, Silicone"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Sony a7 IV (TA-T30-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t30-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-sony-a7-iv-black/",
+    "compatibleWith": [
+      "sony-a7-iv",
+      "sony-a1",
+      "sony-a7s-iii",
+      "sony-a7r-iv",
+      "sony-a7r-v",
+      "sony-a7-iii",
+      "sony-a7r-iii",
+      "sony-a9"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage with Cooling System for Canon R5 Mark II (TA-T68-FCC2-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t68-fcc2",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-with-cooling-system-for-canon-r5-mark-ii-black/",
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ],
+    "material": "Aluminum alloy, SUS304, Silicone"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Half Camera Cage for Canon R5 Mark II (TA-T68-HCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t68-hcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/half-camera-cage-for-canon-r5-mark-ii-black/",
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ],
+    "material": "Aluminum alloy, SUS304, Silicone"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Canon R6 Mark III (TA-T99-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t99-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-canon-r6-mark-iii-black/",
+    "compatibleWith": [
+      "canon-eos-r6-mark-iii",
+      "canon-eos-r5-ii"
+    ],
+    "material": "Aluminum alloy, SUS304, Silicone"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Sony FX2 (TA-T88-FCC)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t88-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-sony-fx2/",
+    "compatibleWith": [
+      "sony-fx2"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "Tilta",
+    "modelName": "Tilta Full Camera Cage for Panasonic GH7/GH6 (TA-T15-FCC-B)",
+    "gearType": "ACCESSORY",
+    "id": "tilta-cage-ta-t15-fcc",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://tilta.com/shop/full-camera-cage-for-panasonic-gh6-black/",
+    "compatibleWith": [
+      "panasonic-lumix-gh7",
+      "panasonic-lumix-gh6"
+    ],
+    "material": "Aluminum alloy, Stainless steel"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Sony a7SIII / a7IV / a7RV (8-a7SIII C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-a7siii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-sony-a7siii.html",
+    "compatibleWith": [
+      "sony-a7s-iii",
+      "sony-a7-iv",
+      "sony-a7r-v"
+    ],
+    "weightGrams": 165,
+    "dimensions": "148 x 104 x 68 mm"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Sony FX3 / FX30 (8-FX3 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-fx3",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-sony-fx3.html",
+    "compatibleWith": [
+      "sony-fx3",
+      "sony-fx30"
+    ],
+    "weightGrams": 220,
+    "dimensions": "147 x 94 x 62 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Camera Cage for Canon EOS R5 Mark II (8-R5MII C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-r5mii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/camera-cage-for-canon-eos-r5-mark-ii.html",
+    "compatibleWith": [
+      "canon-eos-r5-ii"
+    ],
+    "weightGrams": 211,
+    "dimensions": "157 x 109 x 66 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for FUJIFILM X-H2 / X-H2S (8-FX-H2S)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-fx-h2s",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-fujifilm-x-h2-x-h2s.html",
+    "compatibleWith": [
+      "fujifilm-x-h2",
+      "fujifilm-x-h2s"
+    ],
+    "weightGrams": 167,
+    "dimensions": "153 x 102 x 62 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Canon EOS R/R5/R6/R6M II (8-CR-5-6 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-cr-5-6",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-canon-eos-r-r5-r6-r6m-ii.html",
+    "compatibleWith": [
+      "canon-eos-r",
+      "canon-eos-r5",
+      "canon-eos-r6",
+      "canon-eos-r6-ii"
+    ],
+    "weightGrams": 207,
+    "dimensions": "155 x 107 x 67 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Canon EOS R8 (8-CR8C C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-cr8c",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-canon-eos-r8.html",
+    "compatibleWith": [
+      "canon-eos-r8"
+    ],
+    "weightGrams": 162,
+    "dimensions": "148 x 99 x 53 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Canon EOS R7 (8-CR7C C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-cr7c",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-canon-eos-r7.html",
+    "compatibleWith": [
+      "canon-eos-r7"
+    ],
+    "weightGrams": 183,
+    "dimensions": "148 x 103 x 67 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Panasonic GH6 / GH7 (8-GH6 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-gh6",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-panasonic-gh6.html",
+    "compatibleWith": [
+      "panasonic-lumix-gh6",
+      "panasonic-lumix-gh7"
+    ],
+    "weightGrams": 186,
+    "dimensions": "151 x 114 x 66 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Panasonic LUMIX S5II / S5IIX / G9II (8-PS5II C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-ps5ii",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-panasonic-lumix-s5ii.html",
+    "compatibleWith": [
+      "panasonic-lumix-s5ii",
+      "panasonic-lumix-s5iix",
+      "panasonic-lumix-g9ii"
+    ],
+    "weightGrams": 224,
+    "dimensions": "154 x 114 x 70 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Camera Cage for Panasonic LUMIX S9 (8-LS9 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-ls9",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/camera-cage-for-panasonic-lumix-s9.html",
+    "compatibleWith": [
+      "panasonic-lumix-s9"
+    ],
+    "weightGrams": 210,
+    "dimensions": "142 x 44.3 x 91.39 mm",
+    "material": "Anodized aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn CNZR Camera Cage for Nikon ZR",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-cnzr",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/cnzr-camera-cage-for-nikon-zr.html",
+    "compatibleWith": [
+      "nikon-zr"
+    ],
+    "weightGrams": 206.17,
+    "dimensions": "152 x 60.3 x 97 mm",
+    "material": "Anodized aluminum (cage), Composite material (side grip)"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn CCR6V Camera Cage for Canon EOS R6 V",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-ccr6v",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/ccr6v-camera-cage-for-canon-eos-r6-v.html",
+    "compatibleWith": [
+      "canon-eos-r6-v"
+    ],
+    "weightGrams": 168.8,
+    "dimensions": "158 x 100.3 x 64.8 mm",
+    "material": "CNC-machined aluminum (black anodized)"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Nikon Z6 / Z7 / Z6 II / Z7 II Cage V2 (8-NZ6Z7 C V2)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-nz6z7-v2",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-nikon-z6-z7-cage.html",
+    "compatibleWith": [
+      "nikon-z6",
+      "nikon-z7",
+      "nikon-z6-ii",
+      "nikon-z7-ii"
+    ],
+    "weightGrams": 192,
+    "dimensions": "153 x 114 x 63 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Sony A1 - Without HDMI Lock Mount Option (8-SA1 C-NO-HDMI)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-sa1-no-hdmi",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-sony-a1-without-hdmi-lock-mount-option.html",
+    "compatibleWith": [
+      "sony-a1"
+    ],
+    "weightGrams": 169,
+    "dimensions": "148 x 105 x 67 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Cage for Sigma FP/FP L (8-SFPL C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-sfpl",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-cage-for-sigma-fp-l.html",
+    "compatibleWith": [
+      "sigma-fp",
+      "sigma-fp-l"
+    ],
+    "weightGrams": 269,
+    "dimensions": "140 x 91 x 54 mm"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn GH5 / GH5M2 / GH5S Cage V2 (8-GH5 C V2)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-gh5-v2",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/8sinn-gh5-gh5m2-gh5s-cage-v2.html",
+    "compatibleWith": [
+      "panasonic-lumix-gh5",
+      "panasonic-lumix-gh5ii",
+      "panasonic-lumix-gh5s"
+    ],
+    "weightGrams": 200,
+    "dimensions": "156 x 106 x 67 mm"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Camera Cage for Canon EOS R5C (8-CR5C C-V2)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-cr5c-v2",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/camera-cage-for-canon-eos-r5c.html",
+    "compatibleWith": [
+      "canon-eos-r5-c"
+    ],
+    "weightGrams": 227,
+    "dimensions": "159 x 107 x 77 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Camera Cage for Canon EOS C80 (8-C80 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-c80",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/camera-cage-for-canon-eos-c80.html",
+    "compatibleWith": [
+      "canon-eos-c80"
+    ],
+    "weightGrams": 307,
+    "dimensions": "118 x 160 x 101 mm",
+    "material": "Aluminum"
+  },
+  {
+    "brand": "8Sinn",
+    "modelName": "8Sinn Camera Cage for Canon EOS C50 (8-C50 C)",
+    "gearType": "ACCESSORY",
+    "id": "8sinn-cage-8-c50",
+    "accessoryType": "CAGE",
+    "officialUrl": "https://www.8sinn.com/camera-cage-for-canon-eos-c50.html",
+    "compatibleWith": [
+      "canon-eos-c50"
+    ],
+    "weightGrams": 164.2,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui Traveler 5C",
+    "gearType": "ACCESSORY",
+    "id": "sirui-traveler-5c",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/photographic/traveler.html",
+    "maxHeight": "138cm",
+    "minHeight": "16cm",
+    "foldedLength": "33cm",
+    "maxLoad": "4kg",
+    "legSections": 5,
+    "weightGrams": 850,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui Traveler 5A",
+    "gearType": "ACCESSORY",
+    "id": "sirui-traveler-5a",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/photographic/traveler.html",
+    "maxHeight": "138cm",
+    "minHeight": "16cm",
+    "foldedLength": "33cm",
+    "maxLoad": "4kg",
+    "legSections": 5,
+    "weightGrams": 1050,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui Traveler 7C",
+    "gearType": "ACCESSORY",
+    "id": "sirui-traveler-7c",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/photographic/traveler.html",
+    "maxHeight": "166.5cm",
+    "foldedLength": "48cm",
+    "maxLoad": "8kg",
+    "legSections": 4,
+    "weightGrams": 1570,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui Traveler 7A",
+    "gearType": "ACCESSORY",
+    "id": "sirui-traveler-7a",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/photographic/traveler.html",
+    "maxHeight": "166.5cm",
+    "foldedLength": "48cm",
+    "maxLoad": "8kg",
+    "legSections": 4,
+    "weightGrams": 1890,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-1004SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-1004sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodts.html",
+    "maxHeight": "130cm",
+    "minHeight": "14cm",
+    "foldedLength": "37cm",
+    "maxLoad": "12kg",
+    "legSections": 4,
+    "weightGrams": 1500,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-1204SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-1204sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodts.html",
+    "maxHeight": "130cm",
+    "minHeight": "14cm",
+    "foldedLength": "37cm",
+    "maxLoad": "12kg",
+    "legSections": 4,
+    "weightGrams": 1200,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-2004SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-2004sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodts.html",
+    "maxHeight": "143cm",
+    "minHeight": "14cm",
+    "foldedLength": "40cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 2000,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-2204SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-2204sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodts.html",
+    "maxHeight": "143cm",
+    "minHeight": "14cm",
+    "foldedLength": "40cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 1600,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-005SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-005sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodt0s.html",
+    "maxHeight": "130cm",
+    "minHeight": "8cm",
+    "foldedLength": "31cm",
+    "maxLoad": "5kg",
+    "legSections": 5,
+    "weightGrams": 900,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui T-025SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-t-025sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodt0s.html",
+    "maxHeight": "130cm",
+    "minHeight": "8cm",
+    "foldedLength": "31cm",
+    "maxLoad": "6kg",
+    "legSections": 5,
+    "weightGrams": 800,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui SR-3203",
+    "gearType": "ACCESSORY",
+    "id": "sirui-sr-3203",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodsr.html",
+    "maxHeight": "150cm",
+    "minHeight": "14cm",
+    "foldedLength": "65cm",
+    "maxLoad": "25kg",
+    "legSections": 3,
+    "weightGrams": 2000,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui SR-3204",
+    "gearType": "ACCESSORY",
+    "id": "sirui-sr-3204",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodsr.html",
+    "maxHeight": "150cm",
+    "minHeight": "12cm",
+    "foldedLength": "54.5cm",
+    "maxLoad": "25kg",
+    "legSections": 4,
+    "weightGrams": 2000,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui SR-3004",
+    "gearType": "ACCESSORY",
+    "id": "sirui-sr-3004",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodsr.html",
+    "maxHeight": "150cm",
+    "minHeight": "12cm",
+    "foldedLength": "54.5cm",
+    "maxLoad": "25kg",
+    "legSections": 4,
+    "weightGrams": 2500,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui N-1004SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-n-1004sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodns.html",
+    "maxHeight": "158cm",
+    "minHeight": "15cm",
+    "foldedLength": "46.5cm",
+    "maxLoad": "12kg",
+    "legSections": 4,
+    "weightGrams": 1700,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui N-1204SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-n-1204sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodns.html",
+    "maxHeight": "158cm",
+    "minHeight": "15cm",
+    "foldedLength": "46.5cm",
+    "maxLoad": "12kg",
+    "legSections": 4,
+    "weightGrams": 1400,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui N-2004SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-n-2004sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodns.html",
+    "maxHeight": "163cm",
+    "minHeight": "17cm",
+    "foldedLength": "49cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 2100,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui N-2204SK",
+    "gearType": "ACCESSORY",
+    "id": "sirui-n-2204sk",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodns.html",
+    "maxHeight": "163cm",
+    "minHeight": "17cm",
+    "foldedLength": "49cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 1700,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui W-1004",
+    "gearType": "ACCESSORY",
+    "id": "sirui-w-1004",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodw.html",
+    "maxHeight": "165cm",
+    "minHeight": "14.5cm",
+    "foldedLength": "49cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 1700,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui W-1204",
+    "gearType": "ACCESSORY",
+    "id": "sirui-w-1204",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodw.html",
+    "maxHeight": "165cm",
+    "minHeight": "14.5cm",
+    "foldedLength": "49cm",
+    "maxLoad": "15kg",
+    "legSections": 4,
+    "weightGrams": 1400,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui W-2004",
+    "gearType": "ACCESSORY",
+    "id": "sirui-w-2004",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodw.html",
+    "maxHeight": "180cm",
+    "minHeight": "15.5cm",
+    "foldedLength": "52cm",
+    "maxLoad": "18kg",
+    "legSections": 4,
+    "weightGrams": 2100,
+    "material": "Aluminum"
+  },
+  {
+    "brand": "Sirui",
+    "modelName": "Sirui W-2204",
+    "gearType": "ACCESSORY",
+    "id": "sirui-w-2204",
+    "accessoryType": "TRIPOD",
+    "officialUrl": "https://en.sirui.com/index/tpl/producttripodw.html",
+    "maxHeight": "180cm",
+    "minHeight": "15.5cm",
+    "foldedLength": "52cm",
+    "maxLoad": "18kg",
+    "legSections": 4,
+    "weightGrams": 1700,
+    "material": "Carbon fiber"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko Zéta Quint C-PL",
+    "gearType": "ACCESSORY",
+    "id": "kenko-zeta-quint-c-pl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607725214.html",
+    "releaseYear": 2015,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-82mm",
+    "material": "Tempered glass, duralumin frame"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko ZX C-PL N",
+    "gearType": "ACCESSORY",
+    "id": "kenko-zx-c-pl-n",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/zx_cpl_n.html",
+    "releaseYear": 2024,
+    "releaseMonth": 11,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "49-95mm"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko PRO1D C-PL(W) N",
+    "gearType": "ACCESSORY",
+    "id": "kenko-pro1d-c-pl-w-n",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/pro1d_cpl_n.html",
+    "releaseYear": 2025,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-82mm"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko PRO1D Lotus C-PL",
+    "gearType": "ACCESSORY",
+    "id": "kenko-pro1d-lotus-c-pl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607022528.html",
+    "releaseYear": 2015,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-112mm",
+    "material": "Hard-anodized (alumite) metal frame"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko Zéta Wideband C-PL",
+    "gearType": "ACCESSORY",
+    "id": "kenko-zeta-wideband-c-pl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607033524.html",
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-82mm",
+    "material": "Aluminum frame"
+  },
+  {
+    "brand": "Kenko",
+    "modelName": "Kenko C-PL(W)",
+    "gearType": "ACCESSORY",
+    "id": "kenko-c-pl-w",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607452141.html",
+    "releaseYear": 2016,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-82mm"
+  },
+  {
+    "brand": "Marumi",
+    "modelName": "Marumi EXUS Circular P.L Mark II",
+    "gearType": "ACCESSORY",
+    "id": "marumi-exus-circular-pl-mark-ii",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.marumi-filter.co.jp/product/pl/cpl/",
+    "releaseYear": 2020,
+    "releaseMonth": 7,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-95mm"
+  },
+  {
+    "brand": "Marumi",
+    "modelName": "Marumi DHG Super Circular P.L.D",
+    "gearType": "ACCESSORY",
+    "id": "marumi-dhg-super-circular-pld",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.marumi-filter.co.jp/product/pl/cpl/",
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "37-95mm"
+  },
+  {
+    "brand": "Hoya",
+    "modelName": "Hoya FUSION ANTISTATIC NEXT CIR-PL",
+    "gearType": "ACCESSORY",
+    "id": "hoya-fusion-antistatic-next-cir-pl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://hoyafilter.com/product/fusion_antistatic_next_cir_pl/",
+    "releaseYear": 2021,
+    "releaseMonth": 8,
+    "filterKind": "Circular Polarizer",
+    "filterSizes": "49-82mm",
+    "material": "Aluminum frame"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi True Color CPL",
+    "gearType": "ACCESSORY",
+    "id": "nisi-true-color-cpl",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/true-color-cpl",
+    "filterKind": "Circular Polarizer (CPL)",
+    "filterSizes": "40.5-95mm"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi True Color VND/PL 1-5 Stops",
+    "gearType": "ACCESSORY",
+    "id": "nisi-true-color-vnd-pl-1-5",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/true-color-vnd-pl",
+    "filterKind": "Variable ND 1-5 stops + CPL (2-in-1)"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi NC ND (ND8 / ND64 / ND1000)",
+    "gearType": "ACCESSORY",
+    "id": "nisi-nc-nd-circular",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/circular-nd-filters",
+    "filterKind": "ND (ND8 / ND64 / ND1000)",
+    "filterSizes": "39-95mm",
+    "material": "Optical glass (nano coating), brass frame"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi EX ND (ND8 / ND64 / ND1000)",
+    "gearType": "ACCESSORY",
+    "id": "nisi-ex-nd-circular",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/circular-nd-filters",
+    "filterKind": "ND (ND8 / ND64 / ND1000)",
+    "filterSizes": "40.5-95mm",
+    "material": "Optical glass, ultra-thin frame"
+  },
+  {
+    "brand": "NiSi",
+    "modelName": "NiSi Solar Filter ND100000 (16.6 Stops)",
+    "gearType": "ACCESSORY",
+    "id": "nisi-solar-filter-nd100000",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://www.nisioptics.com/circular-nd-filters",
+    "filterKind": "Solar ND 100000 (5.0) 16.6 stops",
+    "filterSizes": "77-95mm"
+  },
+  {
+    "brand": "Haida",
+    "modelName": "Haida M10-II Filter Holder System",
+    "gearType": "ACCESSORY",
+    "id": "haida-m10-ii-filter-holder",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://haidaphoto.com/en/product-show/M10-II%20Filter%20Holder%20System",
+    "filterKind": "100mm square filter holder system",
+    "filterSizes": "49-82mm"
+  },
+  {
+    "brand": "Haida",
+    "modelName": "Haida M15 Filter Holder System",
+    "gearType": "ACCESSORY",
+    "id": "haida-m15-filter-holder",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://haidaphoto.com/en/product-show/M15%20Filter%20Holder%20System",
+    "filterKind": "150mm square filter holder system",
+    "filterSizes": "52-105mm",
+    "material": "Aluminum",
+    "compatibleWith": [
+      "canon-rf-10-20mm-f4l-is-stm",
+      "sony-14mm-f1-8-gm",
+      "sony-fe-12-24mm-f2-8-gm",
+      "sony-12-24mm-f4-g",
+      "nikon-z-14-24mm-f-2-8-s",
+      "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
+    ]
+  },
+  {
+    "brand": "Haida",
+    "modelName": "Haida Red-Diamond Series",
+    "gearType": "ACCESSORY",
+    "id": "haida-red-diamond-series",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://haidaphoto.com/en/product-show/Red-Diamond%20Series",
+    "filterKind": "Square/rectangular ND, Soft/Hard/Reverse GND, Medium ND, Horizon ND",
+    "filterSizes": "75x100mm, 84x100mm, 100x100mm, 100x150mm, 150x150mm, 150x170mm"
+  },
+  {
+    "brand": "Haida",
+    "modelName": "Haida Magnetic Series",
+    "gearType": "ACCESSORY",
+    "id": "haida-magnetic-series",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://haidaphoto.com/en/product-show/Magnetic%20Series",
+    "filterKind": "Magnetic circular filters (CPL, ND, GND, VND, Mist Black, Clear-Night, UV)",
+    "filterSizes": "52-95mm"
+  },
+  {
+    "brand": "Kase",
+    "modelName": "Kase K9 100mm Filter Holder System",
+    "gearType": "ACCESSORY",
+    "id": "kase-k9-100mm-system",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://kasefilters.com/kase-wolverine-100mm-system",
+    "filterKind": "100mm square filter holder system (up to 3 filters)",
+    "material": "Alloy",
+    "compatibleWith": [
+      "sony-14mm-f1-8-gm",
+      "nikon-z-14-24mm-f-2-8-s",
+      "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
+    ]
+  },
+  {
+    "brand": "Kase",
+    "modelName": "Kase Armour 100mm System",
+    "gearType": "ACCESSORY",
+    "id": "kase-armour-100mm-system",
+    "accessoryType": "FILTER",
+    "officialUrl": "https://kasefilters.com/kase-armour-100mm-system",
+    "filterKind": "100mm magnetic square filter holder system",
+    "filterSizes": "100x100mm, 100x150mm",
+    "compatibleWith": [
+      "sony-14mm-f1-8-gm"
+    ]
   }
 ]
