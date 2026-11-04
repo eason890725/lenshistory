@@ -2,6 +2,8 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 @import "./tokens.css";
+/* Heading font, self-hosted in unicode-range slices so pages only fetch the glyphs they use */
+@import "./chiron-sung-hk.css";
 
 @theme inline {
   --color-background: var(--background);

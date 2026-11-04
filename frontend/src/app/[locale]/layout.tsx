@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Chiron_Sung_HK } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
 import {NextIntlClientProvider, hasLocale} from 'next-intl';
 import {getMessages, setRequestLocale} from 'next-intl/server';
@@ -16,15 +16,6 @@ const geistSans = Geist({
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
-});
-
-// CJK + Latin serif for headings. Google serves it in unicode-range slices, so pages only fetch the glyphs they use.
-const chironSung = Chiron_Sung_HK({
-  variable: "--font-chiron-sung",
-  weight: ["400", "700"],
-  subsets: ["latin"],
-  preload: false,
-  adjustFontFallback: false,
 });
 
 export const metadata: Metadata = {
@@ -55,7 +46,7 @@ export default async function LocaleLayout({children, params}: Props) {
   return (
     <html
       lang={locale === 'zh' ? 'zh-Hant-TW' : 'en'}
-      className={`${geistSans.variable} ${geistMono.variable} ${chironSung.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
         <NextIntlClientProvider messages={messages}>
