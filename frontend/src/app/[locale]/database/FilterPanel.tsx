@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import { ACCESSORY_TYPES } from '@/lib/gear';
 
 export interface FilterState {
   q: string;
@@ -13,6 +14,7 @@ export interface FilterState {
   gearTypes: string[];
   brands: string[];
   mounts: string[];
+  accTypes: string[];
 }
 
 export const PRICE_MAX = 200000;
@@ -30,6 +32,7 @@ export const EMPTY_FILTERS: FilterState = {
   gearTypes: [],
   brands: [],
   mounts: [],
+  accTypes: [],
 };
 
 const YEARS = [2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026];
@@ -68,12 +71,14 @@ export default function FilterPanel({
   brandCounts,
   mountOptions,
   formatOptions,
+  accessoryCounts,
 }: {
   filters: FilterState;
   setFilters: (f: FilterState) => void;
   brandCounts: [string, number][];
   mountOptions: string[];
   formatOptions: string[];
+  accessoryCounts: [string, number][];
 }) {
   const t = useTranslations('GearSpecs');
   const tc = useTranslations('Common');
@@ -112,13 +117,25 @@ export default function FilterPanel({
 
       <Group label={t('gearType')}>
         <div className="flex flex-wrap gap-[var(--space-xs)]">
-          {(['CAMERA_BODY', 'FIXED_LENS', 'LENS'] as const).map(type => (
+          {(['CAMERA_BODY', 'FIXED_LENS', 'LENS', 'ACCESSORY'] as const).map(type => (
             <Chip key={type} active={filters.gearTypes.includes(type)} onClick={() => set({ gearTypes: toggle(filters.gearTypes, type) })}>
-              {type === 'LENS' ? t('lens') : type === 'FIXED_LENS' ? t('fixedLensCamera') : t('body')}
+              {type === 'LENS' ? t('lens') : type === 'FIXED_LENS' ? t('fixedLensCamera') : type === 'ACCESSORY' ? t('accessory') : t('body')}
             </Chip>
           ))}
         </div>
       </Group>
+
+      {accessoryCounts.length > 0 && (filters.gearTypes.includes('ACCESSORY') || filters.accTypes.length > 0) && (
+        <Group label={t('accessoryType')}>
+          <div className="flex flex-wrap gap-[var(--space-xs)]">
+            {ACCESSORY_TYPES.filter(a => accessoryCounts.some(([k]) => k === a)).map(a => (
+              <Chip key={a} active={filters.accTypes.includes(a)} onClick={() => set({ accTypes: toggle(filters.accTypes, a) })}>
+                {t(a)} <span className="ml-1 font-mono text-xs opacity-70 tnum">{accessoryCounts.find(([k]) => k === a)?.[1]}</span>
+              </Chip>
+            ))}
+          </div>
+        </Group>
+      )}
 
       <Group label={tc('brands')}>
         <div className="flex flex-wrap gap-[var(--space-xs)]">

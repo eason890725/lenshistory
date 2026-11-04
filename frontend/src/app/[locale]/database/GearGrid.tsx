@@ -23,11 +23,12 @@ function filtersFromParams(p: Pick<URLSearchParams, 'get'>): FilterState {
     gearTypes: list('gearTypes'),
     brands: list('brands'),
     mounts: list('mounts'),
+    accTypes: list('acc'),
   };
 }
 
 // Sensor size for ordering the format chips, largest first: named formats, then type sizes ("1-inch" > "2/3-inch" > "1/2.3-inch")
-const NAMED_FORMATS: Record<string, number> = { 'Medium Format': 100, 'Full Frame': 50, 'APS-C': 20, 'Four Thirds': 10 };
+const NAMED_FORMATS: Record<string, number> = { 'Medium Format': 100, 'Full Frame': 50, 'APS-H': 30, 'APS-C': 20, 'Four Thirds': 10 };
 function formatSize(f: string) {
   if (f in NAMED_FORMATS) return NAMED_FORMATS[f];
   const m = f.match(/^(?:(\d)\/)?(\d+(?:\.\d+)?)-inch$/);
@@ -48,7 +49,8 @@ function matches(g: Gear, f: FilterState) {
   const year = g.releaseYear;
   if (year && (year < f.minYear || year > f.maxYear)) return false;
   if (f.sensorFormats.length && !f.sensorFormats.includes(g.sensorFormat ?? '')) return false;
-  if (f.mounts.length && !f.mounts.some(m => g.mounts?.some(gm => gm.mount.name === m))) return false;
+  if (f.mounts.length && !f.mounts.some(m => g.mounts?.some(gm => gm.mount.name === m) || g.lensMount === m)) return false;
+  if (f.accTypes.length && !f.accTypes.includes(g.accessoryType ?? '')) return false;
   return true;
 }
 
@@ -93,6 +95,9 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
     gears.reduce<Record<string, number>>((acc, g) => ({ ...acc, [g.brand]: (acc[g.brand] || 0) + 1 }), {})
   ).sort((a, b) => b[1] - a[1]);
   const mountOptions = [...new Set(gears.flatMap(g => g.mounts?.map(m => m.mount.name) ?? []))].sort();
+  const accessoryCounts = Object.entries(
+    gears.reduce<Record<string, number>>((acc, g) => (g.accessoryType ? { ...acc, [g.accessoryType]: (acc[g.accessoryType] || 0) + 1 } : acc), {})
+  );
   const formatOptions = [...new Set(gears.map(g => g.sensorFormat).filter((f): f is string => !!f))].sort((a, b) => formatSize(b) - formatSize(a));
 
   const results = gears.filter(g => matches(g, filters)).sort(compareGears(filters.sortBy));
@@ -131,6 +136,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
     if (filters.gearTypes.length) p.set('gearTypes', filters.gearTypes.join(','));
     if (filters.sensorFormats.length) p.set('formats', filters.sensorFormats.join(','));
     if (filters.mounts.length) p.set('mounts', filters.mounts.join(','));
+    if (filters.accTypes.length) p.set('acc', filters.accTypes.join(','));
     if (filters.sortBy !== 'newest') p.set('sortBy', filters.sortBy);
     if (filters.minPrice > 0) p.set('minP', String(filters.minPrice));
     if (filters.maxPrice < PRICE_MAX) p.set('maxP', String(filters.maxPrice));
@@ -147,7 +153,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
   };
 
   const activeCount =
-    filters.brands.length + filters.gearTypes.length + filters.mounts.length + filters.sensorFormats.length +
+    filters.brands.length + filters.gearTypes.length + filters.mounts.length + filters.accTypes.length + filters.sensorFormats.length +
     (filters.q ? 1 : 0) + (filters.maxPrice < PRICE_MAX ? 1 : 0) + (filters.minYear > YEAR_MIN || filters.maxYear < YEAR_MAX ? 1 : 0);
 
   return (
@@ -173,7 +179,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
             {tc('applyFilters')}
           </button>
         </div>
-        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} mountOptions={mountOptions} formatOptions={formatOptions} />
+        <FilterPanel filters={filters} setFilters={setFilters} brandCounts={brandCounts} mountOptions={mountOptions} formatOptions={formatOptions} accessoryCounts={accessoryCounts} />
       </aside>
 
       <section aria-live="polite" className="min-w-0">
@@ -212,7 +218,7 @@ export default function GearGrid({ gears }: { gears: Gear[] }) {
         <div className="fixed inset-x-0 bottom-0 z-30 border-t border-rule-2 bg-paper px-[var(--page-gutter)] py-[var(--space-sm)]">
           <div className="mx-auto flex max-w-[var(--page-max)] items-center justify-between gap-[var(--space-md)]">
             <p className="truncate text-sm text-ink-2 tnum">
-              {selectedIds.length} {tc('itemsSelected')} · {selectedType === 'LENS' ? t('lens') : t('body')}
+              {selectedIds.length} {tc('itemsSelected')} · {selectedType === 'LENS' ? t('lens') : selectedType === 'ACCESSORY' ? t('accessory') : t('body')}
             </p>
             <div className="flex shrink-0 items-center gap-[var(--space-md)]">
               <button type="button" onClick={() => setSelectedIds([])} className="link-type min-h-11 text-sm text-ink-2">

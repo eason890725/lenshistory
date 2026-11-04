@@ -2,9 +2,10 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import BackButton from '../BackButton';
 import CompareButton from '../CompareButton';
-import { NONE, afTargetsLabel, focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
-import { findGear } from '@/lib/gear-data';
-import { shortName } from '@/components/gear/ProductCard';
+import { Link } from '@/i18n/routing';
+import { NONE, accessorySpec, afTargetsLabel, focalLength, releaseLabel, weightLabel, weightValue } from '@/lib/gear';
+import { compatibleFor, findGear } from '@/lib/gear-data';
+import ProductCard, { shortName } from '@/components/gear/ProductCard';
 
 type Row = [label: string, value: string | number | undefined];
 
@@ -36,16 +37,60 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
   if (!gear) notFound();
 
   const isLens = gear.gearType === 'LENS';
+  const isAccessory = gear.gearType === 'ACCESSORY';
+  const compat = compatibleFor(gear);
   const yesNo = (v?: boolean) => (v === undefined ? undefined : v ? tc('yes') : tc('no'));
   const launchPrice = gear.launchPrice ? `NT$${gear.launchPrice.toLocaleString()}` : undefined;
   // Street price with the month it was checked
+  const kitPrice = gear.launchKitPrice ? t('kitPriceValue', { price: gear.launchKitPrice.toLocaleString(), kit: gear.launchKitLens ?? '' }) : undefined;
   const retailPrice = gear.retailPrice ? `NT$${gear.retailPrice.toLocaleString()} (${gear.retailPriceDate?.replace('-', '.')})` : undefined;
   const mounts = gear.mounts?.map(m => m.mount.name).join(', ');
-  const kind = isLens
-    ? gear.focalLengthMinMm === gear.focalLengthMaxMm ? t('prime') : t('zoom')
-    : t('body');
+  const kind = isAccessory
+    ? gear.accessoryType ? t(gear.accessoryType) : t('accessory')
+    : isLens
+      ? gear.focalLengthMinMm === gear.focalLengthMaxMm ? t('prime') : t('zoom')
+      : t('body');
+  const purchaseRows: Row[] = [
+    [t('releaseYear'), releaseLabel(gear)],
+    [t('launchPrice'), launchPrice],
+    [t('launchKitPrice'), kitPrice],
+    [t('retailPrice'), retailPrice],
+  ];
 
-  const groups: { title: string; rows: Row[] }[] = isLens
+  const groups: { title: string; rows: Row[] }[] = isAccessory
+    ? [
+        { title: t('accessorySpecs'), rows: [
+          [t('magnification'), gear.magnification],
+          [t('lensMount'), gear.lensMount],
+          [gear.accessoryType === 'MOUNT_ADAPTER' ? t('cameraMount') : t('mount'), mounts],
+          [t('electronicContacts'), yesNo(gear.hasElectronicContacts)],
+          [t('opticalDesign'), gear.opticalDesign],
+          [t('compatibleSystems'), gear.compatibleSystems],
+          [t('guideNumber'), gear.guideNumber],
+          [t('zoomRange'), gear.zoomRange],
+          [t('ttl'), yesNo(gear.hasTTL)],
+          [t('hss'), yesNo(gear.hasHSS)],
+          [t('wireless'), gear.wirelessSystem],
+          [t('recycleTime'), gear.recycleTime],
+          [t('filterKind'), gear.filterKind],
+          [t('filterSizes'), gear.filterSizes],
+          [t('maxHeight'), gear.maxHeight],
+          [t('minHeight'), gear.minHeight],
+          [t('foldedLength'), gear.foldedLength],
+          [t('maxLoad'), gear.maxLoad],
+          [t('legSections'), gear.legSections],
+          [t('headType'), gear.headType],
+          [t('batterySpec'), gear.batterySpec],
+        ] },
+        { title: t('physical'), rows: [
+          [t('material'), gear.material],
+          [t('weatherSeal'), yesNo(gear.hasWeatherSeal)],
+          [t('weight'), weightLabel(gear)],
+          [t('dimensions'), gear.dimensions],
+          ...purchaseRows,
+        ] },
+      ]
+    : isLens
     ? [
         { title: t('optical'), rows: [
           [t('focalLength'), focalLength(gear)],
@@ -109,6 +154,7 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
           [t('dimensions'), gear.dimensions],
           [t('releaseYear'), releaseLabel(gear)],
           [t('launchPrice'), launchPrice],
+          [t('launchKitPrice'), kitPrice],
           [t('retailPrice'), retailPrice],
         ] },
       ];
@@ -146,7 +192,9 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
             {([
               [launchPrice || !retailPrice ? t('launchPrice') : t('retailPrice'), launchPrice ?? retailPrice ?? '—'],
               [t('weight'), weightValue(gear) ? `${weightValue(gear)}g` : '—'],
-              [isLens ? t('focalLength') : t('megapixels'), (isLens ? focalLength(gear) : gear.megapixels) ?? '—'],
+              isAccessory
+                ? [t('accessoryType'), accessorySpec(gear) || kind]
+                : [isLens ? t('focalLength') : t('megapixels'), (isLens ? focalLength(gear) : gear.megapixels) ?? '—'],
             ] as const).map(([label, value]) => (
               <div key={label} className="min-w-0 pr-[var(--space-sm)]">
                 <dt className="label">{label}</dt>
@@ -170,6 +218,39 @@ export default async function GearDetailPage({ params }: { params: Promise<{ id:
       <div className="mt-[var(--space-2xl)] grid gap-[var(--space-xl)] md:grid-cols-[repeat(2,minmax(0,1fr))] xl:grid-cols-[repeat(3,minmax(0,1fr))]">
         {groups.map(g => <SpecGroup key={g.title} {...g} none={tc('none')} />)}
       </div>
+
+      {(compat.links.length > 0 || compat.items.length > 0) && (
+        <section className="mt-[var(--space-2xl)]" aria-labelledby="compat">
+          <h2 id="compat" className="text-xl font-bold">{t('compatibility')}</h2>
+          {compat.links.length > 0 && (
+            <ul className="mt-[var(--space-md)] grid border-t border-ink sm:grid-cols-[repeat(2,minmax(0,1fr))] sm:gap-x-[var(--space-xl)]">
+              {compat.links.map(l => (
+                <li key={l.kind + l.mount} className="border-b border-rule">
+                  <Link
+                    href={`/database?gearTypes=${l.kind}&mounts=${encodeURIComponent(l.mount)}`}
+                    className="group flex min-h-12 items-center justify-between gap-[var(--space-md)] py-[var(--space-sm)] text-sm"
+                  >
+                    <span className="text-ink group-hover:text-accent tnum">
+                      {t(l.kind === 'LENS' ? 'compatLenses' : 'compatBodies', { mount: l.mount, count: l.count })}
+                    </span>
+                    <span aria-hidden="true" className="text-muted group-hover:text-accent">→</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          )}
+          {compat.items.length > 0 && (
+            <>
+              <h3 className="label mt-[var(--space-lg)]">{t('compatItems')}</h3>
+              <div className="mt-[var(--space-sm)] grid grid-cols-[repeat(2,minmax(0,1fr))] gap-x-[var(--space-lg)] gap-y-[var(--space-xl)] border-t border-ink pt-[var(--space-lg)] md:grid-cols-[repeat(4,minmax(0,1fr))] xl:grid-cols-[repeat(6,minmax(0,1fr))]">
+                {compat.items.slice(0, 12).map(g => (
+                  <ProductCard key={g.id} gear={g} noImageLabel={t('noImage')} streetLabel={t('street')} />
+                ))}
+              </div>
+            </>
+          )}
+        </section>
+      )}
     </main>
   );
 }

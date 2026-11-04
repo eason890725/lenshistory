@@ -1,11 +1,12 @@
 import { Link } from '@/i18n/routing';
-import { focalLength, priceText, releaseLabel, type Gear } from '@/lib/gear';
+import { accessorySpec, focalLength, priceText, releaseLabel, type Gear } from '@/lib/gear';
 
 export function shortName(g: Gear) {
   return g.modelName.startsWith(g.brand + ' ') ? g.modelName.slice(g.brand.length + 1) : g.modelName;
 }
 
 export function keySpec(g: Gear) {
+  if (g.gearType === 'ACCESSORY') return accessorySpec(g);
   if (g.gearType === 'LENS') {
     const f = focalLength(g);
     return [f, g.apertureMax ? `f/${g.apertureMax}` : undefined].filter(Boolean).join(' ');

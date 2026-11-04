@@ -41,11 +41,20 @@ editorial — 器材型錄 / 檔案館。
 - 新增資料後先跑 normalize，再跑 validate。
 - `launchPrice` 是台灣新台幣**首發**建議售價：來自台灣分公司／總代理公告或台灣媒體的上市報導。現價、促銷價、外幣換算價都不收。
   例外：上市 6 個月內的新品，可以用台灣官方商店目前標示的建議售價（2026-10 起的規則）。
+- `launchKitPrice`＋`launchKitLens`：機身在台灣只以套組上市、查不到單機身首發價時，收套組首發建議售價與套組內容（例 20900、"EF-M 18-55mm F3.5-5.6 IS STM"）。只顯示在詳細頁與比較頁，不參與篩選與排序。
 - `retailPrice`＋`retailPriceDate`（"2026-10"）：查不到首發價時，收台灣現在的全新公司貨售價（官方商店 > PChome／momo／Yahoo／蝦皮商城官方店 > 授權經銷）。平行輸入、二手、限時促銷、組合價不收。頁面有首發價就只顯示首發價，否則顯示「售價 NT$…（年.月）」。
 - 沒有 `mounts` 的機身就是「固定鏡頭相機」，所以可換鏡頭機身一定要填卡口。`fixedLens` 是它的內建鏡頭，例如 "23mm F2 (35mm equiv.)"；運動相機官方常不公布，可以留空。收錄範圍含 1 吋以上的高階隨身機、小感光元件卡片機與運動相機（2012 年以後）。
 - 「無」：官方規格（或 DPReview 規格頁）明確寫出沒有這項功能時，是非欄位填 `false`，文字欄位填 `"None"`（頁面顯示「無」，可用欄位見 validate 的 NONE_OK）。手動對焦鏡頭的 motorType 用 `"Manual focus"`。沒寫就留空，不推論。
 - `weightGrams`：機身含電池與記憶卡，鏡頭用官方值。外接電池的電影機（RED、Blackmagic 盒式機、Z CAM）用官方公布的機身淨重（body only）。
-- `sensorFormat` 只能用 Full Frame、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
+- `sensorFormat` 只能用 Full Frame、APS-H（Sigma sd Quattro H）、APS-C、Medium Format、Four Thirds、1-inch、1/1.7-inch、1/2.3-inch；卡口名稱見 `scripts/validate-products.mjs` 的 MOUNTS。
+
+## 配件（gearType ACCESSORY）
+- `accessoryType`：TELECONVERTER 增距鏡、MOUNT_ADAPTER 轉接環、FLASH 閃光燈、BATTERY_GRIP 電池手把、FILTER 濾鏡、TRIPOD 腳架、CAGE 兔籠。
+- 增距鏡、轉接環的 `mounts` 是機身端卡口；轉接環另填 `lensMount`（鏡頭端，可用單眼／電影卡口，清單見 validate 的 LENS_SIDE_MOUNTS）與 `hasElectronicContacts`。
+- `compatibleWith`：官方列出的適用機身／鏡頭 id（手把、兔籠、增距鏡）。詳細頁的「相容器材」會雙向顯示，並依卡口列出可用機身／鏡頭數量。
+- 其他欄位：magnification "1.4x"、guideNumber "60 (ISO 100, m, 200mm)"、zoomRange "20-200mm"、recycleTime "1.7s"、
+  filterKind、filterSizes "49-82mm"、maxHeight "152cm"、minHeight、foldedLength、maxLoad "9kg"、legSections（數字）、headType、material。
+- 收錄原則同上：官方規格為準，查不到留白。
 
 ## Spacing
 命名的 4pt 系列，定義在 `tokens.css` 的 `--space-*`。頁面左右留白 `--page-gutter`，最大寬度 `--page-max`。
