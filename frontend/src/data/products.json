@@ -77531,7 +77531,8 @@
     "releaseYear": 2025,
     "officialUrl": "https://hoyafilter.com/product/nd_essentials_filter_kit/",
     "filterKind": "ND8 / ND64 / ND1000 kit (3, 6, 10 stops)",
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "image_url": "/images/products/hoya/hoya-nd-essentials-filter-kit.webp"
   },
   {
     "brand": "Hoya",
@@ -78704,7 +78705,8 @@
     "dimensions": "Ø71.2 x 24 mm",
     "hasWeatherSeal": true,
     "retailPrice": 3990,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/canon/canon-mount-adapter-ef-eos-r.webp"
   },
   {
     "brand": "Canon",
@@ -78727,7 +78729,8 @@
     "dimensions": "Ø74.4 x 24 mm",
     "hasWeatherSeal": true,
     "retailPrice": 6900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/canon/canon-control-ring-mount-adapter-ef-eos-r.webp"
   },
   {
     "brand": "Canon",
@@ -78792,7 +78795,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "weightGrams": 110,
-    "dimensions": "Ø66.6 x 26 mm"
+    "dimensions": "Ø66.6 x 26 mm",
+    "image_url": "/images/products/canon/canon-mount-adapter-ef-eos-m.webp"
   },
   {
     "brand": "Hasselblad",
@@ -79768,7 +79772,8 @@
       "sony-a7r-ii",
       "sony-a7s-ii"
     ],
-    "batterySpec": "2x NP-FW50"
+    "batterySpec": "2x NP-FW50",
+    "image_url": "/images/products/sony/sony-vg-c2em.webp"
   },
   {
     "brand": "Sony",
@@ -79804,7 +79809,8 @@
     "hasWeatherSeal": true,
     "launchPrice": 11980,
     "retailPrice": 11980,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sony/sony-vg-c4em.webp"
   },
   {
     "brand": "Sony",
@@ -79822,7 +79828,8 @@
     "dimensions": "136.1 x 52.7 x 68.3 mm",
     "hasWeatherSeal": true,
     "retailPrice": 11682,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/sony/sony-vg-c5.webp"
   },
   {
     "brand": "Nikon",
@@ -79918,7 +79925,8 @@
     "batterySpec": "2x NP-W235",
     "dimensions": "136.3 x 51.0 x 69.3 mm",
     "weightGrams": 314,
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "image_url": "/images/products/fujifilm/fujifilm-vg-xh.webp"
   },
   {
     "brand": "Fujifilm",
@@ -80411,7 +80419,8 @@
     "weightGrams": 287,
     "dimensions": "70.6 x 116.3 x 98.3 mm",
     "retailPrice": 7900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/canon/canon-speedlite-el-10.webp"
   },
   {
     "brand": "Canon",
@@ -80455,7 +80464,8 @@
     "id": "canon-speedlite-600ex-ii-rt",
     "accessoryType": "FLASH",
     "releaseYear": 2016,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "image_url": "/images/products/canon/canon-speedlite-600ex-ii-rt.webp"
   },
   {
     "brand": "Canon",
@@ -80490,7 +80500,8 @@
     "weightGrams": 300,
     "dimensions": "73 x 97 x 113 mm",
     "retailPrice": 11210,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "image_url": "/images/products/fujifilm/fujifilm-ef-60.webp"
   },
   {
     "brand": "Fujifilm",
@@ -80711,7 +80722,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
-    "dimensions": "65 x 46 x 47 mm"
+    "dimensions": "65 x 46 x 47 mm",
+    "image_url": "/images/products/godox/godox-it30pro-c.webp"
   },
   {
     "brand": "Godox",
@@ -80729,7 +80741,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
-    "dimensions": "65 x 46 x 47 mm"
+    "dimensions": "65 x 46 x 47 mm",
+    "image_url": "/images/products/godox/godox-it30pro-n.webp"
   },
   {
     "brand": "Godox",
@@ -80784,7 +80797,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
-    "dimensions": "65 x 46 x 47 mm"
+    "dimensions": "65 x 46 x 47 mm",
+    "image_url": "/images/products/godox/godox-it30pro-o.webp"
   },
   {
     "brand": "Godox",
@@ -81049,7 +81063,8 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
-    "dimensions": "71 x 49 x 166 mm"
+    "dimensions": "71 x 49 x 166 mm",
+    "image_url": "/images/products/godox/godox-v480o.webp"
   },
   {
     "brand": "Godox",
@@ -81213,7 +81228,8 @@
       "Nikon Creative Lighting System"
     ],
     "guideNumber": "34 (ISO 100, m, 35mm, FX)",
-    "zoomRange": "17-200mm"
+    "zoomRange": "17-200mm",
+    "image_url": "/images/products/nikon/nikon-sb-910.webp"
   },
   {
     "brand": "Nikon",
@@ -81305,7 +81321,8 @@
     ],
     "lensMount": "Sony A",
     "weightGrams": 160,
-    "dimensions": "78.5 x 86.5 x 44.5 mm"
+    "dimensions": "78.5 x 86.5 x 44.5 mm",
+    "image_url": "/images/products/sony/sony-la-ea4.webp"
   },
   {
     "brand": "Sony",
@@ -81323,7 +81340,8 @@
     ],
     "lensMount": "Sony A",
     "weightGrams": 105,
-    "dimensions": "76 x 69 x 35 mm"
+    "dimensions": "76 x 69 x 35 mm",
+    "image_url": "/images/products/sony/sony-la-ea3.webp"
   },
   {
     "brand": "Canon",
@@ -81408,7 +81426,8 @@
     "weightGrams": 330,
     "dimensions": "Ø66 x 48 mm",
     "releaseYear": 2009,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "image_url": "/images/products/nikon/nikon-af-s-teleconverter-tc-20e-iii.webp"
   },
   {
     "brand": "Sigma",
@@ -82292,7 +82311,8 @@
     "maxLoad": "8kg",
     "legSections": 4,
     "weightGrams": 1570,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/sirui/sirui-traveler-7c.webp"
   },
   {
     "brand": "Sirui",
@@ -82590,7 +82610,8 @@
     "releaseYear": 2015,
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-82mm",
-    "material": "Tempered glass, duralumin frame"
+    "material": "Tempered glass, duralumin frame",
+    "image_url": "/images/products/kenko/kenko-zeta-quint-c-pl.webp"
   },
   {
     "brand": "Kenko",
@@ -82602,7 +82623,8 @@
     "releaseYear": 2024,
     "releaseMonth": 11,
     "filterKind": "Circular Polarizer",
-    "filterSizes": "49-95mm"
+    "filterSizes": "49-95mm",
+    "image_url": "/images/products/kenko/kenko-zx-c-pl-n.webp"
   },
   {
     "brand": "Kenko",
@@ -82613,7 +82635,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/pro1d_cpl_n.html",
     "releaseYear": 2025,
     "filterKind": "Circular Polarizer",
-    "filterSizes": "37-82mm"
+    "filterSizes": "37-82mm",
+    "image_url": "/images/products/kenko/kenko-pro1d-c-pl-w-n.webp"
   },
   {
     "brand": "Kenko",
@@ -82625,7 +82648,8 @@
     "releaseYear": 2015,
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-112mm",
-    "material": "Hard-anodized (alumite) metal frame"
+    "material": "Hard-anodized (alumite) metal frame",
+    "image_url": "/images/products/kenko/kenko-pro1d-lotus-c-pl.webp"
   },
   {
     "brand": "Kenko",
@@ -82636,7 +82660,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607033524.html",
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-82mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/kenko/kenko-zeta-wideband-c-pl.webp"
   },
   {
     "brand": "Kenko",
@@ -82647,7 +82672,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/imaging/filter/pl/4961607452141.html",
     "releaseYear": 2016,
     "filterKind": "Circular Polarizer",
-    "filterSizes": "37-82mm"
+    "filterSizes": "37-82mm",
+    "image_url": "/images/products/kenko/kenko-c-pl-w.webp"
   },
   {
     "brand": "Marumi",
@@ -82659,7 +82685,8 @@
     "releaseYear": 2020,
     "releaseMonth": 7,
     "filterKind": "Circular Polarizer",
-    "filterSizes": "37-95mm"
+    "filterSizes": "37-95mm",
+    "image_url": "/images/products/marumi/marumi-exus-circular-pl-mark-ii.webp"
   },
   {
     "brand": "Marumi",
@@ -82800,7 +82827,8 @@
       "sony-14mm-f1-8-gm",
       "nikon-z-14-24mm-f-2-8-s",
       "olympus-m-zuiko-digital-ed-7-14mm-f2-8-pro"
-    ]
+    ],
+    "image_url": "/images/products/kase/kase-k9-100mm-system.webp"
   },
   {
     "brand": "Kase",
@@ -82961,7 +82989,8 @@
     "wirelessSystem": "Radio",
     "recycleTime": "0.1-5.5s",
     "batterySpec": "4x AA",
-    "weightGrams": 570
+    "weightGrams": 570,
+    "image_url": "/images/products/canon/canon-macro-twin-lite-mt-26ex-rt.webp"
   },
   {
     "brand": "Pentax",
@@ -83054,7 +83083,8 @@
       "fujifilm-x100vi",
       "fujifilm-x100-v",
       "fujifilm-x100f"
-    ]
+    ],
+    "image_url": "/images/products/fujifilm/fujifilm-ef-w1.webp"
   },
   {
     "brand": "Olympus",
@@ -83076,7 +83106,8 @@
     "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5954.webp"
   },
   {
     "brand": "SmallRig",
@@ -83087,7 +83118,8 @@
     "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5955.webp"
   },
   {
     "brand": "SmallRig",
@@ -83098,7 +83130,8 @@
     "officialUrl": "https://www.smallrig.com/camera-cage-kit-canon-eos-r6-mark-III-r6-mark-III-r5-mark-III.html",
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5960.webp"
   },
   {
     "brand": "SmallRig",
@@ -83111,7 +83144,8 @@
       "canon-eos-r6-mark-iii",
       "canon-eos-r6-ii",
       "canon-eos-r5-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5953.webp"
   },
   {
     "brand": "SmallRig",
@@ -83171,7 +83205,8 @@
     "officialUrl": "https://smallrig.com/HawkLock-Quick-Release-Cage-Kit-for-Sony-ZV-E10-II-4949.html",
     "compatibleWith": [
       "sony-zv-e10-ii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4949.webp"
   },
   {
     "brand": "SmallRig",
@@ -83183,7 +83218,8 @@
     "compatibleWith": [
       "sony-a7c-ii",
       "sony-a7c-r"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-5198.webp"
   },
   {
     "brand": "SmallRig",
@@ -83196,7 +83232,8 @@
       "sony-fx3",
       "sony-fx30",
       "sony-fx3a"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4771.webp"
   },
   {
     "brand": "SmallRig",
@@ -83219,7 +83256,8 @@
     "officialUrl": "https://smallrig.com/global/HawkLock-Quick-Release-Cage-Kit-for-Sony-Alpha-6700.html",
     "compatibleWith": [
       "sony-a6700"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-hawklock-a6700.webp"
   },
   {
     "brand": "Leofoto",
@@ -83860,7 +83898,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "material": "Brass, aluminum"
+    "material": "Brass, aluminum",
+    "image_url": "/images/products/megadap/megadap-eftz21.webp"
   },
   {
     "brand": "Megadap",
@@ -83879,7 +83918,8 @@
     "hasElectronicContacts": true,
     "weightGrams": 44,
     "material": "Brass, stainless steel",
-    "lensMount": "Sony E"
+    "lensMount": "Sony E",
+    "image_url": "/images/products/megadap/megadap-etz21-pro-plus.webp"
   },
   {
     "brand": "Metabones",
@@ -84260,7 +84300,8 @@
     "lensMount": "Sony A",
     "weightGrams": 200,
     "dimensions": "78.5 x 86.5 x 44 mm",
-    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA2/feature_1.html"
+    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA2/feature_1.html",
+    "image_url": "/images/products/sony/sony-la-ea2.webp"
   },
   {
     "brand": "Sony",
@@ -84299,7 +84340,8 @@
     "weightGrams": 205,
     "dimensions": "Ø70 x 21.4 mm",
     "hasWeatherSeal": true,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "image_url": "/images/products/tamron/tamron-tc-x14-canon-ef.webp"
   },
   {
     "brand": "Tamron",
@@ -84602,7 +84644,8 @@
       "Fujifilm",
       "Four Thirds"
     ],
-    "wirelessSystem": "Optical slave (SD/SF)"
+    "wirelessSystem": "Optical slave (SD/SF)",
+    "image_url": "/images/products/nissin/nissin-di700a.webp"
   },
   {
     "brand": "Nissin",
@@ -85867,7 +85910,8 @@
     "releaseMonth": 7,
     "filterKind": "Black Mist (soft effect)",
     "filterSizes": "49-82mm",
-    "material": "Optical glass, aluminum frame"
+    "material": "Optical glass, aluminum frame",
+    "image_url": "/images/products/kenko/kenko-black-mist-no-1-n.webp"
   },
   {
     "brand": "Kenko",
@@ -85880,7 +85924,8 @@
     "releaseMonth": 3,
     "filterKind": "Circular polarizer",
     "filterSizes": "37-82mm",
-    "material": "Aluminum frame"
+    "material": "Aluminum frame",
+    "image_url": "/images/products/kenko/kenko-realpro-mkii-c-pl.webp"
   },
   {
     "brand": "Hoya",
@@ -87630,7 +87675,8 @@
       "leica-sl3",
       "leica-sl3-s",
       "leica-sl3-p"
-    ]
+    ],
+    "image_url": "/images/products/leica/leica-hg-scl7.webp"
   },
   {
     "brand": "Leica",
@@ -90327,7 +90373,8 @@
     "gearType": "ACCESSORY",
     "id": "cokin-nuances-extreme",
     "accessoryType": "FILTER",
-    "officialUrl": "https://cokin.com/fr/182-filtres-nuances-extreme"
+    "officialUrl": "https://cokin.com/fr/182-filtres-nuances-extreme",
+    "image_url": "/images/products/cokin/cokin-nuances-extreme.webp"
   },
   {
     "brand": "Cokin",
@@ -90380,7 +90427,8 @@
     "id": "nisi-v6",
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/nisi-v6",
-    "filterKind": "100mm square filter holder system (3 square filters + built-in CPL)"
+    "filterKind": "100mm square filter holder system (3 square filters + built-in CPL)",
+    "image_url": "/images/products/nisi/nisi-v6.webp"
   },
   {
     "brand": "NiSi",
@@ -90517,7 +90565,8 @@
     "foldedLength": "90.5cm",
     "weightGrams": 4380,
     "material": "Aluminum alloy",
-    "headType": "Fluid head"
+    "headType": "Fluid head",
+    "image_url": "/images/products/smallrig/smallrig-ad-80-4163.webp"
   },
   {
     "brand": "SmallRig",
@@ -90669,7 +90718,8 @@
     "maxLoad": "10kg",
     "weightGrams": 5000,
     "material": "Carbon fiber",
-    "headType": "Fluid head"
+    "headType": "Fluid head",
+    "image_url": "/images/products/smallrig/smallrig-ad-100-3989.webp"
   },
   {
     "brand": "SmallRig",
@@ -91535,7 +91585,8 @@
     "foldedLength": "68cm",
     "maxLoad": "30kg",
     "legSections": 3,
-    "weightGrams": 2250
+    "weightGrams": 2250,
+    "image_url": "/images/products/feisol/feisol-ct-3372lv-ii.webp"
   },
   {
     "brand": "Feisol",
@@ -91564,7 +91615,8 @@
     "foldedLength": "62cm",
     "maxLoad": "30kg",
     "legSections": 3,
-    "weightGrams": 1720
+    "weightGrams": 1720,
+    "image_url": "/images/products/feisol/feisol-ct-3372-ii.webp"
   },
   {
     "brand": "Feisol",
@@ -91639,7 +91691,8 @@
     "maxLoad": "25kg",
     "legSections": 4,
     "weightGrams": 1050,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "image_url": "/images/products/feisol/feisol-ct-3442.webp"
   },
   {
     "brand": "Feisol",
@@ -91668,7 +91721,8 @@
     "maxLoad": "20kg",
     "legSections": 4,
     "weightGrams": 1400,
-    "headType": "Ball head (CB-30D)"
+    "headType": "Ball head (CB-30D)",
+    "image_url": "/images/products/feisol/feisol-ct-3441sb.webp"
   },
   {
     "brand": "Feisol",
@@ -91820,7 +91874,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-half-cage-for-blackmagic-design-pocket-cinema-camera-4k-2254.html",
     "compatibleWith": [
       "blackmagic-pocket-cinema-camera-4k"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2254.webp"
   },
   {
     "brand": "SmallRig",
@@ -92102,7 +92157,8 @@
       "sony-cyber-shot-dsc-rx100-vii",
       "sony-cyber-shot-dsc-rx100-vi"
     ],
-    "weightGrams": 123
+    "weightGrams": 123,
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2434.webp"
   },
   {
     "brand": "SmallRig",
@@ -92113,7 +92169,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-cage-kit-for-sony-rx100-vi-2225.html",
     "compatibleWith": [
       "sony-cyber-shot-dsc-rx100-vi"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2225.webp"
   },
   {
     "brand": "SmallRig",
@@ -92138,7 +92195,8 @@
       "leica-sl3",
       "leica-sl3-s",
       "leica-sl3-p"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-4510.webp"
   },
   {
     "brand": "SmallRig",
@@ -92216,7 +92274,8 @@
       "panasonic-lumix-gh5",
       "panasonic-lumix-gh5ii",
       "panasonic-lumix-gh5s"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-ccp2646.webp"
   },
   {
     "brand": "SmallRig",
@@ -92760,7 +92819,8 @@
     "officialUrl": "https://www.smallrig.com/global/SmallRig-Lightweight-Camera-Cage-for-Sony-Alpha7S3-3065D.html",
     "compatibleWith": [
       "sony-a7s-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-3065d.webp"
   },
   {
     "brand": "SmallRig",
@@ -92908,7 +92968,8 @@
     "compatibleWith": [
       "sony-a7-iii",
       "sony-a7r-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-kccs2694.webp"
   },
   {
     "brand": "SmallRig",
@@ -92920,7 +92981,8 @@
     "compatibleWith": [
       "sony-a7-iii",
       "sony-a7r-iii"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2176.webp"
   },
   {
     "brand": "SmallRig",
@@ -92931,7 +92993,8 @@
     "officialUrl": "https://www.smallrig.com/global/smallrig-camera-cage-for-sony-a9-2013.html",
     "compatibleWith": [
       "sony-a9"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2013.webp"
   },
   {
     "brand": "SmallRig",
@@ -92977,7 +93040,8 @@
       "sony-a6400",
       "sony-a6300",
       "sony-a6000"
-    ]
+    ],
+    "image_url": "/images/products/smallrig/smallrig-cage-2268.webp"
   },
   {
     "brand": "SmallRig",
@@ -94131,7 +94195,8 @@
     "releaseYear": 2018,
     "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/kenko_teleplus/hd_pro/4961607601372.html",
     "opticalDesign": "7 elements in 5 groups",
-    "dimensions": "Ø67.5 x 40 mm"
+    "dimensions": "Ø67.5 x 40 mm",
+    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-nikon-f.webp"
   },
   {
     "brand": "Kenko",
