@@ -77638,7 +77638,8 @@
     "maxHeight": "152.4cm",
     "maxLoad": "9.1kg",
     "material": "Carbon fiber",
-    "image_url": "/images/products/peak-design/peak-design-travel-tripod-carbon.webp"
+    "image_url": "/images/products/peak-design/peak-design-travel-tripod-carbon.webp",
+    "weightGrams": 1290
   },
   {
     "brand": "Peak Design",
@@ -77653,7 +77654,8 @@
     "maxLoad": "9.1kg",
     "material": "Aluminum",
     "minHeight": "14.2cm",
-    "image_url": "/images/products/peak-design/peak-design-travel-tripod-aluminum.webp"
+    "image_url": "/images/products/peak-design/peak-design-travel-tripod-aluminum.webp",
+    "weightGrams": 1560
   },
   {
     "brand": "SmallRig",
@@ -79229,7 +79231,8 @@
     "officialUrl": "https://kasefilters.com/product/wolverine-150mm-nd-filter-nd16-4-stop",
     "filterKind": "Square ND16 (4 stops)",
     "filterSizes": "150mm square",
-    "material": "Toughened glass"
+    "material": "Toughened glass",
+    "dimensions": "150 x 150 x 2 mm"
   },
   {
     "brand": "Haida",
@@ -79756,7 +79759,9 @@
       "sony-a7r"
     ],
     "batterySpec": "2x NP-FW50",
-    "image_url": "/images/products/sony/sony-vg-c1em.webp"
+    "image_url": "/images/products/sony/sony-vg-c1em.webp",
+    "weightGrams": 250,
+    "dimensions": "130 x 101 x 53 mm"
   },
   {
     "brand": "Sony",
@@ -79773,7 +79778,9 @@
       "sony-a7s-ii"
     ],
     "batterySpec": "2x NP-FW50",
-    "image_url": "/images/products/sony/sony-vg-c2em.webp"
+    "image_url": "/images/products/sony/sony-vg-c2em.webp",
+    "weightGrams": 250,
+    "dimensions": "127 x 100.5 x 60.5 mm"
   },
   {
     "brand": "Sony",
@@ -79790,7 +79797,9 @@
       "sony-a7-iii"
     ],
     "batterySpec": "2x NP-FZ100",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "weightGrams": 272,
+    "dimensions": "126.9 x 107.9 x 61.8 mm"
   },
   {
     "brand": "Sony",
@@ -79829,7 +79838,8 @@
     "hasWeatherSeal": true,
     "retailPrice": 11682,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/sony/sony-vg-c5.webp"
+    "image_url": "/images/products/sony/sony-vg-c5.webp",
+    "weightGrams": 236
   },
   {
     "brand": "Nikon",
@@ -80455,7 +80465,9 @@
     "batterySpec": "LP-EL",
     "hasWeatherSeal": true,
     "retailPrice": 33900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "weightGrams": 572,
+    "dimensions": "84.4 x 149.0 x 136.4 mm"
   },
   {
     "brand": "Canon",
@@ -80542,7 +80554,8 @@
     "wirelessSystem": "Radio",
     "recycleTime": "1.5s",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/olympus/olympus-fl-700wr.webp"
+    "image_url": "/images/products/olympus/olympus-fl-700wr.webp",
+    "weightGrams": 303
   },
   {
     "brand": "Godox",
@@ -81477,7 +81490,9 @@
       "fujifilm-x-t4",
       "fujifilm-x-t30",
       "fujifilm-x-t100"
-    ]
+    ],
+    "weightGrams": 180,
+    "dimensions": "72.1 x 76.0 x 28.9 mm"
   },
   {
     "brand": "Metabones",
@@ -81507,7 +81522,9 @@
       "fujifilm-x-t4",
       "fujifilm-x-t30",
       "fujifilm-x-t100"
-    ]
+    ],
+    "weightGrams": 144,
+    "dimensions": "72.1 x 76.0 x 32.0 mm"
   },
   {
     "brand": "Metabones",
@@ -81828,7 +81845,9 @@
       "fujifilm-x-t50"
     ],
     "material": "Aluminum alloy, Wood",
-    "image_url": "/images/products/smallrig/smallrig-cage-4714.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4714.webp",
+    "weightGrams": 135,
+    "dimensions": "132.0 x 53.1 x 97.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -81883,7 +81902,8 @@
       "sony-a7r-v"
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t100-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t100-fcc.webp",
+    "weightGrams": 188.5
   },
   {
     "brand": "Tilta",
@@ -81916,7 +81936,8 @@
       "canon-eos-r5-ii"
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t68-fcc2.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t68-fcc2.webp",
+    "weightGrams": 241
   },
   {
     "brand": "Tilta",
@@ -81929,7 +81950,8 @@
       "canon-eos-r5-ii"
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t68-hcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t68-hcc.webp",
+    "weightGrams": 97.5
   },
   {
     "brand": "Tilta",
@@ -83145,7 +83167,9 @@
       "canon-eos-r6-ii",
       "canon-eos-r5-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5953.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5953.webp",
+    "weightGrams": 145,
+    "dimensions": "110.5 x 55.7 x 116.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -83270,7 +83294,9 @@
       "nikon-z8"
     ],
     "material": "Aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-z8.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-z8.webp",
+    "weightGrams": 190,
+    "dimensions": "159 x 131 x 52 mm"
   },
   {
     "brand": "Leofoto",
@@ -83283,7 +83309,9 @@
       "nikon-z8"
     ],
     "material": "Aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-z8b.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-z8b.webp",
+    "weightGrams": 220,
+    "dimensions": "165 x 184 x 72 mm"
   },
   {
     "brand": "Leofoto",
@@ -83296,7 +83324,9 @@
       "nikon-z9"
     ],
     "material": "Aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-z9.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-z9.webp",
+    "weightGrams": 240,
+    "dimensions": "164 x 160 x 70 mm"
   },
   {
     "brand": "Leofoto",
@@ -83310,7 +83340,9 @@
       "sony-fx30"
     ],
     "material": "Anodized aircraft-grade aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-fx3.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-fx3.webp",
+    "weightGrams": 170,
+    "dimensions": "145 x 106 x 59 mm"
   },
   {
     "brand": "Leofoto",
@@ -83393,7 +83425,8 @@
       "canon-eos-r5",
       "canon-eos-r5-ii"
     ],
-    "image_url": "/images/products/leofoto/leofoto-cage-eos-r5.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r5.webp",
+    "weightGrams": 220
   },
   {
     "brand": "Leofoto",
@@ -83450,7 +83483,9 @@
       "sony-a7-v"
     ],
     "material": "Anodized aircraft-grade aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-a7r5.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-a7r5.webp",
+    "weightGrams": 190,
+    "dimensions": "145 x 108 x 65 mm"
   },
   {
     "brand": "Leofoto",
@@ -83462,7 +83497,9 @@
     "compatibleWith": [
       "canon-eos-r10"
     ],
-    "image_url": "/images/products/leofoto/leofoto-cage-eos-r10.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r10.webp",
+    "weightGrams": 120,
+    "dimensions": "142 x 103 x 69 mm"
   },
   {
     "brand": "Leofoto",
@@ -83489,7 +83526,9 @@
     "compatibleWith": [
       "sony-zv-e10"
     ],
-    "image_url": "/images/products/leofoto/leofoto-cage-zv-e10.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-zv-e10.webp",
+    "weightGrams": 180,
+    "dimensions": "129 x 84 x 60 mm"
   },
   {
     "brand": "Leofoto",
@@ -83530,7 +83569,9 @@
       "fujifilm-x-t5"
     ],
     "material": "Anodized aircraft-grade aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-x-t5.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-x-t5.webp",
+    "weightGrams": 190,
+    "dimensions": "145 x 106 x 59 mm"
   },
   {
     "brand": "Leofoto",
@@ -83587,7 +83628,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-lm-404c-professional-carbon-fiber-tripod/",
     "legSections": 4,
     "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts",
-    "image_url": "/images/products/leofoto/leofoto-lm-404c.webp"
+    "image_url": "/images/products/leofoto/leofoto-lm-404c.webp",
+    "weightGrams": 2500
   },
   {
     "brand": "Leofoto",
@@ -83598,7 +83640,8 @@
     "officialUrl": "https://www.leofoto.com/product/leofoto-lm-364c-professional-carbon-fiber-tripod/",
     "legSections": 4,
     "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts",
-    "image_url": "/images/products/leofoto/leofoto-lm-364c.webp"
+    "image_url": "/images/products/leofoto/leofoto-lm-364c.webp",
+    "weightGrams": 1920
   },
   {
     "brand": "Leofoto",
@@ -83617,7 +83660,8 @@
     "id": "leofoto-ls-324c-lh-40",
     "accessoryType": "TRIPOD",
     "officialUrl": "https://www.leofoto.com/product/leofoto-ls-324clh-40-professional-carbon-fiber-tripod/",
-    "material": "Toray 10-layer carbon fiber"
+    "material": "Toray 10-layer carbon fiber",
+    "weightGrams": 1880
   },
   {
     "brand": "Leofoto",
@@ -84115,7 +84159,9 @@
       "red-komodo-6k",
       "red-komodo-x"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-rf-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-rf-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 198,
+    "dimensions": "73.0 x 77.2 x 28.1 mm"
   },
   {
     "brand": "Metabones",
@@ -84150,7 +84196,9 @@
       "red-komodo-6k",
       "red-komodo-x"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-rf-cine-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-rf-cine-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 234,
+    "dimensions": "81.4 x 89.0 x 29.7 mm"
   },
   {
     "brand": "Metabones",
@@ -84755,7 +84803,9 @@
     "compatibleWith": [
       "sony-a6600"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2493.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2493.webp",
+    "weightGrams": 139,
+    "dimensions": "138.0 x 84.5 x 55.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85033,7 +85083,8 @@
       "canon-eos-r1"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t78-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t78-fcc.webp",
+    "weightGrams": 203.5
   },
   {
     "brand": "Tilta",
@@ -86187,7 +86238,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy and brass with chromium plating",
-    "image_url": "/images/products/metabones/metabones-ef-efm-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-efm-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 192
   },
   {
     "brand": "Metabones",
@@ -86225,7 +86277,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy and brass with chromium plating",
-    "image_url": "/images/products/metabones/metabones-ef-x-cine-speed-booster-ultra-0-71x-ii-plus.webp"
+    "image_url": "/images/products/metabones/metabones-ef-x-cine-speed-booster-ultra-0-71x-ii-plus.webp",
+    "weightGrams": 225,
+    "dimensions": "86.2 x 89.5 x 28.9 mm"
   },
   {
     "brand": "Metabones",
@@ -86244,7 +86298,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy and brass with chromium plating",
-    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 176,
+    "dimensions": "72.4 x 82.0 x 31.4 mm"
   },
   {
     "brand": "Metabones",
@@ -86263,7 +86319,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Brass with chromium plating",
-    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 161
   },
   {
     "brand": "Fujifilm",
@@ -86291,7 +86348,8 @@
       "fujifilm-gfx-50r",
       "fujifilm-gfx-eterna-55"
     ],
-    "image_url": "/images/products/fujifilm/fujifilm-h-mount-adapter-g.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-h-mount-adapter-g.webp",
+    "weightGrams": 210
   },
   {
     "brand": "Leica",
@@ -87216,7 +87274,8 @@
     "compatibleWith": [
       "canon-eos-r50"
     ],
-    "image_url": "/images/products/leofoto/leofoto-cage-eos-r50.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r50.webp",
+    "weightGrams": 128
   },
   {
     "brand": "Leofoto",
@@ -87242,7 +87301,9 @@
       "fujifilm-x-h2"
     ],
     "material": "6061-T6 aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-x-h2.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-x-h2.webp",
+    "weightGrams": 170,
+    "dimensions": "150 x 110 x 69 mm"
   },
   {
     "brand": "Leofoto",
@@ -87270,7 +87331,9 @@
       "fujifilm-gfx-50s-ii"
     ],
     "material": "6061-T6 aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-gfx100s.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-gfx100s.webp",
+    "weightGrams": 210,
+    "dimensions": "164 x 115 x 65 mm"
   },
   {
     "brand": "Leofoto",
@@ -87297,7 +87360,8 @@
       "fujifilm-x-t4"
     ],
     "material": "6061-T6 aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-x-t4.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-x-t4.webp",
+    "weightGrams": 206
   },
   {
     "brand": "Leofoto",
@@ -87310,7 +87374,8 @@
       "canon-eos-r"
     ],
     "material": "6061-T6 aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-eos-r.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-r.webp",
+    "weightGrams": 209
   },
   {
     "brand": "Leofoto",
@@ -87323,7 +87388,8 @@
       "canon-eos-m50"
     ],
     "material": "6061-T6 aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-eos-m50.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-eos-m50.webp",
+    "weightGrams": 165
   },
   {
     "brand": "SmallRig",
@@ -87438,7 +87504,9 @@
     "releaseYear": 2018,
     "releaseMonth": 2,
     "guideNumber": "47",
-    "zoomRange": "24-105mm"
+    "zoomRange": "24-105mm",
+    "weightGrams": 385,
+    "dimensions": "74.6 x 130.4 x 105.1 mm"
   },
   {
     "brand": "Pentax",
@@ -88794,7 +88862,8 @@
       "sony-nex-c3",
       "sony-nex-3"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-e-cine-end-smart-adapter.webp"
+    "image_url": "/images/products/metabones/metabones-ef-e-cine-end-smart-adapter.webp",
+    "weightGrams": 285
   },
   {
     "brand": "Metabones",
@@ -88858,7 +88927,9 @@
       "sony-nex-c3",
       "sony-nex-3"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-e-cine-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-e-cine-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 242,
+    "dimensions": "88 x 91 x 26.5 mm"
   },
   {
     "brand": "Metabones",
@@ -88877,7 +88948,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-e-cine-smart-adapter.webp"
+    "image_url": "/images/products/metabones/metabones-ef-e-cine-smart-adapter.webp",
+    "weightGrams": 207,
+    "dimensions": "88 x 91 x 31 mm"
   },
   {
     "brand": "Metabones",
@@ -89003,7 +89076,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-x-smart-adapter-ii-plus.webp"
+    "image_url": "/images/products/metabones/metabones-ef-x-smart-adapter-ii-plus.webp",
+    "weightGrams": 144,
+    "dimensions": "72.1 x 76.0 x 32.0 mm"
   },
   {
     "brand": "Metabones",
@@ -89022,7 +89097,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-x-cine-smart-adapter-ii-plus.webp"
+    "image_url": "/images/products/metabones/metabones-ef-x-cine-smart-adapter-ii-plus.webp",
+    "weightGrams": 204,
+    "dimensions": "87.9 x 90.4 x 32.0 mm"
   },
   {
     "brand": "Metabones",
@@ -89046,7 +89123,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-m43-smart-adapter-ii.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-smart-adapter-ii.webp",
+    "weightGrams": 160,
+    "dimensions": "76.5 x 72.5 x 29.0 mm"
   },
   {
     "brand": "Metabones",
@@ -89065,7 +89144,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-m43-cine-smart-adapter.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-cine-smart-adapter.webp",
+    "weightGrams": 214,
+    "dimensions": "86.0 x 87.5 x 29.0 mm"
   },
   {
     "brand": "Metabones",
@@ -89086,7 +89167,9 @@
     "magnification": "0.71x",
     "opticalDesign": "5 elements in 4 groups",
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x-ii.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x-ii.webp",
+    "weightGrams": 165,
+    "dimensions": "72.3 x 76.0 x 24.8 mm"
   },
   {
     "brand": "Metabones",
@@ -89128,7 +89211,9 @@
     "magnification": "0.64x",
     "opticalDesign": "6 elements in 4 groups",
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x-ii.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x-ii.webp",
+    "weightGrams": 163,
+    "dimensions": "72.3 x 76.0 x 28.0 mm"
   },
   {
     "brand": "Metabones",
@@ -89149,7 +89234,8 @@
     "magnification": "0.64x",
     "opticalDesign": "6 elements in 4 groups",
     "material": "Brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x.webp",
+    "weightGrams": 182
   },
   {
     "brand": "Metabones",
@@ -89173,7 +89259,9 @@
     "compatibleWith": [
       "blackmagic-pocket-cinema-camera-4k"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 219,
+    "dimensions": "86.0 x 90.3 x 31.8 mm"
   },
   {
     "brand": "Metabones",
@@ -89199,7 +89287,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-xl-0-64x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-xl-0-64x.webp",
+    "weightGrams": 174,
+    "dimensions": "72.4 x 82.0 x 30.9 mm"
   },
   {
     "brand": "Metabones",
@@ -89225,7 +89315,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-xl-0-64x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-xl-0-64x.webp",
+    "weightGrams": 216,
+    "dimensions": "86.0 x 90.3 x 31.2 mm"
   },
   {
     "brand": "Metabones",
@@ -89249,7 +89341,8 @@
       "fujifilm-gfx-50r",
       "fujifilm-gfx-100"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-gfx-smart-adapter.webp"
+    "image_url": "/images/products/metabones/metabones-ef-gfx-smart-adapter.webp",
+    "weightGrams": 168
   },
   {
     "brand": "Metabones",
@@ -89275,7 +89368,8 @@
       "fujifilm-gfx-50r",
       "fujifilm-gfx-100"
     ],
-    "image_url": "/images/products/metabones/metabones-ef-gfx-smart-expander-1-26x.webp"
+    "image_url": "/images/products/metabones/metabones-ef-gfx-smart-expander-1-26x.webp",
+    "weightGrams": 346
   },
   {
     "brand": "Metabones",
@@ -90108,7 +90202,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-pl-bmpcc4k-cine-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-pl-bmpcc4k-cine-speed-booster-ultra-0-71x.webp",
+    "weightGrams": 428,
+    "dimensions": "93.1 x 94.0 x 46.0 mm"
   },
   {
     "brand": "Metabones",
@@ -92158,7 +92254,8 @@
       "sony-cyber-shot-dsc-rx100-vi"
     ],
     "weightGrams": 123,
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2434.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2434.webp",
+    "dimensions": "117.5 x 76 x 47 mm"
   },
   {
     "brand": "SmallRig",
@@ -92209,7 +92306,9 @@
       "leica-sl3",
       "leica-sl3-s"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4510b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4510b.webp",
+    "weightGrams": 228,
+    "dimensions": "172.5 x 73.5 x 118.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -92275,7 +92374,9 @@
       "panasonic-lumix-gh5ii",
       "panasonic-lumix-gh5s"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccp2646.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccp2646.webp",
+    "weightGrams": 190,
+    "dimensions": "152 x 111.50 x 65.80 mm"
   },
   {
     "brand": "SmallRig",
@@ -92563,7 +92664,9 @@
     "compatibleWith": [
       "sony-a9-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4533.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4533.webp",
+    "weightGrams": 194,
+    "dimensions": "165.0 x 70.3 x 112.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -92655,7 +92758,9 @@
     "gearType": "ACCESSORY",
     "id": "smallrig-cage-3668b",
     "accessoryType": "CAGE",
-    "officialUrl": "https://www.smallrig.com/global/Basic-Cage-Kit-for-Sony-A7RV-A7IV-A7SIII-3668B.html"
+    "officialUrl": "https://www.smallrig.com/global/Basic-Cage-Kit-for-Sony-A7RV-A7IV-A7SIII-3668B.html",
+    "weightGrams": 361,
+    "dimensions": "170 x 176.5 x 135 mm"
   },
   {
     "brand": "SmallRig",
@@ -94235,7 +94340,9 @@
     "officialUrl": "https://www.sigma-global.com/en/accessories/tc1401tc2001/",
     "opticalDesign": "7 elements in 5 groups",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/sigma/sigma-tc-1401-sigma-sa.webp"
+    "image_url": "/images/products/sigma/sigma-tc-1401-sigma-sa.webp",
+    "weightGrams": 190,
+    "dimensions": "Ø69.8 x 25.0 mm"
   },
   {
     "brand": "Sigma",
@@ -94253,6 +94360,8 @@
     "magnification": "2x",
     "officialUrl": "https://www.sigma-global.com/en/accessories/tc1401tc2001/",
     "opticalDesign": "10 elements in 5 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "weightGrams": 290,
+    "dimensions": "Ø69.8 x 48.9 mm"
   }
 ]
