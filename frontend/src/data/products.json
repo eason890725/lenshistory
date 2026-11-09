@@ -59057,7 +59057,8 @@
     "retailPrice": 21700,
     "retailPriceDate": "2026-10",
     "hasIBIS": false,
-    "processor": "4nm 8-core processor + 2 imaging chips"
+    "processor": "4nm 8-core processor + 2 imaging chips",
+    "dimensions": "50 x 100 x 26.4 mm"
   },
   {
     "id": "insta360-luna-pro",
@@ -59082,7 +59083,8 @@
     "retailPriceDate": "2026-10",
     "image_url": "/images/products/insta360/insta360-luna-pro.webp",
     "batterySpec": "Up to 4 h",
-    "processor": "Dual AI chip (dedicated imaging chip + 4nm flagship chip)"
+    "processor": "Dual AI chip (dedicated imaging chip + 4nm flagship chip)",
+    "dimensions": "52.78 x 155.7 x 38.47 mm"
   },
   {
     "id": "insta360-luna-ultra",
@@ -59107,7 +59109,8 @@
     "image_url": "/images/products/insta360/insta360-luna-ultra.webp",
     "retailPrice": 22990,
     "retailPriceDate": "2026-10",
-    "processor": "Triple AI Chip"
+    "processor": "Triple AI Chip",
+    "dimensions": "52.4 x 169.9 x 38.5 mm"
   },
   {
     "id": "insta360-x4-air",
@@ -63444,7 +63447,8 @@
     "hasWeatherSeal": false,
     "image_url": "/images/products/yi/yi-m1.webp",
     "evfMagnification": "None",
-    "afTargets": "Face"
+    "afTargets": "Face",
+    "dimensions": "113.5 x 64.3 x 33.6 mm"
   },
   {
     "id": "yi-12-40mm-f3-5-5-6",
@@ -63528,7 +63532,8 @@
     ],
     "image_url": "/images/products/slr-magic/slr-magic-microprime-cine-21mm-t1-6.webp",
     "weightGrams": 750,
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "dimensions": "Ø85 x 87 mm"
   },
   {
     "id": "slr-magic-microprime-cine-50mm-t1-4",
@@ -70753,7 +70758,8 @@
     "evfMagnification": "0.7x",
     "ports": "USB 2.0, HDMI",
     "afTargets": "Face",
-    "fixedLens": "F1.7-2.8 (24-75mm equiv.)"
+    "fixedLens": "F1.7-2.8 (24-75mm equiv.)",
+    "dimensions": "118 x 66 x 64 mm"
   },
   {
     "id": "leica-d-lux-8",
