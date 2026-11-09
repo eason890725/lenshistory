@@ -77470,7 +77470,9 @@
     "officialUrl": "https://www.nisioptics.com/nisi-black-mist",
     "filterKind": "Black mist 1/2, 1/4, 1/8",
     "filterSizes": "49-95mm",
-    "material": "Copper frame"
+    "material": "Copper frame",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Hoya",
@@ -79130,7 +79132,9 @@
     "opticalDesign": "4 elements in 4 groups",
     "image_url": "/images/products/viltrox/viltrox-ef-e-ii.webp",
     "retailPrice": 4999,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2017,
+    "releaseMonth": 11
   },
   {
     "brand": "Viltrox",
@@ -82027,7 +82031,9 @@
     "material": "Aluminum alloy, Wood",
     "image_url": "/images/products/smallrig/smallrig-cage-4714.webp",
     "weightGrams": 135,
-    "dimensions": "132.0 x 53.1 x 97.5 mm"
+    "dimensions": "132.0 x 53.1 x 97.5 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 5
   },
   {
     "brand": "SmallRig",
@@ -84942,7 +84948,8 @@
     "batterySpec": "4x AA",
     "weightGrams": 203,
     "dimensions": "85 x 61 x 85 mm",
-    "image_url": "/images/products/leica/leica-sf-40.webp"
+    "image_url": "/images/products/leica/leica-sf-40.webp",
+    "releaseYear": 2015
   },
   {
     "brand": "Nissin",
@@ -87682,7 +87689,9 @@
       "nikon-zr"
     ],
     "material": "Aluminum",
-    "image_url": "/images/products/leofoto/leofoto-cage-zr.webp"
+    "image_url": "/images/products/leofoto/leofoto-cage-zr.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 5
   },
   {
     "brand": "Leofoto",
@@ -87781,7 +87790,9 @@
     ],
     "material": "6061-T6 aluminum",
     "image_url": "/images/products/leofoto/leofoto-cage-x-t4.webp",
-    "weightGrams": 206
+    "weightGrams": 206,
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "Leofoto",
@@ -92236,7 +92247,9 @@
     "legSections": 3,
     "weightGrams": 21600,
     "material": "Aluminum",
-    "headType": "Libec QH1"
+    "headType": "Libec QH1",
+    "releaseYear": 2019,
+    "releaseMonth": 3
   },
   {
     "brand": "Libec",
@@ -92584,7 +92597,9 @@
       "red-komodo-6k",
       "red-komodo-x"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4335.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4335.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 7
   },
   {
     "brand": "SmallRig",
@@ -92932,7 +92947,9 @@
       "leica-sl2",
       "leica-sl2-s"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4162.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4162.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -93359,7 +93376,9 @@
       "sony-a7s-iii",
       "sony-a7-iv"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5518.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5518.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 8
   },
   {
     "brand": "SmallRig",
@@ -93906,7 +93925,9 @@
     "batterySpec": "4x AA",
     "weightGrams": 430,
     "dimensions": "62 x 78 x 205 mm",
-    "image_url": "/images/products/yongnuo/yongnuo-yn600ex-rt-ii.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn600ex-rt-ii.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 11
   },
   {
     "brand": "Yongnuo",
@@ -94597,7 +94618,9 @@
     "guideNumber": "15 (ISO 100, m)",
     "recycleTime": "2.5s",
     "batterySpec": "2x AA",
-    "weightGrams": 117
+    "weightGrams": 117,
+    "releaseYear": 2025,
+    "releaseMonth": 1
   },
   {
     "brand": "Godox",
