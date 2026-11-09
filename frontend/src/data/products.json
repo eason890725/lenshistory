@@ -78461,7 +78461,9 @@
       "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
       "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
       "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s"
-    ]
+    ],
+    "releaseYear": 2019,
+    "releaseMonth": 6
   },
   {
     "brand": "Panasonic",
@@ -78485,7 +78487,9 @@
       "panasonic-lumix-s-pro-70-200mm-f4-o-i-s",
       "panasonic-lumix-s-pro-70-200mm-f2-8-o-i-s",
       "panasonic-lumix-s-100-500mm-f5-7-1-o-i-s"
-    ]
+    ],
+    "releaseYear": 2019,
+    "releaseMonth": 6
   },
   {
     "brand": "Panasonic",
@@ -78620,7 +78624,9 @@
     ],
     "magnification": "1.4x",
     "retailPrice": 30400,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2023,
+    "releaseMonth": 3
   },
   {
     "brand": "Leica",
@@ -78635,7 +78641,9 @@
         }
       }
     ],
-    "magnification": "2.0x"
+    "magnification": "2.0x",
+    "releaseYear": 2024,
+    "releaseMonth": 9
   },
   {
     "brand": "Nikon",
@@ -78798,7 +78806,9 @@
     "hasElectronicContacts": true,
     "weightGrams": 110,
     "dimensions": "Ø66.6 x 26 mm",
-    "image_url": "/images/products/canon/canon-mount-adapter-ef-eos-m.webp"
+    "image_url": "/images/products/canon/canon-mount-adapter-ef-eos-m.webp",
+    "releaseYear": 2012,
+    "releaseMonth": 7
   },
   {
     "brand": "Hasselblad",
@@ -78936,7 +78946,9 @@
     "lensMount": "Leica M",
     "weightGrams": 65,
     "dimensions": "Ø59 x 14.7 mm",
-    "image_url": "/images/products/fujifilm/fujifilm-m-mount-adapter.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-m-mount-adapter.webp",
+    "releaseYear": 2012,
+    "releaseMonth": 5
   },
   {
     "brand": "Sigma",
@@ -78956,7 +78968,9 @@
     "hasElectronicContacts": true,
     "weightGrams": 125,
     "dimensions": "Ø69.4 x 26 mm",
-    "image_url": "/images/products/sigma/sigma-mc-11-sa-e.webp"
+    "image_url": "/images/products/sigma/sigma-mc-11-sa-e.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 2
   },
   {
     "brand": "Sigma",
@@ -78973,7 +78987,9 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": true
+    "hasElectronicContacts": true,
+    "releaseYear": 2016,
+    "releaseMonth": 2
   },
   {
     "brand": "Sigma",
@@ -78995,7 +79011,9 @@
     "dimensions": "Ø69.6 x 24 mm",
     "retailPrice": 5980,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/sigma/sigma-mc-21-sa-l.webp"
+    "image_url": "/images/products/sigma/sigma-mc-21-sa-l.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 2
   },
   {
     "brand": "Sigma",
@@ -79012,7 +79030,9 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": true
+    "hasElectronicContacts": true,
+    "releaseYear": 2019,
+    "releaseMonth": 2
   },
   {
     "brand": "Viltrox",
@@ -79150,7 +79170,9 @@
       "nikon-z30",
       "nikon-zf"
     ],
-    "image_url": "/images/products/megadap/megadap-etz21-pro.webp"
+    "image_url": "/images/products/megadap/megadap-etz21-pro.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "Breakthrough Photography",
@@ -79255,7 +79277,9 @@
     "filterSizes": "100mm square",
     "retailPrice": 5800,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/nisi/nisi-v7.webp"
+    "image_url": "/images/products/nisi/nisi-v7.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "NiSi",
@@ -79266,7 +79290,9 @@
     "officialUrl": "https://www.nisioptics.com/nisi-swift",
     "filterKind": "Variable ND (1-5 stops)",
     "filterSizes": "67-95mm",
-    "image_url": "/images/products/nisi/nisi-swift-nd-vario-1-5.webp"
+    "image_url": "/images/products/nisi/nisi-swift-nd-vario-1-5.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 9
   },
   {
     "brand": "NiSi",
@@ -79624,7 +79650,9 @@
     "material": "Aluminum alloy, Stainless steel",
     "weightGrams": 170,
     "dimensions": "152.2 x 113 x 62.7 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4519.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4519.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -79636,7 +79664,9 @@
     "compatibleWith": [
       "nikon-z9"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3195.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3195.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 11
   },
   {
     "brand": "SmallRig",
@@ -79731,7 +79761,9 @@
     "material": "Aluminum alloy, Stainless steel, Silicone",
     "weightGrams": 192.5,
     "dimensions": "160.3 x 114.0 x 62.0 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4824.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4824.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -80001,7 +80033,9 @@
     "weightGrams": 275,
     "batterySpec": "2x NP-W126S",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-vpb-xt2.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-vpb-xt2.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 7
   },
   {
     "brand": "Fujifilm",
@@ -80050,7 +80084,9 @@
       "om-system-om-1",
       "om-system-om-1-mark-ii"
     ],
-    "image_url": "/images/products/om-system/om-system-hld-10.webp"
+    "image_url": "/images/products/om-system/om-system-hld-10.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 2
   },
   {
     "brand": "Olympus",
@@ -80066,7 +80102,9 @@
       "olympus-om-d-e-m1-mark-ii",
       "olympus-om-d-e-m1-mark-iii"
     ],
-    "image_url": "/images/products/olympus/olympus-hld-9.webp"
+    "image_url": "/images/products/olympus/olympus-hld-9.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 9
   },
   {
     "brand": "Olympus",
@@ -80078,7 +80116,9 @@
     "dimensions": "128.5 x 48.2 x 57.3 mm",
     "weightGrams": 235,
     "hasWeatherSeal": true,
-    "image_url": "/images/products/olympus/olympus-hld-7.webp"
+    "image_url": "/images/products/olympus/olympus-hld-7.webp",
+    "releaseYear": 2013,
+    "releaseMonth": 9
   },
   {
     "brand": "Olympus",
@@ -80087,7 +80127,9 @@
     "id": "olympus-hld-8",
     "accessoryType": "BATTERY_GRIP",
     "batterySpec": "1x BLN-1",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2015,
+    "releaseMonth": 2
   },
   {
     "brand": "Olympus",
@@ -80095,7 +80137,9 @@
     "gearType": "ACCESSORY",
     "id": "olympus-hld-6",
     "accessoryType": "BATTERY_GRIP",
-    "batterySpec": "1x BLN-1"
+    "batterySpec": "1x BLN-1",
+    "releaseYear": 2012,
+    "releaseMonth": 2
   },
   {
     "brand": "Panasonic",
@@ -80112,7 +80156,8 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
-    "weightGrams": 322
+    "weightGrams": 322,
+    "releaseYear": 2023
   },
   {
     "brand": "Panasonic",
@@ -80126,7 +80171,9 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "134.2 x 44.7 x 70.9 mm",
-    "weightGrams": 316
+    "weightGrams": 316,
+    "releaseYear": 2025,
+    "releaseMonth": 2
   },
   {
     "brand": "Panasonic",
@@ -80154,7 +80201,9 @@
     "batterySpec": "1x DMW-BLF19",
     "hasWeatherSeal": true,
     "dimensions": "136.1 x 46.3 x 75.5 mm",
-    "weightGrams": 332
+    "weightGrams": 332,
+    "releaseYear": 2017,
+    "releaseMonth": 11
   },
   {
     "brand": "Panasonic",
@@ -80180,7 +80229,9 @@
     "batterySpec": "1x DMW-BLF19",
     "hasWeatherSeal": true,
     "dimensions": "135.5 x 41.0 x 70.7 mm",
-    "weightGrams": 319
+    "weightGrams": 319,
+    "releaseYear": 2017,
+    "releaseMonth": 1
   },
   {
     "brand": "Panasonic",
@@ -80196,7 +80247,9 @@
     "hasWeatherSeal": true,
     "dimensions": "148.7 x 49.5 x 80.3 mm",
     "weightGrams": 406,
-    "image_url": "/images/products/panasonic/panasonic-dmw-bgs1.webp"
+    "image_url": "/images/products/panasonic/panasonic-dmw-bgs1.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 2
   },
   {
     "brand": "Panasonic",
@@ -80211,7 +80264,9 @@
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
     "weightGrams": 321,
-    "image_url": "/images/products/panasonic/panasonic-dmw-bgs5.webp"
+    "image_url": "/images/products/panasonic/panasonic-dmw-bgs5.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Canon",
@@ -80233,7 +80288,9 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/canon/canon-bg-r20.webp",
     "retailPrice": 10200,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2024,
+    "releaseMonth": 7
   },
   {
     "brand": "Nikon",
@@ -80448,7 +80505,9 @@
     "weightGrams": 491,
     "dimensions": "80.2 x 139.9 x 123.3 mm",
     "retailPrice": 12900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2022,
+    "releaseMonth": 11
   },
   {
     "brand": "Canon",
@@ -80467,7 +80526,9 @@
     "retailPrice": 33900,
     "retailPriceDate": "2026-11",
     "weightGrams": 572,
-    "dimensions": "84.4 x 149.0 x 136.4 mm"
+    "dimensions": "84.4 x 149.0 x 136.4 mm",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Canon",
@@ -80626,7 +80687,9 @@
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
     "dimensions": "75 x 59 x 195 mm",
-    "image_url": "/images/products/godox/godox-v860iii-c.webp"
+    "image_url": "/images/products/godox/godox-v860iii-c.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80644,7 +80707,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
-    "dimensions": "75 x 59 x 195 mm"
+    "dimensions": "75 x 59 x 195 mm",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80662,7 +80727,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
-    "dimensions": "75 x 59 x 195 mm"
+    "dimensions": "75 x 59 x 195 mm",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80680,7 +80747,9 @@
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
     "dimensions": "75 x 59 x 195 mm",
-    "zoomRange": "20-200mm"
+    "zoomRange": "20-200mm",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80699,7 +80768,9 @@
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
     "dimensions": "75 x 59 x 195 mm",
-    "image_url": "/images/products/godox/godox-v860iii-o.webp"
+    "image_url": "/images/products/godox/godox-v860iii-o.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80717,7 +80788,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Li-ion 7.2V/2600mAh",
     "weightGrams": 410,
-    "dimensions": "75 x 59 x 195 mm"
+    "dimensions": "75 x 59 x 195 mm",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -80792,7 +80865,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
-    "dimensions": "65 x 46 x 47 mm"
+    "dimensions": "65 x 46 x 47 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 5
   },
   {
     "brand": "Godox",
@@ -80873,7 +80948,9 @@
     "recycleTime": "0.1-2.2s",
     "batterySpec": "2x AA",
     "weightGrams": 200,
-    "dimensions": "140 x 62 x 38 mm"
+    "dimensions": "140 x 62 x 38 mm",
+    "releaseYear": 2016,
+    "releaseMonth": 11
   },
   {
     "brand": "Godox",
@@ -80893,7 +80970,9 @@
     "recycleTime": "0.1-2.2s",
     "batterySpec": "2x AA",
     "weightGrams": 200,
-    "dimensions": "140 x 62 x 38 mm"
+    "dimensions": "140 x 62 x 38 mm",
+    "releaseYear": 2017,
+    "releaseMonth": 4
   },
   {
     "brand": "Godox",
@@ -80967,7 +81046,9 @@
     "recycleTime": "0.1-1.7s",
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
-    "dimensions": "150 x 62 x 38 mm"
+    "dimensions": "150 x 62 x 38 mm",
+    "releaseYear": 2018,
+    "releaseMonth": 3
   },
   {
     "brand": "Godox",
@@ -81004,7 +81085,9 @@
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
     "dimensions": "71 x 49 x 166 mm",
-    "image_url": "/images/products/godox/godox-v480c.webp"
+    "image_url": "/images/products/godox/godox-v480c.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -81022,7 +81105,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
-    "dimensions": "71 x 49 x 166 mm"
+    "dimensions": "71 x 49 x 166 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -81040,7 +81125,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
-    "dimensions": "71 x 49 x 166 mm"
+    "dimensions": "71 x 49 x 166 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -81058,7 +81145,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
-    "dimensions": "71 x 49 x 166 mm"
+    "dimensions": "71 x 49 x 166 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -81077,7 +81166,9 @@
     "batterySpec": "Li-ion VB22",
     "weightGrams": 361,
     "dimensions": "71 x 49 x 166 mm",
-    "image_url": "/images/products/godox/godox-v480o.webp"
+    "image_url": "/images/products/godox/godox-v480o.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -81096,7 +81187,9 @@
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
     "dimensions": "71.5 x 76 x 206 mm",
-    "image_url": "/images/products/godox/godox-v100c.webp"
+    "image_url": "/images/products/godox/godox-v100c.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -81114,7 +81207,9 @@
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
-    "dimensions": "71.5 x 76 x 206 mm"
+    "dimensions": "71.5 x 76 x 206 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -81132,7 +81227,9 @@
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
-    "dimensions": "71.5 x 76 x 206 mm"
+    "dimensions": "71.5 x 76 x 206 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -81150,7 +81247,9 @@
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
-    "dimensions": "71.5 x 76 x 206 mm"
+    "dimensions": "71.5 x 76 x 206 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -81168,7 +81267,9 @@
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
     "weightGrams": 616,
-    "dimensions": "71.5 x 76 x 206 mm"
+    "dimensions": "71.5 x 76 x 206 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Panasonic",
@@ -81258,7 +81359,9 @@
     "hasTTL": true,
     "batterySpec": "2x AAA",
     "weightGrams": 92,
-    "dimensions": "57.4 x 68.4 x 62.3 mm"
+    "dimensions": "57.4 x 68.4 x 62.3 mm",
+    "releaseYear": 2012,
+    "releaseMonth": 10
   },
   {
     "brand": "Canon",
@@ -81335,7 +81438,9 @@
     "lensMount": "Sony A",
     "weightGrams": 160,
     "dimensions": "78.5 x 86.5 x 44.5 mm",
-    "image_url": "/images/products/sony/sony-la-ea4.webp"
+    "image_url": "/images/products/sony/sony-la-ea4.webp",
+    "releaseYear": 2013,
+    "releaseMonth": 10
   },
   {
     "brand": "Sony",
@@ -81354,7 +81459,9 @@
     "lensMount": "Sony A",
     "weightGrams": 105,
     "dimensions": "76 x 69 x 35 mm",
-    "image_url": "/images/products/sony/sony-la-ea3.webp"
+    "image_url": "/images/products/sony/sony-la-ea3.webp",
+    "releaseYear": 2013,
+    "releaseMonth": 10
   },
   {
     "brand": "Canon",
@@ -81459,7 +81566,9 @@
     "lensMount": "PL",
     "weightGrams": 330,
     "dimensions": "Ø84.4 x 42 mm",
-    "image_url": "/images/products/sigma/sigma-mc-31-pl-l.webp"
+    "image_url": "/images/products/sigma/sigma-mc-31-pl-l.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 9
   },
   {
     "brand": "Metabones",
@@ -81492,7 +81601,9 @@
       "fujifilm-x-t100"
     ],
     "weightGrams": 180,
-    "dimensions": "72.1 x 76.0 x 28.9 mm"
+    "dimensions": "72.1 x 76.0 x 28.9 mm",
+    "releaseYear": 2020,
+    "releaseMonth": 6
   },
   {
     "brand": "Metabones",
@@ -81524,7 +81635,9 @@
       "fujifilm-x-t100"
     ],
     "weightGrams": 144,
-    "dimensions": "72.1 x 76.0 x 32.0 mm"
+    "dimensions": "72.1 x 76.0 x 32.0 mm",
+    "releaseYear": 2020,
+    "releaseMonth": 6
   },
   {
     "brand": "Metabones",
@@ -81592,7 +81705,9 @@
       "sony-a6600",
       "sony-zv-e10"
     ],
-    "image_url": "/images/products/techart/techart-lm-ea9.webp"
+    "image_url": "/images/products/techart/techart-lm-ea9.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 8
   },
   {
     "brand": "Techart",
@@ -81644,7 +81759,9 @@
       "nikon-z6",
       "nikon-z7"
     ],
-    "image_url": "/images/products/techart/techart-tzc-01.webp"
+    "image_url": "/images/products/techart/techart-tzc-01.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 1
   },
   {
     "brand": "Techart",
@@ -81685,7 +81802,9 @@
     "hasElectronicContacts": true,
     "material": "Brass lens and camera mounts, alloy body",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fringer/fringer-ef-nz-ii.webp"
+    "image_url": "/images/products/fringer/fringer-ef-nz-ii.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 7
   },
   {
     "brand": "Fringer",
@@ -81705,7 +81824,9 @@
     "hasElectronicContacts": true,
     "material": "Brass bayonets",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fringer/fringer-ef-fx-pro-iii.webp"
+    "image_url": "/images/products/fringer/fringer-ef-fx-pro-iii.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "Fringer",
@@ -81723,7 +81844,8 @@
     ],
     "lensMount": "Canon EF",
     "opticalDesign": "5 elements in 2 groups",
-    "image_url": "/images/products/fringer/fringer-ef-fx-ultra.webp"
+    "image_url": "/images/products/fringer/fringer-ef-fx-ultra.webp",
+    "releaseYear": 2025
   },
   {
     "brand": "SmallRig",
@@ -81832,7 +81954,9 @@
     "compatibleWith": [
       "nikon-z50-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4980.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4980.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "SmallRig",
@@ -81903,7 +82027,9 @@
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
     "image_url": "/images/products/tilta/tilta-cage-ta-t100-fcc.webp",
-    "weightGrams": 188.5
+    "weightGrams": 188.5,
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Tilta",
@@ -81923,7 +82049,9 @@
       "sony-a9"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t30-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t30-fcc.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 12
   },
   {
     "brand": "Tilta",
@@ -81951,7 +82079,9 @@
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
     "image_url": "/images/products/tilta/tilta-cage-ta-t68-hcc.webp",
-    "weightGrams": 97.5
+    "weightGrams": 97.5,
+    "releaseYear": 2024,
+    "releaseMonth": 10
   },
   {
     "brand": "Tilta",
@@ -81965,7 +82095,9 @@
       "canon-eos-r5-ii"
     ],
     "material": "Aluminum alloy, SUS304, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t99-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t99-fcc.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 1
   },
   {
     "brand": "Tilta",
@@ -81978,7 +82110,9 @@
       "sony-fx2"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t88-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t88-fcc.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 8
   },
   {
     "brand": "Tilta",
@@ -81992,7 +82126,9 @@
       "panasonic-lumix-gh6"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t15-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t15-fcc.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 2
   },
   {
     "brand": "8Sinn",
@@ -82304,7 +82440,9 @@
     "maxLoad": "4kg",
     "legSections": 5,
     "weightGrams": 850,
-    "material": "Carbon fiber"
+    "material": "Carbon fiber",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Sirui",
@@ -82319,7 +82457,9 @@
     "maxLoad": "4kg",
     "legSections": 5,
     "weightGrams": 1050,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Sirui",
@@ -82334,7 +82474,9 @@
     "legSections": 4,
     "weightGrams": 1570,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-traveler-7c.webp"
+    "image_url": "/images/products/sirui/sirui-traveler-7c.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Sirui",
@@ -82348,7 +82490,9 @@
     "maxLoad": "8kg",
     "legSections": 4,
     "weightGrams": 1890,
-    "material": "Aluminum"
+    "material": "Aluminum",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Sirui",
@@ -82718,7 +82862,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.marumi-filter.co.jp/product/pl/cpl/",
     "filterKind": "Circular Polarizer",
-    "filterSizes": "37-95mm"
+    "filterSizes": "37-95mm",
+    "releaseYear": 2007
   },
   {
     "brand": "Hoya",
@@ -82877,7 +83022,9 @@
     "recycleTime": "1.8s",
     "weightGrams": 470,
     "hasHSS": true,
-    "wirelessSystem": "Godox 2.4G Wireless X (built-in receiver)"
+    "wirelessSystem": "Godox 2.4G Wireless X (built-in receiver)",
+    "releaseYear": 2024,
+    "releaseMonth": 4
   },
   {
     "brand": "Godox",
@@ -82891,7 +83038,9 @@
     "recycleTime": "<3s",
     "weightGrams": 227,
     "dimensions": "84 x 114 x 176 mm",
-    "image_url": "/images/products/godox/godox-lux-senior.webp"
+    "image_url": "/images/products/godox/godox-lux-senior.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -82903,7 +83052,9 @@
     "guideNumber": "10 (ISO 100, m)",
     "batterySpec": "Lithium battery (3.7V 1700mAh)",
     "recycleTime": "2.5s",
-    "weightGrams": 171
+    "weightGrams": 171,
+    "releaseYear": 2023,
+    "releaseMonth": 11
   },
   {
     "brand": "Godox",
@@ -82915,7 +83066,9 @@
     "guideNumber": "12 (ISO 100, m)",
     "weightGrams": 130,
     "dimensions": "73.8 x 50.2 x 71.8 mm",
-    "image_url": "/images/products/godox/godox-lux-junior.webp"
+    "image_url": "/images/products/godox/godox-lux-junior.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -82939,7 +83092,9 @@
     "hasTTL": true,
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4G (X5 transmitter, max. 80m)",
-    "image_url": "/images/products/godox/godox-it32-x5.webp"
+    "image_url": "/images/products/godox/godox-it32-x5.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 11
   },
   {
     "brand": "Yongnuo",
@@ -82979,7 +83134,9 @@
     "guideNumber": "60 (ISO 100, 200mm)",
     "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio",
     "weightGrams": 300,
-    "image_url": "/images/products/nissin/nissin-i60a.webp"
+    "image_url": "/images/products/nissin/nissin-i60a.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 2
   },
   {
     "brand": "Canon",
@@ -83106,7 +83263,9 @@
       "fujifilm-x100-v",
       "fujifilm-x100f"
     ],
-    "image_url": "/images/products/fujifilm/fujifilm-ef-w1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-ef-w1.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 7
   },
   {
     "brand": "Olympus",
@@ -83117,7 +83276,9 @@
     "officialUrl": "https://explore.omsystem.com/us/en/fl-900r-electronic-flash",
     "guideNumber": "58",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/olympus/olympus-fl-900r.webp"
+    "image_url": "/images/products/olympus/olympus-fl-900r.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 9
   },
   {
     "brand": "SmallRig",
@@ -83129,7 +83290,9 @@
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5954.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5954.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "SmallRig",
@@ -83141,7 +83304,9 @@
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5955.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5955.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "SmallRig",
@@ -83153,7 +83318,9 @@
     "compatibleWith": [
       "canon-eos-r6-mark-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5960.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5960.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "SmallRig",
@@ -83169,7 +83336,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5953.webp",
     "weightGrams": 145,
-    "dimensions": "110.5 x 55.7 x 116.5 mm"
+    "dimensions": "110.5 x 55.7 x 116.5 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "SmallRig",
@@ -83218,7 +83387,9 @@
       "fujifilm-x-h2s",
       "fujifilm-x-h2"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3933.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3933.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -83230,7 +83401,9 @@
     "compatibleWith": [
       "sony-zv-e10-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4949.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4949.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 7
   },
   {
     "brand": "SmallRig",
@@ -83725,7 +83898,9 @@
     "maxLoad": "11kg",
     "legSections": 5,
     "headType": "Dual panoramic ball head",
-    "material": "Carbon fiber legs, aluminum alloy ball head"
+    "material": "Carbon fiber legs, aluminum alloy ball head",
+    "releaseYear": 2023,
+    "releaseMonth": 1
   },
   {
     "brand": "Benro",
@@ -83739,7 +83914,9 @@
     "maxLoad": "20kg",
     "legSections": 5,
     "headType": "Dual panoramic ball head",
-    "material": "Carbon fiber legs, aluminum alloy ball head"
+    "material": "Carbon fiber legs, aluminum alloy ball head",
+    "releaseYear": 2023,
+    "releaseMonth": 1
   },
   {
     "brand": "Benro",
@@ -83899,7 +84076,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
     "filterKind": "UV-Haze",
     "filterSizes": "37-112mm",
-    "material": "Color-neutral filter glass (MRC nano coating), brass mount"
+    "material": "Color-neutral filter glass (MRC nano coating), brass mount",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "B+W",
@@ -83910,7 +84089,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
     "filterKind": "Clear (protection)",
     "filterSizes": "37-112mm",
-    "material": "Highly transparent protective glass (MRC nano coating), brass mount"
+    "material": "Highly transparent protective glass (MRC nano coating), brass mount",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Hoya",
@@ -83943,7 +84124,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Brass, aluminum",
-    "image_url": "/images/products/megadap/megadap-eftz21.webp"
+    "image_url": "/images/products/megadap/megadap-eftz21.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 5
   },
   {
     "brand": "Megadap",
@@ -84198,7 +84381,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-rf-cine-speed-booster-ultra-0-71x.webp",
     "weightGrams": 234,
-    "dimensions": "81.4 x 89.0 x 29.7 mm"
+    "dimensions": "81.4 x 89.0 x 29.7 mm",
+    "releaseYear": 2021,
+    "releaseMonth": 11
   },
   {
     "brand": "Metabones",
@@ -84349,7 +84534,9 @@
     "weightGrams": 200,
     "dimensions": "78.5 x 86.5 x 44 mm",
     "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA2/feature_1.html",
-    "image_url": "/images/products/sony/sony-la-ea2.webp"
+    "image_url": "/images/products/sony/sony-la-ea2.webp",
+    "releaseYear": 2011,
+    "releaseMonth": 8
   },
   {
     "brand": "Sony",
@@ -84367,7 +84554,9 @@
     "lensMount": "Sony A",
     "weightGrams": 110,
     "dimensions": "Ø65 x 26.6 mm",
-    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA1/feature_1.html"
+    "officialUrl": "https://www.sony.jp/ichigan/products/archive/LA-EA1/feature_1.html",
+    "releaseYear": 2010,
+    "releaseMonth": 5
   },
   {
     "brand": "Tamron",
@@ -84655,7 +84844,9 @@
     "hasTTL": true,
     "hasHSS": true,
     "weightGrams": 203,
-    "image_url": "/images/products/nissin/nissin-i400.webp"
+    "image_url": "/images/products/nissin/nissin-i400.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 2
   },
   {
     "brand": "Nissin",
@@ -84676,7 +84867,9 @@
     "hasTTL": true,
     "hasHSS": true,
     "wirelessSystem": "Optical slave (SD/SF)",
-    "image_url": "/images/products/nissin/nissin-i40.webp"
+    "image_url": "/images/products/nissin/nissin-i40.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 2
   },
   {
     "brand": "Nissin",
@@ -84693,7 +84886,9 @@
       "Four Thirds"
     ],
     "wirelessSystem": "Optical slave (SD/SF)",
-    "image_url": "/images/products/nissin/nissin-di700a.webp"
+    "image_url": "/images/products/nissin/nissin-di700a.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 2
   },
   {
     "brand": "Nissin",
@@ -84708,7 +84903,8 @@
       "Sony"
     ],
     "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio, built-in commander",
-    "image_url": "/images/products/nissin/nissin-mg80-pro.webp"
+    "image_url": "/images/products/nissin/nissin-mg80-pro.webp",
+    "releaseYear": 2019
   },
   {
     "brand": "Nissin",
@@ -84719,7 +84915,8 @@
     "officialUrl": "https://www.nissindigital.com/mg10-details",
     "guideNumber": "80",
     "wirelessSystem": "Nissin Air System (NAS) radio (Air 10s / Air 1 commander)",
-    "image_url": "/images/products/nissin/nissin-mg10.webp"
+    "image_url": "/images/products/nissin/nissin-mg10.webp",
+    "releaseYear": 2018
   },
   {
     "brand": "SmallRig",
@@ -84977,7 +85174,9 @@
       "sony-a9-iii"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t66-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t66-fcc.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 3
   },
   {
     "brand": "Tilta",
@@ -84990,7 +85189,9 @@
       "nikon-zr"
     ],
     "material": "Aluminum alloy, Stainless steel, Wood",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t98-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t98-fcc.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "Tilta",
@@ -85016,7 +85217,8 @@
       "sony-zv-e1"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-zv-e1-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-zv-e1-fcc.webp",
+    "releaseYear": 2023
   },
   {
     "brand": "Tilta",
@@ -85029,7 +85231,8 @@
       "sony-zv-e1"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-zv-e1-hcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-zv-e1-hcc.webp",
+    "releaseYear": 2023
   },
   {
     "brand": "Tilta",
@@ -85070,7 +85273,9 @@
       "sony-zv-e10-ii"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t69-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t69-fcc.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Tilta",
@@ -85084,7 +85289,9 @@
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
     "image_url": "/images/products/tilta/tilta-cage-ta-t78-fcc.webp",
-    "weightGrams": 203.5
+    "weightGrams": 203.5,
+    "releaseYear": 2025,
+    "releaseMonth": 4
   },
   {
     "brand": "Tilta",
@@ -85124,7 +85331,9 @@
       "fujifilm-x-h2s"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t36-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t36-fcc.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 9
   },
   {
     "brand": "Tilta",
@@ -85142,7 +85351,9 @@
       "panasonic-lumix-g9ii"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t80-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t80-fcc.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 5
   },
   {
     "brand": "Tilta",
@@ -85155,7 +85366,9 @@
       "canon-eos-r5-c"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t32-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t32-fcc.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 6
   },
   {
     "brand": "Tilta",
@@ -85169,7 +85382,9 @@
       "canon-eos-r5-ii"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t99-hcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t99-hcc.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 1
   },
   {
     "brand": "Tilta",
@@ -85184,7 +85399,9 @@
       "sony-a7r-v"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t100-hcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t100-hcc.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Tilta",
@@ -85210,7 +85427,9 @@
       "canon-eos-c80"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-es-t25-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-es-t25-a.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 3
   },
   {
     "brand": "Tilta",
@@ -85262,7 +85481,9 @@
       "fujifilm-x100vi"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t70-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t70-a.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Tilta",
@@ -85288,7 +85509,9 @@
       "leica-q3"
     ],
     "material": "Aluminum alloy, Leather",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t76-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t76-a.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Tilta",
@@ -85314,7 +85537,9 @@
       "fujifilm-gfx-100rf"
     ],
     "material": "Leather, Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t81-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t81-a.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -85527,7 +85752,9 @@
     "weightGrams": 1870,
     "legSections": 4,
     "headType": "3-way pan head",
-    "image_url": "/images/products/slik/slik-pro-724-ex-ii.webp"
+    "image_url": "/images/products/slik/slik-pro-724-ex-ii.webp",
+    "releaseYear": 2010,
+    "releaseMonth": 3
   },
   {
     "brand": "Slik",
@@ -85542,7 +85769,9 @@
     "weightGrams": 1820,
     "legSections": 3,
     "headType": "3-way pan head",
-    "image_url": "/images/products/slik/slik-pro-723-ex-ii.webp"
+    "image_url": "/images/products/slik/slik-pro-723-ex-ii.webp",
+    "releaseYear": 2010,
+    "releaseMonth": 3
   },
   {
     "brand": "Slik",
@@ -85926,7 +86155,9 @@
     "id": "nisi-jetmag-pro",
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/jetmag-pro",
-    "filterKind": "Magnetic filter system (VND 1-5, FS ND, UV/IR, CPL, Natural Night, Black Mist, diffusion, cross screen)"
+    "filterKind": "Magnetic filter system (VND 1-5, FS ND, UV/IR, CPL, Natural Night, Black Mist, diffusion, cross screen)",
+    "releaseYear": 2024,
+    "releaseMonth": 10
   },
   {
     "brand": "Kase",
@@ -86130,7 +86361,8 @@
     "lensMount": "Pentax 645",
     "hasElectronicContacts": true,
     "material": "Full metal body, brass/alloy mounts",
-    "image_url": "/images/products/fringer/fringer-p645-gfx.webp"
+    "image_url": "/images/products/fringer/fringer-p645-gfx.webp",
+    "releaseYear": 2025
   },
   {
     "brand": "Fringer",
@@ -86149,7 +86381,9 @@
     "lensMount": "Nikon F",
     "hasElectronicContacts": true,
     "material": "Full metal body, brass mounts",
-    "image_url": "/images/products/fringer/fringer-nf-fx-ii.webp"
+    "image_url": "/images/products/fringer/fringer-nf-fx-ii.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 7
   },
   {
     "brand": "Fringer",
@@ -86166,7 +86400,8 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": true
+    "hasElectronicContacts": true,
+    "releaseYear": 2019
   },
   {
     "brand": "Fringer",
@@ -86239,7 +86474,9 @@
     "hasElectronicContacts": true,
     "material": "Aluminum alloy and brass with chromium plating",
     "image_url": "/images/products/metabones/metabones-ef-efm-speed-booster-ultra-0-71x.webp",
-    "weightGrams": 192
+    "weightGrams": 192,
+    "releaseYear": 2019,
+    "releaseMonth": 5
   },
   {
     "brand": "Metabones",
@@ -86258,7 +86495,9 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminum alloy and brass with chromium plating",
-    "image_url": "/images/products/metabones/metabones-ef-x-speed-booster-ultra-0-71x-ii-plus.webp"
+    "image_url": "/images/products/metabones/metabones-ef-x-speed-booster-ultra-0-71x-ii-plus.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 8
   },
   {
     "brand": "Metabones",
@@ -86279,7 +86518,9 @@
     "material": "Aluminum alloy and brass with chromium plating",
     "image_url": "/images/products/metabones/metabones-ef-x-cine-speed-booster-ultra-0-71x-ii-plus.webp",
     "weightGrams": 225,
-    "dimensions": "86.2 x 89.5 x 28.9 mm"
+    "dimensions": "86.2 x 89.5 x 28.9 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 8
   },
   {
     "brand": "Metabones",
@@ -86300,7 +86541,9 @@
     "material": "Aluminum alloy and brass with chromium plating",
     "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-ultra-0-71x.webp",
     "weightGrams": 176,
-    "dimensions": "72.4 x 82.0 x 31.4 mm"
+    "dimensions": "72.4 x 82.0 x 31.4 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -86320,7 +86563,9 @@
     "hasElectronicContacts": true,
     "material": "Brass with chromium plating",
     "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x.webp",
-    "weightGrams": 161
+    "weightGrams": 161,
+    "releaseYear": 2015,
+    "releaseMonth": 7
   },
   {
     "brand": "Fujifilm",
@@ -86370,7 +86615,9 @@
     "weightGrams": 155,
     "dimensions": "65 x 70 x 33 mm",
     "material": "Aluminum",
-    "image_url": "/images/products/leica/leica-r-adapter-l.webp"
+    "image_url": "/images/products/leica/leica-r-adapter-l.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 10
   },
   {
     "brand": "Leica",
@@ -86390,7 +86637,9 @@
     "hasElectronicContacts": true,
     "weightGrams": 70,
     "dimensions": "Ø61 x 13.3 mm",
-    "image_url": "/images/products/leica/leica-m-adapter-l.webp"
+    "image_url": "/images/products/leica/leica-m-adapter-l.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 4
   },
   {
     "brand": "Novoflex",
@@ -87181,7 +87430,9 @@
     "magnification": "1.4x",
     "officialUrl": "https://www.sigma-global.com/en/accessories/category/tele-converter/tc1401tc2001/",
     "opticalDesign": "7 elements in 5 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Sigma",
@@ -87199,7 +87450,9 @@
     "magnification": "1.4x",
     "officialUrl": "https://www.sigma-global.com/en/accessories/category/tele-converter/tc1401tc2001/",
     "opticalDesign": "7 elements in 5 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Sigma",
@@ -87217,7 +87470,9 @@
     "magnification": "2x",
     "officialUrl": "https://www.sigma-global.com/en/accessories/category/tele-converter/tc1401tc2001/",
     "opticalDesign": "10 elements in 5 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Sigma",
@@ -87235,7 +87490,9 @@
     "magnification": "2x",
     "officialUrl": "https://www.sigma-global.com/en/accessories/category/tele-converter/tc1401tc2001/",
     "opticalDesign": "10 elements in 5 groups",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Leofoto",
@@ -87414,7 +87671,9 @@
       "panasonic-lumix-s9"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/smallrig/smallrig-cage-4515.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4515.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 5
   },
   {
     "brand": "SmallRig",
@@ -87426,7 +87685,9 @@
     "compatibleWith": [
       "sony-zv-e10"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3531.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3531.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 9
   },
   {
     "brand": "Fujifilm",
@@ -87492,7 +87753,8 @@
       "fujifilm-finepix-s1",
       "fujifilm-finepix-sl240"
     ],
-    "image_url": "/images/products/fujifilm/fujifilm-ef-x20.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-ef-x20.webp",
+    "releaseYear": 2012
   },
   {
     "brand": "Canon",
@@ -87523,7 +87785,9 @@
     "batterySpec": "2x AAA",
     "weightGrams": 141,
     "dimensions": "65 x 72.5 x 31 mm",
-    "image_url": "/images/products/pentax/pentax-af201fg.webp"
+    "image_url": "/images/products/pentax/pentax-af201fg.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 2
   },
   {
     "brand": "Pentax",
@@ -87664,7 +87928,9 @@
     "filterKind": "ND (ND 0.6 / 0.9 / 1.8 / 3.0)",
     "filterSizes": "37-95mm",
     "material": "Brass mount, specialty glass (MRC nano coating)",
-    "image_url": "/images/products/bww/bw-master-nd-mrc-nano.webp"
+    "image_url": "/images/products/bww/bw-master-nd-mrc-nano.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "B+W",
@@ -87674,7 +87940,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://schneiderkreuznach.com/en/company/news/newsroom/new-nd-graduated-filters",
     "filterKind": "ND graduated (ND 0.3 / 0.6 / 0.9 / 1.2), rotating holder",
-    "filterSizes": "49-82mm"
+    "filterSizes": "49-82mm",
+    "releaseYear": 2023,
+    "releaseMonth": 9
   },
   {
     "brand": "B+W",
@@ -87707,7 +87975,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/mistfilter",
     "filterKind": "Mist diffusion (White Mist / Black Mist, 1/8, 1/4, 1/2, 1)",
     "filterSizes": "39-95mm",
-    "image_url": "/images/products/bww/bw-mist.webp"
+    "image_url": "/images/products/bww/bw-mist.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "B+W",
@@ -87728,7 +87998,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/protection/uv-clear",
     "filterKind": "UV-Haze",
     "filterSizes": "37-105mm",
-    "image_url": "/images/products/bww/bw-basic-010-uv-haze.webp"
+    "image_url": "/images/products/bww/bw-basic-010-uv-haze.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Leica",
@@ -87744,7 +88016,9 @@
       "leica-sl3-s",
       "leica-sl3-p"
     ],
-    "image_url": "/images/products/leica/leica-hg-scl7.webp"
+    "image_url": "/images/products/leica/leica-hg-scl7.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 3
   },
   {
     "brand": "Leica",
@@ -87757,7 +88031,9 @@
       "leica-sl2",
       "leica-sl2-s"
     ],
-    "image_url": "/images/products/leica/leica-hg-scl6.webp"
+    "image_url": "/images/products/leica/leica-hg-scl6.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 11
   },
   {
     "brand": "Leica",
@@ -88863,7 +89139,9 @@
       "sony-nex-3"
     ],
     "image_url": "/images/products/metabones/metabones-ef-e-cine-end-smart-adapter.webp",
-    "weightGrams": 285
+    "weightGrams": 285,
+    "releaseYear": 2024,
+    "releaseMonth": 9
   },
   {
     "brand": "Metabones",
@@ -88929,7 +89207,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-e-cine-speed-booster-ultra-0-71x.webp",
     "weightGrams": 242,
-    "dimensions": "88 x 91 x 26.5 mm"
+    "dimensions": "88 x 91 x 26.5 mm",
+    "releaseYear": 2017,
+    "releaseMonth": 1
   },
   {
     "brand": "Metabones",
@@ -88950,7 +89230,9 @@
     "material": "Brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-e-cine-smart-adapter.webp",
     "weightGrams": 207,
-    "dimensions": "88 x 91 x 31 mm"
+    "dimensions": "88 x 91 x 31 mm",
+    "releaseYear": 2017,
+    "releaseMonth": 1
   },
   {
     "brand": "Metabones",
@@ -89019,7 +89301,9 @@
       "sony-a6300",
       "sony-a6000"
     ],
-    "image_url": "/images/products/metabones/metabones-pl-e-cine-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-pl-e-cine-speed-booster-ultra-0-71x.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 4
   },
   {
     "brand": "Metabones",
@@ -89057,7 +89341,9 @@
     "magnification": "0.71x",
     "opticalDesign": "5 elements in 4 groups",
     "material": "Brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-fd-e-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-fd-e-speed-booster-ultra-0-71x.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Metabones",
@@ -89078,7 +89364,9 @@
     "material": "Aluminum alloy, brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-x-smart-adapter-ii-plus.webp",
     "weightGrams": 144,
-    "dimensions": "72.1 x 76.0 x 32.0 mm"
+    "dimensions": "72.1 x 76.0 x 32.0 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 8
   },
   {
     "brand": "Metabones",
@@ -89099,7 +89387,9 @@
     "material": "Aluminum alloy, brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-x-cine-smart-adapter-ii-plus.webp",
     "weightGrams": 204,
-    "dimensions": "87.9 x 90.4 x 32.0 mm"
+    "dimensions": "87.9 x 90.4 x 32.0 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 8
   },
   {
     "brand": "Metabones",
@@ -89125,7 +89415,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-m43-smart-adapter-ii.webp",
     "weightGrams": 160,
-    "dimensions": "76.5 x 72.5 x 29.0 mm"
+    "dimensions": "76.5 x 72.5 x 29.0 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -89146,7 +89438,9 @@
     "material": "Aluminum alloy, brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-m43-cine-smart-adapter.webp",
     "weightGrams": 214,
-    "dimensions": "86.0 x 87.5 x 29.0 mm"
+    "dimensions": "86.0 x 87.5 x 29.0 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -89169,7 +89463,9 @@
     "material": "Aluminum alloy, brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-ultra-0-71x-ii.webp",
     "weightGrams": 165,
-    "dimensions": "72.3 x 76.0 x 24.8 mm"
+    "dimensions": "72.3 x 76.0 x 24.8 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "Metabones",
@@ -89213,7 +89509,9 @@
     "material": "Aluminum alloy, brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x-ii.webp",
     "weightGrams": 163,
-    "dimensions": "72.3 x 76.0 x 28.0 mm"
+    "dimensions": "72.3 x 76.0 x 28.0 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "Metabones",
@@ -89235,7 +89533,9 @@
     "opticalDesign": "6 elements in 4 groups",
     "material": "Brass (chromium plated)",
     "image_url": "/images/products/metabones/metabones-ef-m43-speed-booster-xl-0-64x.webp",
-    "weightGrams": 182
+    "weightGrams": 182,
+    "releaseYear": 2015,
+    "releaseMonth": 6
   },
   {
     "brand": "Metabones",
@@ -89261,7 +89561,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-ultra-0-71x.webp",
     "weightGrams": 219,
-    "dimensions": "86.0 x 90.3 x 31.8 mm"
+    "dimensions": "86.0 x 90.3 x 31.8 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -89289,7 +89591,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-speed-booster-xl-0-64x.webp",
     "weightGrams": 174,
-    "dimensions": "72.4 x 82.0 x 30.9 mm"
+    "dimensions": "72.4 x 82.0 x 30.9 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -89317,7 +89621,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-bmpcc4k-cine-speed-booster-xl-0-64x.webp",
     "weightGrams": 216,
-    "dimensions": "86.0 x 90.3 x 31.2 mm"
+    "dimensions": "86.0 x 90.3 x 31.2 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -89342,7 +89648,9 @@
       "fujifilm-gfx-100"
     ],
     "image_url": "/images/products/metabones/metabones-ef-gfx-smart-adapter.webp",
-    "weightGrams": 168
+    "weightGrams": 168,
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "Metabones",
@@ -89369,7 +89677,9 @@
       "fujifilm-gfx-100"
     ],
     "image_url": "/images/products/metabones/metabones-ef-gfx-smart-expander-1-26x.webp",
-    "weightGrams": 346
+    "weightGrams": 346,
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "Metabones",
@@ -89387,7 +89697,9 @@
     ],
     "lensMount": "Nikon F",
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-nfg-gfx-adapter.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-gfx-adapter.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 2
   },
   {
     "brand": "Metabones",
@@ -89407,7 +89719,9 @@
     "magnification": "1.26x",
     "opticalDesign": "5 elements in 3 groups",
     "material": "Aluminum alloy, brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-nfg-gfx-expander-1-26x.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-gfx-expander-1-26x.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 2
   },
   {
     "brand": "Metabones",
@@ -90004,7 +90318,9 @@
     "magnification": "0.71x",
     "opticalDesign": "5 elements in 4 groups",
     "material": "Brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-nfg-x-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-x-speed-booster-ultra-0-71x.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Metabones",
@@ -90104,7 +90420,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-nfg-bmpcc4k-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-bmpcc4k-speed-booster-ultra-0-71x.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -90129,7 +90447,9 @@
       "blackmagic-pocket-cinema-camera",
       "blackmagic-micro-cinema-camera"
     ],
-    "image_url": "/images/products/metabones/metabones-nfg-bmpcc4k-speed-booster-xl-0-64x.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-bmpcc4k-speed-booster-xl-0-64x.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -90204,7 +90524,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-pl-bmpcc4k-cine-speed-booster-ultra-0-71x.webp",
     "weightGrams": 428,
-    "dimensions": "93.1 x 94.0 x 46.0 mm"
+    "dimensions": "93.1 x 94.0 x 46.0 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -90230,7 +90552,9 @@
       "pentax-q7",
       "pentax-q-s1"
     ],
-    "image_url": "/images/products/metabones/metabones-nfg-q-speed-booster-q666-0-50x.webp"
+    "image_url": "/images/products/metabones/metabones-nfg-q-speed-booster-q666-0-50x.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 8
   },
   {
     "brand": "Metabones",
@@ -90327,7 +90651,9 @@
     "magnification": "0.71x",
     "opticalDesign": "5 elements in 4 groups",
     "material": "Brass (chromium plated)",
-    "image_url": "/images/products/metabones/metabones-om-x-speed-booster-ultra-0-71x.webp"
+    "image_url": "/images/products/metabones/metabones-om-x-speed-booster-ultra-0-71x.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Metabones",
@@ -90377,7 +90703,9 @@
     "officialUrl": "https://leefilters.com/camera/lee100/lee100-filter-holder/",
     "filterKind": "Square filter holder (up to 4 filters)",
     "filterSizes": "100mm",
-    "material": "Injection-moulded composite"
+    "material": "Injection-moulded composite",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "LEE Filters",
@@ -90418,7 +90746,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://leefilters.com/camera/lee100/polarisers/",
     "filterKind": "Polariser (clips onto LEE100 holder)",
-    "material": "High-transmission polariser glass"
+    "material": "High-transmission polariser glass",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Cokin",
@@ -90565,7 +90895,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://leefilters.com/camera/lee-elements/",
     "filterKind": "CPL / VND 2-5 stops / VND 6-9 stops / Big Stopper / Little Stopper",
-    "filterSizes": "67-82mm"
+    "filterSizes": "67-82mm",
+    "releaseYear": 2021,
+    "releaseMonth": 11
   },
   {
     "brand": "Cokin",
@@ -90621,7 +90953,9 @@
     "filterKind": "IRND (ND8 3-stops / ND64 6-stops / ND1000 10-stops)",
     "filterSizes": "49-82mm",
     "material": "Aluminum frame",
-    "image_url": "/images/products/hoya/hoya-hd-mk-ii-irnd.webp"
+    "image_url": "/images/products/hoya/hoya-hd-mk-ii-irnd.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 10
   },
   {
     "brand": "Hoya",
@@ -90632,7 +90966,9 @@
     "officialUrl": "https://hoyafilter.com/product/fusion_antistatic_cir_pl_large_size/",
     "filterKind": "Circular Polarizer",
     "material": "Aluminum frame",
-    "image_url": "/images/products/hoya/hoya-fusion-antistatic-cir-pl.webp"
+    "image_url": "/images/products/hoya/hoya-fusion-antistatic-cir-pl.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -90694,7 +91030,9 @@
     "weightGrams": 770,
     "material": "Carbon fiber",
     "headType": "Integrated fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ultra-light-cf-fluid-head-tripod.webp"
+    "image_url": "/images/products/smallrig/smallrig-ultra-light-cf-fluid-head-tripod.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -90783,7 +91121,8 @@
     "weightGrams": 3800,
     "material": "Carbon fiber",
     "headType": "Hydraulic fluid head",
-    "image_url": "/images/products/smallrig/smallrig-tribex-carbon-ii-5755.webp"
+    "image_url": "/images/products/smallrig/smallrig-tribex-carbon-ii-5755.webp",
+    "releaseYear": 2025
   },
   {
     "brand": "SmallRig",
@@ -90799,7 +91138,9 @@
     "weightGrams": 3700,
     "material": "Aluminum",
     "headType": "Integrated hydraulic fluid head",
-    "image_url": "/images/products/smallrig/smallrig-tribex-se-5305.webp"
+    "image_url": "/images/products/smallrig/smallrig-tribex-se-5305.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -90815,7 +91156,9 @@
     "weightGrams": 5000,
     "material": "Carbon fiber",
     "headType": "Fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ad-100-3989.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-100-3989.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 4
   },
   {
     "brand": "SmallRig",
@@ -90830,7 +91173,9 @@
     "maxLoad": "25kg",
     "weightGrams": 3700,
     "material": "Carbon fiber",
-    "image_url": "/images/products/smallrig/smallrig-freeblazer-cf-tripod-4167.webp"
+    "image_url": "/images/products/smallrig/smallrig-freeblazer-cf-tripod-4167.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 4
   },
   {
     "brand": "SmallRig",
@@ -90861,7 +91206,9 @@
     "weightGrams": 1380,
     "material": "Carbon fiber",
     "headType": "Ball head",
-    "image_url": "/images/products/smallrig/smallrig-ap-100-4353.webp"
+    "image_url": "/images/products/smallrig/smallrig-ap-100-4353.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 11
   },
   {
     "brand": "SmallRig",
@@ -90890,7 +91237,9 @@
     "weightGrams": 2800,
     "material": "Aluminum alloy",
     "headType": "Detachable fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ad-50lite-4684.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-50lite-4684.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -90905,7 +91254,9 @@
     "weightGrams": 5900,
     "material": "Carbon fiber",
     "headType": "Fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ad-120-4463.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-120-4463.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 5
   },
   {
     "brand": "SmallRig",
@@ -90921,7 +91272,9 @@
     "weightGrams": 2800,
     "material": "Carbon fiber",
     "headType": "Detachable fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ad-50-carbon.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-50-carbon.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -90934,7 +91287,9 @@
     "minHeight": "31cm",
     "maxLoad": "6kg",
     "material": "Carbon fiber",
-    "image_url": "/images/products/smallrig/smallrig-ad-50-pro-4420.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-50-pro-4420.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 7
   },
   {
     "brand": "SmallRig",
@@ -91333,7 +91688,9 @@
     "legSections": 3,
     "weightGrams": 3500,
     "material": "Aluminum",
-    "headType": "Libec TH-Z H"
+    "headType": "Libec TH-Z H",
+    "releaseYear": 2026,
+    "releaseMonth": 4
   },
   {
     "brand": "Libec",
@@ -91381,7 +91738,9 @@
     "legSections": 3,
     "weightGrams": 3600,
     "material": "Aluminum",
-    "headType": "Libec TH-V H"
+    "headType": "Libec TH-V H",
+    "releaseYear": 2026,
+    "releaseMonth": 4
   },
   {
     "brand": "Libec",
@@ -91395,7 +91754,9 @@
     "foldedLength": "74.5cm",
     "maxLoad": "3kg",
     "legSections": 3,
-    "weightGrams": 2700
+    "weightGrams": 2700,
+    "releaseYear": 2025,
+    "releaseMonth": 11
   },
   {
     "brand": "Libec",
@@ -91459,7 +91820,9 @@
     "legSections": 3,
     "weightGrams": 6200,
     "material": "Aluminum",
-    "headType": "Libec H15"
+    "headType": "Libec H15",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Libec",
@@ -91475,7 +91838,9 @@
     "legSections": 3,
     "weightGrams": 6300,
     "material": "Aluminum",
-    "headType": "Libec H25"
+    "headType": "Libec H25",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Libec",
@@ -91491,7 +91856,9 @@
     "legSections": 3,
     "weightGrams": 6300,
     "material": "Aluminum",
-    "headType": "Libec H35"
+    "headType": "Libec H35",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Libec",
@@ -91507,7 +91874,9 @@
     "legSections": 3,
     "weightGrams": 6300,
     "material": "Aluminum",
-    "headType": "Libec H45"
+    "headType": "Libec H45",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Libec",
@@ -91523,7 +91892,9 @@
     "legSections": 3,
     "weightGrams": 6000,
     "material": "Aluminum",
-    "headType": "Libec H45"
+    "headType": "Libec H45",
+    "releaseYear": 2025,
+    "releaseMonth": 6
   },
   {
     "brand": "Libec",
@@ -91603,7 +91974,9 @@
     "legSections": 3,
     "weightGrams": 5600,
     "material": "Aluminum",
-    "headType": "Libec LX5 Head"
+    "headType": "Libec LX5 Head",
+    "releaseYear": 2025,
+    "releaseMonth": 10
   },
   {
     "brand": "Libec",
@@ -91619,7 +91992,9 @@
     "legSections": 3,
     "weightGrams": 5600,
     "material": "Aluminum",
-    "headType": "Libec LX7 Head"
+    "headType": "Libec LX7 Head",
+    "releaseYear": 2025,
+    "releaseMonth": 10
   },
   {
     "brand": "Libec",
@@ -91947,7 +92322,9 @@
     "maxLoad": "17kg",
     "legSections": 5,
     "material": "Carbon fiber",
-    "image_url": "/images/products/induro/induro-hydra-2.webp"
+    "image_url": "/images/products/induro/induro-hydra-2.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "SmallRig",
@@ -92011,7 +92388,9 @@
     ],
     "material": "Magnesium-aluminum alloy",
     "weightGrams": 186,
-    "image_url": "/images/products/smallrig/smallrig-cage-3046.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3046.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "SmallRig",
@@ -92050,7 +92429,9 @@
       "blackmagic-pyxis-12k"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-es-t21-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-es-t21-fcc.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "Tilta",
@@ -92064,7 +92445,9 @@
       "blackmagic-pyxis-12k"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-es-t21-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-es-t21-a.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "Tilta",
@@ -92078,7 +92461,9 @@
       "blackmagic-pyxis-12k"
     ],
     "material": "Aluminum alloy",
-    "image_url": "/images/products/tilta/tilta-cage-es-t21-b.webp"
+    "image_url": "/images/products/tilta/tilta-cage-es-t21-b.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 11
   },
   {
     "brand": "Tilta",
@@ -92091,7 +92476,9 @@
       "red-komodo-x"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t53-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t53-fcc.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "Tilta",
@@ -92104,7 +92491,9 @@
       "red-komodo-x"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t53-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t53-a.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "Tilta",
@@ -92117,7 +92506,9 @@
       "red-komodo-x"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-komodo-x-advanced-kit.webp"
+    "image_url": "/images/products/tilta/tilta-cage-komodo-x-advanced-kit.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "Tilta",
@@ -92130,7 +92521,9 @@
       "blackmagic-cinema-camera-6k"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t64-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t64-fcc.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 1
   },
   {
     "brand": "Tilta",
@@ -92143,7 +92536,9 @@
       "blackmagic-cinema-camera-6k"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t64-b.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t64-b.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 1
   },
   {
     "brand": "Tilta",
@@ -92156,7 +92551,9 @@
       "blackmagic-cinema-camera-6k"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t64-a.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t64-a.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 1
   },
   {
     "brand": "8Sinn",
@@ -92240,7 +92637,9 @@
       "leica-q3",
       "leica-q3-43"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4567.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4567.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -92293,7 +92692,9 @@
       "leica-sl3-s",
       "leica-sl3-p"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4510.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4510.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -92347,7 +92748,9 @@
       "sigma-fp",
       "sigma-fp-l"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3211.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3211.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -92360,7 +92763,9 @@
       "sigma-fp",
       "sigma-fp-l"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3227.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3227.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -92424,7 +92829,9 @@
     "compatibleWith": [
       "leica-q3"
     ],
-    "material": "Aluminum alloy, Ebony wood"
+    "material": "Aluminum alloy, Ebony wood",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Tilta",
@@ -92497,7 +92904,9 @@
     "compatibleWith": [
       "canon-eos-r5-c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3890.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3890.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 3
   },
   {
     "brand": "SmallRig",
@@ -92564,7 +92973,9 @@
     "compatibleWith": [
       "canon-eos-c400"
     ],
-    "material": "Aluminum alloy, SUS304 stainless steel, Silicone"
+    "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
+    "releaseYear": 2024,
+    "releaseMonth": 9
   },
   {
     "brand": "Tilta",
@@ -92589,7 +93000,9 @@
       "sony-fx5"
     ],
     "material": "Aluminum alloy, SUS304 stainless steel, Silicone",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t108-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t108-fcc.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 7
   },
   {
     "brand": "Tilta",
@@ -93528,7 +93941,9 @@
     "recycleTime": "2.5s",
     "batterySpec": "2x AA",
     "weightGrams": 216,
-    "dimensions": "144 x 65 x 37 mm"
+    "dimensions": "144 x 65 x 37 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -93546,7 +93961,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "recycleTime": "1.7s",
     "weightGrams": 329,
-    "dimensions": "168 x 72 x 72 mm"
+    "dimensions": "168 x 72 x 72 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Godox",
@@ -93582,7 +93999,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "recycleTime": "1.7s",
     "weightGrams": 329,
-    "dimensions": "168 x 72 x 72 mm"
+    "dimensions": "168 x 72 x 72 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Godox",
@@ -93599,7 +94018,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "recycleTime": "1.7s",
     "weightGrams": 329,
-    "dimensions": "168 x 72 x 72 mm"
+    "dimensions": "168 x 72 x 72 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Godox",
@@ -93616,7 +94037,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "recycleTime": "1.7s",
     "weightGrams": 329,
-    "dimensions": "168 x 72 x 72 mm"
+    "dimensions": "168 x 72 x 72 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Godox",
@@ -93632,7 +94055,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 45,
-    "dimensions": "41.5 x 41 x 32 mm"
+    "dimensions": "41.5 x 41 x 32 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93648,7 +94073,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 45,
-    "dimensions": "41.5 x 41 x 32 mm"
+    "dimensions": "41.5 x 41 x 32 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93664,7 +94091,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 45,
-    "dimensions": "41.5 x 41 x 32 mm"
+    "dimensions": "41.5 x 41 x 32 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93680,7 +94109,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 45,
-    "dimensions": "41.5 x 41 x 32 mm"
+    "dimensions": "41.5 x 41 x 32 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93696,7 +94127,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 45,
-    "dimensions": "41.5 x 41 x 32 mm"
+    "dimensions": "41.5 x 41 x 32 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93712,7 +94145,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 52,
-    "dimensions": "40 x 64 x 28 mm"
+    "dimensions": "40 x 64 x 28 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93728,7 +94163,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 52,
-    "dimensions": "40 x 64 x 28 mm"
+    "dimensions": "40 x 64 x 28 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93744,7 +94181,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 52,
-    "dimensions": "40 x 64 x 28 mm"
+    "dimensions": "40 x 64 x 28 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93760,7 +94199,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 52,
-    "dimensions": "40 x 64 x 28 mm"
+    "dimensions": "40 x 64 x 28 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93776,7 +94217,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/300mAh",
     "weightGrams": 52,
-    "dimensions": "40 x 64 x 28 mm"
+    "dimensions": "40 x 64 x 28 mm",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93798,7 +94241,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/700mAh",
     "weightGrams": 153,
-    "dimensions": "104 x 67 x 32 mm"
+    "dimensions": "104 x 67 x 32 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93817,7 +94262,9 @@
     "recycleTime": "1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/700mAh",
     "weightGrams": 153,
-    "dimensions": "104 x 67 x 32 mm"
+    "dimensions": "104 x 67 x 32 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 7
   },
   {
     "brand": "Godox",
@@ -93831,7 +94278,9 @@
     ],
     "recycleTime": "3.6s",
     "batterySpec": "Built-in Li-ion 7.4V/350mAh",
-    "weightGrams": 96
+    "weightGrams": 96,
+    "releaseYear": 2024,
+    "releaseMonth": 4
   },
   {
     "brand": "Godox",
@@ -94342,7 +94791,9 @@
     "hasWeatherSeal": true,
     "image_url": "/images/products/sigma/sigma-tc-1401-sigma-sa.webp",
     "weightGrams": 190,
-    "dimensions": "Ø69.8 x 25.0 mm"
+    "dimensions": "Ø69.8 x 25.0 mm",
+    "releaseYear": 2014,
+    "releaseMonth": 9
   },
   {
     "brand": "Sigma",
@@ -94362,6 +94813,8 @@
     "opticalDesign": "10 elements in 5 groups",
     "hasWeatherSeal": true,
     "weightGrams": 290,
-    "dimensions": "Ø69.8 x 48.9 mm"
+    "dimensions": "Ø69.8 x 48.9 mm",
+    "releaseYear": 2014,
+    "releaseMonth": 9
   }
 ]
