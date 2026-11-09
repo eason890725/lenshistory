@@ -79053,7 +79053,9 @@
     "dimensions": "72 x 82 x 30 mm",
     "image_url": "/images/products/viltrox/viltrox-ef-l-pro.webp",
     "retailPrice": 4900,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2022,
+    "releaseMonth": 9
   },
   {
     "brand": "Viltrox",
@@ -79074,7 +79076,9 @@
     "dimensions": "Ø61 x 29 mm",
     "image_url": "/images/products/viltrox/viltrox-nf-e1.webp",
     "retailPrice": 5500,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2017,
+    "releaseMonth": 5
   },
   {
     "brand": "Viltrox",
@@ -79207,7 +79211,9 @@
     "officialUrl": "https://www.polarpro.com/products/pmvnd-edii",
     "filterKind": "Variable ND (2-5 / 6-9 stops)",
     "filterSizes": "49-95mm",
-    "image_url": "/images/products/polarpro/polarpro-pmvnd-edition-ii.webp"
+    "image_url": "/images/products/polarpro/polarpro-pmvnd-edition-ii.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 9
   },
   {
     "brand": "Freewell",
@@ -79219,7 +79225,9 @@
     "filterKind": "Variable ND / CPL (3-7 stops, magnetic)",
     "filterSizes": "55-82mm",
     "weightGrams": 56,
-    "dimensions": "Ø94.5 x 8.75 mm"
+    "dimensions": "Ø94.5 x 8.75 mm",
+    "releaseYear": 2023,
+    "releaseMonth": 10
   },
   {
     "brand": "Tiffen",
@@ -79302,7 +79310,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/nisi-natural-night-filter",
     "filterKind": "Light pollution",
-    "filterSizes": "40.5-95mm"
+    "filterSizes": "40.5-95mm",
+    "releaseYear": 2017,
+    "releaseMonth": 4
   },
   {
     "brand": "Really Right Stuff",
@@ -79319,7 +79329,9 @@
     "weightGrams": 1450,
     "headType": "Integrated ball head",
     "material": "Carbon fiber",
-    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-bh.webp"
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-bh.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 12
   },
   {
     "brand": "Really Right Stuff",
@@ -79448,7 +79460,9 @@
     "maxLoad": "18kg",
     "material": "Carbon fiber",
     "headType": "Ball head (Arca-Swiss)",
-    "image_url": "/images/products/ulanzi/ulanzi-zero-y.webp"
+    "image_url": "/images/products/ulanzi/ulanzi-zero-y.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 9
   },
   {
     "brand": "Fotopro",
@@ -80004,7 +80018,9 @@
     "hasWeatherSeal": true,
     "retailPrice": 9900,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/fujifilm/fujifilm-vg-xt4.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-vg-xt4.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 2
   },
   {
     "brand": "Fujifilm",
@@ -80017,7 +80033,9 @@
     "weightGrams": 282,
     "batterySpec": "2x NP-W126S",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-vg-xt3.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-vg-xt3.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Fujifilm",
@@ -80068,7 +80086,9 @@
     "batterySpec": "1x NP-T125",
     "retailPrice": 19900,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/fujifilm/fujifilm-vg-gfx1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-vg-gfx1.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 1
   },
   {
     "brand": "OM System",
@@ -80215,7 +80235,9 @@
       "panasonic-lumix-gh3"
     ],
     "batterySpec": "1x DMW-BLF19",
-    "hasWeatherSeal": true
+    "hasWeatherSeal": true,
+    "releaseYear": 2012,
+    "releaseMonth": 9
   },
   {
     "brand": "Panasonic",
@@ -80828,7 +80850,9 @@
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
     "dimensions": "65 x 46 x 47 mm",
-    "image_url": "/images/products/godox/godox-it30pro-n.webp"
+    "image_url": "/images/products/godox/godox-it30pro-n.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 5
   },
   {
     "brand": "Godox",
@@ -80886,7 +80910,9 @@
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
     "dimensions": "65 x 46 x 47 mm",
-    "image_url": "/images/products/godox/godox-it30pro-o.webp"
+    "image_url": "/images/products/godox/godox-it30pro-o.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -81009,7 +81035,9 @@
     "recycleTime": "0.1-1.7s",
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
-    "dimensions": "150 x 62 x 38 mm"
+    "dimensions": "150 x 62 x 38 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 8
   },
   {
     "brand": "Godox",
@@ -81028,7 +81056,9 @@
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
     "dimensions": "150 x 62 x 38 mm",
-    "image_url": "/images/products/godox/godox-v350s.webp"
+    "image_url": "/images/products/godox/godox-v350s.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 3
   },
   {
     "brand": "Godox",
@@ -81327,7 +81357,9 @@
       "panasonic-lumix-g6",
       "panasonic-lumix-gf6"
     ],
-    "image_url": "/images/products/panasonic/panasonic-dmw-fl200l.webp"
+    "image_url": "/images/products/panasonic/panasonic-dmw-fl200l.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 4
   },
   {
     "brand": "Nikon",
@@ -81737,7 +81769,9 @@
       "nikon-zfc",
       "nikon-z30"
     ],
-    "image_url": "/images/products/techart/techart-tzm-02.webp"
+    "image_url": "/images/products/techart/techart-tzm-02.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 1
   },
   {
     "brand": "Techart",
@@ -81782,7 +81816,9 @@
     "compatibleWith": [
       "hasselblad-x1d-50c"
     ],
-    "image_url": "/images/products/techart/techart-tcx-01.webp"
+    "image_url": "/images/products/techart/techart-tcx-01.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 4
   },
   {
     "brand": "Fringer",
@@ -83442,7 +83478,9 @@
     "compatibleWith": [
       "sony-zv-e1"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4320.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4320.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "SmallRig",
@@ -84146,7 +84184,9 @@
     "weightGrams": 44,
     "material": "Brass, stainless steel",
     "lensMount": "Sony E",
-    "image_url": "/images/products/megadap/megadap-etz21-pro-plus.webp"
+    "image_url": "/images/products/megadap/megadap-etz21-pro-plus.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 7
   },
   {
     "brand": "Metabones",
@@ -84344,7 +84384,9 @@
     ],
     "image_url": "/images/products/metabones/metabones-ef-rf-speed-booster-ultra-0-71x.webp",
     "weightGrams": 198,
-    "dimensions": "73.0 x 77.2 x 28.1 mm"
+    "dimensions": "73.0 x 77.2 x 28.1 mm",
+    "releaseYear": 2020,
+    "releaseMonth": 4
   },
   {
     "brand": "Metabones",
@@ -84667,7 +84709,9 @@
     "wirelessSystem": "Radio (Godox 2.4G X)",
     "recycleTime": "0.01-1.5s",
     "batterySpec": "Li-ion 7.2V 2850mAh",
-    "weightGrams": 564
+    "weightGrams": 564,
+    "releaseYear": 2026,
+    "releaseMonth": 1
   },
   {
     "brand": "Godox",
@@ -84690,7 +84734,9 @@
     "wirelessSystem": "Radio (Godox 2.4G X)",
     "recycleTime": "0.01-1.8s",
     "batterySpec": "Li-ion 14.4V 2980mAh",
-    "image_url": "/images/products/godox/godox-ad200pro-ii.webp"
+    "image_url": "/images/products/godox/godox-ad200pro-ii.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 9
   },
   {
     "brand": "Godox",
@@ -84715,7 +84761,9 @@
     "recycleTime": "0.01-1.5s",
     "batterySpec": "Li-ion 14.4V 2600mAh (37.44Wh)",
     "weightGrams": 1200,
-    "image_url": "/images/products/godox/godox-ad300pro-ii.webp"
+    "image_url": "/images/products/godox/godox-ad300pro-ii.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -84742,7 +84790,9 @@
     "batterySpec": "Li-ion 21.6V 2600mAh",
     "weightGrams": 2000,
     "dimensions": "211 x 129 x 90 mm",
-    "image_url": "/images/products/godox/godox-ad400pro-ii.webp"
+    "image_url": "/images/products/godox/godox-ad400pro-ii.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 8
   },
   {
     "brand": "Nikon",
@@ -86055,7 +86105,9 @@
     "legSections": 5,
     "headType": "Ball head",
     "material": "Aluminium",
-    "image_url": "/images/products/velbon/velbon-ut-3ar.webp"
+    "image_url": "/images/products/velbon/velbon-ut-3ar.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 2
   },
   {
     "brand": "Velbon",
@@ -86295,7 +86347,9 @@
     "officialUrl": "https://www.marumi-filter.co.jp/product/lensprotect/",
     "filterKind": "Protector",
     "filterSizes": "37-95mm",
-    "material": "Tempered glass"
+    "material": "Tempered glass",
+    "releaseYear": 2017,
+    "releaseMonth": 3
   },
   {
     "brand": "Fringer",
@@ -86323,7 +86377,8 @@
       "fujifilm-gfx-50r",
       "fujifilm-gfx-50s-ii"
     ],
-    "image_url": "/images/products/fringer/fringer-ef-gfx-pro.webp"
+    "image_url": "/images/products/fringer/fringer-ef-gfx-pro.webp",
+    "releaseYear": 2021
   },
   {
     "brand": "Fringer",
@@ -86418,7 +86473,9 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": true
+    "hasElectronicContacts": true,
+    "releaseYear": 2020,
+    "releaseMonth": 4
   },
   {
     "brand": "Fringer",
@@ -86435,7 +86492,9 @@
       }
     ],
     "lensMount": "Canon EF",
-    "hasElectronicContacts": true
+    "hasElectronicContacts": true,
+    "releaseYear": 2020,
+    "releaseMonth": 1
   },
   {
     "brand": "Techart",
@@ -86454,7 +86513,8 @@
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
     "material": "Aluminium, brass bayonets",
-    "image_url": "/images/products/techart/techart-ef-gfx.webp"
+    "image_url": "/images/products/techart/techart-ef-gfx.webp",
+    "releaseYear": 2017
   },
   {
     "brand": "Metabones",
@@ -86594,7 +86654,9 @@
       "fujifilm-gfx-eterna-55"
     ],
     "image_url": "/images/products/fujifilm/fujifilm-h-mount-adapter-g.webp",
-    "weightGrams": 210
+    "weightGrams": 210,
+    "releaseYear": 2017,
+    "releaseMonth": 1
   },
   {
     "brand": "Leica",
@@ -88045,7 +88107,9 @@
     "material": "Leather",
     "compatibleWith": [
       "leica-q3"
-    ]
+    ],
+    "releaseYear": 2023,
+    "releaseMonth": 5
   },
   {
     "brand": "K&F Concept",
@@ -90760,7 +90824,9 @@
     "filterKind": "Square filter holder (2 filters + polariser)",
     "filterSizes": "100mm",
     "material": "Reinforced aluminium",
-    "image_url": "/images/products/cokin/cokin-nx-series-filter-holder.webp"
+    "image_url": "/images/products/cokin/cokin-nx-series-filter-holder.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 5
   },
   {
     "brand": "Cokin",
@@ -90811,7 +90877,9 @@
     "officialUrl": "https://cokin.com/fr/209-filtres-nuances-clearsky",
     "filterKind": "Light pollution filter",
     "material": "Neodymium-doped phosphate glass, AR & AF multi-coated",
-    "image_url": "/images/products/cokin/cokin-nuances-clearsky.webp"
+    "image_url": "/images/products/cokin/cokin-nuances-clearsky.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 7
   },
   {
     "brand": "Cokin",
@@ -90998,7 +91066,9 @@
     "weightGrams": 4380,
     "material": "Aluminum alloy",
     "headType": "Fluid head",
-    "image_url": "/images/products/smallrig/smallrig-ad-80-4163.webp"
+    "image_url": "/images/products/smallrig/smallrig-ad-80-4163.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 8
   },
   {
     "brand": "SmallRig",
@@ -91508,7 +91578,9 @@
     "weightGrams": 3410,
     "material": "Aluminum",
     "headType": "Video head (continuous pan drag, 60mm bowl)",
-    "image_url": "/images/products/benro/benro-kh25pc.webp"
+    "image_url": "/images/products/benro/benro-kh25pc.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 2
   },
   {
     "brand": "Benro",
@@ -91582,7 +91654,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6600,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv8T fluid head"
+    "headType": "Sachtler aktiv8T fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "Sachtler",
@@ -91597,7 +91671,9 @@
     "maxLoad": "8kg",
     "weightGrams": 6200,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv6 fluid head"
+    "headType": "Sachtler aktiv6 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91657,7 +91733,9 @@
     "maxLoad": "12kg",
     "weightGrams": 7000,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv10T fluid head"
+    "headType": "Sachtler aktiv10T fluid head",
+    "releaseYear": 2022,
+    "releaseMonth": 1
   },
   {
     "brand": "Sachtler",
@@ -91672,7 +91750,9 @@
     "maxLoad": "12kg",
     "weightGrams": 7000,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv10T fluid head"
+    "headType": "Sachtler aktiv10T fluid head",
+    "releaseYear": 2022,
+    "releaseMonth": 1
   },
   {
     "brand": "Libec",
@@ -91706,7 +91786,9 @@
     "legSections": 3,
     "weightGrams": 3200,
     "material": "Aluminum",
-    "headType": "Libec TH-X H"
+    "headType": "Libec TH-X H",
+    "releaseYear": 2026,
+    "releaseMonth": 9
   },
   {
     "brand": "Libec",
@@ -92735,7 +92817,8 @@
       "hasselblad-x2d-100c",
       "hasselblad-x2d-ii-100c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5929.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5929.webp",
+    "releaseYear": 2026
   },
   {
     "brand": "SmallRig",
@@ -93757,7 +93840,9 @@
     "batterySpec": "4x AA",
     "weightGrams": 430,
     "dimensions": "65 x 78 x 204 mm",
-    "image_url": "/images/products/yongnuo/yongnuo-yn650ex-rf.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn650ex-rf.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 11
   },
   {
     "brand": "Yongnuo",
@@ -94296,7 +94381,9 @@
     "recycleTime": "0.1-1.5s",
     "batterySpec": "Built-in Li-ion 7.4V/700mAh",
     "weightGrams": 121,
-    "dimensions": "62 x 64 x 48 mm"
+    "dimensions": "62 x 64 x 48 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 6
   },
   {
     "brand": "Godox",
@@ -94327,7 +94414,9 @@
     "recycleTime": "3s",
     "batterySpec": "Built-in Li-ion 3.8V/470mAh",
     "weightGrams": 34,
-    "dimensions": "57 x 40 x 22 mm"
+    "dimensions": "57 x 40 x 22 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -94342,7 +94431,9 @@
     "recycleTime": "3s",
     "batterySpec": "Built-in Li-ion 3.8V/470mAh",
     "weightGrams": 31,
-    "dimensions": "39 x 38 x 29.5 mm"
+    "dimensions": "39 x 38 x 29.5 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 12
   },
   {
     "brand": "Godox",
@@ -94357,7 +94448,9 @@
     "recycleTime": "3s",
     "batterySpec": "Built-in Li-ion 3.7V/125mAh",
     "weightGrams": 23,
-    "dimensions": "40 x 40 x 30 mm"
+    "dimensions": "40 x 40 x 30 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 10
   },
   {
     "brand": "Godox",
@@ -94770,7 +94863,9 @@
     "opticalDesign": "4 elements in 4 groups",
     "weightGrams": 115,
     "dimensions": "Ø66 x 27 mm",
-    "image_url": "/images/products/kenko/kenko-teleplus-mc4-dgx-nikon-f.webp"
+    "image_url": "/images/products/kenko/kenko-teleplus-mc4-dgx-nikon-f.webp",
+    "releaseYear": 2009,
+    "releaseMonth": 8
   },
   {
     "brand": "Sigma",
