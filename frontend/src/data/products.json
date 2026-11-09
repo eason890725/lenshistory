@@ -79150,7 +79150,9 @@
     "hasElectronicContacts": true,
     "image_url": "/images/products/viltrox/viltrox-e-z.webp",
     "retailPrice": 4590,
-    "retailPriceDate": "2026-11"
+    "retailPriceDate": "2026-11",
+    "releaseYear": 2025,
+    "releaseMonth": 1
   },
   {
     "brand": "Megadap",
@@ -80075,7 +80077,9 @@
     "weightGrams": 300,
     "batterySpec": "2x NP-W126S",
     "hasWeatherSeal": true,
-    "image_url": "/images/products/fujifilm/fujifilm-vpb-xh1.webp"
+    "image_url": "/images/products/fujifilm/fujifilm-vpb-xh1.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 2
   },
   {
     "brand": "Fujifilm",
@@ -80213,7 +80217,9 @@
     "batterySpec": "1x DMW-BLC12",
     "hasWeatherSeal": true,
     "dimensions": "127.4 x 40.4 x 65.1 mm",
-    "weightGrams": 291
+    "weightGrams": 291,
+    "releaseYear": 2016,
+    "releaseMonth": 9
   },
   {
     "brand": "Panasonic",
@@ -80837,7 +80843,9 @@
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
     "dimensions": "65 x 46 x 47 mm",
-    "image_url": "/images/products/godox/godox-it30pro-c.webp"
+    "image_url": "/images/products/godox/godox-it30pro-c.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 5
   },
   {
     "brand": "Godox",
@@ -80877,7 +80885,9 @@
     "batterySpec": "Built-in Li-ion 7.4V/900mAh",
     "weightGrams": 120,
     "dimensions": "65 x 46 x 47 mm",
-    "image_url": "/images/products/godox/godox-it30pro-s.webp"
+    "image_url": "/images/products/godox/godox-it30pro-s.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 5
   },
   {
     "brand": "Godox",
@@ -81333,7 +81343,9 @@
       "panasonic-lumix-g6",
       "panasonic-lumix-gf6"
     ],
-    "image_url": "/images/products/panasonic/panasonic-dmw-fl580l.webp"
+    "image_url": "/images/products/panasonic/panasonic-dmw-fl580l.webp",
+    "releaseYear": 2014,
+    "releaseMonth": 2
   },
   {
     "brand": "Panasonic",
@@ -81984,7 +81996,9 @@
       "nikon-z7",
       "nikon-z7-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5257.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5257.webp",
+    "releaseYear": 2025,
+    "releaseMonth": 4
   },
   {
     "brand": "SmallRig",
@@ -82053,7 +82067,9 @@
       "sony-fx30"
     ],
     "material": "Aluminum alloy, Stainless steel",
-    "image_url": "/images/products/tilta/tilta-cage-ta-t16-fcc.webp"
+    "image_url": "/images/products/tilta/tilta-cage-ta-t16-fcc.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 7
   },
   {
     "brand": "Tilta",
@@ -82233,7 +82249,9 @@
     "weightGrams": 167,
     "dimensions": "153 x 102 x 62 mm",
     "material": "Aluminum",
-    "image_url": "/images/products/8sinn/8sinn-cage-8-fx-h2s.webp"
+    "image_url": "/images/products/8sinn/8sinn-cage-8-fx-h2s.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 2
   },
   {
     "brand": "8Sinn",
@@ -82297,7 +82315,9 @@
     "weightGrams": 186,
     "dimensions": "151 x 114 x 66 mm",
     "material": "Aluminum",
-    "image_url": "/images/products/8sinn/8sinn-cage-8-gh6.webp"
+    "image_url": "/images/products/8sinn/8sinn-cage-8-gh6.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 3
   },
   {
     "brand": "8Sinn",
@@ -82550,7 +82570,9 @@
     "legSections": 4,
     "weightGrams": 1500,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-t-1004sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-1004sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82566,7 +82588,9 @@
     "legSections": 4,
     "weightGrams": 1200,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-t-1204sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-1204sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82582,7 +82606,9 @@
     "legSections": 4,
     "weightGrams": 2000,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-t-2004sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-2004sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82598,7 +82624,9 @@
     "legSections": 4,
     "weightGrams": 1600,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-t-2204sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-2204sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82614,7 +82642,9 @@
     "legSections": 5,
     "weightGrams": 900,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-t-005sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-005sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82630,7 +82660,9 @@
     "legSections": 5,
     "weightGrams": 800,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-t-025sk.webp"
+    "image_url": "/images/products/sirui/sirui-t-025sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82646,7 +82678,9 @@
     "legSections": 3,
     "weightGrams": 2000,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-sr-3203.webp"
+    "image_url": "/images/products/sirui/sirui-sr-3203.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82662,7 +82696,9 @@
     "legSections": 4,
     "weightGrams": 2000,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-sr-3204.webp"
+    "image_url": "/images/products/sirui/sirui-sr-3204.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82678,7 +82714,9 @@
     "legSections": 4,
     "weightGrams": 2500,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-sr-3004.webp"
+    "image_url": "/images/products/sirui/sirui-sr-3004.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82694,7 +82732,9 @@
     "legSections": 4,
     "weightGrams": 1700,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-n-1004sk.webp"
+    "image_url": "/images/products/sirui/sirui-n-1004sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82710,7 +82750,9 @@
     "legSections": 4,
     "weightGrams": 1400,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-n-1204sk.webp"
+    "image_url": "/images/products/sirui/sirui-n-1204sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82726,7 +82768,9 @@
     "legSections": 4,
     "weightGrams": 2100,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-n-2004sk.webp"
+    "image_url": "/images/products/sirui/sirui-n-2004sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82742,7 +82786,9 @@
     "legSections": 4,
     "weightGrams": 1700,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-n-2204sk.webp"
+    "image_url": "/images/products/sirui/sirui-n-2204sk.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 8
   },
   {
     "brand": "Sirui",
@@ -82758,7 +82804,9 @@
     "legSections": 4,
     "weightGrams": 1700,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-w-1004.webp"
+    "image_url": "/images/products/sirui/sirui-w-1004.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82774,7 +82822,9 @@
     "legSections": 4,
     "weightGrams": 1400,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-w-1204.webp"
+    "image_url": "/images/products/sirui/sirui-w-1204.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82790,7 +82840,9 @@
     "legSections": 4,
     "weightGrams": 2100,
     "material": "Aluminum",
-    "image_url": "/images/products/sirui/sirui-w-2004.webp"
+    "image_url": "/images/products/sirui/sirui-w-2004.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 7
   },
   {
     "brand": "Sirui",
@@ -82806,7 +82858,9 @@
     "legSections": 4,
     "weightGrams": 1700,
     "material": "Carbon fiber",
-    "image_url": "/images/products/sirui/sirui-w-2204.webp"
+    "image_url": "/images/products/sirui/sirui-w-2204.webp",
+    "releaseYear": 2015,
+    "releaseMonth": 7
   },
   {
     "brand": "Kenko",
@@ -83050,7 +83104,9 @@
     "filterSizes": "100x100mm, 100x150mm",
     "compatibleWith": [
       "sony-14mm-f1-8-gm"
-    ]
+    ],
+    "releaseYear": 2021,
+    "releaseMonth": 11
   },
   {
     "brand": "Godox",
@@ -83416,7 +83472,9 @@
     "compatibleWith": [
       "nikon-z30"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3858.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3858.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 6
   },
   {
     "brand": "SmallRig",
@@ -83817,7 +83875,9 @@
     "weightGrams": 1950,
     "headType": "Ball head (LH-40)",
     "material": "10-layer carbon fiber, titanium components",
-    "image_url": "/images/products/leofoto/leofoto-lp-324c-lh-40.webp"
+    "image_url": "/images/products/leofoto/leofoto-lp-324c-lh-40.webp",
+    "releaseYear": 2021,
+    "releaseMonth": 7
   },
   {
     "brand": "Leofoto",
@@ -83846,7 +83906,9 @@
     "legSections": 4,
     "material": "10x carbon fiber tubes, CNC-machined 6061 aluminum parts",
     "image_url": "/images/products/leofoto/leofoto-lm-404c.webp",
-    "weightGrams": 2500
+    "weightGrams": 2500,
+    "releaseYear": 2020,
+    "releaseMonth": 12
   },
   {
     "brand": "Leofoto",
@@ -83911,7 +83973,8 @@
     "weightGrams": 1360,
     "headType": "Platform only (3/8\"-16 thread)",
     "material": "Carbon fiber",
-    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-pf.webp"
+    "image_url": "/images/products/really-right-stuff/rrs-ascend-14-pf.webp",
+    "releaseYear": 2020
   },
   {
     "brand": "Really Right Stuff",
@@ -86032,7 +86095,9 @@
     "weightGrams": 1460,
     "legSections": 4,
     "headType": "3-way pan head",
-    "image_url": "/images/products/slik/slik-f-740.webp"
+    "image_url": "/images/products/slik/slik-f-740.webp",
+    "releaseYear": 2008,
+    "releaseMonth": 9
   },
   {
     "brand": "Slik",
@@ -86062,7 +86127,9 @@
     "weightGrams": 1320,
     "legSections": 3,
     "headType": "3-way pan head",
-    "image_url": "/images/products/slik/slik-f-630.webp"
+    "image_url": "/images/products/slik/slik-f-630.webp",
+    "releaseYear": 2008,
+    "releaseMonth": 9
   },
   {
     "brand": "Slik",
@@ -86178,7 +86245,9 @@
     "legSections": 4,
     "headType": "3-way pan head",
     "material": "Aluminium",
-    "image_url": "/images/products/velbon/velbon-ex-440.webp"
+    "image_url": "/images/products/velbon/velbon-ex-440.webp",
+    "releaseYear": 2011,
+    "releaseMonth": 6
   },
   {
     "brand": "Velbon",
@@ -86194,7 +86263,9 @@
     "maxLoad": "12kg",
     "legSections": 4,
     "material": "Carbon fiber legs, magnesium alloy body",
-    "image_url": "/images/products/velbon/velbon-pro-geo-v840bw.webp"
+    "image_url": "/images/products/velbon/velbon-pro-geo-v840bw.webp",
+    "releaseYear": 2016,
+    "releaseMonth": 5
   },
   {
     "brand": "NiSi",
@@ -86204,7 +86275,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/nisi-pro-nano-natural-cpl",
     "filterKind": "Circular polarizer",
-    "filterSizes": "46-95mm"
+    "filterSizes": "46-95mm",
+    "releaseYear": 2020,
+    "releaseMonth": 8
   },
   {
     "brand": "NiSi",
@@ -86403,7 +86476,9 @@
     "lensMount": "Nikon F",
     "hasElectronicContacts": true,
     "material": "Full metal body, brass mounts",
-    "image_url": "/images/products/fringer/fringer-nf-gfx.webp"
+    "image_url": "/images/products/fringer/fringer-nf-gfx.webp",
+    "releaseYear": 2022,
+    "releaseMonth": 11
   },
   {
     "brand": "Fringer",
@@ -86922,7 +86997,9 @@
     ],
     "lensMount": "Leica M",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-fug-lem.webp"
+    "image_url": "/images/products/novoflex/novoflex-fug-lem.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 5
   },
   {
     "brand": "Novoflex",
@@ -86994,7 +87071,9 @@
     ],
     "lensMount": "Leica R",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-fug-ler.webp"
+    "image_url": "/images/products/novoflex/novoflex-fug-ler.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 5
   },
   {
     "brand": "Novoflex",
@@ -87012,7 +87091,9 @@
     ],
     "lensMount": "Nikon F",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-fug-nik.webp"
+    "image_url": "/images/products/novoflex/novoflex-fug-nik.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 5
   },
   {
     "brand": "Novoflex",
@@ -87066,7 +87147,9 @@
     ],
     "lensMount": "Leica M",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-nikz-lem.webp"
+    "image_url": "/images/products/novoflex/novoflex-nikz-lem.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87084,7 +87167,9 @@
     ],
     "lensMount": "Leica M",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-eosr-lem.webp"
+    "image_url": "/images/products/novoflex/novoflex-eosr-lem.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87281,7 +87366,9 @@
     ],
     "lensMount": "Canon FD",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-nikz-can.webp"
+    "image_url": "/images/products/novoflex/novoflex-nikz-can.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87299,7 +87386,9 @@
     ],
     "lensMount": "Contax/Yashica",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-eosr-cont.webp"
+    "image_url": "/images/products/novoflex/novoflex-eosr-cont.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87404,7 +87493,9 @@
     ],
     "lensMount": "Leica R",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-eosr-ler.webp"
+    "image_url": "/images/products/novoflex/novoflex-eosr-ler.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87422,7 +87513,9 @@
     ],
     "lensMount": "Leica R",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-nikz-ler.webp"
+    "image_url": "/images/products/novoflex/novoflex-nikz-ler.webp",
+    "releaseYear": 2018,
+    "releaseMonth": 9
   },
   {
     "brand": "Novoflex",
@@ -87458,7 +87551,9 @@
     ],
     "lensMount": "Canon FD",
     "hasElectronicContacts": false,
-    "image_url": "/images/products/novoflex/novoflex-fug-can.webp"
+    "image_url": "/images/products/novoflex/novoflex-fug-can.webp",
+    "releaseYear": 2017,
+    "releaseMonth": 5
   },
   {
     "brand": "Nikon",
@@ -88021,7 +88116,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/black-white-filter",
     "filterKind": "Black & white contrast (Yellow Y475 / Orange O550 / Red R610)",
     "filterSizes": "37-95mm",
-    "image_url": "/images/products/bww/bw-master-black-white.webp"
+    "image_url": "/images/products/bww/bw-master-black-white.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 5
   },
   {
     "brand": "B+W",
@@ -88032,7 +88129,9 @@
     "officialUrl": "https://schneiderkreuznach.com/en/photo-optics/b-w-filters/filtertypes/infrared-filter",
     "filterKind": "Infrared (IR 830)",
     "filterSizes": "37-86mm",
-    "image_url": "/images/products/bww/bw-master-ir-830.webp"
+    "image_url": "/images/products/bww/bw-master-ir-830.webp",
+    "releaseYear": 2026,
+    "releaseMonth": 5
   },
   {
     "brand": "B+W",
@@ -90796,7 +90895,9 @@
     "officialUrl": "https://leefilters.com/camera/lee100/proglass-irnd/",
     "filterKind": "IRND 0.6 / 0.9 / 1.2 / 1.8 / 3.0 / 4.5 (2-15 stops)",
     "filterSizes": "100mm",
-    "material": "Optically flat glass, 2mm thick"
+    "material": "Optically flat glass, 2mm thick",
+    "releaseYear": 2017,
+    "releaseMonth": 6
   },
   {
     "brand": "LEE Filters",
@@ -90918,7 +91019,9 @@
     "officialUrl": "https://www.nisioptics.com/nisi-s6",
     "filterKind": "150mm square filter holder system (built-in CPL + 2 filters)",
     "material": "Aluminum alloy (CNC machined)",
-    "image_url": "/images/products/nisi/nisi-s6.webp"
+    "image_url": "/images/products/nisi/nisi-s6.webp",
+    "releaseYear": 2020,
+    "releaseMonth": 8
   },
   {
     "brand": "NiSi",
@@ -90928,7 +91031,9 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/nisi-v6",
     "filterKind": "100mm square filter holder system (3 square filters + built-in CPL)",
-    "image_url": "/images/products/nisi/nisi-v6.webp"
+    "image_url": "/images/products/nisi/nisi-v6.webp",
+    "releaseYear": 2019,
+    "releaseMonth": 4
   },
   {
     "brand": "NiSi",
@@ -91567,7 +91672,9 @@
     "weightGrams": 4000,
     "material": "Aluminum",
     "headType": "Video head (continuous pan drag, 60mm bowl)",
-    "image_url": "/images/products/benro/benro-kh26pc.webp"
+    "image_url": "/images/products/benro/benro-kh26pc.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 2
   },
   {
     "brand": "Benro",
@@ -91615,7 +91722,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6300,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv8 fluid head"
+    "headType": "Sachtler aktiv8 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91630,7 +91739,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6500,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv8 fluid head"
+    "headType": "Sachtler aktiv8 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91645,7 +91756,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6400,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv8T fluid head (Touch & Go)"
+    "headType": "Sachtler aktiv8T fluid head (Touch & Go)",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91694,7 +91807,9 @@
     "maxLoad": "8kg",
     "weightGrams": 6400,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv6 fluid head"
+    "headType": "Sachtler aktiv6 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91709,7 +91824,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6900,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv10 fluid head"
+    "headType": "Sachtler aktiv10 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91724,7 +91841,9 @@
     "maxLoad": "12kg",
     "weightGrams": 6800,
     "material": "Carbon fibre",
-    "headType": "Sachtler aktiv10 fluid head"
+    "headType": "Sachtler aktiv10 fluid head",
+    "releaseYear": 2020,
+    "releaseMonth": 10
   },
   {
     "brand": "Sachtler",
@@ -91810,7 +91929,9 @@
     "legSections": 3,
     "weightGrams": 3100,
     "material": "Aluminum",
-    "headType": "Libec TH-X H"
+    "headType": "Libec TH-X H",
+    "releaseYear": 2016,
+    "releaseMonth": 9
   },
   {
     "brand": "Libec",
@@ -92030,7 +92151,8 @@
     "legSections": 3,
     "weightGrams": 11600,
     "material": "Aluminum",
-    "headType": "Libec RHP85"
+    "headType": "Libec RHP85",
+    "releaseYear": 2013
   },
   {
     "brand": "Libec",
@@ -94072,7 +94194,9 @@
     "wirelessSystem": "Godox 2.4GHz X",
     "recycleTime": "1.7s",
     "weightGrams": 329,
-    "dimensions": "168 x 72 x 72 mm"
+    "dimensions": "168 x 72 x 72 mm",
+    "releaseYear": 2026,
+    "releaseMonth": 2
   },
   {
     "brand": "Godox",
@@ -94405,7 +94529,9 @@
     "recycleTime": "3.6s",
     "batterySpec": "2x AAA",
     "weightGrams": 78,
-    "dimensions": "61 x 52 x 45 mm"
+    "dimensions": "61 x 52 x 45 mm",
+    "releaseYear": 2024,
+    "releaseMonth": 9
   },
   {
     "brand": "Godox",
