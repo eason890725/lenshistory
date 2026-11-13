@@ -31983,7 +31983,8 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "releaseMonth": 9,
-    "image_url": "/images/products/samyang/samyang-remaster-slim-28mm-f3-5-fe.webp"
+    "image_url": "/images/products/samyang/samyang-remaster-slim-28mm-f3-5-fe.webp",
+    "weightGrams": 12.5
   },
   {
     "id": "samyang-remaster-slim-32mm-f2-8-fe",
@@ -34528,7 +34529,8 @@
     "filterSizeMm": 52,
     "opticalDesign": "7 elements in 5 groups",
     "coatings": "Multi-layer MC Coating",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "dimensions": "Ø63 x 42 mm"
   },
   {
     "id": "7artisans-10mm-f2-8-fisheye-ii",
@@ -44880,7 +44882,8 @@
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-50mm-f0-95-ii.webp",
     "releaseMonth": 12,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "dimensions": "Ø72 x 84 mm"
   },
   {
     "id": "brightin-star-mf-50mm-f1-05",
@@ -47996,7 +47999,8 @@
     "hasApertureRing": false,
     "retailPrice": 3280,
     "retailPriceDate": "2026-10",
-    "image_url": "/images/products/ttartisans/ttartisans-af-23mm-f1-8.webp"
+    "image_url": "/images/products/ttartisans/ttartisans-af-23mm-f1-8.webp",
+    "dimensions": "Ø65 x 60 mm"
   },
   {
     "id": "ttartisans-af-40mm-f2",
@@ -48195,7 +48199,8 @@
     "releaseMonth": 4,
     "image_url": "/images/products/ttartisans/ttartisans-af-17mm-f1-8-air.webp",
     "retailPrice": 3850,
-    "retailPriceDate": "2026-10"
+    "retailPriceDate": "2026-10",
+    "dimensions": "Ø60 x 47 mm"
   },
   {
     "id": "ttartisans-af-50mm-f1-8-neo",
@@ -52806,7 +52811,8 @@
     "specialElements": "4 high-index glass elements",
     "retailPrice": 13600,
     "retailPriceDate": "2026-10",
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "dimensions": "Ø50 x 20 mm"
   },
   {
     "id": "laowa-7-5mm-f2-mft",
@@ -63972,7 +63978,8 @@
       }
     ],
     "image_url": "/images/products/slr-magic/slr-magic-2x-anamorphot-cine-35mm-t2-4.webp",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "weightGrams": 1400
   },
   {
     "id": "slr-magic-2x-anamorphot-cine-50mm-t2-8",
@@ -63998,7 +64005,8 @@
       }
     ],
     "image_url": "/images/products/slr-magic/slr-magic-2x-anamorphot-cine-50mm-t2-8.webp",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "weightGrams": 1400
   },
   {
     "id": "slr-magic-2x-anamorphot-cine-70mm-t4",
@@ -64024,7 +64032,8 @@
       }
     ],
     "image_url": "/images/products/slr-magic/slr-magic-2x-anamorphot-cine-70mm-t4.webp",
-    "hasApertureRing": true
+    "hasApertureRing": true,
+    "weightGrams": 1400
   },
   {
     "id": "kamlan-15mm-f2",
