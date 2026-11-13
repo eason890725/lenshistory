@@ -78800,7 +78800,7 @@
     "releaseYear": 2018,
     "releaseMonth": 9,
     "weightGrams": 121,
-    "dimensions": "Ø73.2 x 24 mm",
+    "dimensions": "Ø73.2 x 24.7 mm",
     "hasWeatherSeal": true,
     "retailPrice": 10300,
     "retailPriceDate": "2026-11"
@@ -79920,7 +79920,7 @@
     "accessoryType": "BATTERY_GRIP",
     "officialUrl": "https://www.sony.jp/ichigan/products/VG-C4EM/",
     "releaseYear": 2019,
-    "releaseMonth": 9,
+    "releaseMonth": 7,
     "compatibleWith": [
       "sony-a7r-iv"
     ],
@@ -79987,7 +79987,7 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 450,
+    "weightGrams": 290,
     "image_url": "/images/products/nikon/nikon-mb-n11.webp"
   },
   {
@@ -80005,7 +80005,7 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 455,
+    "weightGrams": 295,
     "image_url": "/images/products/nikon/nikon-mb-n12.webp",
     "retailPrice": 15500,
     "retailPriceDate": "2026-11"
@@ -80027,7 +80027,7 @@
     "batterySpec": "2x EN-EL15c",
     "dimensions": "138.5 x 113.5 x 76 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 455,
+    "weightGrams": 295,
     "image_url": "/images/products/nikon/nikon-mb-n14.webp"
   },
   {
@@ -80243,7 +80243,7 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
-    "weightGrams": 322,
+    "weightGrams": 242,
     "releaseYear": 2023,
     "releaseMonth": 9
   },
@@ -80275,7 +80275,7 @@
     "batterySpec": "1x DMW-BLC12",
     "hasWeatherSeal": true,
     "dimensions": "127.4 x 40.4 x 65.1 mm",
-    "weightGrams": 291,
+    "weightGrams": 242,
     "releaseYear": 2016,
     "releaseMonth": 9
   },
@@ -80732,7 +80732,7 @@
     "wirelessSystem": "Radio",
     "recycleTime": "1.5s",
     "batterySpec": "7.2V 2980mAh Li-ion",
-    "weightGrams": 530,
+    "weightGrams": 420,
     "dimensions": "76 x 93 x 197 mm",
     "image_url": "/images/products/godox/godox-v1.webp"
   },
@@ -82448,7 +82448,7 @@
       "nikon-zr"
     ],
     "weightGrams": 206.17,
-    "dimensions": "152 x 60.3 x 97 mm",
+    "dimensions": "152 x 97 x 60.3 mm",
     "material": "Anodized aluminum (cage), Composite material (side grip)",
     "image_url": "/images/products/8sinn/8sinn-cage-cnzr.webp"
   },
