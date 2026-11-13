@@ -43589,7 +43589,8 @@
         }
       }
     ],
-    "image_url": "/images/products/astrhori/astrhori-28mm-f13-2x-macro-periprobe.webp"
+    "image_url": "/images/products/astrhori/astrhori-28mm-f13-2x-macro-periprobe.webp",
+    "releaseMonth": 11
   },
   {
     "id": "astrhori-18mm-f8-2x-probe-macro",
@@ -45040,7 +45041,8 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-mf-35mm-f0-95.webp",
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "releaseMonth": 9
   },
   {
     "id": "brightin-star-mf-50mm-f0-95-aps-c",
@@ -51057,7 +51059,8 @@
     "hasCustomButton": false,
     "coatings": "Multi-layer coating",
     "minAperture": "16",
-    "dimensions": "Ø63 x 62 mm"
+    "dimensions": "Ø63 x 62 mm",
+    "releaseMonth": 11
   },
   {
     "id": "7artisans-35mm-f1-2-aps-c",
@@ -64077,7 +64080,8 @@
       }
     ],
     "hasApertureRing": true,
-    "hasCustomButton": false
+    "hasCustomButton": false,
+    "releaseMonth": 10
   },
   {
     "id": "kamlan-kl-32mm-f1-1",
@@ -77345,7 +77349,8 @@
     "apertureMax": 4,
     "weightGrams": 71,
     "closeFocus": "0.2m",
-    "motorType": "STM"
+    "motorType": "STM",
+    "releaseMonth": 10
   },
   {
     "brand": "Meike",
@@ -77376,7 +77381,8 @@
     "focalLengthMinMm": 58,
     "focalLengthMaxMm": 58,
     "apertureMax": 1.2,
-    "image_url": "/images/products/meike/meike-58mm-f1-2-mix.webp"
+    "image_url": "/images/products/meike/meike-58mm-f1-2-mix.webp",
+    "releaseMonth": 11
   },
   {
     "brand": "Yongnuo",
@@ -77430,7 +77436,8 @@
     "apertureMax": 1.8,
     "weightGrams": 134,
     "motorType": "DSM (Digital Stepping Motor)",
-    "image_url": "/images/products/yongnuo/yongnuo-yn50mm-f1-8s-da-dsm-ii.webp"
+    "image_url": "/images/products/yongnuo/yongnuo-yn50mm-f1-8s-da-dsm-ii.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Yongnuo",
@@ -78196,7 +78203,8 @@
     ],
     "retailPrice": 14900,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/canon/canon-extender-rf-1-4x.webp"
+    "image_url": "/images/products/canon/canon-extender-rf-1-4x.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Canon",
@@ -78232,7 +78240,8 @@
     ],
     "retailPrice": 18200,
     "retailPriceDate": "2026-11",
-    "image_url": "/images/products/canon/canon-extender-rf-2x.webp"
+    "image_url": "/images/products/canon/canon-extender-rf-2x.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Nikon",
@@ -80235,7 +80244,8 @@
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
     "weightGrams": 322,
-    "releaseYear": 2023
+    "releaseYear": 2023,
+    "releaseMonth": 9
   },
   {
     "brand": "Panasonic",
@@ -81584,7 +81594,8 @@
     "weightGrams": 225,
     "dimensions": "Ø72.0 x 27.2 mm",
     "hasWeatherSeal": true,
-    "releaseYear": 2010
+    "releaseYear": 2010,
+    "releaseMonth": 8
   },
   {
     "brand": "Canon",
@@ -81951,7 +81962,8 @@
     "lensMount": "Canon EF",
     "opticalDesign": "5 elements in 2 groups",
     "image_url": "/images/products/fringer/fringer-ef-fx-ultra.webp",
-    "releaseYear": 2025
+    "releaseYear": 2025,
+    "releaseMonth": 2
   },
   {
     "brand": "SmallRig",
@@ -82947,7 +82959,8 @@
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-82mm",
     "material": "Tempered glass, duralumin frame",
-    "image_url": "/images/products/kenko/kenko-zeta-quint-c-pl.webp"
+    "image_url": "/images/products/kenko/kenko-zeta-quint-c-pl.webp",
+    "releaseMonth": 5
   },
   {
     "brand": "Kenko",
@@ -82972,7 +82985,8 @@
     "releaseYear": 2025,
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-82mm",
-    "image_url": "/images/products/kenko/kenko-pro1d-c-pl-w-n.webp"
+    "image_url": "/images/products/kenko/kenko-pro1d-c-pl-w-n.webp",
+    "releaseMonth": 12
   },
   {
     "brand": "Kenko",
@@ -83009,7 +83023,8 @@
     "releaseYear": 2016,
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-82mm",
-    "image_url": "/images/products/kenko/kenko-c-pl-w.webp"
+    "image_url": "/images/products/kenko/kenko-c-pl-w.webp",
+    "releaseMonth": 11
   },
   {
     "brand": "Marumi",
@@ -83033,7 +83048,8 @@
     "officialUrl": "https://www.marumi-filter.co.jp/product/pl/cpl/",
     "filterKind": "Circular Polarizer",
     "filterSizes": "37-95mm",
-    "releaseYear": 2007
+    "releaseYear": 2007,
+    "releaseMonth": 4
   },
   {
     "brand": "Hoya",
@@ -84819,7 +84835,8 @@
     "dimensions": "Ø62.6 x 21.4 mm",
     "hasWeatherSeal": true,
     "releaseYear": 2016,
-    "image_url": "/images/products/tamron/tamron-tc-x14-nikon-f.webp"
+    "image_url": "/images/products/tamron/tamron-tc-x14-nikon-f.webp",
+    "releaseMonth": 9
   },
   {
     "brand": "Tamron",
@@ -84840,7 +84857,8 @@
     "weightGrams": 360,
     "dimensions": "Ø69.8 x 53.6 mm",
     "hasWeatherSeal": true,
-    "releaseYear": 2016
+    "releaseYear": 2016,
+    "releaseMonth": 9
   },
   {
     "brand": "Tamron",
@@ -84862,7 +84880,8 @@
     "dimensions": "Ø62.3 x 53.6 mm",
     "hasWeatherSeal": true,
     "releaseYear": 2016,
-    "image_url": "/images/products/tamron/tamron-tc-x20-nikon-f.webp"
+    "image_url": "/images/products/tamron/tamron-tc-x20-nikon-f.webp",
+    "releaseMonth": 9
   },
   {
     "brand": "Godox",
@@ -85140,7 +85159,8 @@
     "image_url": "/images/products/nissin/nissin-mg80-pro.webp",
     "releaseYear": 2019,
     "weightGrams": 520,
-    "dimensions": "73 x 137 x 120 mm"
+    "dimensions": "73 x 137 x 120 mm",
+    "releaseMonth": 2
   },
   {
     "brand": "Nissin",
@@ -85154,7 +85174,8 @@
     "image_url": "/images/products/nissin/nissin-mg10.webp",
     "releaseYear": 2018,
     "weightGrams": 975,
-    "dimensions": "80 x 210 x 145 mm"
+    "dimensions": "80 x 210 x 145 mm",
+    "releaseMonth": 2
   },
   {
     "brand": "SmallRig",
@@ -86608,7 +86629,8 @@
       "fujifilm-gfx-50s-ii"
     ],
     "image_url": "/images/products/fringer/fringer-ef-gfx-pro.webp",
-    "releaseYear": 2021
+    "releaseYear": 2021,
+    "releaseMonth": 10
   },
   {
     "brand": "Fringer",
@@ -86649,7 +86671,8 @@
     "hasElectronicContacts": true,
     "material": "Full metal body, brass/alloy mounts",
     "image_url": "/images/products/fringer/fringer-p645-gfx.webp",
-    "releaseYear": 2025
+    "releaseYear": 2025,
+    "releaseMonth": 2
   },
   {
     "brand": "Fringer",
@@ -86688,7 +86711,8 @@
     ],
     "lensMount": "Canon EF",
     "hasElectronicContacts": true,
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "releaseMonth": 4
   },
   {
     "brand": "Fringer",
@@ -88076,7 +88100,8 @@
       "fujifilm-finepix-sl240"
     ],
     "image_url": "/images/products/fujifilm/fujifilm-ef-x20.webp",
-    "releaseYear": 2012
+    "releaseYear": 2012,
+    "releaseMonth": 1
   },
   {
     "brand": "Canon",
@@ -91257,7 +91282,8 @@
     "accessoryType": "FILTER",
     "officialUrl": "https://cokin.com/en/144-screw-in-filters",
     "releaseYear": 2012,
-    "filterKind": "UV / Circular Polarizer / Variable ND2-400"
+    "filterKind": "UV / Circular Polarizer / Variable ND2-400",
+    "releaseMonth": 10
   },
   {
     "brand": "Cokin",
@@ -92314,7 +92340,8 @@
     "weightGrams": 11600,
     "material": "Aluminum",
     "headType": "Libec RHP85",
-    "releaseYear": 2013
+    "releaseYear": 2013,
+    "releaseMonth": 1
   },
   {
     "brand": "Libec",
@@ -93140,7 +93167,8 @@
     "image_url": "/images/products/smallrig/smallrig-cage-5929.webp",
     "releaseYear": 2026,
     "weightGrams": 176,
-    "dimensions": "153.3 x 77.2 x 108.0 mm"
+    "dimensions": "153.3 x 77.2 x 108.0 mm",
+    "releaseMonth": 10
   },
   {
     "brand": "SmallRig",
@@ -95190,7 +95218,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/kenko_teleplus/hd_pro/4961607601365.html",
     "opticalDesign": "5 elements in 4 groups",
     "dimensions": "Ø68 x 19.5 mm",
-    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-1-4x-dgx-canon-ef.webp"
+    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-1-4x-dgx-canon-ef.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Kenko",
@@ -95230,7 +95259,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/kenko_teleplus/hd_pro/4961607601389.html",
     "opticalDesign": "7 elements in 5 groups",
     "dimensions": "Ø68 x 40 mm",
-    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-canon-ef.webp"
+    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-canon-ef.webp",
+    "releaseMonth": 7
   },
   {
     "brand": "Kenko",
@@ -95251,7 +95281,8 @@
     "opticalDesign": "7 elements in 5 groups",
     "dimensions": "Ø67.5 x 40 mm",
     "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-nikon-f.webp",
-    "weightGrams": 178
+    "weightGrams": 178,
+    "releaseMonth": 7
   },
   {
     "brand": "Kenko",
