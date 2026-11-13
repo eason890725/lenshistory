@@ -79744,7 +79744,9 @@
     "material": "Aluminum alloy",
     "weightGrams": 140,
     "dimensions": "142.3 x 58.3 x 99 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4230.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4230.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 7
   },
   {
     "brand": "SmallRig",
@@ -79758,7 +79760,9 @@
     ],
     "material": "Aluminum alloy",
     "dimensions": "167.5 x 64.1 x 130.5 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4201.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4201.webp",
+    "releaseYear": 2023,
+    "releaseMonth": 9
   },
   {
     "brand": "SmallRig",
@@ -81116,7 +81120,9 @@
     "recycleTime": "0.1-1.7s",
     "batterySpec": "Li-ion VB-20 (12V/2000mAh)",
     "weightGrams": 290,
-    "dimensions": "150 x 62 x 38 mm"
+    "dimensions": "150 x 62 x 38 mm",
+    "releaseYear": 2019,
+    "releaseMonth": 8
   },
   {
     "brand": "Godox",
@@ -82046,7 +82052,9 @@
       "fujifilm-x-m5"
     ],
     "material": "Aluminum alloy, Wood",
-    "image_url": "/images/products/smallrig/smallrig-cage-4892.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4892.webp",
+    "releaseYear": 2024,
+    "releaseMonth": 10
   },
   {
     "brand": "Tilta",
@@ -82999,7 +83007,9 @@
     "id": "nisi-true-color-vnd-pl-1-5",
     "accessoryType": "FILTER",
     "officialUrl": "https://www.nisioptics.com/true-color-vnd-pl",
-    "filterKind": "Variable ND 1-5 stops + CPL (2-in-1)"
+    "filterKind": "Variable ND 1-5 stops + CPL (2-in-1)",
+    "releaseYear": 2026,
+    "releaseMonth": 10
   },
   {
     "brand": "NiSi",
@@ -83577,7 +83587,9 @@
     "material": "Aluminum",
     "image_url": "/images/products/leofoto/leofoto-cage-z8.webp",
     "weightGrams": 190,
-    "dimensions": "159 x 131 x 52 mm"
+    "dimensions": "159 x 131 x 52 mm",
+    "releaseYear": 2023,
+    "releaseMonth": 10
   },
   {
     "brand": "Leofoto",
@@ -83780,7 +83792,9 @@
     ],
     "image_url": "/images/products/leofoto/leofoto-cage-eos-r10.webp",
     "weightGrams": 120,
-    "dimensions": "142 x 103 x 69 mm"
+    "dimensions": "142 x 103 x 69 mm",
+    "releaseYear": 2023,
+    "releaseMonth": 10
   },
   {
     "brand": "Leofoto",
@@ -83852,7 +83866,9 @@
     "material": "Anodized aircraft-grade aluminum",
     "image_url": "/images/products/leofoto/leofoto-cage-x-t5.webp",
     "weightGrams": 190,
-    "dimensions": "145 x 106 x 59 mm"
+    "dimensions": "145 x 106 x 59 mm",
+    "releaseYear": 2023,
+    "releaseMonth": 10
   },
   {
     "brand": "Leofoto",
