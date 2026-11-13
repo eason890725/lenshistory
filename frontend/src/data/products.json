@@ -81443,7 +81443,9 @@
     ],
     "guideNumber": "34 (ISO 100, m, 35mm, FX)",
     "zoomRange": "17-200mm",
-    "image_url": "/images/products/nikon/nikon-sb-910.webp"
+    "image_url": "/images/products/nikon/nikon-sb-910.webp",
+    "weightGrams": 420,
+    "dimensions": "78.5 x 145 x 113 mm"
   },
   {
     "brand": "Nikon",
@@ -82021,7 +82023,9 @@
       "canon-eos-r6",
       "canon-eos-r5-c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3233b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3233b.webp",
+    "weightGrams": 162,
+    "dimensions": "153 x 74 x 113.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -83194,7 +83198,8 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4G Wireless X (built-in receiver)",
     "releaseYear": 2024,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "dimensions": "140.0 x 260.1 x 99.1 mm"
   },
   {
     "brand": "Godox",
@@ -84883,7 +84888,8 @@
     "batterySpec": "Li-ion 7.2V 2850mAh",
     "weightGrams": 564,
     "releaseYear": 2026,
-    "releaseMonth": 1
+    "releaseMonth": 1,
+    "dimensions": "122.2 x 75.9 x 75.9 mm"
   },
   {
     "brand": "Godox",
@@ -85160,7 +85166,9 @@
     "compatibleWith": [
       "fujifilm-x-t4"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccf2761.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2761.webp",
+    "weightGrams": 220,
+    "dimensions": "150.5 x 59 x 106 mm"
   },
   {
     "brand": "SmallRig",
@@ -85200,7 +85208,9 @@
     "compatibleWith": [
       "fujifilm-x-s10"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3087.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3087.webp",
+    "weightGrams": 160,
+    "dimensions": "140 x 96 x 60 mm"
   },
   {
     "brand": "SmallRig",
@@ -85383,7 +85393,9 @@
       "nikon-z6-ii",
       "nikon-z7-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccn2262.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccn2262.webp",
+    "weightGrams": 340,
+    "dimensions": "131.2 x 101.5 x 75.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -92699,7 +92711,9 @@
     "compatibleWith": [
       "blackmagic-pocket-cinema-camera-4k"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2203b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2203b.webp",
+    "weightGrams": 300,
+    "dimensions": "192 x 115 x 75 mm"
   },
   {
     "brand": "SmallRig",
@@ -93277,7 +93291,9 @@
     "compatibleWith": [
       "canon-eos-c70"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3899.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3899.webp",
+    "weightGrams": 486.7,
+    "dimensions": "135.1 x 130.6 x 221.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -93511,7 +93527,9 @@
     "compatibleWith": [
       "sony-a7c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3212b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3212b.webp",
+    "weightGrams": 182.5,
+    "dimensions": "140 x 90.5 x 65.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -94019,7 +94037,9 @@
       "sony-a6300",
       "sony-a6000"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2268.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2268.webp",
+    "weightGrams": 200,
+    "dimensions": "138 x 65 x 137 mm"
   },
   {
     "brand": "SmallRig",
@@ -94746,7 +94766,8 @@
     "batterySpec": "Built-in Li-ion 7.4V/350mAh",
     "weightGrams": 96,
     "releaseYear": 2024,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "dimensions": "70.1 x 97.0 x 53.1 mm"
   },
   {
     "brand": "Godox",
@@ -94866,7 +94887,8 @@
     "wirelessSystem": "433MHz (RT-16)",
     "recycleTime": "1.8s",
     "batterySpec": "4x AA",
-    "weightGrams": 304
+    "weightGrams": 304,
+    "dimensions": "73.9 x 181.1 x 47.0 mm"
   },
   {
     "brand": "Jupio",
@@ -95228,7 +95250,8 @@
     "officialUrl": "https://www.kenko-tokina.co.jp/camera-lens/kenko_teleplus/hd_pro/4961607601372.html",
     "opticalDesign": "7 elements in 5 groups",
     "dimensions": "Ø67.5 x 40 mm",
-    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-nikon-f.webp"
+    "image_url": "/images/products/kenko/kenko-teleplus-hd-pro-2x-dgx-nikon-f.webp",
+    "weightGrams": 178
   },
   {
     "brand": "Kenko",
