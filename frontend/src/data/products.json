@@ -79968,7 +79968,7 @@
     "batterySpec": "2x EN-EL15b",
     "dimensions": "135.5 x 106.5 x 68 mm",
     "hasWeatherSeal": true,
-    "weightGrams": 460,
+    "weightGrams": 300,
     "image_url": "/images/products/nikon/nikon-mb-n10.webp"
   },
   {
@@ -80259,7 +80259,7 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "134.2 x 44.7 x 70.9 mm",
-    "weightGrams": 316,
+    "weightGrams": 236,
     "releaseYear": 2025,
     "releaseMonth": 2
   },
@@ -80291,7 +80291,7 @@
     "batterySpec": "1x DMW-BLF19",
     "hasWeatherSeal": true,
     "dimensions": "136.1 x 46.3 x 75.5 mm",
-    "weightGrams": 332,
+    "weightGrams": 254,
     "releaseYear": 2017,
     "releaseMonth": 11
   },
@@ -80338,7 +80338,7 @@
     "batterySpec": "1x DMW-BLJ31",
     "hasWeatherSeal": true,
     "dimensions": "148.7 x 49.5 x 80.3 mm",
-    "weightGrams": 406,
+    "weightGrams": 295,
     "image_url": "/images/products/panasonic/panasonic-dmw-bgs1.webp",
     "releaseYear": 2019,
     "releaseMonth": 2
@@ -80355,7 +80355,7 @@
     "batterySpec": "1x DMW-BLK22",
     "hasWeatherSeal": true,
     "dimensions": "132.4 x 45.2 x 67.6 mm",
-    "weightGrams": 321,
+    "weightGrams": 240,
     "image_url": "/images/products/panasonic/panasonic-dmw-bgs5.webp",
     "releaseYear": 2020,
     "releaseMonth": 9
@@ -81189,7 +81189,7 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
-    "weightGrams": 361,
+    "weightGrams": 282,
     "dimensions": "71 x 49 x 166 mm",
     "image_url": "/images/products/godox/godox-v480c.webp",
     "releaseYear": 2025,
@@ -81210,7 +81210,7 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
-    "weightGrams": 361,
+    "weightGrams": 282,
     "dimensions": "71 x 49 x 166 mm",
     "releaseYear": 2025,
     "releaseMonth": 6
@@ -81230,7 +81230,7 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
-    "weightGrams": 361,
+    "weightGrams": 282,
     "dimensions": "71 x 49 x 166 mm",
     "releaseYear": 2025,
     "releaseMonth": 6
@@ -81250,7 +81250,7 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
-    "weightGrams": 361,
+    "weightGrams": 282,
     "dimensions": "71 x 49 x 166 mm",
     "releaseYear": 2025,
     "releaseMonth": 6
@@ -81270,7 +81270,7 @@
     "hasHSS": true,
     "wirelessSystem": "Godox 2.4GHz X",
     "batterySpec": "Li-ion VB22",
-    "weightGrams": 361,
+    "weightGrams": 282,
     "dimensions": "71 x 49 x 166 mm",
     "image_url": "/images/products/godox/godox-v480o.webp",
     "releaseYear": 2025,
@@ -81291,7 +81291,7 @@
     "hasHSS": true,
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
-    "weightGrams": 616,
+    "weightGrams": 496,
     "dimensions": "71.5 x 76 x 206 mm",
     "image_url": "/images/products/godox/godox-v100c.webp",
     "releaseYear": 2024,
@@ -81312,7 +81312,7 @@
     "hasHSS": true,
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
-    "weightGrams": 616,
+    "weightGrams": 496,
     "dimensions": "71.5 x 76 x 206 mm",
     "releaseYear": 2024,
     "releaseMonth": 12
@@ -81332,7 +81332,7 @@
     "hasHSS": true,
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
-    "weightGrams": 616,
+    "weightGrams": 496,
     "dimensions": "71.5 x 76 x 206 mm",
     "releaseYear": 2024,
     "releaseMonth": 12
@@ -81352,7 +81352,7 @@
     "hasHSS": true,
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
-    "weightGrams": 616,
+    "weightGrams": 496,
     "dimensions": "71.5 x 76 x 206 mm",
     "releaseYear": 2024,
     "releaseMonth": 12
@@ -81372,7 +81372,7 @@
     "hasHSS": true,
     "recycleTime": "1.7s",
     "batterySpec": "Li-ion 7.2V/2980mAh (VB30)",
-    "weightGrams": 616,
+    "weightGrams": 496,
     "dimensions": "71.5 x 76 x 206 mm",
     "releaseYear": 2024,
     "releaseMonth": 12
