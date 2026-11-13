@@ -77806,7 +77806,9 @@
       "panasonic-lumix-s1ii",
       "panasonic-lumix-s1iie"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4902.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4902.webp",
+    "weightGrams": 164,
+    "dimensions": "184.4 x 59.7 x 118.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -77825,7 +77827,9 @@
       "panasonic-lumix-s1ii",
       "panasonic-lumix-s1iie"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5147.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5147.webp",
+    "weightGrams": 190,
+    "dimensions": "148.4 x 68.6 x 163.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -77839,7 +77843,9 @@
     "compatibleWith": [
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2999.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2999.webp",
+    "weightGrams": 220,
+    "dimensions": "145.5 x 106.5 x 64 mm"
   },
   {
     "brand": "SmallRig",
@@ -77854,7 +77860,9 @@
       "panasonic-lumix-s5",
       "panasonic-lumix-s5d"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2983.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2983.webp",
+    "weightGrams": 202,
+    "dimensions": "149 x 108 x 71 mm"
   },
   {
     "brand": "SmallRig",
@@ -77953,7 +77961,9 @@
     "compatibleWith": [
       "fujifilm-gfx-100s-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4715.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4715.webp",
+    "weightGrams": 215,
+    "dimensions": "182.8 x 117.1 x 64.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -77967,7 +77977,9 @@
     "compatibleWith": [
       "nikon-zr"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5468.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5468.webp",
+    "weightGrams": 613,
+    "dimensions": "229.0 x 135.0 x 191.7 mm"
   },
   {
     "brand": "SmallRig",
@@ -77981,7 +77993,9 @@
     "compatibleWith": [
       "sigma-fp"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccm2518.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccm2518.webp",
+    "weightGrams": 185,
+    "dimensions": "120.7 x 90 x 60.5 mm"
   },
   {
     "brand": "Tilta",
@@ -79541,7 +79555,9 @@
       "sony-fx3",
       "sony-fx30"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4183.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4183.webp",
+    "weightGrams": 190,
+    "dimensions": "159.0 x 101.2 x 66.2 mm"
   },
   {
     "brand": "SmallRig",
@@ -79573,7 +79589,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "dimensions": "142 x 93 x 56.4 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4422.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4422.webp",
+    "weightGrams": 152
   },
   {
     "brand": "SmallRig",
@@ -79587,7 +79604,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "dimensions": "150.0 x 85.7 x 57.3 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4867.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4867.webp",
+    "weightGrams": 124
   },
   {
     "brand": "SmallRig",
@@ -79601,7 +79619,8 @@
     ],
     "material": "Aluminum alloy, Stainless steel",
     "dimensions": "139.5 x 91.0 x 62.2 mm",
-    "image_url": "/images/products/smallrig/smallrig-cage-4336.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4336.webp",
+    "weightGrams": 152
   },
   {
     "brand": "SmallRig",
@@ -79616,7 +79635,9 @@
       "sony-a6500",
       "sony-a6400"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4337.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4337.webp",
+    "weightGrams": 104,
+    "dimensions": "94 x 91 x 53.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -79692,7 +79713,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3195.webp",
     "releaseYear": 2021,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "weightGrams": 272,
+    "dimensions": "160.0 x 164.0 x 69.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -79704,7 +79727,9 @@
     "compatibleWith": [
       "fujifilm-x-t5"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3870.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3870.webp",
+    "weightGrams": 235,
+    "dimensions": "145.8 x 63.25 x 103.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -79716,7 +79741,9 @@
     "compatibleWith": [
       "fujifilm-x-t5"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4135.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4135.webp",
+    "weightGrams": 158,
+    "dimensions": "145 x 58.7 x 105.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -79775,7 +79802,9 @@
       "panasonic-lumix-gh6",
       "panasonic-lumix-gh7"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3784.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3784.webp",
+    "weightGrams": 174,
+    "dimensions": "153.3 x 114 x 61.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -79805,7 +79834,9 @@
     "compatibleWith": [
       "panasonic-lumix-s1h"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccp2488.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccp2488.webp",
+    "weightGrams": 243,
+    "dimensions": "166.9 x 124.5 x 71.0 mm"
   },
   {
     "brand": "Sony",
@@ -81921,7 +81952,9 @@
     "compatibleWith": [
       "sony-zv-e1"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4256.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4256.webp",
+    "weightGrams": 128,
+    "dimensions": "136.2 x 89.8 x 53.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -81933,7 +81966,9 @@
     "compatibleWith": [
       "nikon-zf"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4261.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4261.webp",
+    "weightGrams": 192,
+    "dimensions": "158.0 x 56.6 x 118.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -81945,7 +81980,9 @@
     "compatibleWith": [
       "canon-eos-r50"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4214.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4214.webp",
+    "weightGrams": 129,
+    "dimensions": "133.5 x 101.5 x 59.2 mm"
   },
   {
     "brand": "SmallRig",
@@ -81959,7 +81996,9 @@
       "canon-eos-r6",
       "canon-eos-r5-c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2982b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2982b.webp",
+    "weightGrams": 165,
+    "dimensions": "153 x 58 x 112 mm"
   },
   {
     "brand": "SmallRig",
@@ -81989,7 +82028,9 @@
       "canon-eos-r6-ii",
       "canon-eos-r6-mark-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3464b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3464b.webp",
+    "weightGrams": 200,
+    "dimensions": "153 x 66 x 161.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -82008,7 +82049,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5257.webp",
     "releaseYear": 2025,
-    "releaseMonth": 4
+    "releaseMonth": 4,
+    "weightGrams": 172,
+    "dimensions": "153.5 x 112.6 x 63.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -82022,7 +82065,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4980.webp",
     "releaseYear": 2024,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "weightGrams": 134,
+    "dimensions": "141.8 x 62.0 x 106.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -82054,7 +82099,9 @@
     "material": "Aluminum alloy, Wood",
     "image_url": "/images/products/smallrig/smallrig-cage-4892.webp",
     "releaseYear": 2024,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "weightGrams": 130,
+    "dimensions": "124.9 x 50.2 x 88.5 mm"
   },
   {
     "brand": "Tilta",
@@ -83250,7 +83297,8 @@
     "weightGrams": 300,
     "image_url": "/images/products/nissin/nissin-i60a.webp",
     "releaseYear": 2016,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "dimensions": "73 x 98 x 112 mm"
   },
   {
     "brand": "Canon",
@@ -83406,7 +83454,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5954.webp",
     "releaseYear": 2025,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "weightGrams": 187,
+    "dimensions": "156.5 x 64.0 x 116.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -83420,7 +83470,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5955.webp",
     "releaseYear": 2025,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "weightGrams": 336,
+    "dimensions": "177.8 x 135.0 x 183.1 mm"
   },
   {
     "brand": "SmallRig",
@@ -83434,7 +83486,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5960.webp",
     "releaseYear": 2025,
-    "releaseMonth": 12
+    "releaseMonth": 12,
+    "weightGrams": 307.6,
+    "dimensions": "174.0 x 129.0 x 182.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -83464,7 +83518,9 @@
     "compatibleWith": [
       "canon-eos-r5-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4978.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4978.webp",
+    "weightGrams": 157.7,
+    "dimensions": "153.0 x 57.3 x 116.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -83476,7 +83532,9 @@
     "compatibleWith": [
       "canon-eos-r10"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4004.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4004.webp",
+    "weightGrams": 154,
+    "dimensions": "146.8 x 103.7 x 70.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -83490,7 +83548,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3858.webp",
     "releaseYear": 2022,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "weightGrams": 125,
+    "dimensions": "142 x 91.5 x 56.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -83505,7 +83565,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3933.webp",
     "releaseYear": 2022,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "weightGrams": 241,
+    "dimensions": "154 x 70 x 160 mm"
   },
   {
     "brand": "SmallRig",
@@ -83519,7 +83581,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4949.webp",
     "releaseYear": 2024,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "weightGrams": 170,
+    "dimensions": "152.1 x 85.8 x 63.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -83532,7 +83596,9 @@
       "sony-a7c-ii",
       "sony-a7c-r"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5198.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5198.webp",
+    "weightGrams": 197,
+    "dimensions": "141.8 x 67.7 x 94.1 mm"
   },
   {
     "brand": "SmallRig",
@@ -83546,7 +83612,9 @@
       "sony-fx30",
       "sony-fx3a"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4771.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4771.webp",
+    "weightGrams": 323,
+    "dimensions": "160.0 x 101.2 x 124.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -83560,7 +83628,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4320.webp",
     "releaseYear": 2023,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "weightGrams": 174,
+    "dimensions": "159.5 x 89.8 x 65.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -83572,7 +83642,9 @@
     "compatibleWith": [
       "sony-a6700"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-hawklock-a6700.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-hawklock-a6700.webp",
+    "weightGrams": 182,
+    "dimensions": "142.0 x 70.0 x 91.0 mm"
   },
   {
     "brand": "Leofoto",
@@ -84988,7 +85060,8 @@
     "weightGrams": 203,
     "image_url": "/images/products/nissin/nissin-i400.webp",
     "releaseYear": 2019,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "dimensions": "61 x 85 x 85 mm"
   },
   {
     "brand": "Nissin",
@@ -85011,7 +85084,9 @@
     "wirelessSystem": "Optical slave (SD/SF)",
     "image_url": "/images/products/nissin/nissin-i40.webp",
     "releaseYear": 2014,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "weightGrams": 203,
+    "dimensions": "61 x 85 x 85 mm"
   },
   {
     "brand": "Nissin",
@@ -85030,7 +85105,9 @@
     "wirelessSystem": "Optical slave (SD/SF)",
     "image_url": "/images/products/nissin/nissin-di700a.webp",
     "releaseYear": 2015,
-    "releaseMonth": 2
+    "releaseMonth": 2,
+    "weightGrams": 380,
+    "dimensions": "75 x 140 x 115 mm"
   },
   {
     "brand": "Nissin",
@@ -85046,7 +85123,9 @@
     ],
     "wirelessSystem": "Nissin Air System (NAS) 2.4GHz radio, built-in commander",
     "image_url": "/images/products/nissin/nissin-mg80-pro.webp",
-    "releaseYear": 2019
+    "releaseYear": 2019,
+    "weightGrams": 520,
+    "dimensions": "73 x 137 x 120 mm"
   },
   {
     "brand": "Nissin",
@@ -85058,7 +85137,9 @@
     "guideNumber": "80",
     "wirelessSystem": "Nissin Air System (NAS) radio (Air 10s / Air 1 commander)",
     "image_url": "/images/products/nissin/nissin-mg10.webp",
-    "releaseYear": 2018
+    "releaseYear": 2018,
+    "weightGrams": 975,
+    "dimensions": "80 x 210 x 145 mm"
   },
   {
     "brand": "SmallRig",
@@ -85082,7 +85163,9 @@
     "compatibleWith": [
       "fujifilm-x-t4"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccf2808.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2808.webp",
+    "weightGrams": 202,
+    "dimensions": "150.3 x 59 x 106 mm"
   },
   {
     "brand": "SmallRig",
@@ -85094,7 +85177,9 @@
     "compatibleWith": [
       "fujifilm-x-t4"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccf2810.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccf2810.webp",
+    "weightGrams": 235,
+    "dimensions": "149.7 x 63 x 160.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85118,7 +85203,9 @@
     "compatibleWith": [
       "canon-eos-rp"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccc2332.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccc2332.webp",
+    "weightGrams": 189,
+    "dimensions": "149 x 99 x 64 mm"
   },
   {
     "brand": "SmallRig",
@@ -85159,7 +85246,9 @@
       "sony-a6400",
       "sony-a6500"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2310c.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2310c.webp",
+    "weightGrams": 138,
+    "dimensions": "131.0 x 84.7 x 50.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -85173,7 +85262,9 @@
       "sony-a6300",
       "sony-a6400"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3164b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3164b.webp",
+    "weightGrams": 195,
+    "dimensions": "131.8 x 84.7 x 65.7 mm"
   },
   {
     "brand": "SmallRig",
@@ -85186,7 +85277,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2087d.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2087d.webp",
+    "weightGrams": 158,
+    "dimensions": "145.5 x 106.0 x 58.1 mm"
   },
   {
     "brand": "SmallRig",
@@ -85200,7 +85293,9 @@
       "sony-a7r-iii",
       "sony-a9"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2918.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2918.webp",
+    "weightGrams": 167.2,
+    "dimensions": "143.5 x 106 x 58.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85212,7 +85307,9 @@
     "compatibleWith": [
       "sony-a7r-iv"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2416.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2416.webp",
+    "weightGrams": 230,
+    "dimensions": "148 x 106.5 x 64 mm"
   },
   {
     "brand": "SmallRig",
@@ -85226,7 +85323,9 @@
       "sony-zv-1f",
       "sony-zv-1-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2938.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2938.webp",
+    "weightGrams": 106,
+    "dimensions": "119 x 38 x 74.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85239,7 +85338,9 @@
       "sony-zv-1",
       "sony-zv-1f"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2937.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2937.webp",
+    "weightGrams": 117,
+    "dimensions": "119 x 44.3 x 74.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85255,7 +85356,9 @@
       "nikon-z6-ii",
       "nikon-z7-ii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2926b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2926b.webp",
+    "weightGrams": 188,
+    "dimensions": "149.5 x 111.5 x 62.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -85289,7 +85392,9 @@
       "sony-a7-v",
       "sony-a7r-vi"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3639.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3639.webp",
+    "weightGrams": 115,
+    "dimensions": "108 x 98.5 x 51.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -85302,7 +85407,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2236.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2236.webp",
+    "weightGrams": 344,
+    "dimensions": "141.9 x 117.5 x 67 mm"
   },
   {
     "brand": "Tilta",
@@ -87848,7 +87955,9 @@
     "compatibleWith": [
       "canon-eos-r1"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5413.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5413.webp",
+    "weightGrams": 199,
+    "dimensions": "178.2 x 74.4 x 160.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -87863,7 +87972,9 @@
     "material": "Aluminum alloy",
     "image_url": "/images/products/smallrig/smallrig-cage-4515.webp",
     "releaseYear": 2024,
-    "releaseMonth": 5
+    "releaseMonth": 5,
+    "weightGrams": 115,
+    "dimensions": "137 x 49.5 x 92.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -91429,7 +91540,8 @@
     "minHeight": "27.5cm",
     "maxLoad": "5kg",
     "material": "Carbon fiber",
-    "image_url": "/images/products/smallrig/smallrig-pocket-tripod-kit-5026.webp"
+    "image_url": "/images/products/smallrig/smallrig-pocket-tripod-kit-5026.webp",
+    "weightGrams": 483.9
   },
   {
     "brand": "SmallRig",
@@ -91535,7 +91647,8 @@
     "officialUrl": "https://www.smallrig.com/smallrig-aluminum-mini-tripod-but2429.html",
     "maxLoad": "10kg",
     "material": "Aluminum",
-    "image_url": "/images/products/smallrig/smallrig-aluminum-mini-tripod-but2429.webp"
+    "image_url": "/images/products/smallrig/smallrig-aluminum-mini-tripod-but2429.webp",
+    "weightGrams": 224
   },
   {
     "brand": "SmallRig",
@@ -91547,7 +91660,8 @@
     "maxLoad": "5kg",
     "material": "Aluminum",
     "headType": "Ball head",
-    "image_url": "/images/products/smallrig/smallrig-aluminum-tabletop-mini-tripod-3033.webp"
+    "image_url": "/images/products/smallrig/smallrig-aluminum-tabletop-mini-tripod-3033.webp",
+    "weightGrams": 217
   },
   {
     "brand": "Benro",
@@ -92563,7 +92677,8 @@
     "material": "Carbon fiber",
     "image_url": "/images/products/induro/induro-hydra-2.webp",
     "releaseYear": 2021,
-    "releaseMonth": 10
+    "releaseMonth": 10,
+    "weightGrams": 1497
   },
   {
     "brand": "SmallRig",
@@ -92587,7 +92702,9 @@
     "compatibleWith": [
       "blackmagic-pocket-cinema-camera-4k"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2254.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2254.webp",
+    "weightGrams": 228,
+    "dimensions": "136 x 75 x 115 mm"
   },
   {
     "brand": "SmallRig",
@@ -92600,7 +92717,9 @@
       "red-komodo-6k",
       "red-komodo-x"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4110.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4110.webp",
+    "weightGrams": 534,
+    "dimensions": "167.3 x 119.0 x 173.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -92615,7 +92734,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4335.webp",
     "releaseYear": 2023,
-    "releaseMonth": 7
+    "releaseMonth": 7,
+    "weightGrams": 1008,
+    "dimensions": "167.3 x 187.0 x 231.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -92631,7 +92752,8 @@
     "weightGrams": 186,
     "image_url": "/images/products/smallrig/smallrig-cage-3046.webp",
     "releaseYear": 2020,
-    "releaseMonth": 11
+    "releaseMonth": 11,
+    "dimensions": "115.6 x 114 x 95.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -92644,7 +92766,9 @@
       "blackmagic-pyxis-6k",
       "blackmagic-pyxis-12k"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5281.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5281.webp",
+    "weightGrams": 838,
+    "dimensions": "228.3 x 204.4 x 147.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -92656,7 +92780,9 @@
     "compatibleWith": [
       "z-cam-e2-m4"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-cvz2423.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-cvz2423.webp",
+    "weightGrams": 297,
+    "dimensions": "117.6 x 107.6 x 90 mm"
   },
   {
     "brand": "Tilta",
@@ -92865,7 +92991,9 @@
     "compatibleWith": [
       "canon-powershot-v1"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5807.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5807.webp",
+    "weightGrams": 137,
+    "dimensions": "132.9 x 85.5 x 55.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -92880,7 +93008,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4567.webp",
     "releaseYear": 2024,
-    "releaseMonth": 6
+    "releaseMonth": 6,
+    "weightGrams": 193,
+    "dimensions": "147.5 x 88.0 x 55.9 mm"
   },
   {
     "brand": "SmallRig",
@@ -92907,7 +93037,9 @@
     "compatibleWith": [
       "sony-cyber-shot-dsc-rx100-vi"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2225.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2225.webp",
+    "weightGrams": 124,
+    "dimensions": "118.5 x 49 x 75.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -92919,7 +93051,9 @@
     "compatibleWith": [
       "canon-powershot-g7-x-mark-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccc2422.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccc2422.webp",
+    "weightGrams": 110,
+    "dimensions": "122 x 74.5 x 50.2 mm"
   },
   {
     "brand": "SmallRig",
@@ -92965,7 +93099,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-4162.webp",
     "releaseYear": 2024,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "weightGrams": 230,
+    "dimensions": "177.8 x 71.5 x 118.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -92979,7 +93115,9 @@
       "hasselblad-x2d-ii-100c"
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5929.webp",
-    "releaseYear": 2026
+    "releaseYear": 2026,
+    "weightGrams": 176,
+    "dimensions": "153.3 x 77.2 x 108.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -92994,7 +93132,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3211.webp",
     "releaseYear": 2021,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "weightGrams": 192,
+    "dimensions": "120.7 x 98.5 x 55.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -93009,7 +93149,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3227.webp",
     "releaseYear": 2021,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "weightGrams": 279,
+    "dimensions": "169 x 98.5 x 55.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -93049,7 +93191,9 @@
     "compatibleWith": [
       "panasonic-lumix-g9"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2125.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2125.webp",
+    "weightGrams": 202,
+    "dimensions": "154 x 61.5 x 109 mm"
   },
   {
     "brand": "Tilta",
@@ -93136,7 +93280,9 @@
     "compatibleWith": [
       "canon-eos-c50"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5658.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5658.webp",
+    "weightGrams": 272,
+    "dimensions": "174.2 x 181.4 x 114.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -93150,7 +93296,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-3890.webp",
     "releaseYear": 2022,
-    "releaseMonth": 3
+    "releaseMonth": 3,
+    "weightGrams": 223,
+    "dimensions": "153 x 104 x 113.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -93164,7 +93312,9 @@
       "canon-eos-r6",
       "canon-eos-r5-c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3830c.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3830c.webp",
+    "weightGrams": 309,
+    "dimensions": "175 x 135 x 181 mm"
   },
   {
     "brand": "SmallRig",
@@ -93205,7 +93355,8 @@
       "canon-eos-r5-c",
       "canon-eos-r6"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3140.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3140.webp",
+    "weightGrams": 387.5
   },
   {
     "brand": "Tilta",
@@ -93309,7 +93460,9 @@
       "sony-a7r-v",
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4481.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4481.webp",
+    "weightGrams": 181,
+    "dimensions": "147 x 108.5 x 62.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -93335,7 +93488,9 @@
     "compatibleWith": [
       "sony-a7c"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3081b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3081b.webp",
+    "weightGrams": 134,
+    "dimensions": "140 x 90.5 x 52 mm"
   },
   {
     "brand": "SmallRig",
@@ -93364,7 +93519,9 @@
       "sony-a7r-iv",
       "sony-a7-v"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5583.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5583.webp",
+    "weightGrams": 188,
+    "dimensions": "146.0 x 108.0 x 64.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -93378,7 +93535,9 @@
       "sony-a7s-iii",
       "sony-a7-iv"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4539.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4539.webp",
+    "weightGrams": 732,
+    "dimensions": "221.1 x 181.8 x 141.8 mm"
   },
   {
     "brand": "SmallRig",
@@ -93394,7 +93553,9 @@
     ],
     "image_url": "/images/products/smallrig/smallrig-cage-5518.webp",
     "releaseYear": 2025,
-    "releaseMonth": 8
+    "releaseMonth": 8,
+    "weightGrams": 701.1,
+    "dimensions": "147.0 x 108.5 x 62.5 mm"
   },
   {
     "brand": "SmallRig",
@@ -93409,7 +93570,9 @@
       "sony-a7s-iii",
       "sony-a7-v"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-5599.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-5599.webp",
+    "weightGrams": 611.5,
+    "dimensions": "217.5 x 141.8 x 206.6 mm"
   },
   {
     "brand": "SmallRig",
@@ -93433,7 +93596,9 @@
       "sony-a7r-v",
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3668c.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3668c.webp",
+    "weightGrams": 388,
+    "dimensions": "162.5 x 135.0 x 177.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -93448,7 +93613,9 @@
       "sony-a7s-iii",
       "sony-a7-v"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3669d.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3669d.webp",
+    "weightGrams": 530,
+    "dimensions": "212.0 x 135.0 x 177.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -93476,7 +93643,9 @@
       "sony-a7s-iii"
     ],
     "material": "Carbon fiber",
-    "image_url": "/images/products/smallrig/smallrig-cage-3708.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3708.webp",
+    "weightGrams": 303,
+    "dimensions": "161.4 x 149 x 180 mm"
   },
   {
     "brand": "SmallRig",
@@ -93491,7 +93660,9 @@
       "sony-a7r-v"
     ],
     "material": "Carbon fiber",
-    "image_url": "/images/products/smallrig/smallrig-cage-3710.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3710.webp",
+    "weightGrams": 468,
+    "dimensions": "216.1 x 149 x 180 mm"
   },
   {
     "brand": "SmallRig",
@@ -93505,7 +93676,9 @@
       "sony-a7s-iii",
       "sony-a7-iv"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4308.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4308.webp",
+    "weightGrams": 180,
+    "dimensions": "161.4 x 71.2 x 107.9 mm"
   },
   {
     "brand": "SmallRig",
@@ -93521,7 +93694,9 @@
       "sony-a1",
       "sony-a7r-v"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3594.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3594.webp",
+    "weightGrams": 248,
+    "dimensions": "159.8 x 145.8 x 66 mm"
   },
   {
     "brand": "SmallRig",
@@ -93534,7 +93709,9 @@
       "sony-a7s-iii",
       "sony-a1"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3241.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3241.webp",
+    "weightGrams": 194,
+    "dimensions": "145.5 x 106.5 x 61 mm"
   },
   {
     "brand": "SmallRig",
@@ -93559,7 +93736,9 @@
       "sony-a7-iv",
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3193.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3193.webp",
+    "weightGrams": 104,
+    "dimensions": "108 x 99 x 51.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -93572,7 +93751,9 @@
       "sony-a7-iv",
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3237.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3237.webp",
+    "weightGrams": 264,
+    "dimensions": "135 x 177 x 118 mm"
   },
   {
     "brand": "SmallRig",
@@ -93584,7 +93765,9 @@
     "compatibleWith": [
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3065d.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3065d.webp",
+    "weightGrams": 128,
+    "dimensions": "147 x 107 x 61 mm"
   },
   {
     "brand": "SmallRig",
@@ -93597,7 +93780,9 @@
       "sony-a7s-iii"
     ],
     "material": "Magnesium-aluminum alloy",
-    "image_url": "/images/products/smallrig/smallrig-cage-3180d.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3180d.webp",
+    "weightGrams": 156,
+    "dimensions": "147 x 107 x 61 mm"
   },
   {
     "brand": "SmallRig",
@@ -93609,7 +93794,9 @@
     "compatibleWith": [
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3181.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3181.webp",
+    "weightGrams": 266,
+    "dimensions": "147 x 129 x 170 mm"
   },
   {
     "brand": "SmallRig",
@@ -93632,7 +93819,9 @@
     "compatibleWith": [
       "sony-a7s-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-3009b.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-3009b.webp",
+    "weightGrams": 445,
+    "dimensions": "145.5 x 181.5 x 134 mm"
   },
   {
     "brand": "SmallRig",
@@ -93656,7 +93845,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-4198.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-4198.webp",
+    "weightGrams": 315,
+    "dimensions": "150.2 x 135.0 x 175.0 mm"
   },
   {
     "brand": "SmallRig",
@@ -93706,7 +93897,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2645.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2645.webp",
+    "weightGrams": 249,
+    "dimensions": "143.6 x 106.6 x 64.3 mm"
   },
   {
     "brand": "SmallRig",
@@ -93720,7 +93913,9 @@
       "sony-a7r-iii",
       "sony-a7r-iv"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-ccs2629.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-ccs2629.webp",
+    "weightGrams": 185,
+    "dimensions": "106.5 x 94 x 64 mm"
   },
   {
     "brand": "SmallRig",
@@ -93733,7 +93928,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-kccs2694.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-kccs2694.webp",
+    "weightGrams": 410,
+    "dimensions": "143.6 x 173.8 x 136.4 mm"
   },
   {
     "brand": "SmallRig",
@@ -93746,7 +93943,9 @@
       "sony-a7-iii",
       "sony-a7r-iii"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2176.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2176.webp",
+    "weightGrams": 297,
+    "dimensions": "156.5 x 145 x 66 mm"
   },
   {
     "brand": "SmallRig",
@@ -93758,7 +93957,9 @@
     "compatibleWith": [
       "sony-a9"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2013.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2013.webp",
+    "weightGrams": 249,
+    "dimensions": "145 x 107.5 x 64 mm"
   },
   {
     "brand": "SmallRig",
@@ -93781,7 +93982,9 @@
     "compatibleWith": [
       "sony-a6500"
     ],
-    "image_url": "/images/products/smallrig/smallrig-cage-2081.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-2081.webp",
+    "weightGrams": 315,
+    "dimensions": "175.3 x 145 x 124 mm"
   },
   {
     "brand": "SmallRig",
@@ -93790,7 +93993,9 @@
     "id": "smallrig-cage-1661",
     "accessoryType": "CAGE",
     "officialUrl": "https://www.smallrig.com/global/smallrig-sony-a6300-a6000-ilce-6000-ilce-6300-sony-nex-7-cage-1661.html",
-    "image_url": "/images/products/smallrig/smallrig-cage-1661.webp"
+    "image_url": "/images/products/smallrig/smallrig-cage-1661.webp",
+    "weightGrams": 155,
+    "dimensions": "137 x 84.5 x 49 mm"
   },
   {
     "brand": "SmallRig",
