@@ -31951,7 +31951,7 @@
     "hasOIS": false,
     "hasCustomButton": false,
     "image_url": "/images/products/samyang/samyang-remaster-slim-21mm-f3-5-fe.webp",
-    "releaseMonth": 9
+    "releaseMonth": 8
   },
   {
     "id": "samyang-remaster-slim-28mm-f3-5-fe",
@@ -35811,7 +35811,7 @@
     ],
     "sensorFormat": "Full Frame",
     "motorType": "Manual focus",
-    "releaseMonth": 7,
+    "releaseMonth": 4,
     "specialElements": "1 ED, 4 HRI, 3 Aspherical",
     "hasApertureRing": true,
     "hasWeatherSeal": true,
@@ -45105,7 +45105,7 @@
     "gearType": "LENS",
     "officialUrl": "https://brightinstar.com/products/mf-50mm-f1-4-iii-aps-c-manual-lens",
     "releaseYear": 2025,
-    "releaseMonth": 1,
+    "releaseMonth": 9,
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": 1.4,
@@ -48423,7 +48423,7 @@
     "gearType": "LENS",
     "officialUrl": "https://www.ttartisan.com/?aps-c-lenses/73.html",
     "releaseYear": 2020,
-    "releaseMonth": 10,
+    "releaseMonth": 12,
     "sensorFormat": "APS-C",
     "mounts": [
       {
@@ -58249,7 +58249,7 @@
     "gearType": "CAMERA_BODY",
     "officialUrl": "https://www.casio-intl.com/asia/en/dc/products/ex_mr1/",
     "releaseYear": 2014,
-    "releaseMonth": 12,
+    "releaseMonth": 11,
     "fixedLens": "3.8mm F5 (21mm equiv.)",
     "sensorFormat": "1/2.3-inch",
     "megapixels": "14.0MP",
