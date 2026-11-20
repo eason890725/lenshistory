@@ -10277,7 +10277,7 @@
     "sensorFormat": "Full Frame",
     "image_url": "/images/products/viltrox/85mm-f1-8-af-stm-ii.webp",
     "closeFocus": "0.8m",
-    "releaseMonth": 7,
+    "releaseMonth": 5,
     "minAperture": "16"
   },
   {
@@ -29107,7 +29107,7 @@
     "hasApertureRing": true,
     "image_url": "/images/products/voigtlander/voigtlander-apo-lanthar-28mm-f2-aspherical.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 11,
+    "releaseMonth": 6,
     "retailPrice": 30000,
     "retailPriceDate": "2026-10",
     "hasCustomButton": false
@@ -32526,7 +32526,7 @@
     "sensorFormat": "APS-C",
     "image_url": "/images/products/tokina/tokina-sz-33mm-f1-2-mf.webp",
     "motorType": "Manual focus",
-    "releaseMonth": 5,
+    "releaseMonth": 6,
     "hasCustomButton": false,
     "retailPrice": 12990,
     "retailPriceDate": "2026-11"
@@ -35049,7 +35049,7 @@
     "sensorFormat": "Medium Format",
     "motorType": "Manual focus",
     "hasApertureRing": true,
-    "releaseMonth": 8,
+    "releaseMonth": 7,
     "image_url": "/images/products/mitakon/mitakon-zhongyi-pittura-30mm-f2-4.webp",
     "hasCustomButton": false
   },
@@ -35659,7 +35659,7 @@
     "sensorFormat": "Full Frame",
     "motorType": "STM",
     "image_url": "/images/products/sirui/sirui-aurora-35mm-f1-4.webp",
-    "releaseMonth": 10,
+    "releaseMonth": 9,
     "specialElements": "2 ED, 1 SED, 2 HRI, 3 Aspherical",
     "coatings": "Anti-smudge fluorine coating",
     "hasApertureRing": true,
@@ -44187,7 +44187,7 @@
       }
     ],
     "image_url": "/images/products/brightin-star/brightin-star-af-12mm-f2-8.webp",
-    "releaseMonth": 4,
+    "releaseMonth": 5,
     "retailPrice": 19600,
     "retailPriceDate": "2026-10"
   },
@@ -46210,7 +46210,7 @@
       }
     ],
     "image_url": "/images/products/nisi/nisi-250mm-f5-6-reflex-mf.webp",
-    "releaseMonth": 3
+    "releaseMonth": 7
   },
   {
     "id": "nisi-16mm-f2-8-medium-format-asph",
@@ -47692,7 +47692,7 @@
     "officialUrl": "https://www.thypoch.com/en/simera-c/16-21-28-35-50-75mm",
     "series": "Simera-C",
     "releaseYear": 2024,
-    "releaseMonth": 9,
+    "releaseMonth": 10,
     "focalLengthMinMm": 28,
     "focalLengthMaxMm": 28,
     "apertureMax": "T1.5",
@@ -47728,7 +47728,7 @@
     "officialUrl": "https://www.thypoch.com/en/simera-c/16-21-28-35-50-75mm",
     "series": "Simera-C",
     "releaseYear": 2024,
-    "releaseMonth": 9,
+    "releaseMonth": 10,
     "focalLengthMinMm": 35,
     "focalLengthMaxMm": 35,
     "apertureMax": "T1.5",
@@ -47764,7 +47764,7 @@
     "officialUrl": "https://www.thypoch.com/en/simera-c/16-21-28-35-50-75mm",
     "series": "Simera-C",
     "releaseYear": 2024,
-    "releaseMonth": 9,
+    "releaseMonth": 10,
     "focalLengthMinMm": 50,
     "focalLengthMaxMm": 50,
     "apertureMax": "T1.5",
@@ -47878,7 +47878,7 @@
     "gearType": "LENS",
     "officialUrl": "https://www.ttartisan.com/?af-lens/AF-56.html",
     "releaseYear": 2024,
-    "releaseMonth": 4,
+    "releaseMonth": 3,
     "sensorFormat": "APS-C",
     "mounts": [
       {
@@ -52862,7 +52862,7 @@
     "gearType": "LENS",
     "officialUrl": "https://www.laowalens.com/camera-lens-18",
     "releaseYear": 2018,
-    "releaseMonth": 3,
+    "releaseMonth": 2,
     "focalLengthMinMm": 9,
     "focalLengthMaxMm": 9,
     "apertureMax": 2.8,
@@ -59783,7 +59783,7 @@
     "evfMagnification": "None",
     "burstSpeed": "30fps",
     "ports": "USB 3.0",
-    "releaseMonth": 4,
+    "releaseMonth": 9,
     "hasIBIS": false
   },
   {
@@ -64168,7 +64168,7 @@
     ],
     "image_url": "/images/products/kamlan/kamlan-55mm-f1-4.webp",
     "hasApertureRing": true,
-    "releaseMonth": 2,
+    "releaseMonth": 8,
     "dimensions": "Ø76.5 x 60 mm",
     "hasCustomButton": false
   },
