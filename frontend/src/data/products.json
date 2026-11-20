@@ -31982,7 +31982,7 @@
     "sensorFormat": "Full Frame",
     "hasOIS": false,
     "hasCustomButton": false,
-    "releaseMonth": 9,
+    "releaseMonth": 8,
     "image_url": "/images/products/samyang/samyang-remaster-slim-28mm-f3-5-fe.webp",
     "weightGrams": 12.5
   },
@@ -32015,7 +32015,7 @@
     "sensorFormat": "Full Frame",
     "hasOIS": false,
     "hasCustomButton": false,
-    "releaseMonth": 9,
+    "releaseMonth": 8,
     "image_url": "/images/products/samyang/samyang-remaster-slim-32mm-f2-8-fe.webp",
     "weightGrams": 67
   },
@@ -49736,7 +49736,7 @@
     "image_url": "/images/products/ttartisans/ttartisans-35mm-t2-1-dual-bokeh-cine.webp",
     "retailPrice": 9450,
     "retailPriceDate": "2026-10",
-    "releaseMonth": 5
+    "releaseMonth": 4
   },
   {
     "id": "ttartisans-50mm-t2-1-dual-bokeh-cine",
@@ -58529,7 +58529,7 @@
     "modelName": "Casio EXILIM EX-H50",
     "gearType": "CAMERA_BODY",
     "releaseYear": 2012,
-    "releaseMonth": 10,
+    "releaseMonth": 9,
     "fixedLens": "F3-6.9 (25-600mm equiv.)",
     "sensorFormat": "1/2.3-inch",
     "megapixels": "16.1MP",
@@ -58618,7 +58618,7 @@
     "modelName": "Casio EXILIM EX-N10",
     "gearType": "CAMERA_BODY",
     "releaseYear": 2012,
-    "releaseMonth": 8,
+    "releaseMonth": 7,
     "fixedLens": "F3.2-6.5 (26-130mm equiv.)",
     "sensorFormat": "1/2.3-inch",
     "megapixels": "16.1MP",
@@ -58641,7 +58641,7 @@
     "modelName": "Casio EXILIM EX-N1",
     "gearType": "CAMERA_BODY",
     "releaseYear": 2012,
-    "releaseMonth": 8,
+    "releaseMonth": 7,
     "fixedLens": "F3.2-6.5 (26-130mm equiv.)",
     "sensorFormat": "1/2.3-inch",
     "megapixels": "16.1MP",
